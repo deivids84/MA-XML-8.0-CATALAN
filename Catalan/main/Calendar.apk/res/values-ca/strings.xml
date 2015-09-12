@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">Añadir asistente</string>
   <string name="accessibility_add_reminder">Añadir recordatorio</string>
@@ -41,7 +41,7 @@
   <string name="alert_title">Notificaciones de calendario</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">aniversario</string>
-  <string name="app_label">Calendario</string>
+  <string name="app_label">Calendari</string>
   <string name="attendees_label">Invitados</string>
   <string name="birthday_calendar_display_name">Recordatorio de cumpleaños</string>
   <string name="birthday_event_description">"¡Hoy es el %4$s de %1$s!"</string>

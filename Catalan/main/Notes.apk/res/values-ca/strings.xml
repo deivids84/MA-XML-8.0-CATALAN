@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">¿Sincronizar tus notas con tu cuenta de Mi?</string>
-  <string name="alarm_bar_title">Recordatorio</string>
+  <string name="add_account_desc">Sincronitzar les teves notes amb el teu compte Mi?</string>
+  <string name="alarm_bar_title">Recordatori</string>
   <string name="alert_action_edit_anyway">Seguir editando</string>
   <string name="alert_edit_action_delete">Quitar</string>
   <string name="alert_edit_action_update">Modificar</string>
@@ -10,13 +10,13 @@
   <string name="alert_message_edit_anyway">Si se edita esta nota puede perderse parte de su contenido.</string>
   <string name="alert_title_delete">Eliminar nota</string>
   <string name="alert_title_edit_anyway">Esta nota contiene contenido no soportado</string>
-  <string name="app_name">Notas</string>
-  <string name="app_widget">Notas</string>
-  <string name="attachment_camera">Cámara</string>
-  <string name="attachment_contact">Contactos</string>
-  <string name="attachment_gallery">Galería</string>
-  <string name="button_new_note">Nueva nota</string>
-  <string name="call_record_folder_name">Notas de llamada</string>
+  <string name="app_name">Notes</string>
+  <string name="app_widget">Notes</string>
+  <string name="attachment_camera">Càmera</string>
+  <string name="attachment_contact">Contactes</string>
+  <string name="attachment_gallery">Galeria</string>
+  <string name="button_new_note">Nova nota</string>
+  <string name="call_record_folder_name">Notes de trucada</string>
   <string name="default_folder_name">Carpeta sin nombre</string>
   <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando el timbre está silenciado.</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmas</string>

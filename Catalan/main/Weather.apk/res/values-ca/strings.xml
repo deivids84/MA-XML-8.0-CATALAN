@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
@@ -6,10 +6,10 @@
     <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
     <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
     <string name="activity_weather_main_null_data">- -</string>
-    <string name="app_name">Tiempo</string>
-    <string name="location_management">Ubicaciones</string>
-    <string name="gps_hint">Ubicación actual</string>
-    <string name="add_city">Añadir</string>
+    <string name="app_name">Temps</string>
+    <string name="location_management">Ubicacions</string>
+    <string name="gps_hint">Ubicació actual</string>
+    <string name="add_city">Afegir</string>
     <string name="edit_city">Editar</string>
     <string name="network_unavailable">No se puede conectar a la red.</string>
     <string name="act_find_city_hot_title">Añadir</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"No se pudo acceder al almacenamiento USB."</string>
   <string name="accessibility_camera_picker">Alternar entre cámara frontal y trasera</string>
@@ -17,7 +17,7 @@
   <string name="burst_shoot_exit_button_text">Cerrar disparo en ráfaga</string>
   <string name="camera_disabled">La cámara ha sido desactivada</string>
   <string name="camera_error_title">Error de cámara</string>
-  <string name="camera_label">Cámara</string>
+  <string name="camera_label">Càmera</string>
   <string name="camera_settings_label">Cámara</string>
   <string name="camera_snap_mode_title">Modo disparo rápido</string>
   <string name="camera_snap_mode_title_detail">Tocar para ver detalles</string>
