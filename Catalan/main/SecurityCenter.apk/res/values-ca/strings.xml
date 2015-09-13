@@ -9,9 +9,9 @@
     <string name="title_antivirus">Política de Privacitat de Tencent</string>
     <string name="header_antivirus">Aquesta funcionalitat xifra i puja la ID del dispositiu als servidors de Tencent (%s).</string>
     <string name="name_antivirus">Veure Política de Privacitat</string>
-    <string name="text_antivirus">Pujar nom d&#39;aplicacions i detalls</string>
+    <string name="text_antivirus">Pujar nom d\'aplicacions i detalls</string>
     <string name="text_antivirus_oversea">Actualitzar definicions de virus</string>
-    <string name="summary_antivirus">Pujar noms i detalls d&#39;aplicació i escanejar utilitzant definicions de virus en línia</string>
+    <string name="summary_antivirus">Pujar noms i detalls d\'aplicació i escanejar utilitzant definicions de virus en línia</string>
     <string name="summary_antivirus_oversea">Actualizar definiciones de virus automáticamente</string>
     <string name="button_antivirus">Aceptar</string>
     <string name="power_center_title">Energia</string>
