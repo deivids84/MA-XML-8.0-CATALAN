@@ -7,11 +7,11 @@
   <string name="emergency_call_string">Emergències</string>
   <string name="experimental_try_string">Provar</string>
   <string name="experimental_validate">Validar</string>
-  <string name="experimental_validate_fail">"No s'ha pogut iniciar sessió"</string>
+  <string name="experimental_validate_fail">"No s&#39ha pogut iniciar sessió"</string>
   <string name="experimental_validate_password">Contrasenya</string>
   <string name="experimental_validate_progress">Iniciant sessió...</string>
   <string name="experimental_validate_thanks">Gràcies!</string>
-  <string name="experimental_validate_username">Nom d'usuari</string>
+  <string name="experimental_validate_username">Nom d&#39usuari</string>
   <string name="experimental_validate_warning">Gràcies per ajudar a millorar MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Desactivar el mode avió</string>
   <string name="forget_password_string">He oblidat la contrasenya</string>
