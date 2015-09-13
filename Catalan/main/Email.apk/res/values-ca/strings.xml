@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Folders">Carpetas</string>
+  <string name="Folders">Carpetes</string>
   <string name="SMTP_independent_verification_text">Verificación independiente SMTP</string>
   <string name="SMTP_password_text">Contraseña</string>
   <string name="SMTP_username_text">Nombre de usuario</string>
@@ -147,7 +147,7 @@
   <string name="allread">Leido todo</string>
   <string name="always_bcc_myself">Bcc siempre yo mismo</string>
   <string name="always_show_images">Siempre Mostrar imágenes de este remitente</string>
-  <string name="app_name">Correo</string>
+  <string name="app_name">Correu</string>
   <string name="archive">Archivo</string>
   <string name="archived">Archivado</string>
   <string name="att_download_failed_content">Descarga fallida</string>

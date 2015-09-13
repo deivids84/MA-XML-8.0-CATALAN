@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cta_dialog_title">Términos y condiciones.</string>
-    <string name="cta_dialog_msg">El centro de seguridad puede conectar a internet para obtener actualizaciones.</string>
-    <string name="cta_checkbox_title">No mostrar de nuevo</string>
-    <string name="cta_button_text_cancel">Cancelar</string>
-    <string name="cta_button_text_agree">Aceptar</string>
-    <string name="cta_settings">Permitir conexión a internet</string>
-    <string name="title_antivirus">Política de Privacidad de Tencent</string>
-    <string name="header_antivirus">Esta funcionalidad cifra y sube la ID de su dispositivo a los servidores de Tencent (%s).</string>
-    <string name="name_antivirus">ver Política de Privacidad</string>
-    <string name="text_antivirus">Subir nombre de aplicaciones y detalles</string>
-    <string name="text_antivirus_oversea">Actualizar definiciones de virus</string>
-    <string name="summary_antivirus">Subir nombres y detalles de aplicación y escanear usando definiciones de virus en línea</string>
+    <string name="cta_dialog_title">Termes i condicions.</string>
+    <string name="cta_dialog_msg">El centre de seguretat pot connectar a internet per obtenir actualitzacions.</string>
+    <string name="cta_checkbox_title">No mostrar de nou</string>
+    <string name="cta_button_text_cancel">Cancel·lar</string>
+    <string name="cta_button_text_agree">Acceptar</string>
+    <string name="cta_settings">Permetre connexió a internet</string>
+    <string name="title_antivirus">Política de Privacitat de Tencent</string>
+    <string name="header_antivirus">Aquesta funcionalitat xifra i puja la ID del dispositiu als servidors de Tencent (%s).</string>
+    <string name="name_antivirus">Veure Política de Privacitat</string>
+    <string name="text_antivirus">Pujar nom d'aplicacions i detalls</string>
+    <string name="text_antivirus_oversea">Actualitzar definicions de virus</string>
+    <string name="summary_antivirus">Pujar noms i detalls d'aplicació i escanejar utilitzant definicions de virus en línia</string>
     <string name="summary_antivirus_oversea">Actualizar definiciones de virus automáticamente</string>
     <string name="button_antivirus">Aceptar</string>
     <string name="power_center_title">Energia</string>

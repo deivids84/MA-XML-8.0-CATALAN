@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="music_audio_effect_optimize">Ajustes de audio</string>
-    <string name="music_audio_effect_optimize_summary">Dirac, auriculares y otros ajustes de audio</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculares and otros ajustes de audio</string>
-    <string name="music_headset_settings">Auriculares</string>
-    <string name="music_headset_button_settings">Asignar botones de control remoto</string>
+    <string name="music_audio_effect_optimize">Ajustaments d'àudio</string>
+    <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres ajustos d'àudio</string>
+    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculars i altres ajustos d'àudio</string>
+    <string name="music_headset_settings">Auriculars</string>
+    <string name="music_headset_button_settings">Assignar botons de control remot</string>
     <string name="music_headset_mode_settings">Botones del control remoto de auriculares</string>
     <string name="music_headset_mode_volume">Control de nivel de volumen</string>
     <string name="music_headset_mode_music">Control de reproducción de música</string>
