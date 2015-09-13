@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="music_audio_effect_optimize">Ajustaments d&#39àudio</string>
+    <string name="music_audio_effect_optimize">Ajustaments d&#39;àudio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres ajustos d&#39;àudio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculars i altres ajustos d&#39;àudio</string>
     <string name="music_headset_settings">Auriculars</string>
