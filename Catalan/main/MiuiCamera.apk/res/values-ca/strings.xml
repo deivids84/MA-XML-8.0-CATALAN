@@ -72,8 +72,6 @@
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Detrás</string>
   <string name="pref_audio_focus_title">Foco de audio</string>
-  <string name="pref_audio_indicator_entry_off">Desactivar audio</string>
-  <string name="pref_audio_indicator_entry_on">Activar audio</string>
   <string name="pref_burst_shoot_title">Disparo en ráfaga</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Ajustes de la cámara</string>
@@ -87,9 +85,9 @@
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capturar de manera automática cuando la cámara se estabilize</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash Chroma</string>
-  <string name="pref_camera_autoexposure_entry_centerweighted">Centro ponderado</string>
-  <string name="pref_camera_autoexposure_entry_frameaverage">Promedio de marco</string>
-  <string name="pref_camera_autoexposure_entry_spotmetering">Medición de puntos</string>
+  <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada al centro</string>
+  <string name="pref_camera_autoexposure_entry_frameaverage">Promedio del fotograma</string>
+  <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_autoexposure_title">Ajustes de exposición automática</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Amanecer</string>
@@ -135,12 +133,14 @@
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automático</string>
   <string name="pref_camera_facedetection_title">Detección facial</string>
+  <string name="pref_camera_fisheye_title">Ojo de pez</string>
   <string name="pref_camera_flashmode_entry_auto">Automático</string>
   <string name="pref_camera_flashmode_entry_off">Apagado</string>
   <string name="pref_camera_flashmode_entry_on">Encendido</string>
   <string name="pref_camera_flashmode_entry_torch">Flash</string>
   <string name="pref_camera_flashmode_title">Modo de flash</string>
   <string name="pref_camera_focusmode_entry_auto">Automático</string>
+  <string name="pref_camera_focusmode_entry_continuous">Autofoco continuo</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinito</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
@@ -214,7 +214,7 @@
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estándar 4:3</string>
-  <string name="pref_camera_picturesize_title_simple_mode">Marco de cámara</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Formato de cámara</string>
   <string name="pref_camera_recordlocation_entry_off">Apagado</string>
   <string name="pref_camera_recordlocation_entry_on">Encendido</string>
   <string name="pref_camera_recordlocation_title">Guardar localización</string>
@@ -248,6 +248,7 @@
   <string name="pref_camera_snap_enable_summary">Cuando la pantalla esté apagada, pulsa y mantén el botón de bajar volumen para entrar en el Modo disparo rápido. Púlsalo de nuevo para sacar una foto.</string>
   <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_sound_title">Sonidos de cámara</string>
+  <string name="pref_camera_tilt_shift_title">Efecto diorama</string>
   <string name="pref_camera_touchafaec_entry_off">Apagado</string>
   <string name="pref_camera_touchafaec_entry_on">Encendido</string>
   <string name="pref_camera_ubifocus_title">Reenfocar</string>
@@ -286,6 +287,7 @@
   <string name="pref_simple_hdr_entry_on">Encendido</string>
   <string name="pref_video_captrue_ability_title">Captura de imágenes</string>
   <string name="pref_video_focusmode_entry_auto">Pulsar</string>
+  <string name="pref_video_focusmode_entry_continuous">Autofoco continuo</string>
   <string name="pref_video_focusmode_title">Modo de enfoque</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
@@ -322,10 +324,12 @@
   <string name="setting_top_text">Opciones</string>
   <string name="simple_mode_button_asd_flash">Cerrar captura flash</string>
   <string name="simple_mode_button_asd_hdr">Cerrar captura HDR</string>
+  <string name="simple_mode_button_text_audio_capture">Cerrar disparador de audio</string>
   <string name="simple_mode_button_text_color_effect">Cerrar filtro</string>
   <string name="simple_mode_button_text_delay_capture">Cerrar cuenta atrás</string>
   <string name="simple_mode_button_text_face_beauty">Cerrar embellecedor</string>
   <string name="simple_mode_button_text_fast_video">Cerrar cámara a velocidad lenta</string>
+  <string name="simple_mode_button_text_fisheye">Cerrar ojo de pez</string>
   <string name="simple_mode_button_text_gradienter">Cerrar degradado</string>
   <string name="simple_mode_button_text_hand_night">Cerrar modo noche</string>
   <string name="simple_mode_button_text_hdr">Cerrar modo HDR</string>
@@ -333,6 +337,7 @@
   <string name="simple_mode_button_text_panorama">Cerrar modo panorámica</string>
   <string name="simple_mode_button_text_scene">Cerrar modo escena</string>
   <string name="simple_mode_button_text_slow_video">Cerrar cámara a velocidad rápida</string>
+  <string name="simple_mode_button_text_tilt_shift">Cerrar efecto diorama</string>
   <string name="simple_mode_button_text_ubifocus">Cerrar modo de reenfoque</string>
   <string name="snapshot_lower_than_video">La resolución de la instantánea de vídeo es menor que el tamaño de vídeo. Seleccione una resolución mayor o igual que el tamaño actual del vídeo.</string>
   <string name="snapshotsize_low_powermode">"La resolución de la imagen no está soportada por la configuración actual de gestión de energía. Se utilizará una instantánea de tamaño del vídeo."</string>
