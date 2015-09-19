@@ -11,6 +11,7 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+<<<<<<< HEAD:Catalan/main/DeskClock.apk/res/values-ca/plurals.xml
     </plurals>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d segundos</item>
@@ -24,4 +25,15 @@
         <item quantity="other">Retrasar %d mins</item>
         <item quantity="one">Retrasar %d min</item>
     </plurals>
+=======
+     </plurals>
+     <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Retrasar por %d minutos.</item>
+        <item quantity="one">Retrasar por %d minuto.</item>
+     </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Las alarmas se silenciarán tras %d minutos</item>
+        <item quantity="one">Las alarmas se silenciarán tras %d minuto</item>
+     </plurals>
+>>>>>>> ingbrzy/master:Spanish/main/DeskClock.apk/res/values-es/plurals.xml
 </resources>

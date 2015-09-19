@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="moon_desc">
-        <item>Luna nueva</item>
-        <item>Luna creciente 25%</item>
-        <item>Cuarto creciente</item>
-        <item>Luna creciente 75%</item>
-        <item>Luna llena</item>
-        <item>Luna menguante 75%</item>
-        <item>Cuarto menguante</item>
-        <item>Luna menguante 25%</item>
-        <item>Luna nueva</item>
+        <item>Lluna nova</item>
+        <item>Lluna creixent 25%</item>
+        <item>Quart creixent</item>
+        <item>Lluna creixent 75%</item>
+        <item>Lluna plena</item>
+        <item>Lluna minvant 75%</item>
+        <item>Quart minvant</item>
+        <item>Lluna minvant 25%</item>
+        <item>Lluna nova</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Soleado</item>
-        <item>Nublado</item>
-        <item>Neblina</item>
-        <item>Niebla</item>
-        <item>Tormenta fuerte</item>
-        <item>Aguacero</item>
-        <item>Tormenta</item>
-        <item>Truenos</item>
-        <item>Chubasco</item>
-        <item>Fuerte lluvia</item>
-        <item>Llovizna</item>
-        <item>Lluvia ligera</item>
-        <item>Lluvia y nieve</item>
-        <item>Ventisca</item>
-        <item>Nieve</item>
-        <item>Fuerte nevada</item>
-        <item>Nieve moderada</item>
-        <item>Nieve ligera</item>
-        <item>Fuerte tormenta de arena</item>
-        <item>Tormenta de arena</item>
+        <item>Assolellat</item>
+        <item>Ennuvolat</item>
+        <item>Boirina</item>
+        <item>Boira</item>
+        <item>Tempesta forta</item>
+        <item>Xàfec</item>
+        <item>Tempesta</item>
+        <item>Trons</item>
+        <item>Ruixat</item>
+        <item>Pluja forta</item>
+        <item>Plugim</item>
+        <item>Pluja lleugera</item>
+        <item>Pluja i neu</item>
+        <item>Torb</item>
+        <item>Neu</item>
+        <item>Forta nevada</item>
+        <item>Neu moderada</item>
+        <item>Neu lleugera</item>
+        <item>Forta tempesta de sorra</item>
+        <item>Tempesta de sorra</item>
         <item>Calima</item>
-        <item>Ventoso</item>
-        <item>Granizo</item>
-        <item>Polvo</item>
-        <item>Niebla</item>
-        <item>Lluvia helada</item>
-        <item>Sin datos</item>
+        <item>Ventos</item>
+        <item>Calamarsa</item>
+        <item>Pols</item>
+        <item>Boira</item>
+        <item>Pluja gelada</item>
+        <item>Sense dades</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Mínimo</item>
-        <item>Débil</item>
-        <item>Medio</item>
-        <item>Fuerte</item>
-        <item>Más fuerte</item>
+        <item>Baix</item>
+        <item>Moderat</item>
+        <item>Alt</item>
+        <item>Molt alt</item>
+        <item>Extrem</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Viento N</item>
-        <item>Viento NE</item>
-        <item>Viento E</item>
-        <item>Viento SE</item>
-        <item>Viento S</item>
-        <item>Viento SO</item>
-        <item>Viento O</item>
-        <item>Viento NO</item>
+        <item>Vent N</item>
+        <item>Vent NE</item>
+        <item>Vent E</item>
+        <item>Vent SE</item>
+        <item>Vent S</item>
+        <item>Vent SO</item>
+        <item>Vent O</item>
+        <item>Vent NO</item>
     </string-array>
 </resources>

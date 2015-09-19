@@ -27,32 +27,32 @@
   <string name="lock_screen_date">E dd/MM</string>
   <string name="lockscreen_access_pattern_cell_added">Patró afegit</string>
   <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
-  <string name="lockscreen_access_pattern_detected">Patrón completado</string>
-  <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
-  <string name="lockscreen_charging_msg">Cargando</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, el teléfono se reiniciará a valores de fábrica y se perderán todos los datos de usuario.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introducido su contraseña incorrectamente %d veces. Después de %d intentos incorrectos más, se le pedirá que desbloquee el teléfono iniciando sesión en su cuenta.
+  <string name="lockscreen_access_pattern_detected">Patró completat</string>
+  <string name="lockscreen_access_pattern_start">Patró iniciat</string>
+  <string name="lockscreen_charging_msg">Carregant</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introduït la contrasenya incorrectament %d vegades. Després de %d intents incorrectes més, el telèfon es reiniciarà a valors de fàbrica i es perdran totes les dades d\'usuari.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introduït la contrasenya incorrectament %d vegades. Després de %d intents incorrectes més, se li demanarà que desbloquegi el telèfon iniciant la sessió al compte.
 
-Inténtelo de nuevo en %d segundos."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Ha intentado desbloquear incorrectamente el teléfono %d veces. El teléfono se reiniciará ahora a valores de fábrica.</string>
-  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-  <string name="lockscreen_glogin_invalid_input">Contraseña o nombre de usuario no válido.</string>
-  <string name="lockscreen_glogin_password_hint">Contraseña</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a i.mi.com</string>
-  <string name="missed_call_text">%d llamadas perdidas</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquear por el dispositivo Bluetooth</string>
-  <string name="open_camera_hint_text">Deslice hacia la izquierda para abrir Cámara</string>
-  <string name="open_remote_center_hint_text">Deslice hacia la derecha para abrir Teléfono</string>
-  <string name="open_wifi_settings">Conexión a red abierta</string>
-  <string name="phone_locked_string">El teléfono ha sido bloqueado</string>
-  <string name="phone_locked_timeout_minutes_string">Inténtelo de nuevo en %s minutos</string>
-  <string name="phone_locked_timeout_seconds_string">Inténtelo de nuevo en %s segundos</string>
-  <string name="unlock_sim_string">Desbloquear SIM</string>
-  <string name="unlock_string">Desbloquear</string>
-  <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
-  <string name="unlockscreen_low_battery">Conecte el cargador.</string>
+Intenteu-ho de nou en %d segons. "</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Ha intentat desbloquejar incorrectament el telèfon %d vegades. El telèfon es reiniciarà ara a valors de fàbrica.</string>
+  <string name="lockscreen_glogin_checking_password">Comprovant…</string>
+  <string name="lockscreen_glogin_invalid_input">Contrasenya o nom d\'usuari no vàlid.</string>
+  <string name="lockscreen_glogin_password_hint">Contraseya</string>
+  <string name="lockscreen_glogin_submit_button">Inicia la sessió</string>
+  <string name="login_website_in_case_forget_password">Per restablir la contrasenya, aneu a i.mi.com</string>
+  <string name="missed_call_text">%d trucades perdudes</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejar pel dispositiu Bluetooth</string>
+  <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir Càmera</string>
+  <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir Telèfon</string>
+  <string name="open_wifi_settings">Connexió a xarxa oberta</string>
+  <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
+  <string name="phone_locked_timeout_minutes_string">Intenteu-ho de nou en %s minuts</string>
+  <string name="phone_locked_timeout_seconds_string">Intenteu-ho de nou en %s segons</string>
+  <string name="unlock_sim_string">Desbloquejar SIM</string>
+  <string name="unlock_string">Desbloquejar</string>
+  <string name="unlocking_sim_card">Desbloquejant la targeta SIM</string>
+  <string name="unlockscreen_low_battery">Connecteu el carregador.</string>
   <string name="unlockscreen_recharge_completed">Bateria plena</string>
-  <string name="unlockscreen_recharging_message">Cargando %d %%</string>
-  <string name="wrong_password">Contraseña incorrecta</string>
+  <string name="unlockscreen_recharging_message">Carregant %d %%</string>
+  <string name="wrong_password">Contrasenya incorrecta</string>
 </resources>

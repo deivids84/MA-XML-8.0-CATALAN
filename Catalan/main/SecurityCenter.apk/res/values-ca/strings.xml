@@ -12,25 +12,25 @@
     <string name="text_antivirus">Pujar nom d\'aplicacions i detalls</string>
     <string name="text_antivirus_oversea">Actualitzar definicions de virus</string>
     <string name="summary_antivirus">Pujar noms i detalls d\'aplicació i escanejar utilitzant definicions de virus en línia</string>
-    <string name="summary_antivirus_oversea">Actualizar definiciones de virus automáticamente</string>
-    <string name="button_antivirus">Aceptar</string>
+    <string name="summary_antivirus_oversea">Actualitzar definicions de virus automàticament</string>
+    <string name="button_antivirus">Acceptar</string>
     <string name="power_center_title">Energia</string>
-    <string name="power_center_consume_rank">Uso de la batería</string>
-    <string name="power_center_custom_title">Perfiles de batería</string>
-    <string name="power_center_auto_shutdown">Programar encendido y apagado</string>
-    <string name="power_center_auto_shutdown_summary_default">Encender o apagar su dispositivo en un tiempo programado</string>
-    <string name="power_center_ontime_boot">Hora de encendido</string>
-    <string name="power_center_time_to_boot">Hora de encendido</string>
+    <string name="power_center_consume_rank">Ús de la bateria</string>
+    <string name="power_center_custom_title">Perfils de bateria</string>
+    <string name="power_center_auto_shutdown">Programar encès i apagat</string>
+    <string name="power_center_auto_shutdown_summary_default">Encendre o apagar el dispositiu en un temps programat</string>
+    <string name="power_center_ontime_boot">Hora d'encesa</string>
+    <string name="power_center_time_to_boot">Hora d'encesa</string>
     <string name="power_center_repeat">Repetir</string>
-    <string name="power_center_ontime_shutdown">Hora de apagado</string>
-    <string name="power_center_time_to_shutdown">Hora de apagado</string>
-    <string name="power_center_custom_summary_default">Mejorar la vida de la batería con los perfiles personalizados</string>
-    <string name="power_center_low_battery_title">Economizador de batería</string>
-    <string name="power_center_low_battery_summary_default">Cambiar perfil cuando la batería esté baja</string>
-    <string name="power_center_low_battery_summary_dynamic">"Cuando quede un %1$d%%
-cambiar a %2$s"</string>
-    <string name="power_center_on_time_title">Programar cambio de perfil</string>
-    <string name="power_center_on_time_summary_default">Cambiar perfil de batería a la hora programada</string>
+    <string name="power_center_ontime_shutdown">Hora d'apagada</string>
+    <string name="power_center_time_to_shutdown">Hora d'apagada</string>
+    <string name="power_center_custom_summary_default">Millorar la vida de la bateria amb els perfils personalitzats</string>
+    <string name="power_center_low_battery_title">Estalviador de bateria</string>
+    <string name="power_center_low_battery_summary_default">Canviar el perfil quan la bateria estigui baixa</string>
+    <string name="power_center_low_battery_summary_dynamic">"Quan quedi un %1$d%%
+canviar a %2$s"</string>
+    <string name="power_center_on_time_title">Programar canvi de perfil</string>
+    <string name="power_center_on_time_summary_default">Canvia el perfil de bateria a l'hora programada</string>
     <string name="power_center_on_time_summary_dynamic">"Desde %1$s a %2$s
 cambiar a %3$s"</string>
     <string name="power_center_state_on">Activado</string>
@@ -243,7 +243,7 @@ cambiar a %3$s"</string>
     <string name="battery_stats_wifi_running_label">WiFi</string>
     <string name="battery_stats_wake_lock_label">Despertar</string>
     <string name="battery_stats_phone_signal_label">Señal de red móvil</string>
-    <string name="app_name_securitycenter">Seguridad</string>
+    <string name="app_name_securitycenter">Seguretat</string>
     <string name="ok">Aceptar</string>
     <string name="cancel">Cancelar</string>
     <string name="score_pts">%</string>
