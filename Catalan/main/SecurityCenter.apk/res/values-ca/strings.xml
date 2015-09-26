@@ -19,18 +19,18 @@
     <string name="power_center_custom_title">Perfils de bateria</string>
     <string name="power_center_auto_shutdown">Programar encès i apagat</string>
     <string name="power_center_auto_shutdown_summary_default">Encendre o apagar el dispositiu en un temps programat</string>
-    <string name="power_center_ontime_boot">Hora d'encesa</string>
-    <string name="power_center_time_to_boot">Hora d'encesa</string>
+    <string name="power_center_ontime_boot">Hora d\'encesa</string>
+    <string name="power_center_time_to_boot">Hora d\'encesa</string>
     <string name="power_center_repeat">Repetir</string>
-    <string name="power_center_ontime_shutdown">Hora d'apagada</string>
-    <string name="power_center_time_to_shutdown">Hora d'apagada</string>
+    <string name="power_center_ontime_shutdown">Hora d\'apagada</string>
+    <string name="power_center_time_to_shutdown">Hora d\'apagada</string>
     <string name="power_center_custom_summary_default">Millorar la vida de la bateria amb els perfils personalitzats</string>
     <string name="power_center_low_battery_title">Estalviador de bateria</string>
     <string name="power_center_low_battery_summary_default">Canviar el perfil quan la bateria estigui baixa</string>
     <string name="power_center_low_battery_summary_dynamic">"Quan quedi un %1$d%%
 canviar a %2$s"</string>
     <string name="power_center_on_time_title">Programar canvi de perfil</string>
-    <string name="power_center_on_time_summary_default">Canvia el perfil de bateria a l'hora programada</string>
+    <string name="power_center_on_time_summary_default">Canvia el perfil de bateria a l\'hora programada</string>
     <string name="power_center_on_time_summary_dynamic">"Desde %1$s a %2$s
 cambiar a %3$s"</string>
     <string name="power_center_state_on">Activado</string>
@@ -323,6 +323,7 @@ cambiar a %3$s"</string>
     <string name="hints_last_virus_scan_risk">Escaneado hace %d días: Sospechoso</string>
     <string name="hints_last_virus_scan_virus">Escaneado hace %d días: Peligroso</string>
     <string name="hints_need_quick_scan">Se recomienda escaneo rápido</string>
+    <string name="hints_need_regular_scan">Escanea tu dispositivo regularmente</string>
     <string name="hints_handle_item_text_safe">Seguro</string>
     <string name="hints_handle_item_text_risk">Riesgos: %d</string>
     <string name="hints_handle_item_text_virus">Virus: %d</string>

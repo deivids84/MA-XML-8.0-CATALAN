@@ -90,7 +90,7 @@
   <string name="baby_album_sharers_page_title">Compartir con familiares</string>
   <string name="baby_birthday">Cumpleaños</string>
   <string name="baby_lock_wallpaper">Fondo de pantalla de bloqueo</string>
-  <string name="baby_lock_wallpaper_cancelled">Cambiado a fondo de pantalla de bloqueo por defecto</string>
+  <string name="baby_lock_wallpaper_cancelled">Restaurado fondo de pantalla de bloqueo por defecto</string>
   <string name="baby_lock_wallpaper_save_settings_msg">¿Aplicar ajustes actuales?</string>
   <string name="baby_lock_wallpaper_title">Usar fotos del bebé como fondos de la pantalla de bloqueo</string>
   <string name="baby_name_cannot_empty">Introducir nombre</string>
@@ -122,7 +122,7 @@
   <string name="camera_setas_wallpaper">Fondo de pantalla</string>
   <string name="camera_view_none_message">Las fotos y vídeos que tome con la aplicación Cámara se mostrarán aquí.</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">¿Cancelar fondo de bebé y volver al fondo de pantalla de bloqueo por defecto?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">¿Restaurar fondo de pantalla de bloqueo por defecto?</string>
   <string name="cancel_hint">Operación cancelada</string>
   <string name="cannot_delete_sharer_photo">"No se pueden borrar %s elementos subidos por otros miembros."</string>
   <string name="cannot_remove_creator">"No se puede quitar el creador"</string>
@@ -750,7 +750,7 @@
   <string name="invite_sharer_title">"Invitar %2$s de %1$s"</string>
   <string name="invite_tip">Compartir fotos de tu bebé</string>
   <string name="invited_tip">Invitado</string>
-  <string name="is">Es</string>
+  <string name="is">Sí</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"No se puede descargar esta foto porque no ha sido sincronizada con su nube."</string>
   <string name="item_not_sync_for_origin_video">"No se puede descargar este vídeo porque no ha sido sincronizado con su nube."</string>
@@ -835,7 +835,7 @@
   <string name="no_thumbnail">Sin miniatura</string>
   <string name="none_picture">Sin imágenes</string>
   <string name="not_auto_create_recent_album">Deshacer crear favoritos</string>
-  <string name="not_is">¿No es %s?</string>
+  <string name="not_is">No</string>
   <string name="not_now">Ahora no</string>
   <string name="not_remind_any_more">No mostrar de nuevo</string>
   <string name="not_show_hidden_albums">No mostrar álbumes ocultos</string>
@@ -950,7 +950,6 @@
   <string name="same_name_album_exists_alert">Ya existe un álbum con el mismo nombre del que intenta compartir, ¿está seguro de querer subir automáticamente las fotos a dicho álbum?</string>
   <string name="saturation">Saturación</string>
   <string name="saturation_abbr">S</string>
-  <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Guardar</string>
   <string name="save_error">"No se pudo guardar la imagen recortada"</string>
   <string name="save_photo">¿Guardar la foto editada?</string>
@@ -969,7 +968,7 @@
   <string name="select_auto_upload_albums">Seleccione álbumes a sincronizar</string>
   <string name="select_image">Seleccionar foto</string>
   <string name="select_item">Modo de edición</string>
-  <string name="select_item_face">"Fotos posibles con '%s'"</string>
+  <string name="select_item_face">"¿Es '%s'?"</string>
   <string name="select_too_much_to_send_tips">"No puede enviar tantos elementos (máximo %d elementos)."</string>
   <string name="select_video">Seleccionar vídeo</string>
   <string name="send">Enviar</string>
@@ -978,9 +977,9 @@
   <string name="send_public_url">Enviar URL del álbum</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Usar como fondo de pantalla de bloqueo</string>
-  <string name="set_baby_icon_picker_default_title">Establecer icono de bebé</string>
-  <string name="set_bg_file_exist_message">Conflicto entre nombres de fotos</string>
-  <string name="set_bg_picker_default_title">Establecer miniatura superior</string>
+  <string name="set_baby_icon_picker_default_title">Establecer miniatura</string>
+  <string name="set_bg_file_exist_message">Este elemento ya existe</string>
+  <string name="set_bg_picker_default_title">Establecer foto de portada</string>
   <string name="set_bg_unknow_reasons">Error desconocido</string>
   <string name="set_hidden_album">Álbum oculto</string>
   <string name="set_label_all_albums">Todo</string>
@@ -1043,6 +1042,7 @@
   <string name="sync_album_in_proecess">Sincronizando el álbum…</string>
   <string name="sync_album_set_error">"No se puede sincronizar estos álbumes. Compruebe la conexión de datos y vuelva a intentarlo."</string>
   <string name="sync_album_summary">Sincronizar con Mi Cloud</string>
+  <string name="sync_battery_low">Batería baja</string>
   <string name="sync_cloud_space_full">Almacenamiento en la nube completo</string>
   <string name="sync_history_power_on">Sincronizar el historial de imágenes sólo durante la carga</string>
   <string name="sync_in_progress_message">Sincronizando…</string>

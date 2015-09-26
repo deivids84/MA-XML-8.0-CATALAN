@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_settings">Acerca del teléfono</string>
-     <string name="about_settings_summary">Ver información legal, estado, versión de software</string>
+     <string name="about_settings">Quant al telèfon</string>
+     <string name="about_settings_summary">Veure informació legal, estat, versió de programar</string>
      <string name="ac_enable_title">Permisos</string>
-     <string name="ac_privacy_mode_sum">Requiere una contraseña para desactivar el modo de invitado</string>
-     <string name="ac_privacy_mode_title">Contraseña</string>
-     <string name="ac_set_apps_title">Bloqueo de aplicaciones</string>
-     <string name="accelerometer_summary_off">No cambiar la orientación automáticamente al girar el teléfono</string>
-     <string name="accelerometer_summary_on">Cambiar la orientación automáticamente al girar el teléfono</string>
-     <string name="accelerometer_title">Rotación automática de pantalla</string>
-     <string name="access_control_app_entry_multiple">Abrir %s</string>
-     <string name="access_control_app_entry_single">Abrir aplicación</string>
-     <string name="access_control_need_password">"%s ha sido protegido"</string>
-     <string name="access_control_need_to_unlock">Contraseña requerida:</string>
-     <string name="access_control_no_back_footer">Toque [icon] para salir</string>
-     <string name="access_control_password_title">Contraseña</string>
-     <string name="access_control_recording_intro_header">Dibuja un patrón de desbloqueo:</string>
-     <string name="access_control_reset_by_account">Inicia sesión en tu cuenta Mi para restablecer contraseña</string>
-     <string name="accessibility_captioning_title">Subtítulos</string>
-	 <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidad es experimental y puede afectar al rendimiento.</string>
-     <string name="accessibility_display_daltonizer_preference_title">Corrección de color</string>
-     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Puede afectar al rendimiento</string>
-     <string name="accessibility_display_inversion_preference_title">Inversión de color</string>
+     <string name="ac_privacy_mode_sum">Requereix una contrasenya per desactivar el mode de convidat</string>
+     <string name="ac_privacy_mode_title">Contrasenya</string>
+     <string name="ac_set_apps_title">Bloqueig d\'aplicacions</string>
+     <string name="accelerometer_summary_off">No canviar l\'orientació automàticament en girar el telèfon</string>
+     <string name="accelerometer_summary_on">Canviar l\'orientació automàticament en girar el telèfon</string>
+     <string name="accelerometer_title">Rotació automàtica de pantalla</string>
+     <string name="access_control_app_entry_multiple">Obrir %s</string>
+     <string name="access_control_app_entry_single">Obrir aplicació</string>
+     <string name="access_control_need_password">"%s ha estat protegit"</string>
+     <string name="access_control_need_to_unlock">Contrasenya requerida:</string>
+     <string name="access_control_no_back_footer">Toqui [icon] per sortir</string>
+     <string name="access_control_password_title">Contrasenya</string>
+     <string name="access_control_recording_intro_header">Dibuixa un patró de desbloqueig:</string>
+     <string name="access_control_reset_by_account">Inicia sessió amb el vostre compte Mi per restablir contrasenya</string>
+     <string name="accessibility_captioning_title">Subtítols</string>
+	 <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta funcionalitat és experimental i pot afectar el rendiment.</string>
+     <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
+     <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pot afectar el rendiment</string>
+     <string name="accessibility_display_inversion_preference_title">Inversió de color</string>
      <string name="accessibility_display_title">Pantalla</string>
-     <string name="accessibility_enable">Accesibilidad</string>
-     <string name="accessibility_feature_state_off">Apagado</string>
-     <string name="accessibility_feature_state_on">Encendido</string>
-     <string name="accessibility_global_gesture_preference_description">"Cuando esta función está activada, rápidamente puede activar las funciones de accesibilidad en dos pasos: 
+     <string name="accessibility_enable">Accessibilitat</string>
+     <string name="accessibility_feature_state_off">Apagat</string>
+     <string name="accessibility_feature_state_on">Encesa</string>
+     <string name="accessibility_global_gesture_preference_description">"Quan aquesta funció està activada, ràpidament pot activar les funcions d'accessibilitat en dos passos:
 
-Paso 1: Presione y mantenga presionado el botón de encendido hasta que oiga un sonido o una vibración.  
+Pas 1: Premeu i mantingueu premut el botó d'encesa fins que sentiu un so o una vibració.
 
-Paso 2: Presione y sostenga con dos dedos hasta que oiga confirmación.  
+Pas 2: Premeu i sostingui amb dos dits fins que sentiu confirmació.
 
-Si el dispositivo tiene múltiples usuarios, usando el acceso directo en la pantalla de bloqueo temporalmente permite accesibilidad hasta que el dispositivo está desbloqueado."</string>
-     <string name="accessibility_global_gesture_preference_summary_off">Apagado</string>
-     <string name="accessibility_global_gesture_preference_summary_on">Encendido</string>
-     <string name="accessibility_global_gesture_preference_title">Método abreviado de accesibilidad</string>
-     <string name="accessibility_long_press_timeout_preference_title">Tocar y pulsación larga</string>
-     <string name="accessibility_menu_item_settings">Ajustes</string>
-     <string name="accessibility_no_services_installed">No hay servicios instalados</string>
-     <string name="accessibility_power_button_ends_call_prerefence_title">Botón de encendido termina la llamada</string>
-     <string name="accessibility_screen_magnification_enable">Gestos para zoom</string>
-     <string name="accessibility_screen_magnification_summary">"Cuando se activa esta característica se puede hacer zoom+ y zoom- con un toque triple sobre la pantalla.
+Si el dispositiu té múltiples usuaris, usant l\'accés directe a la pantalla de bloqueig temporalment permet accessibilitat fins que el dispositiu està desbloquejat."</string>
+     <string name="accessibility_global_gesture_preference_summary_off">Apagat</string>
+     <string name="accessibility_global_gesture_preference_summary_on">Encesa</string>
+     <string name="accessibility_global_gesture_preference_title">Drecera d\'accessibilitat</string>
+     <string name="accessibility_long_press_timeout_preference_title">Tocar i pulsació llarga</string>
+     <string name="accessibility_menu_item_settings">Ajustos</string>
+     <string name="accessibility_no_services_installed">No hi ha serveis instal·lats</string>
+     <string name="accessibility_power_button_ends_call_prerefence_title">Botó d\'encesa acaba la trucada</string>
+     <string name="accessibility_screen_magnification_enable">Gestos per zoom</string>
+     <string name="accessibility_screen_magnification_summary">"Quan s\'activa aquesta característica es pot fer zoom + i zoom- amb un toc triple sobre la pantalla.
 
-Mientras está en zoom+, se puede:
-"Desplazar: Arrastre dos o más dedos a través de la pantalla."
-"Ajustar nivel de zoom: Pellizque con dos o más dedos. Juntándolos o separándolos."
+Mentre està en zoom +, es pot:
+"Desplaçar: Arrossegueu dos o més dits a través de la pantalla."
+"Ajustar nivell de zoom: Pessigui amb dos o més dits. Ajuntant o separant-los."
 
-También puede ampliar lo que está bajo su dedo manteniéndolo sobre la pantalla tras un toque triple. En este estado ampliado, se puede arrastrar el dedo para explorar distintas partes de la pantalla. Al levantar el dedo se volverá a la situación previa.
+També pot ampliar el que està sota el seu dit mantenint sobre la pantalla després d\'un toc triple. En aquest estat ampliat, es pot arrossegar el dit per explorar diferents parts de la pantalla. En aixecar el dit es tornarà a la situació prèvia.
 
-Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclado y la barra de navegación."</string>
-     <string name="accessibility_screen_magnification_title">Gestos para ampliar</string>
-     <string name="accessibility_service_default_description">Sin descripción.</string>
-     <string name="accessibility_service_no_apps_message">TalkBack proporciona realimentación hablada como ayuda a los usuarios con discapacidad visual. ¿Quiere instalarlo gratis desde la Play Store?</string>
+Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i la barra de navegació."</string>
+     <string name="accessibility_screen_magnification_title">Gestos per ampliar</string>
+     <string name="accessibility_service_default_description">Sense descripció.</string>
+     <string name="accessibility_service_no_apps_message">TalkBack proporciona realimentació parlada com ajuda als usuaris amb discapacitat visual. El vol instal·lar gratis des de la Play Store?</string>
      <string name="accessibility_service_no_apps_title">¿Necesita un lector de pantalla?</string>
-     <string name="accessibility_services_title">Servicios</string>
-     <string name="accessibility_settings">Accesibilidad</string>
-     <string name="accessibility_settings_title">Ajustes de accesibilidad</string>
-     <string name="accessibility_sync_disabled">Sincronización desactivada</string>
-     <string name="accessibility_sync_enabled">Sincronización activada</string>
-     <string name="accessibility_sync_error">Error de Sincronización.</string>
-     <string name="accessibility_sync_in_progress">Sincronizando</string>
+     <string name="accessibility_services_title">Serveis</string>
+     <string name="accessibility_settings">Accessibilitat</string>
+     <string name="accessibility_settings_title">Configuració d'accessibilitat</string>
+     <string name="accessibility_sync_disabled">Sincronització desactivada</string>
+     <string name="accessibility_sync_enabled">Sincronització activada</string>
+     <string name="accessibility_sync_error">Error de sincronització.</string>
+     <string name="accessibility_sync_in_progress">Sincronitzant</string>
      <string name="accessibility_system_title">Sistema</string>
-     <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
-     <string name="accessibility_toggle_large_text_preference_title">Texto Grande</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliación de pantalla en las transiciones entre aplicaciones</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto actualizar ampliación de pantalla</string>
-     <string name="accessibility_toggle_screen_magnification_preference_title">Ampliación de pantalla</string>
-     <string name="accessibility_toggle_speak_password_preference_title">Leer las contraseñas en voz alta</string>
-     <string name="account_add">Añadir</string>
-     <string name="account_autostar_label">Gestión de Auto-arranque</string>
-     <string name="account_list">Todas</string>
-     <string name="account_settings">Cuentas</string>
-     <string name="account_sync_settings_title">Sincronizar</string>
-     <string name="activate_miui_screensaver">Protector de pantalla durante suspensión</string>
-     <string name="activating">Activando…</string>
-     <string name="active_device_admin_msg">Administrador de dispositivo</string>
-     <string name="active_input_method_subtypes">Métodos de entrada activos</string>
+     <string name="accessibility_toggle_high_text_contrast_preference_title">Text d\'alt contrast</string>
+     <string name="accessibility_toggle_large_text_preference_title">Text Gran</string>
+     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualitza ampliació de pantalla en les transicions entre aplicacions</string>
+     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto actualitzar ampliació de pantalla</string>
+     <string name="accessibility_toggle_screen_magnification_preference_title">Ampliació de pantalla</string>
+     <string name="accessibility_toggle_speak_password_preference_title">Llegir les contrasenyes en veu alta</string>
+     <string name="account_add">Afegeix</string>
+     <string name="account_autostar_label">Gestió d\'Auto-arrencada</string>
+     <string name="account_list">Altres comptes</string>
+     <string name="account_settings">Comptes</string>
+     <string name="account_sync_settings_title">Sincronitzar</string>
+     <string name="activate_miui_screensaver">Protector de pantalla durant suspensió</string>
+     <string name="activating">Activant…</string>
+     <string name="active_device_admin_msg">Administrador de dispositiu</string>
+     <string name="active_input_method_subtypes">Mètodes d'entrada actius</string>
      <string name="activity_not_found">La aplicación no está instalada en su teléfono.</string>
      <string name="activity_picker_label">Elegir actividad</string>
      <string name="adb_keys_warning_message">"¿Revocar el acceso a depuración de USB a todos los ordenadores previamente autorizados?"</string>
@@ -145,7 +145,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="apn_name">Nombre</string>
      <string name="apn_new">Nuevo punto de acceso</string>
      <string name="apn_not_set">No definido</string>
-     <string name="apn_password">Contraseña</string>
+     <string name="apn_password">Contrasenya</string>
      <string name="apn_protocol">Protocolo APN</string>
      <string name="apn_roaming_protocol">Protocolo APN en itinerancia</string>
      <string name="apn_save">¿Guardar?</string>
@@ -236,13 +236,13 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="background_process_stop_description">"Este es un proceso de una aplicación antigua que está en ejecución por si se necesitara de nuevo. No hay ninguna razón para pararlo."</string>
      <string name="backup_configure_account_default_summary">Ninguna cuenta esta almacenando datos de copia de seguridad actualmente</string>
      <string name="backup_configure_account_title">Copia de seguridad de la cuenta</string>
-     <string name="backup_data_summary">Realizar copia de seguridad de los datos de aplicación, contraseñas Wi-Fi y otros ajustes en los servidores de Google</string>
+     <string name="backup_data_summary">Realizar copia de seguridad de los datos de aplicación, Contrasenyas Wi-Fi y otros ajustes en los servidores de Google</string>
      <string name="backup_data_title">Realizar copia de seguridad de mis datos</string>
-     <string name="backup_erase_dialog_message">¿Parar la copia de seguridad de las contraseñas Wi-Fi, marcadores, otros ajustes y datos de aplicación, y eliminar todas las copias de los servidores de Google?</string>
+     <string name="backup_erase_dialog_message">¿Parar la copia de seguridad de las Contrasenyas Wi-Fi, marcadores, otros ajustes y datos de aplicación, y eliminar todas las copias de los servidores de Google?</string>
      <string name="backup_erase_dialog_title" />
      <string name="backup_lock_settings_picker_title">Elegir bloqueo de la copia de seguridad</string>
      <string name="backup_pw_cancel_button_text">Cancelar</string>
-     <string name="backup_pw_set_button_text">Establecer contraseña de la copia de seguridad</string>
+     <string name="backup_pw_set_button_text">Establecer Contrasenya de la copia de seguridad</string>
      <string name="backup_section_title">Copia de seguridad y restauración</string>
      <string name="band_mode_failed">No realizado</string>
      <string name="band_mode_loading">Cargando lista de bandas…</string>
@@ -571,7 +571,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="cdma_security_settings_summary">Establecer mi localización, desbloqueo de pantalla, credenciales de bloqueo del almacenamiento</string>
      <string name="cell_broadcast_settings">Transmisiones móviles</string>
      <string name="cell_broadcast_settings_summary">Seleccione los tipos de alertas de emergencia para mostrar</string>
-     <string name="change_password">Cambiar contraseña</string>
+     <string name="change_password">Cambiar Contrasenya</string>
      <string name="change_security_lock">Probar otras formas de desbloqueo</string>
      <string name="check_update">Comprobar actualizaciones</string>
      <string name="checkbox_notification_same_as_incoming_call">Utilizar el volumen de llamadas entrantes para las notificaciones</string>
@@ -618,7 +618,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="confirm_action">Aceptar</string>
      <string name="confirm_download_cancelation_dialog_message">¿Cancelar descarga?</string>
      <string name="confirm_erase">Borrar</string>
-     <string name="confirm_new_backup_pw_prompt">Vuelva a escribir su nueva contraseña de la copia de seguridad completa aqui</string>
+     <string name="confirm_new_backup_pw_prompt">Vuelva a escribir su nueva Contrasenya de la copia de seguridad completa aqui</string>
      <string name="connect_to_internet">Conectar a la red</string>
      <string name="connected_wifi">Conectado</string>
      <string name="contributors_title">Colaboradores</string>
@@ -630,7 +630,7 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="credential_storage_type">Tipo de almacenamiento</string>
      <string name="credential_storage_type_hardware">Sólo hardware</string>
      <string name="credential_storage_type_software">Sólo software</string>
-     <string name="credentials_configure_lock_screen_hint">Necesita  establecer un PIN o contraseña de bloqueo de pantalla antes de poder utilizar el almacenamiento de certificados.</string>
+     <string name="credentials_configure_lock_screen_hint">Necesita  establecer un PIN o Contrasenya de bloqueo de pantalla antes de poder utilizar el almacenamiento de certificados.</string>
      <string name="credentials_enabled">Almacenamiento de certificados activado. </string>
      <string name="credentials_erased">Almacenamiento de certificados eliminado. </string>
      <string name="credentials_install">Instalar desde almacenamiento</string>
@@ -638,29 +638,29 @@ Nota: El triple toque para ampliar funciona en cualquier sitio excepto el teclad
      <string name="credentials_install_gesture_prompt">Dibuje su patrón de desbloqueo</string>
      <string name="credentials_install_summary">Instalar certificados desde el almacenamiento</string>
      <string name="credentials_not_erased">"El almacenamiento de certificados no se pudo borrar."</string>
-     <string name="credentials_old_password">Contraseña actual:</string>
-     <string name="credentials_password_too_short">La contraseña debe ser de al menos 8 caracteres.</string>
+     <string name="credentials_old_password">Contrasenya actual:</string>
+     <string name="credentials_password_too_short">La Contrasenya debe ser de al menos 8 caracteres.</string>
      <string name="credentials_reset">Limpiar certificados</string>
      <string name="credentials_reset_hint">¿Eliminar todos los contenidos?</string>
      <string name="credentials_reset_summary">Eliminar todos los certificados</string>
-     <string name="credentials_reset_warning">Contraseña incorrecta.  Tiene un intento más antes de que el almacenamiento de certificados se borre.</string>
-     <string name="credentials_reset_warning_plural">Contraseña incorrecta. Tiene %1$d intentos más antes de que el almacenamiento con credenciales se elimine.</string>
+     <string name="credentials_reset_warning">Contrasenya incorrecta.  Tiene un intento más antes de que el almacenamiento de certificados se borre.</string>
+     <string name="credentials_reset_warning_plural">Contrasenya incorrecta. Tiene %1$d intentos más antes de que el almacenamiento con credenciales se elimine.</string>
      <string name="credentials_title">Almacenamiento de certificados</string>
      <string name="credentials_unlock" />
-     <string name="credentials_unlock_hint">Teclee la contraseña para el almacenamiento de certificados.</string>
+     <string name="credentials_unlock_hint">Teclee la Contrasenya para el almacenamiento de certificados.</string>
      <string name="credentials_wrong_password">Clave incorrecta.</string>
      <string name="crypt_keeper_button_text">Encriptar teléfono</string>
      <string name="crypt_keeper_confirm_title">¿Encriptar?</string>
      <string name="crypt_keeper_cooldown">Pruebe de nuevo en ^1 segundos. </string>
-     <string name="crypt_keeper_desc">"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros archivos. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la contraseña para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
+     <string name="crypt_keeper_desc">"Puede encriptar sus cuentas, ajustes, aplicaciones descargadas, multimedia y otros archivos. Una vez que encripte su teléfono, necesitará introducir el PIN numérico o la Contrasenya para desencriptarlo cada vez que lo encienda. No puede desencriptar su teléfono a menos que realice un reseteo de fabrica, borrando todos sus datos.
 
 La encriptación tarda una hora o más. Debe iniciarla con la batería cargada y mantener el teléfono conectado al cargador hasta que la encriptación termine. Si interrumpe el proceso, perderá algunos o todos los datos."</string>
-     <string name="crypt_keeper_dialog_need_password_message">Necesita establecer un PIN o contraseña para desbloquear la pantalla antes de iniciar la encriptación.</string>
-     <string name="crypt_keeper_dialog_need_password_title">No hay PIN o contraseña para el desbloqueo</string>
-     <string name="crypt_keeper_encrypt_summary">Pedir PIN numérico o contraseña para desencriptar el teléfono cada vez que lo encienda</string>
+     <string name="crypt_keeper_dialog_need_password_message">Necesita establecer un PIN o Contrasenya para desbloquear la pantalla antes de iniciar la encriptación.</string>
+     <string name="crypt_keeper_dialog_need_password_title">No hay PIN o Contrasenya para el desbloqueo</string>
+     <string name="crypt_keeper_encrypt_summary">Pedir PIN numérico o Contrasenya para desencriptar el teléfono cada vez que lo encienda</string>
      <string name="crypt_keeper_encrypt_title">Encriptar teléfono</string>
      <string name="crypt_keeper_encrypted_summary">Encriptado</string>
-     <string name="crypt_keeper_enter_password">Escriba su contraseña</string>
+     <string name="crypt_keeper_enter_password">Escriba su Contrasenya</string>
      <string name="crypt_keeper_failed_summary">"La encriptación se ha interrumpido y no puede continuar. Como resultado, los datos de su teléfono ya no son accesibles.
 
 Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. Cuando configure su teléfono después del reinicio, podrá restaurar cualquier copia de seguridad realizada previamente en su cuenta Google."</string>
@@ -674,7 +674,7 @@ Para seguir utilizando su teléfono, necesita realizar un reinicio de fábrica. 
      <string name="crypt_keeper_unplugged_text">Conecte el cargador y pruebe de nuevo.</string>
      <string name="cryptkeeper_emergency_call">Llamada de emergencia</string>
      <string name="cryptkeeper_return_to_call">Volver a la llamada</string>
-     <string name="current_backup_pw_prompt">Escriba la contraseña de su copia de seguridad completa aquí</string>
+     <string name="current_backup_pw_prompt">Escriba la Contrasenya de su copia de seguridad completa aquí</string>
      <string name="current_input_method">Por defecto</string>
      <string name="current_use_ese">Utilizando elemento con seguridad incorporada</string>
      <string name="current_use_uicc_se">Utilizando elemento seguro en la Tarjeta SIM</string>
@@ -994,7 +994,7 @@ Algunas aplicaciones pueden no funcionar hasta que sean actualizadas por sus des
      <string name="enforce_read_external_confirm_title">¿Proteger almacenamiento USB?</string>
      <string name="enforce_read_external_summary">Las aplicaciones tienen que pedir permiso para leer del almacenamiento USB</string>
      <string name="enforce_read_external_title">Proteger almacenamiento USB</string>
-     <string name="enter_password">Teclee la contraseña para desencriptar el almacenamiento</string>
+     <string name="enter_password">Teclee la Contrasenya para desencriptar el almacenamiento</string>
      <string name="equalizer">Ecualizador</string>
      <string name="erase_application">Eliminar aplicaciones</string>
      <string name="erase_application_description">Eliminar aplicaciones descargadas</string>
@@ -1165,7 +1165,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="home_app_uninstall_button">Desinstalar esta aplicación</string>
      <string name="home_key">Home</string>
      <string name="home_settings">Home</string>
-     <string name="ime_security_warning">%1$s: este método de entrada puede grabar todo lo que teclee, incluyendo contraseñas, números de tarjeta de crédito y otros datos personales. ¿Quiere utilizar este método de entrada?</string>
+     <string name="ime_security_warning">%1$s: este método de entrada puede grabar todo lo que teclee, incluyendo Contrasenyas, números de tarjeta de crédito y otros datos personales. ¿Quiere utilizar este método de entrada?</string>
      <string name="immediately_destroy_activities">"No mantener las actividades"</string>
      <string name="immediately_destroy_activities_summary">Destruye toda actividad en cuanto el usuario la deja</string>
      <string name="ims_reg_required_off">Desactivar petición de registro IMS</string>
@@ -1268,12 +1268,12 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="local_auto_backup_off">Apagada</string>
      <string name="local_auto_backup_on">Encendida</string>
      <string name="local_auto_backup_section_title">Copia de seguridad automática</string>
-     <string name="local_backup_password_summary_change">Pulse para cambiar o eliminar la contraseña de la copia de seguridad completa en del ordenador</string>
+     <string name="local_backup_password_summary_change">Pulse para cambiar o eliminar la Contrasenya de la copia de seguridad completa en del ordenador</string>
      <string name="local_backup_password_summary_none">"Las copias de seguridad completas del ordenador no están protegidas actualmente"</string>
-     <string name="local_backup_password_title">Contraseña de la copia de seguridad del ordenador</string>
-     <string name="local_backup_password_toast_confirmation_mismatch">"La nueva contraseña y la confirmación no coinciden"</string>
-     <string name="local_backup_password_toast_success">Nueva contraseña de copia de seguridad establecida</string>
-     <string name="local_backup_password_toast_validation_failure">Fallo configurando la contraseña de la copia de seguridad</string>
+     <string name="local_backup_password_title">Contrasenya de la copia de seguridad del ordenador</string>
+     <string name="local_backup_password_toast_confirmation_mismatch">"La nueva Contrasenya y la confirmación no coinciden"</string>
+     <string name="local_backup_password_toast_success">Nueva Contrasenya de copia de seguridad establecida</string>
+     <string name="local_backup_password_toast_validation_failure">Fallo configurando la Contrasenya de la copia de seguridad</string>
      <string name="local_backup_section_summary">Copia de seguridad de los ajustes de sistema, cuentas y aplicaciones</string>
      <string name="local_backup_section_title">Copia de seguridad local</string>
      <string name="locale_default">Por defecto</string>
@@ -1334,11 +1334,11 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="lock_after_timeout">Bloquear automáticamente</string>
      <string name="lock_after_timeout_summary">%1$s después de poner en reposo</string>
      <string name="lock_intro_message">Mensaje de bloqueo</string>
-     <string name="lock_screen_secure_after_timeout_immediately_summary">Contraseña requerida inmediatamente</string>
-     <string name="lock_screen_secure_after_timeout_summary">Contraseña requerida en %1$s</string>
-     <string name="lock_screen_secure_after_timeout_title">Contraseña requerida</string>
+     <string name="lock_screen_secure_after_timeout_immediately_summary">Contrasenya requerida inmediatamente</string>
+     <string name="lock_screen_secure_after_timeout_summary">Contrasenya requerida en %1$s</string>
+     <string name="lock_screen_secure_after_timeout_title">Contrasenya requerida</string>
      <string name="lock_screen_unlock_show">Saltar la pantalla de bloqueo</string>
-     <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o introducción de contraseña al encender</string>
+     <string name="lock_screen_unlock_show_summary">Ir directamente a la pantalla de inicio o introducción de Contrasenya al encender</string>
      <string name="lock_settings">Pantalla de bloqueo</string>
      <string name="lock_settings_common_title">Ajustes de bloqueo</string>
      <string name="lock_settings_picker_settings">Establecer bloqueo de pantalla</string>
@@ -1348,24 +1348,24 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="lock_sounds_enable_title">Sonido al bloquear pantalla</string>
      <string name="lockpassword_cancel_label">Cancelar</string>
      <string name="lockpassword_choose_lock_generic_header">Seleccionar desbloqueo</string>
-     <string name="lockpassword_choose_your_password_header">Elija la contraseña</string>
+     <string name="lockpassword_choose_your_password_header">Elija la Contrasenya</string>
      <string name="lockpassword_choose_your_pattern_header">Elija el patrón</string>
      <string name="lockpassword_choose_your_pin_header">Elija el PIN</string>
-     <string name="lockpassword_confirm_passwords_dont_match">"Las contraseñas no coinciden"</string>
+     <string name="lockpassword_confirm_passwords_dont_match">"Las Contrasenyas no coinciden"</string>
      <string name="lockpassword_confirm_pins_dont_match">"Los números PIN no coinciden"</string>
-     <string name="lockpassword_confirm_your_password_header">Confirme la contraseña</string>
+     <string name="lockpassword_confirm_your_password_header">Confirme la Contrasenya</string>
      <string name="lockpassword_confirm_your_pattern_header">Confirme el patrón</string>
      <string name="lockpassword_confirm_your_pin_header">Confirme el PIN</string>
      <string name="lockpassword_continue_label">Continuar</string>
-     <string name="lockpassword_illegal_character">La contraseña contiene caracteres no permitidos.</string>
+     <string name="lockpassword_illegal_character">La Contrasenya contiene caracteres no permitidos.</string>
      <string name="lockpassword_ok_label">Aceptar</string>
-     <string name="lockpassword_password_recently_used">"El administrador de dispositivos no permite utilizar una contraseña reciente."</string>
-     <string name="lockpassword_password_requires_alpha">La contraseña debe contener al menos una letra.</string>
-     <string name="lockpassword_password_requires_digit">La contraseña debe contener al menos un número.</string>
-     <string name="lockpassword_password_requires_symbol">La contraseña debe contener al menos un símbolo.</string>
-     <string name="lockpassword_password_set_toast">Contraseña establecida</string>
-     <string name="lockpassword_password_too_long">La contraseña debe tener menos de %d caracteres.</string>
-     <string name="lockpassword_password_too_short">La contraseña debe tener al menos %d caracteres.</string>
+     <string name="lockpassword_password_recently_used">"El administrador de dispositivos no permite utilizar una Contrasenya reciente."</string>
+     <string name="lockpassword_password_requires_alpha">La Contrasenya debe contener al menos una letra.</string>
+     <string name="lockpassword_password_requires_digit">La Contrasenya debe contener al menos un número.</string>
+     <string name="lockpassword_password_requires_symbol">La Contrasenya debe contener al menos un símbolo.</string>
+     <string name="lockpassword_password_set_toast">Contrasenya establecida</string>
+     <string name="lockpassword_password_too_long">La Contrasenya debe tener menos de %d caracteres.</string>
+     <string name="lockpassword_password_too_short">La Contrasenya debe tener al menos %d caracteres.</string>
      <string name="lockpassword_pattern_set_toast">Patrón establecido</string>
      <string name="lockpassword_pin_contains_non_digits">El PIN solo puede contener números</string>
      <string name="lockpassword_pin_fixed_length">El PIN debe se de %d dígitos</string>
@@ -1405,7 +1405,7 @@ Si el texto de su sistema es todavía demasiado pequeño, trate de usar "</strin
      <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
      <string name="lockpattern_tutorial_continue_label">Siguiente</string>
      <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-     <string name="lockscreen_glogin_password_hint">Contraseña</string>
+     <string name="lockscreen_glogin_password_hint">Contrasenya</string>
      <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
      <string name="lte_ram_dump_off">Desactivar volcado ram lte</string>
      <string name="lte_ram_dump_on">Activar volcado ram lte</string>
@@ -1621,7 +1621,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="networkid_label">Red ID:</string>
      <string name="networks">Seleccionar operador</string>
      <string name="never">Nunca</string>
-     <string name="new_backup_pw_prompt">Teclee su nueva contraseña para la copia de seguridad completa aqui</string>
+     <string name="new_backup_pw_prompt">Teclee su nueva Contrasenya para la copia de seguridad completa aqui</string>
      <string name="next_button_label">Siguiente</string>
      <string name="next_label">Siguiente</string>
      <string name="nfc_category_title">NFC</string>
@@ -1671,6 +1671,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="oldman_mode_entry_title">Modo sencillo</string>
      <string name="oldman_mode_settings_caption">Ajustes de modo sencillo</string>
      <string name="oldman_mode_summary">Usar pantalla de inicio y menus simplificados</string>
+	 <string name="oldman_mode_summary_cta">El modo sencillo necesita conectarse a internet y leer tus contactos, mensajes y localización para funcionar con normalidad.</string>
      <string name="online_resource_entry">Recursos en linea</string>
      <string name="only_one_home_message">Los ajustes de inicio serán ocultados mientras no instale otra aplicación de inicio.</string>
      <string name="only_when_charging">Solo cuando se esté cargando</string>
@@ -1735,8 +1736,8 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="page_layout_page2_small_title">Extra pequeño</string>
      <string name="page_layout_page2_title">Previsualización</string>
      <string name="page_layout_small_title">Extra pequeño</string>
-     <string name="passwordIncorrect">La contraseña introducida es incorrecta</string>
-     <string name="password_guard">Contraseña</string>
+     <string name="passwordIncorrect">La Contrasenya introducida es incorrecta</string>
+     <string name="password_guard">Contrasenya</string>
      <string name="percentage">%d%%</string>
      <string name="performance_category">Rendimiento</string>
      <string name="permission_detail_info">Detalles de permisos</string>
@@ -1761,7 +1762,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="pin_failed">SIM PIN, operación fallida!</string>
      <string name="ping_test_label">Ejecutar test de ping</string>
      <string name="please_select_phase2">Autentificación de fase 2</string>
-     <string name="please_type_passphrase">Contraseña</string>
+     <string name="please_type_passphrase">Contrasenya</string>
      <string name="pointer_location">Ubicación del puntero</string>
      <string name="pointer_location_summary">Mostrar coordenadas de toque</string>
      <string name="pointer_settings_category">Ratón/trackpad</string>
@@ -1790,10 +1791,11 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="pref_operational_key">Botones de navegación</string>
      <string name="pref_volume_wake_summary">El dispositivo se enciende  pulsando las teclas de volumen</string>
      <string name="pref_volume_wake_title">Encender con las teclas de volumen</string>
-     <string name="preference_change_password_title">Cambiar contraseña</string>
+     <string name="preference_change_password_title">Cambiar Contrasenya</string>
      <string name="preferred_app_settings">Aplicaciones predeterminadas</string>
      <string name="preferred_app_settings_default">Por defecto</string>
-     <string name="preferred_app_settings_reset">Restaurar aplicaciones por defecto?</string>
+     <string name="preferred_app_settings_reset">Restablecer valores por defecto</string>
+	 <string name="preferred_app_settings_reset_button">Restablecer</string>
      <string name="preferred_app_settings_reset_message">Todas las aplicaciones por defecto serán restauradas a los ajustes iniciales de MIUI.</string>
      <string name="preferred_application_title">Preferidas %s</string>
      <string name="preferred_application_warning_message">Reemplazar la aplicación por defecto %1$s  puede incrementar el consumo de energía, reducir la velocidad, y poner en riesgo los contenidos del teléfono. Usar %2$s en su lugar.</string>
@@ -1846,12 +1848,12 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
      <string name="privacy_relative">Privacidad relacionada</string>
      <string name="privacy_settings">Copia de seguridad y restablecer</string>
      <string name="privacy_settings_title">Copia de seguridad y restablecer</string>
-     <string name="private_gallery_need_to_unlock">Introducir contraseña:</string>
+     <string name="private_gallery_need_to_unlock">Introducir Contrasenya:</string>
      <string name="private_gallery_recording_intro_header">Trazar patrón de desbloqueo:</string>
-     <string name="private_gallery_reset_by_account">Para restablecer su contraseña, inicie sesión en su cuenta Mi</string>
-     <string name="private_sms_need_to_unlock">Introducir contraseña:</string>
+     <string name="private_gallery_reset_by_account">Para restablecer su Contrasenya, inicie sesión en su cuenta Mi</string>
+     <string name="private_sms_need_to_unlock">Introducir Contrasenya:</string>
      <string name="private_sms_recording_intro_header">Trazar un patrón de desbloqueo:</string>
-     <string name="private_sms_reset_by_account">Para restablecer su contraseña, inicie sesión en su cuenta Mi</string>
+     <string name="private_sms_reset_by_account">Para restablecer su Contrasenya, inicie sesión en su cuenta Mi</string>
      <string name="process_kernel_label">Sistema Android</string>
      <string name="process_mediaserver_label">Servidor multimedia</string>
      <string name="process_provider_in_use_description">Proveedor %1$s se está usando.</string>
@@ -1988,7 +1990,7 @@ cuando este conectado al ordenador aparecerá %1$s como dispositivo de almacenam
 
  No se perderá ningún dato de aplicación."</string>
      <string name="reset_app_preferences_title">Restablecer preferencias de aplicación?</string>
-     <string name="reset_legacy_password_settings_preface_text">Tiene que cambiar la contraseña de pantalla de bloqueo.</string>
+     <string name="reset_legacy_password_settings_preface_text">Tiene que cambiar la Contrasenya de pantalla de bloqueo.</string>
      <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
      <string name="restore_default_apn">Restaurando ajustes APN por defecto.</string>
      <string name="restore_default_apn_completed">Reseteo de ajustes APN por defecto completo.</string>
@@ -2165,7 +2167,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="security_enable_widgets_title">Activar widgets</string>
      <string name="security_keyguard_category_name">Pantalla de bloqueo</string>
      <string name="security_password_category_name">Bloqueo de pantalla</string>
-     <string name="security_passwords_title">Contraseña</string>
+     <string name="security_passwords_title">Contrasenya</string>
      <string name="security_privacy_settings_title">Seguridad</string>
      <string name="security_relative">Seguridad relacionada</string>
      <string name="security_settings_billing_desc">Esta aplicación puede cobrarle dinero:</string>
@@ -2198,9 +2200,9 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="service_stop">Parar</string>
      <string name="service_stop_description">La aplicación ha empezado a ejecutar esa tarea. Pararla puede causar errores.</string>
      <string name="services_subtitle">Tareas</string>
-     <string name="set_password_action">Establecer contraseña</string>
-     <string name="set_password_message">Establece una contraseña para apagar el modo niño y para desbloquear el dispositivo.</string>
-     <string name="set_password_title">Establecer contraseña</string>
+     <string name="set_password_action">Establecer Contrasenya</string>
+     <string name="set_password_message">Establece una Contrasenya para apagar el modo niño y para desbloquear el dispositivo.</string>
+     <string name="set_password_title">Establecer Contrasenya</string>
      <string name="settings_backup">Hacer copia de seguridad de ajustes</string>
      <string name="settings_backup_summary">Hacer copia de seguridad de mis ajustes</string>
      <string name="settings_button">Ajustes</string>
@@ -2230,7 +2232,7 @@ Estos ajustes afectan a todos los usuarios de este teléfono."</string>
      <string name="show_magnifier_when_input">Ampliar cuando introduzca</string>
      <string name="show_non_rect_clip">Depurar las operaciones con clips no rectangulares</string>
      <string name="show_owner_info_on_lockscreen_label">Mostrar información del propietario en la pantalla de bloqueo</string>
-     <string name="show_password">Mostrar contraseñas</string>
+     <string name="show_password">Mostrar Contrasenyas</string>
      <string name="show_profile_info_on_lockscreen_label">Mostrar información de perfil en la pantalla de bloqueo</string>
      <string name="show_rounded_corners">Mostrar esquinas redondeadas</string>
      <string name="show_running_services">Mostrar servicios activos</string>
@@ -2295,7 +2297,7 @@ Posiblemente PIN incorrecto."</string>
      <string name="sound_settings">Sonido</string>
      <string name="spellchecker_language">Idioma</string>
      <string name="spellchecker_quick_settings">Ajustes</string>
-     <string name="spellchecker_security_warning">Este corrector ortográfico puede acceder a todo el texto que teclee, incluidos datos personales, contraseñas y tarjetas de crédito.Viene de la app  %1$s. Usar este corrector ortográfico?</string>
+     <string name="spellchecker_security_warning">Este corrector ortográfico puede acceder a todo el texto que teclee, incluidos datos personales, Contrasenyas y tarjetas de crédito.Viene de la app  %1$s. Usar este corrector ortográfico?</string>
      <string name="spellcheckers_settings_title">Corrector ortográfico</string>
      <string name="ssid_label">SSID:</string>
      <string name="ssl_ca_cert_dialog_title">Monitorizando redes</string>
@@ -2402,7 +2404,7 @@ Una credencial de confianza instalada hace esto posible."</string>
      <string name="summary_font_size">%1$s</string>
      <string name="supl_not_set">&lt;No establecido&gt;</string>
      <string name="supplicant_state_label">Modo suplicante:</string>
-     <string name="symbols_not_allowed_for_password">"La contraseña no puede contener símbolos"</string>
+     <string name="symbols_not_allowed_for_password">"La Contrasenya no puede contener símbolos"</string>
      <string name="sync_active">Sincronización activa</string>
      <string name="sync_automatically">Sincronizar automáticamente datos de aplicaciones</string>
      <string name="sync_calendar">Calendario</string>
@@ -2461,7 +2463,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="title_layout_current2">Elegir tamaño de la fuente</string>
      <string name="title_local_resource">Recursos locales</string>
      <string name="title_system_resource">Recursos de sistema</string>
-     <string name="toast_lockscreen_glogin_empty_password">Introducir contraseña</string>
+     <string name="toast_lockscreen_glogin_empty_password">Introducir Contrasenya</string>
      <string name="toast_need_login">Iniciar sesión en cuenta Mi</string>
      <string name="total_size">%s total</string>
      <string name="total_size_label">Total</string>
@@ -2508,7 +2510,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="tts_engine_name_settings">%s ajustes</string>
      <string name="tts_engine_network_required">Este idioma necesita una conexión de red activa para su funcionamiento.</string>
      <string name="tts_engine_preference_section_title">Motor preferido</string>
-     <string name="tts_engine_security_warning">Este motor de síntesis de voz puede recoger todo el texto que se hable, incluyendo datos personales, contraseñas y números de tarjetas de crédito. Lo usa el motor de %s . ¿Activar este motor de síntesis de voz?</string>
+     <string name="tts_engine_security_warning">Este motor de síntesis de voz puede recoger todo el texto que se hable, incluyendo datos personales, Contrasenyas y números de tarjetas de crédito. Lo usa el motor de %s . ¿Activar este motor de síntesis de voz?</string>
      <string name="tts_engine_settings_button">Abrir ajustes de motor</string>
      <string name="tts_engine_settings_section">Ajustes de motor</string>
      <string name="tts_engine_settings_title">Ajustes para %s</string>
@@ -2537,10 +2539,10 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="uninstall_text">Desinstalar</string>
      <string name="unknown">Desconocido</string>
      <string name="unlock_backup_info_summary">"Cuando el desbloqueo por reconocimiento facial no funcione, Como quiere desbloquear?"</string>
-     <string name="unlock_change_lock_password_title">Cambiar contraseña de desbloqueo</string>
+     <string name="unlock_change_lock_password_title">Cambiar Contrasenya de desbloqueo</string>
      <string name="unlock_change_lock_pattern_title">Cambiar patrón de desbloqueo</string>
      <string name="unlock_change_lock_pin_title">Cambiar PIN</string>
-     <string name="unlock_disable_lock_password_summary">Quitar contraseña de desbloqueo</string>
+     <string name="unlock_disable_lock_password_summary">Quitar Contrasenya de desbloqueo</string>
      <string name="unlock_disable_lock_pattern_summary">Quitar patrón de desbloqueo</string>
      <string name="unlock_disable_lock_pin_summary">Borrar PIN</string>
      <string name="unlock_disable_lock_title">Apagar bloqueo de pantalla</string>
@@ -2549,14 +2551,14 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="unlock_set_unlock_biometric_weak_summary">Bajas seguridad, experimental</string>
      <string name="unlock_set_unlock_biometric_weak_title">Desbloqueo por reconocimiento facial</string>
      <string name="unlock_set_unlock_disabled_summary">Desactivado por administrador, política de encriptación, o credencial de almacenamiento</string>
-     <string name="unlock_set_unlock_launch_picker_change_summary">Cambiar o desactivar patrón, PIN, o contraseña</string>
+     <string name="unlock_set_unlock_launch_picker_change_summary">Cambiar o desactivar patrón, PIN, o Contrasenya</string>
      <string name="unlock_set_unlock_launch_picker_change_title">Cambiar bloqueo de pantalla</string>
      <string name="unlock_set_unlock_launch_picker_enable_summary">Escoja un método para bloquear pantalla</string>
      <string name="unlock_set_unlock_launch_picker_title">Bloqueo de pantalla</string>
      <string name="unlock_set_unlock_mode_biometric_weak">Desbloqueo por reconocimiento facial</string>
      <string name="unlock_set_unlock_mode_none">Deslizar</string>
      <string name="unlock_set_unlock_mode_off">Ninguno</string>
-     <string name="unlock_set_unlock_mode_password">Contraseña</string>
+     <string name="unlock_set_unlock_mode_password">Contrasenya</string>
      <string name="unlock_set_unlock_mode_pattern">Patrón</string>
      <string name="unlock_set_unlock_mode_pin">PIN</string>
      <string name="unlock_set_unlock_none_summary">Sin seguridad</string>
@@ -2564,7 +2566,7 @@ Hay un intento de Google de sincronizar datos para acceder a tus contactos, A Go
      <string name="unlock_set_unlock_off_summary" />
      <string name="unlock_set_unlock_off_title">Ninguno</string>
      <string name="unlock_set_unlock_password_summary">Alta seguridad</string>
-     <string name="unlock_set_unlock_password_title">Contraseña</string>
+     <string name="unlock_set_unlock_password_title">Contrasenya</string>
      <string name="unlock_set_unlock_pattern_summary">Seguridad media</string>
      <string name="unlock_set_unlock_pattern_title">Patrón</string>
      <string name="unlock_set_unlock_pin_summary">Seguridad media a alta</string>
@@ -2786,7 +2788,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
      <string name="vpn_no_network">No hay conexión de red. Inténtelo más tarde.</string>
      <string name="vpn_no_server_cert">(recibido del servidor)</string>
      <string name="vpn_not_used">(sin usar)</string>
-     <string name="vpn_password">Contraseña</string>
+     <string name="vpn_password">Contrasenya</string>
      <string name="vpn_routes">Rutas de desvío</string>
      <string name="vpn_routes_hint">ej 10.0.0.0/8</string>
      <string name="vpn_safe">Seguridad</string>
@@ -2850,7 +2852,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
      <string name="wifi_connect_cmcc_dialog_not_remind">"No mostrar de nuevo"</string>
      <string name="wifi_connect_cmcc_dialog_title">Notificación de uso de datos</string>
      <string name="wifi_connect_failed_message">El teléfono no puede conectar a red Wi-Fi.</string>
-     <string name="wifi_context_menu_change_password">Cambiar contraseña</string>
+     <string name="wifi_context_menu_change_password">Cambiar Contrasenya</string>
      <string name="wifi_context_menu_change_wapi_certificate">Cambiar certificado WAPI</string>
      <string name="wifi_context_menu_connect">Conectar</string>
      <string name="wifi_context_menu_forget">Volver</string>
@@ -2961,7 +2963,7 @@ Añada una palabra tocando el botón de añadir (+)"</string>
      <string name="wifi_p2p_remembered_groups">Grupo conocido</string>
      <string name="wifi_p2p_settings_title">Wi-Fi Directo</string>
      <string name="wifi_p2p_wps_setup">WPS configuración</string>
-     <string name="wifi_password">Contraseña</string>
+     <string name="wifi_password">Contrasenya</string>
      <string name="wifi_poor_network_detection">Impedir conexiones de baja calidad</string>
      <string name="wifi_poor_network_detection_summary">"No usar una red Wi-Fi si no tiene buena conexión"</string>
      <string name="wifi_priority_changed" formatted="false">Valor anterior = %s | Valor nuevo = %s</string>
@@ -3070,7 +3072,7 @@ Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red Wi-Fi diferente."</strin
      <string name="wifi_share_qrcode_title">Compartir Wi-Fi</string>
      <string name="wifi_share_show_network">Mostrar redes</string>
      <string name="wifi_share_summary1">Los usuarios de MIUI pueden compartir redes Wi-Fi públicas (cafes, restaurantes, hoteles, etc.) con otros.</string>
-     <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparte una red, usted puede usarla directamente sin introducir contraseña.</string>
+     <string name="wifi_share_summary2">Cuando otro usuario de MIUI comparte una red, usted puede usarla directamente sin introducir Contrasenya.</string>
      <string name="wifi_share_summary3">Comparta su red Wi-Fi con otros usuarios de MIUI.</string>
      <string name="wifi_share_turn_off">Apagar</string>
      <string name="wifi_share_turn_on">Encender</string>
@@ -3078,7 +3080,7 @@ Toque "&lt;b&gt;Atras&lt;/b&gt; para conectar a una red Wi-Fi diferente."</strin
      <string name="wifi_share_upload_finish">Se compartió</string>
      <string name="wifi_share_uploading">Compartiendo…</string>
      <string name="wifi_show_advanced">Mostrar opciones avanzadas</string>
-     <string name="wifi_show_password">Mostrar contraseña</string>
+     <string name="wifi_show_password">Mostrar Contrasenya</string>
      <string name="wifi_signal">Intensidad de señal</string>
      <string name="wifi_signal_found_msg">¿Conectar a punto de acceso Wi-Fi?</string>
      <string name="wifi_skip_anyway">Saltar de todos modos</string>
@@ -3136,7 +3138,7 @@ La configuración del teléfono puede necesitar gran tráfico de datos."</string
      <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Introduzca nombre de usuario del certificado</string>
      <string name="wifi_wapi_cert_uninstall">Desinstalar certificado WAPI</string>
      <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
-     <string name="wifi_wapi_certification_dont_exist">La contraseña de red introducida no es correcta.</string>
+     <string name="wifi_wapi_certification_dont_exist">La Contrasenya de red introducida no es correcta.</string>
      <string name="wifi_wapi_user_cert">Certificado de Usuario</string>
      <string name="wifi_wps_available_first_item">Disponible WPS</string>
      <string name="wifi_wps_available_second_item">" (WPS disponible)"</string>
