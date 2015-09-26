@@ -43,7 +43,7 @@
   <string name="anniversary_term">aniversari</string>
   <string name="app_label">Calendari</string>
   <string name="attendees_label">Convidats</string>
-  <string name="birthday_calendar_display_name">Recordatori d'aniversari</string>
+  <string name="birthday_calendar_display_name">Recordatori d\'aniversari</string>
   <string name="birthday_event_description">"Avui és el %4$s de %1$s!"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>

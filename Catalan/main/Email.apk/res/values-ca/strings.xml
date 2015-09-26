@@ -12,7 +12,7 @@
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja estàs fent servir aquest nom d\'usuari per al compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
-  <string name="account_name_toast">No s'ha pogut crear el compte. Ja existeix un compte amb el mateix nom."</string>
+  <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom."</string>
   <string name="account_options_sync_title">Configuració de sincronització</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
   <string name="account_security_dialog_content_fmt">%s requereix que actualitzi la configuració de seguretat.</string>
@@ -30,7 +30,7 @@
   <string name="account_settings_enforced_label">Polítiques aplicades</string>
   <string name="account_settings_enforced_summary">Cap</string>
   <string name="account_settings_incoming_summary">Nom d\'usuari, contrasenya i altres configuracions del servidor entrant</string>
-  <string name="account_settings_login_dialog_content_fmt">El nom d'usuari o la contrasenya per %s són incorrectes. Vols actualitzar ara?</string>
+  <string name="account_settings_login_dialog_content_fmt">El nom d\'usuari o la contrasenya per %s són incorrectes. Vols actualitzar ara?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">El teu login a %s ha fallat; el servidor ha dit: %s ¿voleu actualitzar el seu nom d\'usuari i/o contrasenya?</string>
   <string name="account_settings_login_dialog_title">"No s\'ha pogut iniciar sessió" </string>
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
