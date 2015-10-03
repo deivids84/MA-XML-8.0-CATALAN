@@ -160,7 +160,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
      <string name="app_disable_notifications_dlg_text">Si desactiva les notificacions per aquesta aplicació, pot perdre alertes importants i actualitzacions.</string>
      <string name="app_disable_notifications_dlg_title">Desactivar notificacions?</string>
      <string name="app_factory_reset">Desinstal·lar actualitzacions</string>
-     <string name="app_factory_reset_dlg_text">Totes les actualitzacions d'aquesta aplicació de sistema Android seran desinstal·lades.</string>
+     <string name="app_factory_reset_dlg_text">Totes les actualitzacions d\'aquesta aplicació de sistema Android seran desinstal·lades.</string>
      <string name="app_factory_reset_dlg_title">Desinstal·lar actualitzacions? </string>
      <string name="app_floating_window_dlg_disable">"Desactivar %1$s ajustos de la finestra flotant aturarà l\'aplicació.
 Desactivar finestres flotants?"</string>

@@ -120,7 +120,7 @@
   <string name="no_vm_number_msg">Cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraure menú</string>
   <string name="non_ivr_menu_view_menu">Veure menú</string>
-  <string name="notification_action_accept">D'acord</string>
+  <string name="notification_action_accept">D\'acord</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Veu</string>
   <string name="notification_action_dismiss">Rebutjar</string>
