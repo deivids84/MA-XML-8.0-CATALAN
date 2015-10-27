@@ -10,17 +10,17 @@
         <item>1</item>
      </string-array>
      <string-array name="agps_network_entries">
-        <item>Red doméstica</item>
-        <item>Todas las redes</item>
+        <item>Xarxa domèstica</item>
+        <item>Totes les xarxes</item>
      </string-array>
      <string-array name="agps_network_values">
         <item>0</item>
         <item>1</item>
      </string-array>
      <string-array name="agps_reset_type_entries">
-        <item>CALIENTE</item>
-        <item>TEMPLADO</item>
-        <item>FRIO</item>
+        <item>CALENT</item>
+        <item>TEMPERAT</item>
+        <item>FRED</item>
      </string-array>
      <string-array name="agps_reset_type_values">
         <item>0</item>
@@ -36,7 +36,7 @@
         <item>1</item>
      </string-array>
      <string-array name="animator_duration_scale_entries">
-        <item>Sin Animación</item>
+        <item>Sense Animació</item>
         <item>Escala de animación .5x</item>
         <item>Escala de animación 1x</item>
         <item>Escala de animación 1.5x</item>
@@ -1264,6 +1264,10 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>5</item>
         <item>10</item>
      </string-array>
+	 <string-array name="common_password_business_names">
+        <item>Bloqueo</item>
+        <item>Modo niño</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Todos los días</item>
         <item>Entre semana</item>

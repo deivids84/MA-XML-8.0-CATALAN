@@ -2,29 +2,29 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="app_type_desc">
-        <item>Datos</item>
-        <item>Aplicaciones</item>
-        <item>Aplicaciones y datos</item>
+        <item>Dades</item>
+        <item>Aplicacions</item>
+        <item>Aplicacions i dades</item>
      </string-array>
      <string-array name="backup_dialog_content_type">
-        <item>Datos Wi-Fi</item>
-        <item>Todas las apps</item>
+        <item>Dades Wi-Fi</item>
+        <item>Totes les apps</item>
      </string-array>
      <string-array name="cloud_account_data">
-        <item>Contactos</item>
-        <item>Configuración Wi-Fi</item>
-        <item>Notas</item>
+        <item>Contactes</item>
+        <item>Configuració Wi-Fi</item>
+        <item>Notes</item>
      </string-array>
      <string-array name="cloud_data_label">
-        <item>Contactos</item>
-        <item>Registro de llamadas</item>
-        <item>Mensajes</item>
-        <item>Configuración Wi-Fi</item>
-        <item>Notas</item>
+        <item>Contactes</item>
+        <item>Registre de trucades</item>
+        <item>Missatges</item>
+        <item>Configuració Wi-Fi</item>
+        <item>Notes</item>
      </string-array>
      <string-array name="cloud_sim_data">
-        <item>Registros de llamadas</item>
-        <item>Mensajes</item>
+        <item>Registres de trucades</item>
+        <item>Missatges</item>
      </string-array>
      <string-array name="font_size_scale">
         <item>0.86</item>
@@ -33,24 +33,24 @@
         <item>1.21</item>
      </string-array>
      <string-array name="system_data_label">
-        <item>Contactos</item>
-        <item>Registro de llamadas</item>
-        <item>Mensajes</item>
-        <item>Mensajes multimedia</item>
-        <item>Configuración del sistema</item>
-        <item>Configuración Wi-Fi</item>
-        <item>Diseño de pantalla de inicio</item>
-        <item>Ajustes de la alarma</item>
-        <item>Notas</item>
+        <item>Contactes</item>
+        <item>Registre de trucades</item>
+        <item>Missatges</item>
+        <item>Missatges multimèdia</item>
+        <item>Configuració del sistema</item>
+        <item>Configuració Wi-Fi</item>
+        <item>Disseny de pantalla d\'inici</item>
+        <item>Configuració de l\'alarma</item>
+        <item>Notes</item>
         <item>No molestar</item>
-        <item>Cuenta</item>
+        <item>Compte</item>
      </string-array>
      <string-array name="system_package_label">
         <item>Navegador</item>
         <item>Permisos</item>
-        <item>Cámara</item>
-        <item>Uso de datos</item>
-        <item>Datos meteorológicos</item>
-        <item>Tiempo</item>
+        <item>Camèra</item>
+        <item>Ús de dades</item>
+        <item>Dades meteorològiques</item>
+        <item>Temps</item>
      </string-array>
 </resources>

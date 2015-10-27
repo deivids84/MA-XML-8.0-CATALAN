@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="mins_ago">
+        <item quantity="other">Fa %1$d minuts</item>
+        <item quantity="zero">Fa %1$d minuts</item>
+        <item quantity="one">Fa %1$d minut</item>
+        <item quantity="two">Fa %1$d minuts</item>
+        <item quantity="few">Fa %1$d minuts</item>
+        <item quantity="many">Fa %1$d minuts</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Fa %1$d hores</item>
+        <item quantity="zero">Fa %1$d hores</item>
+        <item quantity="one">Fa %1$d hora</item>
+        <item quantity="two">Fa %1$d hores</item>
+        <item quantity="few">Fa %1$d hores</item>
+        <item quantity="many">Fa %1$d hores</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Fa %1$d dies</item>
+        <item quantity="zero">Fa %1$d dies</item>
+        <item quantity="one">Fa %1$d dia</item>
+        <item quantity="two">Fa %1$d dies</item>
+        <item quantity="few">Fa %1$d dies</item>
+        <item quantity="many">Fa %1$d dies</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Descarregat per %1$d persones</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Descarregat per %1$d persones</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Descarregat per %1$d persones</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
-        <item quantity="other">%d grupos</item>
-        <item quantity="one">%d grupo</item>
+        <item quantity="other">%d grups</item>
+        <item quantity="one">%d grup</item>
     </plurals>
 </resources>

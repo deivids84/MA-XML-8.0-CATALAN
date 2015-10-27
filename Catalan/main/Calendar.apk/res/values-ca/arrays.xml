@@ -2,22 +2,22 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string-array name="reminder_methods_labels">
-        <item>Notificación</item>
-        <item>Email</item>
-        <item>Mensaje de texto</item>
+        <item>Notificació</item>
+        <item>Correu electronic</item>
+        <item>Missatge de text</item>
         <item>Alarma</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>Sin aviso</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>Sense avís</item>
+        <item>0 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
         <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
+        <item>1 dia</item>
+        <item>2 dies</item>
+        <item>1 setmana</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
@@ -32,16 +32,16 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Sin aviso</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>Sense avís</item>
+        <item>0 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
         <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
+        <item>1 dia</item>
+        <item>2 dies</item>
+        <item>1 setmana</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
@@ -56,69 +56,69 @@
         <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Por defecto</item>
-        <item>Sábado</item>
-        <item>Domingo</item>
-        <item>Lunes</item>
+        <item>Per defecte</item>
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+        <item>Dilluns</item>
     </string-array>
     <string-array name="timezone_labels">
-        <item>Islas Marshall</item>
-        <item>Islas Midway</item>
-        <item>Hawái</item>
+        <item>Illes Marshall</item>
+        <item>Illes Midway</item>
+        <item>Hawaii</item>
         <item>Alaska</item>
-        <item>Hora del Pacífico</item>
+        <item>Hora del Pacífic</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Hora de montaña</item>
-        <item>América Central</item>
+        <item>Hora de muntanya</item>
+        <item>Amèrica Central</item>
         <item>Hora central</item>
-        <item>Ciudad de México</item>
+        <item>Ciutat de Mèxic</item>
         <item>Saskatchewan</item>
-        <item>Bogotá</item>
-        <item>Hora del este</item>
-        <item>Venezuela</item>
-        <item>Hora del Atlántico (Barbados)</item>
-        <item>Hora del Atlántico (Canadá)</item>
-        <item>Manaos</item>
+        <item>Bogotà</item>
+        <item>Hora del est</item>
+        <item>Veneçuela</item>
+        <item>Hora de l\'Atlàntic (Barbados)</item>
+        <item>Hora de l\'Atlàntic (Canadà)</item>
+        <item>Manaus</item>
         <item>Santiago</item>
-        <item>Isla de Terranova</item>
-        <item>Brasilia</item>
+        <item>Illa de Terranova</item>
+        <item>Brasília</item>
         <item>Buenos Aires</item>
         <item>Greenland</item>
         <item>Montevideo</item>
-        <item>Medio-Atlántico</item>
-        <item>Azores</item>
-        <item>Islas de Cabo Verde</item>
+        <item>Mig-Atlàntic</item>
+        <item>Açores</item>
+        <item>Illes de Cap Verd</item>
         <item>Casablanca</item>
         <item>Londres, Dublín</item>
         <item>Amsterdam, Berlín</item>
-        <item>Belgrado</item>
-        <item>Bruselas</item>
+        <item>Belgrad</item>
+        <item>Brussel·les</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
-        <item>Hora de África Occi.</item>
-        <item>Amman, Jordania</item>
-        <item>Atenas, Estambul</item>
-        <item>Beirut, Libano</item>
-        <item>El Cairo</item>
-        <item>Helsinki</item>
-        <item>Jerusalén</item>
+        <item>Hora d\'Àfrica Occi.</item>
+        <item>Amman, Jordània</item>
+        <item>Atenes, Istanbul</item>
+        <item>Beirut, Liban</item>
+        <item>El Caire</item>
+        <item>Hèlsinki</item>
+        <item>Jerusalem</item>
         <item>Minsk</item>
         <item>Harare</item>
         <item>Bagdad</item>
-        <item>Moscú</item>
+        <item>Moscou</item>
         <item>Kuwait</item>
         <item>Nairobi</item>
-        <item>Teherán</item>
+        <item>Teheran</item>
         <item>Bakú</item>
         <item>Tbilisi</item>
-        <item>Yereván</item>
+        <item>Erevan</item>
         <item>Dubai</item>
         <item>Kabul</item>
         <item>Islamabad, Karachi</item>
         <item>"Uralsk"</item>
-        <item>Ekaterimburgo</item>
+        <item>Iekaterimburg</item>
         <item>Kolkata</item>
         <item>Sri Lanka</item>
         <item>Katmandú</item>
@@ -126,14 +126,14 @@
         <item>Rangún</item>
         <item>Krasnoyarsk</item>
         <item>Bangkok</item>
-        <item>Pekín</item>
+        <item>Pequín</item>
         <item>Hong Kong</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
-        <item>Taipéi</item>
-        <item>Seúl</item>
-        <item>Tokio, Osaka</item>
+        <item>Taipei</item>
+        <item>Seül</item>
+        <item>Tòquio, Osaka</item>
         <item>Yakutsk</item>
         <item>Adelaida</item>
         <item>Darwin</item>
@@ -148,85 +148,85 @@
         <item>Tonga</item>
     </string-array>
 	<string-array name="availability">
-        <item>Ocupado</item>
+        <item>Ocupat</item>
         <item>Disponible</item>
-        <item>Tentativa</item>
+        <item>Temptativa</item>
     </string-array>
     <string-array name="visibility">
-        <item>Por defecto</item>
-        <item>Privado</item>
-        <item>Público</item>
+        <item>Per defecte</item>
+        <item>Privat</item>
+        <item>Públic</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>primero</item>
-        <item>segundo</item>
-        <item>tercero</item>
-        <item>cuarto</item>
-        <item>último</item>
+        <item>prime</item>
+        <item>segon</item>
+        <item>tercer</item>
+        <item>quart</item>
+        <item>últim</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Sin respuesta</item>
+        <item>Sense resposta</item>
         <item>Sí</item>
-        <item>Quizás</item>
+        <item>Potser</item>
         <item>No</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Sólo este evento</item>
-        <item>Este y futuros eventos</item>
-        <item>Todos los eventos</item>
+        <item>Només aquest esdeveniment</item>
+        <item>Aquests i futurs esdeveniments</item>
+        <item>Tots els esdeveniments</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Este y futuros eventos</item>
-        <item>Todos los eventos</item>
+        <item>Aquest i futurs esdeveniments</item>
+        <item>Tots els esdeveniments</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Sólo este evento</item>
-        <item>Todos los eventos de la serie</item>
+        <item>Només aquest esdeveniment</item>
+        <item>Tots els esdeveniments de la sèrie</item>
     </string-array>
     <string-array name="buttons_list">
-        <item>Día</item>
-        <item>Semana</item>
+        <item>Dia</item>
+        <item>Setmana</item>
         <item>Mes</item>
         <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Me retrasaré un par de minutos.</item>
-        <item>Estoy allí en 10 minutos.</item>
-        <item>Empieza sin mí.</item>
-        <item>"Lo siento, no puedo ir. Tendremos que aplazar la cita."</item>
+        <item>Em retrassaré un parell de minuts.</item>
+        <item>Estic allà en 10 minuts.</item>
+        <item>Comença sense mi.</item>
+        <item>"Ho sento, no puc venir. Haurem d\'ajornar la cita."</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Siempre</item>
-        <item>Sólo cuando se silencia el timbre</item>
-        <item>Nunca</item>
+        <item>Sempre</item>
+        <item>Només quan es silencia el timbre</item>
+        <item>Mai</item>
     </string-array>
 	<string-array name="widget_style_list">
-		<item>Transparente</item>
-		<item>Fondo blanco</item>
+		<item>Transparent</item>
+		<item>Fons blanc</item>
 	</string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>Sin recordatorio</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>Sense recordatori</item>
+        <item>0 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
         <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
+        <item>1 dia</item>
+        <item>2 dies</item>
+        <item>1 setmana</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
-        <item>Sin recordatorio</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>Sense recordatori</item>
+        <item>0 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
         <item>1 hora</item>
-        <item>1 día</item>
-        <item>2 días</item>
-        <item>1 semana</item>
+        <item>1 dia</item>
+        <item>2 dies</item>
+        <item>1 setmana</item>
     </string-array>
     <integer-array name="online_reminder_minutes_values">
         <item>0</item>
@@ -247,17 +247,17 @@
         <item>10080</item>
     </integer-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 horas</item>
-        <item>4 horas</item>
-        <item>5 horas</item>
-        <item>6 horas</item>
-        <item>1 día</item>
+        <item>3 hores</item>
+        <item>4 hores</item>
+        <item>5 hores</item>
+        <item>6 hores</item>
+        <item>1 dia</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
-        <item>día</item>
-        <item>semana</item>
+        <item>dia</item>
+        <item>setmana</item>
         <item>mes</item>
-        <item>año</item>
+        <item>any</item>
     </string-array>
 	<string-array name="repeat_choose_day">
         <item>1</item>
@@ -293,44 +293,44 @@
         <item>31</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mie</item>
-        <item>Jue</item>
-        <item>Vie</item>
-        <item>Sab</item>
-        <item>Dom</item>
+        <item>Dl.</item>
+        <item>Dt.</item>
+        <item>Dc.</item>
+        <item>Dj.</item>
+        <item>Dv.</item>
+        <item>Ds.</item>
+        <item>Dg.</item>
     </string-array>
     <string-array name="repeat_choose_month">
-        <item>Ene</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Abr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Ago</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dic</item>
+        <item>Gen.</item>
+        <item>Febr.</item>
+        <item>Març</item>
+        <item>Abr.</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Jul.</item>
+        <item>Ag.</item>
+        <item>Set.</item>
+        <item>Oct.</item>
+        <item>Nov.</item>
+        <item>Des.</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>primero</item>
-        <item>segundo</item>
-        <item>tercero</item>
-        <item>cuarto</item>
-        <item>último</item>
+        <item>primer</item>
+        <item>segon</item>
+        <item>tercer</item>
+        <item>quart</item>
+        <item>últim</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
-        <item>Lun - Vie</item>
-        <item>Fin de semana</item>
-        <item>Semana entera</item>
+        <item>Dll - Dv</item>
+        <item>Cap de setmana</item>
+        <item>Setmana sencera</item>
     </string-array>
 	<string-array name="repeat_choose_end">
-        <item>Nunca</item>
-        <item>Tiempo</item>
-        <item>Contar</item>
+        <item>Mai</item>
+        <item>Temps</item>
+        <item>Comptar</item>
     </string-array>
     <array name="account_birthday">
         <item>#ffe99080</item>

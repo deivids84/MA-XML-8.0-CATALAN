@@ -22,28 +22,28 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
      </string-array>
      <string-array name="menu_theme_setting">
-        <item>Blanco</item>
-        <item>Amarillo</item>
+        <item>Blanc</item>
+        <item>Groc</item>
         <item>Gris</item>
-        <item>Marrón</item>
-        <item>Verde</item>
-        <item>Azul</item>
+        <item>Marró</item>
+        <item>Verd</item>
+        <item>Blau</item>
      </string-array>
      <string-array name="pre_webapp_text_sizes">
-        <item>Mayor</item>
-        <item>Grande</item>
+        <item>Major</item>
+        <item>Gran</item>
         <item>Normal</item>
-        <item>Pequeño</item>
+        <item>Petit</item>
      </string-array>
      <string-array name="pref_content_plugins_choices">
-        <item>Siempre activado</item>
-        <item>Preguntar antes</item>
-        <item>Desactivado</item>
+        <item>Sempre activat</item>
+        <item>Preguntar abans</item>
+        <item>Desactivat</item>
      </string-array>
      <string-array name="pref_data_preload_choices">
-        <item>Nunca</item>
-        <item>Sólo con Wi-Fi</item>
-        <item>Siempre</item>
+        <item>Mai</item>
+        <item>Només amb Wi-Fi</item>
+        <item>Sempre</item>
      </string-array>
      <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
@@ -56,9 +56,9 @@
         <item>Korean (EUC-KR)</item>
      </string-array>
      <string-array name="pref_default_zoom_choices">
-        <item>Pequeño</item>
-        <item>Medio</item>
-        <item>Grande</item>
+        <item>Petit</item>
+        <item>Mitja</item>
+        <item>Gran</item>
      </string-array>
      <string-array name="pref_development_ua_choices">
         <item>Android</item>
@@ -69,33 +69,33 @@
         <item>Honeycomb-Xoom</item>
      </string-array>
      <string-array name="pref_fling_on_border_choices">
-        <item>Página siguiente/anterior</item>
-        <item>Alternar ventana</item>
+        <item>Pàgina següent/anterior</item>
+        <item>Canviar finestra</item>
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Default start page</item>
         <item>Custom</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
-        <item>Nunca</item>
-        <item>Sólo con Wi-Fi</item>
-        <item>Siempre</item>
+        <item>Mai</item>
+        <item>Només amb Wi-Fi</item>
+        <item>Sempre</item>
      </string-array>
      <string-array name="pref_link_prefetch_choices">
-        <item>Nunca</item>
-        <item>Sólo con Wi-Fi</item>
-        <item>Siempre</item>
+        <item>Mai</item>
+        <item>Només amb Wi-Fi</item>
+        <item>Sempre</item>
      </string-array>
      <string-array name="pref_text_size_choices">
-        <item>Diminuto</item>
-        <item>Pequeño</item>
+        <item>Diminut</item>
+        <item>Petit</item>
         <item>Normal</item>
-        <item>Grande</item>
+        <item>Gran</item>
         <item>Enorme</item>
      </string-array>
      <string-array name="pref_text_zoom_choices">
-        <item>Diminuto</item>
-        <item>Pequeño</item>
+        <item>Diminut</item>
+        <item>Petit</item>
         <item>Normal</item>
         <item>Grande</item>
         <item>Enorme</item>
@@ -107,28 +107,17 @@
         <item>iPad</item>
      </string-array>
      <string-array name="pref_video_preload_choices">
-        <item>Nunca</item>
-        <item>Sólo con Wi-Fi</item>
-        <item>Siempre</item>
+        <item>Mai</item>
+        <item>Només amb Wi-Fi</item>
+        <item>Sempre</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
-        <item>Página anterior/Página siguiente</item>
-        <item>Pestaña anterior/Pestaña siguiente</item>
-     </string-array>
-     <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
+        <item>Pàgina anterior/Pàgina següent</item>
+        <item>Pestanya anterior/Pestanya següent</item>
      </string-array>
      <string-array name="search_engines_default">
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_rCN">
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>google</item>
-        <item>bing_zh_CN</item>
      </string-array>
 </resources>

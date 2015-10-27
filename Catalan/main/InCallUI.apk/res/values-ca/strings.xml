@@ -44,10 +44,12 @@
   <string name="call_recording_notification_message_sd_unmounted">La targeta SD s\'ha tret.</string>
   <string name="call_recording_notification_title">Trucada gravada</string>
   <string name="call_recording_notification_title_error">No s\'ha pogut gravar la trucada </string>
+  <string name="call_self">No es pot marcar el teu propi telèfon</string>
   <string name="call_title_redialing_with_times">Tornat a marcar %d vegades</string>
   <string name="caller_manage_header">Trucada de conferència %s</string>
   <string name="calling_via_template">Trucant via %s</string>
   <string name="cancel">Cancel·lar</string>
+  <string name="cancel_call">Penjar</string>
   <string name="card_title_call_ended">"La trucada ha finalitzat "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">Trucant</string>
@@ -81,6 +83,7 @@
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Respondre</string>
+  <string name="dial_with_gsm_phone">Trucada normal</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
   <string name="fraud_call_answer">Respondre</string>
   <string name="fraud_call_decline">Rebutjar</string>
@@ -116,10 +119,17 @@
   <string name="modify_call_option_vt_tx">Transmetre vídeo</string>
   <string name="modify_call_prompt_no">No</string>
   <string name="modify_call_prompt_yes">Sí</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="network_error_message">Intenta fer una trucada normal. Será cobrada per el teu operador.</string>
+  <string name="network_error_title">Error de xarxa</string>
+  <string name="no_balance_message">No tens saldo suficient en el teu paquet de recàrrega. Pots fer una trucada normal al seu lloc.</string>
+  <string name="no_balance_title">Saldo insuficient</string>
   <string name="no_vm_number">No hi ha número de bústia de veu</string>
   <string name="no_vm_number_msg">Cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraure menú</string>
   <string name="non_ivr_menu_view_menu">Veure menú</string>
+  <string name="not_support_message">El paquet de recàrrega no suporta aquests nombres. Pots fer una trucada normal al seu lloc.</string>
+  <string name="not_support_title">Número no suportat</string>
   <string name="notification_action_accept">D\'acord</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Veu</string>
@@ -159,6 +169,7 @@
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Telèfon públic</string>
   <string name="private_num">Número privat</string>
+  <string name="purchase_now">Recarregar</string>
   <string name="respond_via_sms_custom_message">Escriu el teu propi…</string>
   <string name="select_voice_call_sim">Triar targeta SIM</string>
   <string name="separate_from_conference">Separada trucada</string>
