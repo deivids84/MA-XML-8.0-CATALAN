@@ -16,7 +16,7 @@
   <string name="menu_share">Compartir</string>
   <string name="menu_sort">Ordenar per</string>
   <string name="mode_selected_count">%1$d seleccionats</string>
-  <string name="pref_advanced_devices">Mostrar dispositius avanzaçats</string>
+  <string name="pref_advanced_devices">Mostrar dispositius avançats</string>
   <string name="pref_device_size">Mida de dispositiu de pantalla</string>
   <string name="pref_file_size">Mostrar mida d'arxiu</string>
   <string name="query_error">No s'ha pogut consultar els documents</string>
