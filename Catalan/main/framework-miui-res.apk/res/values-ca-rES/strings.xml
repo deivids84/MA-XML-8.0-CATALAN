@@ -5,7 +5,7 @@
   <string name="activating">Activant…</string>
   <string name="alwaysUsePrompt">"No mostrar de nou"</string>
   <string name="anniversary_of_lifting_martial_law">Aniversari de l\'Aixecament de la Llei Marcial</string>
-  <string name="anti_aggression_day"> Dia de l\'agressió Japonesa </string>
+  <string name="anti_aggression_day"> Dia de l\'agressió Japonesa</string>
   <string name="app_no_notification">Amaga notificacions</string>
   <string name="app_notificaiton_on_notificationBar">Enfosquir notificació</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra d\'estat, enfosquir notificació</string>
@@ -32,7 +32,7 @@
   <string name="device_xiaomi">Mi Phone</string>
   <string name="double_seventh_day">七夕</string>
   <string name="easter">Pasqua</string>
-  <string name="err_resource_leak">Ho sento, %1s s\'ha Detingut</string>
+  <string name="err_resource_leak">Ho sento, %1$s s\'ha Detingut</string>
   <string name="error_forbidden">Sincronització per problemes amb la conta Mi.</string>
   <string name="error_not_acceptable">Sincronizació desactivada.</string>
   <string name="error_title">"No s\'ha pogut sincronitzar"</string>
@@ -57,7 +57,7 @@ Si us plau desactivi mode avió."</string>
   <string name="first_back_long_press_message">"Premi i mantingui enrere per matar el procés real i els seus serveis en segon pla.
 
 Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
-  <string name="fm_record_smaple_prefix_miui">Grabació de FM</string>
+  <string name="fm_record_smaple_prefix_miui">Gravació de FM</string>
   <string name="fools_day">Dia dels Sants Innocents</string>
   <string name="force_exit_message">Tancat \"%1$s\"</string>
   <string name="format_time_in_12_hours">hh:mma</string>
@@ -95,11 +95,11 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="lunar_chu">Primera</string>
   <string name="lunar_chu_shi">Desena</string>
   <string name="lunar_er">Segona</string>
-  <string name="lunar_er_shi">Veinte</string>
-  <string name="lunar_jiu">Vint</string>
+  <string name="lunar_er_shi">Vint</string>
+  <string name="lunar_jiu">Nou</string>
   <string name="lunar_leap">Lluna plena</string>
   <string name="lunar_ling">Lluna nova</string>
-  <string name="lunar_liu">sis</string>
+  <string name="lunar_liu">Sis</string>
   <string name="lunar_nian">Vint</string>
   <string name="lunar_qi">Set</string>
   <string name="lunar_san">Tres</string>
@@ -146,7 +146,7 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="perm_data_update_dspt">Permetre enviament de marca d\'aigua d'actualització de Dades</string>
   <string name="perm_data_update_lab">Actualització de dades</string>
   <string name="perm_payment_dspt">Permetre a les aplicacions pagar amb Mi Pay</string>
-  <string name="perm_payment_lab">Mi Pay</ string>
+  <string name="perm_payment_lab">Mi Pay</string>
   <string name="perm_send_push_dspt">Permetre missatges automàtics de Xiaomi </string>
   <string name="perm_send_push_lab">Enviar missatge automàtic</string>
   <string name="perm_tigger_toggle_dspt">Permetre que les aplicacions activin alternança en la barra d\'estat</string>
@@ -169,19 +169,19 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="screen_on_proximity_sensor_summary"> "No cobreixi la part superior, de la Pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evitar marcació quan el telèfon està en la butxaca</string>
   <string name="sd_not_available">Targeta SD no detectada</string>
-  <string name="sd_not_available_low_internal_storage">Targeta SD no disponible. Guardat en Emmagatzematge intern.</String>
+  <string name="sd_not_available_low_internal_storage">Targeta SD no disponible. Guardat en Emmagatzematge intern.</string>
   <string name="sd_not_available_saved_to_internal_storage">Desat en emmagatzematge intern</string>
-  <string name="sd_not_available_use_internal_storage">Targeta SD no disponible. Guardat en emmagatzematge intern.</String>
+  <string name="sd_not_available_use_internal_storage">Targeta SD no disponible. Guardat en emmagatzematge intern.</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tot</string>
   <string name="send">Envia</string>
-  <string name="send_sms_for_sync_notice">S\'enviarà un SMS per activar-lo. Es farà càrrec de les despeses establertes pel seu proveïdor.</String>
+  <string name="send_sms_for_sync_notice">S\'enviarà un SMS per activar-lo. Es farà càrrec de les despeses establertes pel seu proveïdor.</string>
   <string name="send_sms_for_sync_title">"No s\'ha activat la sincronització"</string>
   <string name="share">Compartir</string>
   <string name="shutdown_confirm_title">El telèfon s\'apagarà.</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">La seva targeta SIM ha sigut desactivada. S\'enviarà un SMS internacional per reactivar-la. Es farà carrec de les despeses internacionals establerts pel seu proveïdor."</string>
-  <string name="sim_changed_reactivate_notice">"La seva targeta SIM ha sigut desactivada. S\'enviarà un SMS internacional per reactivar-la. Es farà carrec de les despeses internacionals establerts pel seu proveïdor."</ string>
+  <string name="sim_changed_reactivate_notice">"La seva targeta SIM ha sigut desactivada. S\'enviarà un SMS internacional per reactivar-la. Es farà carrec de les despeses internacionals establerts pel seu proveïdor."</string>
   <string name="sim_in_airplane_mode">Desactivar el mode avió.</string>
   <string name="sim_locked">La targeta SIM està Bloquejada</string>
   <string name="sim_not_ready">La Targeta SIM està actualment en ús.</string>
@@ -204,14 +204,14 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="sync_data_merge_warning_desc">"Les dades del teu telèfon (p. ex. %s) es combinaran amb les dades sincronitzades de Mi Cloud."</string>
   <string name="sync_data_merge_warning_ok">Combina</string>
   <string name="sync_data_merge_warning_title">Advertència de combinació de dades</string>
-  <string name="sync_data_mms">SMS</ string>
+  <string name="sync_data_mms">SMS</string>
   <string name="sync_data_msg_seperate">,</string>
   <string name="sync_data_notes">notes</string>
   <string name="sync_data_recover_warning_cancel">Anul·la</string>
   <string name="sync_data_recover_warning_desc">"Les dades que recuperarà de Mi Cloud (per exemple, %s) es sincronitzaran amb aquest dispositiu."</string>
-  <string name="sync_data_recover_warning_ok">D'acord</string>
+  <string name="sync_data_recover_warning_ok">D\'acord</string>
   <string name="sync_data_recover_warning_title">Advertència de recuperació de dades</string>
-  <string name="sync_one_time_sync">Toc per sincronitzar ( %1s ).</string>
+  <string name="sync_one_time_sync">Toc per sincronitzar ( %$1s ).</string>
   <string name="teachers_day">Dia del Professor</string>
   <string name="text_copied">Text copiat</string>
   <string name="text_cut">Tallar text</string>
@@ -222,7 +222,7 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="the_first_weekday_after_christmas">Primer dia de la setmana Despres De Nadal</string>
   <string name="the_laba_rice_porridge_festival">Dia de les Llums</string>
   <string name="the_mid_autumn_festival">Festival de Mitja-Tardor</string>
-  <string name="the_rains">Plujes</ string>
+  <string name="the_rains">Plujes</string>
   <string name="the_spring_festival">Festival d\'Estiu</string>
   <string name="toast_lockscreen_glogin_empty_password">Contrasenya requerida.</string>
   <string name="today">Avui</string>
@@ -234,8 +234,8 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="unknown_caller">Trucada desconeguda</string>
   <string name="user_agreement1">"En pressionar D'acord, acceptes els Termes i Condicions descrits en Xiaomi"</string>
   <string name="user_agreement2">"Acord de l\'Usuari"</string>
-  <string name="user_agreement3">"i"</ string>
-  <string name="user_agreement4">Política de privacitat. </string>
+  <string name="user_agreement3">"i"</string>
+  <string name="user_agreement4">Política de privacitat.</string>
   <string name="v5_date_time_picker_dialog_title">Fixar hora del recordatori</string>
   <string name="v5_deselect_all">Deseleccionar tot</string>
   <string name="v5_edit_mode_title_empty">0 seleccionats</string>
