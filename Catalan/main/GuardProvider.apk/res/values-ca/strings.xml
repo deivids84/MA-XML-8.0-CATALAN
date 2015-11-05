@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">com.securitycore.miui_t</string>
-  <string name="avl_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de AVL (%s).</string>
-  <string name="avl_dialog_policy">ver Política de Privacidad</string>
-  <string name="avl_dialog_title">Política de Privacidad de AVL</string>
-  <string name="hello_world">¡Hola mundo!</string>
-  <string name="menu_settings">Ajustes</string>
-  <string name="tencent_dialog_cloudscan">Subir y escanear nombres y detalles de aplicaciones usando definiciones de virus en línea.</string>
-  <string name="tencent_dialog_dbupdate">Actualizar definiciones de virus automáticamente</string>
-  <string name="tencent_dialog_header">Esta funcionalidad encripta y sube el ID de tu dispositivo a los servidores de Tencent (%s).</string>
-  <string name="tencent_dialog_policy">ver Política de Privacidad</string>
-  <string name="tencent_dialog_title">Política de Privacidad de Tencent</string>
+  <string name="avl_dialog_header">Aquesta funcionalitat encripta i puja el ID del teu Dispositiu als servidors d'\AVL (% s).</string>
+  <string name="avl_dialog_policy">veure Política de Privacitat</string>
+  <string name="avl_dialog_title">Política de Privacitat d\'AVL</string>
+  <string name="hello_world">Hola món!</string>
+  <string name="menu_settings">Ajustos</string>
+  <string name="tencent_dialog_cloudscan"> Puja i escanejar noms i detalls d\'Aplicacions fent servir definicions de virus en línia.</string>
+  <string name="tencent_dialog_dbupdate">Actualitza definicions de virus automàticament</string>
+  <string name="tencent_dialog_header">Aqiesta funcionalitat encripta i puja el ID del teu dispositiu als servidors de Tencent (% s).</string>
+  <string name="tencent_dialog_policy">Veure política de privacitat</string>
+  <string name="tencent_dialog_title">Política de privacitat de Tencent</string>
 </resources>
