@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
      <string-array name="cfg_rf">
         <item>Establir FM RSSI Delta</item>
         <item>Establir llindar de senyal</item>
@@ -91,7 +90,7 @@
         <item>Obtenir els Paràmetres de l\'emissora actual</item>
         <item>Obtenir els Paràmetres emissora, repetir 20 Vegades</item>
         <item>Obtenir els Paràmetres de cerca de l\'emissora</item>
-        <item>Obtenir els paràmetres d'escombrat de banda FM</item>
+        <item>Obtenir els paràmetres d\'escombrat de banda FM</item>
         <item>Configura els Paràmetres de cerca FM</item>
      </string-array>
      <string-array name="search_category_rbds_entries">
@@ -157,12 +156,21 @@
         <item>Variat</item>
         <item>El Temps</item>
      </string-array>
-=======
->>>>>>> origin/master
      <string-array name="sleep_duration_values">
         <item>15 minuts</item>
         <item>30 minuts</item>
         <item>45 minuts</item>
         <item>1 hora</item>
+     </string-array>
+     <string-array name="sleep_duration_values_seconds">
+        <item>900</item>
+        <item>1800</item>
+        <item>2700</item>
+        <item>3600</item>
+     </string-array>
+     <string-array name="stats_options">
+        <item>Sel·leccionar l\'opció</item>
+        <item>Configura els paràmetres de cerca FM/item>
+        <item>Estadístiques de RF</item>
      </string-array>
 </resources>
