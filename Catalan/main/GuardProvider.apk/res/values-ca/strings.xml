@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">com.securitycore.miui_t</string>
   <string name="avl_dialog_header">Aquesta funcionalitat encripta i puja el ID del teu Dispositiu als servidors d\'AVL (%s).</string>
   <string name="avl_dialog_policy">veure Política de Privacitat</string>
   <string name="avl_dialog_title">Política de Privacitat d\'AVL</string>
