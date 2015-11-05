@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cloud_state_disabled">Sincronización con Mi Cloud apagada</string>
-  <string name="cloud_state_finished">Sincronizado con Mi Cloud</string>
-  <string name="cloud_state_syncing">Sincronizado con Mi Cloud</string>
-  <string name="presentation_unknown">Número desconocido</string>
+  <string name="cloud_state_disabled">Sincronització amb Mi Cloud apagada</string>
+  <string name="cloud_state_finished">Sincronització amb Mi Cloud</string>
+  <string name="cloud_state_syncing">Sincronizat amb Mi Cloud</string>
+  <string name="presentation_unknown">Nombre desconegut</string>
 </resources>
