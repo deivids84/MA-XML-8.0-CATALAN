@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="BaMmi">Bloqueig de trucada</string>
-  <string name="CLIRDefaultOffNextCallOff">L\'ID d\'emissor presenta el valor per defecte de no restringit. Següent trucada: No restringit</string>
-  <string name="CLIRDefaultOffNextCallOn">L\'ID d\'emissor presenta el valor per defecte de no restringit. Següent trucada: Restringit</string>
-  <string name="CLIRDefaultOnNextCallOff">L\'ID d\'emissor presenta el valor predeterminat de restringit. Següent trucada: No restringit </string>
+  <string name="BaMmi">Bloqueo de llamada</string>
+  <string name="CLIRDefaultOffNextCallOff">El ID de emisor presenta el valor predeterminado de no restringido. Siguiente llamada: No restringido</string>
+  <string name="CLIRDefaultOffNextCallOn">El ID de emisor presenta el valor predeterminado de no restringido. Siguiente llamada: Restringido</string>
+  <string name="CLIRDefaultOnNextCallOff">El ID de emisor presenta el valor predeterminado de restringido. Siguiente llamada: No restringido</string>
   <string name="CLIRDefaultOnNextCallOn">El ID de emisor presenta el valor predeterminado de restringido. Siguiente llamada: Restringido</string>
   <string name="CLIRPermanent">No puedes modificar el ID de emisor.</string>
   <string name="CfMmi">Desvío de llamada</string>
@@ -1293,7 +1293,7 @@ Escuchar sonidos a alto volumen durante largos períodos de tiempo puede dañar 
   <string name="searchview_description_voice">Búsqueda por voz</string>
   <string name="second">segundos</string>
   <string name="seconds">segundos</string>
-  <string name="selectAll">Seleccionar todo</string>
+  <string name="selectAll">Selec. todo</string>
   <string name="selectTextMode">Seleccionar texto</string>
   <string name="select_character">Insertar carácter</string>
   <string name="select_input_method">Selecciona un método de entrada</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Documents</string>
-  <string name="create_error">No s'ha pogut crear la carpeta</string>
+  <string name="create_error">No s\'ha pogut crear la carpeta</string>
   <string name="drawer_close">Amagar arbre de directoris</string>
   <string name="drawer_open">Mostrar arbre de directoris</string>
   <string name="empty">No hi ha elements</string>
@@ -18,13 +18,13 @@
   <string name="mode_selected_count">%1$d seleccionats</string>
   <string name="pref_advanced_devices">Mostrar dispositius avançats</string>
   <string name="pref_device_size">Mida de dispositiu de pantalla</string>
-  <string name="pref_file_size">Mostrar mida d'arxiu</string>
-  <string name="query_error">No s'ha pogut consultar els documents</string>
+  <string name="pref_file_size">Mostrar mida d\'arxiu</string>
+  <string name="query_error">No s\'ha pogut consultar els documents</string>
   <string name="root_available_bytes">%1$s lliure</string>
   <string name="root_recent">Recents</string>
   <string name="root_type_apps">Més aplicacions</string>
   <string name="root_type_device">Dispositius</string>
-  <string name="root_type_service">Serveis d'emmagatzematge</string>
+  <string name="root_type_service">Serveis d\'emmagatzematge</string>
   <string name="root_type_shortcut">Dreceres de teclat</string>
   <string name="save_error">Error al desar el document</string>
   <string name="share_via">Compartir a través de</string>

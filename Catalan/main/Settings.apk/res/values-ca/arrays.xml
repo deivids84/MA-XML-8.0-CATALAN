@@ -37,12 +37,12 @@
      </string-array>
      <string-array name="animator_duration_scale_entries">
         <item>Sense Animació</item>
-        <item>Escala de animación .5x</item>
-        <item>Escala de animación 1x</item>
-        <item>Escala de animación 1.5x</item>
-        <item>Escala de animación 2x</item>
-        <item>Escala de animación 5x</item>
-        <item>Escala de animación 10x</item>
+        <item>Escala d\'animació .5x</item>
+        <item>Escala d\'animació 1x</item>
+        <item>Escala d\'animació 1.5x</item>
+        <item>Escala d\'animació 2x</item>
+        <item>Escala d\'animació 5x</item>
+        <item>Escala d\'animació 10x</item>
      </string-array>
      <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -54,7 +54,7 @@
         <item>10</item>
      </string-array>
      <string-array name="apn_auth_entries">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP o CHAP</item>
@@ -76,106 +76,106 @@
         <item>IPV4V6</item>
      </string-array>
      <string-array name="app_install_location_entries">
-        <item>Almacenamiento interno del dispositivo</item>
-        <item>Tarjeta SD extraíble</item>
-        <item>Dejar decidir al sistema</item>
+        <item>Emmagatzematge intern del dispositiu</item>
+        <item>Targeta SD extraïble</item>
+        <item>Deixar decidir al sistema</item>
      </string-array>
      <string-array name="app_ops_categories">
-        <item>Ubicación</item>
+        <item>Ubicació</item>
         <item>Personal</item>
-        <item>Mensajería</item>
-        <item>Multimedia</item>
-        <item>Dispositivo</item>
+        <item>Missatgeria</item>
+        <item>Multimèdia</item>
+        <item>Dispositiu</item>
      </string-array>
      <string-array name="app_ops_labels">
-        <item>Ubicación</item>
-        <item>Ubicación</item>
-        <item>Ubicación</item>
-        <item>Vibrar</item>
-        <item>Leer contactos</item>
-        <item>Modificar contactos</item>
-        <item>Leer el registro de llamadas</item>
-        <item>Modificar el registro de llamadas</item>
-        <item>Leer calendario</item>
-        <item>Modificar calendario</item>
-        <item>Ubicación</item>
-        <item>Notificación de correos</item>
-        <item>Ubicación</item>
-        <item>Llamada de teléfono</item>
-        <item>Leer SMS/MMS</item>
-        <item>Escribir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
-        <item>Recibir SMS/MMS</item>
+        <item>Ubicació</item>
+        <item>Ubicació</item>
+        <item>Ubicació</item>
+        <item>Vibra</item>
+        <item>Llegir contactes</item>
+        <item>Modificar contactes</item>
+        <item>Llegir el registre de trucades</item>
+        <item>Modificar el registre de trucades</item>
+        <item>Llegir calendari</item>
+        <item>Modificar calendari</item>
+        <item>Ubicació</item>
+        <item>Notificació de correus</item>
+        <item>Ubicació</item>
+        <item>Trucada de telèfon</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
+        <item>Rebre SMS/MMS</item>
         <item>Enviar SMS/MMS</item>
-        <item>Leer SMS/MMS</item>
-        <item>Escribir SMS/MMS</item>
-        <item>Modificar la configuración</item>
-        <item>Dibujar en la parte superior</item>
-        <item>Notificaciones de acceso</item>
-        <item>Cámara</item>
-        <item>Grabación de audio</item>
-        <item>Reproducir audio</item>
-        <item>Leer portapapeles</item>
-        <item>Modificar portapapeles</item>
-        <item>Botones multimedia</item>
-        <item>Enfoque audio</item>
-        <item>Volumen principal</item>
-        <item>Volumen de voz</item>
-        <item>Volumen del timbre</item>
-        <item>Volumen multimedia</item>
-        <item>Volumen de la alarma</item>
-        <item>Volumen de notificación</item>
-        <item>Volumen de Bluetooth</item>
-        <item>Mantener despierto</item>
-        <item>Ubicación</item>
-        <item>Ubicación</item>
+        <item>Llegir SMS/MMS</item>
+        <item>Escriure SMS/MMS</item>
+        <item>Modificar la configuració</item>
+        <item>Dibuixar en la part superior</item>
+        <item>Notificacions d\'accés</item>
+        <item>Càmera</item>
+        <item>Gravació d\'àudio</item>
+        <item>Reproduir audio</item>
+        <item>Llegir portapapers</item>
+        <item>Modificar portapapers</item>
+        <item>Botons multimèdia</item>
+        <item>Enfocament àudio</item>
+        <item>Volum principal</item>
+        <item>Volum de veu</item>
+        <item>Volum del timbre</item>
+        <item>Volum multimèdia</item>
+        <item>Volum de l\'alarma</item>
+        <item>Volum de notificació</item>
+        <item>Volum de Bluetooth</item>
+        <item>Mantenir despert</item>
+        <item>Ubicació</item>
+        <item>Ubicació</item>
      </string-array>
      <string-array name="app_ops_summaries">
-        <item>Localización aproximada</item>
-        <item>Localizción precisa</item>
+        <item>Localització aproximada</item>
+        <item>Localització precisa</item>
         <item>GPS</item>
-        <item>Vibrar</item>
-        <item>Leer contactos</item>
-        <item>Modificar contactos</item>
-        <item>Leer el registro de llamadas</item>
-        <item>Modificar el registro de Llamadas</item>
-        <item>Leer el Calendario</item>
-        <item>Modificar el calendario</item>
-        <item>Buscar redes Wi-Fi</item>
+        <item>Vibra</item>
+        <item>Llegir contactes</item>
+        <item>Modificar contactes</item>
+        <item>Llegir el registre de trucades</item>
+        <item>Modificar el registre de trucades</item>
+        <item>Llegir el Calendari</item>
+        <item>Modificar el calendari</item>
+        <item>Cerca xarxes Wi-Fi</item>
         <item>Notificar</item>
-        <item>Búsqueda en célula</item>
-        <item>Llamada telefónica</item>
-        <item>Leer SMS</item>
-        <item>Escribir SMS</item>
-        <item>Recibir SMS</item>
-        <item>Recibir SMS de emergencia</item>
-        <item>Recibir MMS</item>
-        <item>Recibir WAP automáticos</item>
+        <item>Cerca en cèl·lula</item>
+        <item>Trucada telefònica</item>
+        <item>Llegir SMS</item>
+        <item>Escriure SMS</item>
+        <item>Rebre SMS</item>
+        <item>Rebre SMS d\'emergència</item>
+        <item>Rebre MMS</item>
+        <item>Rebre WAP automàtics</item>
         <item>Enviar SMS</item>
-        <item>Leer ICC SMS</item>
-        <item>Escribir ICC SMS</item>
-        <item>Modificar ajustes</item>
-        <item>Dibujar en la parte superior</item>
-        <item>Acceder a Notificaciones</item>
-        <item>Cámara de fotos</item>
-        <item>Grabar audio</item>
-        <item>Reproducir audio</item>
-        <item>Leer el portapapeles</item>
-        <item>Modificar el portapapeles</item>
-        <item>Botones multimedia</item>
-        <item>Enfocar audio</item>
-        <item>Volumen maestro</item>
-        <item>Volumen de voz</item>
-        <item>Volumen de llamada</item>
-        <item>Volumen multimedia</item>
-        <item>Volumen de la alarma</item>
-        <item>Volumen de notificación</item>
-        <item>Volumen Bluetooth</item>
-        <item>Mantener despierto</item>
-        <item>Monitorizar ubicación</item>
-        <item>Monitorizar ubicación con precisión</item>
+        <item>Llegir ICC SMS</item>
+        <item>Escriure ICC SMS</item>
+        <item>Modificar ajustaments</item>
+        <item>Dibuixar en la part superior</item>
+        <item>Accedir a Notificacions</item>
+        <item>Càmera de fotos</item>
+        <item>Gravar àudio</item>
+        <item>Reproduir audio</item>
+        <item>Llegir el portapapers</item>
+        <item>Modificar el portapapers</item>
+        <item>Botons multimèdia</item>
+        <item>Enfocar àudio</item>
+        <item>Volum mestre</item>
+        <item>Volum de veu</item>
+        <item>Volum de trucada</item>
+        <item>Volum multimèdia</item>
+        <item>Volum de l\'alarma</item>
+        <item>Volum de notificació</item>
+        <item>Volum Bluetooth</item>
+        <item>Mantenir despert</item>
+        <item>Monitoritzar ubicació</item>
+        <item>Monitoritzar ubicació amb precisió</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Límite estándar</item>
