@@ -61,7 +61,7 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="fools_day">Dia dels Sants Innocents</string>
   <string name="force_exit_message">Tancat \"%1$s\"</string>
   <string name="format_time_in_12_hours">hh:mma</string>
-  <string name="global_action_privacy_mode_dialog_message">S\'ocultaran a l\'usuari les trucades, notes, fotos, missatges i configuració de l'\interfície.</string>
+  <string name="global_action_privacy_mode_dialog_message">S\'ocultaran a l\'usuari les trucades, notes, fotos, missatges i configuració de la interfície.</string>
   <string name="global_action_toggle_privacy_mode">Mode convidat</string>
   <string name="good_friday">Divendres Sant</string>
   <string name="grain_buds">Brot del gra</string>
@@ -166,7 +166,7 @@ Per activar aquesta funció, vagi a Ajustos &gt; Sistema &gt; Botons"</string>
   <string name="screen_button_notification_text">Per tornar a activar-los, premi simultàniament els Botons Inici i Home.</string>
   <string name="screen_button_notification_title">Botons de navegació desactivats</string>
   <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premi simultàniament els botons Enrere i Pujar Volum.</string>
-  <string name="screen_on_proximity_sensor_summary"> "No cobreixi la part superior, de la Pantalla"</string>
+  <string name="screen_on_proximity_sensor_summary">"No cobreixi la part superior, de la Pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evitar marcació quan el telèfon està en la butxaca</string>
   <string name="sd_not_available">Targeta SD no detectada</string>
   <string name="sd_not_available_low_internal_storage">Targeta SD no disponible. Guardat en Emmagatzematge intern.</string>
