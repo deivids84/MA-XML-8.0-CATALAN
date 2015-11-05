@@ -1,10 +1,10 @@
 <strings>
-    <string name="MON" value="LUN"/>
-    <string name="TUE" value="MAR"/>
-    <string name="WED" value="MIE"/>
-    <string name="THU" value="JUE"/>
-    <string name="FRI" value="VIE"/>
-    <string name="SAT" value="SAB"/>
-    <string name="SUN" value="DOM"/>
-    <string name="language" value="es"/>
+    <string name="MON" value="DL"/>
+    <string name="TUE" value="DT"/>
+    <string name="WED" value="DC"/>
+    <string name="THU" value="DJ"/>
+    <string name="FRI" value="DV"/>
+    <string name="SAT" value="DS"/>
+    <string name="SUN" value="DG"/>
+    <string name="language" value="cat"/>
 </strings>
