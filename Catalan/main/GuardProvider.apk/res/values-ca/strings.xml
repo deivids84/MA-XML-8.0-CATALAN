@@ -8,7 +8,7 @@
   <string name="menu_settings">Ajustos</string>
   <string name="tencent_dialog_cloudscan"> Puja i escanejar noms i detalls d\'Aplicacions fent servir definicions de virus en línia.</string>
   <string name="tencent_dialog_dbupdate">Actualitza definicions de virus automàticament</string>
-  <string name="tencent_dialog_header">Aqiesta funcionalitat encripta i puja el ID del teu dispositiu als servidors de Tencent (% s).</string>
+  <string name="tencent_dialog_header">Aquesta funcionalitat encripta i puja el ID del teu dispositiu als servidors de Tencent (%s).</string>
   <string name="tencent_dialog_policy">Veure política de privacitat</string>
   <string name="tencent_dialog_title">Política de privacitat de Tencent</string>
 </resources>
