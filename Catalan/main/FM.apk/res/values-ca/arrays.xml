@@ -10,7 +10,6 @@
         <item>Reanomena</item>
         <item>Selecció automàtica</item>
         <item>Eliminar</item>
-
      </string-array>
      <string-array name="regional_band_entries">
         <item>Amèrica del Nord</item>
@@ -145,7 +144,7 @@
         <item>Notícies</item>
         <item>Música Nacional</item>
         <item>Un altre Música</item>
-        <item>Oldies Music </ item>
+        <item>Oldies Music </item>
         <item>Phone In</item>
         <item>Música pop</item>
         <item>Religió</item>
