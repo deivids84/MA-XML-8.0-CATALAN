@@ -47,6 +47,8 @@
      <string name="button_text_known">D\'acord</string>
      <string name="button_text_uninstall">Desinstal·lar</string>
      <string name="button_text_uninstall_only">Desinstal·lar %s</string>
+	 <string name="button_text_unselect_all">Desselecciona</string>
+	 <string name="button_text_unselect_pic">Desselecciona</string>
      <string name="button_text_view_detail">Detalls</string>
      <string name="button_text_view_file">Fitxer</string>
 	 <string name="buy_immediately">Comprar</string>

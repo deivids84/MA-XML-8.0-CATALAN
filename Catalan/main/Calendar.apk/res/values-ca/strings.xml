@@ -99,6 +99,7 @@
   <string name="delete_topic_dialog_title">Realment vol cancel·lar \"%s\" ?</string>
   <string name="delete_topic_success">Donar-se de baixa de \"%s\"</string>
   <string name="deleting_calendar">Donar-se de baixa a</string>
+  <string name="departure">sortida</string>
   <string name="description_label">Descripció</string>
   <string name="directory_searching_fmt">Buscant %s…</string>
   <string name="discard_label">Cancel·lar</string>
@@ -202,8 +203,10 @@
   <string name="not_exist_topic_list">No es pot obtenir una llista de calendari subscrit</string>
   <string name="not_synced">no sincronitzat</string>
   <string name="notice_button_ok">D\'acord</string>
+  <string name="notice_title_agreement">Condicions d\'ús</string>
   <string name="notice_title_request">Petició</string>
   <string name="online_calendar_activity_label">Sincronitzar el calendari</string>
+  <string name="online_notice_message">"En utilitzar aquest producte, acceptes estar d\'acord amb el nostre %1$s y %2$s. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
   <string name="online_reminder_change_text">Modificar recordatori</string>
   <string name="online_reminder_header_text">Recordar</string>
   <string name="online_reminder_minutes_text">Hora de recordatori</string>
@@ -314,7 +317,9 @@
   <string name="timezone_label">Zona horària</string>
   <string name="today">Avui</string>
   <string name="today_at_time_fmt">Avui a les %s</string>
+  <string name="today_flight_event">Vol</string>
   <string name="today_no_events">No hi ha esdeveniments</string>
+  <string name="today_train_event">Tren</string>
   <string name="tomorrow">Demà</string>
   <string name="tomorrow_at_time_fmt">Demà a les %s</string>
   <string name="topic_event_list_header_label">Propers esdeveniments</string>

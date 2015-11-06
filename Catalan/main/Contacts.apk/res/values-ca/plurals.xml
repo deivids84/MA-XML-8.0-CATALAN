@@ -117,8 +117,16 @@
         <item quantity="other">¿Desbloquejar aquets %1$d números?</item>
         <item quantity="one">¿Desbloquejar aquet número?</item>
     </plurals>
-     <plurals name="callNoAnswerTimeFormat">
+    <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Va sonar %d vegades</item>
         <item quantity="one">Va sonar %d vegada</item>
-     </plurals>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contactes</item>
+        <item quantity="one">%1$d contacte</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d contactes no sincronitzats</item>
+        <item quantity="one">1 contacte no sincronitzat</item>
+    </plurals>
 </resources>

@@ -17,7 +17,7 @@
   <string name="activity_find_city_dialog_title">Servei de localització</string>
   <string name="activity_main_refresh_fail">"No va ser possible la connexió a la xarxa"</string>
   <string name="activity_main_refresh_timeout">Actualitzar</string>
-  <string name="activity_main_time_format">dd/MM</string>
+  <string name="activity_main_time_format">d MMM</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_right_now">Ara</string>
   <string name="activity_weather_main_null_data">- -</string>
