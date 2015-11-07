@@ -683,8 +683,6 @@
   <string name="save_draft_failed">Guardar borrador a fallado</string>
   <string name="save_power_summary">Programar tiempos para reducir el uso de batería</string>
   <string name="save_power_title">Ahorro de batería</string>
-  <string name="save_power_summary">Ahorra energía en el ajuste del tiempo</string>
-  <string name="save_power_title">Modo ahorro de energía</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">Guardando…</string>
   <string name="sdcard_cannot_use">La tarjeta de almacenamiento no se puede utilizar</string>
