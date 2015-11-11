@@ -2028,7 +2028,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
      <string name="reset_legacy_password_settings_preface_text">Ha de canviar la contrasenya de pantalla de bloqueig.</string>
      <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
      <string name="restore_default_apn">Restaurant ajustos APN per defecte.</string>
-     <string name="restore_default_apn_completed">Reseteig dº'ajustos APN per defecte complet.</string>
+     <string name="restore_default_apn_completed">Reseteig d\'ajustos APN per defecte complet.</string>
      <string name="restrict_background_data_dialog_summary">Les aplicacions que s\'estan executant en segon pla no poden rebre missatges</string>
      <string name="restrict_background_data_notification_summary">"Les aplicacions no poden connectar-se a la xarxa si l\'ús de dades en segon pla està restringit"</string>
      <string name="restrict_background_data_title">Restringeix tràfic de dades en segon pla</string>
