@@ -47,7 +47,8 @@
   <string name="call_title">Registres de trucades</string>
   <string name="cancel">Cancel·lar</string>
   <string name="cancel_backup">Aturar</string>
-  <string name="cancel_restore">Aturar</string>
+  <string name="cancel_restore">Aturar</string>  
+  <string name="click_to_view">Tocar per veure</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_hint">Per accedir a les seves còpies de seguretat, entreu ara</string>
   <string name="cloud_backup_login">Inicia sessió amb el teu compte Mi</string>
@@ -95,6 +96,10 @@
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canviar de compte</string>
   <string name="fail">Va fallar</string>
+  <string name="feature_title_call_log">Registre de trucades</string>
+  <string name="feature_title_mms">MMS</string>
+  <string name="file_uploading">Pujant…</string>
+  <string name="files_backup_info">Tots els fitxers a la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.). </string>
   <string name="findlost_contact">Restaurar contactes</string>
   <string name="findlost_contact_online">Restaurar contactes des de Mi Cloud</string>
   <string name="guarded_mode_dialog_message">"Aquesta funció no està permesa en mode convidat."</string>
@@ -111,6 +116,7 @@
   <string name="local_no_backup">No hi ha còpies de seguretat locals</string>
   <string name="local_restore_window_title">Restauració local</string>
   <string name="local_select_account_contact">Comptes i contactes</string>
+  <string name="local_select_files">Targeta SD</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="miliao_account_guide">"Crear un compte Mi per gaudir de tots els serveis en línia de Xiaomi"</string>
@@ -129,6 +135,7 @@
   <string name="prompt_writing">Desant…</string>
   <string name="read_encrypt_fail">"No es pot llegir la còpia de seguretat xifrada"</string>
   <string name="refresh">Actualitzar</string>
+  <string name="remote_receive">Rebre</string>
   <string name="restore">Restaurar</string>
   <string name="restore_contact">Restaurar contactes</string>
   <string name="restore_contact_content">La restauració pot crear contactes duplicats.</string>
@@ -202,9 +209,46 @@
   <string name="task_service_not_launched">"Encara no ha començat el procés"</string>
   <string name="task_stopped_exception">Restauració cancel·lada</string>
   <string name="total_num">%d total</string>
-  <string name="unit_byte">"  bytes"</string>
+  <string name="trans_backingup">Copiant…</string>
+  <string name="trans_backingup_no_items">Sincronitzant…</string>
+  <string name="trans_cancel_confirm">Transferència en progrés, cancel·lar ara?</string>
+  <string name="trans_cancelling">Cancel·lant</string>
+  <string name="trans_connect_failed_toast">No s\'ha pogut connectar</string>
+  <string name="trans_connecting_toast">Connectant…</string>
+  <string name="trans_detail_category_account">Comptes i contactes</string>
+  <string name="trans_detail_category_files">Fitxers</string>
+  <string name="trans_detail_category_sysdata">Dades del sistema</string>
+  <string name="trans_detail_category_userdata">Aplicacions</string>
+  <string name="trans_device_disconnected">Dispositiu desconnectat</string>
+  <string name="trans_main_tutor">Transferència de contactes, registre de trucades, missatges, disposició de la pantalla d\'inici, aplicacions, ajustaments, etc. a un nou dispositiu</string>
+  <string name="trans_my_device">El meu dispositiu</string>
+  <string name="trans_one_key_migrate">Transferència</string>
+  <string name="trans_progress_subdescript_br_receiver">Rebent %s</string>
+  <string name="trans_progress_subdescript_br_sender">Copiant %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Rebent %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Enviant %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Rebent fitxers…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Enviant fitxers…</string>
+  <string name="trans_progress_subdescript_waiting">Esperant a rebre %s</string>
+  <string name="trans_receiver">Sóc un receptor</string>
+  <string name="trans_receiving_completed">Dades rebudes</string>
+  <string name="trans_restoring">Restablint…</string>
+  <string name="trans_restoring_no_items">Sincronitzant elements</string>
+  <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre dades.</string>
+  <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir dades.</string>
+  <string name="trans_sender">Sóc un emissor</string>
+  <string name="trans_sender_connectting">Confirmar en el nou dispositiu</string>
+  <string name="trans_sender_searching">Buscant nous dispositius</string>
+  <string name="trans_sender_searching_ensurance">"Assegura't que el vell dispositiu
+està encès perquè el nou dispositiu es connecti…"</string>
+  <string name="trans_sending_completed">Dades enviades</string>
+  <string name="trans_time_format_second"> menys d\'un minut</string>
+  <string name="trans_time_remained">, a punt en</string>
+  <string name="trans_waiting_ensurance">"Assegura\'t que el vell dispositiu
+està encès i la Transferència activada"</string>
+  <string name="trans_waiting_for_sender">Esperant al vell dispositiu per connectar…</string>
+  <string name="unit_byte">B</string>
   <string name="unit_piece">"  elements"</string>
   <string name="unknown_hint">Desconegut</string>
   <string name="wifi_title">Configuració Wi-Fi</string>
-  <string name="xiaomi_account_type">com.Xiaomi</string>
 </resources>
