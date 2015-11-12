@@ -50,9 +50,9 @@ Per esborrar el seu historial de navegació, feu servir els paràmetres del nave
   <string name="searchable_lable_o2o">mapes</string>
   <string name="searchable_lable_video">vídeo</string>
   <string name="searchable_sources">En línia</string>
-  <string name="send_secret_code">Envia codi secret</string>
+  <string name="send_secret_code">Enviar codi</string>
   <string name="show_more">mostrar més</string>
   <string name="system_search_category_title">Telèfon</string>
   <string name="voice_search_hint_title">Prova dient:</string>
-  <string name="xiaomi_search_label">Resultats en línia</string>
+  <string name="xiaomi_search_label">Resultats</string>
 </resources>

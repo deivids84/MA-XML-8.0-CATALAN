@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_license">¡Úselo bajo su responsabilidad!</string>
-  <string name="about_name">MIUIv6 Organizar Conmutadores 1.1</string>
+  <string name="about_license">Utilitzeu-lo sota la seva responsabilitat!</string>
+  <string name="about_name">MIUIv6 Organitzar Commutadors 1.1</string>
   <string name="about_text1">Autor:</string>
   <string name="about_text2">don11995</string>
-  <string name="about_text3">Concepto:</string>
+  <string name="about_text3">Concepte:</string>
   <string name="about_text4">stas2z</string>
-  <string name="about_text5">Iconos:</string>
+  <string name="about_text5">Icones:</string>
   <string name="about_text6">DriffeX</string>
-  <string name="app_name">MIUIv6 Organizar Conmutadores</string>
-  <string name="data_access">Acceso</string>
-  <string name="data_airplane">Avión</string>
+  <string name="app_name">MIUIv6 Organitzar Commutadors</string>
+  <string name="data_access">Accés</string>
+  <string name="data_airplane">Avió</string>
   <string name="data_autolight">BrilloAuto</string>
-  <string name="data_block">Bloqueo</string>
+  <string name="data_block">Bloqueig</string>
   <string name="data_bluetooth">Bluetooth</string>
-  <string name="data_buttons">NoBotones</string>
+  <string name="data_buttons">NoBotons</string>
   <string name="data_gps">GPS</string>
-  <string name="data_guest">Invitado</string>
-  <string name="data_light">Linterna</string>
-  <string name="data_mobile">Datos</string>
+  <string name="data_guest">Convidat</string>
+  <string name="data_light">Llanterna</string>
+  <string name="data_mobile">Dades</string>
   <string name="data_rotate">RotarAuto</string>
   <string name="data_screenshot">Captura Pant.</string>
   <string name="data_silent">NoMolestar</string>
