@@ -2697,7 +2697,7 @@ Qualsevol usuari pot acceptar actualitzacions i permisos en nom de la resta."</s
      <string name="user_confirm_remove_title">Esborrar usuari?</string>
      <string name="user_delete_button">Esborra</string>
      <string name="user_delete_user_description">Esborrar usuari</string>
-     <string name="user_dict_settings_add_dialog_confirm">D'acord</string>
+     <string name="user_dict_settings_add_dialog_confirm">D\'acord</string>
      <string name="user_dict_settings_add_dialog_less_options">Menys opcions</string>
      <string name="user_dict_settings_add_dialog_more_options">Més opcions</string>
      <string name="user_dict_settings_add_dialog_title">Afegeix al diccionari</string>
