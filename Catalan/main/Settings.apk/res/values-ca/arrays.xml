@@ -178,12 +178,12 @@
         <item>Monitoritzar ubicació amb precisió</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Límite estándar</item>
-        <item>Sin procesos en segundo plano</item>
-        <item>Al menos 1 proceso</item>
-        <item>Al menos 2 procesos</item>
-        <item>Al menos 3 procesos</item>
-        <item>Al menos 4 procesos</item>
+        <item>Límit estàndard</item>
+        <item>Sense processos en segon pla</item>
+        <item>Almenys 1 procés</item>
+        <item>Almenys 2 processos</item>
+        <item>Almenys 3 processos</item>
+        <item>Almenys 4 processos</item>
      </string-array>
      <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -194,8 +194,8 @@
         <item>4</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Porcentaje</item>
+        <item>Gràfic</item>
+        <item>Percentatge</item>
         <item>Barra superior</item>
      </string-array>
      <string-array name="battery_indicator_style_values">
@@ -206,7 +206,7 @@
      <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>No especificado</item>
+        <item>No especificat</item>
      </string-array>
      <string-array name="bearer_values">
         <item>14</item>
@@ -214,18 +214,18 @@
         <item>0</item>
      </string-array>
      <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minutos</item>
-        <item>5 minutos</item>
+        <item>2 minuts</item>
+        <item>5 minuts</item>
         <item>1 hora</item>
-        <item>Sin límite de tiempo</item>
+        <item>Sense límit de temps</item>
      </string-array>
      <string-array name="button_light_timeout_entries">
-        <item>1 segundo</item>
-        <item>2 segundos</item>
-        <item>5 segundos</item>
-        <item>10 segundos</item>
-        <item>20 segundos</item>
-        <item>Siempre encendido</item>
+        <item>1 segon</item>
+        <item>2 segons</item>
+        <item>5 segons</item>
+        <item>10 segons</item>
+        <item>20 segons</item>
+        <item>Sempre encès</item>
      </string-array>
      <string-array name="button_light_timeout_value">
         <item>1000</item>
@@ -302,9 +302,9 @@
         <item>0xffffffaa</item>
      </integer-array>
      <string-array name="captioning_edge_type_selector_titles">
-        <item>Ninguno</item>
-        <item>Subrayar</item>
-        <item>Sombrear</item>
+        <item>Cap</item>
+        <item>Subratllar</item>
+        <item>Ombrejar</item>
      </string-array>
      <integer-array name="captioning_edge_type_selector_values">
         <item>0</item>
@@ -312,11 +312,11 @@
         <item>2</item>
      </integer-array>
      <string-array name="captioning_font_size_selector_titles">
-        <item>Muy pequeña</item>
-        <item>Pequeña</item>
+        <item>Molt petita</item>
+        <item>Petita</item>
         <item>Normal</item>
-        <item>Grande</item>
-        <item>Muy grande</item>
+        <item>Gran</item>
+        <item>Molt gran</item>
      </string-array>
      <string-array name="captioning_font_size_selector_values">
         <item>0.25</item>
@@ -338,11 +338,11 @@
         <item>0xffffffff</item>
      </integer-array>
      <string-array name="captioning_preset_selector_titles">
-        <item>Blanco sobre negro</item>
-        <item>Negro sobre blanco</item>
-        <item>Amarillo sobre negro</item>
-        <item>Amarillo sobre azul</item>
-        <item>Personalizado</item>
+        <item>Blanc sobre negre</item>
+        <item>Negre sobre blanc</item>
+        <item>Groc sobre negre</item>
+        <item>Groc sobre blau</item>
+        <item>Personalitzat</item>
      </string-array>
      <integer-array name="captioning_preset_selector_values">
         <item>0</item>
@@ -352,7 +352,7 @@
         <item>-1</item>
      </integer-array>
      <string-array name="captioning_typeface_selector_titles">
-        <item>Por defecto</item>
+        <item>Per defecte</item>
         <item>Sans serif</item>
         <item>Sans serif condensada</item>
         <item>Serif</item>
@@ -366,10 +366,10 @@
         <item>monospace</item>
      </string-array>
      <string-array name="change_security_lock_picker">
-        <item>Desbloqueo facial</item>
-        <item>Patrón</item>
+        <item>Desbloqueig facial</item>
+        <item>Patró</item>
         <item>PIN</item>
-        <item>Contraseña</item>
+        <item>Contrasenya</item>
      </string-array>
      <string-array name="date_format_values">
         <item></item>
@@ -378,10 +378,10 @@
         <item>yyyy-MM-dd</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
-        <item>Apagado</item>
-        <item>Mostrar áreas sobre dibujadas</item>
-        <item>Mostrar áreas para Deuteranomaly</item>
-        <item>Mostrar contador de redibujado</item>
+        <item>Apagat</item>
+        <item>Mostra àrees sobre dibuixades</item>
+        <item>Mostra àrees per Deuteranomaly</item>
+        <item>Mostra comptador de redibuixat</item>
      </string-array>
      <string-array name="debug_hw_overdraw_values">
         <item>false</item>
@@ -414,14 +414,14 @@
         <item>2</item>
      </string-array>
      <string-array name="dream_timeout_entries">
-        <item>Nunca</item>
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>30 minutos</item>
+        <item>Mai</item>
+        <item>15 segons</item>
+        <item>30 segons</item>
+        <item>1 minut</item>
+        <item>2 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>30 minuts</item>
      </string-array>
      <string-array name="dream_timeout_values">
         <item>0</item>
@@ -434,7 +434,7 @@
         <item>1800000</item>
      </string-array>
      <string-array name="emergency_tone_entries">
-        <item>Apagado</item>
+        <item>Apagat</item>
         <item>Alerta</item>
         <item>Vibrar</item>
      </string-array>
@@ -444,10 +444,10 @@
         <item>2</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>Logcat</item>
-        <item>Systrace (Gráficos)</item>
-        <item>Pila de llamadas en glGetError</item>
+        <item>Systrace (Gràfics)</item>
+        <item>Pila de trucades en glGetError</item>
      </string-array>
      <string-array name="enable_opengl_traces_values">
         <item>0</item>
@@ -457,7 +457,7 @@
      </string-array>
      <string-array name="entries_color_calibration">
         <item>sRGB</item>
-        <item>Nativo</item>
+        <item>Nadiu</item>
      </string-array>
 	 <string-array name="entries_font_size">
         <item>S</item>
@@ -468,16 +468,16 @@
         <item>XXXL</item>
     </string-array>
      <string-array name="fluency_mode_confirms">
-        <item>¿Reiniciar el dispositivo para aplicar los cambios?</item>
-        <item>¿Reiniciar el dispositivo para aplicar los cambios?</item>
+        <item>Reiniciar el dispositiu per aplicar els canvis?</item>
+        <item>Reiniciar el dispositiu per aplicar els canvis?</item>
      </string-array>
      <string-array name="fluency_mode_entries">
-        <item>Ocultar animaciones del sistema</item>
-        <item>Mostrar animaciones del sistema</item>
+        <item>Amaga animacions del sistema</item>
+        <item>Mostra animacions del sistema</item>
      </string-array>
      <string-array name="fluency_mode_summaries">
-        <item>Acelera el rendimiento del dispositivo</item>
-        <item>Puede ralentizar el rendimiento del dispositivo</item>
+        <item>Accelera el rendiment del dispositiu</item>
+        <item>Podeu alentir el rendiment del dispositiu</item>
      </string-array>
      <integer-array name="font_size_preference_preview_size">
         <item>14</item>
@@ -486,9 +486,9 @@
         <item>27</item>
      </integer-array>
      <string-array name="handy_mode_size_text_entries">
-        <item>4.5 pulgadas</item>
-        <item>4.0 pulgadas</item>
-        <item>3.5 pulgadas</item>
+        <item>4.5 polzades</item>
+        <item>4.0 polzades</item>
+        <item>3.5 polzades</item>
      </string-array>
      <string-array name="handy_mode_size_value_entries">
         <item>4.5</item>
@@ -496,9 +496,9 @@
         <item>3.5</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
-        <item>Fuerte</item>
-        <item>Medio</item>
-        <item>Suave</item>
+        <item>Fort</item>
+        <item>Mitg</item>
+        <item>Suau</item>
      </string-array>
      <string-array name="haptic_feedback_level_values">
         <item>2</item>
@@ -506,37 +506,37 @@
         <item>0</item>
      </string-array>
 	 <string-array name="select_logd_size_summaries">
-        <item>Búfer de 64K por log</item>
-        <item>Búfer de 256K por log</item>
-        <item>Búfer de 1M por log</item>
-        <item>Búfer de 4M por log</item>
-        <item>Búfer de 16M por log</item>
+        <item>Memòria intermèdia de 64K per log</item>
+        <item>Memòria intermèdia de 256K per log</item>
+        <item>Memòria intermèdia de 1M per log</item>
+        <item>Memòria intermèdia de 4M per log</item>
+        <item>Memòria intermèdia de 16M per log</item>
     </string-array>
      <string-array name="hdcp_checking_summaries">
-        <item>Nunca utilizar chequeo HDCP</item>
-        <item>Utilizar chequeo HDCP solo para contenido DRM</item>
-        <item>Siempre utilizar chequeo HDCP</item>
+        <item>Mai utilitzar revisió HDCP</item>
+        <item>Utilitzar revisió HDCP només per a contingut DRM</item>
+        <item>Sempre utilitzar revisió HDCP</item>
      </string-array>
      <string-array name="hdcp_checking_titles">
-        <item>No comprobar</item>
-        <item>Comprobar sólo contenido DRM</item>
-        <item>Comprobar siempre</item>
+        <item>No comprovar</item>
+        <item>Comprovar només contingut DRM</item>
+        <item>Comprovar sempre</item>
      </string-array>
      <string-array name="install_non_market_app_contents">
-        <item>Solicitar permiso</item>
-        <item>Permitir</item>
+        <item>Sol·licitar permís</item>
+        <item>Permet</item>
      </string-array>
      <string-array name="install_non_market_app_entries">
-        <item>Solicitar permiso para aplicaciones peligrosas</item>
-        <item>Permitir</item>
+        <item>Sol·licitar permís per a aplicacions perilloses</item>
+        <item>Permet</item>
      </string-array>
      <string-array name="led_color_entries">
-        <item>Azul</item>
-        <item>Rojo</item>
-        <item>Amarillo</item>
-        <item>Verde</item>
+        <item>Blau</item>
+        <item>Vermell</item>
+        <item>Groc</item>
+        <item>Verd</item>
         <item>Cian</item>
-        <item>Blanco</item>
+        <item>Blanc</item>
         <item>Violeta</item>
      </string-array>
      <string-array name="led_color_values">
@@ -549,14 +549,14 @@
         <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="led_freq_entries">
-        <item>2 segundos</item>
-        <item>3 segundos</item>
-        <item>4 segundos</item>
-        <item>5 segundos</item>
-        <item>6 segundos</item>
-        <item>7 segundos</item>
-        <item>8 segundos</item>
-        <item>9 segundos</item>
+        <item>2 segons</item>
+        <item>3 segons</item>
+        <item>4 segons</item>
+        <item>5 segons</item>
+        <item>6 segons</item>
+        <item>7 segons</item>
+        <item>8 segons</item>
+        <item>9 segons</item>
      </string-array>
      <string-array name="led_freq_values">
         <item>2000</item>
@@ -569,15 +569,15 @@
         <item>9000</item>
      </string-array>
      <string-array name="lock_after_timeout_entries">
-        <item>Inmediatamente</item>
-        <item>5 segundos</item>
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>30 minutos</item>
+        <item>Immediatament</item>
+        <item>5 segons</item>
+        <item>15 segons</item>
+        <item>30 segons</item>
+        <item>1 minut</item>
+        <item>2 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>30 minuts</item>
      </string-array>
      <string-array name="lock_after_timeout_values">
         <item>0</item>
@@ -591,12 +591,12 @@
         <item>1800000</item>
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Inmediatamente</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>Immediatament</item>
+        <item>1 minut</item>
+        <item>2 minuts</item>
+        <item>5 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
      </string-array>
      <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
@@ -607,9 +607,9 @@
         <item>1800000</item>
      </string-array>
      <string-array name="long_press_timeout_selector_titles">
-        <item>Corto</item>
-        <item>Medio</item>
-        <item>Largo</item>
+        <item>Curt</item>
+        <item>Mitjà</item>
+        <item>Llarg</item>
      </string-array>
      <string-array name="long_press_timeout_selector_values">
         <item>500</item>
@@ -617,9 +617,9 @@
         <item>1500</item>
      </string-array>
      <string-array name="media_feedback_level_entries">
-        <item>Fuerte</item>
-        <item>Medio</item>
-        <item>Suave</item>
+        <item>Fort</item>
+        <item>Mitjà</item>
+        <item>Suau</item>
      </string-array>
      <string-array name="media_feedback_level_values">
         <item>15</item>
@@ -627,12 +627,12 @@
         <item>0</item>
      </string-array>
      <string-array name="mi1_led_color_entries">
-        <item>Azul</item>
-        <item>Rojo</item>
-        <item>Verde</item>
+        <item>Blau</item>
+        <item>Vermell</item>
+        <item>Verd</item>
         <item>Rosa</item>
         <item>Violeta</item>
-        <item>Púrpura</item>
+        <item>Porpra</item>
      </string-array>
      <string-array name="mi1_led_color_values">
         <item>blue</item>
@@ -643,38 +643,38 @@
         <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="msd_pc_system">
-        <item>Windows XP y anterior</item>
-        <item>Windows Vista y posterior</item>
+        <item>Windows XP i anteriors</item>
+        <item>Windows Vista i posterior</item>
         <item>OSX</item>
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Almacenamiento USB se abrirá automáticamente al conectarlo a un ordenador.</item>
+        <item>Emmagatzematge USB s\'obrirà automàticament al connectar-lo a un ordinador.</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_summary">
-        <item>2.Siga las instrucciones en pantalla</item>
+        <item>2.Segueix les instruccions de la pantalla</item>
         <item></item>
         <item></item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_retry_linux">
-        <item>Instalar utilidad: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Crear directorio: mkdir /media/mtp</item>
-        <item>Confirmar permisos de grupo de usuarios en el grupo actual</item>
-        <item>Iniciar sesión de nuevo</item>
-        <item>Acceder a dispositivo montado: mtpfs /media/mtp via file explorer; same as local directory</item>
-        <item>"Desinstalar dispositivo: fusermount -u /media/mtp
-Nota: Solo para Ubuntu 8.04!"</item>
+        <item>Instal·lar utilitat: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Crear directori: mkdir /media/mtp</item>
+        <item>Confirmar permisos de grup d\'usuaris en el grup actual</item>
+        <item>Inicia sessió de nou</item>
+        <item>Accedir a dispositiu muntat: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>"Desinstal·lar dispositiu: fusermount -u /media/mtp
+Nota: Només per a Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
-        <item>Reinstalar MiPhoneManager.</item>
+        <item>Reinstal·lar MiPhoneManager.</item>
      </string-array>
      <string-array name="mvno_type_entries">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
@@ -686,9 +686,9 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>gid</item>
      </string-array>
      <string-array name="network_speed_slow_summary">
-        <item>La red va lenta por que hay mucho trafico</item>
-        <item>La red va lenta por que la intensidad de la señal es débil</item>
-        <item>En movimiento…</item>
+        <item>La xarxa va lenta perquè hi ha molt trànsit</item>
+        <item>La xarxa va lenta perquè la intensitat del senyal és feble</item>
+        <item>En moviment…</item>
      </string-array>
      <string-array name="nfc_se_route_values">
         <item>1</item>
@@ -697,11 +697,11 @@ Nota: Solo para Ubuntu 8.04!"</item>
      <string-array name="overlay_display_devices_entries">
         <item>None</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (seguro)</item>
+        <item>720x480 mdpi (segur)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (seguro)</item>
+        <item>1280x720 tvdpi (segur)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (seguro)</item>
+        <item>1920x1080 xhdpi (segur)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
      </string-array>
      <string-array name="overlay_display_devices_values">
@@ -715,7 +715,7 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>1280x720/213;1920x1080/320</item>
      </string-array>
      <string-array name="perm_hips_action">
-        <item>Permitir</item>
+        <item>Permet</item>
         <item>Preguntar</item>
         <item>Denegar</item>
      </string-array>
@@ -772,8 +772,8 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>0</item>
      </string-array>
      <string-array name="phone_call_noise_suppression_title">
-        <item>Un solo micrófono para supresión de ruido</item>
-        <item>Doble micrófono para supresión de ruido</item>
+        <item>Un sol micròfon per supressió de soroll</item>
+        <item>Doble micròfon per supressió de soroll</item>
      </string-array>
      <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
@@ -782,8 +782,8 @@ Nota: Solo para Ubuntu 8.04!"</item>
      <string-array name="pink_panel_led_color_entries">
         <item>Lila</item>
         <item>Rubí</item>
-        <item>Naranja</item>
-        <item>Verde</item>
+        <item>Taronja</item>
+        <item>Verd</item>
         <item>Magenta</item>
      </string-array>
      <string-array name="pink_panel_led_color_values">
@@ -794,23 +794,23 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="power_mode_entries">
-        <item>Rendimiento</item>
-        <item>Equilibrado</item>
+        <item>Rendimient</item>
+        <item>Equilibrat</item>
      </string-array>
      <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Dial</item>
-        <item>Mensajes</item>
+        <item>Missatges</item>
         <item>Navegador</item>
-        <item>Cámara</item>
+        <item>Càmera</item>
         <item>Galería</item>
         <item>Música</item>
         <item>Email</item>
         <item>Vídeo</item>
      </string-array>
      <string-array name="priority_storage_entries">
-        <item>Memoria interna</item>
-        <item>Memoria externa</item>
+        <item>Memòria interna</item>
+        <item>Memòria externa</item>
      </string-array>
      <string-array name="priority_storage_value">
         <item>0</item>
@@ -818,28 +818,28 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="ram_states">
         <item>normal</item>
-        <item>moderado</item>
-        <item>bajo</item>
-        <item>crítico</item>
+        <item>moderat</item>
+        <item>baix</item>
+        <item>crític</item>
      </string-array>
      <string-array name="screen_color_title">
-        <item>Cálido</item>
-        <item>Estándar</item>
-        <item>Frío</item>
+        <item>Càlid</item>
+        <item>Estàndard</item>
+        <item>Fred</item>
      </string-array>
      <string-array name="screen_key_long_press_action">
-        <item>Nada</item>
-        <item>Mostrar bandeja de aplicaciones recientes</item>
-        <item>Abrir Asistente</item>
-        <item>Abrir Google now</item>
-        <item>Cerrar aplicación actual</item>
-        <item>Mostrar menú</item>
+        <item>Res</item>
+        <item>Mostra safata d\'aplicacions recents</item>
+        <item>Obrir Assistent</item>
+        <item>Obrir Google now</item>
+        <item>Tancar aplicació actual</item>
+        <item>Mostra menú</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
-        <item>0.5 segundos</item>
-        <item>1 segundo</item>
-        <item>1.5 segundos</item>
-        <item>2 segundos</item>
+        <item>0.5 segons</item>
+        <item>1 segon</item>
+        <item>1.5 segons</item>
+        <item>2 segons</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout_value">
         <item>500</item>
@@ -848,31 +848,31 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>2000</item>
      </string-array>
      <string-array name="screen_key_press_action">
-        <item>Mostrar bandeja de aplicaciones recientes</item>
-        <item>Mostrar menú</item>
+        <item>Mostra safata d\'aplicacions recents</item>
+        <item>Mostra menú</item>
      </string-array>
      <string-array name="screen_optimize_summary">
-        <item>Optimizar contraste para la luz disponible</item>
-        <item>"Incrementar contraste de pantalla"</item>
-        <item>Contraste permanecerá constante</item>
+        <item>Optimitzar contrast per a la llum disponible</item>
+        <item>"Incrementar contrast de pantalla"</item>
+        <item>Contrast romandrà constant</item>
      </string-array>
      <string-array name="screen_optimize_title">
-        <item>Contraste automático</item>
-        <item>Contraste aumentado</item>
-        <item>Estandar</item>
+        <item>Contrast automàtic</item>
+        <item>Contrast augmentat</item>
+        <item>Estàndard</item>
      </string-array>
      <string-array name="screen_saturation_title">
-        <item>Brillante</item>
-        <item>Estándar</item>
+        <item>Brillant</item>
+        <item>Estàndard</item>
      </string-array>
      <string-array name="screen_timeout_entries">
-        <item>15 segundos</item>
-        <item>30 segundos</item>
-        <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>Nunca</item>
+        <item>15 segons</item>
+        <item>30 segons</item>
+        <item>1 minut</item>
+        <item>2 minuts</item>
+        <item>5 minuts</item>
+        <item>10 minuts</item>
+        <item>Mai</item>
      </string-array>
      <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -885,13 +885,13 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
         <item>Preguntar</item>
-        <item>Nunca permitir</item>
-        <item>Siempre permitir</item>
+        <item>Mai permetre</item>
+        <item>Sempre permetre</item>
      </string-array>
      <string-array name="select_runtime_summaries">
-        <item>Utilizar Dalvik</item>
-        <item>Utilizar ART</item>
-        <item>Utilizar ART debug build</item>
+        <item>Utilitzar Dalvik</item>
+        <item>Utilitzar ART</item>
+        <item>Utilitzar ART debug build</item>
      </string-array>
      <string-array name="select_runtime_titles">
         <item>Dalvik</item>
@@ -904,16 +904,16 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>libartd.so</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Apagado</item>
-        <item>Dibujar regiones no rectangulares de los clip en azul</item>
-        <item>Remarcar comandos de dibujo testeados en verde</item>
+        <item>Apagat</item>
+        <item>Dibuixar regions no rectangulars dels clip en blau</item>
+        <item>Remarcar ordres de dibuix testats en verd</item>
      </string-array>
      <string-array name="slideshow_time_entries">
-        <item>5 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
+        <item>5 minuts</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
         <item>1 hora</item>
-        <item>Ilimitado</item>
+        <item>Il·limitat</item>
      </string-array>
      <string-array name="slideshow_time_entryValues">
         <item>300</item>
@@ -931,7 +931,7 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>中文 (繁體)</item>
      </string-array>
      <string-array name="startup_hips_action">
-        <item>Permitir</item>
+        <item>Permet</item>
         <item>Denegar</item>
      </string-array>
      <string-array name="startup_hips_values">
@@ -939,28 +939,28 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>0</item>
      </string-array>
      <string-array name="timezone_filters">
-        <item>América</item>
+        <item>Amèrica</item>
         <item>Europa</item>
-        <item>África</item>
-        <item>Asia</item>
-        <item>Australia</item>
-        <item>Del Pacífico</item>
-        <item>Todos</item>
+        <item>Àfrica</item>
+        <item>Àsia</item>
+        <item>Austràlia</item>
+        <item>Del Pacífic</item>
+        <item>Tots</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Apagado</item>
-        <item>En pantalla como barras</item>
-        <item>En pantalla como líneas</item>
+        <item>Apagat</item>
+        <item>En pantalla com barres</item>
+        <item>En pantalla com línies</item>
         <item>En adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-        <item>Sin Animación</item>
-        <item>Escala de animación .5x</item>
-        <item>Escala de animación 1x</item>
-        <item>Escala de animación 1.5x</item>
-        <item>Escala de animación 2x</item>
-        <item>Escala de animación 5x</item>
-        <item>Escala de animación 10x</item>
+        <item>Sense Animació</item>
+        <item>Escala d\'animació .5x</item>
+        <item>Escala d\'animació 1x</item>
+        <item>Escala d\'animació 1.5x</item>
+        <item>Escala d\'animació 2x</item>
+        <item>Escala d\'animació 5x</item>
+        <item>Escala d\'animació 10x</item>
      </string-array>
      <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -988,11 +988,11 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>이것은 한국어 음성 합성의 예입니다.</item>
      </string-array>
      <string-array name="tts_pitch_entries">
-        <item>Muy bajo</item>
-        <item>Bajo</item>
+        <item>Molt baix</item>
+        <item>Baix</item>
         <item>Normal</item>
-        <item>Alto</item>
-        <item>Muy alto</item>
+        <item>Alt</item>
+        <item>Molt alt</item>
      </string-array>
      <string-array name="tts_pitch_values">
         <item>50</item>
@@ -1002,15 +1002,15 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>150</item>
      </string-array>
      <string-array name="tts_rate_entries">
-        <item>Muy lento</item>
-        <item>Lento</item>
+        <item>Molt lent</item>
+        <item>Lent</item>
         <item>Normal</item>
-        <item>Rápido</item>
-        <item>Más rápido</item>
-        <item>Muy rápido</item>
-        <item>Rápida</item>
-        <item>Muy rápida</item>
-        <item>El más rápido</item>
+        <item>Ràpid</item>
+        <item>Més ràpid</item>
+        <item>Molt ràpid</item>
+        <item>Ràpida</item>
+        <item>Molt ràpida</item>
+        <item>El més ràpid</item>
      </string-array>
      <string-array name="tts_rate_values">
         <item>60</item>
@@ -1024,11 +1024,11 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>400</item>
      </string-array>
      <string-array name="tts_rate_xunfei_entries">
-        <item>Muy lento</item>
-        <item>Lento</item>
+        <item>Molt lent</item>
+        <item>Lent</item>
         <item>Normal</item>
-        <item>Rápido</item>
-        <item>Muy rápido</item>
+        <item>Ràpid</item>
+        <item>Molt ràpid</item>
      </string-array>
      <string-array name="tts_rate_xunfei_values">
         <item>60</item>
@@ -1038,14 +1038,14 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>200</item>
      </string-array>
      <string-array name="usage_stats_display_order_types">
-        <item>Tiempo de uso</item>
-        <item>Número de usos</item>
-        <item>Nombre de App</item>
+        <item>Temps d\'ús</item>
+        <item>Número d\'usos</item>
+        <item>Nom d\'App</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
-        <item>Preguntar al conectar</item>
-        <item>Solo carga</item>
-        <item>Montar tarjeta SD</item>
+        <item>Pregunta al connectar</item>
+        <item>Només càrrega</item>
+        <item>Muntar targeta SD</item>
      </string-array>
      <string-array name="usb_connection_mode_values">
         <item>0</item>
@@ -1054,9 +1054,9 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Ser superior</item>
-        <item>Humano</item>
+        <item>Humà</item>
         <item>Neanderthal</item>
-        <item>Chimpancé</item>
+        <item>Ximpanzé</item>
         <item>Mono</item>
      </string-array>
      <string-array name="user_content_ratings_values">
@@ -1071,12 +1071,12 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>1</item>
      </string-array>
      <string-array name="vpn_states">
-        <item>Desconectado</item>
-        <item>Inicializando…</item>
-        <item>Conectando…</item>
-        <item>Conectado</item>
-        <item>Tiempo agotado</item>
-        <item>Sin éxito</item>
+        <item>Desconnectat</item>
+        <item>Inicialitzant…</item>
+        <item>Connectant…</item>
+        <item>Connectat</item>
+        <item>Temps exhaurit</item>
+        <item>Sense èxit</item>
      </string-array>
      <string-array name="vpn_types">
         <item>PPTP</item>
@@ -1088,25 +1088,25 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN con claves pre-compartidas</item>
-        <item>L2TP/IPSec VPN con certificados</item>
-        <item>IPSec VPN con claves pre-compartidas y autentificación Xauth</item>
-        <item>IPSec VPN con certificados y autentificación Xauth</item>
-        <item>IPSec VPN con certificados y autentificación híbrida</item>
+        <item>L2TP/IPSec VPN amb claus pre-compartides</item>
+        <item>L2TP/IPSec VPN amb certificats</item>
+        <item>IPSec VPN amb claus pre-compartides i autenticació Xauth</item>
+        <item>IPSec VPN amb certificats i autenticació Xauth</item>
+        <item>IPSec VPN amb certificats i autenticació híbrida</item>
      </string-array>
      <string-array name="wfd_status">
-        <item>Iniciando sesión…</item>
-        <item>Sesión iniciada</item>
-        <item>Cancelando…</item>
-        <item>"No se puede iniciar sesión"</item>
-        <item>Tiempo agotado. Reintentando…</item>
-        <item>Dispositivo conectado</item>
+        <item>Iniciant sessió…</item>
+        <item>Sessió iniciada</item>
+        <item>Cancel·lant…</item>
+        <item>"No es pot iniciar sessió"</item>
+        <item>Temps esgotat. Reintentant…</item>
+        <item>Dispositiu connectat</item>
      </string-array>
      <string-array name="whetstone_level_entries">
-        <item>Apagado</item>
-        <item>Bajo</item>
-        <item>Medio</item>
-        <item>Alto</item>
+        <item>Apagat</item>
+        <item>Baix</item>
+        <item>Mitg</item>
+        <item>Alt</item>
      </string-array>
      <string-array name="whetstone_level_values">
         <item>0</item>
@@ -1115,9 +1115,9 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>3</item>
      </string-array>
      <string-array name="wifi_connect_type_entries">
-        <item>Conectar automáticamente</item>
-        <item>Conectar manualmente</item>
-        <item>Preguntar siempre</item>
+        <item>Connectar automàticament</item>
+        <item>Connecta manualment</item>
+        <item>Preguntar sempre</item>
      </string-array>
      <string-array name="wifi_connect_type_values">
         <item>0</item>
@@ -1150,8 +1150,8 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
-        <item>Sólo 5GHz</item>
-        <item>Sólo 2,4 GHz</item>
+        <item>Només 5GHz</item>
+        <item>Només 2,4 GHz</item>
      </string-array>
      <string-array name="wifi_frequency_band_values">
         <item>0</item>
@@ -1160,34 +1160,34 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>Estática</item>
+        <item>Estàtica</item>
      </string-array>
      <string-array name="wifi_p2p_status">
-        <item>Conectado</item>
-        <item>Invitado</item>
-        <item>No realizado</item>
+        <item>Connectat</item>
+        <item>Convidat</item>
+        <item>No realitzat</item>
         <item>Disponible</item>
-        <item>Fuera de rango</item>
+        <item>Fora de rang</item>
      </string-array>
      <string-array name="wifi_p2p_wps_setup">
-        <item>Presione el botón</item>
-        <item>PIN del dispositivo a emparejar</item>
-        <item>PIN del dispositivo</item>
+        <item>Premeu el botó</item>
+        <item>PIN del dispositiu a aparellar</item>
+        <item>PIN del dispositiu</item>
      </string-array>
      <string-array name="wifi_peap_phase2_entries">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
      </string-array>
      <string-array name="wifi_phase2_entries">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
      </string-array>
      <string-array name="wifi_proxy_settings">
-        <item>Ninguno</item>
+        <item>Cap</item>
         <item>Manual</item>
      </string-array>
      <string-array name="wifi_security_only_wapi_cert_entries">
@@ -1195,19 +1195,19 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Pobre</item>
-        <item>Buena</item>
-        <item>Bueno</item>
-        <item>Excelente</item>
+        <item>Bona</item>
+        <item>Bé</item>
+        <item>Excel·lent</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries">
-        <item>Siempre</item>
-        <item>Sólo cuando está enchufado</item>
-        <item>Nunca (aumenta el uso de datos)</item>
+        <item>Sempre</item>
+        <item>Només quan està endollat</item>
+        <item>Mai (augmenta l\'ús de dades)</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Siempre</item>
-        <item>Sólo cuando está enchufado</item>
-        <item>Nunca</item>
+        <item>Sempre</item>
+        <item>Només quan està endollat</item>
+        <item>Mai</item>
      </string-array>
      <string-array name="wifi_sleep_policy_values">
         <item>2</item>
@@ -1216,44 +1216,44 @@ Nota: Solo para Ubuntu 8.04!"</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Escaneando…</item>
-        <item>Conectando…</item>
-        <item>Autentificando…</item>
-        <item>Obteniendo dirección IP…</item>
-        <item>Conectado</item>
-        <item>Suspendido</item>
-        <item>Desconectando…</item>
-        <item>Desconectado</item>
-        <item>No realizado</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporalmente la mala conexión</item>
+        <item>Escanejant…</item>
+        <item>Connectant…</item>
+        <item>Autentificant…</item>
+        <item>Obtenint adreça IP…</item>
+        <item>Connectat</item>
+        <item>Suspès</item>
+        <item>Desconnectant…</item>
+        <item>Desconnectat</item>
+        <item>No realitzat</item>
+        <item>Bloquejat</item>
+        <item>Evitar temporalment la mala connexió</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Escaneando…</item>
-        <item>Conectando con %1$s…</item>
-        <item>Autentificando con %1$s…</item>
-        <item>Obteniendo dirección IP de %1$s…</item>
-        <item>Conectado a %1$s</item>
-        <item>Suspendido</item>
-        <item>Desconectando de %1$s…</item>
-        <item>Desconectado</item>
-        <item>No realizado</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporalmente la mala conexión</item>
+        <item>Escanejant…</item>
+        <item>Connectant amb %1$s…</item>
+        <item>Autentificant amb %1$s…</item>
+        <item>Obtenint adreça IP de %1$s…</item>
+        <item>Connectat a %1$s</item>
+        <item>Suspès</item>
+        <item>Desconnectant de %1$s…</item>
+        <item>Desconnectat</item>
+        <item>No realitzat</item>
+        <item>Bloquejat</item>
+        <item>Evitar temporalment la mala connexió</item>
      </string-array>
      <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-        <item>Sin Animación</item>
-        <item>Escala de animación .5x</item>
-        <item>Escala de animación 1 x</item>
-        <item>Escala de animación 1.5x</item>
-        <item>Escala de animación 2x</item>
-        <item>Escala de animación 5x</item>
-        <item>Escala de animación 10x</item>
+        <item>Sense Animació</item>
+        <item>Escala d\'animació .5x</item>
+        <item>Escala d\'animació 1 x</item>
+        <item>Escala d\'animació 1.5x</item>
+        <item>Escala d\'animació 2x</item>
+        <item>Escala d\'animació 5x</item>
+        <item>Escala d\'animació 10x</item>
      </string-array>
      <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -1265,18 +1265,18 @@ Nota: Solo para Ubuntu 8.04!"</item>
         <item>10</item>
      </string-array>
 	 <string-array name="common_password_business_names">
-        <item>Pantalla de bloqueo</item>
-        <item>Modo niño</item>
+        <item>Pantalla de bloqueig</item>
+        <item>Mode nen</item>
         <item>Explorador</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Todos los días</item>
-        <item>Entre semana</item>
-        <item>Personalizado</item>
+        <item>Tots els dies</item>
+        <item>Entre setmana</item>
+        <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Todos los días</item>
-        <item>Entre semana</item>
-        <item>Personalizado</item>
+        <item>Tots els dies</item>
+        <item>Entre setmana</item>
+        <item>Personalitzat</item>
     </string-array>
 </resources>

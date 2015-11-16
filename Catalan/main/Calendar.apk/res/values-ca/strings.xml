@@ -151,6 +151,7 @@
   <string name="gadget_no_events">No hi ha esdeveniments de calendari pròxims </string>
   <string name="gadget_title">Calendari</string>
   <string name="goto_today">Avui</string>
+  <string name="guide_card_hint_text">Tocar per obrir Mi Cloud</string>
   <string name="hide_controls">Amagar controls</string>
   <string name="hint_attendees">Convidats</string>
   <string name="hint_description">Descripció</string>
@@ -158,6 +159,8 @@
   <string name="hint_where">Ubicació</string>
   <string name="huangli_bad_type">Evitar</string>
   <string name="huangli_good_type">Jo</string>
+  <string name="internet_connection_notification">Notificació de connexió a internet</string>
+  <string name="internet_connection_notification_descrip">Mostra notificació de connexió a internet cada vegada que obris Calendari </string>
   <string name="jump_date">Anar a</string>
   <string name="jump_date_full">Anar a la data</string>
   <string name="label_recent_events">Esdeveniments recents</string>
@@ -202,11 +205,14 @@
   <string name="no_title_label">(Sense títol)</string>
   <string name="not_exist_topic_list">No es pot obtenir una llista de calendari subscrit</string>
   <string name="not_synced">no sincronitzat</string>
+  <string name="notice_button_exit">Sortir</string>
   <string name="notice_button_ok">D\'acord</string>
+  <string name="notice_declaration_ignore">No mostrar de nou</string>
+  <string name="notice_title_agreement">Connexió a internet</string>
   <string name="notice_title_agreement">Termes de Servei</string>
   <string name="notice_title_request">Petició</string>
   <string name="online_calendar_activity_label">Sincronitzar el calendari</string>
-  <string name="online_notice_message">"En utilitzar aquest producte, acceptes estar d\'acord amb el nostre %1$s y %2$s. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
+  <string name="online_notice_message">"En utilitzar aquest producte, acceptes els %1$s i %2$s de Xiaomi. Algunes característiques requereixen una connexió a internet per funcionar amb normalitat."</string>
   <string name="online_reminder_change_text">Modificar recordatori</string>
   <string name="online_reminder_header_text">Recordar</string>
   <string name="online_reminder_minutes_text">Hora de recordatori</string>

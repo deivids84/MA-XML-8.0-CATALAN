@@ -27,8 +27,8 @@
   <string name="input_puk_code">Introduir PUK</string>
   <string name="invalid_confirm_pin_hint">Els PIN no coincideixen</string>
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, premeu el botó Encesa</string>
-  <string name="lock_screen_date">EEE, d MMMM</string>
-  <string name="lock_screen_date_12">EEE, d MMMM</string>
+  <string name="lock_screen_date">EEEE, d MMMM</string>
+  <string name="lock_screen_date_12">EEEE, d MMMM</string>
   <string name="lockscreen_access_pattern_cell_added">Patró afegit</string>
   <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
   <string name="lockscreen_access_pattern_detected">Patró completat</string>
@@ -52,6 +52,7 @@ Intenteu-ho de nou en %d segons. "</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="phone_locked_timeout_minutes_string">Intenteu-ho de nou en %s minuts</string>
   <string name="phone_locked_timeout_seconds_string">Intenteu-ho de nou en %s segons</string>
+  <string name="set_lock_wallpaper_failed">Sense nou fons de pantalla</string>
   <string name="unlock_sim_string">Desbloquejar SIM</string>
   <string name="unlock_string">Desbloquejar</string>
   <string name="unlocking_sim_card">Desbloquejant la targeta SIM</string>
