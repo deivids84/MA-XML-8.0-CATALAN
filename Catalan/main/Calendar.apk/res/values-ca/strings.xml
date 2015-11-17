@@ -209,7 +209,6 @@
   <string name="notice_button_ok">D\'acord</string>
   <string name="notice_declaration_ignore">No mostrar de nou</string>
   <string name="notice_title_agreement">Connexió a internet</string>
-  <string name="notice_title_agreement">Termes de Servei</string>
   <string name="notice_title_request">Petició</string>
   <string name="online_calendar_activity_label">Sincronitzar el calendari</string>
   <string name="online_notice_message">"En utilitzar aquest producte, acceptes els %1$s i %2$s de Xiaomi. Algunes característiques requereixen una connexió a internet per funcionar amb normalitat."</string>

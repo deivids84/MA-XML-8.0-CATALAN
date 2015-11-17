@@ -3147,7 +3147,7 @@ Toqui "&lt;b&gt;Enrere&lt;/b&gt; per connectar a una xarxa Wi-Fi diferent."</str
      <string name="wifi_show_advanced">Mostra opcions avançades</string>
      <string name="wifi_show_password">Mostra contrasenya</string>
      <string name="wifi_signal">Intensitat de senyal</string>
-     <string name="wifi_signal_found_msg">Connectar a punt d'accés Wi-Fi?</string>
+     <string name="wifi_signal_found_msg">Connectar a punt d\'accés Wi-Fi?</string>
      <string name="wifi_skip_anyway">Saltar de totes maneres</string>
      <string name="wifi_skipped_message">"ATENCIÓ: Pot suposar despeses extra per part del seu operador.
 
