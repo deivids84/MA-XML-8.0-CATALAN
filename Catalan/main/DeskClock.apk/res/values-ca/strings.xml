@@ -67,7 +67,7 @@
   <string name="legal_workday_message">" (Alarma aturada en vacances)"</string>
   <string name="loading_ringtone">Carregant so…</string>
   <string name="menu_add_worldclock">Afegir rellotge</string>
-  <string name="menu_desk_clock">Rellotge d'\escriptori</string>
+  <string name="menu_desk_clock">Rellotge d\'escriptori</string>
   <string name="menu_edit_timer_item">Editar tasca</string>
   <string name="menu_item_dock_settings">Paràmetres d\'ancoratge</string>
   <string name="menu_item_sort_by_gmt_offset">Ordenar per hora</string>
