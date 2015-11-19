@@ -522,13 +522,13 @@
         <item>Comprovar només contingut DRM</item>
         <item>Comprovar sempre</item>
      </string-array>
-     <string-array name="install_non_market_app_contents">
-        <item>Sol·licitar permís</item>
-        <item>Permet</item>
-     </string-array>
      <string-array name="install_non_market_app_entries">
-        <item>Sol·licitar permís per a aplicacions perilloses</item>
-        <item>Permet</item>
+        <item>Encendre (Recomanat)</item>
+        <item>No usar (perillós)</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Encendre</item>
+        <item>No fer servir</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Blau</item>

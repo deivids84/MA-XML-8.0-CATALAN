@@ -635,6 +635,7 @@ Activar finestres actives?"</string>
      <string name="confirm_action">D\'acord </string>
      <string name="confirm_download_cancelation_dialog_message">Cancel·lar la descàrrega?</string>
      <string name="confirm_erase">Esborrar</string>
+	 <string name="confirm_fingerprint_msg">Posa el teu dit a l\'escàner d\'empremtes</string>
      <string name="confirm_new_backup_pw_prompt">Torneu a escriure la seva nova contrasenya de la còpia de seguretat completa aqui</string>
      <string name="connect_to_internet">Connectar a la xarxa</string>
      <string name="connected_wifi">Connectat</string>
@@ -1221,8 +1222,8 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
      <string name="input_settings">Configuració d\'entrada</string>
      <string name="install_all_warning">El seu telèfon i dades personals són mes vulnerables a l\'atac d\'aplicacions de fonts desconegudes. Recordi que vostè serà l\'únic responsable de qualsevol dany que es pogués produir al seu telèfon o qualsevol pèrdua de dades personals ocasionada per l\'ús d\'aquestes aplicacions.</string>
      <string name="install_applications">Fonts desconegudes</string>
-     <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions de fonts desconegudes</string>
-     <string name="install_no_market_app_title">Fonts desconegudes</string>
+     <string name="install_no_market_app_summary">Escanejar aplicacions de tercers a la recerca de virus abans d\'instal·lar</string>
+     <string name="install_no_market_app_title">Escanejar aplicacions de tercers</string>
      <string name="install_preinstall_app">Carregant aplicacions…</string>
      <string name="install_text">Instal·lar</string>
      <string name="install_unknown_applications">Permet la instal·lació d\'aplicacions de fonts desconegudes</string>
@@ -1375,7 +1376,8 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
      <string name="lock_settings_common_title">Configuració de bloqueig</string>
      <string name="lock_settings_picker_settings">Establir bloqueig de pantalla</string>
      <string name="lock_settings_picker_title">Escollir bloqueig de pantalla</string>
-     <string name="lock_settings_title">Configuració de seguretat</string>
+     <string name="lock_settings_title">Seguretat de pantalla</string>
+	 <string name="lock_settings_with_fingerprint">Pantalla de bloqueig i contrasenya</string>
      <string name="lock_setup">Configuració completada.</string>
      <string name="lock_sounds_enable_title">So en bloquejar pantalla</string>
      <string name="lockpassword_cancel_label">Cancel·lar</string>
