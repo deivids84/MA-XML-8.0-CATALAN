@@ -174,7 +174,7 @@
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
-  <string name="confirm_export_message"> La seva llista de contactes s'exportarà a l\'arxiu: %s.</string>
+  <string name="confirm_export_message"> La seva llista de contactes s\'exportarà a l\'arxiu: %s.</string>
   <string name="confirm_export_title">Exportar els contactes?</string>
   <string name="connections">Connexions</string>
   <string name="contactDetailAbout">Quant a</string>
