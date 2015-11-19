@@ -99,7 +99,7 @@
   <string name="delete_topic_dialog_title">Realment vol cancel·lar \"%s\" ?</string>
   <string name="delete_topic_success">Donar-se de baixa de \"%s\"</string>
   <string name="deleting_calendar">Donar-se de baixa a</string>
-  <string name="departure">sortida</string>
+  <string name="departure">Sortida</string>
   <string name="description_label">Descripció</string>
   <string name="directory_searching_fmt">Buscant %s…</string>
   <string name="discard_label">Cancel·lar</string>

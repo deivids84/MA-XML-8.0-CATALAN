@@ -33,6 +33,14 @@
     <plurals name="million">
         <item quantity="other">Descarregat per %1$d persones</item>
     </plurals>
+		<plurals name="view_num">
+        <item quantity="other">%1$d vistes</item>
+        <item quantity="zero">%1$d vistes</item>
+        <item quantity="one">%1$d vista</item>
+        <item quantity="two">%1$d vistes</item>
+        <item quantity="few">%1$d vistes</item>
+        <item quantity="many">%1$d vistes</item>
+    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grups</item>
         <item quantity="one">%d grup</item>

@@ -56,6 +56,7 @@
      <string name="cache_title_empty_folder">Carpeta buida (%d)</string>
      <string name="cache_title_empty_folder2">Carpeta buida</string>
      <string name="cache_title_system_cache">Memòria cau del sistema</string>
+	 <string name="cached_garbage">Memòria cau</string>
      <string name="cancel">Cancel·lar</string>
      <string name="clean_content_all">Tot</string>
      <string name="clean_content_one">1 element</string>
@@ -96,11 +97,13 @@
      <string name="empty_title_installed_apps">Buit</string>
      <string name="empty_title_large_files">Buit</string>
      <string name="empty_title_residual">No s\'ha trobat arxius residuals</string>
+	 <string name="flow_rank_title">Ús de dades</string>
 	 <string name="garbage_clean_detail">Detalls</string>
 	 <string name="garbage_cleanup_detail">%1$d vegades, netejat %2$s</string>
 	 <string name="garbage_month">Netejat %s aquest mes</string>
 	 <string name="go_to">Procedir</string>
 	 <string name="goto_set">Establir</string>
+	 <string name="grabage_rank_title">Netejat avui</string>
 	 <string name="harass_detail">Bloquejats %1$d SMS i %2$d trucades</string>
      <string name="header_optimizer">Usant aquesta funció, vostè està d\'acord en %s.</string>
      <string name="hints_ad_header_left">Arxius de publicitat</string>
@@ -235,7 +238,7 @@
      <string name="privacy_clipboard_type">Portapapers</string>
      <string name="privacy_search_desc">Historial de cerques</string>
      <string name="privacy_search_type">Cerca de Google</string>
-	 <string name="promotion">Selecció de l\'editor</string>
+	 <string name="promotion">Anunci</string>
 	 <string name="recommended">Recomanat</string>
 	 <string name="safety_check_detail">%1$d vegades, guanyats %2$d punts</string>
 	 <string name="safety_rank">Per davant de %d%% usuaris de MIUI en termes de seguretat</string>
@@ -298,7 +301,9 @@
 	 <string name="toast_selecte_group_restore_succeed">Fotos restaurades</string>
      <string name="toast_uninstall_success">Desinstal·lació completa</string>
 	 <string name="total_clean">Total netejat: %s</string>
+	 <string name="total_clean_text">Netejat</string>
 	 <string name="traffic_top">Les 5 aplicacions que més dades consumeixen</string>
+	 <string name="unlike">No gràcies</string>
 	 <string name="virus_scan">Escaneig de virus</string>
      <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
      <string name="white_list_apk_header">Instal·lar paquets: %d</string>
