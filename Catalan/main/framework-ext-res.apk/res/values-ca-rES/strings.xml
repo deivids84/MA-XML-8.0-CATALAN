@@ -58,7 +58,7 @@ Per activar aquesta funció, aneu a Configuració &gt; Sistema &gt; Botons"</str
   <string name="paste">Enganxa</string>
   <string name="reboot_confirm_title">El telèfon es reiniciarà.</string>
   <string name="reboot_info_auto_boot">El telèfon es reiniciarà a les %s a causa de la programació de reinicis</string>
-  <string name="reboot_info_shutdown_alarm">El telèfon es reiniciarà i sonarà l'alarma a les %s</string>
+  <string name="reboot_info_shutdown_alarm">El telèfon es reiniciarà i sonarà l\'alarma a les %s</string>
   <string name="reboot_progress">Reiniciant…</string>
   <string name="replace">Substitueix</string>
   <string name="resource_select">Selecciona</string>
