@@ -109,7 +109,7 @@
   <string name="power_dialog_new_event_fail">No s\'ha pogut afegir nous esdeveniments</string>
   <string name="power_dialog_ok">D\'acord</string>
   <string name="power_dialog_power_keeper_disable">Apagar l\'estalvi de bateria?</string>
-  <string name="power_dialog_power_keeper_enable">Encendre l'estalvi de bateria?</string>
+  <string name="power_dialog_power_keeper_enable">Encendre l\'estalvi de bateria?</string>
   <string name="power_dialog_screen_brightness_title">Brillantor</string>
   <string name="power_event_user_define_title">Nous esdeveniments</string>
   <string name="power_event_view_event_title">Disparadors</string>
