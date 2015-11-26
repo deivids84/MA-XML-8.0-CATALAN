@@ -3281,4 +3281,5 @@ La configuració del telèfon pot necessitar gran tràfic de dades."</string>
      <string name="zone_auto_summaryOn">Utilitza zona horària proporcionada per la xarxa</string>
      <string name="zone_list_menu_sort_alphabetically">Ordenar alfabèticament</string>
      <string name="zone_list_menu_sort_by_timezone">Ordenar per zona horària</string>
+     <string name="add_fingerprint_put_finger_title">Recolza el dit i després treue\'l</string>
 </resources>
