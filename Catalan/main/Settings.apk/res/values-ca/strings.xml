@@ -97,7 +97,7 @@ Assegura\'t que el teu dit cobreix la part interior del sensor</string>
 	 <string name="add_fingerprint_move_finger_title">Retira el dit</string>
 	 <string name="add_fingerprint_put_finger_edge_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
 	 <string name="add_fingerprint_put_finger_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
-	 <string name="add_fingerprint_put_finger_title">Recolza el dit</string>
+	 <string name="add_fingerprint_put_finger_title">Recolza el dit i després treue'l</string>
 	 <string name="add_fingerprint_text">Afegeix empremta</string>
 	 <string name="add_fingerprint_toast_text">Recolza el dit a l\'escàner ara</string>
      <string name="additional_system_update" />
@@ -635,7 +635,7 @@ Activar finestres actives?"</string>
      <string name="confirm_action">D\'acord </string>
      <string name="confirm_download_cancelation_dialog_message">Cancel·lar la descàrrega?</string>
      <string name="confirm_erase">Esborrar</string>
-	 <string name="confirm_fingerprint_msg">Posa el teu dit a l\'escàner d\'empremtes</string>
+	 <string name="confirm_fingerprint_msg">Recolza el teu dit a l\'escàner d\'empremtes</string>
      <string name="confirm_new_backup_pw_prompt">Torneu a escriure la seva nova contrasenya de la còpia de seguretat completa aqui</string>
      <string name="connect_to_internet">Connectar a la xarxa</string>
      <string name="connected_wifi">Connectat</string>

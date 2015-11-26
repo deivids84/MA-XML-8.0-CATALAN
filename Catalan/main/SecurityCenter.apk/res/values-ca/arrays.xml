@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="auto_memory_clean">
-        <item>En 1 minut</item>
-        <item>En 5 minuts</item>
-        <item>En 10 minuts</item>
-        <item>En 30 minuts</item>
+        <item>Després de 1 minut</item>
+        <item>Després de 5 minuts</item>
+        <item>Després de 10 minuts</item>
+        <item>Després de 30 minuts</item>
         <item>Mai</item>
     </string-array>
     <string-array name="preferred_app_entries">

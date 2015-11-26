@@ -39,7 +39,7 @@ Per activar aquesta funció, aneu a Configuració &gt; Sistema &gt; Botons"</str
   <string name="handy_mode_enter_dlg_title">Operació amb una mà</string>
   <string name="handy_mode_summary">Per tancar premi en un espai buit de la pantalla</string>
   <string name="handy_mode_title">Operació amb una mà</string>
-  <string name="ignore_home_when_fingerprint_enrolling_msg">Posa el teu dit en el botó Home</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Recolza el teu dit en el botó Home</string>
   <string name="internal_livetalk_enable">Usant paquets de recàrrega per a trucades nacionals</string>
   <string name="internal_remain_mins">%1$s minuts restants (nacional)</string>
   <string name="international_livetalk_enable">Usant paquets de recàrrega per a trucades internacionals</string>
