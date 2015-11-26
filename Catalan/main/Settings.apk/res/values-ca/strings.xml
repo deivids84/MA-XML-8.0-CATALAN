@@ -97,7 +97,6 @@ Assegura\'t que el teu dit cobreix la part interior del sensor</string>
 	 <string name="add_fingerprint_move_finger_title">Retira el dit</string>
 	 <string name="add_fingerprint_put_finger_edge_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
 	 <string name="add_fingerprint_put_finger_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
-	 <string name="add_fingerprint_put_finger_title">Recolza el dit i després treue'l</string>
 	 <string name="add_fingerprint_text">Afegeix empremta</string>
 	 <string name="add_fingerprint_toast_text">Recolza el dit a l\'escàner ara</string>
      <string name="additional_system_update" />
