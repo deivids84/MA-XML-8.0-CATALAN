@@ -2,35 +2,35 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <plurals name="snooze_message">
-        <item quantity="other">Retrasar %d mins</item>
-        <item quantity="one">Retrasar %d min</item>
+        <item quantity="other">Retardar %d mins</item>
+        <item quantity="one">Retardar %d min</item>
      </plurals>
      <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">1 minuto</item>
+        <item quantity="other">%1$d minuts</item>
+        <item quantity="one">1 minut</item>
      </plurals>
      <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">1 segundo</item>
+        <item quantity="other">%1$d segons</item>
+        <item quantity="one">1 segon</item>
      </plurals>
      <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d horas "</item>
+        <item quantity="other">"%1$d hores "</item>
         <item quantity="one">"%1$d hora "</item>
      </plurals>
      <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d minutos "</item>
-        <item quantity="one">"%1$d minuto "</item>
+        <item quantity="other">"%1$d minuts "</item>
+        <item quantity="one">"%1$d minut "</item>
      </plurals>
      <plurals name="timer_message_second">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">%1$d segundo</item>
+        <item quantity="other">%1$d segons</item>
+        <item quantity="one">%1$d segon</item>
      </plurals>
      <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Retrasar por %d minutos.</item>
-        <item quantity="one">Retrasar por %d minuto.</item>
+        <item quantity="other">Retardar %d minuts.</item>
+        <item quantity="one">Retardar %d minut.</item>
      </plurals>
      <plurals name="auto_silence_summary">
-        <item quantity="other">Las alarmas se silenciarán tras %d minutos</item>
-        <item quantity="one">Las alarmas se silenciarán tras %d minuto</item>
+        <item quantity="other">Les alarmes se silenciaran deprés %d minuts</item>
+        <item quantity="one">Les alarmes se silenciaran després %d minut</item>
      </plurals>
 </resources>
