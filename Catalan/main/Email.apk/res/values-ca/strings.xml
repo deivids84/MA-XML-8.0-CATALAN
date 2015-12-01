@@ -59,7 +59,7 @@
   <string name="account_setup_account_type_instructions">Quin tipus de compte és aquest?</string>
   <string name="account_setup_account_type_title">Configuració del compte</string>
   <string name="account_setup_address_label">Correu electrònic</string>
-  <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d'usuari, contrasenya i compte, els ajustos són correctes.</string>
+  <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Problema amb la configuració del compte</string>
   <string name="account_setup_basics_email_label">Direcció de correu electrònic</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
