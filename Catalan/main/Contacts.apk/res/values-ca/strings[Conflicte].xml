@@ -1,4 +1,5 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<!--
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Detalls de registre de trucada</string>
   <string name="account_container_title">Importat de</string>
@@ -1304,3 +1305,4 @@ Elija una de las siguientes opciones: "</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="zero_items_selected">Seleccionar elementos</string>
 </resources>
+-->
