@@ -103,7 +103,7 @@
   <string name="error_forbidden">Hi ha alguns problemes amb el seu compte: sincronització desactivada.</string>
   <string name="error_not_acceptable">Error de servidor: sincronització desactivada.</string>
   <string name="error_title">Error de sincronització</string>
-  <string name="error_unauthorized">Massa intents d'inici de sessió: sincronització desactivada.</string>
+  <string name="error_unauthorized">Massa intents d\'inici de sessió: sincronització desactivada.</string>
   <string name="evening">PM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
