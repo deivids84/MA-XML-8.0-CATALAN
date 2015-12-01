@@ -36,7 +36,7 @@
   <string name="control_set_alarm_with_existing">Ajustar l\'alarma: %s</string>
   <string name="day">1 dia</string>
   <string name="day_concat">". . "</string>
-  <string name="days">%s díes</string>
+  <string name="days">%s dies</string>
   <string name="default_alarm_alert">So d\'alarma predeterminat</string>
   <string name="default_alarm_title">So predeterminat</string>
   <string name="default_label">Alarma</string>
