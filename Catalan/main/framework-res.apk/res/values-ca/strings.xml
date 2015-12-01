@@ -45,7 +45,7 @@
   <string name="action_mode_done">Llest</string>
   <string name="activity_chooser_view_dialog_title_default">Selecciona activitat</string>
   <string name="activity_chooser_view_see_all">Veure tot</string>
-  <string name="activity_list_empty">No s'ha trobat cap activitat coincident.</string>
+  <string name="activity_list_empty">No s\'ha trobat cap activitat coincident.</string>
   <string name="activity_resolver_use_always">Sempre</string>
   <string name="activity_resolver_use_once">Només un cop</string>
   <string name="activitychooserview_choose_application">Seleccionar una aplicació</string>
