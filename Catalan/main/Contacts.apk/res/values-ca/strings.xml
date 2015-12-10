@@ -1078,7 +1078,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_title_rank">Millors llistes</string>
   <string name="resource_title_select_ringtone">Seleccioneu un to</string>
   <string name="resource_title_subject">Destacat</string>
-  <string name="resource_trial_end_message">La versió de prova de %1$s ha expirat. Si et gust, si us plau compra'l.</string>
+  <string name="resource_trial_end_message">La versió de prova de %1$s ha expirat. Si et gust, si us plau compra\'l.</string>
   <string name="resource_trial_end_purchase">Comprar</string>
   <string name="resource_trial_end_restore">Versió de prova acabada</string>
   <string name="resource_trial_end_title">Versió de prova caducada</string>
