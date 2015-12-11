@@ -196,7 +196,7 @@
   <string name="body_inline_pic_text">[Imatge]</string>
   <string name="bottom_bar_more_quickreply">Resposta ràpida</string>
   <string name="bottom_bar_more_share">Compartir</string>
-  <string name="bottom_bar_no_quickreply_toast">Sense respostes ràpida</string>
+  <string name="bottom_bar_no_quickreply_toast">Sense respostes ràpides</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Recordar</string>
   <string name="calendar_remind_gridview_month_later">El mes siguiente</string>
