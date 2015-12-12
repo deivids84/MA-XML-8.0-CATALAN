@@ -235,7 +235,7 @@ amb %s"</string>
   <string name="ext_media_nofs_notification_title">Emmagatzematge USB buit</string>
   <string name="ext_media_nomedia_notification_message">Emmagatzematge USB extret. Insereix un nou mitjà.</string>
   <string name="ext_media_nomedia_notification_title">Emmagatzematge USB extret</string>
-  <string name="ext_media_safe_unmount_notification_message">Pots extreure l'emmagatzematge USB de forma segura.</string>
+  <string name="ext_media_safe_unmount_notification_message">Pots extreure l\'emmagatzematge USB de forma segura.</string>
   <string name="ext_media_safe_unmount_notification_title">USB extret de forma segura</string>
   <string name="ext_media_unmountable_notification_message">L\'emmagatzematge USB està danyat. Prova a formatar de nou.</string>
   <string name="ext_media_unmountable_notification_title">Emmagatzematge USB danyat</string>
