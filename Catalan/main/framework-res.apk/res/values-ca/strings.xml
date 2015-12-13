@@ -398,106 +398,106 @@ amb %s"</string>
   <string name="kg_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
   <string name="kg_forgot_pattern_button_text">Has oblidat el patró?</string>
   <string name="kg_invalid_confirm_pin_hint">Els codis PIN no coincideixen.</string>
-  <string name="kg_invalid_puk">Vuelve a introducir el código PUK correcto. Si introduces un código incorrecto varias veces, se desactivará la tarjeta SIM.</string>
-  <string name="kg_invalid_sim_pin_hint">Introduce un código PIN con una longitud comprendida entre cuatro y ocho dígitos.</string>
-  <string name="kg_invalid_sim_puk_hint">El código PUK debe tener ocho números como mínimo.</string>
-  <string name="kg_login_account_recovery_hint">""Si has olvidado tu nombre de usuario o tu contraseña,
-accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
-  <string name="kg_login_checking_password">Comprobando cuenta…</string>
-  <string name="kg_login_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
-  <string name="kg_login_invalid_input">El nombre de usuario o la contraseña no son válidos.</string>
-  <string name="kg_login_password_hint">Contraseña</string>
-  <string name="kg_login_submit_button">Iniciar sesión</string>
-  <string name="kg_login_too_many_attempts">Demasiados intentos incorrectos de crear el patrón</string>
-  <string name="kg_login_username_hint">Nombre de usuario (email)</string>
-  <string name="kg_password_instructions">Escribe tu contraseña.</string>
-  <string name="kg_password_wrong_pin_code">Código PIN incorrecto</string>
-  <string name="kg_pattern_instructions">Dibuja tu patrón de desbloqueo.</string>
-  <string name="kg_pin_instructions">Introduce el PIN.</string>
-  <string name="kg_puk_enter_pin_hint">Introduce el código PIN deseado</string>
-  <string name="kg_puk_enter_puk_hint">La tarjeta SIM está desactivada. Para continuar, introduce el código PUK. Si quieres obtener más información, ponte en contacto con el operador</string>
-  <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
-  <string name="kg_sim_pin_instructions">Introduce el PIN de la tarjeta SIM.</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
+  <string name="kg_invalid_puk">Torna a introduir el codi PUK correcte. Si introdueixes un codi incorrecte diverses vegades, es desactivarà la targeta SIM.</string>
+  <string name="kg_invalid_sim_pin_hint">Introdueix un codi PIN amb una longitud compresa entre quatre i vuit dígits.</string>
+  <string name="kg_invalid_sim_puk_hint">El codi PUK ha de tenir vuit nombres com a mínim.</string>
+  <string name="kg_login_account_recovery_hint">"" Si no recordes el teu nom d\'usuari o la contrasenya,
+accedeix a la pàgina "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+  <string name="kg_login_checking_password">Comprovant compte…</string>
+  <string name="kg_login_instructions">Per desbloquejar el telèfon, inicia la sessió amb el teu compte de Google.</string>
+  <string name="kg_login_invalid_input">El nom d\'usuari o la contrasenya no són vàlids.</string>
+  <string name="kg_login_password_hint">Contrasenya</string>
+  <string name="kg_login_submit_button">Inicia la sessió</string>
+  <string name="kg_login_too_many_attempts">Massa intents incorrectes de crear el patró</string>
+  <string name="kg_login_username_hint">Nom d\'usuari (email)</string>
+  <string name="kg_password_instructions">Escriu la contrasenya.</string>
+  <string name="kg_password_wrong_pin_code">Codi PIN incorrecte</string>
+  <string name="kg_pattern_instructions">Dibuixa el teu patró de desbloqueig.</string>
+  <string name="kg_pin_instructions">Introdueix el PIN.</string>
+  <string name="kg_puk_enter_pin_hint">Introdueix el codi PIN desitjat</string>
+  <string name="kg_puk_enter_puk_hint">La targeta SIM està desactivada. Per continuar, introdueix el codi PUK. Si vols obtenir més informació, posa\'t en contacte amb l\'operador</string>
+  <string name="kg_reordering_delete_drop_target_text">Elimina</string>
+  <string name="kg_sim_pin_instructions">Introdueix el PIN de la targeta SIM.</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Desbloqueja targeta SIM…</string>
   <string name="kg_text_message_separator">" — "</string>
-  <string name="kg_too_many_failed_attempts_countdown">Inténtalo de nuevo en %1$d segundos.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Has introducido una contraseña incorrecta %d veces. 
+  <string name="kg_too_many_failed_attempts_countdown">Intenta-ho de nou en %1$d segons.</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Heu introduït una contrasenya incorrecta %d vegades. 
 
-Inténtalo de nuevo en %d segundos."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Has fallado %d veces al dibujar tu patrón de desbloqueo. 
+Intenta-ho de nou en %d segons."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Has fallat %d vegades en dibuixar el teu patró de desbloqueig. 
 
-Inténtalo de nuevo en %d segundos."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has introducido un código PIN incorrecto %d veces. 
+Intenta-ho de nou en %d segons."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Heu introduït un codi PIN incorrecte %d vegades. 
 
-Inténtalo de nuevo en %d segundos."</string>
-  <string name="kg_wrong_password">Contraseña incorrecta</string>
-  <string name="kg_wrong_pattern">El patrón es incorrecto</string>
-  <string name="kg_wrong_pin">PIN incorrecto</string>
+Intenta-ho de nou en %d segons."</string>
+  <string name="kg_wrong_password">Contrasenya incorrecta</string>
+  <string name="kg_wrong_pattern">El patró és incorrecte</string>
+  <string name="kg_wrong_pin">PIN incorrecte</string>
   <string name="kilobyteShort">KB</string>
-  <string name="last_month">El mes pasado</string>
-  <string name="launchBrowserDefault">¿Iniciar el navegador?</string>
-  <string name="launch_warning_original">Inicialmente, se inició la aplicación %1$s.</string>
-  <string name="launch_warning_replace">%1$s se está ejecutando.</string>
-  <string name="launch_warning_title">Aplicación redireccionada</string>
+  <string name="last_month">El mes passat</string>
+  <string name="launchBrowserDefault">Iniciar el navegador?</string>
+  <string name="launch_warning_original">Inicialment, es va iniciar l\'aplicació %1$s.</string>
+  <string name="launch_warning_replace">%1$s s\'està executant.</string>
+  <string name="launch_warning_title">Aplicació redireccionada</string>
   <string name="list_delimeter">", "</string>
-  <string name="loading">Cargando…</string>
+  <string name="loading">Carregant…</string>
   <string name="locale_replacement"/>
-  <string name="lock_pattern_view_aspect">cuadrado</string>
-  <string name="lock_to_app_description">"La fijación de pantalla bloquea la pantalla en una vista.
+  <string name="lock_pattern_view_aspect">quadrat</string>
+  <string name="lock_to_app_description">"La fixació de pantalla bloqueja la pantalla en una vista.
 
-Para quitar la fijación, presiona y manten el botón Home y el de encendido a la vez."</string>
-  <string name="lock_to_app_description_accessible">"La fijación de pantalla bloquea la pantalla en una vista.
+Per treure la fixació, pressiona i mantén el botó Home i el d\'encesa a la vegada."</string>
+  <string name="lock_to_app_description_accessible">"La fixació de pantalla bloqueja la pantalla en una vista.
 
-Para quitar la fijación, presiona y manten el botón Home y el de encendido a la vez."</string>
-  <string name="lock_to_app_toast">Para quitar la fijación de pantalla, presiona y manten el botón Home y el de encendido a la vez.</string>
-  <string name="lock_to_app_toast_accessible">Para quitar la fijación de pantalla, presiona y manten el botón Home y el de encendido a la vez.</string>
-  <string name="lockscreen_access_pattern_cell_added">Se ha añadido una celda.</string>
-  <string name="lockscreen_access_pattern_cleared">Patrón borrado</string>
-  <string name="lockscreen_access_pattern_detected">Patrón completado</string>
-  <string name="lockscreen_access_pattern_start">Patrón iniciado</string>
+Per treure la fixació, pressiona i mantén el botó Home i el d\'encesa a la vegada."</string>
+  <string name="lock_to_app_toast">Per treure la fixació de pantalla, pressiona i mantén el botó Home i el d\'encesa a la vegada.</string>
+  <string name="lock_to_app_toast_accessible">Per treure la fixació de pantalla, pressiona i mantén el botó Home i el d\'encesa a la vegada.</string>
+  <string name="lockscreen_access_pattern_cell_added">S\'ha afegit una cel·la.</string>
+  <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
+  <string name="lockscreen_access_pattern_detected">Patró completat</string>
+  <string name="lockscreen_access_pattern_start">Patró iniciat</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_carrier_default">Sin servicio</string>
-  <string name="lockscreen_charged">Cargada</string>
-  <string name="lockscreen_emergency_call">Llamada de emergencia</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Si fallas %d veces más, se restablecerán los datos de fábrica y se perderán todos los datos del usuario.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has fallado %d veces al dibujar el patrón de desbloqueo. Si fallas otras %d veces, deberás usar tus credenciales de acceso de Google para desbloquear el teléfono.
+  <string name="lockscreen_carrier_default">Sense servei</string>
+  <string name="lockscreen_charged">Carregada</string>
+  <string name="lockscreen_emergency_call">Trucada d\'emergència</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Si falles %d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has fallat %d vegades en dibuixar el patró de desbloqueig. Si falles unes altres %d vegades, hauràs de fer servir les teves credencials d\'accés a Google per desbloquejar el telèfon.
 
- Inténtalo de nuevo dentro de %d segundos."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Has intentado desbloquear el teléfono %d veces, pero no lo has conseguido. Se restablecerán los datos de fábrica del dispositivo.</string>
-  <string name="lockscreen_forgot_pattern_button_text">¿Has olvidado el patrón?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">""Si has olvidado tu nombre de usuario o tu contraseña,
-accede a la página "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
-  <string name="lockscreen_glogin_checking_password">Comprobando…</string>
-  <string name="lockscreen_glogin_forgot_pattern">Desbloqueo de cuenta</string>
-  <string name="lockscreen_glogin_instructions">Para desbloquear el teléfono, inicia sesión con tu cuenta de Google.</string>
-  <string name="lockscreen_glogin_invalid_input">Nombre de usuario o contraseña no válido</string>
-  <string name="lockscreen_glogin_password_hint">Contraseña</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sesión</string>
-  <string name="lockscreen_glogin_too_many_attempts">Demasiados intentos incorrectos de creación del patrón</string>
-  <string name="lockscreen_glogin_username_hint">Nombre de usuario (email)</string>
-  <string name="lockscreen_instructions_when_pattern_disabled">Pulsa la tecla de menú para desbloquear la pantalla.</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Pulsa la tecla de menú para desbloquear el teléfono o realizar una llamada de emergencia.</string>
-  <string name="lockscreen_low_battery">Conecta el cargador</string>
-  <string name="lockscreen_missing_sim_instructions">Inserta una tarjeta SIM.</string>
-  <string name="lockscreen_missing_sim_instructions_long">Falta la tarjeta SIM o no se puede leer. Introduce una tarjeta SIM.</string>
-  <string name="lockscreen_missing_sim_message">No se ha insertado ninguna tarjeta SIM en el teléfono.</string>
-  <string name="lockscreen_missing_sim_message_short">Falta la tarjeta SIM.</string>
-  <string name="lockscreen_network_locked_message">Bloqueada para la red</string>
-  <string name="lockscreen_password_wrong">Vuelve a intentarlo</string>
-  <string name="lockscreen_pattern_correct">Aceptar</string>
-  <string name="lockscreen_pattern_instructions">Dibujar patrón de desbloqueo</string>
-  <string name="lockscreen_pattern_wrong">Vuelve a intentarlo</string>
-  <string name="lockscreen_permanent_disabled_sim_instructions">"Tu tarjeta SIM se ha desactivado permanentemente.
- Para obtener otra tarjeta SIM, ponte en contacto con tu proveedor de servicios de telefonía."</string>
-  <string name="lockscreen_permanent_disabled_sim_message_short">Tarjeta SIM inutilizable</string>
-  <string name="lockscreen_plugged_in">Cargando (%d%%)</string>
-  <string name="lockscreen_return_to_call">Volver a llamada</string>
-  <string name="lockscreen_screen_locked">Pantalla bloqueada</string>
-  <string name="lockscreen_sim_locked_message">Introduce el código PIN.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">Consulta la guía del usuario o ponte en contacto con el servicio de atención al cliente.</string>
-  <string name="lockscreen_sim_puk_locked_message">La tarjeta SIM está bloqueada con el código PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
-  <string name="lockscreen_sound_off_label">Desactivar sonido</string>
+ Intenta-ho de nou d\'aquí a %d segons."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Has oblidat el patró?</string>
+  <string name="lockscreen_glogin_account_recovery_hint">""Si no recordes el teu nom d\'usuari o la contrasenya,
+accedeix a la pàgina "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+  <string name="lockscreen_glogin_checking_password">Comprovant…</string>
+  <string name="lockscreen_glogin_forgot_pattern">Desbloqueig de compte</string>
+  <string name="lockscreen_glogin_instructions">Per desbloquejar el telèfon, inicia la sessió amb el teu compte de Google.</string>
+  <string name="lockscreen_glogin_invalid_input">Nom d\'usuari o contrasenya no vàlid</string>
+  <string name="lockscreen_glogin_password_hint">Contrasenya</string>
+  <string name="lockscreen_glogin_submit_button">Inicia la sessió</string>
+  <string name="lockscreen_glogin_too_many_attempts">Massa intents incorrectes de creació del patró</string>
+  <string name="lockscreen_glogin_username_hint">Nom d\'usuari (email)</string>
+  <string name="lockscreen_instructions_when_pattern_disabled">Prem la tecla de menú per desbloquejar la pantalla.</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Prem la tecla de menú per desbloquejar el telèfon o realitzar una trucada d\'emergència.</string>
+  <string name="lockscreen_low_battery">Connecta el carregador</string>
+  <string name="lockscreen_missing_sim_instructions">Insereix una targeta SIM.</string>
+  <string name="lockscreen_missing_sim_instructions_long">Falta la targeta SIM o no es pot llegir. Introdueix una targeta SIM.</string>
+  <string name="lockscreen_missing_sim_message">No s\'ha inserit cap targeta SIM al telèfon.</string>
+  <string name="lockscreen_missing_sim_message_short">Falta la targeta SIM.</string>
+  <string name="lockscreen_network_locked_message">Bloquejada per a la xarxa</string>
+  <string name="lockscreen_password_wrong">Torna a intentar</string>
+  <string name="lockscreen_pattern_correct">D\'acord</string>
+  <string name="lockscreen_pattern_instructions">Dibuixar patró de desbloqueig</string>
+  <string name="lockscreen_pattern_wrong">Torna a intentar</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"La targeta SIM s\'ha desactivat permanentment.
+ Per obtenir una altre targeta SIM, poseu-vos en contacte amb el vostre proveïdor de serveis de telefonia."</string>
+  <string name="lockscreen_permanent_disabled_sim_message_short">Targeta SIM inutilitzable</string>
+  <string name="lockscreen_plugged_in">Carregant (%d%%)</string>
+  <string name="lockscreen_return_to_call">Tornar a trucada</string>
+  <string name="lockscreen_screen_locked">Pantalla bloquejada</string>
+  <string name="lockscreen_sim_locked_message">Introdueix el codi PIN.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Consulta la guia de l\'usuari o posa\'t en contacte amb el servei d\'atenció al client.</string>
+  <string name="lockscreen_sim_puk_locked_message">La targeta SIM està bloquejada amb el codi PUK.</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueja targeta SIM…</string>
+  <string name="lockscreen_sound_off_label">Desactivar so</string>
   <string name="lockscreen_sound_on_label">Activar sonido</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Espera %d segundos y vuelve a intentarlo.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Has realizado %d intentos fallidos de creación de un patrón de desbloqueo. 
