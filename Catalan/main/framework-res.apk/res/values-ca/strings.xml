@@ -462,8 +462,8 @@ Per treure la fixació, pressiona i mantén el botó Home i el d\'encesa a la ve
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Si falles %d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has fallat %d vegades en dibuixar el patró de desbloqueig. Si falles unes altres %d vegades, hauràs de fer servir les teves credencials d\'accés a Google per desbloquejar el telèfon.
 
- Intenta-ho de nou d\'aquí a %d segons."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
+ Intenta-ho d\'aquí a %d segons."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Has intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
   <string name="lockscreen_forgot_pattern_button_text">Has oblidat el patró?</string>
   <string name="lockscreen_glogin_account_recovery_hint">""Si no recordes el teu nom d\'usuari o la contrasenya,
 accedeix a la pàgina "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
@@ -498,45 +498,45 @@ accedeix a la pàgina "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string
   <string name="lockscreen_sim_puk_locked_message">La targeta SIM està bloquejada amb el codi PUK.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Desbloqueja targeta SIM…</string>
   <string name="lockscreen_sound_off_label">Desactivar so</string>
-  <string name="lockscreen_sound_on_label">Activar sonido</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Espera %d segundos y vuelve a intentarlo.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Has realizado %d intentos fallidos de creación de un patrón de desbloqueo. 
+  <string name="lockscreen_sound_on_label">Activa so</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Espera %d segons i torna a provar.</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Has realitzat %d intents fallits de creació d\'un patró de desbloqueig. 
 
-Inténtalo de nuevo dentro de %d segundos."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Has introducido una contraseña incorrecta %d veces. 
+Intenta-ho d\'aquí a %d segons."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Has introduït una contrasenya incorrecta %d vegades. 
 
-Inténtalo de nuevo dentro de %d segundos."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has introducido un código PIN incorrecto %d veces. 
+Intenta-ho d\'aquí a %d segons."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has introduït un codi PIN incorrecte %d vegades. 
 
-Inténtalo de nuevo dentro de %d segundos."</string>
-  <string name="lockscreen_transport_next_description">Botón de siguiente canción</string>
-  <string name="lockscreen_transport_pause_description">Botón de pausa</string>
-  <string name="lockscreen_transport_play_description">Botón de reproducción</string>
-  <string name="lockscreen_transport_prev_description">Botón de canción anterior</string>
-  <string name="lockscreen_transport_stop_description">Botón para detener la reproducción</string>
-  <string name="lockscreen_unlock_label">Desbloquear</string>
-  <string name="low_internal_storage_view_text">Es posible que algunas funciones del sistema no funcionen.</string>
-  <string name="low_internal_storage_view_title">Queda poco espacio</string>
-  <string name="low_memory">Se ha agotado el espacio de almacenamiento del teléfono. Elimina algunos archivos para liberar espacio.</string>
-  <string name="me">Yo</string>
-  <string name="media_bad_removal">La tarjeta SD se ha extraído antes de desactivarla.</string>
-  <string name="media_checking">La tarjeta SD está siendo comprobada.</string>
-  <string name="media_info_audio_not_supported">Error al reproducir el audio.</string>
-  <string name="media_info_video_not_supported">Este vídeo no es compatible.</string>
-  <string name="media_removed">La tarjeta SD se ha extraído.</string>
-  <string name="media_route_button_content_description">Salida multimedia</string>
-  <string name="media_route_chooser_extended_settings">Ajustes</string>
-  <string name="media_route_chooser_searching">Buscando dispositivos…</string>
-  <string name="media_route_chooser_title">Conectar a dispositivo</string>
-  <string name="media_route_chooser_title_for_remote_display">Enviar pantalla a dispositivo</string>
-  <string name="media_route_controller_disconnect">Desconectar</string>
+Intenta-ho d\'aquí a %d segons."</string>
+  <string name="lockscreen_transport_next_description">Botó de següent cançó</string>
+  <string name="lockscreen_transport_pause_description">Botó de pausa</string>
+  <string name="lockscreen_transport_play_description">Botó de reproducció</string>
+  <string name="lockscreen_transport_prev_description">Botó de cançó anterior</string>
+  <string name="lockscreen_transport_stop_description">Botó per aturar la reproducció</string>
+  <string name="lockscreen_unlock_label">Desbloca</string>
+  <string name="low_internal_storage_view_text">És possible que algunes funcions del sistema no funcionin.</string>
+  <string name="low_internal_storage_view_title">Queda poc espai</string>
+  <string name="low_memory">S\'ha esgotat l\'espai d\'emmagatzematge del telèfon. Elimina alguns arxius per alliberar espai.</string>
+  <string name="me">Jo</string>
+  <string name="media_bad_removal">La targeta SD s\'ha extret abans de desactivar-la.</string>
+  <string name="media_checking">La targeta SD està sent comprovada.</string>
+  <string name="media_info_audio_not_supported">Error en reproduir l\'àudio.</string>
+  <string name="media_info_video_not_supported">Aquest vídeo no és compatible.</string>
+  <string name="media_removed">La targeta SD s\'ha extret.</string>
+  <string name="media_route_button_content_description">Sortida multimèdia</string>
+  <string name="media_route_chooser_extended_settings">Configuració</string>
+  <string name="media_route_chooser_searching">Buscant dispositius…</string>
+  <string name="media_route_chooser_title">Connectar a dispositiu</string>
+  <string name="media_route_chooser_title_for_remote_display">Envia pantalla a dispositiu</string>
+  <string name="media_route_controller_disconnect">Desconnectar</string>
   <string name="media_route_status_available">Disponible</string>
-  <string name="media_route_status_connecting">Conectando…</string>
-  <string name="media_route_status_in_use">En uso</string>
+  <string name="media_route_status_connecting">Connectant…</string>
+  <string name="media_route_status_in_use">En ús</string>
   <string name="media_route_status_not_available">No disponible</string>
-  <string name="media_route_status_scanning">Analizando…</string>
-  <string name="media_shared">Un equipo está utilizando actualmente el almacenamiento USB.</string>
-  <string name="media_unknown_state">Estado de medio externo desconocido</string>
+  <string name="media_route_status_scanning">Analitzant…</string>
+  <string name="media_shared">Un equip está utilitzant actualment l\'emmagatzematge USB.</string>
+  <string name="media_unknown_state">Estat de medi extern desconegut</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Ka</string>
   <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
   <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
@@ -607,7 +607,7 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="mediasize_japanese_oufuku">Oufuku</string>
   <string name="mediasize_japanese_you4">You4</string>
   <string name="mediasize_na_foolscap">Foolscap</string>
-  <string name="mediasize_na_gvrnmt_letter">Carta del gobierno</string>
+  <string name="mediasize_na_gvrnmt_letter">Carta del govern</string>
   <string name="mediasize_na_index_3x5">Index Card 3x5</string>
   <string name="mediasize_na_index_4x6">Index Card 4x6</string>
   <string name="mediasize_na_index_5x8">Index Card 5x8</string>
@@ -618,36 +618,36 @@ Inténtalo de nuevo dentro de %d segundos."</string>
   <string name="mediasize_na_monarch">Monarch</string>
   <string name="mediasize_na_quarto">Quarto</string>
   <string name="mediasize_na_tabloid">Tabloide</string>
-  <string name="mediasize_unknown_landscape">Tamaño horizontal desconocido</string>
-  <string name="mediasize_unknown_portrait">Tamaño vertical desconocido</string>
+  <string name="mediasize_unknown_landscape">Mida horitzontal desconegut</string>
+  <string name="mediasize_unknown_portrait">Mida vertical desconegut</string>
   <string name="megabyteShort">MB</string>
   <string name="meid">MEID</string>
   <string name="menu_delete_shortcut_label">eliminar</string>
   <string name="menu_enter_shortcut_label">intro</string>
-  <string name="menu_space_shortcut_label">espacio</string>
-  <string name="midnight">medianoche</string>
+  <string name="menu_space_shortcut_label">espai</string>
+  <string name="midnight">mitjanit</string>
   <string name="minute">min</string>
-  <string name="minutes">minutos</string>
-  <string name="mismatchPin">Los códigos PIN introducidos no coinciden.</string>
-  <string name="mmiComplete">MMI completo</string>
-  <string name="mmiError">Se ha producido un problema de conexión o el código MMI no es válido.</string>
-  <string name="mmiFdnError">La operación solo es válida para números de marcación fija.</string>
+  <string name="minutes">minuts</string>
+  <string name="mismatchPin">Els codis PIN introduïts no coincideixen.</string>
+  <string name="mmiComplete">MMI complet</string>
+  <string name="mmiError">S\'ha produït un problema de connexió o el codi MMI no és vàlid.</string>
+  <string name="mmiFdnError">L\'operació només és vàlida per a nombres de marcatge fix.</string>
   <string name="mobile_provisioning_apn"/>
   <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
-  <string name="more_item_label">Más</string>
-  <string name="needPuk">La tarjeta SIM está bloqueada con el código PUK. Introduce el código PUK para desbloquearla.</string>
-  <string name="needPuk2">Introduce el código PUK2 para desbloquear la tarjeta SIM.</string>
-  <string name="network_available_sign_in">Iniciar sesión en la red</string>
-  <string name="new_app_action">Iniciar %1$s</string>
-  <string name="new_app_description">Detener la aplicación anterior sin guardar</string>
-  <string name="next_button_label">Siguiente</string>
-  <string name="no">Cancelar</string>
-  <string name="noApplications">Ninguna aplicación puede realizar esta acción.</string>
-  <string name="no_file_chosen">Archivo no seleccionado</string>
-  <string name="no_matches">No hay coincidencias.</string>
-  <string name="no_permissions">No es necesario ningún permiso</string>
-  <string name="no_recent_tasks">No hay aplicaciones recientes.</string>
+  <string name="more_item_label">Més</string>
+  <string name="needPuk">La targeta SIM està bloquejada amb el codi PUK. Introdueix el codi PUK per desbloquejar-la.</string>
+  <string name="needPuk2">Introdueix el codi PUK2 per desbloquejar la targeta SIM.</string>
+  <string name="network_available_sign_in">Inicia la sessió a la xarxa</string>
+  <string name="new_app_action">Inicia %1$s</string>
+  <string name="new_app_description">Aturar l\'aplicació anterior sense desar</string>
+  <string name="next_button_label">Següent</string>
+  <string name="no">Cancel·la</string>
+  <string name="noApplications">Cap aplicació pot realitzar aquesta acció.</string>
+  <string name="no_file_chosen">No s\'ha seleccionat</string>
+  <string name="no_matches">No hi ha coincidències.</string>
+  <string name="no_permissions">No cal cap permís</string>
+  <string name="no_recent_tasks">No hi ha aplicacions recents.</string>
   <string name="noon">mediodía</string>
   <string name="notification_listener_binding_label">Detector de notificaciones</string>
   <string name="notification_title">Error de inicio de sesión de %1$s</string>
