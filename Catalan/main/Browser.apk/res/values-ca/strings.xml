@@ -911,10 +911,10 @@ Esteu segur de voler sortir d'aquesta pàgina?"</string>
   <string name="website_settings_clear_all">Esborra-ho tot</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Cancel·lar</string>
   <string name="website_settings_clear_all_dialog_message">Voleu suprimir totes les dades de navegació i permisos d\'ubicació?</string>
-  <string name="website_settings_clear_all_dialog_ok_button">OK</string>
+  <string name="website_settings_clear_all_dialog_ok_button">D\'acord</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Cancel·lar</string>
   <string name="webstorage_clear_data_dialog_message">Esborrar totes les dades emmagatzemades en aquesta web?</string>
-  <string name="webstorage_clear_data_dialog_ok_button">OK</string>
+  <string name="webstorage_clear_data_dialog_ok_button">D\'acord</string>
   <string name="webstorage_clear_data_title">Esborrar dades emmagatzemades</string>
   <string name="webstorage_origin_summary_mb_stored">MB emmagatzemats al telèfon</string>
   <string name="webstorage_outofspace_notification_text">Toca per alliberar espai.</string>

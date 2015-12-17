@@ -82,7 +82,7 @@
   <string name="mi_band_vibrate_sms">Vibrar en rebre un SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Vibrar en rebre un SMS dels meus contactes</string>
   <string name="mi_band_vibrate_sms_no_contacts">Vibrar en rebre un SMS d\'un nombre desconegut</string>
-  <string name="mi_key_alert_dialog_message">Toqui OK per silenciar l\'alarma.</string>
+  <string name="mi_key_alert_dialog_message">Toqui D\'acord per silenciar l\'alarma.</string>
   <string name="mi_key_alert_dialog_title">Alerta de Mi key</string>
   <string name="mi_key_find_mikey">Cercar Mi-Key</string>
   <string name="mi_key_find_phone">Cercar telèfon</string>
@@ -105,7 +105,7 @@
   <string name="notify_device_lose_connection_text">Prémer per desemparellar %1$s</string>
   <string name="notify_device_lose_connection_title">Connexió perduda amb %1$s</string>
   <string name="notify_server">Notificar al servidor TCP</string>
-  <string name="ok_button">OK</string>
+  <string name="ok_button">D\'acord</string>
   <string name="outbound_history_title">Transferències sortints</string>
   <string name="outbound_noti_title">Transferència Bluetooth: Enviar arxius</string>
   <string name="pbap_acceptance_timeout_message">Hi va haver un temps d\'espera en acceptar la connexió amb %1$s</string>

@@ -250,6 +250,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="deleteConfirmation">Aquest contacte s\'eliminarà.</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">Eliminar aquest contacte?</string>
+  <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
   <string name="delete_contact_calllog_title">Esborrar registre de trucades?</string>

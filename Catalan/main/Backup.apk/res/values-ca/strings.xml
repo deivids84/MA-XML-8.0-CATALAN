@@ -204,11 +204,11 @@
   <string name="task_restore_cancel_progress">Cancel·lant…</string>
   <string name="task_restore_finished_local">Restauració completada</string>
   <string name="task_restore_none">Res a restaurar</string>
-  <string name="task_running_backup_dialog">Còpia de seguretat realitzant-se. Premeu OK per veure.</string>
+  <string name="task_running_backup_dialog">Còpia de seguretat realitzant-se. Premeu D\'acord per veure.</string>
   <string name="task_running_backup_hint">Aquesta tasca ja s\'està executant en segon pla</string>
-  <string name="task_running_dialog">Còpia de seguretat i restauració realitzant-se. Toqui OK per veure.</string>
+  <string name="task_running_dialog">Còpia de seguretat i restauració realitzant-se. Toqui D\'acord per veure.</string>
   <string name="task_running_hint">Aquest procés ja s\'està executant en segon pla</string>
-  <string name="task_running_restore_dialog">Restauració realitzant-se. Toqui OK per veure.</string>
+  <string name="task_running_restore_dialog">Restauració realitzant-se. Toqui D\'acord per veure.</string>
   <string name="task_running_restore_hint">Aquesta tasca ja s\'està executant en segon pla</string>
   <string name="task_service_not_launched">"Encara no ha començat el procés"</string>
   <string name="task_stopped_exception">Restauració cancel·lada</string>
