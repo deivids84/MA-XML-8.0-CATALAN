@@ -47,6 +47,6 @@
         <item>LowBattery</item>
     </string-array>
     <string-array name="disable_package_replacement">
-        <item>desactivar nombre de paquete</item>
+        <item>desactivar nom de paquet</item>
     </string-array>
 </resources>
