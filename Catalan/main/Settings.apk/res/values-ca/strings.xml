@@ -1086,6 +1086,7 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
      <string name="force_stop">Forçar detenció</string>
      <string name="force_stop_dlg_text">Si força la detenció d\'una aplicació, pot funcionar erròniament.</string>
      <string name="force_stop_dlg_title">Forçar detenció?</string>
+	 <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
      <string name="forget_wifi_message">El seu telèfon deixarà de connectar-se a aquesta xarxa automàticament.</string>
      <string name="found_new_version">Actualització disponible</string>
      <string name="free_wifi_agreement_remind_never">"No mostrar de nou"</string>
@@ -2034,7 +2035,8 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
  No es perdrà cap dada d\'aplicació."</string>
      <string name="reset_app_preferences_title">Restablir preferències d\'aplicació?</string>
      <string name="reset_legacy_password_settings_preface_text">Ha de canviar la contrasenya de pantalla de bloqueig.</string>
-     <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
+     <string name="resolver_settings_label">Ordenar</string>
+	 <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
      <string name="restore_default_apn">Restaurant ajustos APN per defecte.</string>
      <string name="restore_default_apn_completed">Reseteig d\'ajustos APN per defecte complet.</string>
      <string name="restrict_background_data_dialog_summary">Les aplicacions que s\'estan executant en segon pla no poden rebre missatges</string>

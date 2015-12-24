@@ -224,9 +224,20 @@
   <string name="trans_detail_category_sysdata">Dades del sistema</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_device_disconnected">Dispositiu desconnectat</string>
+  <string name="trans_generate_qr_code_failed">No s\'ha pogut crear el codi QR</string>
   <string name="trans_main_tutor">Transferència de contactes, registre de trucades, missatges, disposició de la pantalla d\'inici, aplicacions, ajustaments, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_one_key_migrate">Transferència</string>
+  <string name="trans_operate_new_phone_tips">"Escaneja el codi QR utilitzant el nou dispositiu
+Vés a Configuració &gt; Configuració addicional &gt; Transferència
+Toca [Soy un receptor] para crear el código QR"</string>
+  <string name="trans_operate_old_phone_tips1">"Mètode A
+1. Instal·la l\'aplicació de transferència en el teu vell dispositiu
+2. Obre l\'aplicació i selecciona [Sóc un emissor]
+3. Escaneja el codi QR amb el teu vell dispositiu"</string>
+  <string name="trans_operate_old_phone_tips2">"Mètode B
+Vés a Configuració &gt; Configuració addicional &gt; Transferència
+Toca [Sóc un emissor]"</string>
   <string name="trans_progress_subdescript_br_receiver">Rebent %s</string>
   <string name="trans_progress_subdescript_br_sender">Copiant %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Rebent %s</string>
@@ -238,6 +249,8 @@
   <string name="trans_receiving_completed">Dades rebudes</string>
   <string name="trans_restoring">Restablint…</string>
   <string name="trans_restoring_no_items">Sincronitzant elements</string>
+  <string name="trans_scan_invalid_qrcode">Codi QR invàlid</string>
+  <string name="trans_scan_qr_code_tips">Escaneja el codi QR utilitzant el nou dispositiu</string>
   <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre dades.</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir dades.</string>
   <string name="trans_sender">Sóc un emissor</string>
@@ -246,6 +259,7 @@
   <string name="trans_sender_searching_ensurance">"Assegura't que el vell dispositiu
 està encès perquè el nou dispositiu es connecti…"</string>
   <string name="trans_sending_completed">Dades enviades</string>
+  <string name="trans_show_qr_code_tips">Escaneja el codi QR usant el vell dispositiu</string>
   <string name="trans_time_format_second"> menys d\'un minut</string>
   <string name="trans_time_remained">, a punt en</string>
   <string name="trans_waiting_ensurance">"Assegura\'t que el vell dispositiu

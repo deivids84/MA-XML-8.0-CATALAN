@@ -100,8 +100,10 @@
   <string name="callrecordview_item_op_time_rejected">Rebutjat</string>
   <string name="callrecordview_item_op_time_short_incoming">"Entrant: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Sortint: "</string>
+  <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Afegeix nota de trucada</string>
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
+  <string name="callrecordview_menu_conference">Conferència</string>
   <string name="callrecordview_menu_delete">Netejar registre de trucades </string>
   <string name="callrecordview_menu_delete_accepted">Netejar trucades respostes</string>
   <string name="callrecordview_menu_delete_all">Netejar registre de trucades</string>
@@ -663,6 +665,11 @@ Motiu: \"%s\""</string>
   <string name="missing_name">(Sense nom)</string>
   <string name="more_call_logs">Veure registre detallat de trucades a i.mi.com</string>
   <string name="move_and_resize">Moure i canviar la mida</string>
+  <string name="multi_number_menu_call">Trucar</string>
+  <string name="multi_number_menu_delete">Elimina</string>
+  <string name="multi_number_menu_group">Nou grup</string>
+  <string name="multi_number_menu_message">Missatge</string>
+  <string name="multi_number_title">Conferència</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
   <string name="multipleContactDeleteConfirmationDetail">En eliminar \"%s\" serà eliminat de diversos comptes.</string>
   <string name="my_in_call_show">El meu vídeo</string>
@@ -1114,6 +1121,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_settings_description">Noms dels teus contactes</string>
   <string name="searching_vcard_message">Buscant vCard a l\'emmagatzematge…</string>
   <string name="select_all">Selecciona-ho tot</string>
+  <string name="select_done">No hi ha més per seleccionar</string>
   <string name="select_groups">Grups seleccionats</string>
   <string name="select_new_photo_from_photo_package">Navegar per les carpetes</string>
   <string name="select_none">Res seleccionat</string>
@@ -1259,6 +1267,7 @@ Trieu una de les següents opcions: "</string>
   <string name="vcard_import_will_start_message">%s s\'importaran aviat.</string>
   <string name="vcard_import_will_start_message_with_default_name">El fitxer s\'importarà d\'aquí a poc.</string>
   <string name="vcard_unknown_filename">Contacte</string>
+  <string name="video_call">Vídeotrucada</string>
   <string name="video_chat">Vídeoxat</string>
   <string name="viewContactDesription">Veure contacte</string>
   <string name="viewContactTitle">Dades de contacte</string>

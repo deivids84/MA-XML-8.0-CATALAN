@@ -52,6 +52,10 @@
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionat</item>
      </plurals>
+	 <plurals name="number_of_items_available">
+        <item quantity="other">%1$d restants</item>
+        <item quantity="one">%1$d restant</item>
+     </plurals>
      <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d preferits</item>
         <item quantity="one">%1$d preferit</item>
