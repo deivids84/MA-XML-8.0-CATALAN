@@ -700,7 +700,7 @@ Intenta-ho d\'aquí a %d segons."</string>
   <string name="permdesc_batteryStats">Permet que una aplicació consulti les dades actuals d\'ús de bateria de nivell inferior. Pot permetre que l\'aplicació obtingui informació detallada sobre les aplicacions que fas servir.</string>
   <string name="permdesc_bindAccessibilityService">Permet enllaçar amb la interfície de nivell superior d\'un servei d\'accessibilitat. Les aplicacions normals no haurien de necessitar aquest permís.</string>
   <string name="permdesc_bindDeviceAdmin">Permet que s\'enviïn intents a un administrador de dispositius. Les aplicacions normals no haurien de necessitar aquest permís.</string>
-  <string name="permdesc_bindGadget">Permet que l'aplicació indiqui al sistema els widgets que pot utilitzar cada aplicació. Una aplicació amb aquest permís pot proporcionar altres aplicacions accés a informació personal. Les aplicacions normals no poden usar aquest permís.</string>
+  <string name="permdesc_bindGadget">Permet que l\'aplicació indiqui al sistema els widgets que pot utilitzar cada aplicació. Una aplicació amb aquest permís pot proporcionar altres aplicacions accés a informació personal. Les aplicacions normals no poden usar aquest permís.</string>
   <string name="permdesc_bindInputMethod">Permet que s\'enllaci amb la interfície de nivell superior d\'un mètode d'entrada de text. Les aplicacions normals no haurien de necessitar aquest permís.</string>
   <string name="permdesc_bindJobService">Aquest permís permet al sistema Android llançar aplicacions en segon pla quan es requereixi.</string>
   <string name="permdesc_bindNfcService">Permet enllaçar amb aplicacions que emulin targetes NFC. No ha de ser necessari per a les aplicacions normals.</string>

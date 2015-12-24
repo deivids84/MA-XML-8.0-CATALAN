@@ -541,8 +541,8 @@
   <string name="notification_action_undo_delete">Eliminat</string>
   <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
   <string name="notification_exchange_calendar_added">Calendari d\'intercanvi afegit</string>
-  <string name="ok">D'acord</string>
-  <string name="okay_action">D'acord</string>
+  <string name="ok">D\'acord</string>
+  <string name="okay_action">D\'acord</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
   <string name="outbox_alert_button_resend">Reenvia</string>
   <string name="outbox_alert_certificate_error">Excepció de certificat a email, si us plau actualitzi</string>
@@ -569,7 +569,7 @@
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" requereix que canviïs el teu PIN de pantalla de bloqueig o contrasenya.</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expired_dialog_content_fmt">Les dades de %s s'estan esborrant al teu dispositiu. Pots restaurar en canviar el PIN de pantalla de bloqueig o contrasenya. El vols canviar ara?</string>
+  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant al teu dispositiu. Pots restaurar en canviar el PIN de pantalla de bloqueig o contrasenya. El vols canviar ara?</string>
   <string name="password_expired_dialog_title">Contraseña de pantalla de bloqueo expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloque o contraseña ha expirado.</string>
   <string name="perference_change_pw_notnull_tips">La contraseña no puede estar en blanco</string>
