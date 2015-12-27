@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Gestor de descargas</string>
-  <string name="auto_restart_under_wifi">Cuando haya conexión Wi-Fi se descargará automáticamente este archivo</string>
-  <string name="button_cancel_download">Cancelar</string>
-  <string name="button_download_now">Descargar ahora</string>
-  <string name="button_queue_for_wifi">Cola</string>
-  <string name="button_start_now">Comenzar ahora</string>
+  <string name="app_label">Gestor de descàrregues</string>
+  <string name="auto_restart_under_wifi">Quan hi hagi connexió Wi-Fi es descarregarà automàticament aquest fitxer</string>
+  <string name="button_cancel_download">Cancel·la</string>
+  <string name="button_download_now">Descarregar ara</string>
+  <string name="button_queue_for_wifi">Cua</string>
+  <string name="button_start_now">Començar ara</string>
   <string name="button_wait_for_wifi">Esperar</string>
-  <string name="dialog_insufficient_space_on_cache">No hay suficiente espacio en el almacenamiento interno de descargas</string>
-  <string name="dialog_insufficient_space_on_external">No hay suficiente espacio en el almacenamiento externo</string>
-  <string name="dialog_not_show_again">"No mostrar de nuevo"</string>
-  <string name="download_apk_desktop_installing">Instalando</string>
-  <string name="download_apk_desktop_pause">Pausado</string>
-  <string name="download_apk_desktop_pending">Pendiente</string>
-  <string name="download_apk_desktop_running">Descargando</string>
-  <string name="download_error">No realizado</string>
-  <string name="download_no_application_title">"No se puede abrir el archivo"</string>
+  <string name="dialog_insufficient_space_on_cache">No hi ha prou espai en l\'emmagatzematge intern de descàrregues</string>
+  <string name="dialog_insufficient_space_on_external">No hi ha prou espai en l\'emmagatzematge extern</string>
+  <string name="dialog_not_show_again">"No mostrar de nou"</string>
+  <string name="download_apk_desktop_installing">Instal·lant</string>
+  <string name="download_apk_desktop_pause">Pausat</string>
+  <string name="download_apk_desktop_pending">Pendent</string>
+  <string name="download_apk_desktop_running">S\'està baixant</string>
+  <string name="download_error">No realitzat</string>
+  <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
   <string name="download_percent">%d%%</string>
-  <string name="download_queued">En cola</string>
-  <string name="download_remaining">%s restantes</string>
-  <string name="download_running">En progreso</string>
-  <string name="download_running_percent">En progreso, %d%%</string>
+  <string name="download_queued">En cua</string>
+  <string name="download_remaining">%s restants</string>
+  <string name="download_running">En progrés</string>
+  <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_unknown_title">&lt;Sin título&gt;</string>
-  <string name="enter_garbage_clean">Limpiar almacenamiento interno.</string>
-  <string name="insufficient_space">No hay suficiente espacio en el almacenamiento interno de tu dispositivo</string>
-  <string name="mobile_recommended_title">Uso de datos móviles</string>
-  <string name="notif_text_engine_off">Acelerador Xunlei desactivado.</string>
-  <string name="notif_text_engine_on">Acelerando…</string>
+  <string name="enter_garbage_clean">Netejar emmagatzematge intern.</string>
+  <string name="insufficient_space">No hi ha prou espai en l\'emmagatzematge intern del teu dispositiu</string>
+  <string name="mobile_recommended_title">Ús de dades mòbils</string>
+  <string name="notif_text_engine_off">Accelerador Xunlei desactivat.</string>
+  <string name="notif_text_engine_on">Accelerant…</string>
   <string name="notif_title_file_size">%1$d total</string>
-  <string name="notif_title_multiple_downloading">Descargando %1$d ficheros</string>
-  <string name="notif_title_single_downloading">Descargando %1$s</string>
-  <string name="notification_download_complete">Descarga completada.</string>
-  <string name="notification_download_failed">Descarga fallida.</string>
-  <string name="notification_download_failed_more">%1$d descargas fallidas.</string>
-  <string name="notification_download_success_more">%1$d descargas completadas.</string>
-  <string name="notification_need_wifi_for_size">El tamaño de la descarga requiere red Wi-Fi.</string>
-  <string name="notification_paused_in_background">Pausado en segundo plano.</string>
-  <string name="paused_waiting_for_network">A la espera de conexión a la red</string>
-  <string name="permdesc_accessAllDownloads">Permite a la aplicación ver y modificar todas las descargas iniciadas por cualquier aplicación en el sistema.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">"Permite a la aplicación descargar archivos en la caché de descarga, que no se pueden eliminar automáticamente cuando el gestor de descargas necesita más espacio."</string>
-  <string name="permdesc_downloadCompletedIntent">Permite a la aplicación enviar notificaciones acerca de descargas completadas. Aplicaciones maliciosas pueden usar esto para confundir otras aplicaciones que descargan archivos.</string>
-  <string name="permdesc_downloadManager">Permite a la aplicación acceder al gestor de descargas y usarlo para descargar archivos. Aplicaciones maliciosas pueden usar esto para interrumpir descargas y tener acceso a información privada.</string>
-  <string name="permdesc_downloadManagerAdvanced">"Permite a la aplicación acceder a funciones avanzadas del gestor de descargas. Aplicaciones maliciosas pueden usar esto para interrumpir descargas y tener acceso a información privada."</string>
-  <string name="permdesc_downloadWithoutNotification">Permite a la aplicación descargar archivos a través del gestor de descargas sin que se muestre al usuario ninguna notificación.</string>
-  <string name="permdesc_seeAllExternal">Permite a la aplicación ver todas las descargas de la tarjeta SD, independientemente de que aplicación la descargó.</string>
-  <string name="permlab_accessAllDownloads">Acceder a todas las descargas del sistema</string>
-  <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en la caché de descarga</string>
-  <string name="permlab_downloadCompletedIntent">Enviar notificaciones de descarga.</string>
-  <string name="permlab_downloadManager">Acceder al gestor de descargas.</string>
-  <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del gestor de descargas.</string>
-  <string name="permlab_downloadWithoutNotification">Descargar archivos sin notificación</string>
-  <string name="permlab_seeAllExternal">Ver todas las descargas a la tarjeta SD</string>
-  <string name="privacy_notif_content">Toque para ver detalles.</string>
-  <string name="privacy_notif_title">Acelerador Xunlei activado</string>
-  <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">¿Usar el Acelerador Xunlei para aumentar la velocidad de descarga? La URL del host de descargas se subirá al servidor de Xunlei. Los detalles de su cuenta Mi también se subirán para comprobar si tiene alguna suscripción activa a este servicio.</string>
-  <string name="privacy_tip_ok">Aceptar</string>
-  <string name="privacy_tip_title">¿Usar Acelerador Xunlei?</string>
-  <string name="recommended_file_size_download_in_mobile">¿Usar %s de datos móviles para descargar este fichero?</string>
-  <string name="recommended_no_file_size_download_in_mobile">¿Usar tu conexión de datos móviles para descargar este fichero?</string>
-  <string name="root_downloads">Descargas</string>
-  <string name="task_already_exist">Ya existe la tarea</string>
-  <string name="warning_tip_cancel">Descargar</string>
-  <string name="warning_tip_content">"Ya no está conectado a Wi-Fi. Usar su conexión de datos móviles para completar esta descarga incrementará el uso de datos. Si excede el límite de datos contratado, su compañía podría cobrar tasas adicionales."</string>
+  <string name="notif_title_multiple_downloading">Descarregant %1$d fitxers</string>
+  <string name="notif_title_single_downloading">Descarregant %1$s</string>
+  <string name="notification_download_complete">Descàrrega completada.</string>
+  <string name="notification_download_failed">Descàrrega fallida.</string>
+  <string name="notification_download_failed_more">%1$d descàrregues fallides.</string>
+  <string name="notification_download_success_more">%1$d descàrregues completades.</string>
+  <string name="notification_need_wifi_for_size">La mida de la baixada requereix xarxa Wi-Fi.</string>
+  <string name="notification_paused_in_background">​​Pausat en segon pla.</string>
+  <string name="paused_waiting_for_network">A l\'espera de connexió a la xarxa</string>
+  <string name="permdesc_accessAllDownloads">Permet a l\'aplicació veure i modificar totes les descàrregues iniciades per qualsevol aplicació en el sistema.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Permet a l\'aplicació descarregar arxius en la memòria cau de descàrrega, que no es poden eliminar automàticament quan el gestor de descàrregues necessita més espai."</string>
+  <string name="permdesc_downloadCompletedIntent">Permet a l\'aplicació enviar notificacions sobre descàrregues completades. Aplicacions malicioses poden usar això per confondre altres aplicacions que descarreguen arxius.</string>
+  <string name="permdesc_downloadManager">Permet a l\'aplicació accedir al gestor de descàrregues i utilitzar-lo per descarregar arxius. Aplicacions malicioses poden usar això per interrompre baixades i tenir accés a informació privada.</string>
+  <string name="permdesc_downloadManagerAdvanced">"Permet a l\'aplicació accedir a funcions avançades del gestor de baixades. Aplicacions malicioses poden usar això per interrompre baixades i tenir accés a informació privada."</string>
+  <string name="permdesc_downloadWithoutNotification">Permet a l\'aplicació descarregar arxius a través del gestor de descàrregues sense que es mostri a l\'usuari cap notificació.</string>
+  <string name="permdesc_seeAllExternal">Permet a l\'aplicació veure totes les descàrregues de la targeta SD, independentment que aplicació la va descarregar.</string>
+  <string name="permlab_accessAllDownloads">Accedir a totes les descàrregues del sistema</string>
+  <string name="permlab_downloadCacheNonPurgeable">Reservar espai a la memòria cau de descàrrega</string>
+  <string name="permlab_downloadCompletedIntent">Envia notificacions de descàrrega.</string>
+  <string name="permlab_downloadManager">Accedir al gestor de descàrregues.</string>
+  <string name="permlab_downloadManagerAdvanced">Funcions avançades del gestor de baixades.</string>
+  <string name="permlab_downloadWithoutNotification">Descarregar arxius sense notificació</string>
+  <string name="permlab_seeAllExternal">Veure totes les descàrregues a la targeta SD</string>
+  <string name="privacy_notif_content">Toqui per veure detalls.</string>
+  <string name="privacy_notif_title">Accelerador Xunlei activat</string>
+  <string name="privacy_tip_cancel">Cancel·la</string>
+  <string name="privacy_tip_content">Utilitzar l\'Accelerador Xunlei per augmentar la velocitat de descàrrega? La URL del host de descàrregues es pujarà al servidor de Xunlei. Els detalls de la seva compte El meu també es pujaran per comprovar si té alguna subscripció activa a aquest servei.</string>
+  <string name="privacy_tip_ok">D\'acord</string>
+  <string name="privacy_tip_title">Utilitzar Accelerador Xunlei? </string>
+  <string name="recommended_file_size_download_in_mobile">Utilitzar %s de dades mòbils per descarregar aquest fitxer?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilitzar la teva connexió de dades mòbils per descarregar aquest fitxer?</string>
+  <string name="root_downloads">Descàrregues</string>
+  <string name="task_already_exist">Ja hi ha la tasca</string>
+  <string name="warning_tip_cancel">Descarregar</string>
+  <string name="warning_tip_content">"Ja no està connectat a Wi-Fi. Utilitza la seva connexió de dades mòbils per completar aquesta descàrrega incrementarà l\'ús de dades. Si excedeix el límit de dades contractat, la seva companyia podria cobrar taxes addicionals."</string>
   <string name="warning_tip_ok">Pausar</string>
-  <string name="warning_tip_title">Advertencia de uso de datos</string>
-  <string name="wifi_recommended_body" formatted="false">"Iniciar esta descarga de %s puede resultar en un uso excesivo de la conexión de datos móviles, que puede conducir a cargos por su operador de telefonía móvil dependiendo de su plan de datos.
+  <string name="warning_tip_title">Avis d\'ús de dades</string>
+  <string name="wifi_recommended_body" formatted="false">"Iniciar aquesta descàrrega de %s pot resultar en un ús excessiu de la connexió de dades mòbils, que pot conduir a càrrecs pel seu operador de telefonia mòbil depenent del seu pla de dades.
 
-Toque %s para iniciar esta descarga la próxima vez que esté conectado a una red Wi-Fi."</string>
-  <string name="wifi_recommended_title">¿Poner en cola para descargar más tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Debe usar Wi-Fi para completar esta descarga de %s.
+Toqui %s per iniciar aquesta baixada la propera vegada que estigui connectat a una xarxa Wi-Fi."</string>
+  <string name="wifi_recommended_title">Posar en cua per a descarregar més tard? </string>
+  <string name="wifi_required_body" formatted="false">"Ha d\'usar el Wi-Fi per completar aquesta descàrrega de %s.
 
-Toque %s para iniciar esta descarga la próxima vez que esté conectado a una red Wi-Fi."</string>
-  <string name="wifi_required_title">Descarga demasiado grande para la red del operador</string>
+Toqui %s per iniciar aquesta baixada la propera vegada que estigui connectat a una xarxa Wi-Fi."</string>
+  <string name="wifi_required_title">Descàrrega massa gran per a la xarxa de l\'operador</string>
 </resources>
