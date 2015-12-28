@@ -757,7 +757,7 @@ Intenta-ho d\'aquí a %d segons."</string>
   <string name="permdesc_enableCarMode">Permet que l\'aplicació activi el mode cotxe.</string>
   <string name="permdesc_expandStatusBar">Permet que l\'aplicació expandeixi o contregui la barra d\'estat.</string>
   <string name="permdesc_factoryTest">Executar com a prova de fabricant de nivell inferior, permetent un accés total al maquinari del telèfon. Només està disponible quan un telèfon s\'està executant en mode de prova.</string>
-  <string name="permdesc_filter_events">Permet que una aplicació registri un filtre d\'entrada que filtri el flux dels esdeveniments de l\'usuari abans que s'enviï. Les aplicacions malicioses poden controlar la interfície del sistema sense la intervenció de l\'usuari.</string>
+  <string name="permdesc_filter_events">Permet que una aplicació registri un filtre d\'entrada que filtri el flux dels esdeveniments de l\'usuari abans que s\'enviï. Les aplicacions malicioses poden controlar la interfície del sistema sense la intervenció de l\'usuari.</string>
   <string name="permdesc_flashlight">Permet que l\'aplicació controli la funció de llanterna.</string>
   <string name="permdesc_forceBack">Permet que l\'aplicació forci el tancament de qualsevol activitat en segon pla i torneu a la pantalla anterior. Les aplicacions normals no haurien de necessitar aquest permís.</string>
   <string name="permdesc_forceStopPackages">Permet que l\'aplicació forci la detenció d\'altres aplicacions.</string>
@@ -823,7 +823,7 @@ Intenta-ho d\'aquí a %d segons."</string>
   <string name="permdesc_readSyncSettings">Permet que l\'aplicació consulti la configuració de sincronització d\'un compte. L\'aplicació pot utilitzar aquest permís, per exemple, per determinar si les aplicacions de contactes està sincronitzada amb un compte.</string>
   <string name="permdesc_readSyncStats">Permet que l\'aplicació consulteu les estadístiques de sincronització d\'un compte (per exemple, l\'historial d\'esdeveniments sincronitzats i la quantitat de dades sincronitzades).</string>
   <string name="permdesc_reboot">Permet que l\'aplicació forci el reinici del telèfon.</string>
-  <string name="permdesc_receiveBootCompleted">Permet que l\'aplicació s'executi automàticament una vegada que el sistema s\'hagi iniciat completament. Això pot fer que el telèfon trigui més a iniciar-se i pot permetre que l\'aplicació alenteixi el funcionament global del dispositiu.</string>
+  <string name="permdesc_receiveBootCompleted">Permet que l\'aplicació s\'executi automàticament una vegada que el sistema s\'hagi iniciat completament. Això pot fer que el telèfon trigui més a iniciar-se i pot permetre que l\'aplicació alenteixi el funcionament global del dispositiu.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Permet que l\'aplicació rebi i processi missatges d\'emergència. Aquest permís només està disponible per a les aplicacions del sistema.</string>
   <string name="permdesc_receiveMms">Permet que l\'aplicació rebi i processi missatges MMS, el que significa que podria utilitzar aquest permís per controlar o suprimir missatges enviats al dispositiu sense mostrar a l\'usuari.</string>
   <string name="permdesc_receiveSms">Permet que l\'aplicació rebi i processi missatges MMS, el que significa que podria utilitzar aquest permís per controlar o suprimir missatges enviats al dispositiu sense mostrar a l\'usuari.</string>
@@ -901,7 +901,7 @@ Intenta-ho d\'aquí a %d segons."</string>
   <string name="permgroupdesc_developmentTools">Funcions necessàries només per a desenvolupadors d\'aplicacions</string>
   <string name="permgroupdesc_deviceAlarms">Establir alarmes</string>
   <string name="permgroupdesc_dictionary">Llegir paraules del diccionari de l\'usuari</string>
-  <string name="permgroupdesc_display">Influir en la interfície d'usuari d\'altres aplicacions</string>
+  <string name="permgroupdesc_display">Influir en la interfície d\'usuari d\'altres aplicacions</string>
   <string name="permgroupdesc_hardwareControls">Accés directe al maquinari del mòbil</string>
   <string name="permgroupdesc_location">Controlar la ubicació física</string>
   <string name="permgroupdesc_messages">Llegir i escriure SMS, emails i altres missatges</string>
