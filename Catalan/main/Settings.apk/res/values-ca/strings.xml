@@ -1366,7 +1366,6 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
      <string name="location_title">La meva localització</string>
      <string name="lock_after_timeout">Bloquejar automàticament</string>
      <string name="lock_after_timeout_summary">%1$s després de posar en repòs</string>
-     <string name="lock_intro_message">Missatge de bloqueig</string>
      <string name="lock_screen_secure_after_timeout_immediately_summary">Contrasenya requerida immediatament</string>
      <string name="lock_screen_secure_after_timeout_summary">Contrasenya requerida en %1$s</string>
      <string name="lock_screen_secure_after_timeout_title">Contrasenya requerida</string>
