@@ -1362,7 +1362,7 @@ Escoltar sons a alt volum durant llargs períodes de temps pot danyar les orelle
   <string name="sms_short_code_details">&lt;font fgcolor="#ffffb060"&gt;És possible que s\'apliquin càrrecs&lt;/font&gt; al teu compte m&amp;#243;vil.</string>
   <string name="sms_short_code_remember_choice">Recordar opció seleccionada</string>
   <string name="sms_short_code_remember_undo_instruction">Pots canviar aquesta opció més tard a Configuració &gt; Aplicacions.</string>
-  <string name="smv_application">L'\aplicació %1$s (procés %2$s) ha infringit la seva política StrictMode autoaplicable.</string>
+  <string name="smv_application">L\'aplicació %1$s (procés %2$s) ha infringit la seva política StrictMode autoaplicable.</string>
   <string name="smv_process">El procés %1$s ha infringit la seva política StrictMode autoaplicable.</string>
   <string name="ssl_ca_cert_noti_by_unknown">Per un tercer desconegut</string>
   <string name="ssl_ca_cert_noti_managed">Per %s</string>
