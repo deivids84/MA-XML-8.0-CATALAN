@@ -151,7 +151,7 @@
   <string name="caller_id_summary">Amaga el meu número per a trucades sortints (confirmi que la seva companyia permet aquesta opció)</string>
   <string name="caller_id_title">Identificador de trucades</string>
   <string name="callind_multi_sim">Configuració de SUBS</string>
-  <string name="callwait_open_hint">\"Trucada en espera\" és una característica proporcionada pel seu proveïdor de servei mòbil. Si vostè rep una notificació d'error, poseu-vos en contacte amb el proveïdor de serveis i assegureu-vos que aquesta característica està activada per al seu número.</string>
+  <string name="callwait_open_hint">\"Trucada en espera\" és una característica proporcionada pel seu proveïdor de servei mòbil. Si vostè rep una notificació d\'error, poseu-vos en contacte amb el proveïdor de serveis i assegureu-vos que aquesta característica està activada per al seu número.</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_call">Cancel·la</string>
   <string name="card_title_MOcall_forwarding">Reenviant trucada</string>
