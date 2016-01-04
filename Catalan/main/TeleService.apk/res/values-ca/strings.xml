@@ -357,7 +357,6 @@
   <string name="exportContactScreen">Exporta contactes del telèfon a la SIM</string>
   <string name="exportContacts">Exportant contactes a la targeta SIM</string>
   <string name="fake_phone_activity_infoText_text">Número de telèfon entrant</string>
-  <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
   <string name="fake_phone_activity_placeCall_text">Trucada entrant falsa</string>
   <string name="fdn">Números de marcatge fix</string>
   <string name="fdnListLabel">Llista de FDN</string>
@@ -387,7 +386,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="get_purchase_history_failed">No es pot recuperar l\'historial de compra</string>
   <string name="get_smsc_address_error">"No es pot connectar a la xarxa. Comproveu la seva connexió de dades i torneu a provar."</string>
   <string name="get_smsc_address_timeout">Esgotat el temps de connexió</string>
-  <string name="get_use_history_failed">No s\'ha pogut recuperar l'historial</string>
+  <string name="get_use_history_failed">No s\'ha pogut recuperar l\'historial</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Mode de xarxa</string>
   <string name="gsm_umts_network_preferences_title">Mode de xarxa</string>
   <string name="gsm_umts_options">Opcions de GSM/UMTS</string>
