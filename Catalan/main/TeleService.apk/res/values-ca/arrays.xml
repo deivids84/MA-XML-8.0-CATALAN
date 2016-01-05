@@ -2,18 +2,18 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="cdma_system_select_choices">
-        <item>En casa sólo</item>
-        <item>Automático</item>
+        <item>A casa només</item>
+        <item>Automàtic</item>
      </string-array>
      <string-array name="cs_call_type">
         <item>CSVoice</item>
      </string-array>
      <string-array name="ims_call_cap_types">
-        <item>Voz</item>
+        <item>Veu</item>
         <item>Vídeo</item>
      </string-array>
      <string-array name="ims_call_types">
-        <item>Voz</item>
+        <item>Veu</item>
         <item>Vídeo</item>
         <item>CSVoz</item>
      </string-array>
@@ -22,17 +22,17 @@
         <item>CSVoz</item>
      </string-array>
      <string-array name="ims_voice_cs_call_types">
-        <item>Voz</item>
+        <item>Veu</item>
         <item>CSVoz</item>
      </string-array>
      <string-array name="list_language_entries">
-        <item>Inglés</item>
-        <item>Francés</item>
-        <item>Español</item>
-        <item>Japonés</item>
-        <item>Coreano</item>
-        <item>Chino</item>
-        <item>Hebreo</item>
+        <item>Anglès</item>
+        <item>Francès</item>
+        <item>Espanyol</item>
+        <item>Japonès</item>
+        <item>Coreà</item>
+        <item>Xinès</item>
+        <item>Hebreu</item>
      </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
@@ -66,10 +66,10 @@
         <item>Triple mode</item>
      </string-array>
     <string-array name="livetalk_about_info_array">
-        <item>- Soporta números de teléfono nacionales e internacionales.</item>
-        <item>- Cada llamada usa 1KB de datos móviles (usa conexión de móvil normal cuando no tienes conexión de datos móviles).</item>
-        <item>- Tu proveedor puede cobrarte por roaming cuando uses este servicio.</item>
-        <item>- Tienes que encender Free Listening para usar este servicio, de lo contrario tu proveedor puede cobrarte por roaming.</item>
-        <item>- Soporte del servicio: YunZhiXun, RongLianYunTongXun, LTSC</item>
+        <item>- Suporta números de telèfon nacionals i internacionals.</item>
+        <item>- Cada trucada fa servir 1KB de dades mòbils (usa connexió de mòbil normal quan no tens connexió de dades mòbils).</item>
+        <item>- El teu proveïdor pot cobrar per roaming quan facis servir aquest servei.</item>
+        <item>- Has de encendre Free Listening per utilitzar aquest servei, en cas contrari el teu proveïdor pot cobrar per roaming.</item>
+        <item>- Suport del servei: YunZhiXun, RongLianYunTongXun, LTSC</item>
     </string-array>
 </resources>

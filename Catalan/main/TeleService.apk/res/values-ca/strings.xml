@@ -548,7 +548,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="missed_call_notify_once">1 cop</string>
   <string name="missed_call_notify_ten_times">10 vegades</string>
   <string name="missed_call_notify_thrice">3 vegades</string>
-  <string name="missed_call_notify_times_summary">Tria el número de vegades que se't recordaran les trucades perdudes (els recordatoris són en intervals de 5 minuts)</string>
+  <string name="missed_call_notify_times_summary">Tria el número de vegades que se\'t recordaran les trucades perdudes (els recordatoris són en intervals de 5 minuts)</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
@@ -668,7 +668,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
 
 Pot trigar més de 5 minuts."</string>
   <string name="ota_hfa_activation_title">Activant…</string>
-  <string name="ota_listen">Seguiu les instruccions parlades fins que escolti que l'activació esta completada.</string>
+  <string name="ota_listen">Seguiu les instruccions parlades fins que escolti que l\'activació esta completada.</string>
   <string name="ota_next">Següent</string>
   <string name="ota_progress">Espereu mentre el seu telèfon està sent programat. </string>
   <string name="ota_skip_activation_dialog_message">"Si omet l\'activació, no podrà realitzar trucades o connectar-se a la xarxa de dades mòbils (encara que podrà connectar-se a xarxes Wi-Fi). Fins que no activi el seu telèfon, se us demanarà si activar cada vegada que el poseu en marxa."</string>
