@@ -129,7 +129,6 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_delete">Eliminar esdeveniment</string>
   <string name="event_edit">Editar esdeveniment</string>
-  <string name="event_full_date_format">dd/MM/aaaa</string>
   <string name="event_hide_more">Amagar</string>
   <string name="event_info_descrip">Descripció\u0009\u0009\u0009</string>
   <string name="event_info_end">Final\u0009\u0009\u0009</string>
