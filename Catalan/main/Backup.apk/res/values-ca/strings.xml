@@ -72,7 +72,6 @@
   <string name="current_sim">Actual targeta SIM</string>
   <string name="data_no_enough_space">No hi ha espai suficient</string>
   <string name="data_no_enough_space_message">"No hi ha prou espai a la memòria interna del telèfon."</string>
-  <string name="date_format">dd-MM-aaaa HH:mm:ss</string>
   <string name="delete">Eliminar</string>
   <string name="delete_backup_process">Eliminant…</string>
   <string name="delete_backup_title">Eliminar còpia de seguretat</string>
