@@ -2789,7 +2789,6 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
      <string name="virus_scan_app_uninstall">Elimina %d</string>
      <string name="virus_scan_app_waiting">Esperant…</string>
      <string name="virus_scanner_auto_update">Actualitza automàticament</string>
-     <string name="virus_scanner_date_formater">dd MMM AAAA</string>
      <string name="virus_scanner_lib_already_latest">"Està fent servir les definicions més actuals"</string>
      <string name="virus_scanner_lib_update_failed">No s\'ha pogut actualitzar</string>
      <string name="virus_scanner_lib_updating">Actualitzant definicions…</string>
