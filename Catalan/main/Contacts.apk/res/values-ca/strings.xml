@@ -721,7 +721,7 @@ Per afegir contactes, aneu a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/Exporta per importar contactes de la targeta SIM o de la targeta de memòria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"No té cap contacte per mostrar. (Si acaba d'afegir algun compte, aquesta es sincronitzarà en pocs minuts)."</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"No té cap contacte per mostrar. (Si acaba d\'afegir algun compte, aquesta es sincronitzarà en pocs minuts)."</string>
   <string name="noContactsNoSimHelpText">"No té contactes per mostrar.
 
 Per afegir contactes, aneu a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", Després aneu a:
@@ -733,7 +733,7 @@ Per afegir contactes, aneu a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/Exporta per importar els teus contactes de la targeta SIM o la targeta de memòria
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"No tens cap contacte per mostrar. (Si acaba d'afegir algun compte, aquesta es sincronitzarà en pocs minuts).
+  <string name="noContactsNoSimHelpTextWithSync">"No tens cap contacte per mostrar. (Si acaba d\'afegir algun compte, aquesta es sincronitzarà en pocs minuts).
 
 Per afegir contactes, ves a \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", Després ves a:
  
@@ -1020,7 +1020,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_exchange_universal_goon">Aquest codi pot utilitzar-se per descarregar qualsevol tema a la botiga.</string>
   <string name="resource_exchange_window_title">Redimir</string>
   <string name="resource_exchange_wrong_format_by_local">El format del codi ingressat és incorrecte.</string>
-  <string name="resource_exchange_wrong_format_by_server">"El codi no va ser verificat. Assegureu-vos que l'ha introduït correctament."</string>
+  <string name="resource_exchange_wrong_format_by_server">"El codi no va ser verificat. Assegureu-vos que l\'ha introduït correctament."</string>
   <string name="resource_expand_full_text">Expandir</string>
   <string name="resource_failed_to_load_list">"No es poden carregar temes."</string>
   <string name="resource_get_auth_checking">Comprovant autorització…</string>
@@ -1074,7 +1074,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_server_alert_dialog_title">"Estarem de tornada…"</string>
   <string name="resource_server_out_of_service">Desafortunadament, el nostre servidor no està disponible al moment. Torna-ho a provar més tard.</string>
   <string name="resource_share_subject">Tema compartit: %1$s</string>
-  <string name="resource_share_text">"Aquest és un tema que vaig pensar que podria agradar-t'he: %1$s! Enllaç: %2$s"</string>
+  <string name="resource_share_text">"Aquest és un tema que vaig pensar que podria agradar-t\'he: %1$s! Enllaç: %2$s"</string>
   <string name="resource_share_title">Compartir</string>
   <string name="resource_system_title">Recursos del sistema</string>
   <string name="resource_tab_to_view">Premi per veure.</string>
@@ -1229,7 +1229,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>
   <string name="to_activate_the_account">Activa el teu compte Mi ara</string>
-  <string name="toast_call_detail_error">"No s'han pogut llegir els detalls de la trucada"</string>
+  <string name="toast_call_detail_error">"No s\'han pogut llegir els detalls de la trucada"</string>
   <string name="toast_copy_done">Fet</string>
   <string name="toast_copying">Copiant…</string>
   <string name="toast_displaying_all_contacts">Mostra tots els contactes</string>

@@ -27,9 +27,9 @@
      <string name="accessibility_enable">Accessibilitat</string>
      <string name="accessibility_feature_state_off">Apagat</string>
      <string name="accessibility_feature_state_on">Ences</string>
-     <string name="accessibility_global_gesture_preference_description">"Quan aquesta funció està activada, ràpidament pot activar les funcions d'accessibilitat en dos passos:
+     <string name="accessibility_global_gesture_preference_description">"Quan aquesta funció està activada, ràpidament pot activar les funcions d\'accessibilitat en dos passos:
 
-Pas 1: Premeu i mantingueu premut el botó d'encesa fins que sentiu un so o una vibració.
+Pas 1: Premeu i mantingueu premut el botó d\'encesa fins que sentiu un so o una vibració.
 
 Pas 2: Premeu i sostingui amb dos dits fins que sentiu confirmació.
 
@@ -80,7 +80,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
      <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
      <string name="activity_not_found">​​L\'aplicació no està instal·lada en el seu telèfon.</string>
      <string name="activity_picker_label">Triar activitat</string>
-     <string name="adb_keys_warning_message">"Revocar l'accés a depuració d'USB a tots els ordinadors prèviament autoritzats?"</string>
+     <string name="adb_keys_warning_message">"Revocar l\'accés a depuració d'USB a tots els ordinadors prèviament autoritzats?"</string>
      <string name="adb_warning_message">La depuració USB s\'utilitza únicament per a desenvolupament. Utilitzar-lo per copiar dades entre el seu ordinador i el dispositiu, instal·lar una aplicació al dispositiu sense notificació i llegir dades de registre.</string>
      <string name="adb_warning_title">Permetre depuració USB?</string>
      <string name="add_account_label">Afegir compte</string>
@@ -108,7 +108,7 @@ Assegura\'t que el teu dit cobreix la part interior del sensor</string>
      <string name="advanced_settings_summary">Activar més opcions d\'ajust</string>
      <string name="advanced_text_layout">Activar les presentacions de text avançat </string>
      <string name="agps_roaming">A-GPS quan està en itinerància</string>
-     <string name="agps_roaming_dia">"L\'ús d'A-GPS en itinerància, pot augmentar l\'ús de dades mòbils. Si es passa del seu límit de dades de plans, el seu operador podria cobrar despeses addicionals."</string>
+     <string name="agps_roaming_dia">"L\'ús d\'A-GPS en itinerància, pot augmentar l\'ús de dades mòbils. Si es passa del seu límit de dades de plans, el seu operador podria cobrar despeses addicionals."</string>
      <string name="agps_roaming_dia_title">Utilitza A-GPS quan està en itinerància</string>
      <string name="agps_roaming_summary">Utilitza A-GPS quan està en itinerància, podria tenir càrrecs telefònics</string>
      <string name="airplane_mode">Mode avió</string>
@@ -183,7 +183,7 @@ Activar finestres actives?"</string>
      <string name="app_install_location_title">Ruta d\'instal·lació preferida</string>
      <string name="app_memory_use">Memòria en ús</string>
      <string name="app_name_label">Aplicació</string>
-     <string name="app_not_found_dlg_text">"L'aplicació no està a la llista d\'aplicacions instal·lades."</string>
+     <string name="app_not_found_dlg_text">"L\'aplicació no està a la llista d\'aplicacions instal·lades."</string>
      <string name="app_not_found_dlg_title" />
      <string name="app_not_supported_in_limited">Aquesta aplicació no té suport en perfils restringits</string>
      <string name="app_notifications_switch_label">Notificacions</string>
@@ -654,7 +654,7 @@ Activar finestres actives?"</string>
      <string name="credentials_install_gesture_explanation">Necessita dibuixar el patró de desbloqueig per confirmar la instal·lació del certificat.</string>
      <string name="credentials_install_gesture_prompt">Dibuixeu el seu patró de desbloqueig</string>
      <string name="credentials_install_summary">Instal·lar certificats des de l\'emmagatzematge</string>
-     <string name="credentials_not_erased">"L'emmagatzematge de certificats no es va poder esborrar."</string>
+     <string name="credentials_not_erased">"L\'emmagatzematge de certificats no es va poder esborrar."</string>
      <string name="credentials_old_password">Contrasenya actual:</string>
      <string name="credentials_password_too_short">La contrasenya ha de ser d\'almenys 8 caràcters.</string>
      <string name="credentials_reset">Netejar certificats</string>
@@ -2307,7 +2307,7 @@ Possiblement PIN incorrecte."</string>
      <string name="sim_enter_old">PIN Antic</string>
      <string name="sim_enter_pin">Codi PIN</string>
      <string name="sim_lock_change_not_supported">"No es pot canviar bloqueig SIM."</string>
-     <string name="sim_lock_failed">"No es pot canviar l'estat de bloqueig del SIM.
+     <string name="sim_lock_failed">"No es pot canviar l\'estat de bloqueig del SIM.
 Possiblement PIN incorrecte."</string>
      <string name="sim_lock_off">Demanar PIN per utilitzar el telèfon</string>
      <string name="sim_lock_on">PIN per utilitzar el telèfon</string>

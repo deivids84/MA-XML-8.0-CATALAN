@@ -213,11 +213,11 @@
   <string name="resource_notification_default">Notificacions</string>
   <string name="resource_on_trial">Provant: %1$s</string>
   <string name="resource_online">En línia %1$s</string>
-  <string name="resource_pack_confirm">"Tot i que ja ha comprat %1$d components d'aquest tema, encara és més barat si compra el paquet complet."</string>
+  <string name="resource_pack_confirm">"Tot i que ja ha comprat %1$d components d\'aquest tema, encara és més barat si compra el paquet complet."</string>
   <string name="resource_pack_discount_info">Estalvi: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Aquest tema ja no està disponible.</string>
   <string name="resource_pack_price_info">Preu original: %1$s</string>
-  <string name="resource_pack_warning">"Ha comprat %1$d components d'aquest tema. És més barat si compra els components restants individualment."</string>
+  <string name="resource_pack_warning">"Ha comprat %1$d components d\'aquest tema. És més barat si compra els components restants individualment."</string>
   <string name="resource_present">Regal</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuït</string>
@@ -242,7 +242,7 @@
   <string name="resource_server_alert_dialog_title">"Tornarem…"</string>
   <string name="resource_server_out_of_service">Malauradament, el nostre servidor està caigut en aquest moment.</string>
   <string name="resource_share_subject">Compartir tema: %1$s</string>
-  <string name="resource_share_text">"He pensat que podria agradar-t'he aquest tema: %1$s! Enllaç: %2$s"</string>
+  <string name="resource_share_text">"He pensat que podria agradar-t\'he aquest tema: %1$s! Enllaç: %2$s"</string>
   <string name="resource_share_title">Compartir</string>
   <string name="resource_system_title">Recursos del sistema</string>
   <string name="resource_tab_to_view">Premi per veure.</string>

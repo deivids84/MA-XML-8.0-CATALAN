@@ -82,7 +82,7 @@
   <string name="autofill_profile_successful_save">Text de farciment automàtic guardat</string>
   <string name="autofill_setup_dialog_message">El navegador pot completar automàticament formularis web com aquest. Vols configurar el teu text per al completat automàtic?</string>
   <string name="autofill_setup_dialog_negative_toast">Sempre pot configurar el text de farciment automàtic des del navegador &gt; Ajustos &gt; pantalla General</string>
-  <string name="autologin_bar_error">"No s'ha pogut aconseguir"</string>
+  <string name="autologin_bar_error">"No s\'ha pogut aconseguir"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
   <string name="autologin_bar_login_text">Inicia la sessió</string>
   <string name="autologin_bar_text">Inicia la sessió com</string>
@@ -137,7 +137,7 @@
   <string name="clip_dialog_title">Obrir la URL copiada?</string>
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloquejar</string>
-  <string name="close_ads_message">"¿Bloca el contingut d'aquest lloc web? Pot veure els llocs que ha bloquejat a Paràmetres &gt; Avançat &gt; Llocs bloquejats."</string>
+  <string name="close_ads_message">"¿Bloca el contingut d\'aquest lloc web? Pot veure els llocs que ha bloquejat a Paràmetres &gt; Avançat &gt; Llocs bloquejats."</string>
   <string name="close_ads_title">Bloquejar contingut?</string>
   <string name="close_all_tab_alert_message">Tancar totes les pestanyes?</string>
   <string name="close_all_tab_alert_title">Tancar totes les pestanyes</string>
@@ -339,7 +339,7 @@
   <string name="is_page_top">"Estàs a l\'inici de la pàgina"</string>
   <string name="js_dialog_before_unload">"%s
 
-Esteu segur de voler sortir d'aquesta pàgina?"</string>
+Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="js_dialog_before_unload_negative_button">Romandre en aquesta Pàgina</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar aquesta Pàgina</string>
   <string name="js_dialog_before_unload_title">Confirmar Navegació</string>
@@ -753,7 +753,7 @@ Esteu segur de voler sortir d'aquesta pàgina?"</string>
   <string name="share_link">Compartir enllaç</string>
   <string name="share_page">compartir pàgina</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"La URL d\'aquesta web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en Ajustos en qualsevol moment."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"La URL d\'aquesta web s\'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en Ajustos en qualsevol moment."</string>
   <string name="show_security_tip_dialog_title">Termes de Servei</string>
   <string name="show_weather_location_getter_tip_dialog_description">Els serveis de temps necessiten la teva localització per donar-te informació actualitzada del temps al teu navegador. Pots desactivar aquesta característica a Paràmetres.</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
@@ -770,7 +770,7 @@ Esteu segur de voler sortir d'aquesta pàgina?"</string>
   <string name="ssl_mismatch">"El nom del lloc no coincideix amb el nom del certificat."</string>
   <string name="ssl_not_yet_valid">"Aquest certificat encara no és vàlid."</string>
   <string name="ssl_unknown">Error de certificat desconegut.</string>
-  <string name="ssl_untrusted">"Aquest certificat no és d'una autoritat de confiança."</string>
+  <string name="ssl_untrusted">"Aquest certificat no és d\'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="stop">Aturar</string>
   <string name="stop_loading">Aturar</string>

@@ -26,7 +26,7 @@
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">D\'acord</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"No hi ha prou espai a l'emmagatzematge USB per desar el fitxer \"%1$s\""</string>
+  <string name="bt_sm_2_1">"No hi ha prou espai a l\'emmagatzematge USB per desar el fitxer \"%1$s\""</string>
   <string name="bt_sm_2_2">Espai necessar: %1$s</string>
   <string name="bt_toast_1">El fitxer serà rebut. Revisar el progrés en el tauler de notificacions.</string>
   <string name="bt_toast_2">"El fitxer no pot ser rebut."</string>

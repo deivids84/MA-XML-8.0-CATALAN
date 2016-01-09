@@ -766,7 +766,7 @@ El telèfon es bloquejarà automàticament després d\'un altre intent fallit"</
   <string name="puk2_label">Introduir codi PUK2</string>
   <string name="puk_label">Introduir codi PUK</string>
   <string name="puk_lock_warning">"
-La seva targeta SIM serà esborrada després d'un altre intent fallit."</string>
+La seva targeta SIM serà esborrada després d\'un altre intent fallit."</string>
   <string name="puk_requested">Contrasenya incorrecta, PIN Bloquejat! Es requereix codi PUK.</string>
   <string name="puk_unlock_failed">Desbloqueig PUK no realitzat.</string>
   <string name="puk_unlock_success">Desbloqueig PUK realitzat.</string>

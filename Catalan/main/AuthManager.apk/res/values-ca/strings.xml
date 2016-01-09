@@ -23,7 +23,7 @@ Esteu segur que vol desactivar?"</string>
   <string name="Dashboard_Perm_SU_Desc">Monitoritzant %1$d aplicacions amb accés root</string>
   <string name="Dashboard_Perm_SU_Disabled">Accés root desactivat</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">Accés root no està disponible a la versió estable de MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Concedir accés root a aplicacions de tercers pot ocasionar problemes d\'inestabilitat en el sistema, pèrdua de dades d'usuari o dany del maquinari.
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Concedir accés root a aplicacions de tercers pot ocasionar problemes d\'inestabilitat en el sistema, pèrdua de dades d\'usuari o dany del maquinari.
 
 Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos de root."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descarregar MIUI</string>
