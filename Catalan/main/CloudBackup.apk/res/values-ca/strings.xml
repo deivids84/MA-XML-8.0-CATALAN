@@ -32,7 +32,7 @@
   <string name="customization"><u>Personalitzar</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del rellotge</string>
-  <string name="desktop_downloading">S'està baixant</string>
+  <string name="desktop_downloading">S\'està baixant</string>
   <string name="desktop_installing">Instal·lant</string>
   <string name="desktop_recovering">Recuperant</string>
   <string name="desktop_wait_wifi">Espera a Wi-Fi</string>
