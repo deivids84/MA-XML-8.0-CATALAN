@@ -15,8 +15,8 @@
   <string name="cancel_action">Cancel·la</string>
   <string name="copy">Copia</string>
   <string name="cut">Tallar</string>
-  <string name="enable_livetalk">Habilita recàrrega de paquet</string>
   <string name="default_name">Defecte</string>
+  <string name="enable_livetalk">Habilita recàrrega de paquet</string>
   <string name="enable_livetalk_summary">¥ 0,05 per minut per a trucades domèstiques</string>
   <string name="enable_livetalk_title">Activa recàrrega de paquet</string>
   <string name="fc_dialog_body">Enviar error a Mi per a la seva anàlisi? Aquest informe pot contenir informació personal. El teu informe serà usat per ajudar a arreglar l\'error i mai serà compartit en un context comercial.</string>

@@ -23,7 +23,7 @@
   <string name="add_music">Añadir canciones</string>
   <string name="alaka_required">Esta canción no está disponible.</string>
   <string name="album_name">Álbum</string>
-  <string name="album_search_title">Álbum</string>  
+  <string name="album_search_title">Álbum</string>
   <string name="all_artist">Todos los artistas</string>
   <string name="all_music">Todas las canciones</string>
   <string name="all_tracks">Todas las canciones</string>
@@ -433,7 +433,7 @@
   <string name="title_online_billboard">Listas</string>
   <string name="title_online_fm">Radio</string>
   <string name="title_online_recommend">Listas de reproducción recomendadas</string>
-   <string name="title_online_release">Nuevos álbumes</string>
+  <string name="title_online_release">Nuevos álbumes</string>
   <string name="title_online_song">Canciones populares</string>
   <string name="title_online_suggest">Puede que te guste</string>
   <string name="title_search_history">Histórico de búsqueda</string>

@@ -64,10 +64,10 @@
   <string name="power_chooser_user_define_title">Nou mode</string>
   <string name="power_config_alarm_sync_summary">Permet a l\'aplicació alarmes en segon pla</string>
   <string name="power_config_alarm_sync_title">Alarma</string>
-  <string name="power_config_apps">Estalvi de bateria en segon pla</string>
   <string name="power_config_app_background_title">Segon pla</string>
   <string name="power_config_app_full_screen_title">Pantalla completa</string>
   <string name="power_config_app_launch_title">Primer pla</string>
+  <string name="power_config_apps">Estalvi de bateria en segon pla</string>
   <string name="power_config_choose_apps">Triar aplicacions</string>
   <string name="power_config_confirm_event_delete">Esborra aquesta configuració?</string>
   <string name="power_config_cpu_freq_dialog_title">Freqüència de CPU</string>

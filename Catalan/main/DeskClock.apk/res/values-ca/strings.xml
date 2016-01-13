@@ -85,7 +85,7 @@
   <string name="shutdown_alarm_enable_summary">Engegar el dispositiu i sonar</string>
   <string name="shutdown_alarm_title">Alarma amb el dispositiu aturat</string>
   <string name="silent_alarm_summary">Silenciosa</string>
-   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Aturar una vegada el %s</string>
   <string name="slider_text">Feu lliscar amunt per tancar</string>
   <string name="snooze_confirm_cancel">Cancel·lar repetició</string>

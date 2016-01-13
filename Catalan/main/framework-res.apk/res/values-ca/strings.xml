@@ -108,7 +108,7 @@ Vols tancar-lo?"</string>
   <string name="bugreport_title">Crea un informe d\'errors</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancel·la</string>
-  <string name="candidates_style"><u>candidats</u></string>
+  <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">És possible que s\'instal·lin seqüències d\'ordres perquè el contingut de les aplicacions sigui més accessible.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclou dades personals com números de targetes de crèdit i contrasenyes.</string>
   <string name="capability_desc_canRequestTouchExploration">Els elements seleccionats es diran en veu alta i podràs explorar la pantalla mitjançant gestos.</string>

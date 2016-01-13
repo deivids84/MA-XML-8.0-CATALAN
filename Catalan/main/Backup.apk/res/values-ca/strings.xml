@@ -49,7 +49,7 @@
   <string name="call_title">Registres de trucades</string>
   <string name="cancel">Cancel·lar</string>
   <string name="cancel_backup">Aturar</string>
-  <string name="cancel_restore">Aturar</string>  
+  <string name="cancel_restore">Aturar</string>
   <string name="click_to_view">Tocar per veure</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_hint">Per accedir a les seves còpies de seguretat, entreu ara</string>

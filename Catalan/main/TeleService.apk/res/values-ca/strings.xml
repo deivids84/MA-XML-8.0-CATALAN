@@ -466,7 +466,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="list_language_dtitle">Idiomes</string>
   <string name="list_language_summary">Seleccioneu l\'idioma de notícies</string>
   <string name="list_language_title">Idioma</string>
-   <string name="livetalk_about_info">About</string>
+  <string name="livetalk_about_info">About</string>
   <string name="livetalk_about_info_content">"V0.9 beta (Els codis curts de números de servei no estan suportats per ara. Necessita connectar-se a internet per utilitzar això. Cada trucada fa servir 1Kb de dades mòbils. Encén Free Listening per utilitzar aquest servei, en cas contrari teu proveïdor pot cobrar per roaming.)"</string>
   <string name="livetalk_activate">Activa paquet autorrecàrrega</string>
   <string name="livetalk_activate_number">Comprovar targeta SIM</string>
@@ -1022,10 +1022,10 @@ La seva targeta SIM serà esborrada després d\'un altre intent fallit."</string
   <string name="uplmn_numeric_is_empty">Introduïu un ID de xarxa</string>
   <string name="use_history">Activitat</string>
   <string name="use_history_duration_hour">%1$shora</string>
-  <string name="use_range">Utilitza rang</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Final: %1$s</string>
   <string name="use_history_starttime">Inici: %1$s</string>
+  <string name="use_range">Utilitza rang</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">Codi USSD funcionant</string>
   <string name="ussd_dialog_sep">----------</string>

@@ -18,7 +18,7 @@
   <string name="button_ok">D\'acord</string>
   <string name="button_restore">Restaura</string>
   <string name="button_stop">Aturar</string>
-  <string name="cancel_recover_settings"><u>Cancel·la</u></string>
+  <string name="cancel_recover_settings">&lt;u&gt;Cancel&amp;#183;la&lt;/u&gt;</string>
   <string name="cloud_app_backup_already">" ja té còpia de seguretat"</string>
   <string name="cloud_app_backup_cancel">Cancel·lant la còpia de seguretat…</string>
   <string name="cloud_app_backup_cancel_prompt_message">"La còpia de seguretat no ha acabat, cancel·lar de totes maneres?"</string>
@@ -64,7 +64,7 @@
   <string name="cloud_app_version_size">Versió: %1$s, mida: %2$s</string>
   <string name="cloud_app_wait_wifi">Esperant Wi-Fi</string>
   <string name="confirm_disable_backup">Desactivar i eliminar \"%s\"?</string>
-  <string name="customization"><u>personalitzar</u></string>
+  <string name="customization">&lt;u&gt;personalitzar&lt;/u&gt;</string>
   <string name="datasize_unknown">Desconegut</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="desktop_downloading">S\'està baixant</string>

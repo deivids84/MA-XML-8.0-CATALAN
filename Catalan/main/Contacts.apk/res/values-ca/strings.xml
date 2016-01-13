@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Detalls de registre de trucada</string>
   <string name="account_container_title">Importat de</string>
@@ -392,8 +392,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="eventTypeCustom">Personalitzat</string>
   <string name="event_edit_field_hint_text">Data</string>
   <string name="export_sim_contact_finish">Contactes exportats</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants</string>
   <string name="export_sim_contact_finish_failure">%1$d transferits | %2$d restants</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants</string>
   <string name="export_to_sdcard">Exportar a emmagatzematge</string>
   <string name="export_to_sim">Exporta a la targeta SIM</string>
   <string name="export_to_sim1">Exporta a SIM 1</string>

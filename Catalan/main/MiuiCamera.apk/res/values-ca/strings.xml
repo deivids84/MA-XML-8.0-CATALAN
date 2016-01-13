@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"No s\'ha pogut accedir a l\'emmagatzematge USB."</string>
   <string name="accessibility_camera_picker">Canvi entre càmera frontal i posterior</string>
@@ -26,9 +26,9 @@
   <string name="cannot_move_warning_message">Fotografia en procés, no mogui el dispositiu</string>
   <string name="confirm_location_alert">Desar localització</string>
   <string name="confirm_location_message">Etiquetar les teves fotos i vídeos amb les localitzacions on van ser presos?</string>
+  <string name="confirm_location_title">Desar localització?</string>
   <string name="confirm_recording_fail_calling_alert">"No es pot gravar durant una trucada."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Una altra aplicació pot estar usant el micròfon per gravar."</string>
-  <string name="confirm_location_title">Desar localització?</string>
   <string name="confirm_restore_message">"Restaurar la configuració per defecte de la càmera?"</string>
   <string name="confirm_restore_title">Restaura valors per defecte</string>
   <string name="dialog_ok">D\'acord</string>

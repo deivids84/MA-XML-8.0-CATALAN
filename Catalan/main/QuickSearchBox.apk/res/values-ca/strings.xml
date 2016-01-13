@@ -54,8 +54,8 @@ Per esborrar el seu historial de navegació, feu servir els paràmetres del nave
   <string name="show_more">Mostrar més</string>
   <string name="system_search_category_title">Telèfon</string>
   <string name="voice_search_hint_title">"Prova dient: "</string>
+  <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Resultats</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_hint"/>  
 </resources>
