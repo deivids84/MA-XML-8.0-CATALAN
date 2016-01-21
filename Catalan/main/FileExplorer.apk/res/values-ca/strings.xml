@@ -143,7 +143,7 @@
   <string name="encrypt_error">No s\'han pogut ocultar els fitxers, intenta de nou</string>
   <string name="encrypt_prefix">OCULT</string>
   <string name="encrypt_success">Ocultats correctament</string>
-  <string name="encrypt_success_first_five">Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers.</string>
+  <string name="encrypt_success_first_five">Encriptat i ocultat. Tira cap avall a la pantalla d\'inici del Explorador per veure els fitxers.</string>
   <string name="encrypting">Encriptant…</string>
   <string name="error_filename_too_long">El nom de fitxer introduït és massa llarg.</string>
   <string name="error_info_cant_send_folder">"No es pot enviar aquest tipus de fitxer."</string>
@@ -177,7 +177,7 @@
   <string name="ftp_account_req_notice">4-16 caràcters, lletres i números, majúscules i minúscules</string>
   <string name="ftp_anonymous_login">Inici de sessió anònim</string>
   <string name="ftp_invalid_username_or_password">Contrasenya o nom d\'usuari no vàlid.</string>
-  <string name="ftp_open_port_error">No s'ha pogut obrir el port. Comprova la teva connexió de xarxa o restableix el número del port.</string>
+  <string name="ftp_open_port_error">No s\'ha pogut obrir el port. Comprova la teva connexió de xarxa o restableix el número del port.</string>
   <string name="ftp_password_hint">Contrasenya</string>
   <string name="ftp_port_number">Número de port</string>
   <string name="ftp_transfer_secure">Seguretat</string>
