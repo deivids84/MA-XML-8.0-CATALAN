@@ -137,7 +137,7 @@
   <string name="download_failed">Descàrrega fallida</string>
   <string name="download_link_completed">%1$s compartit via KuaiPan. Toqueu el següent enllaç per veure:</string>
   <string name="downloaded_sticker_str">Descarregat</string>
-  <string name="downloading">S'està baixant</string>
+  <string name="downloading">S\'està baixant</string>
   <string name="downloading_in_3g">S\'està baixant per 3G…</string>
   <string name="enable_sd_card">Inserir la targeta SD o desactivar l\'emmagatzematge massiu USB.</string>
   <string name="encrypt_error">No s\'han pogut ocultar els fitxers, intenta de nou</string>
