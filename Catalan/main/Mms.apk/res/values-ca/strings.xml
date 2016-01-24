@@ -144,7 +144,7 @@
   <string name="enter_edit_mode">Edita missatges</string>
   <string name="error_code_label">"Codi d\'error: "</string>
   <string name="error_state">Estat inconsistent</string>
-  <string name="error_state_text">L\'estat de fils i destinataris és inconsistent. Si us plau capturi un informe d\'errors i enviar-lo a via http://go/droidanizer</string>
+  <string name="error_state_text">L\'estat de fils i destinataris és inconsistent. Si us plau capturi un informe d\'errors i enviar-lo via http://go/droidanizer</string>
   <string name="error_timed_msg">Hora no vàlida.</string>
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>

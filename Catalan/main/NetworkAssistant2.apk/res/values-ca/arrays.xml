@@ -2,31 +2,31 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="date_of_app">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Este mes (datos)</item>
+        <item>Ahir (dades)</item>
+        <item>Avui (dades)</item>
+        <item>Aquest mes (dades)</item>
      </string-array>
      <string-array name="date_of_app_all">
-        <item>Ayer (datos)</item>
-        <item>Hoy (datos)</item>
-        <item>Este mes (datos)</item>
-        <item>Wi-Fi ayer</item>
-        <item>Wi-Fi hoy</item>
-        <item>Wi-Fi este mes</item>
+        <item>Ahir (dades)</item>
+        <item>Avui (dades)</item>
+        <item>Aquest mes (dades)</item>
+        <item>Wi-Fi ahir</item>
+        <item>Wi-Fi avui</item>
+        <item>Wi-Fi aquest mes</item>
      </string-array>
      <string-array name="date_of_traffic">
-        <item>"Ayer "</item>
-        <item>"Hoy "</item>
-        <item>"Este mes "</item>
+        <item>"Ahir "</item>
+        <item>"Avui "</item>
+        <item>"Aquest mes "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix">
-        <item>"Ayer: "</item>
-        <item>"Hoy: "</item>
-        <item>"Este mes: "</item>
+        <item>"Ahir: "</item>
+        <item>"Avui: "</item>
+        <item>"Aquest mes: "</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
-        <item>"Uso móvil "</item>
-        <item>"Uso Wi-Fi "</item>
+        <item>"Ús mòbil "</item>
+        <item>"Ús Wi-Fi "</item>
      </string-array>
      <string-array name="min_limit_pkg_default">
         <item>1 MB</item>
@@ -43,35 +43,35 @@
         <item>9 segs</item>
      </string-array>
      <string-array name="over_limit_traffic_waring_style">
-        <item>Mostrar advertencia</item>
-        <item>Advertir y apagar datos móviles</item>
+        <item>Mostrar advertència</item>
+        <item>Advertir i apagar dades mòbils</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">
-        <item>Recuperar automáticamente</item>
-        <item>Establecer manualmente</item>
+        <item>Recuperar automàticament</item>
+        <item>Establir manualment</item>
      </string-array>
      <string-array name="traffic_sort_type">
-        <item>"Uso de datos móviles "</item>
-        <item>"Uso Wi-Fi "</item>
-        <item>"Datos ahorrados "</item>
+        <item>"Ús de dades mòbils "</item>
+        <item>"ús Wi-Fi "</item>
+        <item>"Dades estalviades "</item>
      </string-array>
      <string-array name="traffic_type">
-        <item>"Uso móvil "</item>
-        <item>"Uso Wi-Fi "</item>
-        <item>"Datos ahorrados "</item>
+        <item>"Ús mòbil "</item>
+        <item>"Ús Wi-Fi "</item>
+        <item>"Dades estalviades "</item>
      </string-array>
      <string-array name="traffic_uints">
         <item>MB</item>
         <item>GB</item>
      </string-array>
     <string-array name="roaming_apps_sorted_type">
-        <item>Frecuentemente usadas</item>
-        <item>Nombre</item>
+        <item>Freqüentment usades</item>
+        <item>Nom</item>
     </string-array>
     <string-array name="traffic_saving_compress_level_string_array">
-        <item>Ninguna</item>
-        <item>Baja</item>
-        <item>Media</item>
+        <item>Cap</item>
+        <item>Baixa</item>
+        <item>Mitja</item>
         <item>Alta</item>
     </string-array>
 </resources>
