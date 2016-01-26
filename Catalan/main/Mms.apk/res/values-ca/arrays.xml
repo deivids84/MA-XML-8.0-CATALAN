@@ -24,27 +24,27 @@
         <item>:-I</item>
     </string-array>
     <string-array name="default_smiley_names">
-        <item>Feliz</item>
-        <item>Triste</item>
-        <item>Guiño</item>
-        <item>Lengua colgando</item>
-        <item>Sorprendido</item>
-        <item>Beso</item>
-        <item>Chillando</item>
-        <item>Gafas</item>
-        <item>Avergonzado</item>
-        <item>Enfadado</item>
-        <item>Ceñudo</item>
+        <item>Feliç</item>
+        <item>Trist</item>
+        <item>Gest</item>
+        <item>Llengua penjant</item>
+        <item>Sorprès</item>
+        <item>Petó</item>
+        <item>Xisclant</item>
+        <item>Ulleres</item>
+        <item>Avergonyit</item>
+        <item>Enfadat</item>
+        <item>Sorrut</item>
         <item>Ángel</item>
-        <item>Indeciso</item>
-        <item>Llorando</item>
-        <item>Mis labios están sellados</item>
-        <item>Riendo</item>
-        <item>Sorprendido</item>
-        <item>Corazón</item>
-        <item>Loco</item>
-        <item>Escéptico</item>
-        <item>Cara de póker</item>
+        <item>Indecís</item>
+        <item>Plorant</item>
+        <item>Els meus llavis estan segellats</item>
+        <item>Rient</item>
+        <item>Sorprès</item>
+        <item>Cor</item>
+        <item>Boig</item>
+        <item>Escèptic</item>
+        <item>Cara de pòquer</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1x</item>
@@ -61,17 +61,17 @@
         <item>10</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Nombre</item>
-        <item>Apodo</item>
-        <item>Teléfono</item>
-        <item>Correo-e</item>
-        <item>Organización</item>
+        <item>Nom</item>
+        <item>Sobrenom</item>
+        <item>Telèfon</item>
+        <item>Correu-e</item>
+        <item>Organització</item>
         <item>MI</item>
-        <item>Teléfono SIP</item>
-        <item>Cumpleaños</item>
-        <item>SitioWeb</item>
-        <item>Dirección</item>
-        <item>Notas</item>
+        <item>Telèfon SIP</item>
+        <item>Aniversari</item>
+        <item>LlocWeb</item>
+        <item>Direcció</item>
+        <item>Notes</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -87,32 +87,32 @@
         <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Hora recibido</item>
-        <item>Hora enviado</item>
+        <item>Hora rebut</item>
+        <item>Hora enviat</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Vía mensaje</item>
-        <item>Vía mensaje a la nube</item>
+        <item>Via missatge</item>
+        <item>Via missatge a núvol</item>
     </string-array>
     <string-array name="entries_date_type_rightvalue">
-        <item>Recibido</item>
-        <item>Enviado</item>
+        <item>Rebut</item>
+        <item>Enviat</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Vía mensaje</item>
-        <item>Vía mensaje a la nube</item>
+        <item>Via missatge</item>
+        <item>Via missatge a núvol</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>No establecido</item>
+        <item>No establert</item>
         <item>1 hora</item>
-        <item>6 horas</item>
-        <item>12 horas</item>
-        <item>1 día</item>
-        <item>Máximo</item>
+        <item>6 hores</item>
+        <item>12 hores</item>
+        <item>1 dia</item>
+        <item>Màxim</item>
     </string-array>
     <string-array name="entries_sms_validity_period_value">
         <item>-1</item>
@@ -123,29 +123,29 @@
         <item>635040</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
-        <item>Máximo</item>
-        <item>2 días</item>
+        <item>Màxim</item>
+        <item>2 dies</item>
     </string-array>
     <string-array name="entries_mms_validity_period_value">
         <item>0</item>
         <item>172800</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 segundo</item>
-        <item>2 segundos</item>
-        <item>3 segundos</item>
-        <item>4 segundos</item>
-        <item>5 segundos</item>
-        <item>6 segundos</item>
-        <item>7 segundos</item>
-        <item>8 segundos</item>
-        <item>9 segundos</item>
-        <item>10 segundos</item>
-        <item>Otro</item>
+        <item>1 segon</item>
+        <item>2 segons</item>
+        <item>3 segons</item>
+        <item>4 segons</item>
+        <item>5 segons</item>
+        <item>6 segons</item>
+        <item>7 segons</item>
+        <item>8 segons</item>
+        <item>9 segons</item>
+        <item>10 segons</item>
+        <item>Un altre</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Siempre</item>
-        <item>Cuando silenciado</item>
-        <item>Nunca</item>
+        <item>Sempre</item>
+        <item>Quan silenciat</item>
+        <item>Mai</item>
     </string-array>
 </resources>

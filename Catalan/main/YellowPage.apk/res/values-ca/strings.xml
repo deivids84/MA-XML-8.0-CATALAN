@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_fraud_num_online_identification">Acerca de esta característica</string>
-  <string name="about_smart_antispam_summary">Acerca de esta característica</string>
-  <string name="about_telephone_fraud">Cuidado con los fraudes</string>
-  <string name="account_address">Direcciones</string>
-  <string name="account_order">Historial de pedidos</string>
+  <string name="about_fraud_num_online_identification">Quant a aquesta característica</string>
+  <string name="about_smart_antispam_summary">Quant a aquesta característica</string>
+  <string name="about_telephone_fraud">Compte amb els fraus</string>
+  <string name="account_address">Direccions</string>
+  <string name="account_order">Historial de comandes</string>
   <string name="account_title">Perfil</string>
-  <string name="account_type_name">Cuenta Mi</string>
-  <string name="account_updating_device">Actualizando…</string>
-  <string name="account_updating_device_failed">"No se ha podido iniciar sesión"</string>
-  <string name="account_verify_password">"Ya estás usando este servicio en otro dispositivo. Por seguridad, debes verificar tu cuenta Mi en este dispositivo."</string>
-  <string name="account_yellowpage_favorite">Favoritos</string>
-  <string name="account_yellowpage_followed">Cuentas Verificadas</string>
-  <string name="account_yellowpage_recent">Ver el historial</string>
-  <string name="agree">Estoy de acuerdo</string>
-  <string name="all_services">Todo</string>
-  <string name="allow">Permitir</string>
+  <string name="account_type_name">Compte Mi</string>
+  <string name="account_updating_device">Actualitzant…</string>
+  <string name="account_updating_device_failed">"No s\'ha pogut iniciar sessió"</string>
+  <string name="account_verify_password">"Ja estàs fent servir aquest servei en un altre dispositiu. Per seguretat, has de verificar el teu compte Mi en aquest dispositiu."</string>
+  <string name="account_yellowpage_favorite">Favorits</string>
+  <string name="account_yellowpage_followed">Comptes Verificats</string>
+  <string name="account_yellowpage_recent">Veure l\'historial</string>
+  <string name="agree">Estic d\'acord</string>
+  <string name="all_services">Tot</string>
+  <string name="allow">Permet</string>
   <string name="app_label">Páginas amarillas</string>
   <string name="app_recommendation_install">Instalar</string>
   <string name="average_price">Promedio de %d RMB</string>
