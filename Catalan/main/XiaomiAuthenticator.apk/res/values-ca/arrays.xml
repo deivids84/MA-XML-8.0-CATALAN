@@ -12,7 +12,7 @@
         <item>50000</item>
      </string-array>
      <string-array name="type">
-        <item>Basado en tiempo</item>
-        <item>Basado en contador</item>
+        <item>Basat en temps</item>
+        <item>Basat en comptador</item>
      </string-array>
 </resources>
