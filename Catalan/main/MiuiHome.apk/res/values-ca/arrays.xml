@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="transformation_entries">
-    <item>Clásica</item>
+    <item>Clàssica</item>
     <item>Diapositiva</item>
-    <item>Fundido</item>
-    <item>Caída</item>
-    <item>Página</item>
+    <item>Fos</item>
+    <item>Caiguda</item>
+    <item>Pàgina</item>
     <item>Cascada</item>
     <item>Rotar</item>
-    <item>Cubo</item>
+    <item>Cub</item>
   </string-array>
   <string-array name="wallpaper_scroll_entries">
-    <item>Tema por defecto</item>
-    <item>Centro</item>
-    <item>Izquierda</item>
-    <item>Derecha</item>
+    <item>Tema per defecte</item>
+    <item>Centre</item>
+    <item>Esquerra</item>
+    <item>Dreta</item>
   </string-array>
   <string-array name="gadget_weather_theme_type_entries">
-    <item>Por defecto</item>
-    <item>Clásico</item>
+    <item>Per defecte</item>
+    <item>Clàssic</item>
   </string-array>
   <string-array name="gadget_weather_image">
-	<item>Despejado</item>
-	<item>Nuboso</item>
-	<item>Brumoso</item>
-	<item>Niebla</item>
-	<item>Tormenta fuerte</item>
-	<item>Tormenta</item>
-	<item>Lluvia muy fuerte</item>
-	<item>Truenos</item>
-	<item>Chubasco</item>
-	<item>Lluvia fuerte</item>
-	<item>Lluvia</item>
-	<item>Llovizna</item>
-	<item>Aguanieve</item>
-	<item>Ventisca</item>
-	<item>Ráfagas de nieve</item>
-	<item>Fuerte nevada</item>
+	<item>Clar</item>
+	<item>Nuvolós</item>
+	<item>Boirós</item>
+	<item>Boira</item>
+	<item>Tempesta forta</item>
+	<item>Tempesta</item>
+	<item>Pluja molt forta</item>
+	<item>Trons</item>
+	<item>Ruixat</item>
+	<item>Pluja forta</item>
+	<item>Pluja</item>
+	<item>Plugim</item>
+	<item>Aiguaneu</item>
+	<item>Torb</item>
+	<item>Ràfegues de neu</item>
+	<item>Forta nevada</item>
 	<item>Nevada</item>
-	<item>Ligera nevada</item>
-	<item>Fuerte tormenta de arena</item>
-	<item>Tormenta de arena</item>
-	<item>Ligera tormenta de arena</item>
-	<item>Tormenta de arena</item>
-	<item>Granizo</item>
+	<item>Lleugera nevada</item>
+	<item>Forta tempesta de sorra</item>
+	<item>Tempesta de sorra</item>
+	<item>Lleugera tempesta de sorra</item>
+	<item>Tempesta de sorra</item>
+	<item>Calamarsa</item>
 	<item>Calima</item>
-	<item>Neblina</item>
+	<item>Boirina</item>
   </string-array>
   <string-array name="editing_mode_entries">
-    <item>Mover apps</item>
+    <item>Moure apps</item>
     <item>Widgets</item>
-    <item>Fondo</item>
-    <item>Efectos</item>
+    <item>Fons</item>
+    <item>Efectes</item>
   </string-array>
 </resources>

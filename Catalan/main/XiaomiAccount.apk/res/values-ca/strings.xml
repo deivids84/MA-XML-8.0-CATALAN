@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device_info">Mostrar els detalls del dispositiuo</string>
+  <string name="about_device_info">Mostrar els detalls del dispositiu</string>
   <string name="access_denied">Accés denegat</string>
   <string name="access_token_expired_warning">El compte Weibo ha caducat</string>
   <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>

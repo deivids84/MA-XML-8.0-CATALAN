@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">Confío en esta aplicación.</string>
+  <string name="accept">Confio en aquesta aplicació.</string>
   <string name="configure">Configurar</string>
-  <string name="data_received">Recibido:</string>
-  <string name="data_transmitted">Enviado:</string>
-  <string name="data_value_format">%1$s bytes / %2$s paquetes</string>
-  <string name="disconnect">Desconectar</string>
-  <string name="duration">Duración:</string>
-  <string name="legacy_title">VPN conectada</string>
-  <string name="prompt">%s está intentando crear una conexión VPN.</string>
-  <string name="session">Sesión:</string>
-  <string name="warning">Si aceptas, estás dando permiso a la aplicación para interceptar todo el tráfico de red. &lt;b&gt;NO aceptes a menos que confíes en la aplicación.&lt;/b&gt;" De lo contrario, se corre el riesgo de tener tus datos comprometidos por un software malicioso. "</string>
+  <string name="data_received">Rebut:</string>
+  <string name="data_transmitted">Enviat:</string>
+  <string name="data_value_format">%1$s bytes / %2$s paquets</string>
+  <string name="disconnect">Desconnectar</string>
+  <string name="duration">Durada:</string>
+  <string name="legacy_title">VPN connectada</string>
+  <string name="prompt">%s està intentant crear una connexió VPN.</string>
+  <string name="session">Sessió:</string>
+  <string name="warning">Si acceptes, estàs donant permís a l'aplicació per interceptar tot el trànsit de xarxa. &lt;b&gt;NO acceptis llevat que confiïs en l\'aplicació..&lt;/b&gt;" En cas contrari, es corre el risc de tenir les teves dades compromeses per un programari maliciós. "</string>
 </resources>
