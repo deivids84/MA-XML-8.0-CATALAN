@@ -10,5 +10,5 @@
   <string name="legacy_title">VPN connectada</string>
   <string name="prompt">%s està intentant crear una connexió VPN.</string>
   <string name="session">Sessió:</string>
-  <string name="warning">Si acceptes, estàs donant permís a l'aplicació per interceptar tot el trànsit de xarxa. &lt;b&gt;NO acceptis llevat que confiïs en l\'aplicació..&lt;/b&gt;" En cas contrari, es corre el risc de tenir les teves dades compromeses per un programari maliciós. "</string>
+  <string name="warning">Si acceptes, estàs donant permís a l\'aplicació per interceptar tot el trànsit de xarxa. NO acceptis llevat que confiïs en l\'aplicació.." En cas contrari, es corre el risc de tenir les teves dades compromeses per un programari maliciós. "</string>
 </resources>
