@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Defecto</item>
-        <item>Modo oculto</item>
-        <item>Modo lectura</item>
-        <item>Modo multimedia</item>
+        <item>Defecte</item>
+        <item>Mode ocult</item>
+        <item>Mode lectura</item>
+        <item>Mode multimèdia</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>Aplicación funcionando en primer plano</item>
-        <item>Pantalla encendida</item>
+        <item>Aplicació funcionant en primer pla</item>
+        <item>Pantalla encesa</item>
         <item>Pantalla apagada</item>
-        <item>Pantalla apagada durante 10 minutos</item>
+        <item>Pantalla apagada durant 10 minuts</item>
         <item>Pantalla completa</item>
-        <item>Salir de pantalla completa</item>
-        <item>Aplicación funcionando en segundo plano</item>
-        <item>Teléfono cargándose</item>
-        <item>Teléfono no está cargándose</item>
-        <item>Teléfono inactivo</item>
+        <item>Sortir de pantalla completa</item>
+        <item>Aplicació funcionant en segon pla</item>
+        <item>Telèfon carregant-se</item>
+        <item>Telèfon no està carregant-se</item>
+        <item>Telèfon inactiu</item>
     </string-array>
     <string-array name="action_name_translate">
-        <item>Máximo brillo de pantalla</item>
-        <item>Máxima frecuencia de CPU</item>
-        <item>Modo de pantalla</item>
-        <item>Uso de CPU</item>
-        <item>Conexión de datos</item>
-        <item>Localización</item>
-        <item>Primera notificación</item>
-        <item>Notificaciones en pantalla de bloqueo</item>
-        <item>Restringir conexiones de datos en segundo plano</item>
+        <item>Màxima brillantor de pantalla</item>
+        <item>MMàxima freqüència de la CPU</item>
+        <item>Mode de pantalla</item>
+        <item>Ús de CPU</item>
+        <item>Connexió de dades</item>
+        <item>Localització</item>
+        <item>Primera notificació</item>
+        <item>Notificacions en pantalla de bloqueig</item>
+        <item>Restringeix connexions de dades en segon pla</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Ninguno</item>
-        <item>Defecto</item>
-        <item>Imagen</item>
-        <item>Película</item>
-        <item>Ahorro de batería</item>
-        <item>Equilibrio</item>
-        <item>Rendimiento</item>
-        <item>Encendido</item>
-        <item>Apagado</item>
-        <item>Inmediatamente</item>
-        <item>Después de 10 min</item>
-        <item>Después de 30 min</item>
-        <item>Cuando la pantalla esté apagada</item>
+        <item>Cap</item>
+        <item>Defecte</item>
+        <item>Imatge</item>
+        <item>Pel·lícula</item>
+        <item>Estalvi de bateria</item>
+        <item>Equilibri</item>
+        <item>Rendiment</item>
+        <item>Encesa</item>
+        <item>Apagat</item>
+        <item>Immediatament</item>
+        <item>Després de 10 min</item>
+        <item>Després de 30 min</item>
+        <item>Quan la pantalla està apagada</item>
     </string-array>
     <string-array name="app_groups">
-        <item>seleccionadas</item>
-        <item>no seleccionadas</item>
-        <item>otras seleccionadas</item>
+        <item>seleccionades</item>
+        <item>no seleccionades</item>
+        <item>altres seleccionades</item>
     </string-array>
 	<string-array name="hmode_app_groups">
-        <item>personalizado</item>
-        <item>sugerido</item>
+        <item>personalitzat</item>
+        <item>suggerit</item>
     </string-array>
 </resources>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string-array name="slideshow_time_entries">
-		<item>5 minutos</item>
-		<item>15 minutos</item>
-		<item>30 minutos</item>
+		<item>5 minuts</item>
+		<item>15 minuts</item>
+		<item>30 minuts</item>
 		<item>1 hora</item>
-		<item>Ilimitado</item>
+		<item>Il·limitat</item>
 	</string-array>
     <string-array name="baby_sexy">
-        <item>Chico</item>
-        <item>Chica</item>
+        <item>Noi</item>
+        <item>Noia</item>
     </string-array>
     <string-array name="owner_relation">
-        <item>Padre</item>
-        <item>Madre</item>
-        <item>Abuelo paterno</item>
-        <item>Abuela paterna</item>
-        <item>Abuelo materno</item>
-        <item>Abuela materna</item>
+        <item>Pare</item>
+        <item>Mare</item>
+        <item>Avi patern</item>
+        <item>Àvia paterna</item>
+        <item>Avi matern</item>
+        <item>Àvia materna</item>
     </string-array>
 </resources>
