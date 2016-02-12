@@ -19,16 +19,16 @@
      </string-array>
      <string-array name="interview_record_scenes_entries">
         <item>Música</item>
-        <item>Voz</item>
+        <item>Veu</item>
         <item>Entrevista</item>
      </string-array>
      <string-array name="record_scenes_entries">
         <item>Música</item>
-        <item>Voz</item>
+        <item>Veu</item>
      </string-array>
 	 <string-array name="record_quality_entries">
         <item>Alta</item>
-        <item>Estándar</item>
-        <item>Baja</item>
+        <item>Estàndard</item>
+        <item>Baixa</item>
     </string-array>
 </resources>

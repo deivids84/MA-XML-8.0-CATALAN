@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">%d grabaciones descargadas</item>
-        <item quantity="one">%d grabación descargada</item>
+        <item quantity="other">%d gravacions descarregades</item>
+        <item quantity="one">%d gravació descarregada</item>
     </plurals>
 	<plurals name="local_records_count">
-        <item quantity="other">%d elementos</item>
-        <item quantity="one">%d elemento</item>
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
     </plurals>
     <plurals name="unsynced_records_count">
-        <item quantity="other">%d no sincronizadas</item>
-        <item quantity="one">%d no sincronizada</item>
+        <item quantity="other">%d no sincronitzades</item>
+        <item quantity="one">%d no sincronitzada</item>
     </plurals>
 </resources>

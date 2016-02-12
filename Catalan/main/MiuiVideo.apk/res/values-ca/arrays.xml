@@ -11,7 +11,7 @@
      </string-array>
      <string-array name="version_list_entries">
         <item>Estable</item>
-        <item>Desarrollo</item>
+        <item>Desenvolupament</item>
         <item>Alfa</item>
      </string-array>
      <string-array name="version_list_entries_value">
