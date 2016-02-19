@@ -1,41 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+     <string-array name="calendar_remind_string_array">
+        <item>Aquesta nit</item>
+        <item>Demà</item>
+        <item>Cap de setmana</item>
+        <item>Propera setmana</item>
+        <item>Proper mes</item>
+        <item>Escollir data</item>
+     </string-array>
      <string-array name="compose_modes">
-        <item>Responder</item>
-        <item>Responder a todos</item>
+        <item>Respondre</item>
+        <item>Respondre a tots</item>
         <item>Reenviar</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
-        <item>Texto diminuto</item>
-        <item>Texto pequeño</item>
-        <item>Texto normal</item>
-        <item>Texto grande</item>
-        <item>Texto enorme</item>
+        <item>Text diminut</item>
+        <item>Text petit</item>
+        <item>Text normal</item>
+        <item>Text gran</item>
+        <item>Text enorme</item>
      </string-array>
      <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recientes</item>
-        <item>Formato</item>
-        <item>Nombre</item>
-        <item>Remitente</item>
-        <item>Fecha</item>
+        <item>Recents</item>
+        <item>Format</item>
+        <item>Nom</item>
+        <item>Remitent</item>
+        <item>Data</item>
      </string-array>
      <string-array name="moveto_folder_sections">
         <item>Sistema</item>
-        <item>Usados con frecuencia</item>
-        <item>Todas las carpetas</item>
+        <item>Usats sovint</item>
+        <item>Totes les carpetes</item>
      </string-array>
      <string-array name="prefEntries_autoAdvance">
-        <item>Más reciente</item>
-        <item>Más antiguo</item>
-        <item>Lista de conversaciones</item>
+        <item>Més recent</item>
+        <item>Més antic</item>
+        <item>Llista de converses</item>
      </string-array>
      <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Sitio:</item>
-        <item>Email:</item>
-        <item>Móvil:</item>
-        <item>Teléfono:</item>
+        <item>Bloc:</item>
+        <item>Lloc:</item>
+        <item>Correu electrònic:</item>
+        <item>Mòbil:</item>
+        <item>Telèfon:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
@@ -43,39 +51,39 @@
         <item>E-mail:</item>
         <item>Tel:</item>
         <item>Fax:</item>
-        <item>Correspondencia:</item>
+        <item>Correspondència:</item>
         <item>QQ:</item>
         <item>MSN:</item>
      </string-array>
      <string-array name="signature_normal_string_array_next">
-        <item>Dirección:</item>
+        <item>Direcció:</item>
         <item>Tel:</item>
-        <item>Nombre:</item>
-        <item>Email:</item>
-        <item>Móvil:</item>
+        <item>Nom:</item>
+        <item>Correu electrònic:</item>
+        <item>Mòbil:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Código postal:</item>
+        <item>Codi postal:</item>
      </string-array>
      <string-array name="signature_special_string_array">
-        <item>Renuncia:</item>
-        <item>Renuncia email</item>
-        <item>Enviado via WPSMail</item>
-        <item>Enviado desde</item>
-        <item>Enviado con</item>
-        <item>Gracias,</item>
-        <item>Atentamente</item>
+        <item>Renúncia:</item>
+        <item>Renúncia email</item>
+        <item>Enviat via WPSMail</item>
+        <item>Enviat des de</item>
+        <item>Enviat amb</item>
+        <item>Gràcies,</item>
+        <item>Atentament</item>
      </string-array>
      <string-array name="signature_special_string_array_next">
-        <item>Gracias,</item>
-        <item>Atentamente</item>
-        <item>Enviado desde mi</item>
-        <item>Email original</item>
-        <item>Enviado desde mi</item>
-        <item>Enviado desde</item>
-        <item>Desde</item>
-        <item>Este email</item>
-        <item>Renuncia</item>
-        <item>Renuncia email</item>
+        <item>Gràcies,</item>
+        <item>Atentament</item>
+        <item>Enviat des del meu</item>
+        <item>Correu electrònic original</item>
+        <item>Enviat des del meu</item>
+        <item>Enviat des de</item>
+        <item>Des de</item>
+        <item>Aquest email</item>
+        <item>Renúncia</item>
+        <item>Renúncia email</item>
      </string-array>
 </resources>

@@ -17,14 +17,14 @@
         <item>Mostrar després</item>
      </string-array>
 	 <string-array name="cache_clean_menu">
-        <item>Netejar</item>
-        <item>Fitxer</item>
+        <item>Netejar aquest fitxer</item>
+        <item>Veure localització del fitxer</item>
         <item>Afegir fitxer a excepcions</item>
         <item>Afegir aplicació a excepcions</item>
     </string-array>
 	<string-array name="trash_clean_menu">
-		<item>Netejar</item>
-        <item>Fitxer</item>
+		<item>Netejar aquest fitxer</item>
+        <item>Veure localització del fitxer</item>
 		<item>Afegir fitxer a excepcions</item>
         <item>Afegir aplicació a excepcions</item>
     </string-array>	
@@ -33,9 +33,9 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Netejar</item>
-        <item>Fitxer</item>
-        <item>Excepció</item>
-        <item>Instal·lar</item>
+        <item>Veure localització del Apk</item>
+        <item>Afegir a excepcions</item>
+        <item>Instal·lar aquest Apk</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Desinstal·lar</item>

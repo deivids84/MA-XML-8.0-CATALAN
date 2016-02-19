@@ -556,7 +556,7 @@
   <string name="outbox_alert_description_provision_error">Causa: Error de provisió del servidor durant la sincronització de la safata de sortida</string>
   <string name="outbox_alert_description_sent_failed">"La mida de l\'arxiu adjunt supera el límit del servidor."</string>
   <string name="outbox_alert_duplicate_click">Enviant ara…</string>
-  <string name="outbox_alert_edit_resend">Edita i enviar de nou</string>
+  <string name="outbox_alert_edit_resend">Editar i enviar de nou</string>
   <string name="outbox_alert_failed_edit_resend">No s\'ha pogut enviar. Editeu i torneu a provar."</string>
   <string name="outbox_alert_mailbox_not_found">Direcció de correu electrònic no trobada</string>
   <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
