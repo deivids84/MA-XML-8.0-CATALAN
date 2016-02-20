@@ -292,7 +292,8 @@ Per activar el seu compte, seguiu l\'enllaç
   <string name="passport_wrong_phone_number_format">El format del número de telèfon que ha introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que ha introduït és incorrecte</string>
   <string name="passport_xiaomi_account_dspt">Utilitza el teu compte Mi per iniciar sessió des de qualsevol part a Mi Cloud, MIUI Theme Store i altres serveis Mi.</string>
-  <string name="passport_xiaomi_account_sec_dspt2">Necessita una connexió a internet per iniciar la sessió al compte Mi. A més, s\'encendra automàticament l\'accés a la localització, Mi Cloud i Mi VIP.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Necessita una connexió a internet per iniciar la sessió al compte Mi. A més, s\'encendra automàticament l\'accés a la localització hi ha Mi Cloud.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Necessita una connexió a internet per iniciar la sessió al compte Mi. A més, s\'encendra automàticament l\'accés a la localització, a Mi Cloud i Mi VIP.</string>
   <string name="password">Introduïu la contrasenya</string>
   <string name="phone_activated">%s activat</string>
   <string name="phone_unactivated">No activat</string>

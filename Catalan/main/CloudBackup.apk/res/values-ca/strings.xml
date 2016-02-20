@@ -29,12 +29,10 @@
   <string name="cloud_app_restore_success">Aplicacions restaurades</string>
   <string name="cloud_app_restore_wifi_prompt">Per restaurar l\'aplicació, connecteu-vos a una xarxa Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Les dades de la còpia es guardaran a Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
-*\u0009\u0009\u0009\u0009Aplicacions i disposició de pantalla d\'inici
-*\u0009\u0009\u0009\u0009Tons, fons i fonts
-*\u0009\u0009\u0009\u0009Alarmes i ajustos de temps
+  <string name="cloud_back_up_detail_discription">"Aquests elements es guardaran a Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
+*\u0009\u0009\u0009\u0009Aplicacions, disposició de pantalla d\'inici i fons
+*\u0009\u0009\u0009\u0009Alarmes, rellotges i ajustos de temps
 *\u0009\u0009\u0009\u0009Ajustaments de notificacions
-*\u0009\u0009\u0009\u0009Ajustaments del mode No molestar
 *\u0009\u0009\u0009\u0009Ajustaments de MIUI i del sistema
 Nota: Les dades de les aplicacions instal·lades no es copiaran a Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programar còpia</string>
@@ -51,11 +49,11 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran a Mi Cloud."</st
   <string name="cloud_back_up_task">Còpia en curs…</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
   <string name="cloud_backup_detail_frequence_day">%1$s copiar una vegada</string>
-  <string name="cloud_backup_detail_manage">Administrar còpia</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s còpia, mida: %2$s</string>
+  <string name="cloud_backup_detail_manage">Administrar còpies</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
   <string name="cloud_backup_detail_state">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i ajustos del sistema</string>
-  <string name="cloud_backup_detail_time">, hora de la còpia:%1$s</string>
+  <string name="cloud_backup_detail_time">, hora de la còpia: %1$s</string>
   <string name="cloud_restore_from_other_device">La restauració des de %s està en procés, esborrar la còpia de seguretat de la mateixa cancel·larà la tasca, está segur d\'esborrar-la?</string>
   <string name="cloud_restore_task">Restaurant…</string>
   <string name="cloud_task_in_process">Hi ha un %s tasca en procés! Esborrant la còpia de seguretat del dispositiu actual cancel·larà la tasca, està segur d\'esborrar-la?</string>

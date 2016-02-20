@@ -609,6 +609,10 @@ Activar finestres actives?"</string>
   <string name="clear_failed_dlg_text">"No s\'han pogut eliminar les dades per a l\'aplicació."</string>
   <string name="clear_failed_dlg_title">Eliminar les dades</string>
   <string name="clear_user_data_text">Eliminar les dades</string>
+  <string name="cloud_backup_section_title">Còpia de seguretat de Mi Cloud</string>
+  <string name="cloud_backup_settings_section_title">Configuració de còpia</string>
+  <string name="cloud_restore_section_summary">Restaurar aplicacions, pantalla d\'inici i ajustos del sistema</string>
+  <string name="cloud_restore_section_title">Restaurar des de Mi Cloud</string>
   <string name="cmcc_hardware_version">Versió maquinari</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
@@ -1110,6 +1114,7 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
   <string name="free_wifi_user_agreement_allow">Acordar</string>
   <string name="free_wifi_user_agreement_title">Termes d\'ús</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Toca per connectar-te a %1$s.</string>
   <string name="frequently_fragment_delete">Eliminar</string>
   <string name="frequently_fragment_tempty">Els elements usats freqüentment apareixeran llistats aquí</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -2340,7 +2345,7 @@ Possiblement PIN incorrecte."</string>
   <string name="sms_received_sound_title">Missatge rebut</string>
   <string name="sort_order_alpha">Ordenar per nom</string>
   <string name="sort_order_size">Ordenar per mida</string>
-  <string name="sound_category_call_ringtone_vibrate_title">To de trucada i vibració</string>
+  <string name="sound_category_call_ringtone_vibrate_title">To i vibració</string>
   <string name="sound_category_notification_title">Notificacions</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">Sistema</string>

@@ -45,4 +45,20 @@
         <item quantity="other">%d grups</item>
         <item quantity="one">%d grup</item>
     </plurals>
+	<plurals name="deepclean_cache_summary">
+        <item quantity="other">Pots esborrar dades no importants de %d aplicacions</item>
+        <item quantity="one">Pots esborrar dades no importants de %d aplicació</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d aplicacions instal·lades, pots esborrar les aplicacions poc usades</item>
+        <item quantity="one">%d aplicació instal·lada, pots esborrar aquesta</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Trobats %d fitxers grans, pots esborrar els no importants</item>
+        <item quantity="one">Trobat %d fitxer gran, pots esborrar aquest</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Trobades %d fotos, pots esborrar les duplicades o redundants</item>
+        <item quantity="one">Trobada %d foto, pots esborrar les duplicades o redundants</item>
+    </plurals>	
 </resources>

@@ -26,6 +26,8 @@
   <string name="input_pin_code">PIN?</string>
   <string name="input_puk_code">Introduir PUK</string>
   <string name="invalid_confirm_pin_hint">Els PIN no coincideixen</string>
+  <string name="invalid_sim_pin_hint">Introdueix un PIN que tingui entre 4 i 8 números</string>
+  <string name="invalid_sim_puk_hint">El codi PUK hauria de tenir 8 números o més</string>
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, premeu el botó Encesa</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>

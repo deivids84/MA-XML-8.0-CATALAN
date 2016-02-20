@@ -44,6 +44,7 @@
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="hot_problem">Veure errors comuns</string>
   <string name="loading_apps">Carregant llista…</string>
+  <string name="logo_title">Centre d\'informe d\'errors</string>
   <string name="menu_copy">Copiar</string>
   <string name="modem_tool_log">Recuperar registres del mòdem</string>
   <string name="modem_tool_log_start">Començar</string>

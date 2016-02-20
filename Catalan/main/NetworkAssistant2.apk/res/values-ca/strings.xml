@@ -413,6 +413,10 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="tips_dialog_title">No coneix el seu límit?</string>
   <string name="tips_message">"Si no té clars els detalls del seu pla de dades pot veure\'ls trucant al %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Límit d\'ús de dades diari</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Pla mensual canviat a %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
+  <string name="traffic_alert_auto_modify_package_summary">Ajustar automàticament paquet de dades d\'acord amb la informació de l\'operador</string>
+  <string name="traffic_config_alert_auto_modify">Actualitzar pla de dades automàticament</string>
   <string name="traffic_config_alert_body">"La comptabilitat del seu operador mostra que ha fet servir %s
 Actualitzar la informació d\'ús de dades?"</string>
   <string name="traffic_config_alert_body_extra">"
@@ -425,9 +429,6 @@ La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seve
 La comptabilitat del seu operador mostra que Vè. li queden %s de dades d\'hora vall. Vè. no ha posat un límit per a les dades en hora vall."</string>
   <string name="traffic_config_alert_body_normal">"
 La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seves dades d\'hora punta aquest mes, això difereix dels %2$s qque Vè. ha establert manualment."</string>
-  <string name="traffic_config_alert_cancel">Cancel·lar</string>
-  <string name="traffic_config_alert_nomore">"No mostrar de nou"</string>
-  <string name="traffic_config_alert_ok">D\'acord</string>
   <string name="traffic_config_alert_setted">Configuració aplicada</string>
   <string name="traffic_config_alert_title">%s correcció</string>
   <string name="traffic_correction_failed">No es pot obtenir la informació</string>
@@ -435,8 +436,7 @@ La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seve
   <string name="traffic_correction_start_correction_failed">Ha fallat la sol·licitud, siusplau comproveu els paràmetres de l\'operador</string>
   <string name="traffic_correction_success">Ús de dades actualitzat</string>
   <string name="traffic_limit_error_alert_body">"La comptabilitat de la seva companyia mostra que vostè té %1$s restants aquest mes. Això és més dels %2$s límit que ha configurat manualment."</string>
-  <string name="traffic_limit_error_alert_iknow">D\'acord</string>
-  <string name="traffic_limit_error_alert_reset">Reiniciar límit</string>
+  <string name="traffic_limit_error_alert_package">Dades restants inclouen dades que s\'han passat del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
   <string name="traffic_none">Cap</string>
   <string name="traffic_over_purchase_body">Toqui per veure els detalls.</string>

@@ -231,8 +231,8 @@ El nostre servidor està caigut. Torna-ho a provar més tard…
   <string name="login_reg_content">Emmagatzemi arxius i sincronitzals a múltiples dispositius.</string>
   <string name="login_reg_content0">Utilitzeu KuaiPan des de qualsevol part.</string>
   <string name="make_private">Amagar</string>
-  <string name="make_private_msg_1">Amaga aquest fitxer?</string>
-  <string name="make_private_msg_2">Amaga aquests fitxers?</string>
+  <string name="make_private_msg_1">Amagar aquest fitxer?</string>
+  <string name="make_private_msg_2">Amagar aquests fitxers?</string>
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Netejar</string>

@@ -24,6 +24,7 @@
   <string name="apply_action">Aplicar</string>
   <string name="apply_as_lock_screen">Pant. de bloqueig</string>
   <string name="apply_as_lock_wallpaper_message">Aplicar aquest fons de pantalla també a la pantalla de bloqueig?</string>
+  <string name="apply_as_lockwallpaper_action">Pant. de bloqueig</string>
   <string name="apply_as_wallpaper">Pantalla inicial</string>
   <string name="apply_both">Establir els dos</string>
   <string name="apply_negative_action">No aplicar</string>
