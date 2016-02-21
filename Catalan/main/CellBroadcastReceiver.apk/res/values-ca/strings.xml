@@ -47,7 +47,7 @@
   <string name="cmas_response_none">Cap</string>
   <string name="cmas_response_prepare">Preparar</string>
   <string name="cmas_response_shelter">Refugiar</string>
-  <string name="cmas_severe_alert">Alerta d'emergència: Severa</string>
+  <string name="cmas_severe_alert">"Alerta d'emergència: Severa"</string>
   <string name="cmas_severity_extreme">Extrema</string>
   <string name="cmas_severity_heading">Severitat:</string>
   <string name="cmas_severity_severe">Severa</string>
