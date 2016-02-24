@@ -75,7 +75,7 @@
   <string name="task_begin">En progrés…</string>
   <string name="task_completed">Completat</string>
   <string name="task_done">Completat</string>
-  <string name="task_limit">No queden reptes avui. Fins demà!</string>
+  <string name="task_limit">No queden reptes avui.</string>
   <string name="task_not_completed">No completat</string>
   <string name="task_ongoing">En curs</string>
   <string name="task_score">%d punts</string>

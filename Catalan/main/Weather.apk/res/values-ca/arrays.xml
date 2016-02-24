@@ -1,60 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="moon_desc">
-        <item>Lluna nova</item>
-        <item>Lluna creixent 25%</item>
-        <item>Quart creixent</item>
-        <item>Lluna creixent 75%</item>
-        <item>Lluna plena</item>
-        <item>Lluna minvant 75%</item>
-        <item>Quart minvant</item>
-        <item>Lluna minvant 25%</item>
-        <item>Lluna nova</item>
+  <string-array name="weather_type">
+    <item>Clar</item>
+    <item>Ennuvolat</item>
+    <item>Cobert</item>
+    <item>Boira</item>
+    <item>Tempesta forta</item>
+    <item>Xàfec</item>
+    <item>Tempesta</item>
+    <item>Trons</item>
+    <item>Ruixats</item>
+    <item>Pluja forta</item>
+    <item>Plugim</item>
+    <item>Pluja lleugera</item>
+    <item>Pluja i neu</item>
+    <item>Torb</item>
+    <item>Neu</item>
+    <item>Forta nevada</item>
+    <item>Neu moderada</item>
+    <item>Neu lleugera</item>
+    <item>Forta tempesta de sorra</item>
+    <item>Tempesta de sorra</item>
+    <item>Sorra</item>
+    <item>Vent</item>
+    <item>Calamarsa</item>
+    <item>Pols</item>
+    <item>Boirina</item>
+    <item>Pluja gelada</item>
+	<item></item>
+  </string-array>
+  <string-array name="indices_uv_level">
+    <item>Feble</item>
+    <item>Mitjà</item>
+    <item>Fort</item>
+  </string-array>
+  <string-array name="indices_sport">
+	<item>Adequat</item>
+	<item>Inadequat</item>
+  </string-array>
+  <string-array name="indices_car_wash">
+	<item>Adequat</item>
+	<item>Inadequat</item>
+  </string-array>
+  <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Assolellat</item>
-        <item>Ennuvolat</item>
-        <item>Boirina</item>
-        <item>Boira</item>
-        <item>Tempesta forta</item>
-        <item>Xàfec</item>
-        <item>Tempesta</item>
-        <item>Trons</item>
-        <item>Ruixat</item>
-        <item>Pluja forta</item>
-        <item>Plugim</item>
-        <item>Pluja lleugera</item>
-        <item>Pluja i neu</item>
-        <item>Torb</item>
-        <item>Neu</item>
-        <item>Forta nevada</item>
-        <item>Neu moderada</item>
-        <item>Neu lleugera</item>
-        <item>Forta tempesta de sorra</item>
-        <item>Tempesta de sorra</item>
-        <item>Calima</item>
-        <item>Ventos</item>
-        <item>Calamarsa</item>
-        <item>Pols</item>
-        <item>Boira</item>
-        <item>Pluja gelada</item>
-        <item>Sense dades</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Baix</item>
-        <item>Moderat</item>
-        <item>Alt</item>
-        <item>Molt alt</item>
-        <item>Extrem</item>
-    </string-array>
-    <string-array name="wind_direction">
-        <item>Vent N</item>
-        <item>Vent NE</item>
-        <item>Vent E</item>
-        <item>Vent SE</item>
-        <item>Vent S</item>
-        <item>Vent SO</item>
-        <item>Vent O</item>
-        <item>Vent NO</item>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>

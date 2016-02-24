@@ -494,6 +494,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="livetalk_name">Paquet de recàrrega</string>
   <string name="livetalk_network_confirm">D\'acord</string>
   <string name="livetalk_network_confirm_summary">Els paquets de recàrrega usen 1KB de dades mòbils cada vegada que es connecta una trucada.</string>
+  <string name="livetalk_network_unavailable">Xarxa no disponible</string>
   <string name="livetalk_next_step">Següent</string>
   <string name="livetalk_niece_price_arrow">Aquesta funcionalitat està disponible en 13 països i regions</string>
   <string name="livetalk_niece_price_summary">Mirar tarifes internacionals per a més informació</string>

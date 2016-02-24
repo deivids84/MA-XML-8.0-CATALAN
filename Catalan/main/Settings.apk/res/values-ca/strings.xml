@@ -1445,6 +1445,9 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
   <string name="lockscreen_glogin_checking_password">Comprovant…</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Iniciar la sessió</string>
+  <string name="login_account_dialog_message">Inicia sessió amb el teu compte Mi i encén la sincronització amb Mi Cloud.</string>
+  <string name="login_account_dialog_title">Iniciar la sessió amb compte Mi</string>
+  <string name="login_action">Iniciar la sessió</string>  
   <string name="lte_ram_dump_off">Desactivar bolcat ram LTE</string>
   <string name="lte_ram_dump_on">Activa bolcat ram LTE</string>
   <string name="macaddr_label">Adreça MAC:</string>
@@ -1613,6 +1616,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="music_dirac_mode_general_earbuds">Normals</string>
   <string name="music_dirac_mode_general_inear">In-ear normals</string>
   <string name="music_dirac_mode_in_ear">Mi in-ear</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac desactivat</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -1853,6 +1857,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="print_blocked_state_title_template">Impressora bloquejada %1$s</string>
   <string name="print_cancel">Cancel·la</string>
   <string name="print_cancelling_state_title_template">Cancel·lant %1$s</string>
+  <string name="print_enable">Habilitar impressió</string>
   <string name="print_failed_state_title_template">Error d\'impressora %1$s</string>
   <string name="print_feature_state_off">Apagar</string>
   <string name="print_feature_state_on">Activa</string>
@@ -1868,6 +1873,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="print_print_job">Treball d\'impressió</string>
   <string name="print_print_jobs">Treballs d\'impressió</string>
   <string name="print_printing_state_title_template">Imprimint %1$s</string>
+  <string name="print_remind">Habilitar impressió primer</string>
   <string name="print_restart">Reinicia</string>
   <string name="print_search_box_hidden_utterance">Cercar bústia oculta</string>
   <string name="print_search_box_shown_utterance">Cercar bústia</string>

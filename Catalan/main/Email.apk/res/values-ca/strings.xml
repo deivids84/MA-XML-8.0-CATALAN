@@ -297,7 +297,7 @@
   <string name="device_not_activiey_lint2">Servei de correu no funciona correctament exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">No es poden rebre nous missatges. La sincronització està apagada.</string>
   <string name="dialog_auto_sync_setting_no_open">No es poden rebre nous missatges. La sincronització està apagada.</string>
-  <string name="dialog_change_sync_lookback">"El correu rebut fa %s s 'eliminarà automàticament. Tocar per canviar."</string>
+  <string name="dialog_change_sync_lookback">El correu rebut fa %s s\'eliminarà automàticament. Tocar per canviar.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de descarregar. No hi ha prou espai d\'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">"No hi ha prou espai en l\'emmagatzematge intern."</string>
