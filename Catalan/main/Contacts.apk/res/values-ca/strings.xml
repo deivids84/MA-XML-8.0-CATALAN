@@ -1293,7 +1293,12 @@ Trieu una de les següents opcions: "</string>
   <string name="voicemail_status_configure_voicemail">Configura el teu correu de veu.</string>
   <string name="voicemail_status_messages_waiting">"No es pot connectar al servidor de correu de veu. S\'esperen nous missatges."</string>
   <string name="voicemail_status_voicemail_not_available">"No es pot connectar al servidor de correu de veu."</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_loading_contact">Un moment…</string>
   <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Tocar per utilitzar Mi Voice</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">Pàgina web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Esborra dades</string>

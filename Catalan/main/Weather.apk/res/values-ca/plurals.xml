@@ -13,7 +13,7 @@
         <item quantity="one">fa %d dia</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Cel seré</item>
-        <item quantity="one">Assolellat</item>
+        <item quantity="other">Clar</item>
+        <item quantity="one">Clar</item>
     </plurals>
 </resources>
