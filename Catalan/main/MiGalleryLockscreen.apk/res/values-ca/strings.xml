@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galería pantalla bloqueo</string>
-  <string name="cancel">Salir</string>
-  <string name="change_time">Cambiar intervalo</string>
-  <string name="day">1 día</string>
-  <string name="declaration">"Al usar este producto, aceptas nuestros &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación necesita conectarse a internet para funcionar con normalidad."</string>
-  <string name="declaration_title">Términos de Uso</string>
+  <string name="app_name">Galeria pantalla bloqueig</string>
+  <string name="at_least_one">Selecciona almenys una categoria</string>
+  <string name="cancel">Sortir</string>
+  <string name="change_time">Canvia el període</string>
+  <string name="day">1 dia</string>
+  <string name="declaration">"En utilitzar aquest producte, acceptes els nostres <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acord d\'Usuari</a> i <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacitat</a>. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
+  <string name="declaration_lockscreen_title">Activar pantalles de bloqueig diàries</string>
+  <string name="declaration_title">Condicions d\'ús</string>
   <string name="hour_1">1 hora</string>
-  <string name="hour_3">3 horas</string>
-  <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
-  <string name="lockscreen_magazine_summary">Consigue fondos de pantalla enviados directamente a tu pantalla de bloqueo cada día.</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s fondos de pantalla</string>
-  <string name="lockscreen_magazine_system_title">Defecto</string>
-  <string name="lockscreen_magazine_title">Pantallas de bloqueo diarias</string>
-  <string name="no_long_show">No mostrar de nuevo</string>
-  <string name="ok">Aceptar</string>
+  <string name="hour_3">3 hores</string>
+  <string name="lockscreen_magazine_subscribe">%1$s seguidors</string>
+  <string name="lockscreen_magazine_summary">Aconsegueix fons de pantalla enviats directament a la teva pantalla de bloqueig cada dia.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla </string>
+  <string name="lockscreen_magazine_system_title">Defecte</string>
+  <string name="lockscreen_magazine_title">Pantalles de bloqueig diàries</string>
+  <string name="no_long_show">No mostrar de nou</string>
+  <string name="ok_lockscreen">D\'acord</string>
+  <string name="ok_network">D\'acord i activar pantalles de bloqueig diàries</string>
   <string name="resource_apply">Aplicar</string>
-  <string name="resource_no_network_text">No se puede conectar a la red.</string>
-  <string name="setting_head">Ajustes</string>
-  <string name="theme_apply_failured">No se puede aplicar la pantalla de bloqueo</string>
-  <string name="theme_apply_success">Pantalla de bloqueo aplicada</string>
-  <string name="theme_applying">Aplicando…</string>
-  <string name="wlan_download">Sólo Wi-Fi</string>
+  <string name="resource_no_network_text">No es pot connectar a la xarxa.</string>
+  <string name="setting_head">Configuració</string>
+  <string name="summary">"Accepta el nostre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d\'Usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacitat&lt;/a&gt; per començar. És necessària una connexió a internet.​"</string>
+  <string name="theme_apply_failured">No es pot aplicar la pantalla de bloqueig</string>
+  <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
+  <string name="theme_applying">Aplicant…</string>
+  <string name="wlan_download">Només Wi-Fi</string>
 </resources>

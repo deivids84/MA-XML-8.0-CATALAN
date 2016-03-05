@@ -324,6 +324,7 @@ Activar finestres actives?"</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Nivell de bateria</string>
   <string name="battery_settings">Bateria</string>
+  <string name="battery_light_title">Llum de bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Bateria usada des del reinici</string>
   <string name="battery_since_unplugged">Bateria usada des que es va desendollar</string>
@@ -1090,7 +1091,7 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
   <string name="force_stop">Forçar detenció</string>
   <string name="force_stop_dlg_text">Si força la detenció d\'una aplicació, pot funcionar erròniament.</string>
   <string name="force_stop_dlg_title">Forçar detenció?</string>
-  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
   <string name="forget_wifi_message">El seu telèfon deixarà de connectar-se a aquesta xarxa automàticament.</string>
   <string name="found_new_version">Actualització disponible</string>
   <string name="free_wifi_agreement_remind_never">"No mostrar de nou"</string>
@@ -1535,9 +1536,9 @@ Per eliminar música, fotos i altres dades d\'usuari, el "&lt;b&gt;emmagatzematg
   <string name="menu_new">Nou APN</string>
   <string name="menu_proc_stats_duration">Durada</string>
   <string name="menu_proc_stats_type">Tipus d\'estadístiques</string>
-  <string name="menu_proc_stats_type_background">​​Fons de pantalla</string>
+  <string name="menu_proc_stats_type_background">En segon pla</string>
   <string name="menu_proc_stats_type_cached">En memòria cau</string>
-  <string name="menu_proc_stats_type_foreground">Primer pla</string>
+  <string name="menu_proc_stats_type_foreground">En primer pla</string>
   <string name="menu_restore">Restablir per defecte</string>
   <string name="menu_save">Desa</string>
   <string name="menu_show_system">Mostra sistema</string>
@@ -1909,7 +1910,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="process_service_in_use_description">Servei %1$s s\'està utilitzant.</string>
   <string name="process_stats_avg_ram_use">Ús mitjà de RAM</string>
   <string name="process_stats_max_ram_use">Ús màxim de RAM</string>
-  <string name="process_stats_memory_status">La memòria del dispositiu és actualment de %1$s</string>
+  <string name="process_stats_memory_status">Nivell de memòria del dispositiu actualment: %1$s</string>
   <string name="process_stats_run_time">Temps en execució</string>
   <string name="process_stats_summary">Estadístiques Geeky sobre els processos en execució</string>
   <string name="process_stats_summary_title">Estadístiques de processos</string>

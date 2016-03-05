@@ -21,6 +21,7 @@
   <string name="app_category_tools">Eines</string>
   <string name="app_category_travel">Viatjar</string>
   <string name="application_name">Launcher</string>
+  <string name="apply">Aplicar</string>
   <string name="apply_action">Aplicar</string>
   <string name="apply_as_lock_screen">Pant. de bloqueig</string>
   <string name="apply_as_lock_wallpaper_message">Aplicar aquest fons de pantalla també a la pantalla de bloqueig?</string>
@@ -141,6 +142,8 @@
   <string name="invalid_contact_shortcut">Contacte invàlid</string>
   <string name="is_setting_wallpaper_message">Establint fons de pantalla…</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar recursos del sistema"</string>
+  <string name="like">M\'agrada</string>
+  <string name="liked">Em va agradar</string>
   <string name="loading_desktop">Un moment…</string>
   <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Descarregat</string>
@@ -205,7 +208,9 @@
   <string name="select_frame">Marc</string>
   <string name="select_photo">Foto</string>
   <string name="setting_wallpaper_tip">Pessigui o llisqui per ajustar</string>
+  <string name="settings">Configuració</string>
   <string name="settings_shortcut">Configuració</string>
+  <string name="share">Compartir</string>
   <string name="sharedUserId"/>
   <string name="show_all">Mostrar tot</string>
   <string name="sort_by_abc">Ordenar per nom</string>

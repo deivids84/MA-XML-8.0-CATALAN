@@ -5,6 +5,7 @@
   <string name="activity_title_brightness_image">Sub i sobreexposades</string>
   <string name="activity_title_cache">Memòria cau</string>
   <string name="activity_title_cache_data">Dades d\'aplicació</string>
+  <string name="activity_title_deep_apk">Esborrar APKs</string>
   <string name="activity_title_deep_clean">Neteja profunda</string>
   <string name="activity_title_garbage_cleanup">Netejador</string>
   <string name="activity_title_ignored_image">Ignorades</string>
@@ -20,6 +21,7 @@
   <string name="activity_title_similar_image_group">Eliminar duplicades</string>
   <string name="activity_title_tedious_image">Fotos accidentals</string>
   <string name="activity_title_uninstall_apps">Aplicacions</string>
+  <string name="activity_title_video">Esborrar vídeos</string>
   <string name="activity_title_white_list">Excepcions</string>
   <string name="apk_status_damage">Corrupte</string>
   <string name="apk_status_duplicate">Duplicat</string>
@@ -46,6 +48,8 @@
   <string name="button_text_delete_from_white_list">Treure</string>
   <string name="button_text_delete_pic">Eliminar</string>
   <string name="button_text_deselect_all_photos">Desseleccionar tot</string>
+  <string name="button_text_group_ignore">Ignorar</string>
+  <string name="button_text_group_unlike">No hi ha duplicades</string>
   <string name="button_text_install">Instal·lar</string>
   <string name="button_text_install_now">Instal·lar</string>
   <string name="button_text_keep_one">Mantenir un</string>
@@ -82,6 +86,9 @@
   <string name="confirm_auto_cleaner">D\'acord</string>
   <string name="conn_of_function_safe">Connexió de xarxa per a Seguretat</string>
   <string name="connecting">Connectant…</string>
+  <string name="deepclean_apk_content">Esborrar APKs o aplicacions innecessàries</string>
+  <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a esborrar</string>
+  <string name="deepclean_apk_version_error">Desconegut</string>
   <string name="deepclean_app_content">Desinstal·lar aplicacions que no hagis usat en 30 dies</string>
   <string name="deepclean_app_summary_empty">Tot pinta bé, no hi ha aplicacions a esborrar</string>
   <string name="deepclean_cache_content">Netejar dades generades per aplicacions</string>
@@ -103,13 +110,19 @@
   <string name="deepclean_size_summary_normal">Emmagatzematge disponible</string>
   <string name="deepclean_title_large_file">Eliminar fitxers grans</string>
   <string name="deepclean_title_uninstall_apps">Aplicacions poc usades</string>
+  <string name="deepclean_video_content">Esborrar els vídeos ja vistos o innecessaris</string>
+  <string name="deepclean_video_summary_empty">Tot pinta bé</string>
   <string name="default_cache_type">Fitxers de dades</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Esborrar fotos de Mi Cloud també</string>
+  <string name="dialog_content_delete_image_confirm">Esborrar %d fotos?</string>
+  <string name="dialog_content_select_all_confirm">Voleu desar una còpia d\'aquesta foto?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Fer còpia de seguretat i esborrar les següents aplicacions?</string>
   <string name="dialog_msg_check_all">Confirmar la selecció %1$s que conté %2$d entrades</string>
   <string name="dialog_msg_load_cleanup_engine_error">El motor de neteja s\'ha malmès.</string>
   <string name="dialog_msg_uninstall_apps">Desinstal·lar aquestes aplicacions?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Fer còpia de seguretat i desinstal·lar</string>
   <string name="dialog_title_check_all">Selecciona-ho tot</string>
+  <string name="dialog_title_delete_image">Esborrar imatges seleccionades</string>
   <string name="dialog_title_load_cleanup_engine_error">Quelcom ha fallat</string>
   <string name="dialog_title_uninstall_apps">Desinstal·lar</string>
   <string name="download">Descarregar</string>
@@ -124,7 +137,8 @@
   <string name="empty_title_garbage_white_list">Buit</string>
   <string name="empty_title_installed_apps">Buit</string>
   <string name="empty_title_large_files">Buit</string>
-  <string name="empty_title_residual">No s\'ha trobat arxius residuals</string>
+  <string name="empty_title_residual">No s\'han trobat arxius residuals</string>
+  <string name="empty_title_video">No s\'han trobat vídeos</string>
   <string name="flow_rank_title">Ús de dades</string>
   <string name="garbage_clean_detail">Detalls</string>
   <string name="garbage_cleanup_detail">%1$d vegades, netejat %2$s</string>
@@ -134,6 +148,8 @@
   <string name="grabage_rank_title">Netejat avui</string>
   <string name="harass_detail">Bloquejats %1$d SMS i %2$d trucades</string>
   <string name="header_optimizer">Usant aquesta funció, vostè està d\'acord en %s.</string>
+  <string name="hint_bar_select_image">%d seleccionades</string>
+  <string name="hint_clean_select_similar_image">Esborrant duplicades…</string>
   <string name="hints_ad_header_left">Arxius de publicitat</string>
   <string name="hints_apk_header_left">Paquets</string>
   <string name="hints_apk_version">Versió %s</string>
@@ -158,6 +174,9 @@
   <string name="hints_install_apps_today">Usat avui</string>
   <string name="hints_install_apps_virus">Virus detectat</string>
   <string name="hints_installed_apps_header_left">Aplicacions instal·lades: %d</string>
+  <string name="hints_installed_app_fewer">Poc usada</string>
+  <string name="hints_installed_app_near">Usada recentment</string>
+  <string name="hints_installed_app_never">Mai usada</string>  
   <string name="hints_large_file_header_left">Arxius grans: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Ultima neteja: %d dies enrere</string>
   <string name="hints_latest_garbage_cleanup_never">Mai es va netejar</string>
@@ -185,6 +204,8 @@
   <string name="hints_storage_free_size">Total: %1$s, disponible: %2$s</string>
   <string name="hints_storage_news">Novetats de seguretat</string>
   <string name="hints_title_garbage">paperera</string>
+  <string name="hints_video_camera">Vídeos gravats</string>
+  <string name="hints_video_download">Vídeos descarregats</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
   <string name="installed">Instal·lat</string>
@@ -288,7 +309,8 @@
   <string name="sponsored">Esponsoritzat</string>
   <string name="start_install">Instal·lar ara</string>
   <string name="summary_auto_cleaner">Netejar el seu sistema automàticament cada 3 dies?</string>
-  <string name="summary_delete_cache">Totes les dades d\'aquesta aplicació s\'esborraran permanentment (incloent tots els fitxers, ajustos i comptes).</string>
+  <string name="summary_delete_apk">Esborrar les APKs seleccionades permanentment?</string>
+  <string name="summary_delete_cache">Esborrar memòria cau de les aplicacions seleccionades?</string>
   <string name="summary_delete_large_file">Alguns arxius grans poden ser útils quan no tens una connexió a internet (per. ex. mapes, horaris, etc.). Assegura\'t que no necessites aquest fitxer. </string>
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile\'s i requereix la identitat del seu dispositiu."</string>
   <string name="text_optimizer">Pujar noms de carpeta</string>
@@ -307,6 +329,7 @@
   <string name="title_auto_cleaner">Netejar automàticament?</string>
   <string name="title_delete_cache">Esborrar dades en memòria cau?</string>
   <string name="title_delete_clipboard">Continguts del portapapers</string>
+  <string name="title_delete_deepclean">Esborrar</string>
   <string name="title_delete_large_file">Eliminar aquest fitxer?</string>
   <string name="title_of_auto_launch_manage">Inici automàtic</string>
   <string name="title_of_cloud_service">Serveis en el núvol</string>
@@ -324,8 +347,10 @@
   <string name="toast_backup_uninstall_failed">No s\'ha pogut fer còpia de seguretat de %d aplicacions. Espereu un moment i torneu a provar.</string>
   <string name="toast_backup_uninstall_failed2">"No es pot fer còpia de seguretat"</string>
   <string name="toast_backup_uninstall_success">Còpies de seguretat i desinstal·lació completes</string>
+  <string name="toast_delete_select_image_succeed">Esborrada</string>
   <string name="toast_garbage_cleanup_success">Neteja correcta</string>
   <string name="toast_garbage_list_empty">Tot correcte, no necessita fer neteja!</string>
+  <string name="toast_must_select_before_restore">Escollir fotos a restaurar</string>
   <string name="toast_network_eror">No es pot connectar a la xarxa</string>
   <string name="toast_network_switch">Aquesta aplicació es pot connectar a internet</string>
   <string name="toast_removed_from_white_list">" tret de les excepcions"</string>

@@ -208,6 +208,8 @@
   <string name="subbt_wait">Esperant…</string>
   <string name="task_detail">Tasques</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>
+  <string name="third_web_cancel">Cancel·lar</string>
+  <string name="third_web_confirm">D\'acord</string>
   <string name="third_web_filesize">Mida</string>
   <string name="third_web_savepath">Ubicació</string>
   <string name="third_web_title">Descarregar</string>
@@ -228,6 +230,8 @@
   <string name="vip_expire_today_show_info">El compte Xunlei membership ha expirat.</string>
   <string name="vip_show_info">"5 milions de membres.
  Accelera les descàrregues a tots els teus dispositius."</string>
+  <string name="web_dialog_cancel">Cancel·lar</string>
+  <string name="web_dialog_confirm">D\'acord</string>
   <string name="xiaomi_account_not_exist_message">Aquest compte Mi no existeix</string>
   <string name="xunlei_account_has_unbind_message">Compte Xunlei treta</string>
   <string name="xunlei_brand">Desenvolupat per Xunlei</string>

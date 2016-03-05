@@ -105,7 +105,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="find_device_status_ok">Trobi el seu dispositiu des de qualsevol lloc a i.mi.com</string>
   <string name="find_device_status_ok_international">Trobi el seu dispositiu des de qualsevol lloc a www.mi.com/micloud</string>
   <string name="find_device_success_title">Trobar dispositiu</string>
-  <string name="forget_password">&lt;u&gt;Ha oblidat&amp; la contrasenya&amp;&lt;/u&gt;</string>
+  <string name="forget_password"><u>He oblidat la contrasenya</u></string>
   <string name="free_space_has_received">Ja ha rebut espai Gratis aquest mes</string>
   <string name="free_space_receive_fail">"No es pot actualitzar o ja ha estat actualitzat"</string>
   <string name="get_first_month_gb">Obtenir %s espai gratis per primera vegada</string>
@@ -213,7 +213,7 @@ Quan el seu núvol estigui ple, les seves dades antigues no aniran enlloc. No ob
 
 Per solucionar això, pot netejar alguns arxius antics per deixar espai a nous o adquirir espai d\'emmagatzematge addicional."</string>
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple…</string>
-  <string name="micloud_main_battery_low">No hi ha prou bateria per sincronitzar</string>
+  <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
   <string name="micloud_main_battery_message">"Connecta el dispositiu a una font d\'energia per a sincronitzar
 %d elements"</string>
   <string name="micloud_main_clear_now">Netejar</string>
@@ -250,8 +250,16 @@ Toca el botó de configuració de sincronització per veure més opcions"</strin
   <string name="micloud_main_update_space">actualitzi la mida d\'emmagatzematge</string>
   <string name="micloud_main_wlan_sync_data_count">%d dades es sincronitzaran per Wi-Fi</string>
   <string name="micloud_more">Saber més</string>
+  <string name="micloud_notif_content_battery_low">Bateria massa baixa.</string>
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
-  <string name="micloud_notif_title_depend_wifi">%d esperant per sicronizarse</string>
+  <string name="micloud_notif_content_master_depend_wifi">Connectar a Wi-Fi primer.</string>
+  <string name="micloud_notif_content_memory_low">No hi ha prou espai.</string>
+  <string name="micloud_notif_content_sync_with_off">Tocar per sincronitzar ara.</string>
+  <string name="micloud_notif_title_battery_low">No es pot sincronitzar amb Mi Cloud</string>
+  <string name="micloud_notif_title_depend_wifi">%d esperant per sicronitzarse</string>
+  <string name="micloud_notif_title_master_depend_wifi">No es pot sincronitzar amb Mi Cloud</string>
+  <string name="micloud_notif_title_memory_low">No es pot sincronitzar amb Mi Cloud</string>
+  <string name="micloud_notif_title_sync_with_off">Sincronitzar amb Mi Cloud</string>
   <string name="micloud_other_product_price">Preu d\'altres productes similars:</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">i compartir coses amb amics.</string>

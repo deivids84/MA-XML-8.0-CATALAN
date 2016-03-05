@@ -122,6 +122,7 @@
   <string name="cmcc_app_check_dialog_negative">Més tard</string>
   <string name="cmcc_app_check_dialog_positive">Reinicia ara</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparat</string>
+  <string name="confirm_reject_all_permission">Restringir aquest permís a totes les aplicacions?</string>
   <string name="cta_button_text_agree">D\'acord</string>
   <string name="cta_button_text_cancel">Cancel·la</string>
   <string name="cta_checkbox_title">"No mostrar de nou"</string>
@@ -490,6 +491,7 @@
   <string name="protection_category_dangerous_title">Riscos (%d)</string>
   <string name="protection_category_recommend_title">Canvis recomanats (%d)</string>
   <string name="protection_category_security_title">Net (%d)</string>
+  <string name="reject_all">Restringir tot</string>
   <string name="risk_list_header_title">%d aplicacions sospitoses detectades</string>
   <string name="root_apply_step_1">Concedir accés root a %s?</string>
   <string name="root_apply_step_2">Concedir accés root a les aplicacions podria causar que el dispositiu es tornés inestable.</string>
