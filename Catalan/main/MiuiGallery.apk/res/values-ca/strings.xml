@@ -1129,7 +1129,7 @@
   <string name="try_to_send">Enviar</string>
   <string name="ubifocus_data_missing">Falten algunes de les dades per a aquesta imatge</string>
   <string name="ubifocus_guide_text">Toqui i mantingui per reenfocar</string>
-  <string name="ubifocus_map_error">Algunes de les dades d'aquesta imatge conté errors</string>
+  <string name="ubifocus_map_error">"Algunes de les dades d'aquesta imatge conté errors"</string>
   <string name="ubifocus_refocus_data_missing">"No es pot reenfocar perquè falten algunes de les dades d'aquesta imatge"</string>
   <string name="ubifocus_refocus_download_tip">"Has de descarregar les dades d'aquesta imatge abans de reenfocarla."</string>
   <string name="ubifocus_refocus_map_error">"No es pot reenfocar perquè algunes de les dades d'aquesta imatge contenen errors"</string>
