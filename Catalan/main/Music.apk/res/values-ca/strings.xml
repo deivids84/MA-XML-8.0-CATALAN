@@ -73,6 +73,7 @@
   <string name="create_playlist">Crear llista de reproducció</string>
   <string name="create_playlist_failure">No s\'ha pogut crear la llista de reproducció </string>
   <string name="current_services">Actual</string>
+  <string name="current_version">Versió actual</string>
   <string name="data_usage_warning">Ús de dades</string>
   <string name="data_usage_warning_summary">Utilitza la connexió de dades mòbils per escoltar música en streaming en alta qualitat pot augmentar els càrrecs per ús de dades.</string>
   <string name="delete">Esborrar</string>
@@ -314,10 +315,18 @@
   <string name="no_song_downloaded">"No s\'ha pogut connectar al servidor"</string>
   <string name="normal_quality">Bona</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
+  <string name="not_now">No ara</string>
   <string name="not_selected">Triar una cançó</string>
+  <string name="notification_des_next_song">Següent: %s</string>
+  <string name="notification_des_no_song">Mi Music. Novetats cada dia.</string>
+  <string name="notification_headset_custom">Descartar</string>
+  <string name="notification_headset_info">Prem per configurar.</string>
+  <string name="notification_headset_settings">Auriculars connectats</string>
+  <string name="notification_title_no_song">"Mira el que escolta la gent!"</string>
   <string name="nowplaying_menu_item_delete">Esborrar</string>
   <string name="ok">D\'acord</string>
   <string name="one_month">1 mes</string>
+  <string name="online_list_delete_message">"Totes les cançons descarregades d'aquesta llista de reproducció seran esborrades de la memòria interna"</string>
   <string name="online_music_enabled_subtitle">Clica aquí per fer streaming de les teves cançons favorites.</string>
   <string name="online_music_enabled_summary">Escolta i descarrega les teves cançons favorites. Consulta les millors cançons i llistes de reproducció recomanades siguis on siguis!</string>
   <string name="online_music_enabled_title">El streaming gratuït está aquí</string>
