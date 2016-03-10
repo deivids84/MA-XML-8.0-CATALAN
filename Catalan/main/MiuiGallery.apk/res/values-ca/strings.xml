@@ -837,14 +837,13 @@
   <string name="menu_item_sort_size_desc">Mida (descendent)</string>
   <string name="menu_view_contact">Veure contacte</string>
   <string name="merge_album">Fusionar</string>
-  <string name="merge_album_positive_button_text">Fusionar</string>
   <string name="merge_album_title">Fusionar àlbums</string>
   <string name="message_no_delete_access">"No té permís per eliminar %s"</string>
   <string name="messagelist_sender_self">Jo</string>
   <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk gargots</string>
-  <string name="miliao_saved_folder_display_name">MiTalk guardat</string>
+  <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">Tipus MIME</string>
   <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">MiStore guardat</string>
@@ -857,6 +856,7 @@
   <string name="moman_camera_picture">Fotos Moman Camera</string>
   <string name="more">Més</string>
   <string name="more_face_album_name">Més gent</string>
+  <string name="mosaic">Mosaic</string>
   <string name="move">Mou</string>
   <string name="move_to_cloud_album">Mou a</string>
   <string name="mtgif">MTGIF</string>
@@ -869,7 +869,9 @@
   <string name="need_to_turn_on_wlan">Connectar a Wi-Fi primer</string>
   <string name="negative">Negatiu</string>
   <string name="netease_newsreader_netease_down_pic">Lector de notícies NetEase</string>
-  <string name="new_device_tips">Premi per veure el dispositiu</string>
+  <string name="network_connected_rescan">No es pot connectar a la xarxa</string>
+  <string name="new_device_tips">"Premi per veure el 
+  dispositiu"</string>
   <string name="no">no</string>
   <string name="no_albums_alert">No hi ha àlbums disponibles</string>
   <string name="no_connectivity">"Algunes llocs no van poder ser identificats a causa de problemes de xarxa"</string>
@@ -877,6 +879,7 @@
   <string name="no_map_app">No s\'ha trobat una aplicació per a gestionar aquesta acció</string>
   <string name="no_network_connected">Cap xarxa detectada</string>
   <string name="no_picture_or_video">Buit</string>
+  <string name="no_secret_photo">No hi ha cap foto oculta</string>
   <string name="no_storage_disable_cloud_albums">El Núvol no està disponible.</string>
   <string name="no_such_album">Àlbum no trobat</string>
   <string name="no_such_item">"No s'ha pogut trobar el element"</string>
@@ -921,6 +924,7 @@
   <string name="original_scale">Escala original</string>
   <string name="other_category">Configuració addicional</string>
   <string name="owner_album_subtitle">Compartit amb %1$s persones</string>
+  <string name="paint_brush">Raspall de pintura</string>
   <string name="paint_cancel_context">Descartar els canvis realitzats a aquesta imatge?</string>
   <string name="paint_cancel_title">Descartar els canvis</string>
   <string name="paint_crop_cancel_context">Voleu desar la retallada resultant?</string>
@@ -928,6 +932,7 @@
   <string name="paint_crop_tips">Per obtenir una millor imatge, si us plau, tracti de col·locar les parts interessants en els punts de la malla redimensionant i movent.</string>
   <string name="paint_highlight">Pinta</string>
   <string name="paint_highlight_cancel_context">Desar la imatge pintada?</string>
+  <string name="paint_highlight_cancel_title">Abandonar canvis</string>
   <string name="path">Ruta d\'accés</string>
   <string name="people">Gent</string>
   <string name="pet_album_display_name">Fotos de mascotes</string>
@@ -938,7 +943,6 @@
   <string name="photo_page_save_image">Desar</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a Càmera"</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada a Càmera de fotos</string>
-  <string name="photo_paint_crop">Retalla</string>
   <string name="photo_save_succeed">Desat amb èxit</string>
   <string name="photo_size">Mida</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
@@ -949,6 +953,9 @@
   <string name="picker_no_album_selected">Cap àlbum seleccionat</string>
   <string name="picker_no_items_selected">Cap article seleccionat</string>
   <string name="picker_select_album_title_empty">Seleccioneu un àlbum</string>
+  <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
+  <string name="picker_tab_face">@string/home_page_tab_face</string>
+  <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Foto</string>
   <string name="pocket_camera_picture">Fotos Pocket Camera</string>
   <string name="pocket_camera_video">Vídeos Pocket Camera</string>
@@ -965,11 +972,15 @@
   <string name="publish_failed">"No s'ha pogut publicar"</string>
   <string name="publish_succeeded">Àlbum publicat</string>
   <string name="publishing">Publicant…</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Reconeixent imatge…</string>
+  <string name="recommanded_face_abandon_tip">Esborrat de suggeriments</string>
+  <string name="recommanded_face_added_tip">Afegit a \"%s\"</string>
   <string name="redeye">Ull vermell</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Toqui per eliminar els ulls vermells</string>
@@ -987,6 +998,7 @@
   <string name="remove_from_secret_unfinished_message_with_count">%1$s eelements no han estat esborrats de l\'àlbum ocult</string>
   <string name="remove_hidden_album">Mostrar l\'àlbum</string>
   <string name="remove_recent_album">Eliminar de favorits</string>
+  <string name="rename_event">Canviar el nom d\'esdeveniment</string>
   <string name="rename_face_album">Canviar nom</string>
   <string name="rename_fail_msg">"No es pot canviar nom"</string>
   <string name="rename_failed">"No s'ha pogut reanomear"</string>
@@ -998,6 +1010,7 @@
   <string name="request_sms_url_title">Pista</string>
   <string name="retry_to_create_album">Reintentar</string>
   <string name="retry_to_request_qr_code">Reintentar</string>
+  <string name="return_to_top">Touch \"Photo\" to return to top</string>
   <string name="rise">Càlid</string>
   <string name="rotate">Rota</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
@@ -1006,6 +1019,7 @@
   <string name="same_name_album_exists_alert">Ja hi ha un àlbum amb el mateix nom del que intenta compartir, està segur de voler pujar automàticament les fotos a aquest àlbum?</string>
   <string name="saturation">Saturació</string>
   <string name="saturation_abbr">S</string>
+  <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Desar</string>
   <string name="save_error">"No s'ha pogut desar la imatge retallada"</string>
   <string name="save_photo">Voleu desar la foto editada?</string>
@@ -1017,6 +1031,7 @@
   <string name="scan_qr_code_failure">"No s'ha pogut escanejar"</string>
   <string name="screensaver_activate_mode">Protector de pantalla durant mode sleep</string>
   <string name="screensaver_activate_only_charging">Només mentre s\'estigui carregant</string>
+  <string name="script">Script</string>
   <string name="sd_not_available">"No s'ha pogut accedir a la targeta SD."</string>
   <string name="sdcard_root">Directori arrel de la targeta SD</string>
   <string name="secret_album_display_name">Àlbum ocult</string>
@@ -1034,8 +1049,14 @@
   <string name="sepia">Sèpia</string>
   <string name="set_as_baby_lock_wallpaper">Utilitzar com a fons de pantalla de bloqueig</string>
   <string name="set_baby_icon_picker_default_title">Establir icona de nadó</string>
+  <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
+  <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
   <string name="set_bg_file_exist_message">Aquest element ja existeix</string>
+  <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
+  <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
+  <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
   <string name="set_bg_picker_default_title">Establir miniatura superior</string>
+  <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
   <string name="set_bg_unknow_reasons">Error desconegut</string>
   <string name="set_hidden_album">Àlbum ocult</string>
   <string name="set_label_all_albums">Tot</string>
@@ -1060,6 +1081,7 @@
   <string name="share_by_email_successfully">Compartida %1$s</string>
   <string name="share_current_album">Compartir àlbum actual</string>
   <string name="share_public_url_text">"He compartit l'àlbum %1$s amb tu. Pots veure-ho a %2$s"</string>
+  <string name="share_title_more">Més</string>
   <string name="sharer_quota_fulfiled">"Ja has compartit aquest àlbum amb el nombre màxim de persones"</string>
   <string name="sharpen">Esmolar</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -1127,12 +1149,12 @@
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">"No pot afegir més de %2$s destinataris (Actualment ha agregat %1$s)."</string>
   <string name="try_to_send">Enviar</string>
+  <string name="ubifocus_data_invalid">Algunes de les dades d\'aquesta imatge no són vàlides</string>
   <string name="ubifocus_data_missing">Falten algunes de les dades per a aquesta imatge</string>
   <string name="ubifocus_guide_text">Toqui i mantingui per reenfocar</string>
-  <string name="ubifocus_map_error">"Algunes de les dades d'aquesta imatge conté errors"</string>
-  <string name="ubifocus_refocus_data_missing">"No es pot reenfocar perquè falten algunes de les dades d'aquesta imatge"</string>
+  <string name="ubifocus_refocus_data_invalid">"No es pot reenfocar a causa que algunes de les dades d'aquesta imatge no són vàlides"</string>
   <string name="ubifocus_refocus_download_tip">"Has de descarregar les dades d'aquesta imatge abans de reenfocarla."</string>
-  <string name="ubifocus_refocus_map_error">"No es pot reenfocar perquè algunes de les dades d'aquesta imatge contenen errors"</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"No s'ha pogut anul·lar la publicació"</string>
@@ -1154,8 +1176,13 @@
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
   <string name="wallpaper">Fons de pantalla d\'inici</string>
+  <string name="wandoujia">SnapPea</string>
   <string name="warn">Advertencia</string>
+  <string name="wechat">WeChat</string>
+  <string name="wechat_timeline_title">WeChat timeline</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
+  <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="white_balance">Balanç de blancs</string>
   <string name="who_is_this">Qui?</string>
@@ -1164,7 +1191,9 @@
   <string name="widget_type_photo">Trieu una imatge</string>
   <string name="widget_type_shuffle">Barrejar totes les imatges</string>
   <string name="width">Ample</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Directori</string>
   <string name="yes">Sí</string>
+  <string name="you_are"/>
   <string name="yunyi_pocket_camera">Sports Camera</string>
 </resources>
