@@ -4,7 +4,7 @@
   <string name="confirm_pin_msg">Introduïu el PIN de nou</string>
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Eliminar</string>
-  <string name="emergency_call_string">Emergències</string>
+  <string name="emergency_call_string">Trucada d\'emergència</string>
   <string name="experimental_try_string">Provar</string>
   <string name="experimental_validate">Validar</string>
   <string name="experimental_validate_fail">"No s\'ha pogut iniciar sessió"</string>

@@ -13,6 +13,12 @@
   <string name="activate_feature_mx_and_voip">Mi Message i Veu</string>
   <string name="activate_feature_register_xiaomi_account">Configuració de compte Mi</string>
   <string name="activate_feature_verify_mx_token">Verificació de compte Mi</string>
+  <string name="activate_history_cancelled">Cancel·lat</string>
+  <string name="activate_history_multisim_overview">"L'activació de la targeta SIM %3$d %1$s. És provocada per la característica \"%2$s\"."</string>
+  <string name="activate_history_overview">"L'activació de la targeta SIM %1$s. És provocada per la característica \"%2$s\"."</string>
+  <string name="activate_history_sms">"Un SMS s'ha enviat durant l'activació."</string>
+  <string name="activate_history_success">èxit</string>
+  <string name="activate_history_title">Activació de targeta SIM</string>
   <string name="activate_phone_cancel_notif_title">Activació de targeta SIM cancel·lada</string>
   <string name="activate_phone_cancel_notif_title_msim">Activació de targeta SIM %s cancel·lada</string>
   <string name="activate_phone_failed_notif_title">Error en l\'activació del servei Mi Cloud</string>
