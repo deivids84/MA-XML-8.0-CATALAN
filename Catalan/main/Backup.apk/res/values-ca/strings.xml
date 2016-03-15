@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abort_backup_confirm">La còpia de seguretat no ha acabat. Parar de totes maneres?"</string>
   <string name="account_contact_backup_info">Dades de compte Google, Mi i contactes</string>
   <string name="account_login">Iniciar la sessió</string>
   <string name="account_summary">Còpia de seguretat de compte Google, Mi i altres dades d\'usuari</string>
   <string name="already_enable_encrypt">Xifratge activat</string>
   <string name="app_name">Còpia de seguretat</string>
+  <string name="apps_and_data_item_desc">Aplicacions i dades</string>
   <string name="auto_backup">Còpia de seguretat automàtica</string>
   <string name="auto_backup_all_user_apps">Totes les aplicacions</string>
   <string name="auto_backup_choose">Elements de la còpia de seguretat</string>
@@ -32,6 +34,7 @@
   <string name="backup_finished">Còpia de seguretat completada</string>
   <string name="backup_hint">No apaguis el dispositiu</string>
   <string name="backup_hint_onpad">No apaguis el dispositiu</string>
+  <string name="backup_is_running">Fent còpia de seguretat del dispositiu</string>
   <string name="backup_items_app_tailer">" fitxers de dades d\'aplicació"</string>
   <string name="backup_items_sysdata_tailer">" fitxers de dades de sistema,"</string>
   <string name="backup_new">Nou:</string>
@@ -46,7 +49,9 @@
   <string name="button_next">Següent</string>
   <string name="button_ok">D\'acord</string>
   <string name="button_return">Enrere</string>
+  <string name="button_send">Enviar</string>
   <string name="call_title">Registres de trucades</string>
+  <string name="camera_summary">Configuració de la càmera (sense incloure fotos)</string>
   <string name="cancel">Cancel·lar</string>
   <string name="cancel_backup">Aturar</string>
   <string name="cancel_restore">Aturar</string>
@@ -70,14 +75,17 @@
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Telèfon</string>
   <string name="current_sim">Actual targeta SIM</string>
-  <string name="data_no_enough_space">No hi ha espai suficient</string>
+  <string name="custom_progress">%d elements</string>
+  <string name="data_item_desc">Dades</string>
   <string name="data_no_enough_space_message">"No hi ha prou espai a la memòria interna del telèfon."</string>
+  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="delete">Eliminar</string>
   <string name="delete_backup_process">Eliminant…</string>
   <string name="delete_backup_title">Eliminar còpia de seguretat</string>
   <string name="delete_failed_backup_confirm">"Aquesta còpia de seguretat no es pot utilitzar per restaurar les seves dades perquè conté errors."</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
-  <string name="dir_date_format">ddMMaaaa_HHmmss</string>
+  <string name="digit_percent">%</string>
+  <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_title">Desactivar el xifrat</string>
   <string name="enable_encrypt">Activar</string>
   <string name="enable_encrypt_fail">Error de xifrat</string>
@@ -99,6 +107,7 @@
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canviar de compte</string>
   <string name="fail">Va fallar</string>
+  <string name="feature_title_account">Compte</string>
   <string name="feature_title_call_log">Registre de trucades</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Pujant…</string>
@@ -119,18 +128,30 @@
   <string name="local_no_backup">No hi ha còpies de seguretat locals</string>
   <string name="local_restore_window_title">Restauració local</string>
   <string name="local_select_account_contact">Comptes i contactes</string>
+  <string name="local_select_audio">Àudios</string>
+  <string name="local_select_doc">Documents</string>
   <string name="local_select_files">Targeta SD</string>
+  <string name="local_select_image">Imatges</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicacions</string>
+  <string name="local_select_video">Vídeos</string>
   <string name="miliao_account_guide">"Crear un compte Mi per gaudir de tots els serveis en línia de Xiaomi"</string>
   <string name="miliao_account_login">Iniciar sessió amb MiTalk</string>
   <string name="mms_title">Missatges multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
   <string name="never">Mai</string>
+  <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
   <string name="no_network">"No es pot connectar a la xarxa"</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">"No s'ha trobat res"</string>
+  <string name="notif_backup_complete_title">Copiat correctament</string>
+  <string name="notif_backup_content">"Còpia de seguretat de dades d'usuari"</string>
+  <string name="notif_backup_title">Còpia de seguretat de dades</string>
+  <string name="notif_restore_complete_title">Restaurat correctament</string>
+  <string name="notif_restore_content">"Restaurant dades d'usuari"</string>
+  <string name="notif_restore_title">Restaura dades</string>
+  <string name="page_loading">Un moment…</string>
   <string name="progress_backup_hint">Fent còpia de seguretat…</string>
   <string name="progress_restore_hint">Restaurant…</string>
   <string name="prompt_reading">Llegint…</string>
@@ -140,6 +161,7 @@
   <string name="refresh">Actualitzar</string>
   <string name="remote_receive">Rebre</string>
   <string name="restore">Restaurar</string>
+  <string name="restore_backup">Restaurar</string>
   <string name="restore_contact">Restaurar contactes</string>
   <string name="restore_contact_content">La restauració pot crear contactes duplicats.</string>
   <string name="restore_contacts_hit">Necessita identificar-se per visualitzar les dades restaurades.</string>
@@ -147,12 +169,14 @@
   <string name="restore_data">Restaurar dades</string>
   <string name="restore_failed">Restauració fallida</string>
   <string name="restore_finished">Restauració completada</string>
+  <string name="restore_is_running">Restaurant dispositiu</string>
   <string name="restore_launcher_layout_hit">Restaurar la configuració del launcher</string>
   <string name="restore_progress">Restaurant…</string>
   <string name="restore_report">Informe de la restauració</string>
   <string name="restore_telephony_hit">La restauració reiniciarà les aplicacions del telèfon</string>
   <string name="retry">Reintentar</string>
   <string name="reverse_all">Esborra-ho tot</string>
+  <string name="router_backup_hint">Manteniu el dispositiu encès</string>
   <string name="sc_bad_request">Sol·licitud errònia</string>
   <string name="sc_internal_server_error">Error intern del servidor</string>
   <string name="sc_network_unavailable">Error de connexió a la xarxa</string>
@@ -162,21 +186,36 @@
   <string name="sc_service_unavailable">Mi Cloud no accessible</string>
   <string name="sc_unaccess_password_file">"No guardar la contrasenya Wi-Fi"</string>
   <string name="sc_unauthorized">Si us plau identifiqueu-vos de nou</string>
-  <string name="sd_not_available">TTargeta SD no detectada</string>
+  <string name="sd_not_available">Targeta SD no detectada</string>
   <string name="sdcard_no_enough_space">No hi ha prou espai</string>
   <string name="sdcard_no_enough_space_message">"No hi ha prou espai a la targeta SD del telèfon."</string>
   <string name="sdcard_unmounted">Targeta SD no detectada</string>
+  <string name="see_backup_files_on_router">Veure còpies de seguretat a Mi Router %s</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_backup_item">Triar elements</string>
+  <string name="select_storage_location">Selecciona ubicació de còpia de seguretat</string>
   <string name="service_stoped">Servei detingut</string>
   <string name="settings_summary">: configuració del telèfon i missatgeria</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
+  <string name="st_antispam_mode_blacklist_state">11112121</string>
+  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
+  <string name="st_antispam_mode_only_contacts_state">11110000</string>
+  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Còpia de seguretat</string>
   <string name="start_restore">Restaurar</string>
   <string name="state_mounting">Accedint a l\'emmagatzematge del router…</string>
   <string name="state_waiting">Un moment…</string>
   <string name="succeed">Completa</string>
+  <string name="summary_err_backup_encrypting">Inicia una sessió al seu compte MI.</string>
+  <string name="summary_err_backup_no_network">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="summary_err_restore_encrypting">"No s'ha pogut restaurar. Assegureu-vos que aquesta còpia de seguretat es va fer utilitzant el seu compte Mi"</string>
+  <string name="summary_err_restore_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="system_backup">Còpia de seguretat</string>
   <string name="system_backup_info">Configuració del sistema i disposició de la pantalla d\'inici</string>
   <string name="task_backup_cancel_progress">Cancel·lant la còpia de seguretat…</string>
@@ -209,8 +248,13 @@
   <string name="total_num">%d total</string>
   <string name="trans_backingup">Copiant…</string>
   <string name="trans_backingup_no_items">Sincronitzant…</string>
+  <string name="trans_calculating">Calculant...</string>
+  <string name="trans_calculating_app_sd_size">Calculant mida de les dades a enviar, %s escanejat</string>
+  <string name="trans_calculating_base_size">"Calculant mida de la base d'aplicacions"</string>
   <string name="trans_cancel_confirm">Transferència en progrés, cancel·lar ara?</string>
   <string name="trans_cancelling">Cancel·lant</string>
+  <string name="trans_connect_failed_message">"Error de connexió, si us plau torni a intentar o reiniciar el sistema. I en un altre dispositiu, si us plau vagi a Configuració &gt; Configuració addicional &gt; Transferència, Toqui [Sóc un emissor], o rellançar Transferència després de reiniciar"</string>
+  <string name="trans_connect_failed_title">Error de connexió</string>
   <string name="trans_connect_failed_toast">No s\'ha pogut connectar</string>
   <string name="trans_connecting_toast">Connectant…</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
@@ -221,30 +265,42 @@
   <string name="trans_generate_qr_code_failed">No s\'ha pogut crear el codi QR</string>
   <string name="trans_main_tutor">Transferència de contactes, registre de trucades, missatges, disposició de la pantalla d\'inici, aplicacions, ajustaments, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
+  <string name="trans_native_no_space">"Aquest dispositiu no té espai suficient
+Si us plau, netejar com a mínim %s"</string>
   <string name="trans_one_key_migrate">Transferència</string>
+  <string name="trans_operate_func_one">Mètode A</string>
+  <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Escaneja el codi QR utilitzant el nou dispositiu
 Vés a Configuració &gt; Configuració addicional &gt; Transferència
 Toca [Soy un receptor] para crear el código QR"</string>
-  <string name="trans_operate_old_phone_tips1">"Mètode A
-1. Instal·la l\'aplicació de transferència en el teu vell dispositiu
+  <string name="trans_operate_old_phone_tips1">"1. Instal·la l\'aplicació de transferència en el teu vell dispositiu
 2. Obre l\'aplicació i selecciona [Sóc un emissor]
 3. Escaneja el codi QR amb el teu vell dispositiu"</string>
-  <string name="trans_operate_old_phone_tips2">"Mètode B
-Vés a Configuració &gt; Configuració addicional &gt; Transferència
-Toca [Sóc un emissor]"</string>
-  <string name="trans_progress_subdescript_br_receiver">Rebent %s</string>
-  <string name="trans_progress_subdescript_br_sender">Copiant %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Rebent %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Enviant %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Rebent fitxers…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Enviant fitxers…</string>
+  <string name="trans_operate_old_phone_tips2">"Vés a Configuració &gt; Configuració addicional &gt; Transferència, Toca [Sóc un emissor]"</string>
+   <string name="trans_please_waiting">Si us plau, esperi ...</string>
+  <string name="trans_progress_subdescript_br_receiver">Restaurant %s, %2$s completat</string>
+  <string name="trans_progress_subdescript_br_sender">Copiant %s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transing_receiver">Rebent %s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transing_sender">Enviant %s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Rebent fitxers, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Enviant fitxers, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Rebent dades de targeta SD %1$s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Enviant dades de targeta SD %1$s, %2$s completetat</string>
   <string name="trans_progress_subdescript_waiting">Esperant a rebre %s</string>
   <string name="trans_receiver">Sóc un receptor</string>
+  <string name="trans_receiver_time_remained">"%s restant.
+No apagueu WiFi Hotspot. Mantenir els dispositius propers l'un a l'altre."</string>
   <string name="trans_receiving_completed">Dades rebudes</string>
   <string name="trans_restoring">Restablint…</string>
   <string name="trans_restoring_no_items">Sincronitzant elements</string>
+  <string name="trans_retry">Reintentar</string>
   <string name="trans_scan_invalid_qrcode">Codi QR invàlid</string>
   <string name="trans_scan_qr_code_tips">Escaneja el codi QR utilitzant el nou dispositiu</string>
+  <string name="trans_select_data">Seleccionar elements per enviar</string>
+  <string name="trans_select_data_no_space">"%s disponible al nou dispositiu
+Seleccioneu els arxius de nou o fer més espai"</string>
+  <string name="trans_select_data_tips">"Seleccioneu arxius per a transferir
+Arxius similars en el nou dispositiu es sobreescriuran"</string>
   <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre dades.</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir dades.</string>
   <string name="trans_sender">Sóc un emissor</string>
@@ -252,10 +308,18 @@ Toca [Sóc un emissor]"</string>
   <string name="trans_sender_searching">Buscant nous dispositius</string>
   <string name="trans_sender_searching_ensurance">"Assegura't que el vell dispositiu
 està encès perquè el nou dispositiu es connecti…"</string>
+<string name="trans_sender_time_remained">"%s restant.
+No apagueu WIFI. Mantenir els dispositius propers l'un a l'altre."</string>
   <string name="trans_sending_completed">Dades enviades</string>
+  <string name="trans_show_qr_code_label">Connectar dispositiu antic</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR usant el vell dispositiu</string>
+  <string name="trans_start_failed_message">Inici fallat, si us plau reintentar o reiniciar i tornar a provar</string>
+  <string name="trans_start_failed_title">Inici fallat</string>
   <string name="trans_time_format_second"> menys d\'un minut</string>
-  <string name="trans_time_remained">, a punt en</string>
+  <string name="trans_time_spent">"
+Temps emprat: %s"</string>
+  <string name="trans_wait_trans_data">"Connectat al dispositiu anterior.
+A l'espera de la transferència…"</string>
   <string name="trans_waiting_ensurance">"Assegura\'t que el vell dispositiu
 està encès i la Transferència activada"</string>
   <string name="trans_waiting_for_sender">Esperant al vell dispositiu per connectar…</string>
@@ -263,4 +327,7 @@ està encès i la Transferència activada"</string>
   <string name="unit_piece">"  elements"</string>
   <string name="unknown_hint">Desconegut</string>
   <string name="wifi_title">Configuració Wi-Fi</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_router">Mi Router</string>
+  <string name="xiaomi_router_location">Mi Router %s</string>
 </resources>
