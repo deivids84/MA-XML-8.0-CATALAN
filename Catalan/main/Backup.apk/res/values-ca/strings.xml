@@ -278,12 +278,12 @@ Toca [Soy un receptor] para crear el código QR"</string>
 3. Escaneja el codi QR amb el teu vell dispositiu"</string>
   <string name="trans_operate_old_phone_tips2">"Vés a Configuració &gt; Configuració addicional &gt; Transferència, Toca [Sóc un emissor]"</string>
    <string name="trans_please_waiting">Si us plau, esperi ...</string>
-  <string name="trans_progress_subdescript_br_receiver">Restaurant %s, %2$s completat</string>
-  <string name="trans_progress_subdescript_br_sender">Copiant %s, %2$s completat</string>
-  <string name="trans_progress_subdescript_transing_receiver">Rebent %s, %2$s completat</string>
-  <string name="trans_progress_subdescript_transing_sender">Enviant %s, %2$s completat</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Rebent fitxers, %2$s completat</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Enviant fitxers, %2$s completat</string>
+  <string name="trans_progress_subdescript_br_receiver">Restaurant %1$s, %2$s completat</string>
+  <string name="trans_progress_subdescript_br_sender">Copiant %1$s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transing_receiver">Rebent %1$s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transing_sender">Enviant %1$s, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Rebent fitxers, %s completat</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Enviant fitxers, %s completat</string>
   <string name="trans_progress_subdescript_transingsddata_receiver">Rebent dades de targeta SD %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_transingsddata_sender">Enviant dades de targeta SD %1$s, %2$s completetat</string>
   <string name="trans_progress_subdescript_waiting">Esperant a rebre %s</string>
