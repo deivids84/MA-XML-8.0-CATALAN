@@ -1264,11 +1264,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
         <item>5</item>
         <item>10</item>
      </string-array>
-	 <string-array name="common_password_business_names">
-        <item>Pantalla de bloqueig</item>
-        <item>Mode nen</item>
-        <item>Explorador</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tots els dies</item>
         <item>Entre setmana</item>
