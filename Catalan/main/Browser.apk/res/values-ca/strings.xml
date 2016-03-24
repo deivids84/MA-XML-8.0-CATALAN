@@ -666,7 +666,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="tab_hotpage">Servei de notícies</string>
-  <string name="tab_quicklinks">Pàgina d'inici</string>
+  <string name="tab_quicklinks">"Pàgina d'inici"</string>
   <string name="tab_yellowpage">Enllaços</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
