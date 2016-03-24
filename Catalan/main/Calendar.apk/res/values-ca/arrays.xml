@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notificació</item>
@@ -7,8 +6,14 @@
         <item>Missatge de text</item>
         <item>Alarma</item>
     </string-array>
+	<integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="reminder_minutes_labels">
-        <item>Sense avís</item>
+        <item>Sense recordatori</item>
         <item>0 minuts</item>
         <item>5 minuts</item>
         <item>10 minuts</item>
@@ -32,7 +37,7 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Sense avís</item>
+        <item>Sense recordatori</item>
         <item>0 minuts</item>
         <item>5 minuts</item>
         <item>10 minuts</item>
@@ -60,6 +65,12 @@
         <item>Dissabte</item>
         <item>Diumenge</item>
         <item>Dilluns</item>
+    </string-array>
+	<string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Illes Marshall</item>

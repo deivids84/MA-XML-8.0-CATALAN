@@ -7,6 +7,7 @@
 Si tu no vas sol·licitar aquesta còpia de seguretat si us plau no permeti aquesta operació"</string>
   <string name="backup_confirm_title">Còpia de seguretat completa</string>
   <string name="backup_enc_password_optional">Si vols xifrar totes les dades de la còpia de seguretat, introduïu una contrasenya:</string>
+  <string name="backup_enc_password_required">Atès que el dispositiu està encriptat, se li requereix per xifrar la còpia de seguretat. Si us plau, introdueixi la contrasenya a baix:</string>
   <string name="backup_enc_password_text"> Si us plau introdueixi una contrasenya per xifrar totes les dades de la còpia de seguretat. Si deixeu aquest camp en blanc s\'utilitzara la contrasenya actual:</string>
   <string name="current_password_text">Introduïu la contrasenya actual de la còpia de segureta:</string>
   <string name="deny_backup_button_label">No ha fet una còpia de seguretat</string>
@@ -14,7 +15,8 @@ Si tu no vas sol·licitar aquesta còpia de seguretat si us plau no permeti aque
   <string name="device_encryption_backup_text">Si us plau introdueix la clau de xifrat de dispositiu. Aquesta contrasenya serà usada per xifrar el fitxer de la còpia de seguretat.</string>
   <string name="device_encryption_restore_text">Si us plau introdueix la clau de xifrat de dispositiu.</string>
   <string name="restore_confirm_text">"Una restauració completa de la informació va ser sol·licitada pel computador al que es troba connectat. Vols acceptar aquesta sol·licitud?
-Si tu no vas sol·licitar aquesta restauració, no acceptis aquesta sol·licitud. Aquest procediment va a reemplaçar tota la informació del teu dispositiu!"</string>
+
+  Si tu no vas sol·licitar aquesta restauració, no acceptis aquesta sol·licitud. Aquest procediment va a reemplaçar tota la informació del teu dispositiu!"</string>
   <string name="restore_confirm_title">Restauració completa</string>
   <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, si us plau ingressi la clau:</string>
   <string name="toast_backup_ended">Còpia de seguretat acabada</string>
