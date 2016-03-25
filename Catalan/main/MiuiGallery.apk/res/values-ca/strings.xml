@@ -1214,7 +1214,7 @@
   <string name="set_bg_picker_default_title">Establir miniatura superior</string>
   <string name="set_bg_unknow_reasons">Error desconegut</string>
   <string name="set_face_group_toast_msg_new_user">Mantenir una cara per fusionar o ignorar aquesta persona.</string>
-  <string name="set_face_group_toast_msg_old_user">Mantenir una cara, i l'etiqueta d'aquesta persona (família, amics, companys de classe, etc.)</string>
+  <string name="set_face_group_toast_msg_old_user">"Mantenir una cara, i l'etiqueta d'aquesta persona (família, amics, companys de classe, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggeriment</string>
   <string name="set_face_group_toast_title_old_user">Les persones es poden organitzar en grups</string>
   <string name="set_face_image">Establir una nova cara</string>
@@ -1330,7 +1330,7 @@
   <string name="to_enable_sync_dialog_title">Sincronització</string>
   <string name="too_many_recipients">"No pot afegir més de %2$s destinataris (Actualment ha agregat %1$s)."</string>
   <string name="trash_bin">Paperera</string>
-  <string name="trash_bin_summary">Navega per fotos copiades que s'han suprimit recentment</string>
+  <string name="trash_bin_summary">"Navega per fotos copiades que s'han suprimit recentment"</string>
   <string name="try_to_send">Enviar</string>
   <string name="ubifocus_data_invalid">Algunes de les dades d\'aquesta imatge no són vàlides</string>
   <string name="ubifocus_data_missing">Falten algunes de les dades per a aquesta imatge</string>
