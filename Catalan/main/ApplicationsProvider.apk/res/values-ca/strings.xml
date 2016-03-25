@@ -2,6 +2,6 @@
 <resources>
   <string name="app_label">Proveïdor d\'aplicacions de cerca</string>
   <string name="application_desc">Aplicació</string>
-  <string name="search_label">Aplicacions</string>
+  <string name="search_label">Apps</string>
   <string name="settings_description">Noms de les aplicacions instal·lades</string>
 </resources>

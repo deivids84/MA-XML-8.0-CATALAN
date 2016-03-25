@@ -28,7 +28,7 @@
   <string name="action_menu_text_copy_url">"Copia l'URL"</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
   <string name="action_menu_text_download">Administrar descàrregues</string>
-  <string name="action_menu_text_exit">Sortida</string>
+  <string name="action_menu_text_exit">Sortir</string>
   <string name="action_menu_text_find_in_page">Cerca a la pàgina</string>
   <string name="action_menu_text_fullscreen">Pantalla completa</string>
   <string name="action_menu_text_history">Marcadors/Historial</string>
@@ -71,6 +71,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_popup_content_description">Mostrant finestra emplenament automàtic</string>
   <string name="autologin_bar_error">"No s\'ha pogut aconseguir"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
   <string name="autologin_bar_login_text">Inicia la sessió</string>
@@ -297,6 +298,7 @@
   <string name="homepage_search_hint">Cercar</string>
   <string name="homepage_top_card_menu">A dalt</string>
   <string name="in_incognito">"Estàs d\'incògnit! Les pàgines web que veus en aquesta pestanya no apareixen en l\'historial del navegador."</string>
+  <string name="in_secureaccess">Canvia el navegador a mode segur</string>  
   <string name="is_first_history_item">Aquest és el primer element de l\'historial</string>
   <string name="is_first_tab">Aquesta és la primera pestanya</string>
   <string name="is_last_history_item">Aquest és l\'últim element de l\'historial</string>
@@ -362,12 +364,33 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="miui_search_notification_message">Toqui per obrir la barra de cerca.</string>
   <string name="miui_search_notification_title">Cerca</string>
   <string name="miui_startpage">"Pàgina d'inici"</string>
+  <string name="miuichromium_error_page_airplane_mode">Mode avió</string>
+  <string name="miuichromium_error_page_airplane_mode_on">Desactivar mode avió per connectar</string>
+  <string name="miuichromium_error_page_btn_close">Tancar</string>
+  <string name="miuichromium_error_page_btn_refresh">Actualitza</string>
+  <string name="miuichromium_error_page_diagnose">Diagnòstic de la xarxa</string>
+  <string name="miuichromium_error_page_diagnose_banner">Diagnòstic de la xarxa</string>
+  <string name="miuichromium_error_page_diagnose_certificate">"No s'ha pogut verificar protocol de xarxa"</string>
+  <string name="miuichromium_error_page_diagnose_connection">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="miuichromium_error_page_diagnose_dns">Sembla que la URL és incorrecta</string>
+  <string name="miuichromium_error_page_diagnose_protocol">Error de protocol de xarxa</string>
+  <string name="miuichromium_error_page_diagnose_success">Senyal de xarxa deficient</string>
+  <string name="miuichromium_error_page_diagnose_timeout">Temps de connexió esgotat</string>
+  <string name="miuichromium_error_page_diagnose_website">Aquest lloc web està caigut</string>
+  <string name="miuichromium_error_page_diagnosing">Comprovant la xarxa</string>
   <string name="miuichromium_error_page_diagnostic">Diagnòstic de xarxa</string>
+  <string name="miuichromium_error_page_homepage">Pàgina principal</string>
   <string name="miuichromium_error_page_mobile">Xarxa de telefonia mòbil</string>
+  <string name="miuichromium_error_page_network_hijack">La xarxa actual no és segura</string>
+  <string name="miuichromium_error_page_network_off">Activa el Wi-Fi o les dades mòbils</string>
+  <string name="miuichromium_error_page_no_network">No es pot connectar a la xarxa</string>
   <string name="miuichromium_error_page_reason_network">Veure enllaç URL</string>
   <string name="miuichromium_error_page_reason_server">"El navegador no pot carregar aquesta pàgina"</string>
   <string name="miuichromium_error_page_reload">Recarregar</string>
+  <string name="miuichromium_error_page_safe_network">Mode segur</string>
+  <string name="miuichromium_error_page_server_error">Massa dispositius estan intentant connectar-se</string>
   <string name="miuichromium_error_page_title">"No es pot trobar aquesta pàgina"</string>
+  <string name="miuichromium_error_page_unknown_error">Vaja, alguna cosa ha sortit malament</string>
   <string name="miuichromium_error_page_url">Veure la pàgina: URL</string>
   <string name="miuichromium_error_page_wlan">Configuració Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activació requerida</string>
@@ -384,7 +407,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_share_editor_title">Compartir</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartir</string>
-  <string name="miuishare_wechat_timeline_title">Línia de temps WeChat</string>
+  <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita l\'emmagatzematge USB per modificar aquesta ruta</string>
   <string name="month_picker_dialog_title">Establir mes</string>
@@ -414,6 +437,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="page_info_address">Adreça:</string>
   <string name="page_info_view">Veure informació de la pàgina</string>
   <string name="password">Contrasenya</string>
+  <string name="password_generation_popup_content_description">Mostrant la finestra de generació de contrasenyes</string>
   <string name="pause_download">En pausa</string>
   <string name="paused_queued_for_wifi">Esperant a connectar…</string>
   <string name="paused_unknown">En pausa</string>
@@ -421,6 +445,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="paused_waiting_to_retry">Esperant a reintentar…</string>
   <string name="popup_window_attempt">Permetre a aquest lloc obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Apagar de totes formes</string>
+  <string name="pref_accessibility">Accessibilitat</string>
   <string name="pref_accessibility_title">Accessibilitat</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Les combinacions comunes de lletres poden introduir-se en un toc a la barra d\'adreces</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Entrada ràpida d\'URL</string>
@@ -623,6 +648,8 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Descarregar al App Store</string>
+  <string name="secureaccess">Canvia al mode segur</string>
+  <string name="secureaccess_cancel">Ignora</string>
   <string name="security_url_confirm_message">Apagar aquesta característica pot crear riscos de seguretat.</string>
   <string name="security_warning">Avís de seguretat</string>
   <string name="security_warnings_confirm_message">Apagar aquesta característica pot crear riscos de seguretat.</string>
@@ -665,6 +692,8 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="switch_proxy_dialog_msg">"Pirateig de xarxa detectat. Utilitza l'aplicació de Seguretat integrada a MIUI o informar al seu operador mòbil."</string>
+  <string name="switch_proxy_dialog_title">Xarxa piratejada</string>
   <string name="tab_hotpage">Servei de notícies</string>
   <string name="tab_quicklinks">"Pàgina d'inici"</string>
   <string name="tab_yellowpage">Enllaços</string>
@@ -714,6 +743,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="version_update_file_download_toast">Descàrrega</string>
   <string name="version_update_file_not_found">No es poden trobar actualitzacions</string>
   <string name="video_activity_name">Favorits</string>
+  <string name="video_buffering_percent">"Buffering "</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">No favorit</string>
   <string name="video_collect_success">Favorit</string>
@@ -741,6 +771,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="video_group_noupdates_list">No hi ha actualitzacions disponibles</string>
   <string name="video_group_updates_list">Actualitzacions</string>
   <string name="video_history_empty">No hi ha historial</string>
+  <string name="video_play_error">Error de reproducció de vídeo</string>
   <string name="video_project_button">Aturar</string>
   <string name="video_project_msg">Projectant a %s</string>
   <string name="video_project_title">Pantalla externa</string>
