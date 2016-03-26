@@ -608,7 +608,6 @@
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per a la carpeta</string>
   <string name="cloudfolder_name_reserved">El nom de la carpeta està reservat</string>
   <string name="collaps_people">Amaga</string>
-  <string name="confirm">"D'acord"</string>
   <string name="comfirm_delete_current_album">Voleu eliminar aquest àlbum?</string>
   <string name="comma">, </string>
   <string name="confirm">D\'acord</string>
@@ -650,7 +649,6 @@
   <string name="create_quick_icon_on_desk">Crear accessos directes</string>
   <string name="creating_baby_album">Creant àlbum…</string>
   <string name="crop">Retalla</string>
-  <string name="crop_label">Retalla</string>
   <string name="crop_fail_to_load_image">"No es pot carregar la imatge"</string>
   <string name="crop_label">Retalla</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
