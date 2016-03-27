@@ -303,7 +303,7 @@ Mantenir els dispositius propers l'un a l'altre."</string>
   <string name="trans_scan_invalid_qrcode">Codi QR invàlid</string>
   <string name="trans_scan_qr_code_tips">Escaneja el codi QR utilitzant el nou dispositiu</string>
   <string name="trans_select_data">Seleccionar elements per enviar</string>
-  <string name="trans_select_data_no_space">No hi ha prou espai en el nou dispositiu
+  <string name="trans_select_data_no_space">"No hi ha prou espai en el nou dispositiu
 Seleccioneu els arxius de nou o alliberar %s d'emmagatzematge al nou dispositiu"</string>
   <string name="trans_select_data_tips">"Seleccioneu arxius per a transferir
 Arxius similars en el nou dispositiu es sobreescriuran"</string>
