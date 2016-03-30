@@ -113,7 +113,7 @@ o introduïu la contrasenya"</string>
   <string name="brand_diagnostic">"Diagnòstic de tipus d'operador"</string>
   <string name="brightness_auto_adjust_off">La brillantor de la pantalla romandrà constant en tots els entorns</string>
   <string name="brightness_auto_adjust_on">La brillantor de la pantalla variarà depenent de les condicions d\'il·luminació</string>
-  <string name="btn_finish_diagnostic">D'acord</string>
+  <string name="btn_finish_diagnostic">"D'acord"</string>
   <string name="btn_jump">Saltar</string>
   <string name="btn_lock">Afegir bloqueig</string>
   <string name="btn_start_diagnostic">Prova de xarxa</string>
@@ -290,7 +290,7 @@ Per a més informació mira el missatge que haurà rebut del vostre proveïdor d
   <string name="examination_score_80_100_with_recommend">%d elements poden optimitzar-se</string>
   <string name="examination_score_80_60">Alguns elements poden ser optimitzats</string>
   <string name="examination_score_has_virus">Es van detectar algunes aplicacions sospitoses</string>
-  <string name="finger_remind_message">Bloqueig d'aplicació suporta desbloqueig per empremta. Afegir empremta? </string>
+  <string name="finger_remind_message">"Bloqueig d'aplicació suporta desbloqueig per empremta. Afegir empremta?"</string>
   <string name="fingerprint_identify_msg">Escanejant empremta…</string>
   <string name="fingerprint_not_identified_msg">Per desbloquejar el dispositiu, introduïu la contrasenya.</string>
   <string name="fingerprint_not_remind">"No tornar a preguntar"</string>
