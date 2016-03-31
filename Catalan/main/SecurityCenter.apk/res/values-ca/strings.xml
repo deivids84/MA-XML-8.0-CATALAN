@@ -417,10 +417,77 @@ Per a més informació mira el missatge que haurà rebut del vostre proveïdor d
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
   <string name="lock_screen_warning_value">Quantitat d\'advertència d\'ús de dades</string>
+  <string name="lock_settings_title">Pantalla de bloqueig i contrasenya</string>
+  <string name="lockpassword_confirm_your_password_header">Confirma la contrasenya</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirma el patró</string>
+  <string name="lockpattern_confirm_button_text">"D'acord"</string>
+  <string name="lockpattern_continue_button_text">Següent</string>
+  <string name="lockpattern_need_to_confirm">Dibuixeu el patró novament per confirmar</string>
+  <string name="lockpattern_need_to_unlock">Confirmar el patró guardat</string>
+  <string name="lockpattern_need_to_unlock_wrong">Tornar a provar</string>
+  <string name="lockpattern_pattern_confirmed_header">El seu nou patró de desbloqueig</string>
+  <string name="lockpattern_pattern_entered_header">Patró afegit</string>
+  <string name="lockpattern_recording_incorrect_too_short">Connectar a mínim%ddots</string>
+  <string name="lockpattern_recording_inprogress">Treure el dit després que el patró és completi</string>
+  <string name="lockpattern_recording_intro_header">Connectar com a mínim 4 punts per crear un patró</string>
+  <string name="lockpattern_retry_button_text">Dibuixar novament</string>
+  <string name="lockpattern_settings_help_how_to_record">Com dibuixar un patró</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espera %d segons i torneu a provar.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
+  <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
+  <string name="lockpattern_tutorial_continue_label">Següent</string>
+  <string name="lockscreen_glogin_checking_password">Comprovant…</string>
+  <string name="lockscreen_glogin_password_hint">Contrasenya</string>
+  <string name="lockscreen_glogin_submit_button">Inicia sessió</string>
+  <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
+  <string name="main_alert_message_no_imsi">SIM no detectada</string>
+  <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
+  <string name="main_alert_message_slot_no_data_connection">"La ranura de la targeta SIM no\ admet
+connexió a dades mòbils"</string>
+  <string name="main_button_idel_traffic">Hora vall</string>
+  <string name="main_button_normal_traffic">Límit</string>
+  <string name="main_button_usage_adjust">Establir límit d\'ús de dades</string>
+  <string name="main_button_usage_adjust_manual">Establir límit d\'ús de dades</string>
+  <string name="main_button_usage_adjusting">Canviant…</string>
+  <string name="main_button_usage_package_setting">Establir límit d\'ús de dades</string>
+  <string name="main_message_no_package_by_dual">Establir límit de dades per %s</string>
+  <string name="main_primary_message_traffic_cur_leisure">Ús de dades en hora vall</string>
+  <string name="main_primary_message_traffic_cur_normal">Per sota del límit de dades</string>
+  <string name="main_primary_message_traffic_cur_normal_overlimit">Límit de dades excedit</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Avís d\'ús de dades</string>
+  <string name="main_primary_message_traffic_enough">Per sota del límit d\'ús de dades</string>
+  <string name="main_primary_message_traffic_overlimit">Límit d\'ús de dades excedit</string>
+  <string name="main_primary_message_traffic_overlimit_purchase">Necessita recarregar</string>
+  <string name="main_primary_message_traffic_purchase">Necessita recarregar</string>
+  <string name="main_primary_message_traffic_warning">A prop del límit d\'ús de dades</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"
+Consum en hores vall: %1$s queda | %2$s usat"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"
+Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
+  <string name="main_secondary_message_traffic_over">"sobrepassat "</string>
+  <string name="main_secondary_message_traffic_remain">"queden "</string>
+  <string name="main_secondary_message_traffic_used_leisure">%s dades en hora vall usats</string>
+  <string name="main_secondary_message_traffic_used_noleisure">%s dades en hora punta usats | no queden dades en hora vall</string>
+  <string name="main_secondary_message_traffic_used_normal">%s dades en hora punta usats</string>
+  <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
+  <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
+  <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
+  <string name="main_toolbar_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
+  <string name="main_toolbar_purchase">Recarregar</string>
+  <string name="main_toolbar_saving">Estalvi de dades</string>
+  <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
+  <string name="main_traffic_overlimit_text">sobrepassat</string>
+  <string name="main_traffic_remian_text">queden</string>
+  <string name="main_traffic_used">%s usats</string>
+  <string name="main_traffic_used_only">%s usats</string>
+  <string name="main_traffic_used_text">usats</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
+  <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
+  <string name="manual_input_traffic">Establir ús de dades</string>
   <string name="manual_item_white_list_summary">Evitar que les aplicacions seleccionades siguin optimitzades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
   <string name="manual_white_list_header">%d excepcions</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content_none">Buit</string>
   <string name="menu_item_about_content">Versió %s</string>
   <string name="menu_item_about_summary">Versió %s</string>
@@ -452,22 +519,63 @@ Per a més informació mira el missatge que haurà rebut del vostre proveïdor d
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
-  <string name="month_report_activity_label">Informe mensual</string>
-  <string name="month_report_click_reconnect_network">Intentar de nou</string>
-  <string name="month_report_disconnect_tip">"No es pot connectar a la xarxa"</string>
-  <string name="month_report_history_activity_label">Informe històric</string>
+  <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
+  <string name="mi_service_framework">Estructura de Mi Service</string>
+  <string name="mi_service_traffic_detail">Detalls de Marc</string>
+  <string name="mian_page_primary_txt">Itinerància internacional</string>
+  <string name="modify_password_info">Patró de desbloqueig</string>
+  <string name="modifypassword">Canvia la contrasenya</string>
+  <string name="monitor_requests_from_pc">"Gestionar la instal·lació de les aplicacions a través d'USB"</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
-  <string name="month_report_network_dialog_description">Permetre la connexió a internet per recuperar l\'informe?</string>
-  <string name="month_report_network_dialog_positive">Permet</string>
-  <string name="month_report_network_dialog_title">"No es pot recuperar l\'informe"</string>
-  <string name="month_report_result_share">Compartir</string>
-  <string name="month_report_share_img_fail">"No s\'ha pogut compartir"</string>
-  <string name="month_report_share_loading">Un moment…</string>
-  <string name="month_report_warning_dialog_description">"Per veure l\'informe mensual encendre aquesta funcionalitat en els paràmetres de l\'aplicació Seguretat."</string>
-  <string name="month_report_warning_dialog_positive">Encendre</string>
-  <string name="month_report_warning_dialog_title">Informe de seguretat mensual</string>
-  <string name="name_antivirus">veure Política de Privacitat</string>
+  <string name="network_assistant_upgraded_body">Toqui per veure els detalls.</string>
+  <string name="network_assistant_upgraded_title">Actualització acabada</string>
+  <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
+  <string name="network_blocked_notification_summary">Comprovar xarxa</string>
+  <string name="network_blocked_switch_wifi">Canvia xarxes</string>
+  <string name="network_connected_exception_title">Comprovar xarxa</string>
+  <string name="network_control">Veure paràmetres de l\'aplicació</string>
+  <string name="network_diagnostics">Comprovar xarxa</string>
+  <string name="network_mobile_exception_detail">"El dispositiu no pot connectar-se a Internet:
+
+ 1. Comproveu que no hagi superat el límit de dades mòbils del pla del seu operador.
+
+ 2. If you just topped up your device's balance, reinicieu el dispositiu i torneu a provar.
+
+ 3. El senyal de la xarxa de l'operador pot ser feble en la seva ubicació actual."</string>
+  <string name="network_operator_exception_summary">"No s'ha pogut activar la targeta SIM. Assegureu-vos que s'insereix la targeta SIM correctament i que el seu pla mòbil ha estat activat pel seu operador."</string>
+  <string name="network_permission_exception_tips">No es poden utilitzar dades mòbils per connectar-se a la xarxa</string>
+  <string name="network_roaming_exception_tips">"No es poden utilitzar dades mòbils en itinerància per connectar-se a la xarxa."</string>
+  <string name="network_route_exception_detail">"Hi pot haver un problema amb el router que està connectat per:
+
+ "&lt;b&gt;"1. Problemes de xarxa WLAN pública
+"&lt;/b&gt;"Si està connectat a una xarxa WiFi pública, el nombre d'usuaris connectats a aquesta xarxa pot ser el que la fa lenta o crear problemes de connectivitat. Canviar a una altra xarxa i torna a intentar-ho.
+
+ 2."&lt;b&gt;" Problemes del proveïdor de servei d\'Internet
+A"&lt;/b&gt;"ssegura't que el seu compte està en bona posició amb el proveïdor de serveis d'Internet.
+
+ 3."&lt;b&gt;" Problemes de maquinari del router
+R"&lt;/b&gt;"einicia el router o comprovar la configuració d\'administrador del router.
+
+ 4."&lt;b&gt;" Altres problemes del router
+L"&lt;/b&gt;"legiu les instruccions que s\'inclouen amb el router i restaurar el router a la seva configuració de fàbrica.
+
+ 5."&lt;b&gt;" Comproveu que el router està connectat correctament
+P"&lt;/b&gt;"roveu un altre cable Ethernet per connectar el router. Si sospita que hi ha un problema amb la connexió a casa, poseu-vos en contacte amb el proveïdor de serveis d\'Internet."</string>
+  <string name="network_sim_exception_detail">"Hi pot haver un problema amb la targeta SIM:
+
+ 1. Comproveu que el compte està en bona posició amb la seva companyia. Intenta utilitzar la targeta SIM d\'un amic i veure si vostè és capaç de connectar amb normalitat.
+
+ 2. Si utilitzeu dues targetes SIM, tracti de canviar a l\'altra targeta i veure si vostè és capaç de connectar amb normalitat.
+
+ 3. Assegureu-vos que la targeta SIM i la ranura SIM del dispositiu no estan danyats. Comproveu que la targeta SIM que utilitzeu s'ha inserit correctament a la safata SIM del dispositiu."</string>
+  <string name="network_speed_for_apps_close">Forçar aturar</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Força aturar aquesta aplicació?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">No es pot forçar aturar les aplicacions del sistema.</string>
+  <string name="network_speed_for_apps_others">Altres</string>
+  <string name="network_speed_for_apps_title">Connexió</string>
+  <string name="network_speed_for_apps_total">Velocitat de connexió</string>
   <string name="never">1 cop</string>
   <string name="notification_button_text_of_low_memory">Netejar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
