@@ -9,7 +9,7 @@
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
-        <item>altre</item>
+        <item>other</item>
     </string-array>
     <string-array name="pref_text_zoom_values">
         <item>50</item>
@@ -65,7 +65,7 @@
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
-        <item>http://www.google.cat/</item>
+        <item>http://www.google.com/</item>
         <item>Picasa</item>
         <item>http://picasaweb.google.com/</item>
         <item>Yahoo!</item>
@@ -79,7 +79,7 @@
         <item>Wikipedia</item>
         <item>http://www.wikipedia.org/</item>
         <item>eBay</item>
-        <item>http://www.ebay.es/</item>
+        <item>http://www.ebay.com/</item>
         <item>CNN</item>
         <item>http://www.cnn.com/</item>
         <item>NY Times</item>
@@ -360,47 +360,33 @@
         <item>0xff2e3833</item>
         <item>0xff646974</item>
     </integer-array>
-	<integer-array name="hot_words_item_text_bg_color">
-        <item>0xfff2f6e8</item>
-        <item>0xffe8f6f6</item>
-        <item>0xfff6f6f6</item>
-        <item>0xfff7f2ec</item>
-        <item>0xfff9ebeb</item>
-    </integer-array>
-    <integer-array name="hot_words_item_text_frame_color">
-        <item>0xffbac49f</item>
-        <item>0xffa3ced7</item>
-        <item>0xffadadad</item>
-        <item>0xffe1c7a6</item>
-        <item>0xffdbacb6</item>
-    </integer-array>
     <string-array name="menu_theme_setting">
-        <item>Blanc</item>
-        <item>Groc</item>
-        <item>Gris</item>
-        <item>Marró</item>
-        <item>Verd</item>
-        <item>Blau</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Blue</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Escriptori</item>
+        <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>"Pàgina d'inici per defecte"</item>
-        <item>Personalitzat</item>
+        <item>Default start page</item>
+        <item>Custom</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Minúscul</item>
-        <item>Petit </item>
+        <item>Tiny</item>
+        <item>Small</item>
         <item>Normal</item>
-        <item>Gran</item>
-        <item>Enorme</item>
+        <item>Large</item>
+        <item>Huge</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
-        <item>Telèfon</item>
-        <item>Tauleta</item>
+        <item>Phone</item>
+        <item>Pad</item>
     </string-array>
 </resources>

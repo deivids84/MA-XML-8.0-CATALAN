@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicacions</string>
-  <string name="Dashboard_HIPS_Disable_Content">"MIUI no supervisarà les sol·licituds de permís d'aplicacions."</string>
+  <string name="Dashboard_HIPS_Disable_Content">"Al desactivar-ho aturarà el servei de monitorització de sol·licituds d'aplicació, el que aturarà la protecció de la seva seguretat i privacitat.
+  Està segur que vol desactivar-ho?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Permisos</string>
   <string name="Dashboard_Log">Registres</string>
   <string name="Dashboard_Log_Clear_Content">S\'esborraran tots els registres.</string>
@@ -28,6 +29,8 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descarregar MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Accés root</string>
+  <string name="Dashboard_Su_Enable_Content">"Permetre accés root a aplicacions pot causar inestabilitat en el sistema, pèrdua de dades personals o del sistema, o fins i tot mal en el maquinari""</string>
+  <string name="Dashboard_Su_Enable_Title">Accés root</string>
   <string name="Generic_Canceling">Cancel·lant...</string>
   <string name="Generic_Check">Comprovar</string>
   <string name="Generic_Clean">Netejar</string>
@@ -285,5 +288,4 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="screen_overlay_button">Obrir configuració</string>
   <string name="screen_overlay_message">Per canviar l\'ajust d\'aquest permís, primer has de desactivar el recobriment de pantalla a Configuració &gt; Aplicacions</string>
   <string name="screen_overlay_title">Detectat recobriment de pantalla</string>
-  <string name="static_cache_db_md5">52571e000882fef99527c2eeb4833f81</string>
 </resources>

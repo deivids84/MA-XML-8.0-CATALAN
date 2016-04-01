@@ -6,12 +6,6 @@
         <item>Missatge de text</item>
         <item>Alarma</item>
     </string-array>
-	<integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>Sense recordatori</item>
         <item>0 minuts</item>
@@ -65,12 +59,6 @@
         <item>Dissabte</item>
         <item>Diumenge</item>
         <item>Dilluns</item>
-    </string-array>
-	<string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Illes Marshall</item>
@@ -158,102 +146,11 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-	<string-array name="timezone_values">
-        <item>Pacífic/Majuro</item>
-        <item>Pacífic/Midway</item>
-        <item>Pacífic/Honolulu</item>
-        <item>Amèrica/Anchorage</item>
-        <item>Amèrica/Los_Angeles</item>
-        <item>Amèrica/Tijuana</item>
-        <item>Amèrica/Phoenix</item>
-        <item>Amèrica/Chihuahua</item>
-        <item>Amèrica/Denver</item>
-        <item>Amèrica/Costa_Rica</item>
-        <item>Amèrica/Chicago</item>
-        <item>Amèrica/Mexico_City</item>
-        <item>Amèrica/Regina</item>
-        <item>Amèrica/Bogota</item>
-        <item>Amèrica/New_York</item>
-        <item>Amèrica/Caracas</item>
-        <item>Amèrica/Barbados</item>
-        <item>Amèrica/Halifax</item>
-        <item>Amèrica/Manaus</item>
-        <item>Amèrica/Santiago</item>
-        <item>Amèrica/St_Johns</item>
-        <item>Amèrica/Sao_Paulo</item>
-        <item>Amèrica/Argentina/Buenos_Aires</item>
-        <item>Amèrica/Godthab</item>
-        <item>Amèrica/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Àfrica/Casablanca</item>
-        <item>Europa/London</item>
-        <item>Europa/Amsterdam</item>
-        <item>Europa/Belgrad</item>
-        <item>Europa/Brussel·les</item>
-        <item>Europa/Sarajevo</item>
-        <item>Àfrica/Windhoek</item>
-        <item>Àfrica/Brazzaville</item>
-        <item>Àsia/Amman</item>
-        <item>Europa/Atenes</item>
-        <item>Àsia/Beirut</item>
-        <item>Àfrica/Caire</item>
-        <item>Europa/Hèlsinki</item>
-        <item>Àsia/Jerusalem</item>
-        <item>Europa/Minsk</item>
-        <item>Àfrica/Harare</item>
-        <item>Àsia/Bagdad</item>
-        <item>Europa/Moscou</item>
-        <item>Àsia/Kuwait</item>
-        <item>Àfrica/Nairobi</item>
-        <item>Àsia/Teheran</item>
-        <item>Àsia/Baku</item>
-        <item>Àsia/Tbilisi</item>
-        <item>Àsia/Erevan</item>
-        <item>Àsia/Dubai</item>
-        <item>Àsia/Kabul</item>
-        <item>Àsia/Karachi</item>
-        <item>Àsia/Oral</item>
-        <item>Àsia/Yekaterinburg</item>
-        <item>Àsia/Calcuta</item>
-        <item>Àsia/Colombo</item>
-        <item>Àsia/Katmandú</item>
-        <item>Àsia/Almati</item>
-        <item>Àsia/Rangoon</item>
-        <item>Àsia/Krasnoyarsk</item>
-        <item>Àsia/Bangkok</item>
-        <item>Àsia/Xangai</item>
-        <item>Àsia/Hong_Kong</item>
-        <item>Àsia/Irkutsk</item>
-        <item>Àsia/Kuala_Lumpur</item>
-        <item>Austràlia/Perth</item>
-        <item>Àsia/Taipei</item>
-        <item>Àsia/Seoul</item>
-        <item>Àsia/Tokyo</item>
-        <item>Àsia/Yakutsk</item>
-        <item>Austràlia/Adelaida</item>
-        <item>Austràlia/Darwin</item>
-        <item>Austràlia/Brisbane</item>
-        <item>Austràlia/Hobart</item>
-        <item>Austràlia/Sydney</item>
-        <item>Àsia/Vladivostok</item>
-        <item>Pacífic/Guam</item>
-        <item>Àsia/Magadan</item>
-        <item>Pacífic/Auckland</item>
-        <item>Pacífic/Fiji</item>
-        <item>Pacífic/Tongatapu</item>
-    </string-array>
 	<string-array name="availability">
         <item>Ocupat</item>
         <item>Disponible</item>
         <item>Temptativa</item>
     </string-array>
-	<integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="visibility">
         <item>Per defecte</item>
         <item>Privat</item>
@@ -277,11 +174,6 @@
         <item>Aquests i futurs esdeveniments</item>
         <item>Tots els esdeveniments</item>
     </string-array>
-	<integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Aquest i futurs esdeveniments</item>
         <item>Tots els esdeveniments</item>
@@ -306,11 +198,6 @@
         <item>Sempre</item>
         <item>Només quan es silencia el timbre</item>
         <item>Mai</item>
-    </string-array>
-	<string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
 	<string-array name="widget_style_list">
 		<item>Transparent</item>

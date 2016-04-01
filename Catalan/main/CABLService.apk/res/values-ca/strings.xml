@@ -5,7 +5,6 @@
   <string name="cabl_enable_summary_on">La llum de fons es reajustarà sobre la base del contingut de la pantalla</string>
   <string name="cabl_enable_title">Activa llum de fons adaptativa al contingut </string>
   <string name="cabl_info_default">Desconegut</string>
-  <string name="cabl_level_default">Auto</string>
   <string name="cabl_levels_summary">"Nivell de qualitat baix indiquen que CABL intentarà estalviar tanta energia com sigui possible sense afectar significativament el contingut que es mostra. Nivell de qualitat visual auto significa que CABL tractarà de maximitzar l'estalvi d'energia en funció del tipus de detecció automàtica de contingut que es visualitza."</string>
   <string name="cabl_levels_title">Nivell de qualitat visual</string>
   <string name="cabl_settings_title">Configuració de llum de fons adaptativa al contingut</string>

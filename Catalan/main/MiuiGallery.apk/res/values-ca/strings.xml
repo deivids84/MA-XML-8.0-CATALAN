@@ -63,7 +63,7 @@
   <string name="album_others_share_info_format">De %s</string>
   <string name="album_owner_share">De part meva</string>
   <string name="album_page_empty">Buit</string>
-  <string name="album_page_label">Àlbum</string>
+  <string name="album_page_label">Àlbums</string>
   <string name="album_quota_fulfiled">Massa àlbums. Suprimiu alguns i torneu a provar.</string>
   <string name="album_screenshot_name">Captures de pantalla</string>
   <string name="album_share_exit_confirm">Sortir d\'aquest àlbum?</string>
@@ -839,7 +839,7 @@
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" fotos al rotllo de pel·lícula"</string>
   <string name="home_page_empty">Buit</string>
-  <string name="home_page_label">Foto</string>
+  <string name="home_page_label">Fotos</string>
   <string name="home_page_tab_cloud">Núvol</string>
   <string name="home_page_tab_face">Gent</string>
   <string name="home_page_tab_local">Local</string>
@@ -1382,6 +1382,5 @@
   <string name="wps">WPS</string>
   <string name="yellow_page">Directori</string>
   <string name="yes">Sí</string>
-  <string name="you_are"/>
   <string name="yunyi_pocket_camera">Sports Camera</string>
 </resources>
