@@ -1,64 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Cerca</string>
-  <string name="apps_search_activity"/>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="clear_history">Esborrar historial</string>
-  <string name="clear_shortcuts">Elimina dreceres</string>
-  <string name="clear_shortcuts_agree">Elimina dreceres</string>
-  <string name="clear_shortcuts_disagree">"No esborrar dreceres"</string>
-  <string name="clear_shortcuts_prompt">"Vol esborrar totes les dreceres als suggeriments de cerca recentment escollides?
-
-Per esborrar el seu historial de navegació, feu servir els paràmetres del navegador"</string>
-  <string name="clear_shortcuts_summary">Esborra dreceres als suggeriments de cerca recentment escollits</string>
-  <string name="corpus_description_apps">Aplicacions instal·lades</string>
-  <string name="corpus_description_web">Marcadors</string>
-  <string name="corpus_hint_apps">Aplicacions de cerca</string>
-  <string name="corpus_label_apps">Aplicacions</string>
-  <string name="corpus_label_global">Tot</string>
-  <string name="corpus_label_web">Web</string>
-  <string name="corpus_selection_heading">Cerca</string>
-  <string name="cta_declaration">Per a totes les característiques de cerca, hem de connectar la xarxa, el posicionament, la lectura dels registres de trucades, llegir la llibreta d\'adreces, etc. Està d\'acord?</string>
+  <string name="clear_history">"Esborra l'historial"</string>
+  <string name="connect_and_retry">Connecteu-vos a Internet i torneu a provar</string>
+  <string name="cta_declaration">Aquesta característica requereix connexió a Internet, accés a la ubicació del seu dispositiu i veure el registre de trucades i contactes per funcionar normalment.</string>
   <string name="cta_declaration_ignore">No mostrar de nou</string>
   <string name="cta_declaration_negative_text">Sortir</string>
-  <string name="cta_declaration_positive_text">Accepta i continua</string>
+  <string name="cta_declaration_positive_text">Permetre</string>
   <string name="cta_declaration_title">Termes del Servei</string>
-  <string name="default_hint">Cerca aplicacions, música, vídeos, llibres...</string>
-  <string name="default_search_domain">.google.com</string>
-  <string name="device_settings_category_title">Eliminar dreceres</string>
+  <string name="default_hint">Cerca aplicacions, música, vídeos, llibres\u2026</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
-  <string name="google_app_label">Google Search</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-  <string name="google_search_description">Suggeriments de Google search</string>
-  <string name="google_search_hint">Google Search</string>
-  <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Google Search</string>
-  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
-  <string name="loading">Un moment…</string>
+  <string name="loading">Un moment\u2026</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Configuració de cerca</string>
-  <string name="recently_shortcut_label">Dreceres recents</string>
-  <string name="remove_from_history">Vol esborrar aquesta entrada de l\'historial de cerca?</string>
-  <string name="remove_from_history_failed">No es pot esborrar l\'element de l\'historial.</string>
+  <string name="network_unavailable">Sense connexió a internet</string>
   <string name="search_history">Historial</string>
-  <string name="search_in_app_store">Cercar a Mi App Store</string>
-  <string name="search_in_web">Cercar a internet</string>
-  <string name="search_settings">Configuració de cerca</string>
-  <string name="search_sources">Elements rastreables</string>
-  <string name="search_sources_summary"> Escollir què cercar al telèfon</string>
-  <string name="search_widget">Cercar</string>
+  <string name="search_in_app_store">Cerca a Mi App Store</string>
+  <string name="search_in_web">Cerca a internet</string>
   <string name="send_secret_code">Enviar codi</string>
-  <string name="show_more">Mostrar més</string>
-  <string name="system_search_category_title">Telèfon</string>
-  <string name="voice_search_hint_quotation_end">\"</string>
-  <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">"Prova dient "</string>
-  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
+  <string name="show_more">Mostra més</string>
+  <string name="web_search_results">Resultats de la cerca web</string>
   <string name="xiaomi_search_label">Resultats</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

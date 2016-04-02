@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="power_config_ultimate_off_count">
+    <item quantity="one">Està a <xliff:g id="step_count">%1$d</xliff:g> pas de desactivar el mode Ultimate</item>
+    <item quantity="other">Està a <xliff:g id="step_count">%1$d</xliff:g> passos de desactivar el mode Ultimate</item>
+  </plurals>
+  <plurals name="power_config_ultimate_on_count">
+    <item quantity="one">Està a <xliff:g id="step_count">%1$d</xliff:g> pas de canviar al mode Ultimate</item>
+    <item quantity="other">Està a <xliff:g id="step_count">%1$d</xliff:g> passos de canviar al mode Ultimate</item>
+  </plurals>
+  <plurals name="power_config_ultimate_unlock_count">
+    <item quantity="one">Finalitzat <xliff:g id="step_count">%1$d</xliff:g> pas per desbloquejar tots els ítems</item>
+    <item quantity="other">Finalitzat <xliff:g id="step_count">%1$d</xliff:g> passos per desbloquejar tots els ítems</item>
+  </plurals>
+</resources>
