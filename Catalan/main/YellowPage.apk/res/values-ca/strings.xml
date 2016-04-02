@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Quant a aquesta característica</string>
-  <string name="about_phone_event">Quant als missatges de servei</string>
   <string name="about_smart_antispam_summary">Quant a aquesta característica</string>
   <string name="about_telephone_fraud">Compte amb els fraus</string>
   <string name="account_address">Direccions</string>
@@ -15,8 +14,6 @@
   <string name="account_yellowpage_followed">Comptes Verificats</string>
   <string name="account_yellowpage_recent">Veure l\'historial</string>
   <string name="agree">Estic d\'acord</string>
-  <string name="agree_to_continue">Continuar</string>
-  <string name="agree_to_turn_on">D\'acord</string>
   <string name="all_services">Tot</string>
   <string name="allow">Permet</string>
   <string name="app_label">Pàgines grogues</string>
@@ -82,7 +79,6 @@
   <string name="express_addressee_info">Informació del destinatari</string>
   <string name="express_addressee_name">Nom destinatari</string>
   <string name="express_addressee_region">Regió de destinatari</string>
-  <string name="express_banner_header">%1$s / Número de seguiment</string>
   <string name="express_cancel_order">Cancel·lar</string>
   <string name="express_company_list_empty">No hi ha empreses</string>
   <string name="express_company_phone_prefix">Contacte:</string>
@@ -93,8 +89,6 @@
   <string name="express_contact_phone">Introduïu el número de telèfon</string>
   <string name="express_contact_phone_finding">A número de telèfon…</string>
   <string name="express_contact_prefix">"Contacte "</string>
-  <string name="express_copied">Copiat el número de seguiment</string>
-  <string name="express_copy_number">Copiar</string>
   <string name="express_delete_order">Eliminar</string>
   <string name="express_dest_city_label">Destinació</string>
   <string name="express_detailed_address">Direcció</string>
@@ -166,8 +160,6 @@
   <string name="express_select_city">Trieu ciutat</string>
   <string name="express_select_sender">De</string>
   <string name="express_send">Enviament</string>
-  <string name="express_send_mms">Enviar</string>
-  <string name="express_send_mms_format">Paquet lliurat per %1$s | Número de seguiment: %2$s</string>
   <string name="express_send_notice">Sobre articles prohibits</string>
   <string name="express_sender_info">Informació del remitent</string>
   <string name="express_sender_name">Nom del remitent</string>

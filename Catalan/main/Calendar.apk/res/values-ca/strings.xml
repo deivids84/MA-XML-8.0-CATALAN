@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessbility_suggestion_dropdown_opened">Obrir contactes suggerits</string>
   <string name="accessibility_add_attendee">Afegeix assistent</string>
   <string name="accessibility_add_reminder">Afegeix recordatori</string>
   <string name="accessibility_all_day">Esdeveniment de tot el dia</string>
@@ -15,7 +14,7 @@
   <string name="accessibility_reminder_type">Tipus de recordatori</string>
   <string name="accessibility_remove_attendee">Eliminar assistent</string>
   <string name="accessibility_remove_reminder">Eliminar recordatori</string>
-  <string name="accessibility_repeats">Repeteix</string>
+  <string name="accessibility_repeats">Repetir</string>
   <string name="accessibility_sync_cal">Sincronitza calendari</string>
   <string name="account_and_calendar">Comptes</string>
   <string name="account_and_calendar_to_display">Calendaris mostrats</string>
@@ -24,13 +23,11 @@
   <string name="acessibility_cal_notification">Notificació de calendari</string>
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
   <string name="acessibility_snooze_notification">Notificació de repetició</string>
-  <string name="action_label">Tornar</string>
   <string name="action_text_new_event">Esdeveniment nou</string>
   <string name="action_text_online">Trobats</string>
   <string name="action_text_today">Avui</string>
   <string name="add_account">Afegeix un compte</string>
   <string name="add_calendar">Subscriure</string>
-  <string name="add_card">Afegir targetes</string>
   <string name="add_topic_success">Subscrit a %s amb èxit</string>
   <string name="add_topic_unsuccess">Error a la subscripció de %s</string>
   <string name="adding_calendar">Subscripcions</string>
@@ -69,8 +66,6 @@
   <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">Aniversari</string>
-  <string name="book_card_free">Lliure</string>
-  <string name="book_card_rating_text">|   %1$s comentaris</string>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
   <string name="button_online">Ordre</string>
@@ -82,19 +77,9 @@
   <string name="can_not_modify_allday_event">Els esdeveniments de tot el dia no es poden modificar</string>
   <string name="can_not_modify_event">No es pot modificar</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Els esdeveniments periòdics no es poden modificar</string>
-  <string name="card_manager">Administració de targetes</string>
-  <string name="card_title_change">Per a un canvi</string>
   <string name="change_response_title">Canviar resposta</string>
-  <string name="chinese_leap">闰</string>
-  <string name="chongsha">冲煞</string>
-  <string name="click_watch">Feu clic per a visualitzar</string>
-  <string name="common_fri">周五</string>
-  <string name="common_mon">周一</string>
-  <string name="common_sat">周六</string>
-  <string name="common_sun">周日</string>
-  <string name="common_thu">周四</string>
-  <string name="common_tus">周二</string>
-  <string name="common_wed">周三</string>
+  <string name="chinese_leap">Correr</string>
+  <string name="chongsha">chongsha</string>
   <string name="copy_db">Enviar base de dades</string>
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
   <string name="copy_number">Copiar el número de telèfon</string>
@@ -155,6 +140,7 @@
   <string name="event_date_format">dd/MM</string>
   <string name="event_delete">Eliminar esdeveniment</string>
   <string name="event_edit">Editar esdeveniment</string>
+  <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="event_hide_more">Amagar</string>
   <string name="event_info_descrip">Descripció\u0009\u0009\u0009</string>
   <string name="event_info_end">Final\u0009\u0009\u0009</string>

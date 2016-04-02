@@ -186,7 +186,7 @@
   <string name="data_usage_correction_timeout_title">"La sincronització d'ús de dades no funciona"</string>
   <string name="data_usage_disabled_dialog">"Ha arribat al límit del seu pla de dades mòbils. Si sobrepassa el límit, el seu operador li pot facturar càrrecs addicionals."</string>
   <string name="data_usage_disabled_dialog_enable">Activa dades</string>
-  <string name="data_usage_leisure_warning_body">ªToqui per veure detalls d'ús de dades.ª</string>
+  <string name="data_usage_leisure_warning_body">"Toqui per veure detalls d'ús de dades."</string>
   <string name="data_usage_leisure_warning_title">Límit de dades en hores vall</string>
   <string name="data_usage_limit_body">Toqui per connectar dades mòbils.</string>
   <string name="data_usage_limit_snoozed_body">Superat el límit de dades per a aquest mes.</string>
@@ -228,7 +228,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="datausage_purchase_title_order">Recarregar</string>
   <string name="datausage_purchase_title_pkglist">Recarregar</string>
   <string name="datausage_purchase_view_detail">Mostra els detalls</string>
-  <string name="declaration_dialog_msg">Aquesta utilitat pot ajudar a controlar el seu consum, però no garanteix que no es cobrin càrrecs addicionals. Els millors resultats s'aconsegueixen amb un límit conservador.</string>
+  <string name="declaration_dialog_msg">"Aquesta utilitat pot ajudar a controlar el seu consum, però no garanteix que no es cobrin càrrecs addicionals. Els millors resultats s'aconsegueixen amb un límit conservador."</string>
   <string name="delete">Elimina</string>
   <string name="delete_from_manual_item_white_list">Treure de les excepcions</string>
   <string name="descx_cleanuping_item">Optimitzant %s</string>
@@ -251,7 +251,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="detail_app_button">"Informació de l'aplicació"</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
-  <string name="dialog_app_roaming_message">%1$s no pot fer servir dades mòbils en itinerància. Quan s'utilitza la itinerància internacional, només les aplicacions a la llista d'excepcions poden usar dades mòbils.</string>
+  <string name="dialog_app_roaming_message">"%1$s no pot fer servir dades mòbils en itinerància. Quan s'utilitza la itinerància internacional, només les aplicacions a la llista d'excepcions poden usar dades mòbils."</string>
   <string name="dialog_app_roaming_title">El roaming internacional no està habilitat per %1$s</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració &gt; Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Aturar l'escaneig de virus abans que acabi?"</string>
@@ -310,7 +310,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
   <string name="firewall_rule_group_title_roaming">Roaming internacional</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
-  <string name="firewall_service_network_blocked">%1$s no té permès l'ús de %2$s xarxes</string>
+  <string name="firewall_service_network_blocked">"%1$s no té permès l'ús de %2$s xarxes"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="force_stop_dlg_text">"Si restringeix les dades mòbils en segon pla algunes aplicacions i serveis no funcionaran a menys que es connecti a una Wi-Fi."</string>
   <string name="force_stop_dlg_title">Restringeix dades en segon pla</string>
@@ -910,7 +910,7 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
   <string name="sim_location_diagnostic">"Diagnòstic d'ubicació"</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
-  <string name="sim_location_error_notify_message">Premi per canviar d'ubicació SIM.</string>
+  <string name="sim_location_error_notify_message">"Premi per canviar d'ubicació SIM."</string>
   <string name="sim_location_error_notify_title">Error de la targeta SIM</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
   <string name="songs_number">18 cançons</string>
