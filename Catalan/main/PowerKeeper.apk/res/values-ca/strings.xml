@@ -48,9 +48,6 @@
   <string name="location_enable_description">"Les aplicacions poden utilitzar els serveis d'ubicació en segon pla"</string>
   <string name="keep_connect_description">Les aplicacions poden connectar-se a la xarxa en segon pla</string>
   <string name="keep_connect_title">Mantenir connectat</string>
-  <string name="location_disable_description">Les aplicacions en segon pla poden accedir a la localització momentàniament, però l\'accés continuat està restringit</string>
-  <string name="location_disable_title">Restringeix</string>
-  <string name="location_enable_description">Les aplicacions poden utilitzar la localització en segon pla</string>
   <string name="location_enable_title">Permet</string>
   <string name="location_mode_title">Localització en segon pla</string>
   <string name="low">Estalvi de bateria</string>
