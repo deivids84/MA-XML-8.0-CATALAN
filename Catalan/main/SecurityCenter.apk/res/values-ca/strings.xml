@@ -1085,6 +1085,127 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
   <string name="toast_virus_cloudscan">"L'anàlisi de virus farà servir definicions en línia"</string>
   <string name="toast_virus_in_cloud_scanning">"No es pot aturar l'anàlisi del núvol"</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Pla mensual canviat a %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Ajustar automàticament el paquet de dades d'acord amb la informació de l'operador"</string>
+  <string name="traffic_config_alert_auto_modify">Actualitzar pla de dades automàticament</string>
+  <string name="traffic_config_alert_body">"El compte de la seva companyia mostra :%s.
+
+És això correcte?"</string>
+  <string name="traffic_config_alert_body_extra">"
+Ha comprat %1$s de dades extres aquest mes. Això difereix dels %2$s que ha afegit manualment."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Ha comprat %s de dades extres aquest mes. Això no està reflectit en el límit de dades mensual que va configurar manualment."</string>
+  <string name="traffic_config_alert_body_leisure">"
+El seu límit de dades mensual fora d'hora punta és de %1$s. Aquest difereix del límit de %2$s que ha configurat manualment."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+El seu límit de dades mensual fora d'hora punta és de %1$s. No ha configurat cap límit de dades fora d'hora punta."</string>
+  <string name="traffic_config_alert_body_normal">"
+El seu límit de dades mensual en hora punta és de %1$s. Aquest difereix del límit de %2$s que ha configurat manualment."</string>
+  <string name="traffic_config_alert_package">"
+Dades extres en ús"</string>
+  <string name="traffic_config_alert_setted">Configuració aplicada</string>
+  <string name="traffic_config_alert_title">%s Correcció</string>
+  <string name="traffic_correction_failed">"No s'ha pogut obtenir la informació"</string>
+  <string name="traffic_correction_start_correction">"Intercanviant info amb els servidors del seu operador…"</string>
+  <string name="traffic_correction_start_correction_failed">"La sol·licitud ha fallat, si us plau verifiqui la configuració de l'operador"</string>
+  <string name="traffic_correction_success">Actualitzar usos de dades</string>
+  <string name="traffic_correction_success_notify_message">Toca per veure els detalls.</string>
+  <string name="traffic_limit_error_alert_body">"Les seves dades restants d'aquest mes (%1$s) són superiors al seu pla mensual (%2$s). Marcar dades addicionals com a recàrrega?</string>
+  <string name="traffic_limit_error_alert_package">"
+
+El volum restant de dades inclou l'excedent respecte al mes anterior."</string>
+  <string name="traffic_limit_error_alert_title">Recordatori del límit de dades %s</string>
+  <string name="traffic_none">Cap</string>
+  <string name="traffic_over_purchase_body">Touch to view details.</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Data limit exceeded</string>
+  <string name="traffic_protection_data_usage_summary">"Configureu alertes de límit de l'ús de dades perquè la seva operadora no li cobri càrrecs addicionals."</string>
+  <string name="traffic_protection_label">Avís de consum de dades</string>
+  <string name="traffic_protection_next">Següent</string>
+  <string name="traffic_protection_summary">"Estableixi alertes quan l'ús de dades arribi a un cert nivell"</string>
+  <string name="traffic_protection_text_hint">"Establir límit d'ús de dades per a %s"</string>
+  <string name="traffic_protection_unknown"><u>Configura més tard</u></string>
+  <string name="traffic_protection_use_data">Dades mòbils</string>
+  <string name="traffic_purchase_body">Tap to top up your balance.</string>
+  <string name="traffic_purchse_suggestion">Top up mobile data</string>
+  <string name="traffic_saving_button_mng">Gestionar aplicacions</string>
+  <string name="traffic_saving_button_sorted">Detalls</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
+  <string name="traffic_saving_button_start">Turn on</string>
+  <string name="traffic_saving_button_stop">Turn off</string>
+  <string name="traffic_saving_can_optimized">Optimize</string>
+  <string name="traffic_saving_detail">Details</string>
+  <string name="traffic_saving_history_title">History</string>
+  <string name="traffic_saving_history_total_money">Total saved</string>
+  <string name="traffic_saving_history_total_money_unit">RMB</string>
+  <string name="traffic_saving_history_total_month">"Saved this month: "</string>
+  <string name="traffic_saving_history_total_month_default">Average savings per month</string>
+  <string name="traffic_saving_history_total_rate">Rate</string>
+  <string name="traffic_saving_history_total_rate_unit">%</string>
+  <string name="traffic_saving_history_total_traffic">Data saved</string>
+  <string name="traffic_saving_mobile_usage">Data saver</string>
+  <string name="traffic_saving_msg_month">Saved this month</string>
+  <string name="traffic_saving_msg_not_started">Data saver is off</string>
+  <string name="traffic_saving_msg_today">saved today</string>
+  <string name="traffic_saving_need_optimize">Can be optimized</string>
+  <string name="traffic_saving_notification_button_start">Activate</string>
+  <string name="traffic_saving_notify_no_apps_saving">Reduce data usage</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
+  <string name="traffic_saving_notify_start_content">%s saved this month.</string>
+  <string name="traffic_saving_notify_start_title">Data usage reduced</string>
+  <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
+  <string name="traffic_saving_optimized">Already optimized</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Data usage reduced %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Can't significantly reduce data usage"</string>
+  <string name="traffic_saving_recommanded_close">Turn off</string>
+  <string name="traffic_saving_recommanded_open">Turn on</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activate</string>
+  <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
+  <string name="traffic_saving_title">Data saver</string>
+  <string name="traffic_saving_toast_start_mobile">Data saver is on</string>
+  <string name="traffic_saving_toast_start_none_mobile">Data saver will activate whenever you use mobile data</string>
+  <string name="traffic_saving_toast_start_unreachable">"Can't start Data saver"</string>
+  <string name="traffic_saving_toast_stop">Data saver is off</string>
+  <string name="traffic_saving_whitelist_btn_add">Add</string>
+  <string name="traffic_saving_whitelist_btn_add_app">Add</string>
+  <string name="traffic_saving_whitelist_btn_added">Added</string>
+  <string name="traffic_saving_whitelist_btn_remove">Remove</string>
+  <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
+  <string name="traffic_saving_whitelist_no_app">No apps</string>
+  <string name="traffic_saving_wifi_usage">Wifi saver</string>
+  <string name="traffic_setting_app_count">%d apps</string>
+  <string name="traffic_setting_completed">OK</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
+  <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
+  <string name="traffic_setting_extra_pkg_title">Additional settings</string>
+  <string name="traffic_setting_extra_traffic_title">Additional settings</string>
+  <string name="traffic_setting_fragment_area">Locale</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+  <string name="traffic_setting_fragment_brand">Brand</string>
+  <string name="traffic_setting_fragment_button1_text">Cancel</string>
+  <string name="traffic_setting_fragment_button2_text">Save</string>
+  <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
+  <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
+  <string name="traffic_setting_fragment_no_network">"Can't connect to network"</string>
+  <string name="traffic_setting_fragment_null">Empty</string>
+  <string name="traffic_setting_fragment_operator">Carrier</string>
+  <string name="traffic_setting_fragment_send_num">Carrier phone number</string>
+  <string name="traffic_setting_fragment_send_num_tips">Enter phone number</string>
+  <string name="traffic_setting_fragment_sms_content">Message content</string>
+  <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
+  <string name="traffic_setting_fragment_template">Message template</string>
+  <string name="traffic_setting_fragment_title">Data usage query</string>
+  <string name="traffic_setting_open">On</string>
+  <string name="traffic_setting_step_num">Data plan settings</string>
+  <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
+  <string name="unable_connect_internet">No hi ha connexió a internet</string>
+  <string name="updating_diagnostic_botton">Analitzant dades…</string>
   <string name="usage_sorted_activity_lable">Ús de dades</string>
   <string name="usage_sorted_empty_text">Buit</string>
   <string name="usage_sorted_loading_text">Un moment…</string>

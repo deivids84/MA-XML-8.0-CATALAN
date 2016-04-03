@@ -120,7 +120,7 @@
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
-  <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time_12hour">"h 'o''clock'"</string>
   <string name="fmt_time_24hour">"H 'o''clock'"</string>
