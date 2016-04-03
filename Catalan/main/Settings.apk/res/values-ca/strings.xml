@@ -221,6 +221,12 @@ Activar finestres actives?"</string>
   <string name="audio_record_proc_title">Cancel·lació de soroll</string>
   <string name="auto_caps">Majúscules automàtiques</string>
   <string name="auto_caps_summary">Primera lletra de les frases en majúscules</string>
+  <string name="auto_disable_screenbuttons_ask">Pregunta per desactivar</string>
+  <string name="auto_disable_screenbuttons_auto">Sempre desactivar</string>
+  <string name="auto_disable_screenbuttons_cancel">Cancel·lar</string>
+  <string name="auto_disable_screenbuttons_no">Mai desactivar</string>
+  <string name="auto_disable_screenbuttons_summary">Desactivar automàticament els botons de navegació en utilitzar les aplicacions seleccionades. Toqui dues vegades qualsevol botó de navegació per reactivar-los.</string>
+  <string name="auto_disable_screenbuttons_title">Desactivar automàticament els botons de navegació</string>
   <string name="auto_launch_disable_text">No establerts per defecte.</string>
   <string name="auto_launch_enable_text">"Ha decidit iniciar aquesta aplicació per defecte per a algunes accions."</string>
   <string name="auto_launch_label">Iniciar per defecte</string>
@@ -324,7 +330,9 @@ Activar finestres actives?"</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Nivell de bateria</string>
   <string name="battery_settings">Bateria</string>
-  <string name="battery_light_title">Llum de bateria</string>
+  <string name="battery_light_summary">Activa LED de notificació mentre es carrega el dispositiu</string>
+  <string name="battery_light_title">Encendre en carregar</string>
+  <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Bateria usada des del reinici</string>
   <string name="battery_since_unplugged">Bateria usada des que es va desendollar</string>
@@ -344,7 +352,7 @@ Activar finestres actives?"</string>
   <string name="battery_sugg_bluetooth_headset">Proveu connectant un dispositiu bluetooth diferent</string>
   <string name="battery_sugg_display">Reduïu la brillantor de pantalla i/o el temps d\'apagada</string>
   <string name="battery_sugg_radio">Canvieu al mode avió per estalviar energia en zones sense cobertura</string>
-  <string name="battery_sugg_wifi">"Apagueu el senyal Wi-Fi quan no la faci servir o no mostrar" </string>
+  <string name="battery_sugg_wifi">"Apagar Wi-Fi quan no s'estigui utilitzant o quan no està disponible" </string>
   <string name="bearer">Portador</string>
   <string name="biometric_weak_improve_matching_title">Millorar coincidència facial</string>
   <string name="biometric_weak_liveliness_summary">Requerir picada d\'ullet al desbloquejar</string>

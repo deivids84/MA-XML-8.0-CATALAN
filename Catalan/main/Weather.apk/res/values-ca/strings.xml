@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="act_find_city_hint">Introduïu la ubicació</string>
+  <string name="act_find_city_hint">Introduir ubicació</string>
   <string name="act_find_city_hot_title">Afegir</string>
-  <string name="act_set_city_find_side">Ubicant…</string>
-  <string name="act_set_city_find_side_error">"No es pot ubicar el dispositiu"</string>
-  <string name="act_weather_find_city_added">Afegida</string>
+  <string name="act_set_city_find_side">Localitzant\u2026</string>
+  <string name="act_set_city_find_side_error">No pot localitzar-se el dispositiu</string>
+  <string name="act_weather_find_city_added">Ciutat afegida</string>
   <string name="act_weather_find_city_click_retry">Reintentar</string>
   <string name="act_weather_find_city_net_no_good">"No es pot connectar a la xarxa."</string>
   <string name="act_weather_find_city_no_result">No hi ha resultats</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">"D'acord"</string>
+  <string name="congratulation_label">Gaudiu del seu nou telèfon :)</string>
   <string name="desc_fingerprint">Utilitzeu la empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-se a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitza la teva empremta dactilar per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="disagree">Cancel·la</string>
