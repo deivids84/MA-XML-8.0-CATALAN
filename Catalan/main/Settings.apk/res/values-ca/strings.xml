@@ -332,7 +332,6 @@ Activar finestres actives?"</string>
   <string name="battery_settings">Bateria</string>
   <string name="battery_light_summary">Activa LED de notificació mentre es carrega el dispositiu</string>
   <string name="battery_light_title">Encendre en carregar</string>
-  <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Bateria usada des del reinici</string>
   <string name="battery_since_unplugged">Bateria usada des que es va desendollar</string>
