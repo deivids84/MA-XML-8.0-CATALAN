@@ -1076,14 +1076,18 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="toast_default_app">"%1$s establert com a %2$s per defecte del sistema"</string>
   <string name="toast_flow_notification">Activades les notificacions d\'ús de dades</string>
   <string name="toast_garbage_lib">Activades les actualitzacions automàtiques de Netejador</string>
+  <string name="toast_lockscreen_glogin_empty_password">Es requereix contrasenya</string>
   <string name="toast_network_switch">Aquesta aplicació pot connectar-se a internet</string>
-  <string name="toast_root_apply_accept">Concedit accés root a %s</string>
-  <string name="toast_root_apply_reject">Denegat accés root a %s</string>
-  <string name="toast_shortcut_install">Accés directe col·locat a la pantalla d\'inici</string>
+  <string name="toast_root_apply_accept">Accés root concedit a %s</string>
+  <string name="toast_root_apply_reject">Accés root denegat a %s</string>
+  <string name="toast_shortcut_install">"Accés directe enviat a la pantalla d'inici"</string>
   <string name="toast_shortcut_uninstall">Accés directe eliminat</string>
-  <string name="toast_show_notification">Ancorat a l\'àrea de notificacions</string>
-  <string name="toast_virus_cloudscan">L\'escàner de virus farà servir definicions en línia</string>
-  <string name="toast_virus_in_cloud_scanning">"No es pot aturar l\'escaneig del núvol"</string>
+  <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
+  <string name="toast_virus_cloudscan">"L'anàlisi de virus farà servir definicions en línia"</string>
+  <string name="toast_virus_in_cloud_scanning">"No es pot aturar l'anàlisi del núvol"</string>
+  <string name="usage_sorted_activity_lable">Ús de dades</string>
+  <string name="usage_sorted_empty_text">Buit</string>
+  <string name="usage_sorted_loading_text">Un moment…</string>
   <string name="usage_type_audio">Àudio</string>
   <string name="usage_type_cpu">CPU total</string>
   <string name="usage_type_cpu_foreground">​​CPU en primer pla</string>
@@ -1098,5 +1102,12 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Actiu</string>
   <string name="usage_type_wifi_running">Wi-Fi funcionant</string>
+  <string name="usb_install_desc">"Instal·lar aquesta aplicació a través d'USB?"</string>
+  <string name="usbsharenet_exception_summary">No es pot connectar a Internet mitjançant connexió USB compartida. Comprovar la connexió USB del dispositiu i reiniciar Mi PC Suite.</string>
+  <string name="usbsharenet_exception_title">"Prova compartida a Internet a través d'USB"</string>
+  <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="virus_list_header_title">%d virus detectats</string>
+  <string name="wifi_exception_summary">Prova de xarxes WLAN disponibles</string>
+  <string name="wifi_exception_title">Prova de xarxa WLAN</string>
+  <string name="wifi_network_blocked_notification_title">Sense connexió a Internet</string>
 </resources>

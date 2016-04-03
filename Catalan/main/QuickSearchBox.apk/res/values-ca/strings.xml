@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_name">Cerca</string>
   <string name="clear_history">"Esborra l'historial"</string>
   <string name="connect_and_retry">Connecteu-vos a Internet i torneu a provar</string>
   <string name="cta_declaration">Aquesta característica requereix connexió a Internet, accés a la ubicació del seu dispositiu i veure el registre de trucades i contactes per funcionar normalment.</string>
