@@ -486,6 +486,7 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="main_traffic_used_text">usats</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
   <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
+  <string name="manual_input_traffic">"Establir l'ús de dades"</string>
   <string name="manual_item_white_list_summary">Evitar que les aplicacions seleccionades siguin optimitzades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
   <string name="manual_white_list_header">%d excepcions</string>
@@ -521,6 +522,7 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_framework">Marc de serveis de Mi</string>
@@ -530,8 +532,57 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_requests_from_pc">"Gestionar la instal·lació d'aplicacions mitjançant USB"</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
-  <string name="name_antivirus">veure Política de Privacitat</string>
+  <string name="network_assistant_upgraded_body">Tocar per veure els detalls.</string>
+  <string name="network_assistant_upgraded_title">Actualitzat</string>
+  <string name="network_blocked_connected_open_wifi">Connected to public network</string>
+  <string name="network_blocked_notification_summary">Test network</string>
+  <string name="network_blocked_switch_wifi">Switch networks</string>
+  <string name="network_connected_exception_title">Test network</string>
+  <string name="network_control">Veure configuració de les aplicacions</string>
+  <string name="network_diagnostics">Test network</string>
+  <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+
+ 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+
+ 2. If you just topped up your device's balance, reboot your device and try again.
+
+ 3. Your carrier's network's signal may be weak in your current location."</string>
+  <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
+  <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+  <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
+  <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+
+ "&lt;b&gt;"1. Public WLAN network issues
+"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+
+ 2."&lt;b&gt;" Internet service provider issues
+M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+
+ 3."&lt;b&gt;" Router hardware issues
+T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+
+ 4."&lt;b&gt;" Other router issues
+R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+
+ 5."&lt;b&gt;" Make sure your router is connected properly
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+  <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+
+ 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+
+ 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+
+ 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+  <string name="network_speed_for_apps_close">Force stop</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
+  <string name="network_speed_for_apps_others">Other</string>
+  <string name="network_speed_for_apps_title">Connection</string>
+  <string name="network_speed_for_apps_total">Connection speed</string>
+  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+  <string name="networkchanged_exception_title">Connection changed</string>
   <string name="never">1 cop</string>
+  <string name="none_mi_service_app_detail">Buit</string>
   <string name="notification_button_text_of_low_memory">Netejar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
   <string name="notification_title_cmcc_app_check">%d dies des de l\'última comprovació</string>
@@ -845,6 +896,44 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="pref_version">Versió %s</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Administrar llista de permeses</string>
+  <string name="preference_category_key_reference_settings">key_reference_settings</string>
+  <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
+  <string name="preference_key_about_version">key_about_version</string>
+  <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
+  <string name="preference_key_app_permission_control">key_app_permission_control</string>
+  <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
+  <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
+  <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
+  <string name="preference_key_create_shortcut">key_create_shortcut</string>
+  <string name="preference_key_cta_settings">key_cta_settings</string>
+  <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
+  <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
+  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
+  <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
+  <string name="preference_key_module_antipam">module_antipam</string>
+  <string name="preference_key_module_antivirus">key_module_antivirus</string>
+  <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
+  <string name="preference_key_module_network_assistant">key_network_assistant</string>
+  <string name="preference_key_module_permissions">key_module_permissions</string>
+  <string name="preference_key_module_power_center">module_power_center</string>
+  <string name="preference_key_month_report_switch">key_month_report_switch</string>
+  <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
+  <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
+  <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
+  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
+  <string name="preference_key_permission_manager">key_permission_manager</string>
+  <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
+  <string name="preference_key_root_manager">key_root_manager</string>
+  <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
+  <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
+  <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
+  <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
+  <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
+  <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
+  <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
+  <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
+  <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
+  <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Càmera</string>
   <string name="preferred_app_entries_dial">Telèfon</string>
@@ -867,11 +956,15 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="protection_category_recommend_title">Canvis recomanats (%d)</string>
   <string name="protection_category_security_title">Net (%d)</string>
   <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
+  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
   <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Premi per activar protector de dades.</string>
   <string name="reach_daily_limit_value_title">Ha arribat al límit diari de dades</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
+  <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
+  <string name="recently_reject_message_one">"%1$s sol·licituds d'instal·lació rebutjades"</string>
+  <string name="recommend_app">Apps recomanades</string>
   <string name="reject_all">Restringir tot</string>
   <string name="reject_countdown">Denegar (%d)</string>
   <string name="reject_usb_install">"Instal·lació denegada de les següents aplicacions a través d'USB"</string>
@@ -909,6 +1002,7 @@ Hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="scanning_bar_system_text">Permisos d\'aplicacions</string>
   <string name="scanning_bar_system_title">Escanejant sistema…</string>
   <string name="score_pts">%</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="security_app_lock">"Bloqueig d'aplicacions"</string>
   <string name="security_scan_optimizing">Optimitzant…</string>
   <string name="see_detail">Detalls</string>
