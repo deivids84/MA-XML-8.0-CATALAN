@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">Comptes</string>
   <string name="about_settings">Quant al telèfon</string>
-  <string name="about_settings_summary">Veure informació legal, estat, versió de programar</string>
-  <string name="ac_enable_title">Permisos</string>
-  <string name="ac_privacy_mode_sum">Requereix una contrasenya per desactivar el mode de convidat</string>
+  <string name="about_settings_summary">Veure informació legal, estat, versió de programari</string>
+  <string name="ac_enable_summary">"Es requerirà una contrasenya per obrir l'aplicació"</string>
+  <string name="ac_enable_title">Bloquejar aplicació</string>
+  <string name="ac_privacy_mode_sum">Es requereix una contrasenya per desactivar el mode convidat</string>
   <string name="ac_privacy_mode_title">Contrasenya</string>
   <string name="ac_set_apps_title">Bloqueig d\'aplicacions</string>
   <string name="accelerometer_summary_off">No canviar l\'orientació automàticament en girar el telèfon</string>
@@ -11,19 +13,24 @@
   <string name="accelerometer_title">Rotació automàtica de pantalla</string>
   <string name="access_control_app_entry_multiple">Obrir %s</string>
   <string name="access_control_app_entry_single">Obrir aplicació</string>
-  <string name="access_control_need_password">"%s ha estat protegit"</string>
+  <string name="access_control_need_password">"%s ha estat protegit
+  "</string>
   <string name="access_control_need_to_unlock">Contrasenya requerida:</string>
   <string name="access_control_no_back_footer">Toqui [icon] per sortir</string>
   <string name="access_control_password_title">Contrasenya</string>
   <string name="access_control_recording_intro_header">Dibuixa un patró de desbloqueig:</string>
   <string name="access_control_reset_by_account">Inicia sessió amb el vostre compte Mi per restablir contrasenya</string>
+  <string name="access_point_names">"Noms de punt d'accés"</string>
   <string name="accessibility_captioning_title">Subtítols</string>
+  <string name="accessibility_category_personal">Comptes de perfil personal</string>
+  <string name="accessibility_category_work">Comptes de perfil de treball - %s</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta funcionalitat és experimental i pot afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pot afectar el rendiment</string>
   <string name="accessibility_display_inversion_preference_title">Inversió de color</string>
   <string name="accessibility_display_title">Pantalla</string>
   <string name="accessibility_enable">Accessibilitat</string>
+  <string name="accessibility_feature_or_input_method_not_allowed">No és permès per la seva organització</string>
   <string name="accessibility_feature_state_off">Apagat</string>
   <string name="accessibility_feature_state_on">Ences</string>
   <string name="accessibility_global_gesture_preference_description">"Quan aquesta funció està activada, ràpidament pot activar les funcions d\'accessibilitat en dos passos:
@@ -36,9 +43,12 @@ Si el dispositiu té múltiples usuaris, usant l\'accés directe a la pantalla d
   <string name="accessibility_global_gesture_preference_summary_off">Apagat</string>
   <string name="accessibility_global_gesture_preference_summary_on">Ences</string>
   <string name="accessibility_global_gesture_preference_title">Drecera d\'accessibilitat</string>
+  <string name="accessibility_lock_screen_progress">%1$d de %2$d caràcters usats</string>
   <string name="accessibility_long_press_timeout_preference_title">Tocar i pulsació llarga</string>
   <string name="accessibility_menu_item_settings">Ajustos</string>
   <string name="accessibility_no_services_installed">No hi ha serveis instal·lats</string>
+  <string name="accessibility_no_wifi">Wi-Fi desconnectat.</string>
+  <string name="accessibility_personal_account_title">Compte personal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botó d\'encesa acaba la trucada</string>
   <string name="accessibility_screen_magnification_enable">Gestos per zoom</string>
   <string name="accessibility_screen_magnification_summary">"Quan s\'activa aquesta característica es pot fer zoom + i zoom- amb un toc triple sobre la pantalla.
@@ -52,8 +62,6 @@ També pot ampliar el que està sota el seu dit mantenint sobre la pantalla desp
 Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i la barra de navegació."</string>
   <string name="accessibility_screen_magnification_title">Gestos per ampliar</string>
   <string name="accessibility_service_default_description">Sense descripció.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack proporciona realimentació parlada com ajuda als usuaris amb discapacitat visual. El vol instal·lar gratis des de la Play Store?</string>
-  <string name="accessibility_service_no_apps_title">¿Necesita un lector de pantalla?</string>
   <string name="accessibility_services_title">Serveis</string>
   <string name="accessibility_settings">Accessibilitat</string>
   <string name="accessibility_settings_title">Configuració d\'accessibilitat</string>
@@ -68,10 +76,20 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto actualitzar ampliació de pantalla</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Ampliació de pantalla</string>
   <string name="accessibility_toggle_speak_password_preference_title">Llegir les contrasenyes en veu alta</string>
-  <string name="account_add">Afegeix</string>
+  <string name="accessibility_wifi_off">Wi-Fi apagat.</string>
+  <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
+  <string name="accessibility_wifi_signal_full">senyal de Wi-Fi completa.</string>
+  <string name="accessibility_wifi_three_bars">Wi-Fi tres barres.</string>
+  <string name="accessibility_wifi_two_bars">Wi-Fi dues barres.</string>
+  <string name="accessibility_work_account_title">Compte de treball - %s</string>
+  <string name="account_add">Afegir</string>
   <string name="account_autostar_label">Gestió d\'Auto-arrencada</string>
   <string name="account_list">Altres comptes</string>
   <string name="account_settings">Comptes</string>
+  <string name="account_settings_menu_auto_sync">Sincronització automàtica de dades</string>
+  <string name="account_settings_menu_auto_sync_personal">Sincronització automàtica de dades personals</string>
+  <string name="account_settings_menu_auto_sync_work">Sincronització automàtica de dades de feina</string>
+  <string name="account_settings_title">Comptes</string>
   <string name="account_sync_settings_title">Sincronitzar</string>
   <string name="activate_miui_screensaver">Protector de pantalla durant suspensió</string>
   <string name="activating">Activant…</string>
@@ -89,16 +107,19 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="add_fingerprint_done_msg">Ara pots desbloquejar el dispositiu amb la teva empremta.</string>
   <string name="add_fingerprint_done_title">Fet!</string>
   <string name="add_fingerprint_finished_button_text">Fet</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Per a afegir la informació de la teva emprenta, dóna suport al dit en el sensor.
-Assegura\'t que el teu dit cobreix la part interior del sensor</string>
+  <string name="add_fingerprint_instruction_dialog_msg">Per a afegir la informació de la teva emprenta, dóna suport al dit en el sensor. Assegura\'t que el teu dit cobreix la part interior del sensor</string>
   <string name="add_fingerprint_instruction_msg">Desbloqueja el teu dispositiu o valida pagaments amb la teva petjada</string>
   <string name="add_fingerprint_instruction_title">Recolza el dit a l\'escàner d\'empremta</string>
-  <string name="add_fingerprint_move_finger_title">Retira el dit</string>
   <string name="add_fingerprint_put_finger_edge_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
   <string name="add_fingerprint_put_finger_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
   <string name="add_fingerprint_put_finger_title">Recolza el dit i després treue\'l</string>
   <string name="add_fingerprint_text">Afegeix empremta</string>
   <string name="add_fingerprint_toast_text">Recolza el dit a l\'escàner ara</string>
+  <string name="adding_profile_owner_warning">"En continuar, l'usuari serà administrat per l'administrador, que també pot ser capaç d'emmagatzemar les dades associades, a més de les seves dades personals.
+
+El seu administrador té la capacitat de supervisar i administrar la configuració, accés, aplicacions i dades associades amb aquest usuari, incloent l'activitat de la xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="additional_permissions">Permisos addicionals</string>
+  <string name="additional_permissions_more">%1$d més</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals de Sistema</string>
