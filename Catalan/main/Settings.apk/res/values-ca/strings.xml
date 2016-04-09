@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Comptes</string>
+  <string name="aaid_info">"
+Identificador de publicitat és un identificador únic permanent al dispositiu. Els venedors utilitzen per seleccionar el contingut publicitari que serà més útil per a vostè.
+
+Si decideix no utilitzar anuncis personalitzats, no es reduirà la quantitat de publicitat, però la quantitat d'anuncis útils per a vostè disminuirà significativament."</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Veure informació legal, estat, versió de programari</string>
   <string name="ac_enable_summary">"Es requerirà una contrasenya per obrir l'aplicació"</string>
@@ -97,6 +101,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
   <string name="activity_not_found">​​L\'aplicació no està instal·lada en el seu telèfon.</string>
   <string name="activity_picker_label">Triar activitat</string>
+  <string name="ad_service">Serveis de publicitat</string>
   <string name="adb_keys_warning_message">"Revocar l\'accés a depuració d'USB a tots els ordinadors prèviament autoritzats?"</string>
   <string name="adb_warning_message">La depuració USB s\'utilitza únicament per a desenvolupament. Utilitzar-lo per copiar dades entre el seu ordinador i el dispositiu, instal·lar una aplicació al dispositiu sense notificació i llegir dades de registre.</string>
   <string name="adb_warning_title">Permetre depuració USB?</string>
@@ -106,6 +111,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="add_device_admin_msg">¿Activar Administrador de dispositiu?</string>
   <string name="add_fingerprint_done_msg">Ara pots desbloquejar el dispositiu amb la teva empremta.</string>
   <string name="add_fingerprint_done_title">Fet!</string>
+  <string name="add_fingerprint_failed_retry_text">"No s'ha pogut afegir l'empremta, torna-ho a provar"</string>
   <string name="add_fingerprint_finished_button_text">Fet</string>
   <string name="add_fingerprint_instruction_dialog_msg">Per a afegir la informació de la teva emprenta, dóna suport al dit en el sensor. Assegura\'t que el teu dit cobreix la part interior del sensor</string>
   <string name="add_fingerprint_instruction_msg">Desbloqueja el teu dispositiu o valida pagaments amb la teva petjada</string>
@@ -113,6 +119,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="add_fingerprint_put_finger_edge_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
   <string name="add_fingerprint_put_finger_msg">Després de prémer el sensor, retira el dit i repeteix de nou.</string>
   <string name="add_fingerprint_put_finger_title">Recolza el dit i després treue\'l</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">"Moveu el dit lleugerament i torna'l a posar en el sensor de nou per afegir totes les diferents parts de la seva empremta."</string>
   <string name="add_fingerprint_text">Afegeix empremta</string>
   <string name="add_fingerprint_toast_text">Recolza el dit a l\'escàner ara</string>
   <string name="adding_profile_owner_warning">"En continuar, l'usuari serà administrat per l'administrador, que també pot ser capaç d'emmagatzemar les dades associades, a més de les seves dades personals.
@@ -124,15 +131,17 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals de Sistema</string>
   <string name="adjust_3d_depth_title">"Ajustar profunditat per a jocs 3D</string>
+  <string name="advanced_apps">Avançat</string>
+  <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració avançada</string>
   <string name="advanced_settings_summary">Activar més opcions d\'ajust</string>
-  <string name="advanced_text_layout">Activar les presentacions de text avançat </string>
   <string name="agps_roaming">A-GPS quan està en itinerància</string>
   <string name="agps_roaming_dia">"L\'ús d\'A-GPS en itinerància, pot augmentar l\'ús de dades mòbils. Si es passa del seu límit de dades de plans, el seu operador podria cobrar despeses addicionals."</string>
   <string name="agps_roaming_dia_title">Utilitza A-GPS quan està en itinerància</string>
   <string name="agps_roaming_summary">Utilitza A-GPS quan està en itinerància, podria tenir càrrecs telefònics</string>
   <string name="airplane_mode">Mode avió</string>
+  <string name="alarm_volume_option_title">"Volum de l'alarma"</string>
   <string name="alarm_volume_title">Alarma</string>
   <string name="alert_show_screensaver_when_not_charging_msg">El protector de pantalla consumirà bateria.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Ús de la bateria</string>
@@ -141,10 +150,17 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="allow_bind_app_widget_activity_allow_bind">Després que creu el widget, %1$s pot accedir a totes les dades que mostra.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Crear widget i permetre accés?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permet sempre a %1$ crear widgets i accedir a les seves dades</string>
+  <string name="allow_data_usage_title">"Permet l'ús de dades en itinerància"</string>
   <string name="allow_mock_location">Permetre ubicacions simulades</string>
   <string name="allow_mock_location_summary">Permetre ubicacions simulades</string>
+  <string name="allow_overlay_description">Aquest permís permet a una aplicació que es mostrarà a la part superior d'altres aplicacions que utilitzeu i pot interferir amb l'ús de la interfície en altres aplicacions, o canviar el que creu que està veient en altres aplicacions.</string>
+  <string name="allow_usage_access_message">"Si permet l'accés, aquesta aplicació pot veure informació general sobre les aplicacions en el dispositiu, com ara la freqüència amb què les utilitza."</string>
+  <string name="allow_usage_access_title">"Permet l'accés?"</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">"Ha triat permetre a aquesta aplicació crear widgets i accedir a les seves dades."</string>
+  <string name="always_running">Sempre corrent (%s)</string>
+  <string name="amber_alerts_summary">Rebre butlletins sobre segrestos de nens</string>
+  <string name="amber_alerts_title">Alertes AMBER</string>
   <string name="android_beam_disabled_summary">Compartir continguts per NFC requereix que el NFC estigui activat</string>
   <string name="android_beam_explained">Pot transmetre a un altre dispositiu una pàgina web, un vídeo o un altre contingut que estigui a la pantalla apropant fins tocar-se (normalment darrere amb posterior).</string>
   <string name="android_beam_label">Transmissió Android</string>
@@ -163,8 +179,6 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="apn_auth_type_pap_chap">PAP o CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
   <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
-  <string name="apn_cm_net">CMNET</string>
-  <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Editar punt d\'accés</string>
   <string name="apn_general">General</string>
   <string name="apn_http_port">Port</string>
@@ -179,15 +193,19 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="apn_new">Nou punt d\'accés</string>
   <string name="apn_not_set">No definit</string>
   <string name="apn_password">Contrasenya</string>
+  <string name="apn_ppp_number">Número de telèfon APN PPP</string>
   <string name="apn_protocol">Protocol APN</string>
   <string name="apn_roaming_protocol">Protocol APN en itinerància</string>
   <string name="apn_save">Desar?</string>
   <string name="apn_save_msg">Voleu desar els canvis en el APN?</string>
   <string name="apn_server">Servidor</string>
   <string name="apn_settings">APNs</string>
+  <string name="apn_settings_not_available">La configuració de APN no esta disponible per a aquest usuari</string>
   <string name="apn_type">Tipus APN</string>
   <string name="apn_user">Nom d\'usuari</string>
   <string name="app_backup">Còpia de seguretat</string>
+  <string name="app_data_usage">"Ús de dades de l'aplicació"</string>
+  <string name="app_disable_dlgpositive">Desactivar aplicació</string>
   <string name="app_disable_dlg_text">Si desactiva l\'aplicació integrada, altres aplicacions poden donar errors.</string>
   <string name="app_disable_dlg_title">Desactivar aplicació integrada?</string>
   <string name="app_disable_notifications_dlg_text">Si desactiva les notificacions per aquesta aplicació, pot perdre alertes importants i actualitzacions.</string>
@@ -195,28 +213,57 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="app_factory_reset">Desinstal·lar actualitzacions</string>
   <string name="app_factory_reset_dlg_text">Totes les actualitzacions d\'aquesta aplicació de sistema Android seran desinstal·lades.</string>
   <string name="app_factory_reset_dlg_title">Desinstal·lar actualitzacions? </string>
-  <string name="app_floating_window_dlg_disable">"Desactivar %1$s ajustos de la finestra flotant aturarà l\'aplicació.
-Desactivar finestres flotants?"</string>
-  <string name="app_floating_window_dlg_enable">"Activar %1$s ajustos de la finestra activa requereix reiniciar l\'aplicació. També pot aturar l\'aplicació manualment.
-Activar finestres actives?"</string>
+  <string name="app_floating_window_dlg_disable">"Desactivar les finestres flotants de %1$s requereix que l'aplicació es reiniciï."</string>
+  <string name="app_floating_window_dlg_enable">"Activar les finestres flotants de %1$s requereix que l'aplicació es reiniciï."</string>
   <string name="app_forward_locked">L\'aplicació té protecció de còpia. </string>
   <string name="app_install_location_summary">Canvia la ruta d\'instal·lació preferida per a noves aplicacions.</string>
   <string name="app_install_location_title">Ruta d\'instal·lació preferida</string>
+  <string name="app_launch_domain_links_title">"Enllaços d'aplicacions"</string>
+  <string name="app_launch_open_domain_urls_summary">Obre sense preguntar</string>
+  <string name="app_launch_open_domain_urls_title">Obrir enllaços suportats</string>
+  <string name="app_launch_other_defaults_title">Altres valors predeterminats</string>
+  <string name="app_launch_supported_domain_urls_title">Enllaços suportats</string>
+  <string name="app_link_open_always">Obrir en aquesta aplicació</string>
+  <string name="app_link_open_ask">Preguntar sempre</string>
+  <string name="app_link_open_never">No obriu en aquesta aplicació</string>
+  <string name="app_list_memory_use">"Ús d'aplicacions"</string>
+  <string name="app_list_preference_none">Cap</string>
   <string name="app_memory_use">Memòria en ús</string>
   <string name="app_name_label">Aplicació</string>
   <string name="app_not_found_dlg_text">"L\'aplicació no està a la llista d\'aplicacions instal·lades."</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Aquesta aplicació no té suport en perfils restringits</string>
+  <string name="app_notification_block_summary">"Mai mostrar notificacions d'aquesta aplicació"</string>
+  <string name="app_notification_block_title">Bloquejar tot</string>
+  <string name="app_notification_peekable_summary">Let this app emphasize certain notifications by sliding them briefly into view on the current screen</string>
+  <string name="app_notification_peekable_title">Allow peeking</string>
+  <string name="app_notification_preferences">"Configuració de l'aplicació"</string>
+  <string name="app_notification_priority_summary">Let this app’s notifications be heard when Do not disturb is set to Priority only</string>
+  <string name="app_notification_priority_title">Treat as priority</string>
+  <string name="app_notification_row_banned">Bloquejat</string>
+  <string name="app_notification_row_priority">Prioritat</string>
+  <string name="app_notification_row_sensitive">Sensible</string>
+  <string name="app_notification_sensitive_summary">Quan el dispositiu està bloquejat, ocultar el contingut de les notificacions de les aplicacions que pugui revelar informació privada</string>
+  <string name="app_notification_sensitive_title">Amaga el contingut confidencial</string>
+  <string name="app_notifications_dialog_done">Fet</string>
   <string name="app_notifications_switch_label">Notificacions</string>
+  <string name="app_notifications_title">"Notificacions d'aplicacions"</string>
   <string name="app_ops_never_used">(Mai usat)</string>
   <string name="app_ops_running">En execució</string>
   <string name="app_ops_settings">App ops</string>
+  <string name="app_ops_settings_summary">"Veure o canviar permisos d'aplicacions"</string>
+  <string name="app_overlay_permission_preference">App draw on top permission</string>
+  <string name="app_permissions">"Permisos d'aplicacions"</string>
+  <string name="app_permissions_group_summary" formatted="false">%d de %d aplicacions permeses</string>
+  <string name="app_permissions_summary" formatted="false">%d of %d aplicacions permeses amb accés addicional</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
   <string name="app_restrictions_custom_label">Establir restriccions d\'aplicació</string>
   <string name="app_sees_restricted_accounts">Aquesta aplicació pot accedir als teus contactes</string>
+  <string name="app_sees_restricted_accounts_and_controlled_by">Aquesta aplicació pot accedir als seus comptes. Controlat per %1$s</string>
   <string name="app_special_disable_dlg_text">Sí desactiva l\'aplicació integrada, altres aplicacions poden donar errors. Les seves dades seran esborrades.</string>
   <string name="app_special_disable_dlg_title">Elimina les dades i desactivar aplicació?</string>
   <string name="app_switch_key">Recents</string>
+  <string name="app_usage_preference">"Preferències d'ús d'aplicacions"</string>
   <string name="application_forbid_auto_startup">No permetre que %s s\'activi en segon pla</string>
   <string name="application_info_label">Informació d\'aplicació</string>
   <string name="application_item_already_permission">Permet</string>
@@ -231,15 +278,28 @@ Activar finestres actives?"</string>
   <string name="apply_now_button_text">Actualitzar</string>
   <string name="apply_password_to_category_title">Cal contrasenya</string>
   <string name="apply_update_fail">Fallada d\'actualització del sistema.</string>
+  <string name="apps_storage">"Aplicacions d'emmagatzematge"</string>
   <string name="apps_with_restrictions_header">Aplicacions amb restriccions</string>
   <string name="apps_with_restrictions_settings_button">Expandir paràmetres de l\'aplicació</string>
   <string name="ask_compatibility">Pregunta a l\'iniciar</string>
+  <string name="assist_access_context_summary">"Permetre que l'aplicació d'assistència a accedir als continguts de la pantalla com el text"</string>
+  <string name="assist_access_context_title">Utilitzar el text a pantalla</string>
+  <string name="assist_access_screenshot_summary">"Permetre que l'aplicació d'assistència a accedir a una imatge de la pantalla"</string>
+  <string name="assist_access_screenshot_title">Ús de pantalla</string>
+  <string name="assist_and_voice_input_title">Assistent i entrada de veu</string>
+  <string name="assist_footer">"Les aplicacions d'assistent poden ajudar basant-se en l'informació de la pantalla que s'està visualitzant. Algunes aplicacions suporten ambdós serveis de llançadors i d'entrada de veu per donar-li assistència integrada."</string>
+  <string name="assistant_security_warning">"L'assistent serà capaç de llegir la informació sobre les aplicacions en ús en el sistema, incloent informació visible a la pantalla o accessible dins de les aplicacions."</string>
+  <string name="assistant_security_warning_agree">"D'acord"</string>
+  <string name="assistant_security_warning_disagree">Discrepar</string>
+  <string name="assistant_security_warning_title">Fer %s el seu assistent?</string>
   <string name="assisted_gps">Utilitzar GPS assistit</string>
   <string name="assisted_gps_disabled">Utilitzar servidor per al GPS assistit (desmarcar per millorar la precisió del GPS)</string>
   <string name="assisted_gps_enabled">Utilitzar servidor per al GPS assistit (desmarcar per reduir l\'ús de dades)</string>
   <string name="audio_list_loading">Carregant…</string>
   <string name="audio_profile_settings_title">Perfils d\'àudio</string>
   <string name="audio_record_proc_title">Cancel·lació de soroll</string>
+  <string name="auto_brightness_summary">Optimitzar el nivell de brillantor segons la llum disponible</string>
+  <string name="auto_brightness_title">Brillantor automàtic</string>
   <string name="auto_caps">Majúscules automàtiques</string>
   <string name="auto_caps_summary">Primera lletra de les frases en majúscules</string>
   <string name="auto_disable_screenbuttons_ask">Pregunta per desactivar</string>
@@ -262,6 +322,9 @@ Activar finestres actives?"</string>
   <string name="auto_startup_count">%d aplicacions tenen autorització d\'auto-inici</string>
   <string name="automatic_brightness">Brillantor automàtic</string>
   <string name="available_size">%s disponible</string>
+  <string name="available_via_passpoint">Disponible a %1$s</string>
+  <string name="average_memory_use">"Mitjana d'us de la memòria"</string>
+  <string name="average_used">"Mitjana d'us (%)"</string>
   <string name="awake">Hora d\'inici del dispositiu</string>
   <string name="back_key">Tornar</string>
   <string name="background_data">Ús de Dades en segon pla</string>
