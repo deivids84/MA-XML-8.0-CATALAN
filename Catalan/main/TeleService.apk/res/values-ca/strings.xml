@@ -204,7 +204,7 @@
   <string name="call_remove_exception_numbers_confirm">%d números seran eliminats.</string>
   <string name="call_settings">Telèfon</string>
   <string name="call_settings_category">Trucades</string>
-  <string name="call_settings_primary_user_only">La configuració de trucades només pot ser modificada per l'usuari principal.</string>
+  <string name="call_settings_primary_user_only">"La configuració de trucades només pot ser modificada per l'usuari principal."</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_settings_with_label">Configuració de trucada (%s)</string>
   <string name="call_waiting_summary">Durant una trucada, avisar-me sobre altres trucades entrants</string>

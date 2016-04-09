@@ -153,7 +153,7 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="allow_data_usage_title">"Permet l'ús de dades en itinerància"</string>
   <string name="allow_mock_location">Permetre ubicacions simulades</string>
   <string name="allow_mock_location_summary">Permetre ubicacions simulades</string>
-  <string name="allow_overlay_description">Aquest permís permet a una aplicació que es mostrarà a la part superior d'altres aplicacions que utilitzeu i pot interferir amb l'ús de la interfície en altres aplicacions, o canviar el que creu que està veient en altres aplicacions.</string>
+  <string name="allow_overlay_description">"Aquest permís permet a una aplicació que es mostrarà a la part superior d'altres aplicacions que utilitzeu i pot interferir amb l'ús de la interfície en altres aplicacions, o canviar el que creu que està veient en altres aplicacions."</string>
   <string name="allow_usage_access_message">"Si permet l'accés, aquesta aplicació pot veure informació general sobre les aplicacions en el dispositiu, com ara la freqüència amb què les utilitza."</string>
   <string name="allow_usage_access_title">"Permet l'accés?"</string>
   <string name="alpha_build">" | Alpha"</string>
