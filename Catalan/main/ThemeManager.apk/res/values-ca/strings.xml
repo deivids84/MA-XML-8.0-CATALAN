@@ -33,7 +33,6 @@
   <string name="description_uploadtime">Actualitza</string>
   <string name="description_version">Versió</string>
   <string name="description_version_szie">Versió: %1$s Mida: %2$s</string>
-  <string name="deselect_all">@miui:string/deselect_all</string>
   <string name="desktop_wallpaper">Pantalla inicial</string>
   <string name="download_failed">Descàrrega fallida</string>
   <string name="download_preview_failed">"No es pot carregar la vista prèvia"</string>
@@ -207,6 +206,7 @@
   <string name="resource_menu_refresh">Actualitza</string>
   <string name="resource_mute">Cap</string>
   <string name="resource_my">Local</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Diagnòstic de Xarxa&lt;/u&gt;</string>
   <string name="resource_no_match_app">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="resource_no_network_text">"No es pot connectar a la xarxa."</string>
   <string name="resource_no_result">"No s\'ha trobat res"</string>
@@ -232,11 +232,27 @@
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
   <string name="resource_save_to_note">Desa a Notes</string>
+  <string name="resource_search_color">Seleccioneu un color per buscar</string>
+  <string name="resource_search_color_hint_black">Negre</string>
+  <string name="resource_search_color_hint_blue">Blau</string>
+  <string name="resource_search_color_hint_brown">Marró</string>
+  <string name="resource_search_color_hint_cyan">Blau cel</string>
+  <string name="resource_search_color_hint_gray">Gris</string>
+  <string name="resource_search_color_hint_green">Verd</string>
+  <string name="resource_search_color_hint_orange">Taronja</string>
+  <string name="resource_search_color_hint_pink">Rosa</string>
+  <string name="resource_search_color_hint_purple">Porpra</string>
+  <string name="resource_search_color_hint_red">Vermell</string>
+  <string name="resource_search_color_hint_white">Blanc</string>
+  <string name="resource_search_color_hint_yellow">Groc</string>
   <string name="resource_search_list_empty">"No s\'ha trobat res."</string>
   <string name="resource_see_more">Veure més</string>
   <string name="resource_select">Selecciona</string>
-  <string name="resource_select_ringtone_confirm">Selecciona aquest so?</string>
-  <string name="resource_select_ringtone_confirm_picker">Selecciona aquest so?</string>
+  <string name="resource_select_alarm_audio_confirm">Selecciona aquest so de notificació?</string>
+  <string name="resource_select_audio_confirm_picker">Selecciona aquest so?</string>
+  <string name="resource_select_boot_audio_confirm">"Selecciona aquest so d'arrencada?"</string>
+  <string name="resource_select_notification_audio_confirm">"Selecciona aquest so d'alarma?"</string>
+  <string name="resource_select_ringtone_audio_confirm">Selecciona aquest to de trucada?</string>
   <string name="resource_selected">Destacats</string>
   <string name="resource_send">Envia</string>
   <string name="resource_server_alert_dialog_title">"Tornarem…"</string>
@@ -276,7 +292,6 @@
   <string name="sdcard_not_mounted_dialog_message">"Inseriu la targeta SD ara.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Targeta SD no detectada</string>
-  <string name="select_all">@miui:string/select_all</string>
   <string name="selected_resource_file_invalid">"No es pot utilitzar el fitxer de recurs seleccionat"</string>
   <string name="settings">Configuració</string>
   <string name="short_ringtone_resource">Curt</string>
@@ -360,6 +375,7 @@
   <string name="title_component">Personalitzar tema</string>
   <string name="title_system_resource">Descarregats</string>
   <string name="to_activate_the_account">Activa el seu compte Mi ara</string>
+  <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Retallar</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_loading_text">Un moment…</string>
