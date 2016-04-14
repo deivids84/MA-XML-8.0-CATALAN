@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galeria pantalla bloqueig</string>
+  <string name="app_name">Pantalles de bloqueig diàries</string>
   <string name="at_least_one">Selecciona almenys una categoria</string>
-  <string name="cancel">Sortir</string>
+  <string name="auto_interval">Auto</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="cancel_international">Cancel·la</string>
   <string name="change_time">Canvia el període</string>
   <string name="day">1 dia</string>
   <string name="declaration">"En utilitzar aquest producte, acceptes el nostre <a href ='http://www.miui.com/res/doc/eula/es.html'>Acord d\'Usuari</a> i <a href='http://www.miui.com/res/doc/privacy/es.html'>Política de Privacitat</a>. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
@@ -21,9 +23,23 @@
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">No es pot connectar a la xarxa.</string>
   <string name="setting_head">Configuració</string>
+  <string name="sst_favor_desc">Comproveu els fons de pantalla favorits</string>
+  <string name="sst_favor_title">Favorits</string>
+  <string name="sst_grid_view_select_all">Seleccionar tot</string>
+  <string name="sst_grid_view_unselect_all">Cancel·lar tot</string>
+  <string name="sst_no_favor_wallpaper_hint">Sense fons de pantalla favorit</string>
+  <string name="sst_prov_enable_desc">Gaudir de més fons de pantalla meravellosos a la pantalla de bloqueig</string>
+  <string name="sst_prov_enable_title">Activa el carrusel de fons de pantalla</string>
+  <string name="sst_require_one_category_hint">"Si us plau, almenys subscriure's a un element"</string>
+  <string name="sst_sti_desc">"Estableix linterval de temps per canviar el fons de la pantalla de bloqueig</string>
+  <string name="sst_sti_title">Període de temps de canvi</string>
+  <string name="sst_subscribe_title">"Subscriure's"</string>
+  <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos de la connexió mòbil</string>
+  <string name="sst_wifi_only_title">Activa descarrega d'imatges amb la connexió mobil</string>
   <string name="summary">"Accepta el nostre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d\'Usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacitat&lt;/a&gt; per començar. És necessària una connexió a internet.​"</string>
   <string name="theme_apply_failured">No es pot aplicar la pantalla de bloqueig</string>
   <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
   <string name="theme_applying">Aplicant…</string>
   <string name="wlan_download">Només Wi-Fi</string>
+  <string name="wlan_download_cn">Actualització a través de WLAN</string>
 </resources>
