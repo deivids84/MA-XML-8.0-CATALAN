@@ -35,7 +35,7 @@
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">"Subscriure's"</string>
   <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos de la connexió mòbil</string>
-  <string name="sst_wifi_only_title">Activa descarrega d'imatges amb la connexió mobil</string>
+  <string name="sst_wifi_only_title">"Activa descarrega d'imatges amb la connexió mobil"</string>
   <string name="summary">"Accepta el nostre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d\'Usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacitat&lt;/a&gt; per començar. És necessària una connexió a internet.​"</string>
   <string name="theme_apply_failured">No es pot aplicar la pantalla de bloqueig</string>
   <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
