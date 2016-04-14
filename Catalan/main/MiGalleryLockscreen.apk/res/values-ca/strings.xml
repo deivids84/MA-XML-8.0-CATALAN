@@ -5,7 +5,7 @@
   <string name="cancel">Sortir</string>
   <string name="change_time">Canvia el període</string>
   <string name="day">1 dia</string>
-  <string name="declaration">"En utilitzar aquest producte, acceptes els nostres <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acord d\'Usuari</a> i <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacitat</a>. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
+  <string name="declaration">"En utilitzar aquest producte, acceptes el nostre <a href ='http://www.miui.com/res/doc/eula/es.html'>Acord d\'Usuari</a> i <a href='http://www.miui.com/res/doc/privacy/es.html'>Política de Privacitat</a>. Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat."</string>
   <string name="declaration_lockscreen_title">Activar pantalles de bloqueig diàries</string>
   <string name="declaration_title">Condicions d\'ús</string>
   <string name="hour_1">1 hora</string>
