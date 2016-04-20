@@ -60,4 +60,11 @@
         <item quantity="other">Està a %1$d passos de reportar error.</item>
         <item quantity="one">Està a %1$d pas de reportar error.</item>
     </plurals>
+	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Sempre desactivar per a %d aplicacions</item>
+        <item quantity="one">Sempre desactivar per 1 aplicació</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Mai desactivar per a %d aplicacions</item>
+        <item quantity="one">Mai desactivar per a 1 aplicació</item>
 </resources>
