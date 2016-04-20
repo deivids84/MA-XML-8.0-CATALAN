@@ -67,4 +67,5 @@
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Mai desactivar per a %d aplicacions</item>
         <item quantity="one">Mai desactivar per a 1 aplicació</item>
+    </plurals>        
 </resources>
