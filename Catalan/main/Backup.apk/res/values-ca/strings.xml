@@ -114,8 +114,9 @@
   <string name="files_backup_info">Tots els fitxers a la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.). </string>
   <string name="findlost_contact">Restaurar contactes</string>
   <string name="findlost_contact_online">Restaurar contactes des de Mi Cloud</string>
-  <string name="guarded_mode_dialog_message">"Aquesta funció no està permesa en mode convidat."</string>
+  <string name="guarded_mode_dialog_message">Aquesta funció no està permesa en mode convidat.</string>
   <string name="guarded_mode_dialog_title">"Estàs en mode de convidat"</string>
+  <string name="guarded_mode_dialog_transfer_message">No es pot fer servir Mi Mover en mode convidat.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarga MiTalk i inicia sessió.
 \u0009http://www.miliao.com
 
@@ -139,6 +140,8 @@
   <string name="miliao_account_login">Iniciar sessió amb MiTalk</string>
   <string name="mms_title">Missatges multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
+  <string name="multi_user_mode_dialog_message">No es pot fer servir Mi Mover en el mode multiusuari. Desactivar mode multiusuari per continuar.</string>
+  <string name="multi_user_mode_dialog_title">Voste està en el mode muliusuari</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
@@ -204,6 +207,11 @@
   <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
+  <string name="st_antispam_mode_blacklist_state">11112121</string>
+  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
+  <string name="st_antispam_mode_only_contacts_state">11110000</string>
+  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Còpia de seguretat</string>
   <string name="start_restore">Restaurar</string>
   <string name="state_mounting">Accedint a l\'emmagatzematge del router…</string>
@@ -268,9 +276,8 @@ Com a mínim netejar %s."</string>
   <string name="trans_one_key_migrate">Transferència</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>
-  <string name="trans_operate_new_phone_tips">"Escaneja el codi QR utilitzant el nou dispositiu
-Vés a Configuració &gt; Configuració addicional &gt; Transferència
-Toca [Soy un receptor] para crear el código QR"</string>
+  <string name="trans_operate_new_phone_tips">"Vés a Configuració &gt; Configuració addicional &gt; Transferència
+Toca [Sóc un receptor] per crear el codi QR"</string>
   <string name="trans_operate_old_phone_tips1">"1. Instal·la l\'aplicació de transferència en el teu vell dispositiu
 2. Obre l\'aplicació i selecciona [Sóc un emissor]
 3. Escaneja el codi QR amb el teu vell dispositiu"</string>
@@ -328,6 +335,9 @@ està encès i la Transferència activada"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">"  elements"</string>
   <string name="unknown_hint">Desconegut</string>
+  <string name="user_notice_declaration_ignore">No tornar a mostrar</string>
+  <string name="user_notice_message">Algunes característiques requereixen connexió a Internet per funcionar amb normalitat.</string>
+  <string name="user_notice_title">Atenció</string>
   <string name="wifi_title">Configuració Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Segon</string>
   <string name="account_prifix">Compte:</string>
   <string name="action">Iniciar la sessió</string>
+  <string name="action_menu_account_not_login">No iniciar sessió</string>
+  <string name="action_menu_account_not_login_hint">Utilitzeu configuració del núvol per iniciar sessió</string>
+  <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
   <string name="action_menu_text_add_bookmark">Afegir marcador</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Compartir</string>
   <string name="action_menu_text_snapshot">Desa la pàgina</string>
   <string name="action_menu_text_video">Vídeo</string>
+  <string name="action_menu_toolbox">Eines</string>
+  <string name="action_menu_useful_page">Afegeix útil</string>
+  <string name="action_menu_useful_page_added">Útil afegit</string>
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Cercar al web</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
@@ -145,6 +151,8 @@
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturació</string>
   <string name="color_picker_value">Valor</string>
+  <string name="comment_app_menu">comment</string>
+  <string name="comment_menu">comment</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,6 +188,10 @@
   <string name="current_version_pad">Tauleta</string>
   <string name="current_version_pc">Escriptori</string>
   <string name="current_version_phone">Telèfon</string>
+  <string name="custom_head_card_text">"Sempre creu que una cosa meravellosa
+està a punt de succeir"</string>
+  <string name="custom_head_card_text_incognito">"Només Déu i tu saben que hi ha
+a la finestra de privacitat​"</string>
   <string name="data_traffic_prompt_change">Utilitzar la seva connexió de dades per veure vídeos incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_message">Utilitzar la connexió de dades per navegar incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_title">Avís d\'ús de dades</string>
@@ -317,8 +329,9 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
   <string name="keep_queued_download">Mantenir</string>
   <string name="last_month">Mes passat</string>
+  <string name="license_activity_title">System WebView licenses</string>
   <string name="loading_tips">Tira cap avall per actualitzar</string>
-  <string name="local_bookmarks">Xiaomi</string>
+  <string name="local_bookmarks">Mi</string>
   <string name="location">Direcció</string>
   <string name="low_memory_error">No es pot completar l\'anterior operació a causa de la poca memòria</string>
   <string name="max_tabs_warning">Límit de pestanyes assolit</string>
@@ -378,20 +391,16 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_diagnose_timeout">Temps de connexió esgotat</string>
   <string name="miuichromium_error_page_diagnose_website">Aquest lloc web està caigut</string>
   <string name="miuichromium_error_page_diagnosing">Comprovant la xarxa</string>
-  <string name="miuichromium_error_page_diagnostic">Diagnòstic de xarxa</string>
   <string name="miuichromium_error_page_homepage">Pàgina principal</string>
   <string name="miuichromium_error_page_mobile">Xarxa de telefonia mòbil</string>
   <string name="miuichromium_error_page_network_hijack">La xarxa actual no és segura</string>
   <string name="miuichromium_error_page_network_off">Activa el Wi-Fi o les dades mòbils</string>
   <string name="miuichromium_error_page_no_network">No es pot connectar a la xarxa</string>
-  <string name="miuichromium_error_page_reason_network">Veure enllaç URL</string>
-  <string name="miuichromium_error_page_reason_server">"El navegador no pot carregar aquesta pàgina"</string>
   <string name="miuichromium_error_page_reload">Recarregar</string>
   <string name="miuichromium_error_page_safe_network">Mode segur</string>
   <string name="miuichromium_error_page_server_error">Massa dispositius estan intentant connectar-se</string>
   <string name="miuichromium_error_page_title">"No es pot trobar aquesta pàgina"</string>
   <string name="miuichromium_error_page_unknown_error">Vaja, alguna cosa ha sortit malament</string>
-  <string name="miuichromium_error_page_url">Veure la pàgina: URL</string>
   <string name="miuichromium_error_page_wlan">Configuració Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activació requerida</string>
   <string name="miuishare_account_activate_ok">Activar</string>
@@ -470,6 +479,10 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_content_night_read_mode">Mode nit</string>
   <string name="pref_content_search_engine">Establir motor de cerca per a la barra de títol</string>
   <string name="pref_content_search_engine_summary">Tria un motor de cerca</string>
+  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
+  <string name="pref_data_preload_value_always">ALWAYS</string>
+  <string name="pref_data_preload_value_never">NEVER</string>
+  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_enable_adblock_notification">Notificacions del filtre de publicitat</string>
   <string name="pref_enable_news">Notícies</string>
   <string name="pref_enable_novels">Llibres</string>
@@ -491,7 +504,15 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_force_userscalable">Forçar zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·lar la sol·licitud del lloc per controlar el comportament del zoom"</string>
   <string name="pref_general_title">General</string>
+  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
+  <string name="pref_images_preload_value_always">2</string>
+  <string name="pref_images_preload_value_never">0</string>
+  <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_key_gesture_title">Botons i gestos</string>
+  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+  <string name="pref_link_prefetch_value_always">ALWAYS</string>
+  <string name="pref_link_prefetch_value_never">NEVER</string>
+  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
   <string name="pref_nav_mode_title">Mode Navegació</string>
@@ -538,6 +559,10 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_setting_title">Configuració de pàgina</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
+  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
+  <string name="pref_video_preload_value_always">ALWAYS</string>
+  <string name="pref_video_preload_value_never">NEVER</string>
+  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Botons de volum: pàgina anterior/següent</string>
   <string name="pref_weather_location_summary">Usat pel connector de temps del navegador</string>
   <string name="pref_weather_location_title">Localització del temps</string>
@@ -547,6 +572,9 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="profiler_started_toast">Gestor de perfils iniciat</string>
   <string name="profiler_stopped_toast">Gestor de perfils acabat. Els resultats són %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Establint fons de pantalla…</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
   <string name="pull_to_refresh_pull_label">Tirar per refrescar</string>
   <string name="pull_to_refresh_refreshing_label">Carregant…</string>
   <string name="pull_to_refresh_release_label">Deixar anar per recomanar i refrescar</string>
@@ -582,6 +610,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="remove_history_item">Esborrar de l\'historial</string>
   <string name="remove_snapshot">Eliminar pàgina guardada</string>
   <string name="removed_from_bookmarks">Eliminat de marcadors</string>
+  <string name="reply_comment_title">reply: %s</string>
   <string name="resume_download">Començar</string>
   <string name="retry_after_network_available">No es pot connectar a la xarxa</string>
   <string name="retry_download">Reintentar</string>
@@ -636,6 +665,8 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="security_warnings_confirm_message">Apagar aquesta característica pot crear riscos de seguretat.</string>
   <string name="select_dot">Seleccionar text</string>
   <string name="select_download_device">Triar dispositiu</string>
+  <string name="send_comment_button">send</string>
+  <string name="send_comment_title">comment</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL d\'aquesta web s\'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en Ajustos en qualsevol moment."</string>
   <string name="show_security_tip_dialog_title">Termes de Servei</string>
