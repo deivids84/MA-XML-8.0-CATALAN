@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicacions</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Al desactivar-ho aturarà el servei de monitorització de sol·licituds d'aplicació, el que aturarà la protecció de la seva seguretat i privacitat.
-  Està segur que vol desactivar-ho?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">"MIUI no supervisarà les sol·licituds de permísos d'aplicacions."</string>
   <string name="Dashboard_HIPS_Disable_Title">Permisos</string>
   <string name="Dashboard_Log">Registres</string>
   <string name="Dashboard_Log_Clear_Content">S\'esborraran tots els registres.</string>
@@ -50,7 +49,7 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="Generic_Shortcut">Menú contextual</string>
   <string name="Generic_ShowSystemApp">Mostrar les aplicacions del sistema </string>
   <string name="Generic_Summary_Disabled">Apagat</string>
-  <string name="Generic_Summary_Enabled">Encesa</string>
+  <string name="Generic_Summary_Enabled">Ences</string>
   <string name="Generic_SystemApp">Aplicacions del sistema (%d)</string>
   <string name="Generic_SystemApp_Label">[Aplicacions del sistema]</string>
   <string name="Generic_TrustedApp">Aplicacions fiables (%1$d)</string>

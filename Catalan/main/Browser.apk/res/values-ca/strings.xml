@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Segon</string>
   <string name="account_prifix">Compte:</string>
   <string name="action">Iniciar la sessió</string>
+  <string name="action_menu_account_not_login">No iniciar sessió</string>
+  <string name="action_menu_account_not_login_hint">Utilitzeu configuració del núvol per iniciar sessió</string>
+  <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
   <string name="action_menu_text_add_bookmark">Afegir marcador</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Compartir</string>
   <string name="action_menu_text_snapshot">Desa la pàgina</string>
   <string name="action_menu_text_video">Vídeo</string>
+  <string name="action_menu_toolbox">Eines</string>
+  <string name="action_menu_useful_page">Afegeix útil</string>
+  <string name="action_menu_useful_page_added">Útil afegit</string>
   <string name="actionbar_share">Compartir</string>
   <string name="actionbar_web_search">Cercar al web</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
@@ -180,6 +186,10 @@
   <string name="current_version_pad">Tauleta</string>
   <string name="current_version_pc">Escriptori</string>
   <string name="current_version_phone">Telèfon</string>
+  <string name="custom_head_card_text">"Sempre creu que una cosa meravellosa
+està a punt de succeir"</string>
+  <string name="custom_head_card_text_incognito">"Només Déu i tu saben que hi ha
+a la finestra de privacitat​"</string>
   <string name="data_traffic_prompt_change">Utilitzar la seva connexió de dades per veure vídeos incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_message">Utilitzar la connexió de dades per navegar incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_title">Avís d\'ús de dades</string>
@@ -318,7 +328,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="keep_queued_download">Mantenir</string>
   <string name="last_month">Mes passat</string>
   <string name="loading_tips">Tira cap avall per actualitzar</string>
-  <string name="local_bookmarks">Xiaomi</string>
+  <string name="local_bookmarks">Mi</string>
   <string name="location">Direcció</string>
   <string name="low_memory_error">No es pot completar l\'anterior operació a causa de la poca memòria</string>
   <string name="max_tabs_warning">Límit de pestanyes assolit</string>
