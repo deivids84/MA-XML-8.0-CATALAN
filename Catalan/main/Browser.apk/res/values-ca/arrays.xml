@@ -120,4 +120,8 @@
         <item>yahoo</item>
         <item>bing</item>
      </string-array>
+	 <string-array name="pref_homepage_choices">
+        <item>"Pàgina d'inici per defecte"</item>
+        <item>Personalitzat</item>
+    </string-array>
 </resources>

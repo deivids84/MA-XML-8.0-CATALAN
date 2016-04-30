@@ -47,7 +47,7 @@
   <string name="action_menu_useful_page">Afegeix útil</string>
   <string name="action_menu_useful_page_added">Útil afegit</string>
   <string name="actionbar_share">Compartir</string>
-  <string name="actionbar_web_search">Cercar al web</string>
+  <string name="actionbar_web_search">Cerca al web</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_restore">Desbloquejar</string>
   <string name="adblock_websites_settings_empyt_hint">No ha bloquejat cap lloc.</string>
@@ -305,7 +305,7 @@ a la finestra de privacitat​"</string>
   <string name="homepage_get_location_failed">No s\'ha pogut recuperar la informació, triar una ciutat</string>
   <string name="homepage_more_cards">Més serveis</string>
   <string name="homepage_more_sites">Més llocs web</string>
-  <string name="homepage_search_hint">Cercar</string>
+  <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">A dalt</string>
   <string name="in_incognito">"Estàs d\'incògnit! Les pàgines web que veus en aquesta pestanya no apareixen en l\'historial del navegador."</string>
   <string name="in_secureaccess">Canvia el navegador a mode segur</string>  
@@ -368,7 +368,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="miui_content_select">Seleccionar</string>
   <string name="miui_content_select_all">Selecciona-ho tot</string>
   <string name="miui_content_share">Compartir</string>
-  <string name="miui_content_web_search">Cercar</string>
+  <string name="miui_content_web_search">Cerca</string>
   <string name="miui_quicksearch_enable_pref_summary">Mostrar sempre la barra de cerca del navegador a la barra de notificacions</string>
   <string name="miui_quicksearch_enable_pref_title">Barra de cerca a la barra de notificacions</string>
   <string name="miui_search_notification_message">Toqui per obrir la barra de cerca.</string>
