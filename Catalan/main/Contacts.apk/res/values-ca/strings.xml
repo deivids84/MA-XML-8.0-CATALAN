@@ -172,8 +172,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
@@ -644,7 +642,6 @@ Motiu: \"%s\""</string>
   <string name="miprofile_contact_header">Contactes amb targeta de contacte</string>
   <string name="miprofile_contact_meaasge">Contactes locals</string>
   <string name="miprofile_contact_verifying">Verificant</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edita perfil</string>
   <string name="miprofile_error_accept_self">No pots intercanviar la teva pròpia targeta de contacte</string>
   <string name="miprofile_error_no_miaccount">Inicia la sessió amb el teu compte Mi</string>

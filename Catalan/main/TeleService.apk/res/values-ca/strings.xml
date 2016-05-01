@@ -21,7 +21,6 @@
   <string name="administrative_disable">Administrativa desactivada</string>
   <string name="administrative_enable">Administrativa activada</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
-  <string name="advanced_settings_container">configuració avançada de contenidors</string>
   <string name="advanced_settings_hide">▽ Toqui per ocultar tot</string>
   <string name="advanced_settings_show">▷ Toqui per mostrar tot</string>
   <string name="advertisements_disable">Avisos desactivats</string>
@@ -53,7 +52,6 @@
   <string name="audio_mode_earpiece">Auricular mans lliures</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
   <string name="auth_username_title">Usuari</string>
   <string name="auto_answer_delay_entries_delay_10s">10 segons</string>
@@ -329,9 +327,7 @@
   <string name="default_area_code_setting">Codi d\'àrea per defecte</string>
   <string name="default_areacode">Codi d\'àrea per defecte</string>
   <string name="default_notification_description">So predeterminat (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;No establert&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Elimina</string>
   <string name="deleteAllSimEntries">Eliminar tots els contactes SIM</string>
   <string name="deleteSimContacts">Eliminar contactes SIM</string>
@@ -401,11 +397,9 @@
   <string name="disable_fdn_ok">Activar la FDN</string>
   <string name="disable_pin_ok">PIN de la SIM desactivat.</string>
   <string name="disable_sim_pin">Desactivar el PIN de la SIM</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">Igual que el nom d\'usuari</string>
   <string name="display_name_title">Mostra nom</string>
   <string name="do_not_ask">No preguntar de nou</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Servidor</string>
   <string name="domestic_calls">Només domèstic</string>
   <string name="doneButton">Fet</string>

@@ -481,7 +481,7 @@
   <string name="widget_events">Pròxim esdeveniment</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
-  <string name="work_day_default_banner_title">Els diners no s'aturen, les hores extres són la sortida!</string>
+  <string name="work_day_default_banner_title">"Els diners no s'aturen, les hores extres són la sortida!"</string>
   <string name="work_day_indication">:(</string>
   <string name="wuxing">Cinc</string>
   <string name="xiaomi_calendar_display_name">Compte Calendari Mi</string>
