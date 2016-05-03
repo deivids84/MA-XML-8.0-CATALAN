@@ -56,11 +56,23 @@
         <item quantity="other">Eliminar %1$d fotos de %2$d àlbums?</item>
         <item quantity="one">Eliminar aquesta foto de %2$d àlbums?</item>
     </plurals>
-     <plurals name="number_of_items_selected">
+	<plurals name="delete_photo_msg_format">
+        <item quantity="other">Eliminar %1$d fotos %2$s?</item>
+        <item quantity="one">Eliminar aquesta foto %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Eliminar %1$d videos %2$s?</item>
+        <item quantity="one">Eliminar aquest video %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Eliminar %1$d elements %2$s?</item>
+        <item quantity="one">Eliminar %1$d element %2$s?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="zero">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionat</item>
-     </plurals>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%d segons</item>
         <item quantity="one">1 segon</item>
