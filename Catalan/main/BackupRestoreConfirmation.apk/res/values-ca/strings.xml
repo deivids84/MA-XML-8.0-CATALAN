@@ -16,7 +16,7 @@ Si tu no vas sol·licitar aquesta còpia de seguretat si us plau no permeti aque
   <string name="device_encryption_restore_text">Si us plau introdueix la clau de xifrat de dispositiu.</string>
   <string name="restore_confirm_text">"Una restauració completa de la informació va ser sol·licitada pel computador al que es troba connectat. Vols acceptar aquesta sol·licitud?
 
-  Si tu no vas sol·licitar aquesta restauració, no acceptis aquesta sol·licitud. Aquest procediment va a reemplaçar tota la informació del teu dispositiu!"</string>
+ Si tu no vas sol·licitar aquesta restauració, no acceptis aquesta sol·licitud. Aquest procediment va a reemplaçar tota la informació del teu dispositiu!"</string>
   <string name="restore_confirm_title">Restauració completa</string>
   <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, si us plau ingressi la clau:</string>
   <string name="toast_backup_ended">Còpia de seguretat acabada</string>

@@ -28,8 +28,6 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Descarregar MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Accés root</string>
-  <string name="Dashboard_Su_Enable_Content">"Permetre accés root a aplicacions pot causar inestabilitat en el sistema, pèrdua de dades personals o del sistema, o fins i tot mal en el maquinari""</string>
-  <string name="Dashboard_Su_Enable_Title">Accés root</string>
   <string name="Generic_Canceling">Cancel·lant...</string>
   <string name="Generic_Check">Comprovar</string>
   <string name="Generic_Clean">Netejar</string>

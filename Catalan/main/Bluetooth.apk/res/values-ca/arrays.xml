@@ -7,17 +7,7 @@
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Prendre foto</item>
-        <item>Cercar telèfon</item>
-        <item>Cercar Mi-key</item>
-    </string-array>
-	<string-array name="ble_packages">
-        <item></item>
-        <item>com.xiaomi.hm.health</item>
-        <item></item>
-    </string-array>
-    <string-array name="ble_package_names">
-        <item></item>
-        <item>Mi Fit</item>
-        <item></item>
+        <item>Cerca telèfon</item>
+        <item>Cerca Mi-key</item>
     </string-array>
 </resources>

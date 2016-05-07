@@ -34,7 +34,6 @@
   <string name="SMS_SERVICE">Servei de llista de bloqueig</string>
   <string name="SMSpass">Permet missatges</string>
   <string name="STRANGER_BLOCK">Llista de bloqueig d\'Estranys</string>
-  <string name="action_source_sms_title">SMS bloquejats</string>
   <string name="ad_block_hint">%d bloquejat</string>
   <string name="ad_install_monitor">Cercar adware a les apps</string>
   <string name="ad_install_monitor_hint">Cercar adware en instal·lar aplicacions</string>
@@ -151,7 +150,9 @@
   <string name="mark_number_agent">Agència</string>
   <string name="mark_number_fraud">Frau</string>
   <string name="mark_number_harass">Assetjament</string>
-  <string name="mark_number_info">"Observi que de vegades aquestes trucades poden ser útils (per exemple quan vostè està realment buscant un apartament). Bloquegeu només números dels que no vol rebre trucades mai."</string>
+  <string name="mark_number_info">"
+  Observi que de vegades aquestes trucades poden ser útils (per exemple quan vostè està realment buscant un apartament). 
+  Bloquegeu només números dels que no vol rebre trucades mai."</string>
   <string name="mark_number_sell">Telemàrqueting</string>
   <string name="mark_number_setting_guide_content1">Bloquejar trucades dels números informats?</string>
   <string name="mark_number_setting_guide_content2">Bloquejar automàticament trucades dels número informats per altres usuaris</string>
@@ -163,7 +164,6 @@
   <string name="mark_sell_block_large">Telemàrqueting</string>
   <string name="mark_sell_time_setting">Bloquejar números que hagin estat reportats com telemàrqueting un número determinat de vegades</string>
   <string name="mark_time_setting_dialog_title">Reportar número</string>
-  <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d altres usuaris el van marcar com a "</string>
   <string name="marked_by_user">"el vas marcar com "</string>
   <string name="menu_add">Afegeix</string>
@@ -197,7 +197,7 @@
   <string name="note_preference_delete">"No es pot eliminar aquesta regla mentre està en ús" </string>
   <string name="note_sms_none">Buit</string>
   <string name="one_address_choose_hint">%s1 ubicació</string>
-  <string name="open_callwait">Encesa</string>
+  <string name="open_callwait">Ences</string>
   <string name="organization">Organització</string>
   <string name="phone">Telèfon</string>
   <string name="quiet">No molestar</string>
@@ -206,8 +206,8 @@
   <string name="quiet_mode">Silenciar totes les interrupcions</string>
   <string name="quiet_off_mode">Permet sempre les interrupcions</string>
   <string name="read_all_sms">Llegir tots</string>
-  <string name="repeated_marked_number_summary">"No bloquegi una segona trucada des del mateix numero reportat fa menys de 3 minuts"</string>
-  <string name="repeated_marked_number_title">"No bloquegi les trucades repetides des de números informats"</string>
+  <string name="repeated_marked_number_summary">No bloquegi una segona trucada des del mateix numero reportat quan fa menys de 3 minuts de la primera</string>
+  <string name="repeated_marked_number_title">No bloquegi les trucades repetides des de números informats</string>
   <string name="report">Informar</string>
   <string name="report_error">No s\'ha pogut reportar el missatge</string>
   <string name="report_error_not_net"> No s\'ha pogut connectar a la xarxa</string>

@@ -69,14 +69,6 @@
   <string name="app_new_version">Ja està instal·lada l\'última versió d\'aquesta aplicació</string>
   <string name="app_update_install">Descarrega completada! A punt per instal·lar la versió actualitzada.</string>
   <string name="application_name">Navegador</string>
-  <string name="aqi_quality_index_break">AQI %1$s</string>
-  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-  <string name="aqi_quality_index_good">AQI %1$s</string>
-  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-  <string name="aqi_quality_index_moderate">AQI %1$s</string>
-  <string name="aqi_quality_index_pure">AQI %1$s</string>
-  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="autofill_popup_content_description">Mostrant finestra emplenament automàtic</string>
   <string name="autologin_bar_error">"No s\'ha pogut aconseguir"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
@@ -192,6 +184,7 @@ està a punt de succeir"</string>
 a la finestra de privacitat​"</string>
   <string name="data_traffic_prompt_change">Utilitzar la seva connexió de dades per veure vídeos incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_message">Utilitzar la connexió de dades per navegar incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
+  <string name="data_traffic_prompt_message_short">"L'ús de dades mòbils per a transmetre vídeo pot fer que es passi del seu límit de dades</string>
   <string name="data_traffic_prompt_title">Avís d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Netejar</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
@@ -256,7 +249,7 @@ a la finestra de privacitat​"</string>
   <string name="edit_bookmark">Editar favoritos</string>
   <string name="edit_quicklink">Editar</string>
   <string name="empty_bookmark">Buit</string>
-  <string name="empty_history_hint">Buit</string>
+  <string name="empty_history_hint">Historial buit</string>
   <string name="empty_snapshot_hint">Buit</string>
   <string name="enable_geolocation_confirm_message">Apagar aquesta característica pot fer que algunes webs funcionin malament.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
@@ -388,20 +381,16 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_diagnose_timeout">Temps de connexió esgotat</string>
   <string name="miuichromium_error_page_diagnose_website">Aquest lloc web està caigut</string>
   <string name="miuichromium_error_page_diagnosing">Comprovant la xarxa</string>
-  <string name="miuichromium_error_page_diagnostic">Diagnòstic de xarxa</string>
   <string name="miuichromium_error_page_homepage">Pàgina principal</string>
-  <string name="miuichromium_error_page_mobile">Xarxa de telefonia mòbil</string>
+  <string name="miuichromium_error_page_mobile">Dades mòbils</string>
   <string name="miuichromium_error_page_network_hijack">La xarxa actual no és segura</string>
   <string name="miuichromium_error_page_network_off">Activa el Wi-Fi o les dades mòbils</string>
   <string name="miuichromium_error_page_no_network">No es pot connectar a la xarxa</string>
-  <string name="miuichromium_error_page_reason_network">Veure enllaç URL</string>
-  <string name="miuichromium_error_page_reason_server">"El navegador no pot carregar aquesta pàgina"</string>
   <string name="miuichromium_error_page_reload">Recarregar</string>
   <string name="miuichromium_error_page_safe_network">Mode segur</string>
   <string name="miuichromium_error_page_server_error">Massa dispositius estan intentant connectar-se</string>
   <string name="miuichromium_error_page_title">"No es pot trobar aquesta pàgina"</string>
   <string name="miuichromium_error_page_unknown_error">Vaja, alguna cosa ha sortit malament</string>
-  <string name="miuichromium_error_page_url">Veure la pàgina: URL</string>
   <string name="miuichromium_error_page_wlan">Configuració Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activació requerida</string>
   <string name="miuishare_account_activate_ok">Activar</string>
@@ -755,6 +744,9 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="video_downloaded_group">Baixades</string>
   <string name="video_downloading_group">S\'està baixant</string>
   <string name="video_edit">Edita</string>
+  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window_playing">Reproduint vídeo</string>
+  <string name="video_float_window_text">PopUp</string>
   <string name="video_fragment_name_collections">Favorits</string>
   <string name="video_fragment_name_download">Vídeo offline</string>
   <string name="video_fragment_name_historys">Mostra l\'historial</string>
