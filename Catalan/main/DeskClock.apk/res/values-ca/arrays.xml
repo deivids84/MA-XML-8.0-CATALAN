@@ -925,6 +925,11 @@
         <item>C298</item>
         <item>C299</item>
     </string-array>
+	<string-array name="stat_volume_button_behaviors">
+        <item>No</item>
+        <item>Posposar alarma</item>
+        <item>Apagar</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarma en menys d\'1 minut</item>
         <item>Sonarà en %1$s</item>
@@ -943,12 +948,13 @@
     <string-array name="alarm_repeat_type">
         <item>Una sola vegada</item>
         <item>Diàriament</item>
-        <item>En dies de treball</item>
+        <item>En dies laborables</item>
+		<item>En dies de descans</item>
         <item>De dilluns a divendres</item>
         <item>Personalitzat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Una sola vegadaz</item>
+        <item>Una sola vegada</item>
         <item>Diàriament</item>
         <item>De dilluns a divendre</item>
         <item>Personalitzat</item>
@@ -959,15 +965,16 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+		<item>5</item>
     </integer-array>
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>
         <item>1</item>
-        <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
     <string-array name="alarm_set">
-        <item>L\'alarma sonarà a menys d\'1 minut.</item>
+        <item>L\'alarma sonarà en menys d\'1 minut.</item>
         <item>L\'alarma sonarà en %1$s.</item>
         <item>Alarma para %2$s a partir d\'ara.</item>
         <item>L\'alarma sonarà en %1$s i %2$s.</item>

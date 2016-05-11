@@ -33,4 +33,12 @@
         <item quantity="other">Les alarmes se silenciaran deprés %d minuts</item>
         <item quantity="one">Les alarmes se silenciaran després %d minut</item>
      </plurals>
+	 <plurals name="delete_alarm_confirm">
+        <item quantity="other">Eliminar les alarmes seleccionades?</item>
+        <item quantity="one">Eliminar aquesta alarma?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Elimina les zones horàries seleccionades?</item>
+        <item quantity="one">Eliminar aquesta zona horària?</item>
+    </plurals>
 </resources>

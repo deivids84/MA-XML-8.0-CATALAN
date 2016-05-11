@@ -91,7 +91,7 @@
 	"preset_music_playlist": "Mi Music playlist",
 	"my_playlist": "Llistes de reproducció",
 	"create_playlist": "Crear llista de reproducció",
-	"track_view": "Song"
+	"track_view": "Song",
 	"artist_view": "Artist",
 	"track_list_control_play": "Play",
 	"track_list_control_download": "Download",

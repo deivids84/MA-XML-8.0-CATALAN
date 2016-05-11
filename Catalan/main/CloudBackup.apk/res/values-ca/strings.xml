@@ -8,6 +8,7 @@
   <string name="back_up_task_unfinished">còpia de seguretat no finalitzada</string>
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat…</string>
   <string name="backup_fail">No s\'ha pogut fer la còpia</string>
+  <string name="backup_finished_notification_content">"Còpia de seguretat d'aplicacions pantalla d'inici, configuració del sistema, etc."</string>
   <string name="backup_size">Mida: %s</string>
   <string name="backup_success">Còpia realitzada</string>
   <string name="backup_to_cloud">Còpia de seguretat d\'aplicació</string>
@@ -54,6 +55,8 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran a Mi Cloud."</st
   <string name="cloud_backup_detail_state">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i ajustos del sistema</string>
   <string name="cloud_backup_detail_time">, hora de la còpia: %1$s</string>
+  <string name="cloud_backup_have_data">Còpia de seguretat trobada a Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Seleccioneu la còpia de seguretat de Mi Cloud</string>
   <string name="cloud_restore_from_other_device">La restauració des de %s està en procés, esborrar la còpia de seguretat de la mateixa cancel·larà la tasca, está segur d\'esborrar-la?</string>
   <string name="cloud_restore_task">Restaurant…</string>
   <string name="cloud_task_in_process">Hi ha un %s tasca en procés! Esborrant la còpia de seguretat del dispositiu actual cancel·larà la tasca, està segur d\'esborrar-la?</string>
@@ -104,6 +107,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran a Mi Cloud."</st
   <string name="restoreing_file_tile">Restaurant %d fitxers</string>
   <string name="retry">Reintentar</string>
   <string name="self_phone">Aquest telèfon</string>
+  <string name="settings_backup">Configuració del sistema</string>
   <string name="start_backup_to_micloud">Realitzar còpia de seguretat d\'aplicacions a Mi Cloud</string>
   <string name="start_recover">Recuperar %s</string>
   <string name="success_open_cloudbackup">Còpies d\'aplicacions de pantalla d\'inici enceses</string>

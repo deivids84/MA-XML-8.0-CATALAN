@@ -167,12 +167,6 @@
   <string name="composer_failed_to_get_database_infomation">"No s\'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
@@ -395,6 +389,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="export_to_sim1">Exporta a SIM 1</string>
   <string name="export_to_sim2">Exporta a SIM 2</string>
   <string name="export_to_sim_title">Exportant…</string>
+  <string name="export_to_storage">Exportar a emmagatzematge</string>
   <string name="export_vcard_description">"Exporta vCard a la memòria interna del telèfon"</string>
   <string name="exporting_contact_failed_message">No s\'ha pogut exportar dades del contacte.
 Motiu: \"%s\""</string>
@@ -678,7 +673,6 @@ Motiu: \"%s\""</string>
   <string name="miprofile_request_notification_message">D\'acord per veure la foto de perfil i més informació</string>
   <string name="miprofile_request_notification_title">%1$s persones volen intercanviar targetes de contacte</string>
   <string name="miprofile_request_notification_title_name">%1$s vol intercanviar targetes de contacte</string>
-  <string name="miprofile_request_time_expired_deleted">Les peticions de més d\'1 setmana s\'esborraran automàticament.</string>
   <string name="miprofile_save_alertdialog_message">La teva targeta serà enviada a aquest contacte automàticament.</string>
   <string name="miprofile_save_alertdialog_title">Targeta de contacte rebuda</string>
   <string name="miprofile_switch_off_alertdialog_message">No podràs intercanviar targetes de contacte amb altres persones. Els teus contactes no podran veure el teu perfil de vídeo.</string>
@@ -686,6 +680,8 @@ Motiu: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Activa</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualització de foto de perfil</string>
   <string name="missing_name">(Sense nom)</string>
+  <string name="missing_required_permission">Ha desactivat un permís necessari.</string>
+  <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">Veure registre detallat de trucades a i.mi.com</string>
   <string name="move_and_resize">Moure i canviar la mida</string>
   <string name="multi_number_menu_call">Trucar</string>
@@ -1064,6 +1060,10 @@ Per afegir un contacte a la llista de favorits:
   <string name="status_available">Disponible</string>
   <string name="status_away">Lluny</string>
   <string name="status_busy">Ocupat</string>
+  <string name="storage_internal_description">Emmagatzematge intern</string>
+  <string name="storage_sd_card">Targeta SD</string>
+  <string name="storage_sd_card_description">Targeta SD</string>
+  <string name="storage_usb_description">Emmagatzematge USB</string>
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>

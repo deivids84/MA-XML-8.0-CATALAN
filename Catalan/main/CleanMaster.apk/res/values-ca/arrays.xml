@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="auto_clean_size">
-        <item>100MB</item>
-        <item>300MB</item>
-        <item>500MB</item>
-        <item>1GB</item>
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
      </string-array>
      <string-array name="auto_clean_time">
         <item>Tots els dies</item>
@@ -19,23 +19,18 @@
 	 <string-array name="cache_clean_menu">
         <item>Netejar aquest fitxer</item>
         <item>Veure localització del fitxer</item>
-        <item>Afegir fitxer a excepcions</item>
-        <item>Afegir aplicació a excepcions</item>
     </string-array>
 	<string-array name="trash_clean_menu">
 		<item>Netejar aquest fitxer</item>
         <item>Veure localització del fitxer</item>
-		<item>Afegir fitxer a excepcions</item>
-        <item>Afegir aplicació a excepcions</item>
     </string-array>	
 	<string-array name="empty_floder_clean_menu">
         <item>Netejar</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Netejar</item>
-        <item>Veure localització del Apk</item>
-        <item>Afegir a excepcions</item>
         <item>Instal·lar aquest Apk</item>
+        <item>Veure localització del Apk</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Desinstal·lar</item>
@@ -56,5 +51,19 @@
         <item>Cada 7 dies</item>
         <item>Cada 15 dies</item>
         <item>Cada 30 dies</item>
+    </string-array>
+	<string-array name="video_clean_menu">
+        <item>Netejar aquest fitxer</item>
+        <item>Obrir</item>
+    </string-array>
+	<string-array name="long_add_menu">
+        <item>Afegir a excepcions</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>"Afegir l'aplicació a excepcions"</item>
+    </string-array>
+	<string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
     </string-array>
 </resources>
