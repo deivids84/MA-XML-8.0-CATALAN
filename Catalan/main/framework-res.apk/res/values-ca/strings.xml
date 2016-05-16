@@ -71,7 +71,7 @@
   <string name="android_system_label">Sistema Android</string>
   <string name="android_upgrading_apk">Optimitzant aplicació %1$d de %2$d…</string>
   <string name="android_upgrading_complete">Finalitzant inici…</string>
-  <string name="android_upgrading_fstrim">Optimització d'emmagatzematge</string>
+  <string name="android_upgrading_fstrim">"Optimització d'emmagatzematge"</string>
   <string name="android_upgrading_starting_apps">Iniciant aplicacions</string>
   <string name="android_upgrading_title">Actualitzant Android…</string>
   <string name="anr_activity_application">"L\'aplicació %2$s no respon.
@@ -306,7 +306,7 @@ amb %s"</string>
   <string name="fingerprint_acquired_too_fast">Moviment de dit massa ràpid. Torneu-ho a provar.</string>
   <string name="fingerprint_acquired_too_slow">Moviment de dit massa lent. Torneu-ho a provar.</string>
   <string name="fingerprint_error_canceled">"Lectura d'empremta cancel·lada."</string>
-  <string name="fingerprint_error_hw_not_available">El sensor d'empremtes no està disponible.</string>
+  <string name="fingerprint_error_hw_not_available">"El sensor d'empremtes no està disponible."</string>
   <string name="fingerprint_error_lockout">Massa intents. Torna-ho a provar més tard.</string>
   <string name="fingerprint_error_no_space">"L'empremta no es pot emmagatzemar. Si us plau, eliminar una empremta existent."</string>
   <string name="fingerprint_error_timeout">"Temps d'espera de l'empremta acabat. Tornar a provar.</string>

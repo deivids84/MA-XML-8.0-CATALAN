@@ -962,7 +962,7 @@
   <string name="view_queuing_status">Comprovar l\'estat</string>
   <string name="vignette">Vignette</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
-  <string name="welcome_to_slim">Benvingut a l'aprimament d'àlbum</string>
+  <string name="welcome_to_slim">"Benvingut a l'aprimament d'àlbum"</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui?</string>
   <string name="xiaomi_account_not_exists_toast">No existeix el compte Mi</string>
