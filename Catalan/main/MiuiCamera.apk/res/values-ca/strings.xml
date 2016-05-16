@@ -44,6 +44,12 @@
   <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>
   <string name="face_analyze_info_male">Home</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
+  <string name="face_beauty_age_alias_60_m">60+</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Dona 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Dona 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Dona 31-44</string>
@@ -69,7 +75,9 @@
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Esperant que la panoràmica anterior acabi</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Alinear la fletxa amb la línia de referència</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Segueix…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Si us plau, reduir la velocitat</string>
   <string name="pano_how_to_use_prompt_to_move">Comenceu lentament la panoràmica</string>
   <string name="pano_review_saving_indication_str">Desant…</string>
   <string name="pano_too_fast_prompt">Massa ràpid</string>
@@ -139,6 +147,7 @@
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Automàtic</string>
+  <string name="pref_camera_face_info_watermark_title">"Afegir segell d'edat a la foto"</string>
   <string name="pref_camera_facedetection_title">Detecció facial</string>
   <string name="pref_camera_fisheye_title">Ull de peix</string>
   <string name="pref_camera_flashmode_entry_auto">Automàtic</string>
@@ -147,7 +156,6 @@
   <string name="pref_camera_flashmode_entry_torch">Flaix</string>
   <string name="pref_camera_flashmode_title">Mode de flaix</string>
   <string name="pref_camera_focusmode_entry_auto">Automàtic</string>
-  <string name="pref_camera_focusmode_entry_continuous">Autofocus continu</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
   <string name="pref_camera_focusmode_entry_macro">Macro</string>
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
@@ -294,14 +302,14 @@
   <string name="pref_front_mirror_entry_off">Apagat</string>
   <string name="pref_front_mirror_entry_on">Ences</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
-  <string name="pref_manual_exposure_title">Exposició manuall</string>
+  <string name="pref_manual_exposure_title">Exposició manual</string>
   <string name="pref_priority_storage_title">Desar a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
   <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
   <string name="pref_setting_title">Configuració</string>
   <string name="pref_simple_hdr_entry_off">Apagat</string>
   <string name="pref_simple_hdr_entry_on">Ences</string>
-  <string name="pref_video_captrue_ability_title">Captura d\'imatges</string>
+  <string name="pref_video_captrue_ability_title">"Captura d'imatge durant la gravació"</string>
   <string name="pref_video_focusmode_entry_auto">Prémer</string>
   <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
   <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
@@ -337,7 +345,7 @@
   <string name="preparing_sd">Preparant emmagatzematge intern…</string>
   <string name="record_back_pressed_hint">Toqui una altra vegada per aturar la gravació </string>
   <string name="see_qrcode_detals">Mostra els detalls</string>
-  <string name="setting_top_text">Opcions</string>
+  <string name="setting_top_text">Modes de captura</string>
   <string name="simple_mode_button_asd_flash">Tancar captura flash</string>
   <string name="simple_mode_button_asd_hdr">Tancar captura HDR</string>
   <string name="simple_mode_button_text_audio_capture">Tancar disparador de veu</string>
@@ -349,7 +357,8 @@
   <string name="simple_mode_button_text_gradienter">Tancar degradat</string>
   <string name="simple_mode_button_text_hand_night">Tancar mode nit</string>
   <string name="simple_mode_button_text_hdr">Tancar mode HDR</string>
-  <string name="simple_mode_button_text_manual">Tancar mode manual</string>
+  <string name="simple_mode_button_text_magic_mirror">Desactiveu Mirall màgic</string>
+  <string name="simple_mode_button_text_manual">Tancar mode Manual</string>
   <string name="simple_mode_button_text_panorama">Tancar mode panoràmica</string>
   <string name="simple_mode_button_text_scene">Tancar mode escena</string>
   <string name="simple_mode_button_text_slow_video">Tancar càmera a velocitat ràpida</string>

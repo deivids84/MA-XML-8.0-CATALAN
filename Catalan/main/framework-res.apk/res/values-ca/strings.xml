@@ -7,11 +7,16 @@
   <string name="CLIRDefaultOnNextCallOn">L\'ID d\'emissor presenta el valor predeterminat de restringit. Següent trucada: Restringit</string>
   <string name="CLIRPermanent">No pots modificar el ID d\'emissor.</string>
   <string name="CfMmi">Desviament de trucada</string>
+  <string name="China_Mobile">China Mobile</string>
+  <string name="China_Telecom">China Telecom</string>
+  <string name="China_Unicom">China Unicom</string>
   <string name="ClipMmi">ID d\'emissor de trucada entrant</string>
   <string name="ClirMmi">ID d\'emissor de trucada sortint</string>
   <string name="CndMmi">Lliurament de número de trucada entrant</string>
   <string name="CnipMmi">Número de trucada entrant present</string>
   <string name="CnirMmi">Número de trucada entrant restringit</string>
+  <string name="ColpMmi">"Identificació de l'usuari connectat"</string>
+  <string name="ColrMmi">"Restricció d'identificació de l'usuari connectat"</string>
   <string name="CwMmi">Trucada en espera</string>
   <string name="DndMmi">No molestar</string>
   <string name="Midnight">Mitjanit</string>
@@ -48,6 +53,7 @@
   <string name="activity_list_empty">No s\'ha trobat cap activitat coincident.</string>
   <string name="activity_resolver_use_always">Sempre</string>
   <string name="activity_resolver_use_once">Només un cop</string>
+  <string name="activity_resolver_work_profiles_support">%1$s no és compatible amb el perfil de treball</string>
   <string name="activitychooserview_choose_application">Seleccionar una aplicació</string>
   <string name="activitychooserview_choose_application_error">No s\'ha pogut obrir %s</string>
   <string name="adb_active_notification_message">Toca per desactivar la depuració USB</string>
@@ -60,11 +66,14 @@
   <string name="aerr_title"/>
   <string name="allow">Permet</string>
   <string name="alwaysUse">Utilitza sempre per aquesta acció</string>
+  <string name="android_preparing_apk">Preparant %1$s.</string>
+  <string name="android_start_title">Android està començant…</string>
   <string name="android_system_label">Sistema Android</string>
   <string name="android_upgrading_apk">Optimitzant aplicació %1$d de %2$d…</string>
   <string name="android_upgrading_complete">Finalitzant inici…</string>
+  <string name="android_upgrading_fstrim">Optimització d'emmagatzematge</string>
   <string name="android_upgrading_starting_apps">Iniciant aplicacions</string>
-  <string name="android_upgrading_title">Actualitzant Android</string>
+  <string name="android_upgrading_title">Actualitzant Android…</string>
   <string name="anr_activity_application">"L\'aplicació %2$s no respon.
 
 La vols tancar?"</string>
@@ -76,7 +85,6 @@ La vols tancar?"</string>
 
 Vols tancar-lo?"</string>
   <string name="anr_title"/>
-  <string name="app_no_restricted_accounts">Aquesta aplicació no admet comptes de perfils restringits</string>
   <string name="app_not_found">No s\'ha trobat cap aplicació que pugui realitzar aquesta acció.</string>
   <string name="app_running_notification_text">Toca per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
@@ -102,6 +110,9 @@ Vols tancar-lo?"</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">El codi PIN antic que has introduït no és correcte.</string>
   <string name="badPuk">El codi PUK que has introduït no és correcte.</string>
+  <string name="battery_saver_description">"Per ajudar a millorar la vida de la bateria, estalvi de bateria redueix el rendiment del dispositiu i limita les vibracions, els serveis de localització, i la majoria de les dades de fons. Correu electrònic, missatgeria i altres aplicacions que es basen en la sincronització no es pot actualitzar a menys que les obris.
+
+Economitzador de bateria s'apaga automàticament quan el dispositiu s'està carregant."</string>
   <string name="beforeOneMonthDurationPast">Fa més d\'un mes</string>
   <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
   <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del teu dispositiu i s\'enviarà per email. Passaran uns minuts des que comenci a generar-se el informe d\'errors fins que s\'enviï, per la qual cosa et recomanem que tinguis paciència.</string>
@@ -133,6 +144,7 @@ Vols tancar-lo?"</string>
   <string name="clearDefaultHintMsg">Per esborrar els valors predeterminats, accedeix a Configuració del sistema &gt; Aplicacions &gt; Descarregades.</string>
   <string name="common_last_name_prefixes"/>
   <string name="common_name">Nom comú:</string>
+  <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
   <string name="configure_input_methods">Configura mètodes d\'entrada</string>
   <string name="contentServiceSync">Sincronització</string>
   <string name="contentServiceSyncNotificationTitle">Sincronització</string>
@@ -148,7 +160,7 @@ a partir de %s"</string>
   <string name="data_usage_3g_limit_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
   <string name="data_usage_4g_limit_title">Dades 4G desactivades</string>
-  <string name="data_usage_limit_body">Toca per activar.</string>
+  <string name="data_usage_limit_body">Dades aturades per la resta del cicle</string>
   <string name="data_usage_limit_snoozed_body">Límit superat a %s</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit de dades mòbils superat</string>
   <string name="data_usage_mobile_limit_title">Dades mòbils desactivades</string>
@@ -165,6 +177,8 @@ a partir de %s"</string>
   <string name="date_picker_increment_day_button">Augmentar dies</string>
   <string name="date_picker_increment_month_button">Augmenta mes</string>
   <string name="date_picker_increment_year_button">Augmentar any</string>
+  <string name="date_picker_next_month_button">El proper mes</string>
+  <string name="date_picker_prev_month_button">El mes anterior</string>
   <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Llest</string>
   <string name="date_time_set">Establir</string>
@@ -180,17 +194,8 @@ a partir de %s"</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
+  <string name="deleted_key">%1$s eliminat</string>
   <string name="deny">Denegar</string>
-  <string name="description_direction_down">Fes lliscar el dit cap avall per %s.</string>
-  <string name="description_direction_left">Fes lliscar el dit cap a l\'esquerra per %s.</string>
-  <string name="description_direction_right">Fes lliscar el dit cap a la dreta per %s.</string>
-  <string name="description_direction_up">Fes lliscar el dit cap amunt per %s.</string>
-  <string name="description_target_camera">Càmera</string>
-  <string name="description_target_search">Cercar</string>
-  <string name="description_target_silent">Silenci</string>
-  <string name="description_target_soundon">So activat</string>
-  <string name="description_target_unlock">Desbloquejar</string>
-  <string name="description_target_unlock_tablet">Fes lliscar el dit per desbloquejar.</string>
   <string name="dial_number_using">"Marca número
 amb %s"</string>
   <string name="dialog_alert_title">Atenció</string>
@@ -203,12 +208,27 @@ amb %s"</string>
   <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
   <string name="dlg_error_title">Error de funcionament d\'USB</string>
   <string name="dlg_ok">D\'acord</string>
+  <string name="done_label">A punt</string>
   <string name="double_tap_toast">Consell: toca dues vegades per ampliar o reduir el contingut.</string>
+  <string name="dump_heap_notification">%1$s ha superat el límit de la memòria</string>
+  <string name="dump_heap_notification_detail">Heap dump has been collected; touch to share</string>
+  <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. A heap dump is available for you to share with its developer. Be careful: this heap dump can contain any of your personal information that the application has access to.</string>
+  <string name="dump_heap_title">Share heap dump?</string>
+  <string name="durationDayHour">%1$d dia %2$d hr</string>
+  <string name="durationDayHours">%1$d dia %2$d hrs</string>
+  <string name="durationDays">%1$d dies</string>
+  <string name="durationHourMinute">%1$d hr %2$d min</string>
+  <string name="durationHourMinutes">%1$d hr %2$d mins</string>
+  <string name="durationHours">%1$d hrs</string>
+  <string name="durationMinute">%1$d min</string>
+  <string name="durationMinuteSecond">%1$d min %2$d seg</string>
+  <string name="durationMinuteSeconds">%1$d min %2$d segs</string>
+  <string name="durationMinutes">%1$d mins</string>
+  <string name="durationSecond">%1$d seg</string>
+  <string name="durationSeconds">%1$d segs</string>
   <string name="editTextMenuTitle">Accions de text</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-  <string name="ellipsis">…</string>
-  <string name="ellipsis_two_dots">…</string>
   <string name="emailTypeCustom">Personalitzat</string>
   <string name="emailTypeHome">Casa</string>
   <string name="emailTypeMobile">Mòbil</string>
@@ -221,6 +241,7 @@ amb %s"</string>
   <string name="enable_accessibility_canceled">Accessibilitat cancel·lada</string>
   <string name="enable_explore_by_touch_warning_message">%1$s vol activar l\'exploració tàctil. Quan aquesta funció estigui activada, podràs escoltar o veure descripcions del contingut seleccionat o utilitzar gestos per interactuar amb el telèfon.</string>
   <string name="enable_explore_by_touch_warning_title">Activa exploració tàctil?</string>
+  <string name="error_message_change_not_allowed">"Aquest canvi no està permès per l'administrador"</string>
   <string name="error_message_title">Error</string>
   <string name="eventTypeAnniversary">Aniversari</string>
   <string name="eventTypeBirthday">Aniversari</string>
@@ -228,22 +249,44 @@ amb %s"</string>
   <string name="eventTypeOther">Altres</string>
   <string name="expires_on">Data de caducitat:</string>
   <string name="ext_media_badremoval_notification_message">Desactiva l\'emmagatzematge USB abans d\'extreure\'l per evitar pèrdues de dades.</string>
-  <string name="ext_media_badremoval_notification_title">USB extret inesperadament</string>
+  <string name="ext_media_badremoval_notification_title">%s inesperadament retirat</string>
+  <string name="ext_media_browse_action">Explorar</string>
   <string name="ext_media_checking_notification_message">Comprovant errors…</string>
-  <string name="ext_media_checking_notification_title">Preparant emmagatzematge USB</string>
-  <string name="ext_media_nofs_notification_message">Emmagatzematge USB buit o amb sistema de fitxers no admès</string>
-  <string name="ext_media_nofs_notification_title">Emmagatzematge USB buit</string>
-  <string name="ext_media_nomedia_notification_message">Emmagatzematge USB extret. Insereix un nou mitjà.</string>
-  <string name="ext_media_nomedia_notification_title">Emmagatzematge USB extret</string>
-  <string name="ext_media_safe_unmount_notification_message">Pots extreure l\'emmagatzematge USB de forma segura.</string>
-  <string name="ext_media_safe_unmount_notification_title">USB extret de forma segura</string>
-  <string name="ext_media_unmountable_notification_message">L\'emmagatzematge USB està danyat. Prova a formatar de nou.</string>
-  <string name="ext_media_unmountable_notification_title">Emmagatzematge USB danyat</string>
-  <string name="extmedia_format_button_format">Format</string>
-  <string name="extmedia_format_message">S\'esborraran tots els fitxers emmagatzemats en l\'emmagatzematge USB. Aquesta acció no es pot desfer.</string>
-  <string name="extmedia_format_title">Formatejar USB?</string>
-  <string name="extract_edit_menu_button">Edita</string>
+  <string name="ext_media_checking_notification_title">Preparant %s</string>
+  <string name="ext_media_init_action">Configura</string>
+  <string name="ext_media_missing_message">Torneu a col·locar aquest dispositiu</string>
+  <string name="ext_media_missing_title">Falta %s</string>
+  <string name="ext_media_move_failure_message">"Falten dades a l'ubicacio original"</string>
+  <string name="ext_media_move_failure_title">"No s'han pogut moure les dades"</string>
+  <string name="ext_media_move_specific_title">Movent %s</string>
+  <string name="ext_media_move_success_message">Les dades es van moure a %s</string>
+  <string name="ext_media_move_success_title">Moviment completat</string>
+  <string name="ext_media_move_title">Movent dades</string>
+  <string name="ext_media_new_notification_message">Nova %s detectada</string>
+  <string name="ext_media_nomedia_notification_message">%s extret. Insereix un nou mitjà.</string>
+  <string name="ext_media_nomedia_notification_title">%s extret</string>
+  <string name="ext_media_ready_notification_message">Per a la transferència de fotos i mitjans</string>
+  <string name="ext_media_status_bad_removal">"S'ha tret de forma no segura"</string>
+  <string name="ext_media_status_checking">Comprovant…</string>
+  <string name="ext_media_status_ejecting">Expulsant…</string>
+  <string name="ext_media_status_formatting">Formatejant…</string>
+  <string name="ext_media_status_missing">No inserit</string>
+  <string name="ext_media_status_mounted">A punt</string>
+  <string name="ext_media_status_mounted_ro">Només lectura</string>
+  <string name="ext_media_status_removed">"S'ha tret"</string>
+  <string name="ext_media_status_unmountable">Danyat</string>
+  <string name="ext_media_status_unmounted">Expulsat</string>
+  <string name="ext_media_status_unsupported">No compatible</string>
+  <string name="ext_media_unmount_action">Expulsar</string>
+  <string name="ext_media_unmountable_notification_message">%s està danyat. Prova a formatejar de nou.</string>
+  <string name="ext_media_unmountable_notification_title">%s danyat</string>
+  <string name="ext_media_unmounting_notification_message">No el treieu</string>
+  <string name="ext_media_unmounting_notification_title">"S'està extraient %s…"</string>
+  <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Tocar per configurar en un format compatible.</string>
+  <string name="ext_media_unsupported_notification_title">%s no compatible</string>
   <string name="faceunlock_multiple_failures">S\'ha superat el nombre màxim d\'intents de desbloqueig facial.</string>
+  <string name="factory_reset_message">"L'aplicació d'administració no es troba o està malmèsa, i no es pot utilitzar. El dispositiu ara s'esborrarà. Poseu-vos en contacte amb l'administrador per obtenir ajuda."</string>
+  <string name="factory_reset_warning">"El dispositiu s'esborrarà"</string>
   <string name="factorytest_failed">Fallada en la prova de fàbrica</string>
   <string name="factorytest_no_action">No s\'ha trobat cap paquet que proporcioni l\'acció FACTORY_TEST.</string>
   <string name="factorytest_not_system">L\'acció FACTORY_TEST només és compatible amb els paquets instal·lats a /system/app.</string>
@@ -257,18 +300,38 @@ amb %s"</string>
   <string name="find_next">Cercar següent</string>
   <string name="find_on_page">Cerca a la pàgina</string>
   <string name="find_previous">Cerca l\'anterior</string>
+  <string name="fingerprint_acquired_imager_dirty">"Sensor d'empremtes està brut. Si us plau, netejar i tornar a provar."</string>
+  <string name="fingerprint_acquired_insufficient">"Couldn't process fingerprint.Torneu-ho a provar."</string>
+  <string name="fingerprint_acquired_partial">Empremta parcial detectada. Torneu-ho a provar.</string>
+  <string name="fingerprint_acquired_too_fast">Moviment de dit massa ràpid. Torneu-ho a provar.</string>
+  <string name="fingerprint_acquired_too_slow">Moviment de dit massa lent. Torneu-ho a provar.</string>
+  <string name="fingerprint_error_canceled">"Lectura d'empremta cancel·lada."</string>
+  <string name="fingerprint_error_hw_not_available">El sensor d'empremtes no està disponible.</string>
+  <string name="fingerprint_error_lockout">Massa intents. Torna-ho a provar més tard.</string>
+  <string name="fingerprint_error_no_space">"L'empremta no es pot emmagatzemar. Si us plau, eliminar una empremta existent."</string>
+  <string name="fingerprint_error_timeout">"Temps d'espera de l'empremta acabat. Tornar a provar.</string>
+  <string name="fingerprint_error_unable_to_process">Torneu-ho a provar.</string>
+  <string name="fingerprint_icon_content_description">"Icona d'empremta"</string>
+  <string name="fingerprint_name_template">Dit %d</string>
   <string name="fingerprints">Empremtes:</string>
+  <string name="floating_toolbar_close_overflow_description">Tancar sobreeiximent</string>
+  <string name="floating_toolbar_open_overflow_description">Més opcions</string>
   <string name="force_close">D\'acord</string>
-  <string name="format_error">No s\'ha pogut esborrar l\'emmagatzematge USB.</string>
+  <string name="forward_intent_to_owner">Vostè està utilitzant aquesta aplicació fora del seu perfil de treball</string>
+  <string name="forward_intent_to_work">Vostè està utilitzant aquesta aplicació en el seu perfil de treball</string>
   <string name="gadget_host_error_inflating">No s\'ha pogut afegir el widget.</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_action_assist">Ajudar</string>
   <string name="global_action_bug_report">Informe d\'error</string>
   <string name="global_action_lock">Bloqueig de pantalla</string>
+  <string name="global_action_lockdown">Bloquejar ara</string>
   <string name="global_action_power_off">Apagar</string>
-  <string name="global_action_reboot_summary">Tancar totes les aplicacions i reiniciar el telèfon</string>
-  <string name="global_action_silent_mode_off_status">El so està activat. Desactivar</string>
-  <string name="global_action_silent_mode_on_status">El so està desactivat. Activa</string>
+  <string name="global_action_reboot">Reiniciar</string>
+  <string name="global_action_settings">Configuració</string>
+  <string name="global_action_silent_mode_off_status">El so està activat</string>
+  <string name="global_action_silent_mode_on_status">El so està desactivat</string>
   <string name="global_action_toggle_silent_mode">Mode silenci</string>
+  <string name="global_action_voice_assist">Assistent de veu</string>
   <string name="global_actions">Opcions del telèfon</string>
   <string name="global_actions_airplane_mode_off_status">Mode avió desactivat. Activa</string>
   <string name="global_actions_airplane_mode_on_status">Mode avió activat. Desactivar</string>
@@ -294,6 +357,7 @@ amb %s"</string>
   <string name="hour">hora</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
+  <string name="hour_picker_description">Hours circular slider</string>
   <string name="hours">hores</string>
   <string name="httpError">S\'ha produït un error de xarxa.</string>
   <string name="httpErrorAuth">No s\'ha pogut autenticar.</string>
@@ -331,10 +395,12 @@ amb %s"</string>
   <string name="ime_action_go">Anar</string>
   <string name="ime_action_next">Següent</string>
   <string name="ime_action_previous">Anterior</string>
-  <string name="ime_action_search">Cercar</string>
+  <string name="ime_action_search">Cerca</string>
   <string name="ime_action_send">Envia</string>
   <string name="imei">IMEI</string>
-  <string name="immersive_mode_confirmation">Fes lliscar el dit cap avall per sortir de la pantalla completa</string>
+  <string name="immersive_cling_description">Per sortir, lliscar el dit cap avall des de la part superior.</string>
+  <string name="immersive_cling_positive">"D'acord"</string>
+  <string name="immersive_cling_title">Veient pantalla completa</string>
   <string name="inputMethod">Mètode d\'entrada de text</string>
   <string name="input_method_binding_label">Mètode d\'entrada de text</string>
   <string name="invalidPin">Introdueix un codi PIN amb una longitud compresa entre quatre i vuit dígits.</string>
@@ -389,7 +455,6 @@ amb %s"</string>
   <string name="keyguard_password_enter_puk_prompt">Codi PUK</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toca per introduir contrase&amp;#241;a&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Codi PIN incorrecte</string>
-  <string name="kg_emergency_call_label">Trucada d\'emergència</string>
   <string name="kg_enter_confirm_pin_hint">Confirma el codi PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Has fallat %d vegades en dibuixar el patró de desbloqueig. Si falles unes altres %d vegades, hauràs de fer servir un compte de correu electrònic per desbloquejar el telèfon.
 
@@ -449,15 +514,21 @@ Per treure la fixació, pressiona i mantén el botó Home i el d\'encesa a la ve
   <string name="lock_to_app_description_accessible">"La fixació de pantalla bloqueja la pantalla en una vista.
 
 Per treure la fixació, pressiona i mantén el botó Home i el d\'encesa a la vegada."</string>
+  <string name="lock_to_app_exit">Pantalla desfixada</string>
+  <string name="lock_to_app_start">Pantalla fixada</string>
   <string name="lock_to_app_toast">Per treure la fixació de pantalla, pressiona i mantén el botó Home i el d\'encesa a la vegada.</string>
   <string name="lock_to_app_toast_accessible">Per treure la fixació de pantalla, pressiona i mantén el botó Home i el d\'encesa a la vegada.</string>
+  <string name="lock_to_app_toast_locked">"L'aplicacio es va fixar: La desfixació no està permesa en aquest dispositiu."</string>
+  <string name="lock_to_app_unlock_password">Demanar contrasenya abans de desfixar</string>
+  <string name="lock_to_app_unlock_pattern">Demanar patró de desbloqueig abans de desfixar</string>
+  <string name="lock_to_app_unlock_pin">Demanar PIN abans de desfixar</string>
+  <string name="lockscreen_access_pattern_area">Àrea del patró.</string>
   <string name="lockscreen_access_pattern_cell_added">S\'ha afegit una cel·la.</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">Cel·la %1$s afegida</string>
   <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
   <string name="lockscreen_access_pattern_detected">Patró completat</string>
   <string name="lockscreen_access_pattern_start">Patró iniciat</string>
-  <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
-  <string name="lockscreen_charged">Carregada</string>
   <string name="lockscreen_emergency_call">Trucada d\'emergència</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Has intentat desbloquejar el telèfon %d vegades, però no ho has aconseguit. Si falles %d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has fallat %d vegades en dibuixar el patró de desbloqueig. Si falles unes altres %d vegades, hauràs de fer servir les teves credencials d\'accés a Google per desbloquejar el telèfon.
@@ -477,7 +548,6 @@ accedeix a la pàgina "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string
   <string name="lockscreen_glogin_username_hint">Nom d\'usuari (email)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Prem la tecla de menú per desbloquejar la pantalla.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Prem la tecla de menú per desbloquejar el telèfon o realitzar una trucada d\'emergència.</string>
-  <string name="lockscreen_low_battery">Connecta el carregador</string>
   <string name="lockscreen_missing_sim_instructions">Insereix una targeta SIM.</string>
   <string name="lockscreen_missing_sim_instructions_long">Falta la targeta SIM o no es pot llegir. Introdueix una targeta SIM.</string>
   <string name="lockscreen_missing_sim_message">No s\'ha inserit cap targeta SIM al telèfon.</string>
@@ -509,7 +579,8 @@ Intenta-ho d\'aquí a %d segons."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has introduït un codi PIN incorrecte %d vegades. 
 
 Intenta-ho d\'aquí a %d segons."</string>
-  <string name="lockscreen_transport_next_description">Botó de següent cançó</string>
+  <string name="lockscreen_transport_ffw_description">Avanç ràpid</string>
+  <string name="lockscreen_transport_next_description">Següent cançó</string>
   <string name="lockscreen_transport_pause_description">Botó de pausa</string>
   <string name="lockscreen_transport_play_description">Botó de reproducció</string>
   <string name="lockscreen_transport_prev_description">Botó de cançó anterior</string>
@@ -1409,6 +1480,11 @@ Escoltar sons a alt volum durant llargs períodes de temps pot danyar les orelle
   <string name="upload_file">Seleccionar arxiu</string>
   <string name="usb_accessory_notification_title">Connectat a un accessori USB</string>
   <string name="usb_cd_installer_notification_title">Connectat com a instal·lador</string>
+  <string name="usb_charging_notification_title">USB per carregar</string>
+  <string name="usb_midi_notification_title">USB per MIDI</string>
+  <string name="usb_midi_peripheral_manufacturer_name">Android</string>
+  <string name="usb_midi_peripheral_name">Android USB Peripheral Port</string>
+  <string name="usb_midi_peripheral_product_name">USB Peripheral Port</string>
   <string name="usb_mtp_notification_title">Connectat com a dispositiu multimèdia</string>
   <string name="usb_notification_message">Toca per accedir a altres opcions d\'USB</string>
   <string name="usb_ptp_notification_title">Connectat com una càmera</string>

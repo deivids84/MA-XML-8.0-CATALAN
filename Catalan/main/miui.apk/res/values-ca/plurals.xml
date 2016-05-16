@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="items_selected">
+        <item quantity="other">%d elements seleccionats</item>
+        <item quantity="one">%d element seleccionat</item>
+    </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Ara mateix</item>
   </plurals>
@@ -51,9 +55,5 @@
   <plurals name="in_num_minutes">
     <item quantity="other">en %d minuts</item>
     <item quantity="one">en 1 minut</item>
-  </plurals>
-  <plurals name="items_selected">
-    <item quantity="other">%d elements sel·leccionats</item>
-    <item quantity="one">%d element sel·leccionat</item>
   </plurals>
 </resources>
