@@ -505,7 +505,7 @@ Difusió utilitza senyals de Bluetooth de baix consum."</string>
   <string name="bluetooth_dock_settings_remember">Recordar ajustos</string>
   <string name="bluetooth_dock_settings_title">Utilitzar dock per àudio</string>
   <string name="bluetooth_dun_profile_summary_connected">Connectat al servidor Dun</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Utilitzar per l'accés a la xarxa telefònica </string>
+  <string name="bluetooth_dun_profile_summary_use_for">"Utilitzar per l'accés a la xarxa telefònica"</string>
   <string name="bluetooth_empty_list_bluetooth_off">Per veure dispositius, activi el Bluetooth.</string>
   <string name="bluetooth_empty_list_user_restricted">No té permís per canviar la configuració del Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
