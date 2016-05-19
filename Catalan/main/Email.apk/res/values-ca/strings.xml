@@ -1,23 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Folders">Carpetes</string>
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
   <string name="SMTP_username_text">Nom d\'usuari</string>
-  <string name="abc_action_mode_done">Fet</string>
-  <string name="abc_searchview_description_clear">Elimina la consulta</string>
-  <string name="abc_searchview_description_query">Cercar la consulta</string>
-  <string name="abc_searchview_description_search">Cercar</string>
-  <string name="abc_searchview_description_submit">Enviar consulta</string>
-  <string name="abc_searchview_description_voice">Cerca per veu</string>
-  <string name="account_duplicate_dlg_message_fmt">"Ja estàs fent servir aquest nom d\'usuari per al compte \"%s\"."</string>
+  <string name="account_cache_provider">Account Cache Provider</string>
+  <string name="account_duplicate_dlg_message_fmt">"        Ja estàs fent servir aquest nom d\'usuari per al compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom."</string>
   <string name="account_options_sync_title">Configuració de sincronització</string>
-  <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
-  <string name="account_security_dialog_content_fmt">%s requereix que actualitzi la configuració de seguretat.</string>
+  <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
+        espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
+  <string name="account_security_dialog_content_fmt">"%s requereix que actualitzi la configuració de
+        seguretat."</string>
   <string name="account_security_dialog_title">Actualització de seguretat</string>
-  <string name="account_security_policy_explanation_fmt">El servidor %s requereix que permeti controlar remotament algunes característiques de seguretat en el teu dispositiu Android.</string>
+  <string name="account_security_policy_explanation_fmt">"El servidor %s requereix que permeti controlar remotament
+        algunes característiques de seguretat en el teu dispositiu Android."</string>
   <string name="account_security_title">Dispositiu de seguretat</string>
   <string name="account_set_up_change_type_note">Si voleu canviar la configuració del seu compte de POP3 i IMAP, primer ha d\'esborrar el compte i tornar a configurar l\'inici de sessió.</string>
   <string name="account_settings_action">Configuració del compte</string>
@@ -30,7 +27,8 @@
   <string name="account_settings_enforced_label">Polítiques aplicades</string>
   <string name="account_settings_enforced_summary">Cap</string>
   <string name="account_settings_incoming_summary">Nom d\'usuari, contrasenya i altres configuracions del servidor entrant</string>
-  <string name="account_settings_login_dialog_content_fmt">El nom d\'usuari o la contrasenya per %s són incorrectes. Vols actualitzar ara?</string>
+  <string name="account_settings_login_dialog_content_fmt">"El nom d\'usuari o la contrasenya per %s són incorrectes.
+        Vols actualitzar ara?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">El teu login a %s ha fallat; el servidor ha dit: %s ¿voleu actualitzar el seu nom d\'usuari i/o contrasenya?</string>
   <string name="account_settings_login_dialog_title">"No s\'ha pogut iniciar sessió" </string>
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
@@ -82,16 +80,22 @@
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_device_locked">"\"No s'ha pogut iniciar la sessió. Aquest compte ha estat bloquejat.\"​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
+  <string name="account_setup_failed_dlg_error_code">"Codi d'error: %s"</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"No es pot contactar amb el servidor.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"No s\'ha pogut acabar"</string>
+  <string name="account_setup_failed_dlg_todo1">Establir compte, com es mostra a continuació o iniciar sessió amb EXCHANGE.</string>
+  <string name="account_setup_failed_dlg_todo2">Establir compte, com es mostra a continuació</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Error desconegut.</string>
   <string name="account_setup_failed_ioerror">"No s\'ha pogut obrir la connexió al servidor."</string>
-  <string name="account_setup_failed_protocol_unsupported">"S\'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no és compatible amb Email"</string>
+  <string name="account_setup_failed_protocol_unsupported">"   S\'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no
+         és compatible amb Email"</string>
   <string name="account_setup_failed_security">"No s\'ha pogut obrir la connexió amb el servidor a causa d\'un error de seguretat."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"Aquest servidor requereix característiques de seguretat que no suporta el dispositiu Android, incloent: %s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"Aquest servidor requereix característiques de seguretat que no suporta el dispositiu Android,
+         incloent: %s"</string>
   <string name="account_setup_failed_tls_required">TLS requerits però no són suportats pel servidor.</string>
   <string name="account_setup_failed_too_many_partnerships"> Inici de sessió fallit, s\'ha assolit el nombre màxim de connexions amb el servidor.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Quan esborro de la paperera</string>
@@ -104,10 +108,11 @@
   <string name="account_setup_incoming_security_none_label">Cap</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (acceptar tots els certificats)</string>
-  <string name="account_setup_incoming_security_tls_label">COMENZARTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">COMENZATTLS (acceptar tots els certificats)</string>
+  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (acceptar tots els certificats)</string>
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
+  <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
   <string name="account_setup_need_password_verification">El vostre compte ha estat oberta amb una contrasenya secundària d\'autenticació, cal tornar a autenticar</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minuts</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 hores</string>
@@ -130,9 +135,11 @@
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
-  <string name="account_setup_security_policies_required_fmt">El servidor %s requereix que permeti controlar remotament algunes característiques de seguretat del teu dispositiu Android. Vols acabar de configurar aquest compte?</string>
+  <string name="account_setup_security_policies_required_fmt">"  El servidor %s requereix que permeti controlar remotament
+         algunes característiques de seguretat del teu dispositiu Android. Vols acabar de configurar aquest
+		 compte?"</string>
   <string name="account_setup_security_required_title">Administració de seguretat remota</string>
-  <string name="account_setup_server_acc_manager_title">Gestor de comptes</string>
+  <string name="account_setup_server_acc_manager_title">Comptes</string>
   <string name="account_setup_username_password_toast">Escriu una adreça vàlida de correu electrònic i contrasenya.</string>
   <string name="account_sync_off">Sincronització de compte esta apagada.</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
@@ -155,6 +162,7 @@
   <string name="archived">Arxivat</string>
   <string name="att_download_failed_content">No s\'ha pogut desar el fitxer adjunt d\'aquest missatge</string>
   <string name="att_download_failed_network_slow">Xarxa lenta, si us plau descàrrega més tard</string>
+  <string name="att_download_failed_permission_denied">No tens autorització per accedir a emmagatzematge extern</string>
   <string name="att_download_failed_title">Descàrrega de l\'arxiu adjunt fallida</string>
   <string name="att_file_not_exists">No s\'ha trobat %s</string>
   <string name="att_mgr_no_attachment">Buit</string>
@@ -184,9 +192,7 @@
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Arxius adjunts</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
-  <string name="auto_advance_help_title">"Configura les preferències d\'avanç automàtic
-(després d\'eliminar, etc.)"</string>
+  <string name="auto_advance_help_title">Després d'esborrar un missatge, veure…</string>
   <string name="auto_advance_label">Avanç automàtic</string>
   <string name="auto_advance_summary">Tria quina pantalla es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
@@ -204,7 +210,8 @@
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
-  <string name="cant_move_or_change_labels">"No es pot moure perquè la selecció conté diversos comptes."</string>
+  <string name="cant_move_or_change_labels">"No es pot moure perquè la selecció conté diversos 
+         comptes."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s</string>
   <string name="cc_bcc">Cc/Cco</string>
@@ -223,6 +230,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Esborrar les aprovacions d\'imatge?</string>
   <string name="clear_display_images_whitelist_title">Esborra les aprovacions d\'imatge</string>
   <string name="click_download_all_content">[ Toqui per descarregar  ]</string>
+  <string name="click_to_reload">Toqueu la pantalla per tornar a carregar</string>
   <string name="collapse_recipient_details">Col·lapsar detalls del destinatari</string>
   <string name="colon">:</string>
   <string name="compose">Redactar</string>
@@ -230,7 +238,7 @@
   <string name="compose_picturesexceedlimits">No es poden afegir més de 5 imatges</string>
   <string name="compose_send">Envia</string>
   <string name="compose_sent">Enviat amb èxit</string>
-  <string name="confirm">confirmar</string>
+  <string name="confirm">Confirmar</string>
   <string name="confirm_delete_conversation_title">Esborra</string>
   <string name="confirm_discard_text">Descarta aquest missatge?</string>
   <string name="confirm_response">Enviant resposta…</string>
@@ -240,7 +248,6 @@
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l\'assumpte del missatge."</string>
   <string name="confirm_send_title">Enviar missatge?</string>
-  <string name="contact_edit_set_black_list">Establir llista de bloqueig</string>
   <string name="contact_edit_set_black_list_filtering">Filtrant…</string>
   <string name="contact_edit_set_black_list_from">Mou tots els emails d\'aquest remitent a les escombraries</string>
   <string name="contact_edit_set_black_list_receive">Moure emails amb aquest destinatari a les escombraries (només nous)</string>
@@ -258,21 +265,28 @@
   <string name="contact_select">Selecciona contactes</string>
   <string name="content_description">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
+  <string name="contextmenu_add">Afegir a contactes</string>
   <string name="contextmenu_add_contact">Afegeix contacte</string>
+  <string name="contextmenu_call">Trucar</string>
   <string name="contextmenu_copy">Copia</string>
   <string name="contextmenu_copylink">Copia enllaç URL</string>
+  <string name="contextmenu_create">Crea un nou contacte</string>
   <string name="contextmenu_dial_dot">Marca…</string>
+  <string name="contextmenu_edit">Editar contacte</string>
   <string name="contextmenu_feedback">Enviar comentaris</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
-  <string name="contextmenu_openlink">Obre al navegador</string>
+  <string name="contextmenu_open">Obrir</string>
+  <string name="contextmenu_openlink">Obrir al navegador</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_folder_moved">Es va traslladar a %1$s</string>
-  <string name="conversation_item_mark_read">Llegir</string>
+  <string name="conversation_content_provider">Conversation Content Provider</string>
+  <string name="conversation_folder_moved">Es va moure a %1$s</string>
+  <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
+  <string name="copied">Copiat</string>
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
   <string name="copy_number">Copiar el número telefònic</string>
   <string name="create_action">Nou</string>
@@ -280,16 +294,11 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
-  <string name="default_">PER DEFECTE</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
-  <string name="default_setup">AJUSTOS PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
   <string name="del_account_questionnair_hint">Ens pots dir per què estàs esborrant aquest compte?</string>
   <string name="delete">Eliminar</string>
   <string name="deleted">Eliminat</string>
-  <string name="device_activity_btn_str">Retornar per activar</string>
+  <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activa l\'actualització completa del servei de correu i activar l\'equip de seguretat</string>
   <string name="device_admin_description">Permet les polítiques de seguretat especificades pel servidor</string>
   <string name="device_admin_label">Correu electrònic</string>
@@ -301,7 +310,9 @@
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de descarregar. No hi ha prou espai d\'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">"No hi ha prou espai en l\'emmagatzematge intern."</string>
-  <string name="disable_admin_warning">"ADVERTÈNCIA: Desactivant els permisos de l\'aplicació de correu electrònic per administrar el dispositiu, s\'eliminaran tots els comptes de correu electrònic que ho requereixin, juntament amb el seu email, contactes, calendari d\'esdeveniments i altres dades."</string>
+  <string name="disable_admin_warning">"ADVERTÈNCIA: Desactivant els permisos de l\'aplicació de correu electrònic
+         per administrar el dispositiu, s\'eliminaran tots els comptes de correu electrònic que ho requereixin, juntament amb el seu
+		 email, contactes, calendari d\'esdeveniments i altres dades."</string>
   <string name="discard">Descarta</string>
   <string name="discard_drafts">Descarta projecte</string>
   <string name="dismiss_tip_hover_text">Descarta consell</string>
@@ -325,6 +336,7 @@
   <string name="download_confirm_message">Descarregar %1$s adjunts?</string>
   <string name="download_confirm_title">Descarregar adjunts</string>
   <string name="download_message_failed_for_too_large">El missatge és massa gran per descarregar.</string>
+  <string name="download_whole_email">Descarregar la resta de contingut</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_open">Obre calaix de navegació</string>
@@ -339,8 +351,14 @@
   <string name="empty_trash_dialog_title">Voleu buidar paperera?</string>
   <string name="enable_sync_in_account_settings">Encendre a %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">Aquest esdeveniment ha estat cancel·lat per: %s</string>
-  <string name="exception_updated">Els detalls d\'aquest esdeveniment han estat canviats per: %s</string>
+  <string name="exception_cancel">"
+        Aquest esdeveniment ha estat cancel·lat 
+		per: 
+%s "</string>
+  <string name="exception_updated">"
+        Els detalls d\'aquest esdeveniment han estat canviats
+		per: 
+%s"</string>
   <string name="exchange_name">Corporatiu</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
@@ -349,6 +367,8 @@
   <string name="feedback">Enviar comentaris</string>
   <string name="feedback_body">Comentaris</string>
   <string name="feedback_sent">"Gràcies pels seus comentaris. Seguirem millorant per a vostè"</string>
+  <string name="feedback_user_edit_hint">Descriu el problema aquí. Li enviarem un correu electrònic després que ens fixem en ell.</string>
+  <string name="feedback_user_edit_tag">De MIUI </string>
   <string name="fetching_attachment">Afegint adjunt</string>
   <string name="file_deleted_success">Arxiu eliminat</string>
   <string name="file_not_found">No s\'ha trobat el fitxer</string>
@@ -363,11 +383,15 @@
   <string name="folder_drafts_name_en2">[Gmail]/Esborranys</string>
   <string name="folder_junk_name_cn0">No desitjat</string>
   <string name="folder_junk_name_cn1">Paperera</string>
+  <string name="folder_junk_name_cn2">[Gmail]/Correu brossa</string>
   <string name="folder_junk_name_en0">No desitjat</string>
   <string name="folder_junk_name_en1">Correu massiu</string>
   <string name="folder_junk_name_en2">Correu brossa</string>
   <string name="folder_junk_name_en3">Correu brossa</string>
-  <string name="folder_picker_title">Selector de carpeta</string>
+  <string name="folder_junk_name_en4">Brossa</string>
+  <string name="folder_list_display_all">Mostra totes les carpetes</string>
+  <string name="folder_list_display_only_import">Mostra només les carpetes importants</string>
+  <string name="folder_picker_title">Triar carpetes</string>
   <string name="folder_removed">Esborrat de %1$s</string>
   <string name="folder_sent_name_cn0">Enviat</string>
   <string name="folder_sent_name_cn1">Correu enviat</string>
@@ -395,6 +419,7 @@
   <string name="forward_attribution_no_headers">---------- Missatge reenviat ----------</string>
   <string name="forward_download_failed_ticker">"No s\'ha pogut reenviar un o més fitxers adjunts."</string>
   <string name="forward_download_failed_title">Arxiu adjunt no reenviat</string>
+  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar abans d\'esborrar</string>
   <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
@@ -421,6 +446,19 @@
   <string name="hide_elided">▼ Amaga el text citat</string>
   <string name="hint_quick_reply_all">Respondre a tots</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
+  <string name="info_actionbar_normal_detail">Detalls</string>
+  <string name="info_actionbar_subscribe">Servei de notícies</string>
+  <string name="info_item_from">De </string>
+  <string name="info_item_hide">Amagar</string>
+  <string name="info_loading">Carregant…</string>
+  <string name="info_name_title">NOTÍCIES</string>
+  <string name="info_no_message">No hi ha articles per veure</string>
+  <string name="info_no_more_message">No hi ha més elements per veure</string>
+  <string name="info_switch_summary">Vista superior de notícies</string>
+  <string name="info_switch_title">Notícies de la safata d'entrada</string>
+  <string name="info_sync_error">"No es pot sincronitzar, provar-ho més tard"</string>
+  <string name="information_subscribe_first_intro">"Sembla que estàs utilitzant les fonts de notícies per primera vegada. Explica'ns sobre els seus interessos perquè poguém personalitzar les seves notícies"</string>
   <string name="inline_picture_deleted">No es troba aquesta imatge, descarregant…</string>
   <string name="input_password_prompt">Introduïu la contrasenya</string>
   <string name="invalid_recipient">La direcció %s no és vàlida.</string>
@@ -443,6 +481,7 @@
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
   <string name="mail_header_network_not_available">No té connexió de xarxa.</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
+  <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
   <string name="mailbox_name_display_junk">No desitjat</string>
@@ -451,12 +490,19 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
+  <string name="mailbox_name_server_all_unread">No llegits</string>
+  <string name="mailbox_name_server_drafts">Esborranys</string>
+  <string name="mailbox_name_server_inbox">Entrada</string>
+  <string name="mailbox_name_server_junk">No desitjat</string>
+  <string name="mailbox_name_server_outbox">Sortida</string>
+  <string name="mailbox_name_server_sent">Enviats</string>
+  <string name="mailbox_name_server_starred">Destacats</string>
+  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
   <string name="mailbox_settings_sync_enabled_label">Sincronitza aquesta carpeta</string>
   <string name="mailbox_settings_sync_enabled_summary">Els missatges es descarregueran quan es connecti</string>
-  <string name="main_help_context">ttl</string>
   <string name="manual_sync">Sincronitza ara</string>
   <string name="mark_important">Marca com a important</string>
   <string name="mark_not_important">Macar com no important</string>
@@ -465,16 +511,39 @@
   <string name="mark_unread">Marca com a no llegit</string>
   <string name="me_object_pronun">Jo</string>
   <string name="me_subject_pronun">Jo</string>
-  <string name="meeting_accepted">Acceptat: %s</string>
-  <string name="meeting_allday">Quan: %s (tot el dia)</string>
-  <string name="meeting_allday_recurring">Quan: %s (tot el dia, recurrent)</string>
-  <string name="meeting_canceled">Cancel·lat: %s</string>
-  <string name="meeting_declined">Rebutjat: %s</string>
-  <string name="meeting_recurring">Quan: %s (recurrent)</string>
-  <string name="meeting_tentative">Temptatiu: %s</string>
-  <string name="meeting_updated">Actualitzat: %s</string>
-  <string name="meeting_when">Quan: %s</string>
-  <string name="meeting_where">On: %s</string>
+  <string name="meeting_accepted">"
+        Acceptat: 
+%s"</string>
+  <string name="meeting_allday">"
+        Quan: 
+%s (tot el dia)
+    "</string>
+  <string name="meeting_allday_recurring">"
+        Quan: 
+%s (tot el dia, recurrent)
+    "</string>
+  <string name="meeting_canceled">"
+        Cancel·lat: 
+%s "</string>
+  <string name="meeting_declined">"
+        Rebutjat: 
+%s "</string>
+  <string name="meeting_recurring">"
+        Quan: 
+%s (recurrent)
+    "</string>
+  <string name="meeting_tentative">"
+        Temptatiu: 
+%s "</string>
+  <string name="meeting_updated">"
+        Actualitzat: 
+%s "</string>
+  <string name="meeting_when">"
+        Quan: 
+%s "</string>
+  <string name="meeting_where">"
+        On: 
+%s "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Arxius adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
@@ -484,6 +553,7 @@
   <string name="menu_att_mgr_order_size">Ordenar per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Compondre</string>
+  <string name="menu_discovery">Descobrir</string>
   <string name="menu_folder_options">Opcions de sincronització</string>
   <string name="menu_move_to">Mou a</string>
   <string name="menu_move_to_inbox">Mou a la safata d\'entrada</string>
@@ -505,7 +575,8 @@
   <string name="message_invite_tentative">Potser</string>
   <string name="message_invite_title">Convida al calendari</string>
   <string name="message_saved">Missatge guardat com a esborrany.</string>
-  <string name="message_view_attachment_background_load">Seran descarregats abans d\'enviar un o més fitxers adjunts al missatge reenviat.</string>
+  <string name="message_view_attachment_background_load">"Seran descarregats abans d\'enviar 
+        un o més fitxers adjunts al missatge reenviat."</string>
   <string name="mibill_privacy_policy_button1">Ara no</string>
   <string name="mibill_privacy_policy_button2">D\'acord</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
@@ -517,8 +588,11 @@
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Mut</string>
+  <string name="net_check_title">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu a intentar."</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_not_available">Connexió de xarxa no està disponible, si us plau intenti-ho més tard</string>
+  <string name="network_try_again">Comprovar la connexió de xarxa i torna a intentar</string>
+  <string name="network_unavailable">Xarxa no disponible</string>
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_messages">%1$d missatges nous</string>
   <string name="next_action">Següent</string>
@@ -542,6 +616,9 @@
   <string name="notification_action_undo_delete">Eliminat</string>
   <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
   <string name="notification_exchange_calendar_added">Calendari d\'intercanvi afegit</string>
+  <string name="oauth_error_description">"No s'ha pogut autenticar"</string>
+  <string name="oauth_gmail_login_notify">"Introduïu el vostre nom d'usuari i la contrasenya de compte de Google a la següent pàgina de registre."</string>
+  <string name="oauth_login_continue">Continuar</string>
   <string name="ok">D\'acord</string>
   <string name="okay_action">D\'acord</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
@@ -555,6 +632,7 @@
   <string name="outbox_alert_description_http_error">Causa: Error d\'autenticació del servidor durant la sincronització de la safata de sortida</string>
   <string name="outbox_alert_description_insufficient_storage_error">Emmagatzematge insuficient al servidor de correu</string>
   <string name="outbox_alert_description_provision_error">Causa: Error de provisió del servidor durant la sincronització de la safata de sortida</string>
+  <string name="outbox_alert_description_reject_by_server">Rebutjat per %s</string>
   <string name="outbox_alert_description_sent_failed">"La mida de l\'arxiu adjunt supera el límit del servidor."</string>
   <string name="outbox_alert_duplicate_click">Enviant ara…</string>
   <string name="outbox_alert_edit_resend">Editar i enviar de nou</string>
@@ -568,9 +646,11 @@
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Necessites canviar el teu PIN de pantalla de bloqueig o contrasenya aviat, o les dades de %s s\'esborraran. El vols canviar ara?</string>
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expire_warning_ticker_fmt">\"%s\" requereix que canviïs el teu PIN de pantalla de bloqueig o contrasenya.</string>
+  <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
+            bloqueig o contrasenya."</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant al teu dispositiu. Pots restaurar en canviar el PIN de pantalla de bloqueig o contrasenya. El vols canviar ara?</string>
+  <string name="password_expired_dialog_content_fmt">"    Les dades de %s s\'estan esborrant al teu dispositiu. 
+         Pots restaurar en canviar el PIN de pantalla de bloqueig o contrasenya. El vols canviar ara?"</string>
   <string name="password_expired_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloqueig o contrasenya ha expirat.</string>
   <string name="perference_change_pw_notnull_tips">La contrasenya no pot estar en blanc</string>
