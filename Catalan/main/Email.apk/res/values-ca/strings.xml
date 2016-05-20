@@ -192,7 +192,7 @@
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Arxius adjunts</string>
-  <string name="auto_advance_help_title">Després d'esborrar un missatge, veure…</string>
+  <string name="auto_advance_help_title">Després d\'esborrar un missatge, veure…</string>
   <string name="auto_advance_label">Avanç automàtic</string>
   <string name="auto_advance_summary">Tria quina pantalla es mostrarà després d\'eliminar un missatge</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
@@ -456,7 +456,7 @@
   <string name="info_no_message">No hi ha articles per veure</string>
   <string name="info_no_more_message">No hi ha més elements per veure</string>
   <string name="info_switch_summary">Vista superior de notícies</string>
-  <string name="info_switch_title">Notícies de la safata d'entrada</string>
+  <string name="info_switch_title">Notícies de la safata d\'entrada</string>
   <string name="info_sync_error">"No es pot sincronitzar, provar-ho més tard"</string>
   <string name="information_subscribe_first_intro">"Sembla que estàs utilitzant les fonts de notícies per primera vegada. Explica'ns sobre els seus interessos perquè poguém personalitzar les seves notícies"</string>
   <string name="inline_picture_deleted">No es troba aquesta imatge, descarregant…</string>
