@@ -7,6 +7,12 @@
   <string name="Settings_title_garbage_cleanup">Configuració de netejador</string>
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
+  <string name="ac_enable_title">"Activa el bloqueig de l'aplicació"</string>
+  <string name="ac_enter_applock">"Entrar a bloqueig d'aplicacions"</string>
+  <string name="ac_firstUseApplock_subTitle">"Utilitzeu el bloqueig d'aplicacions per protegir la seva privacitat"</string>
+  <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
+  <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
+  <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
   "</string>
   <string name="access_control_need_to_unlock">"Desbloquegeu amb empremta 
@@ -26,6 +32,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_network_speed_detail">Connexió</string>
   <string name="activity_title_networkassistants">Ús de dades</string>
   <string name="activity_title_notification_bar_manager">Notificacions</string>
+  <string name="activity_title_other_permission_manager">Altres permisos</string>
   <string name="activity_title_perm_manager">Permisos</string>
   <string name="activity_title_permission_manager">Permisos</string>
   <string name="activity_title_permissions_manager">Permisos</string>
@@ -52,6 +59,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualitzat fa dos dies</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a les %s</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
+  <string name="after_the_lock_screen">"L'aplicació sera bloquejada juntament amb la pantalla, pot canviar això en la configuració de bloqueig d'aplicacions."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Triar definicions</string>
   <string name="antivirus_choose_engine_disable_toast">No es poden canviar les definicions durant l\'escaneig</string>
@@ -320,7 +328,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="force_stop_dlg_title">Restringeix dades en segon pla</string>
   <string name="foreground_traffic">Primer pla %s</string>
   <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>Heu oblidat el patró?</u></string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
   <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
@@ -329,6 +337,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Comprovar router</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Anar a configuració</string>
   <string name="handle_text_cache">Memòria cau</string>
   <string name="handle_text_memory">Memòria</string>
@@ -393,6 +402,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
+  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="last_check_canceled">L\'escaneig de virus previ va ser cancel·lat </string>
   <string name="last_check_date_today">"Escanejat avui "</string>
@@ -408,6 +418,7 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="list_empty_text">Buit</string>
   <string name="load_fail">"No s'ha pogut carregar"</string>
   <string name="local_ip_exception_summary">"No s'ha pogut obtenir una adreça IP local. Per reportar a MIUI, aneu a l'aplicació Informar error i envieu registre des del dispositiu."</string>
+  <string name="lock_mode_title">Configuració de bloqueig</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s usats amb la pantalla bloquejada</string>
   <string name="lock_screen_traffic_guide_notification_title">Tocar per administrar ús de dades.</string>
   <string name="lock_screen_traffic_notify_body">Bloquejat per %2$s a les %1$s, dades usades %3$s</string>
@@ -436,6 +447,10 @@ Per a més informació. comprovi el missatge que li ha enviat el seu operador"</
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_continue_label">Següent</string>
+  <string name="lockscreen_access_pattern_cell_added">Cel·la afegida</string>
+  <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
+  <string name="lockscreen_access_pattern_detected">Patró completat</string>
+  <string name="lockscreen_access_pattern_start">Patró començat</string>
   <string name="lockscreen_glogin_checking_password">Comprovant…</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inicia sessió</string>
@@ -581,6 +596,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 cop</string>
   <string name="none_mi_service_app_detail">Buit</string>
   <string name="notification_button_text_of_low_memory">Netejar</string>
+  <string name="notification_item">"Protegir aplicacions seleccionades amb el bloqueig de l'aplicació"</string>
+  <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
   <string name="notification_title_cmcc_app_check">%d dies des de l\'última comprovació</string>
   <string name="notification_title_firewall_blocked">Bloquejada</string>
@@ -847,6 +864,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_leisure_no_overlay">Activat</string>
   <string name="pref_leisure_not_opened">Desactivat</string>
   <string name="pref_manual_adjust">Establir manualment les estadístiques d\'ús de dades</string>
+  <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_month_begin_date">Restablir la data d\'ús</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Configuració addicional</string>
@@ -972,6 +990,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="restrictbackground_conflict_saving_msg">"No es pot fer servir Estalvi de bateria quan les dades en segon pla estan restringides. Apagar l\'Estalvi de bateria i restringir les dades en segon pla?"</string>
   <string name="right_precent">100%</string>
   <string name="risk_list_header_title">%d aplicacions sospitoses detectades</string>
+  <string name="roaming_allow_network_dialog_title">Permet itinerància de dades mòbils?</string>
   <string name="roaming_limit_dialog_message">Assolit el limit diari de dades roaming</string>
   <string name="roaming_limit_network_notification_body">Premi per veure les xarxes de dades disponibles</string>
   <string name="roaming_limit_notification_title">Assolit el limit diari de dades roaming</string>
@@ -1033,6 +1052,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">riscos</string>
   <string name="suggest_app_tolock">Suggeriments</string>
+  <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzar les seves fotos, contactes i més entre tots els seus dispositius</string>
@@ -1065,8 +1085,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Puja noms i detalls d\'aplicacions i escanejar utilitzant definicions de virus en línia</string>
   <string name="summary_virus_update">Obtenir les últimes definicions de virus automàticament</string>
   <string name="summary_xiaomi_roaming">0,01 iuans per MB de trànsit de la xarxa internacional.</string>
-  <string name="system_app">Aplicacions de Sistema</string>
-  <string name="system_application">Aplicacions de Sistema</string>
+  <string name="system_app">Aplicacions del Sistema</string>
+  <string name="system_application">Aplicacions del Sistema</string>
   <string name="system_check_content">%1$d riscos</string>
   <string name="system_check_content_none">Segur</string>
   <string name="system_header_title">Elimina %1$d processos per alliberar %2$s de memòria</string>
@@ -1154,6 +1174,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">No coneix el seu límit?</string>
   <string name="tips_message">Per veure els detalls del seu pla, marqui %2$s (%1$s).</string>
+  <string name="title_app_lock_disable">Aplicacions bloquejades</string>
   <string name="title_app_update">Actualitzacions disponibles</string>
   <string name="title_cleaner_cloudscan">Puja noms de carpeta</string>
   <string name="title_cloud_account">Compte Mi</string>
@@ -1349,6 +1370,7 @@ El volum restant de dades inclou l'excedent respecte al mes anterior."</string>
   <string name="usbsharenet_exception_title">"Prova compartida a Internet a través d'USB"</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="virus_list_header_title">%d virus detectats</string>
+  <string name="warning_open_mi_sim">Activar Mi SIM</string>
   <string name="wifi_exception_summary">Prova de xarxes WLAN disponibles</string>
   <string name="wifi_exception_title">Prova de xarxa WLAN</string>
   <string name="wifi_network_blocked_notification_title">Sense connexió a Internet</string>

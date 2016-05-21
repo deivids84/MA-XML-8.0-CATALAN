@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">"No fer el seguiment de l'us de dades de %d aplicacions"</item>
+        <item quantity="one">"No fer el seguiment de l'us de dades de %d aplicació"</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">"Fer el seguiment de l'us de dades de %d aplicacions"</item>
+        <item quantity="one">"Fer el seguiment de l'us de dades de %d aplicació"</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplicacions optimitzades</item>
+        <item quantity="one">%d aplicació optimitzada</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplicacions poden ser optimitzades</item>
+        <item quantity="one">%d aplicació pot optimitzar-se</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">"%d aplicacions estan utilitzant l'estalvi de dades"</item>
+        <item quantity="one">"%d aplicació utilitza l'estalvi de dades"</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">"%d aplicacions no estan utilitzant l'estalvi de dades"</item>
+        <item quantity="one">"%d aplicació no utilitza l'estalvi de dades"</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Utilitzada fa %d dies</item>
+        <item quantity="one">Utilitzada ahir</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Cerca %d aplicacions</item>
+        <item quantity="one">Cerca %d aplicació</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplicacions poden utilitzar les dades en itinerànica</item>
+        <item quantity="one">%d aplicació pot utilitzar les dades en itinerànica</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplicacions no poden utilitzar les dades en itinerànica</item>
+        <item quantity="one">%d aplicació no pot utilitzar les dades en itinerànica</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Trobades %d aplicacions</item>
+        <item quantity="one">Trobada %d aplicació</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dies "</item>
         <item quantity="one">"%d dia "</item>
@@ -39,5 +83,50 @@
     <plurals name="summary_app_update">
         <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
         <item quantity="one">Actualització disponible per %d aplicació.</item>
+    </plurals>
+	<plurals name="notification_apps">
+        <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
+        <item quantity="one">%d aplicació conté riscos de privacitat</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres.</item>
+        <item quantity="one">La contrasenya ha de tenir almenys 1 lletra.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres minúscules.</item>
+        <item quantity="one">La contrasenya ha de contenir almenys 1 lletra minúscula.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">La contrasenya ha de contenir almenys %d lletres en majúscules.</item>
+        <item quantity="one">La contrasenya ha de contenir almenys 1 lletra majúscula.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">La contrasenya ha de contenir almenys %d números.</item>
+        <item quantity="one">La contrasenya ha de contenir almenys 1 número.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">La contrasenya ha de contenir almenys %d símbols especials.</item>
+        <item quantity="one">La contrasenya ha de contenir almenys 1 símbol especial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">La contrasenya ha de contenir almenys %d caràcters que no siguin lletres.</item>
+        <item quantity="one">La contrasenya ha de contenir almenys 1 caràcter que no sigui cap lletra.</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplicacions bloquejades</item>
+        <item quantity="one">%d aplicació bloquejada</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplicacions no bloquejades</item>
+        <item quantity="one">%d aplicació no bloquejada</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Cerca entre %d aplicacions</item>
+        <item quantity="one">Cerca entre %d aplicació</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicacions trobades</item>
+        <item quantity="zero">Cap aplicació trobada</item>
+        <item quantity="one">%d aplicació trobada</item>
     </plurals>
 </resources>

@@ -681,7 +681,8 @@
   <string name="policy_dont_allow_storage_cards">"No es permeten targetes d\'emmagatzematge"</string>
   <string name="policy_dont_allow_text_messaging">"No es permeten missatges de text"</string>
   <string name="policy_dont_allow_unsigned_apps">"No es permeten aplicacions sense signar"</string>
-  <string name="policy_dont_allow_unsigned_installers">"No permetre instal·ladors d\'aplicacions sense signar"</string>
+  <string name="policy_dont_allow_unsigned_installers">"No permetre instal·ladors d\'aplicacions 
+        sense signar"</string>
   <string name="policy_dont_allow_wifi">"No permetre Wi-Fi"</string>
   <string name="policy_email_age">Limitar el número de missatges de correu electrònic sincronitzats</string>
   <string name="policy_html_truncation">Limitar mida de correus HTML</string>
@@ -706,11 +707,18 @@
   <string name="preview_attachment">Vista prèvia</string>
   <string name="previous_action">Enrere</string>
   <string name="prompt_title">Punter</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Tiri cap avall per actualitzar</string>
+  <string name="pull_up_to_load_more">Tira cap amunt per carregar més</string>
+  <string name="push_wps_better_confirm_download">Descarregar</string>
+  <string name="push_wps_better_confirm_exit">Ara no</string>
+  <string name="push_wps_better_confirm_message">Prova a utilitzar WPS Office per obrir aquest arxiu adjunt.</string>
+  <string name="push_wps_better_confirm_noshow_hint">"No mostrar de nou"</string>
+  <string name="push_wps_better_confirm_title">Provar WPS Office</string>
+  <string name="push_wps_confirm_cancel">Ara no</string>
+  <string name="push_wps_confirm_download">Descarregar</string>
+  <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest arxiu adjunt.</string>
+  <string name="push_wps_confirm_title">Provar WPS Office</string>
+  <string name="push_wps_no_response_app">"No s'ha trobat l'aplicació per gestionar aquesta acció"</string>
   <string name="questionnair_body_invisibility">No es mostren els missatges</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
@@ -750,6 +758,8 @@
   <string name="quote_divider_qq_zh">------------------ Missatge original ------------------</string>
   <string name="quoted_text">Incloure text citat</string>
   <string name="quoted_text_label">Citar text</string>
+  <string name="re_download_message_button">Premi per descarregar de nou</string>
+  <string name="re_download_message_info">"No s'ha pogut descarregar el correu electrònic"</string>
   <string name="read_string">conversa llegir</string>
   <string name="recipient_needed">Afegeix a almenys un destinatari.</string>
   <string name="recipient_needed_title">Advertir</string>
@@ -767,7 +777,12 @@
   <string name="reply_add_bodycontent">Afegir resposta ràpida al contingut del missatge?</string>
   <string name="reply_all">Respondre a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Es veu bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge es veu bé.</string>
+  <string name="report_rendering_problem">Es veu malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge es veu malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">L\'arxiu és massa gran</string>
   <string name="respond_inline">Respondre en línia</string>
@@ -787,14 +802,19 @@
   <string name="search_tabs_name_subject">Assumpte</string>
   <string name="search_title">Correu electrònic unificat</string>
   <string name="search_txt_size_limit_prompt">La cadena de cerca ha de ser més gran que 3.</string>
-  <string name="security_changed_ticker_fmt">El compte \"%s\" va canviar la seva configuració de seguretat; No és necessària cap acció de l\'usuari.</string>
-  <string name="security_needed_ticker_fmt">El compte \"%s\" requereix actualitzar la configuració de seguretat.</string>
-  <string name="security_notification_content_change_title">Han canviat les polítiques de seguretat</string>
-  <string name="security_notification_content_unsupported_title">"Les polítiques de seguretat no poden complir-se"</string>
+  <string name="security_changed_ticker_fmt">"    El compte \"%s\" va canviar la seva configuració de seguretat; No és necessària 
+            cap acció de l\'usuari."</string>
+  <string name="security_needed_ticker_fmt">"   El compte \"%s\" requereix actualitzar la configuració de seguretat.</string>
+  <string name="security_notification_content_change_title">"Han canviat les polítiques de 
+         seguretat"</string>
+  <string name="security_notification_content_unsupported_title">"Les polítiques de seguretat no poden 
+         complir-se"</string>
   <string name="security_notification_content_update_title">Actualització de seguretat requerida</string>
-  <string name="security_unsupported_ticker_fmt">"El compte \"%s\" no pot ser sincronitzada a causa dels requisits de seguretat."</string>
+  <string name="security_unsupported_ticker_fmt">"     El compte \"%s\" no pot ser sincronitzada a causa dels requisits de 
+    seguretat."</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha arxius adjunts seleccionats</string>
+  <string name="selected_lable">Seleccionat</string>
   <string name="send">Enviar</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
@@ -811,6 +831,7 @@
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
   <string name="set_network">Definir xarxa</string>
+  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Configuració</string>
   <string name="share_choose">Triar fitxer a compartir</string>
   <string name="sharing">Compartir</string>
@@ -826,6 +847,7 @@
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
   <string name="sort_attachment">Ordenar per</string>
   <string name="special_text_1">Va escriure:</string>
   <string name="special_text_2">Va escriure:</string>
@@ -870,19 +892,24 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
-  <string name="turn_auto_sync_on_dialog_body">Els canvis que facis a totes les aplicacions i els comptes, no només de Gmail, es sincronitzaran entre el teu %1$s, els seus altres dispositius i el web.</string>
+  <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
+  <string name="turn_auto_sync_on_dialog_body">"Els canvis que facis a 
+    totes les aplicacions i els comptes, no només de Gmail, es sincronitzaran
+	entre el teu %1$s, els seus altres dispositius i el web."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica?</string>
   <string name="undo">Desfer</string>
   <string name="unread_string">conversa no llegida</string>
+  <string name="unselected_lable">Més</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
+  <string name="unzip_file_failed">"No s'ha pogut descomprimir l'arxiu"</string>
+  <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">La pujada dels registres ha fallat</string>
   <string name="upload_log_no">Cancel·lar</string>
   <string name="upload_log_success">Els registres s\'han pujat correctament</string>
   <string name="upload_log_title">Pujar els registres ara?</string>
-  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
   <string name="upload_log_yes">Pujar</string>
   <string name="uploading_logs">Els registres s\'estan pujant</string>
   <string name="validation_failed_prompt">Error de validació, si us plau configureu el servidor %s</string>
@@ -892,7 +919,8 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
-  <string name="wait_for_manual_sync_body">"Aquest compte no està configurat per sincronitzar automàticament. Toqui " Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte.</string>
+  <string name="wait_for_manual_sync_body">"Aquest compte no està configurat per sincronitzar automàticament. 
+Toqui " Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte."</string>
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="widget_all_mail">Tot el correu</string>
   <string name="widget_large_unread_count">%d+</string>
