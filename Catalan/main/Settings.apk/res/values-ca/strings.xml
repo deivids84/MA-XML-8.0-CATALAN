@@ -677,7 +677,7 @@ Difusió utilitza senyals de Bluetooth de baix consum."</string>
   <string name="cache_size_label">Memòria cau</string>
   <string name="cached">"Registrar processos en segon pla "</string>
   <string name="call_manager_enable_summary">Permet aquest servei per administrar com es fan les trucades.</string>
-  <string name="call_manager_enable_title">Habilita l'administrador de trucades</string>
+  <string name="call_manager_enable_title">"Habilita l'administrador de trucades"</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Administrador de trucades</string>
   <string name="call_settings_summary">Configurar bústia de veu, devolució de trucada, trucada en espera, identificador de trucada</string>
@@ -831,7 +831,7 @@ Difusió utilitza senyals de Bluetooth de baix consum."</string>
   <string name="credentials_unlock_hint">Introduïu la contrasenya per a l\'emmagatzematge de certificats.</string>
   <string name="credentials_wrong_password">Clau incorrecta.</string>
   <string name="crypt_keeper_button_text">Xifrar telèfon</string>
-  <string name="crypt_keeper_conditions">Encriptació triga una hora o més. Ha de començar amb la bateria carregada i mantenir el telèfon connectat mentre es realitza el procés. Si s'interromp, es poden perden algunes o totes les seves dades.</string>
+  <string name="crypt_keeper_conditions">"Encriptació triga una hora o més. Ha de començar amb la bateria carregada i mantenir el telèfon connectat mentre es realitza el procés. Si s'interromp, es poden perden algunes o totes les seves dades."</string>
   <string name="crypt_keeper_conditions_title">Quant al xifratge del dispositiu</string>
   <string name="crypt_keeper_confirm_title">Xifrar?</string>
   <string name="crypt_keeper_content">Pot xifrar els seus comptes, configuració, aplicacions descarregades i les seves dades, arxius multimèdia i altres arxius.</string>
@@ -1146,7 +1146,7 @@ Aquesta configuració afecta tots els usuaris d\'aquest telèfon."</string>
   <string name="dndm_wristband_detailed">Encén No Molestar si Mi Band detecta que estàs dormint una hora abans de l\'hora de començament establerta</string>
   <string name="do_not_disturb_mode">No molestar</string>
   <string name="dock_audio_media_disabled">"Tot l'àudio"</string>
-  <string name="dock_audio_media_enabled">Només mitjans d'àudio</string>
+  <string name="dock_audio_media_enabled">"Només mitjans d'àudio"</string>
   <string name="dock_audio_media_title">Dock speaker plays</string>
   <string name="dock_audio_settings_title">Àudio</string>
   <string name="dock_audio_summary_car">Configuració pel dock de cotxe connectat</string>
@@ -1232,9 +1232,9 @@ Aquesta configuració afecta tots els usuaris d\'aquest telèfon."</string>
   <string name="encrypt_require_password">Requerir contrasenya per iniciar dispositiu</string>
   <string name="encrypt_require_pattern">Requerir patró per iniciar dispositiu</string>
   <string name="encrypt_require_pin">Requerir PIN per iniciar dispositiu</string>
-  <string name="encrypt_talkback_dialog_message_password">En introduir la contrasenya per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles.</string>
-  <string name="encrypt_talkback_dialog_message_pattern">En introduir el patró per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles.</string>
-  <string name="encrypt_talkback_dialog_message_pin">En introduir el PIN per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles.</string>
+  <string name="encrypt_talkback_dialog_message_password">"En introduir la contrasenya per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles."</string>
+  <string name="encrypt_talkback_dialog_message_pattern">"En introduir el patró per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles."</string>
+  <string name="encrypt_talkback_dialog_message_pin">"En introduir el PIN per iniciar aquest dispositiu, els serveis d'accessibilitat com %1$s encara no estaran disponibles."</string>
   <string name="encrypt_talkback_dialog_require_password">Requerir contrasenya?</string>
   <string name="encrypt_talkback_dialog_require_pattern">Requerir patró?</string>
   <string name="encrypt_talkback_dialog_require_pin">Requerir PIN?</string>
