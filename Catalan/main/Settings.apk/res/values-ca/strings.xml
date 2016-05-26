@@ -653,8 +653,8 @@ Difusió utilitza senyals de Bluetooth de baix consum."</string>
   <string name="brightness_auto_adjust_off">La brillantor de la pantalla romandrà constant.</string>
   <string name="brightness_auto_adjust_on">La brillantor de la pantalla variarà segons la lluminositat a cada situació.</string>
   <string name="brightness_summary">Ajustar la brillantor de la pantalla</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="brightness_title">Brillantor</string>
+  <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar HCI Snoop log Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Capturar tots els paquets HCI Bluetooth en un fitxer</string>
   <string name="bt_trace_log">Activar registre de seguiment Bluetooth</string>
@@ -1291,7 +1291,7 @@ Algunes aplicacions incompatibles fins que siguin actualitzades pels seus desenv
   <string name="experience_optimization_category">Optimització</string>
   <string name="external_code_size_label">En emmagatzematge USB</string>
   <string name="external_data_size_label">Targeta SD</string>
-  <string name="extreme_threats_summary">Rep alertes d'amenaces extremes a la vida i la propietat</string>
+  <string name="extreme_threats_summary">"Rep alertes d'amenaces extremes a la vida i la propietat"</string>
   <string name="extreme_threats_title">Amenaces extremes</string>
   <string name="factory_reset_summary">"Elimina totes les dades de l\'emmagatzematge intern del telèfon"</string>
   <string name="failed_to_check_find_device_status_content">No s\'ha pogut comprovar l\'estatus de Trobar dispositiu. Espera un minut o dos i torna a intentar.</string>
@@ -1398,7 +1398,7 @@ Si el text del seu sistema és encara massa petit, tracti d\'usar "</string>
   <string name="fullbackup_data_summary">"Automàticament fer còpies de seguretat de dades dels dispositius (per exemple, contrasenyes i historial de trucades WLAN) i dades d'aplicacions (per exemple, configuracions i arxius emmagatzemats per aplicacions) de forma remota.
 
 Quan s'activa la còpia de seguretat automàtica, dispositiu i dades de l'aplicació es guarda periòdicament de forma remota. dades d'aplicacions poden ser qualsevol dada que una aplicació ha guardat (segons la configuració del desenvolupador), incloent dades potencialment sensibles, com ara contactes, missatges i fotos."</string>
-  <string name="fullbackup_erase_dialog_message">Deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades WLAN) i dades d'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d'esborrar totes les còpies a Google Drive?</string>
+  <string name="fullbackup_erase_dialog_message">"Deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades WLAN) i dades d'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d'esborrar totes les còpies a Google Drive?"</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">Automàtic</string>
   <string name="gadget_brightness_state_full">Màxim</string>
