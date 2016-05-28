@@ -3,7 +3,6 @@
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
   <string name="SMTP_username_text">Nom d\'usuari</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"        Ja estàs fent servir aquest nom d\'usuari per al compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom."</string>
@@ -281,7 +280,6 @@
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
@@ -419,7 +417,6 @@
   <string name="forward_attribution_no_headers">---------- Missatge reenviat ----------</string>
   <string name="forward_download_failed_ticker">"No s\'ha pogut reenviar un o més fitxers adjunts."</string>
   <string name="forward_download_failed_title">Arxiu adjunt no reenviat</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar abans d\'esborrar</string>
   <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
@@ -490,14 +487,6 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
-  <string name="mailbox_name_server_all_unread">No llegits</string>
-  <string name="mailbox_name_server_drafts">Esborranys</string>
-  <string name="mailbox_name_server_inbox">Entrada</string>
-  <string name="mailbox_name_server_junk">No desitjat</string>
-  <string name="mailbox_name_server_outbox">Sortida</string>
-  <string name="mailbox_name_server_sent">Enviats</string>
-  <string name="mailbox_name_server_starred">Destacats</string>
-  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
@@ -777,12 +766,7 @@
   <string name="reply_add_bodycontent">Afegir resposta ràpida al contingut del missatge?</string>
   <string name="reply_all">Respondre a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Denunciar phishing</string>
-  <string name="report_rendering_improvement">Es veu bé</string>
-  <string name="report_rendering_improvement_desc">Aquest missatge es veu bé.</string>
-  <string name="report_rendering_problem">Es veu malament</string>
-  <string name="report_rendering_problem_desc">Aquest missatge es veu malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">L\'arxiu és massa gran</string>
   <string name="respond_inline">Respondre en línia</string>
