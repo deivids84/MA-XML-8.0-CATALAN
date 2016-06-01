@@ -2071,7 +2071,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="no">No</string>
   <string name="no_application">Res</string>
   <string name="no_applications">No hi ha aplicacions.</string>
-  <string name="no_battery_summary">Sense ús de la bateria des de l'última càrrega completa</string>
+  <string name="no_battery_summary">"Sense ús de la bateria des de l'última càrrega completa"</string>
   <string name="no_data_usage">No hi ha dades utilitzades</string>
   <string name="no_default_apps">No hi ha aplicacions per defecte.</string>
   <string name="no_device_admins">No hi ha cap administrador de dispositius</string>
@@ -2149,7 +2149,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="overlay_display_devices_title">Simular pantalles secundàries</string>
   <string name="overlay_settings">Dibuixar sobre altres aplicacions</string>
   <string name="owner_info_settings_edit_text_hint">Escriu el text a mostrar a la pantalla de bloqueig</string>
-  <string name="owner_info_settings_summary"/>Cap</string>
+  <string name="owner_info_settings_summary">Cap</string>
   <string name="owner_info_settings_title">Informació del propietari</string>
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="page_layout_1">Diumenge, 16 d\'Agost</string>
@@ -2358,7 +2358,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="process_stats_run_time">Temps en execució</string>
   <string name="process_stats_summary">Estadístiques Geeky sobre els processos en execució</string>
   <string name="process_stats_summary_title">Estadístiques de processos</string>
-  <string name="process_stats_total_duration">%"1$s de %2$s utilizat durant l'ultima %3$s"</string>
+  <string name="process_stats_total_duration">"%1$s de %2$s utilizat durant l'ultima %3$s"</string>
   <string name="process_stats_total_duration_percentage">%1$s de RAM utilitzen més de %2$s</string>
   <string name="process_stats_type_background">Segon pla</string>
   <string name="process_stats_type_cached">En memòria cau</string>
