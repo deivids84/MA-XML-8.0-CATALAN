@@ -2483,7 +2483,7 @@ quan esta connectat a l\'ordinador apareixerà %1$s com a dispositiu d\'emmagatz
   <string name="reset_app_preferences_title">Restablir preferències d\'aplicació?</string>
   <string name="reset_legacy_password_settings_preface_text">Ha de canviar la contrasenya de pantalla de bloqueig.</string>
   <string name="reset_network_button_text">Restablir la configuració</string>
-  <string name="reset_network_complete_toast">La configuració de xarxa s'ha restablert</string>
+  <string name="reset_network_complete_toast">"La configuració de xarxa s'ha restablert"</string>
   <string name="reset_network_confirm_title">Restablir?</string>
   <string name="reset_network_desc">"Això restablirà tota la configuració de la xarxa, incloent:
 
@@ -2709,7 +2709,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_settings_fingerprint_enroll_introduction_message">"Només ha de tocar el sensor d'empremtes per desbloquejar el telèfon, autoritzar compres o inicia sessió per a aplicacions. Aneu amb compte amb les empremtes que afegeix - totes les empremtes afegides podran fer aquestes coses."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Nota: La seva empremta pot ser menys segura que un patró fort o PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Aprèn més</string>
-  <string name="security_settings_fingerprint_enroll_introduction_title">Desbloquejar amb l'empremta</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title">"Desbloquejar amb l'empremta"</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Per utilitzar la seva empremta per desbloquejar la pantalla o confirmar la compra, haurà de:</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_1">Configura el mètode de seguretat de la pantalla de bloqueig</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Afegir la seva empremta</string>
@@ -2719,7 +2719,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_settings_fingerprint_enroll_setup_screen_lock">Configuració de la pantalla de bloqueig</string>
   <string name="security_settings_fingerprint_enroll_start_message">Posar el dit al sensor i aixecar després que senti una vibració</string>
   <string name="security_settings_fingerprint_enroll_start_title">Començem!</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Utilitzar el sensor d'empremtes al dispositiu.</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_message">"Utilitzar el sensor d'empremtes al dispositiu."</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Vaja, això no és el sensor</string>
   <string name="security_settings_fingerprint_preference_title">Empremta</string>
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
@@ -2875,7 +2875,7 @@ Possiblement PIN incorrecte."</string>
   <string name="smallwindow_smartcover_title">Coberta frontal transparent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="sms_application_title">Aplicació de SMS</string>
-  <string name="sms_change_default_dialog_text">Utilitza %s en comptes de %s com app de SMS per defecte?</string>
+  <string name="sms_change_default_dialog_text">Utilitza %1$s en comptes de %2$s com app de SMS per defecte?</string>
   <string name="sms_change_default_dialog_title">Canviar l\'aplicació de SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilitza %s com la seva aplicació de SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Escollir so per missatge enviat </string>
