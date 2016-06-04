@@ -3032,11 +3032,11 @@ S'esborraran totes les dades en aquest ^1. Penseu en la possibilitat de realitza
 Moveu els seus arxius multimèdia en emmagatzematge alternatiu en aquest dispositiu, o transferir-los a un ordinador mitjançant un cable USB.
 
 "&lt;b&gt;Còpia de seguretat d'aplicacions&lt;/b&gt;" 
-Totes les aplicacions emmagatzemades en aquest ^1 es desinstal·laran i s'esborraran les dades. Per mantenir aquestes aplicacions, moure a emmagatzematge alternatiu en aquest dispositiu."</string>
+Totes les aplicacions emmagatzemades en aquest \^1 es desinstal·laran i s\'esborraran les dades. Per mantenir aquestes aplicacions, moure a emmagatzematge alternatiu en aquest dispositiu."</string>
   <string name="storage_internal_title">Emmagatzematge del dispositiu</string>
-  <string name="storage_internal_unmount_details">&lt;b&gt;Quan expulsi aquest ^1, les aplicacions emmagatzemades en ell deixen de funcionar, i els arxius multimèdia emmagatzemats en ell no estaran disponibles fins que es torna a inserir.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">&lt;b&gt;Quan expulsi aquest \^1, les aplicacions emmagatzemades en ell deixen de funcionar, i els arxius multimèdia emmagatzemats en ell no estaran disponibles fins que es torna a inserir.&lt;/b&gt;" 
 
-Aquest ^1 està formatejat per treballar només en aquest dispositiu. No funcionarà en qualsevol altre."</string>
+Aquest \^1 està formatejat per treballar només en aquest dispositiu. No funcionarà en qualsevol altre."</string>
   <string name="storage_label">Emmagatzematge</string>
   <string name="storage_low_summary">Algunes funcions del sistema, com la sincronització, poden no funcionar. Intenta alliberar espai esborrant elements, com aplicacions o continguts.</string>
   <string name="storage_low_title">Queda poc espai d\'emmagatzematge</string>
