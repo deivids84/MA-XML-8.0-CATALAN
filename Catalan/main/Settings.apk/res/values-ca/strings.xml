@@ -3024,14 +3024,14 @@ També podeu triar a oblidar aquest emmagatzematge si el dispositiu no està dis
 Si decideix oblidar, totes les dades que conté el dispositiu es perdran per sempre.
 
 Podeu tornar a instal·lar les aplicacions més endavant, però es perdran les dades guardades en aquest dispositiu."</string>
-  <string name="storage_internal_format_details">"Després de formatejar, pot utilitzar aquest ^1 en altres dispositius.
+  <string name="storage_internal_format_details">"Després de formatejar, pot utilitzar aquest \^1 en altres dispositius.
 
-S'esborraran totes les dades en aquest ^1. Penseu en la possibilitat de realitzar còpies de seguretat en primer lloc.
+S\'esborraran totes les dades en aquest \^1. Penseu en la possibilitat de realitzar còpies de seguretat en primer lloc.
 
 "&lt;b&gt;Còpia de seguretat de fotos &amp;amp; altres mitjans&lt;/b&gt;" 
 Moveu els seus arxius multimèdia en emmagatzematge alternatiu en aquest dispositiu, o transferir-los a un ordinador mitjançant un cable USB.
 
-"&lt;b&gt;Còpia de seguretat d'aplicacions&lt;/b&gt;" 
+"&lt;b&gt;Còpia de seguretat d\'aplicacions&lt;/b&gt;" 
 Totes les aplicacions emmagatzemades en aquest \^1 es desinstal·laran i s\'esborraran les dades. Per mantenir aquestes aplicacions, moure a emmagatzematge alternatiu en aquest dispositiu."</string>
   <string name="storage_internal_title">Emmagatzematge del dispositiu</string>
   <string name="storage_internal_unmount_details">&lt;b&gt;Quan expulsi aquest \^1, les aplicacions emmagatzemades en ell deixen de funcionar, i els arxius multimèdia emmagatzemats en ell no estaran disponibles fins que es torna a inserir.&lt;/b&gt;" 
