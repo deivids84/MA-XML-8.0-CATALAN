@@ -3169,9 +3169,10 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="system_storage">Emmagatzematge de sistema</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Actualitzacions de sistema</string>
+  <string name="tap_to_wake">Toc per despertar</string>
+  <string name="tap_to_wake_summary">Feu doble toc en qualsevol lloc de la pantalla per despertar el dispositiu</string>
   <string name="terms_title">Termes i condicions</string>
   <string name="testing">Provant</string>
-  <string name="testing_battery_info">Informació de bateria</string>
   <string name="testing_phone_info">Informació de telèfon</string>
   <string name="testing_sim_toolkit">Eines SIM</string>
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
@@ -3182,24 +3183,25 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="tether_settings_title_usb_bluetooth">Compartir</string>
   <string name="tether_settings_title_wifi">Zona Wi-Fi portàtil</string>
   <string name="tethering_help_button_text">Ajuda</string>
+  <string name="tethering_settings_not_available">La configuració de Tethering no esta disponible per aquest usuari</string>
   <string name="theme_settings_title">Temes</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecció del fus horari</string>
   <string name="timezone_settings">Zona horària</string>
   <string name="title_color_calibration">Configuració de correcció de color</string>
-  <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
-  <string name="title_font_current">Triar font del sistema</string>
-  <string name="title_font_current2">Triar font del sistema</string>
+  <string name="title_font_current">Font del sistema</string>
+  <string name="title_font_current2">Font del sistema</string>
   <string name="title_font_size">Mida de la font</string>
   <string name="title_hdmi_color_calibration">Configuració de correcció de color</string>
-  <string name="title_layout_current">Triar mida de la font</string>
-  <string name="title_layout_current2">Triar mida de la font</string>
+  <string name="title_layout_current">Mida del text</string>
+  <string name="title_layout_current2">Mida del text</string>
   <string name="title_local_resource">Recursos locals</string>
   <string name="title_system_resource">Recursos de sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduir contrasenya</string>
   <string name="toast_need_login">Inicia una sessió al compte Mi</string>
+  <string name="total_memory">Memòria total</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menú de drecres</string>
@@ -3210,6 +3212,7 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="touch_sensitive_turn_off_confirm">D\'acord</string>
   <string name="touch_sensitive_turn_off_summary">Apagar la prevenció de marcat accidental també?</string>
   <string name="touch_sensitive_turn_off_title">Mode guants encès</string>
+  <string name="touch_sounds_title">Sons al tocar</string>
   <string name="touch_title">Tocar</string>
   <string name="track_frame_time">Representació de perfil de GPU</string>
   <string name="trackball_settings">Punter</string>
@@ -3217,6 +3220,7 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="transition_animation_scale_title">Escala de transició-animació</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Contribucions</string>
+  <string name="trust_agent_disabled_device_admin">"Desactivat per l'administrador"</string>
   <string name="trusted_credentials">Credencials fiables</string>
   <string name="trusted_credentials_disable_confirmation">Desactivar el certificat de sistema CA?</string>
   <string name="trusted_credentials_disable_label">Desactivar</string>
@@ -3227,7 +3231,6 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="trusted_credentials_summary">Mostra certificats CA fiables</string>
   <string name="trusted_credentials_system_tab">Sistema</string>
   <string name="trusted_credentials_user_tab">Usuari</string>
-  <string name="try_again">Intentar de nou.</string>
   <string name="tts_data_installed_summary">Les veus necessàries per a la síntesi per veu ja estan instal·lades</string>
   <string name="tts_default_lang_summary">Selecciona la veu corresponent a l\'idioma per al text parlat</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -3256,6 +3259,7 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="tts_install_data_summary">Instal·lar les veus necessàries per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lar dades de veu</string>
   <string name="tts_lang_not_selected">No va seleccionar idioma</string>
+  <string name="tts_lang_use_system">Utilitzar idioma del sistema</string>
   <string name="tts_notif_engine_install_message">Activa nou motor abans d\'utilitzar.</string>
   <string name="tts_notif_engine_install_title">Motor de síntesi de veu instal·lat</string>
   <string name="tts_play_example_summary">Reproduir demostració de síntesi de veu</string>
@@ -3277,24 +3281,37 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="uninstall_all_users_text">Desinstal·la per a tots els usuaris</string>
   <string name="uninstall_text">Desinstal·la</string>
   <string name="unknown">Desconegut</string>
-  <string name="unlock_backup_info_summary">"Quan el desbloqueig per reconeixement facial no funcioni, com vol desbloquejar?"</string>
+  <string name="unknown_app">Aplicació desconeguda</string>
   <string name="unlock_change_lock_password_title">Canviar contrasenya de desbloqueig</string>
   <string name="unlock_change_lock_pattern_title">Canvia el patró de desbloqueig</string>
   <string name="unlock_change_lock_pin_title">Canvia el PIN</string>
-  <string name="unlock_disable_lock_password_summary">Treure contrasenya de desbloqueig</string>
-  <string name="unlock_disable_lock_pattern_summary">Treure patró de desbloqueig</string>
-  <string name="unlock_disable_lock_pin_summary">Esborra PIN</string>
-  <string name="unlock_disable_lock_title">Apagar bloqueig de pantalla</string>
-  <string name="unlock_set_enter_system">Saltar bloqueig de pantalla</string>
+  <string name="unlock_disable_frp_warning_content_password">Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
+
+Les seves empremtes guardades també s'eliminaran d'aquest dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o inicia sessió a aplicacions amb elles."</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Les funcions de protecció del dispositiu no funcionaran sense el seu patró.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense el seu patró.
+
+Les seves empremtes guardades també s'eliminaran d'aquest dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o inicia sessió a aplicacions amb elles."</string>
+  <string name="unlock_disable_frp_warning_content_pin">Les funcions de protecció del dispositiu no funcionaran sense el seu PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense el seu PIN.
+
+Les seves empremtes guardades també s'eliminaran d'aquest dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o inicia sessió a aplicacions amb elles."</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
+
+Les seves empremtes guardades també s'eliminaran d'aquest dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o inicia sessió a aplicacions amb elles."</string>
+  <string name="unlock_disable_frp_warning_ok">Sí, eliminar</string>
+  <string name="unlock_disable_frp_warning_title">Eliminar la protecció del dispositiu?</string>
+  <string name="unlock_disable_lock_pin_summary">Desactivar el PIN</string>
+  <string name="unlock_disable_lock_title">Desactivar pantalla de bloqueig</string>
+  <string name="unlock_set_enter_system">Saltar pantalla de bloqueig</string>
   <string name="unlock_set_enter_system_summary">Anar directament a inici en despertar</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Baixes seguretat, experimental</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Desbloqueig per reconeixement facial</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivat per administrador, política d\'encriptació, o credencial d\'emmagatzematge </string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Canviar o desactivar patró, PIN, o contrasenya</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Canviar bloqueig de pantalla</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Escolliu un mètode per bloquejar pantalla</string>
   <string name="unlock_set_unlock_launch_picker_title">Bloqueig de pantalla</string>
-  <string name="unlock_set_unlock_mode_biometric_weak">Desbloqueig per reconeixement facial</string>
   <string name="unlock_set_unlock_mode_none">Lliscar</string>
   <string name="unlock_set_unlock_mode_off">Cap</string>
   <string name="unlock_set_unlock_mode_password">Contrasenya</string>
@@ -3311,23 +3328,29 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="unlock_set_unlock_pin_summary">Seguretat mitjana a alta</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Seleccionar un bloqueig de pantalla</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Una vegada hagi configurat una pantalla de bloqueig, també pot configurar la seva empremta a Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">Emmagatzematge USB es desmuntarà.</string>
   <string name="untitled_apn">Sense títol</string>
   <string name="update_progress_for_updates">Actualitzant (%s)</string>
   <string name="upload_debug_log_summary">Ajudar a millorar MIUI enviant dades d\'ús anònimes.</string>
   <string name="upload_debug_log_title">Programa d\'experiència d\'usuari</string>
-  <string name="usage_access_title">Aplicacions amb accés d\'ús</string>
+  <string name="usage_access">"Accés a dades d'ús"</string>
+  <string name="usage_access_description">"Accés a dades d'ús permet a una aplicació realitzar un seguiment del que altres aplicacions utilitzen i amb quina freqüència, així com el seu opeardor, la configuració d'idioma, i altres detalls."</string>
+  <string name="usage_access_title">Aplicacions amb accés a dades d\'ús</string>
   <string name="usage_log">Estadístiques d\'ús d\'aplicacions</string>
-  <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Estadístiques d\'ús</string>
   <string name="usage_time_label">Temps d\'ús</string>
+  <string name="usage_type_actual_power">"Ús d'energia observat"</string>
   <string name="usage_type_audio">Àudio</string>
+  <string name="usage_type_camera">Càmera</string>
+  <string name="usage_type_computed_power">"Ús d'energia processador"</string>
   <string name="usage_type_cpu">CPU total</string>
   <string name="usage_type_cpu_foreground">CPU en primer pla</string>
   <string name="usage_type_data_recv">Dades mòbils rebudes</string>
   <string name="usage_type_data_send">Dades mòbils enviades</string>
   <string name="usage_type_data_wifi_recv">Dades Wi-Fi rebudes</string>
   <string name="usage_type_data_wifi_send">Dades Wi-Fi enviades </string>
+  <string name="usage_type_flashlight">Flash</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Temps sense senyal</string>
   <string name="usage_type_on_time">Temps encès</string>
