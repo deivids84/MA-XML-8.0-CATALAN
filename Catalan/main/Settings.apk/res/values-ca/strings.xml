@@ -3547,7 +3547,7 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="voice_input_settings">Configuració d\'entrada de veu</string>
   <string name="voice_input_settings_title">Entrada de veu</string>
   <string name="voice_search_settings_title">Cerca per veu</string>
-  <string name="voice_service_preference_section_title">Serveis d'entrada de veu</string>
+  <string name="voice_service_preference_section_title">"Serveis d'entrada de veu"</string>
   <string name="volume_alarm_description">Alarma</string>
   <string name="volume_alarm_mute">Silencia alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
@@ -3950,7 +3950,7 @@ La configuració del telèfon pot necessitar gran tràfic de dades."</string>
   <string name="wifi_suspend_efficiency_title">"Millorar l'eficiència"</string>
   <string name="wifi_suspend_optimizations">Optimització del senyal Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimitza l\'ús de la bateria quan el senyal Wi-Fi està encesa</string>
-  <string name="wifi_switch_away_when_unvalidated">Canviar a les dades mòbils si el Wi-Fi perd l'accés a Internet.</string>
+  <string name="wifi_switch_away_when_unvalidated">"Canviar a les dades mòbils si el Wi-Fi perd l'accés a Internet."</string>
   <string name="wifi_switch_to_gsm_message">"S'ha perdut la connexió Wi-Fi. Utilitza connexió de dades mòbils en el seu lloc?"</string>
   <string name="wifi_switch_to_gsm_title">Utilitzar GSM?</string>
   <string name="wifi_tether_checkbox_text">Punt d\'accés portàtil</string>
@@ -4082,7 +4082,7 @@ La configuració del telèfon pot necessitar gran tràfic de dades."</string>
   <string name="zen_mode_priority_settings_title">Prioritat per només els permesos</string>
   <string name="zen_mode_reminders">Recordatoris</string>
   <string name="zen_mode_repeat_callers">Trucades repetides</string>
-  <string name="zen_mode_repeat_callers_summary">Si la mateixa persona truca per segona vegada dins d'un període de %d minuts, permetre-la</string>
+  <string name="zen_mode_repeat_callers_summary">"Si la mateixa persona truca per segona vegada dins d'un període de %d minuts, permetre-la"</string>
   <string name="zen_mode_rule_name">Nom de la regla</string>
   <string name="zen_mode_rule_name_hint">Introdueix el nom de la regla</string>
   <string name="zen_mode_rule_name_warning">Nom de la regla ja en ús</string>
