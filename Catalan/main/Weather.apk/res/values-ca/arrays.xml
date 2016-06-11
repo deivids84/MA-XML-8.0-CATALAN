@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="weather_type">
-    <item>Clar</item>
+    <item>Assolellat</item>
     <item>Ennuvolat</item>
     <item>Cobert</item>
-    <item>Boira</item>
-    <item>Tempesta forta</item>
-    <item>Xàfec</item>
+    <item>Boirós</item>
+    <item>Forta tempesta</item>
+    <item>Aiguat</item>
+    <item>Temporal de pluja</item>
     <item>Tempesta</item>
-    <item>Trons</item>
-    <item>Ruixats</item>
-    <item>Pluja forta</item>
-    <item>Plugim</item>
+    <item>Pluja</item>
+    <item>Fortes pluges</item>
+    <item>Pluja moderada</item>
     <item>Pluja lleugera</item>
     <item>Pluja i neu</item>
     <item>Torb</item>
     <item>Neu</item>
     <item>Forta nevada</item>
-    <item>Neu moderada</item>
-    <item>Neu lleugera</item>
+    <item>Nevada moderada</item>
+    <item>Nevada lleugera</item>
     <item>Forta tempesta de sorra</item>
     <item>Tempesta de sorra</item>
     <item>Sorra</item>
-    <item>Vent</item>
+    <item>Ventós</item>
     <item>Calamarsa</item>
     <item>Pols</item>
     <item>Boirina</item>
