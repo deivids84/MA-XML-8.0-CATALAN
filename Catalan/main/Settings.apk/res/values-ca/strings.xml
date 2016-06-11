@@ -411,7 +411,7 @@ El seu administrador té la capacitat de supervisar i administrar la configuraci
   <string name="battery_saver_turn_on_automatically_never">Mai</string>
   <string name="battery_saver_turn_on_automatically_pct">at %1$s bateria</string>
   <string name="battery_saver_turn_on_automatically_title">Activa automàticament</string>
-  <string name="battery_settings">Bateria</string></string>
+  <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Bateria usada des del reinici</string>
   <string name="battery_since_unplugged">Bateria usada des que es va desendollar</string>
