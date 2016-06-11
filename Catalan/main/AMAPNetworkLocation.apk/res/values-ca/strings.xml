@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">"D'acord"</string>
+  <string name="app_label">Localització</string>
+  <string name="disagree">Cancel·lar</string>
+  <string name="location_warning_do_not_show_again">No tornar a mostrar</string>
+  <string name="location_warning_message">"Permetre que el servei d'ubicació AutoNavi recopilar dades d'ubicació anònimes. Algunes dades poden ser emmagatzemats en el dispositiu, i serà possible encara que no hi hagi aplicacions executant-se."</string>
+  <string name="location_warning_title">C"onsentiment d'ubicació"</string>
+  <string name="persmission_close">TANCAR</string>
+  <string name="persmission_message">Perquè funcioni correctament, aquest servei requereix permisos especials. Si us plau, permeti els permisos quan li preguntin.</string>
+  <string name="persmission_message2">"Perquè funcioni correctament, aquest servei ha d'accedir al seu emmagatzematge. Si us plau, permeti el permís quan li preguntin.</string>
+  <string name="persmission_message3">"Perquè funcioni correctament, aquest servei ha d'accedir a la seva ubicació. Si us plau, permeti el permís quan li preguntin.</string>
+  <string name="persmission_message4">"Perquè funcioni correctament, aquest servei ha d'accedir al seu telèfon. Si us plau, permeti el permís quan li preguntin.</string>
+  <string name="persmission_message5">"Perquè funcioni correctament, aquest servei requereix permisos especials. Pot administrar els permisos de localització a la Configuració"</string>
+  <string name="persmission_message6">"Perquè funcioni correctament, aquest servei ha d'accedir a la seva ubicació. Pot administrar els permisos de localització a la Configuració."</string>
+  <string name="persmission_message7">"Perquè funcioni correctament, aquest servei ha d'accedir al seu telèfon. Pot administrar els permisos de localització a la Configuració."</string>
+  <string name="persmission_message8">"Perquè funcioni correctament, aquest servei ha d'accedir al seu emmagatzematge. Pot administrar els permisos de localització a la Configuració."</string>
+  <string name="persmission_notification_text">Tocar per permetre</string>
+  <string name="persmission_notification_title">Localització requereix permisos</string>
+  <string name="persmission_ok">"D'ACORD"</string>
+  <string name="persmission_settings">CONFIGURACIÓ</string>
+</resources>
