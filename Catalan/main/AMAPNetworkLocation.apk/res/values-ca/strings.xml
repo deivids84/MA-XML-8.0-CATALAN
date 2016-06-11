@@ -5,7 +5,7 @@
   <string name="disagree">Cancel·lar</string>
   <string name="location_warning_do_not_show_again">No tornar a mostrar</string>
   <string name="location_warning_message">"Permetre que el servei d'ubicació AutoNavi recopilar dades d'ubicació anònimes. Algunes dades poden ser emmagatzemats en el dispositiu, i serà possible encara que no hi hagi aplicacions executant-se."</string>
-  <string name="location_warning_title">C"onsentiment d'ubicació"</string>
+  <string name="location_warning_title">"Consentiment d'ubicació"</string>
   <string name="persmission_close">TANCAR</string>
   <string name="persmission_message">Perquè funcioni correctament, aquest servei requereix permisos especials. Si us plau, permeti els permisos quan li preguntin.</string>
   <string name="persmission_message2">"Perquè funcioni correctament, aquest servei ha d'accedir al seu emmagatzematge. Si us plau, permeti el permís quan li preguntin.</string>

@@ -173,7 +173,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
-  <string name="long_screenshot_out_of_memory_error">No s'ha pogut perquè la imatge es massa gran</string>
+  <string name="long_screenshot_out_of_memory_error">"No s'ha pogut perquè la imatge es massa gran"</string>
   <string name="long_screenshot_processing">Processant...</string>
   <string name="long_screenshot_stop">Aturar</string>
   <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga...</string>
@@ -219,8 +219,22 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
+  <string name="quick_settings_bluetooth_label">Bluetooth</string>
+  <string name="quick_settings_connect_success">Connectat</string>
+  <string name="quick_settings_connecting">Connectant</string>
+  <string name="quick_settings_done">Fet</string>
+  <string name="quick_settings_more_settings">Més ajustos</string>
+  <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
+  <string name="quick_settings_wifi_label">Wifi</string>
+  <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
+  <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_lock_text">Bloquejar</string>
+  <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="return_to_incall_screen">Tornar a la trucada</string>
+  <string name="save_mode_btn_ok">"D'acord"</string>
+  <string name="saved_network">Guardat per %1$s</string>
   <string name="screen_button_notification_text">Per encendre\'ls, prem el botó de Encesa i el de Home alhora.</string>
   <string name="screen_button_notification_title">Els botons de navegació estan apagats</string>
   <string name="screen_pinning_description">La manté a la vista fins que treguis la fixació. Toca i mantén premut alhora Home i el botó d\'encesa per treure la fixació.</string>
@@ -229,21 +243,24 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screen_pinning_positive">Ho tinc</string>
   <string name="screen_pinning_title">Pantalla fixada</string>
   <string name="screenshot_failed_text">"No s\'ha pogut desar la captura de pantalla, a causa de problemes d\'emmagatzematge o que no està permès per l\'aplicació o la teva organització."</string>
+  <string name="screenshot_long_screenshot">Dispar llarg</string>
   <string name="screenshot_saved_text">Premeu per veure la captura.</string>
   <string name="screenshot_saved_title">Pantalla guardada</string>
   <string name="screenshot_saving_text">La captura de pantalla s\'està guardant</string>
   <string name="screenshot_saving_ticker">Guardant captura de pantalla…</string>
   <string name="screenshot_saving_title">Guardant captura de pantalla…</string>
+  <string name="screenshot_send">Enviar</string>
   <string name="settings_custom_notification">Administrar notificacions</string>
   <string name="settings_toggle_position">Administrar Commutadors</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra estan actius</string>
-  <string name="settings_toggle_position_divider_page">%1$d commutadors sobre d\'aquesta barra estan actiuss</string>
+  <string name="settings_toggle_position_divider_page">%1$d commutadors sobre d\'aquesta barra estan actius</string>
   <string name="settings_toggle_position_reset">Restablir commutadors</string>
   <string name="share">Compartir</string>
+  <string name="status_bar_clock_date_format">EEEE, d de MMMM</string>
   <string name="status_bar_date_format">"EEEE
-d MMMM yyyy"</string>
+d de MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
-d MMMM yyyy"</string>
+d de MMMM"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Avui: %1$s   Restant: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedit del pla: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -252,7 +269,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_today">Avui: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">No hi ha aplicacions recents</string>
-  <string name="status_bar_notification_inspect_item_title">Informació de l\'aplicació </string>
+  <string name="status_bar_notification_inspect_item_title">Info de l\'aplicació </string>
   <string name="status_bar_recent_guide_all">"Lliscar amunt per tancar
  Lliscar avall per bloquejar"</string>
   <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
@@ -261,10 +278,10 @@ d MMMM yyyy"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Tornar a la Gravadora</string>
   <string name="status_bar_recording_pause">Gravadora en pausa</string>
-  <string name="status_bar_settings_airplane">Avió</string>
+  <string name="status_bar_settings_airplane">Mode avió</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No hi ha connexió a internet</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connectada</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connectat</string>
   <string name="status_bar_style_settings">Notificacions</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="title_usb_accessory">Accessori USB</string>
@@ -310,4 +327,16 @@ d MMMM yyyy"</string>
   <string name="vpn_text_long">Connectat a %s. Premi per veure detalls.</string>
   <string name="vpn_title">VPN activat</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
+  <string name="weather_description">%1$s | %2$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_publish_time">Actualitzat %1$s</string>
+  <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
+  <string name="wifi_disabled_generic">Desactivat</string>
+  <string name="wifi_disabled_network_failure">"Ha fallat la configuració d'IP"</string>
+  <string name="wifi_disabled_password_failure">"Problema d'autenticació"</string>
+  <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
+  <string name="wifi_fail_to_scan">No es poden buscar xarxes</string>
+  <string name="wifi_no_internet">No detectat accés a Internet, no es tornarà a connectar automàticament.</string>
+  <string name="wifi_not_in_range">Fora del rang</string>
+  <string name="wifi_remembered">Desat</string>
 </resources>
