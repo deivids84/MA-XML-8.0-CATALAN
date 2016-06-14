@@ -16,7 +16,11 @@
 		<title locale="it_IT">Note</title>
 		<title locale="pt_BR">Notas</title>
 		<title locale="el_GR">Σημειώσεις</title>
-		<title locale="es_ES">Notas</title>
 		<title locale="ca_ES">Notes</title>
+		<title locale="es_ES">Notas</title>
+		<title locale="de_DE">Notizen</title>
+		<title locale="vi_VN">Ghi chú</title>
+		<title locale="tr_TR">Notlar</title>
+		<title locale="pt_PT">Notas</title>
 		</titles>
 </MIUI-Theme>
