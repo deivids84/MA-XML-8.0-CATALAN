@@ -2923,7 +2923,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_settings_fingerprint_enroll_disclaimer">"A més de desbloquejar el telèfon, també pot utilitzar la seva empremta per autoritzar les compres i l'accés d'aplicacions. &lt;annotation id="url"&gt;Més informació&lt;/annotation&gt;"</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"El bloqueig de pantalla  esta desactivat. Pot seguir utilitzant la seva empremta per a autoritzar les compres i l'accés d'aplicacions. &lt;annotation id="url"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fet</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb el dispositiu i l\'ubicació del sensor d'empremtes</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb el dispositiu i l\'ubicació del sensor d\'empremtes</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">"Localitza el sensor d'empremtes a la part posterior del seu telèfon."</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Troba el sensor</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Sempre que vegi aquest icona, pot utilitzar la seva empremta per a la identificació o per autoritzar una compra.</string>
