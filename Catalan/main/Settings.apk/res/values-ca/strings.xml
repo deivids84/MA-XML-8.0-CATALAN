@@ -2802,7 +2802,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="search_pointer_speed">Velocitat del punter</string>
   <string name="search_power_checker">Comprovador d\'energia</string>
   <string name="search_power_hide_mode_title">"Gestiona l'ús de bateria de les aplicacions"</string>
-  <string name="search_power_mode">Configuració d'energia</string>
+  <string name="search_power_mode">"Configuració d'energia"</string>
   <string name="search_power_optimize">Estalvi de bateria</string>
   <string name="search_pref_volume_wake_title">Despertar amb botons de volum</string>
   <string name="search_preferred_network_type_title">Tipus de xarxa preferida</string>
@@ -2910,7 +2910,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_encryption_title">Xifrar dispositiu util itzant la contrasenya de bloqueig de pantalla</string>
   <string name="security_keyguard_category_name">Pantalla de bloqueig</string>
   <string name="security_password_category_name">Bloqueig de pantalla</string>
-  <string name="security_passwords_title">Contrasenya</string>
+  <string name="security_passwords_title">Contrasenyes</string>
   <string name="security_patch">Nivell de pegats de seguretat d\'Android</string>
   <string name="security_privacy_settings_title">Seguretat</string>
   <string name="security_relative">Seguretat relacionada</string>
@@ -2923,6 +2923,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_settings_fingerprint_enroll_disclaimer">"A més de desbloquejar el telèfon, també pot utilitzar la seva empremta per autoritzar les compres i l'accés d'aplicacions. &lt;annotation id="url"&gt;Més informació&lt;/annotation&gt;"</string>
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"El bloqueig de pantalla  esta desactivat. Pot seguir utilitzant la seva empremta per a autoritzar les compres i l'accés d'aplicacions. &lt;annotation id="url"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fet</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb el dispositiu i l\'ubicació del sensor d'empremtes</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">"Localitza el sensor d'empremtes a la part posterior del seu telèfon."</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Troba el sensor</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Sempre que vegi aquest icona, pot utilitzar la seva empremta per a la identificació o per autoritzar una compra.</string>
@@ -2933,6 +2934,7 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Nota: La seva empremta pot ser menys segura que un patró fort o PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Aprèn més</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">"Desbloquejar amb l'empremta"</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Aixeca el dit i torna a tocar el sensor</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Per utilitzar la seva empremta per desbloquejar la pantalla o confirmar la compra, haurà de:</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_1">Configura el mètode de seguretat de la pantalla de bloqueig</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">Afegir la seva empremta</string>
@@ -2990,6 +2992,8 @@ Si vols utilitzar la funció per a fixar la pantalla, segueix aquests passos:
   <string name="settings_safetylegal_activity_unreachable">"No té connexió de dades. Per veure aquesta informació ara, aneu a %s des d\'algun equip amb connexió a internet."</string>
   <string name="settings_safetylegal_title">Informació de seguretat</string>
   <string name="settings_shortcut">Configuració d\'accessos directes</string>
+  <string name="settings_toggle_position_divider_list">Commutadors col·locats per sobre de la barra</string>
+  <string name="settings_toggle_position_divider_page">%1$d commutadors col·locats per sobre de la barra</string>
   <string name="setup_fingerprint_enroll_finish_message">"Només ha de tocar el sensor d'empremtes per despertar i desbloquejar el dispositiu."</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quan vegi aquesta icona, pot utilitzar la seva empremta.</string>
   <string name="setup_wifi_nfc_tag">Configura WLAN NFC Tag</string>
@@ -3093,6 +3097,7 @@ Possiblement PIN incorrecte."</string>
   <string name="skip_label">Omet</string>
   <string name="skip_lock_screen_confirm_msg">Les següents funcions estaran desactivades per a la pantalla de bloqueig: notificacions, controls del reproductor de música, lliscar a l\'esquerra per accedir a la càmera, i lliscar a la dreta per accedir a Mi Home.</string>
   <string name="skip_step">Ometre aquest pas</string>
+  <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petit</string>
   <string name="smallwindow_smartcover_title">Coberta frontal transparent</string>
