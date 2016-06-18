@@ -3183,11 +3183,13 @@ Una credencial de confiança instal·lada fa això possible."</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificacions de pantalla de bloqueig</string>
   <string name="status_bar_settings_show_network_speed">Mostra velocitat de connexió</string>
   <string name="status_bar_settings_show_notification_icon">Mostra icones de notificació</string>
-  <string name="status_bar_settings_show_screenshot_notification">Mostra notificació de captura</string>
   <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Barra d\'estat</string>
+  <string name="status_bar_settings_style">Notificacions i disposició de commutadors</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Tancar després de pulsació</string>
   <string name="status_bar_settings_toggle_position">Posició de commutadors</string>
+  <string name="status_bar_style_list">Conjunt</string>
+  <string name="status_bar_style_page">Separat</string>
   <string name="status_bt_address">Direcció Bluetooth</string>
   <string name="status_data_state">Estat de xarxa mòbil</string>
   <string name="status_failed_to_write">"No es pot escriure dades en l'etiqueta NFC. Si el problema continua, proveu amb una etiqueta diferent"</string>
@@ -3312,6 +3314,7 @@ Després de formatar, aquest ^1 només funcionarà en aquest dispositiu.
   <string name="storage_wizard_format_progress_title">Formatejant ^1…</string>
   <string name="storage_wizard_init_external_summary">Per moure fotografies i altres arxius multimedia entre els dispositius.</string>
   <string name="storage_wizard_init_external_title">Ús com emmagatzematge portàtil</string>
+  <string name="storage_wizard_init_internal_summary">Per no emmagatzemar res en aquest dispositiu, incloent aplicacions i fotos. Requereix format que fa que no funcioni amb altres dispositius.</string>
   <string name="storage_wizard_init_internal_title">Ús com emmagatzematge intern</string>
   <string name="storage_wizard_init_title">Configureu el vostre ^1</string>
   <string name="storage_wizard_migrate_body">"Podeu transferir les seves fotos, arxius i algunes aplicacions a aquest nou ^1. 
@@ -3352,7 +3355,9 @@ Penseu en l'ús d'un ràpid ^1 per a un millor rendiment."</string>
   <string name="strict_mode">Activa mode estricta</string>
   <string name="strict_mode_summary">Destellear si les aplicacions triguen molt en el procés principal</string>
   <string name="sum_carrier_select">Escollir un operador de xarxa</string>
+  <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
+  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No establert&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
@@ -3391,6 +3396,7 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="system_alert_window_on">Si</string>
   <string name="system_alert_window_settings">Dibuixar sobre altres aplicacions</string>
   <string name="system_alert_window_summary" formatted="false">"%d de %d aplicacions permeten dibuixar sobre d'altres aplicacions"</string>
+  <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app_settings">Aplicacions de sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_package">"Les actualitzacions de sistema no es poden instal·lar en mitjans externs."</string>
@@ -3507,7 +3513,12 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="turn_on_security_lock">Afegir contrasenya de seguretat</string>
   <string name="under_keyguard">Amb la pantalla bloquejada</string>
   <string name="uninstall_all_users_text">Desinstal·la per a tots els usuaris</string>
-  <string name="uninstall_text">Desinstal·la</string>
+  <string name="uninstall_dlg_msg">"La desinstal·lació eliminarà totes les dades de l'aplicació."</string>
+  <string name="uninstall_dlg_title">Desinstal·lar ara?</string>
+  <string name="uninstall_text">Desinstal·lar</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">"Les corresponents aplicacions clonades seran eliminades juntament amb les dades de l'aplicació."</string>
+  <string name="uninstall_xspace_app_dlg_msg">"La desinstal·lació d'aplicacions clonades eliminarà totes les dades de l'aplicació."</string>
+  <string name="uninstall_xspace_app_dlg_title">Desinstal·lar aplicació clonada?</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_app">Aplicació desconeguda</string>
   <string name="unlock_change_lock_password_title">Canviar contrasenya de desbloqueig</string>
@@ -3729,7 +3740,8 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="vibrate_in_silent_title">Vibra en mode silenci</string>
   <string name="vibrate_input_devices">Activar vibració</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibració al game pad quan estigui connectat.</string>
-  <string name="vibrate_when_ringing_title">Vibrar en tocar</string>
+  <string name="vibrate_on_touch_title">Vibrar en tocar</string>
+  <string name="vibrate_when_ringing_title">Vibra també per a les trucades</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Servei de roaming internacional segur</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
@@ -3774,6 +3786,9 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="voice_input_output_settings_title">Configuració d\'entrada i sortida de veu</string>
   <string name="voice_input_settings">Configuració d\'entrada de veu</string>
   <string name="voice_input_settings_title">Entrada de veu</string>
+  <string name="voice_interaction_security_warning">Aquest servei d'entrada de veu serà capaç de realitzar aplicacions sempre en el control de veu i control de veu habilitades en el vostre nom. Es tracta de l'aplicació %s. Permetre l'ús d'aquest servei?</string>
+  <string name="voice_interactor_preference_summary">Paraula activa i interacció</string>
+  <string name="voice_recognizer_preference_summary">Simple discurs al text</string>
   <string name="voice_search_settings_title">Cerca per veu</string>
   <string name="voice_service_preference_section_title">"Serveis d'entrada de veu"</string>
   <string name="volume_alarm_description">Alarma</string>
@@ -3820,8 +3835,11 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="vpn_name">Nom</string>
   <string name="vpn_no_ca_cert">"(servidor no verificat)"</string>
   <string name="vpn_no_network">No hi ha connexió de xarxa. Intenteu-ho més tard.</string>
+  <string name="vpn_no_selected">Seleccioneu VPN</string>
   <string name="vpn_no_server_cert">(rebut del servidor)</string>
   <string name="vpn_not_used">(sense usar)</string>
+  <string name="vpn_off">Apagat</string>
+  <string name="vpn_on">Ences</string>
   <string name="vpn_password">Contrasenya</string>
   <string name="vpn_routes">Rutes de desviament</string>
   <string name="vpn_routes_hint">ex 10.0.0.0/8</string>
@@ -3832,6 +3850,7 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="vpn_server">Direcció del servidor</string>
   <string name="vpn_settings_not_available">Configuració de VPN no està disponible per aquest usuari</string>
   <string name="vpn_settings_password">Contrasenya VPN</string>
+  <string name="vpn_settings_summary">Protegir la configuració VPN amb la contrasenya del bloqueig de pantalla</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Mostra opcions avançades</string>
   <string name="vpn_title">VPN</string>
@@ -3967,6 +3986,7 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="wifi_failed_forget_message">Error a l\'esborrar xarxa</string>
   <string name="wifi_failed_save_message">Error en desar xarxa</string>
   <string name="wifi_forget">Tornar</string>
+  <string name="wifi_frequency">Freqüència</string>
   <string name="wifi_gateway">Porta enllaç</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">"Punt d'accés Wi-Fi"</string>
@@ -4266,6 +4286,7 @@ La configuració del telèfon pot necessitar gran tràfic de dades."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
   <string name="xiaomi_router_notif_summary">Avisar-me quan Mi Router estigui disponible</string>
   <string name="xiaomi_router_notif_title">Avisar de Mi Router</string>
+  <string name="xspace">Aplicacions clonades</string>
   <string name="yes">Sí</string>
   <string name="zen_access_empty_text">Encara no hi ha aplicacions instal·lades que hagin sol·licitat accés a No molestar</string>
   <string name="zen_access_warning_dialog_summary">"L'aplicació serà capaç d'activar/desactivar No molestar i fer canvis en els paràmetres.</string>
