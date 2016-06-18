@@ -3786,7 +3786,7 @@ Afegiu una paraula tocant el botó d\'afegir (+)"</string>
   <string name="voice_input_output_settings_title">Configuració d\'entrada i sortida de veu</string>
   <string name="voice_input_settings">Configuració d\'entrada de veu</string>
   <string name="voice_input_settings_title">Entrada de veu</string>
-  <string name="voice_interaction_security_warning">Aquest servei d'entrada de veu serà capaç de realitzar aplicacions sempre en el control de veu i control de veu habilitades en el vostre nom. Es tracta de l'aplicació %s. Permetre l'ús d'aquest servei?</string>
+  <string name="voice_interaction_security_warning">"Aquest servei d'entrada de veu serà capaç de realitzar aplicacions sempre en el control de veu i control de veu habilitades en el vostre nom. Es tracta de l'aplicació %s. Permetre l'ús d'aquest servei?"</string>
   <string name="voice_interactor_preference_summary">Paraula activa i interacció</string>
   <string name="voice_recognizer_preference_summary">Simple discurs al text</string>
   <string name="voice_search_settings_title">Cerca per veu</string>
