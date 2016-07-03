@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Quant a aquesta característica</string>
+  <string name="about_phone_event">Quant als missatges de servei</string>
   <string name="about_smart_antispam_summary">Quant a aquesta característica</string>
   <string name="about_telephone_fraud">Compte amb els fraus</string>
   <string name="account_address">Direccions</string>
@@ -13,6 +14,7 @@
   <string name="account_yellowpage_favorite">Favorits</string>
   <string name="account_yellowpage_followed">Comptes Verificats</string>
   <string name="account_yellowpage_recent">Veure l\'historial</string>
+  <string name="add_to_desktop">Afegir a l\'escriptori</string>
   <string name="agree">Estic d\'acord</string>
   <string name="all_services">Tot</string>
   <string name="allow">Permet</string>

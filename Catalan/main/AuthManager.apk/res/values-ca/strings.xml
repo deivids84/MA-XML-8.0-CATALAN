@@ -226,6 +226,8 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="HIPS_Perm_process_nfc_Desc">Accedir al maquinari NFC</string>
   <string name="HIPS_Perm_process_outgoing_calls">Accedir a l\'aplicació Telèfon</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitoritzar i finalitzar trucades</string>
+  <string name="HIPS_Perm_read_notification_sms">Servei SMS</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">Llegir servei SMS</string>
   <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">Utilitzar SIP per fer streaming de vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permet (%d)</string>

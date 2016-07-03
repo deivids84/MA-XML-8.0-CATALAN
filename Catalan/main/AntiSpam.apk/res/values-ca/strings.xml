@@ -22,10 +22,11 @@
   <string name="Call_DEFAULT">Llista de bloqueig intel·ligent</string>
   <string name="Call_PREFIX">Bloqueig de prefixos</string>
   <string name="Call_PRIVATE_CALL">Trucades privades</string>
-  <string name="NACaddnumcontent">Introduïu número de telèfon</string>
+  <string name="MALICIOUS_URL">URL maliciosa</string>
+  <string name="NACaddnumcontent">Introdueixi número de telèfon</string>
   <string name="NACaddnumtitle">Afegeix número de telèfon a les excepcions</string>
   <string name="PAST_BLOCK">Prèviament bloquejat</string>
-  <string name="Phonepass">Permet trucades</string>
+  <string name="Phonepass">Permetre trucades</string>
   <string name="SMS_ADRESS">Llista de bloqueig local</string>
   <string name="SMS_BLACKLIST">Llista de bloqueig de missatges</string>
   <string name="SMS_DEFAULT">Llista de bloqueig intel·ligent</string>
@@ -52,6 +53,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejables</string>
   <string name="antispam_notificaiton_type_show_none">Mai</string>
   <string name="antispam_notification_setting_title">Notificacions</string>
+  <string name="antispam_xpace_text">Canviar al primer espai per establir una llista de bloqueig</string>
   <string name="app_name">Llista de bloqueig</string>
   <string name="backsound_set_hint">Configurar el teu so de fons per %s?</string>
   <string name="baidu_thanks">Desenvolupat per Baidu</string>
