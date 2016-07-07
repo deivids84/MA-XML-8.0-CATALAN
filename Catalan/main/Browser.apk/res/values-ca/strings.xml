@@ -150,6 +150,8 @@
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturació</string>
   <string name="color_picker_value">Valor</string>
+  <string name="comment_app_menu">Comentari</string>
+  <string name="comment_menu">Comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -187,8 +189,8 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">"Sempre creu que una cosa meravellosa
 està a punt de succeir"</string>
-  <string name="custom_head_card_text_incognito">"Només Déu i tu saben que hi ha
-a la finestra de privacitat​"</string>
+  <string name="custom_head_card_text_incognito">"Ara es troba en mode d'incògnit
+Les pàgines que visites no es veuran reflectides en l'historial"</string>
   <string name="data_traffic_prompt_change">Utilitzar la seva connexió de dades per veure vídeos incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_message">Utilitzar la connexió de dades per navegar incrementarà l\'ús de dades. Si excedeix el límit del seu pla de dades, el seu operador pot carregar despeses addicionals.</string>
   <string name="data_traffic_prompt_message_short">"L'ús de dades mòbils per a transmetre vídeo pot fer que es passi del seu límit de dades</string>
@@ -198,14 +200,15 @@ a la finestra de privacitat​"</string>
   <string name="date_picker_dialog_set">Establir</string>
   <string name="date_picker_dialog_title">Establir data</string>
   <string name="date_time_picker_dialog_title">Establir data i hora</string>
-  <string name="delete">Eliminar</string>
+  <string name="delete">Suprimir</string>
+  <string name="delete_bookmark">Suprimir</string>
   <string name="delete_bookmark_group_warning">Voleu suprimir \"%s\"? Tots els marcadors d\'aquest grup s\'esborraran.</string>
   <string name="delete_bookmark_warning">Voleu suprimir marcador \"%s\"?</string>
-  <string name="delete_download">Elimina</string>
+  <string name="delete_download">Suprimir</string>
   <string name="dialog_cannot_resume">Descàrrega interrompuda</string>
-  <string name="dialog_confirm_delete_checkbox_message">Elimina fitxer de la memòria interna</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %s tasques?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Eliminar aquesta tasca?</string>
+  <string name="dialog_confirm_delete_checkbox_message">Suprimir fitxer de la memòria interna</string>
+  <string name="dialog_confirm_delete_downloads_message">Suprimir %s tasques?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Suprimir aquesta tasca?</string>
   <string name="dialog_failed_body">Intentar més tard o treure aquest fitxer de la cua de descàrregues?</string>
   <string name="dialog_file_already_exists">Ja has descarregat aquest fitxer</string>
   <string name="dialog_file_missing_body">No s\'ha trobat el fitxer. El vas esborrar o moure?</string>
@@ -217,6 +220,7 @@ a la finestra de privacitat​"</string>
   <string name="dialog_title_not_available">No s\'ha pogut descarregar</string>
   <string name="dialog_title_queued_body">Fitxer no disponible encara</string>
   <string name="dont_remind_again">Recorda la meva elecció</string>
+  <string name="download">Descarregar</string>
   <string name="download_btn_select_all">Selecciona-ho tot</string>
   <string name="download_btn_select_none">Desselecciona tot</string>
   <string name="download_complete">Descàrrega completa</string>
@@ -258,6 +262,7 @@ a la finestra de privacitat​"</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">Historial buit</string>
   <string name="empty_snapshot_hint">Buit</string>
+  <string name="empty_snapshots_folder">No hi ha pàgines desades.</string>
   <string name="enable_geolocation_confirm_message">Apagar aquesta característica pot fer que algunes webs funcionin malament.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
@@ -275,7 +280,6 @@ a la finestra de privacitat​"</string>
   <string name="file_picker">Seleccionar ruta</string>
   <string name="filename_empty_alert_message">Introduïu un nom de fitxer</string>
   <string name="filename_illegal_alert_message">Un caràcter no vàlid es va treure del nom de fitxer</string>
-  <string name="find_new_version">Actualitzacions disponibles</string>
   <string name="find_next">Cerca següent</string>
   <string name="find_on_page_cancel">Cancel·lar</string>
   <string name="find_on_page_hint">Cerca a la pàgina</string>
@@ -330,6 +334,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="loading_tips">Tira cap avall per actualitzar</string>
   <string name="local_bookmarks">Mi</string>
   <string name="location">Direcció</string>
+  <string name="login_failed_toast">No hi ha connexió, actualitza i intenta de nou</string>
   <string name="low_memory_error">No es pot completar l\'anterior operació a causa de la poca memòria</string>
   <string name="max_tabs_warning">Límit de pestanyes assolit</string>
   <string name="maximum_input_alert">Màxima entrada 2048 caràcters</string>
@@ -449,6 +454,8 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="paused_unknown">En pausa</string>
   <string name="paused_waiting_for_network">Esperant a connectar…</string>
   <string name="paused_waiting_to_retry">Esperant a reintentar…</string>
+  <string name="pay_failed_toast">No es pot fer el pagament</string>
+  <string name="pay_success_toast">Pagat amb èxit</string>
   <string name="popup_window_attempt">Permetre a aquest lloc obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Apagar de totes formes</string>
   <string name="pref_accessibility">Accessibilitat</string>
@@ -484,6 +491,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_extras_reset_default_dlg">Tornar als valors per defecte?</string>
   <string name="pref_extras_reset_default_summary">Restaurar valors per defecte</string>
   <string name="pref_extras_reset_default_title">Altres</string>
+  <string name="pref_extras_send_feedback">Enviar comentaris</string>
   <string name="pref_extras_title">Avançat</string>
   <string name="pref_extras_title_version">Informació de la versió</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurar valors per defecte</string>
@@ -507,10 +515,10 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_other_title">Altres</string>
   <string name="pref_privacy_clear_cache">Esborrar la memòria cau</string>
   <string name="pref_privacy_clear_cache_dlg">Vols suprimir bases de dades i contingut de la memòria cau local?</string>
-  <string name="pref_privacy_clear_cache_summary">Eliminar bases de dades i contingut de la memòria cau local</string>
+  <string name="pref_privacy_clear_cache_summary">Suprimir bases de dades i contingut de la memòria cau local</string>
   <string name="pref_privacy_clear_cookies">Esborrar totes les dades de les galetes </string>
-  <string name="pref_privacy_clear_cookies_dlg">Eliminar totes les galetes?</string>
-  <string name="pref_privacy_clear_cookies_summary">Elimina totes les galetes del navegador</string>
+  <string name="pref_privacy_clear_cookies_dlg">Suprimir totes les galetes?</string>
+  <string name="pref_privacy_clear_cookies_summary">Suprimir totes les galetes del navegador</string>
   <string name="pref_privacy_clear_form_data">Esborrar dades de formulari</string>
   <string name="pref_privacy_clear_form_data_dlg">Esborra totes les dades de formulari?</string>
   <string name="pref_privacy_clear_form_data_summary">Esborra totes les dades de formulari guardades</string>
@@ -522,8 +530,8 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="pref_privacy_clear_history_dlg">Netejar historial?</string>
   <string name="pref_privacy_clear_history_summary">Esborra l\'historial de navegació</string>
   <string name="pref_privacy_clear_passwords">Esborrar les contrasenyes desades</string>
-  <string name="pref_privacy_clear_passwords_dlg">Eliminar totes les contrasenyes guardades?</string>
-  <string name="pref_privacy_clear_passwords_summary">Eliminar totes les contrasenyes guardades</string>
+  <string name="pref_privacy_clear_passwords_dlg">Suprimir totes les contrasenyes guardades?</string>
+  <string name="pref_privacy_clear_passwords_summary">Suprimir totes les contrasenyes guardades</string>
   <string name="pref_privacy_cookies_title">Galetes</string>
   <string name="pref_privacy_enable_geolocation">Activar ubicació</string>
   <string name="pref_privacy_enable_geolocation_summary">Permet llocs sol·licitar accés a la seva localització</string>
@@ -583,11 +591,12 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="readmodelist_bookmarks_to_show">Llista de lectura</string>
   <string name="remember_passwords_confirm_message">Apagar aquesta característica pot afectar l\'ús.</string>
   <string name="remove_bookmark">Esborrar marcador</string>
-  <string name="remove_bookmark_group">Eliminar grup</string>
-  <string name="remove_from_bookmarks">Eliminar de marcadors</string>
+  <string name="remove_bookmark_group">Suprimir grup</string>
+  <string name="remove_from_bookmarks">Suprimir de marcadors</string>
   <string name="remove_history_item">Esborrar de l\'historial</string>
-  <string name="remove_snapshot">Eliminar pàgina guardada</string>
+  <string name="remove_snapshot">Suprimir pàgina guardada</string>
   <string name="removed_from_bookmarks">Eliminat de marcadors</string>
+  <string name="reply_comment_title">Res: %s</string>
   <string name="resume_download">Començar</string>
   <string name="retry_after_network_available">No es pot connectar a la xarxa</string>
   <string name="retry_download">Reintentar</string>
@@ -612,8 +621,9 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="save_password_never">Mai</string>
   <string name="save_password_notnow">Ara no</string>
   <string name="save_password_remember">Recordar</string>
+  <string name="save_to">Desar a</string>
   <string name="save_to_camera">Desar a càmera</string>
-  <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
+  <string name="save_to_camera_failed">No es pot desar la imatge</string>
   <string name="save_to_camera_success">Desat a la càmera</string>
   <string name="sdcard_error">Comprova la teva targeta SD</string>
   <string name="search">Cerca</string>
@@ -642,6 +652,10 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="security_warnings_confirm_message">Apagar aquesta característica pot crear riscos de seguretat.</string>
   <string name="select_dot">Seleccionar text</string>
   <string name="select_download_device">Triar dispositiu</string>
+  <string name="send_comment_button">Enviar</string>
+  <string name="send_comment_title">Comentari</string>
+  <string name="senddesktop">Escriptori</string>
+  <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"La URL d\'aquesta web s\'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en Ajustos en qualsevol moment."</string>
   <string name="show_security_tip_dialog_title">Termes de Servei</string>

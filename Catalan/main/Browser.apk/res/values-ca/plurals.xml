@@ -12,22 +12,6 @@
         <item quantity="other">%1$d seleccionats</item>
         <item quantity="one">%1$d seleccionats</item>
     </plurals>
-	<plurals name="video_download_clear_prompt">
-        <item quantity="other">Eliminar %1$d vídeos?</item>
-        <item quantity="one">Eliminar %1$d video?</item>
-    </plurals>
-	<plurals name="video_download_clear_info">
-        <item quantity="other">"S'ha eliminat %1$d vídeos amb èxit."</item>
-        <item quantity="one">"S'ha eliminat %1$d vídeo amb èxit."</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">"Eliminar %1$d elements de l'historial?"</item>
-        <item quantity="one">"Eliminar %1$d element de l'historial?"</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">"%1$d elements eliminats de l'historial."</item>
-        <item quantity="one">"%1$d element eliminat de l'historial."</item>
-    </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d coincidències</item>
         <item quantity="one">%d coincidència</item>

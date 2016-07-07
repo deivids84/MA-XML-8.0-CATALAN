@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="bookmarks_cu_customization">
         <item>沃门户</item>
         <item>http://www.wo.com.cn</item>
      </string-array>
      <string-array name="dianping">
-        <item>团购</item>
+        <item>Clients</item>
         <item>dianping.com</item>
         <item>http://developer.dianping.com/favicon.ico</item>
         <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
@@ -15,9 +14,9 @@
      </string-array>
      <string-array name="google">
         <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>google.cat</item>
+        <item>http://www.google.cat/favicon.ico</item>
+        <item>http://www.google.cat/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
      </string-array>
@@ -30,7 +29,7 @@
         <item>Blau</item>
      </string-array>
      <string-array name="pre_webapp_text_sizes">
-        <item>Major</item>
+        <item>Enorme</item>
         <item>Gran</item>
         <item>Normal</item>
         <item>Petit</item>
@@ -57,7 +56,7 @@
      </string-array>
      <string-array name="pref_default_zoom_choices">
         <item>Petit</item>
-        <item>Mitja</item>
+        <item>Mitjà</item>
         <item>Gran</item>
      </string-array>
      <string-array name="pref_development_ua_choices">
@@ -70,16 +69,20 @@
      </string-array>
      <string-array name="pref_fling_on_border_choices">
         <item>Pàgina següent/anterior</item>
-        <item>Canvia finestra</item>
+        <item>Alternar finestra</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Pàgina d\'inici per defecte</item>
+        <item>Personalitzat</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
         <item>Mai</item>
-        <item>Sólo con Wi-Fi</item>
-        <item>Siempre</item>
+        <item>Només amb Wi-Fi</item>
+        <item>Sempre</item>
      </string-array>
      <string-array name="pref_link_prefetch_choices">
-        <item>Nunca</item>
-        <item>Només amb Wi-Fi </item>
+        <item>Mai</item>
+        <item>Només amb Wi-Fi</item>
         <item>Sempre</item>
      </string-array>
      <string-array name="pref_text_size_choices">
@@ -102,8 +105,20 @@
         <item>iPhone</item>
         <item>iPad</item>
      </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Missatge del Navegador</item>
+        <item>Seguiu els Jocs Olímpics amb MI</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>D\'acord</item>
+        <item>Seguir</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Esborrar</item>
+        <item>No, gràcies</item>
+     </string-array>
      <string-array name="pref_video_preload_choices">
-        <item>Mai </item>
+        <item>Mai</item>
         <item>Només amb Wi-Fi</item>
         <item>Sempre</item>
      </string-array>
@@ -116,8 +131,4 @@
         <item>yahoo</item>
         <item>bing</item>
      </string-array>
-	 <string-array name="pref_homepage_choices">
-        <item>"Pàgina d'inici per defecte"</item>
-        <item>Personalitzat</item>
-    </string-array>
 </resources>
