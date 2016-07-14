@@ -8,8 +8,7 @@
   <string name="cit_OTG_waiting_out">Desconnecteu el dispositiu USB OTG ara</string>
   <string name="cit_ac_charger_in">Càrrega per AC</string>
   <string name="cit_ac_charger_out">Carregador AC desconnectat</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mou ràpidament el dispositiu en una direcció. Tot seguit es mostren valors de coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). 
-Abans de calibrar el dispositiu, poseu sobre una superfície plana."</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Mou ràpidament el dispositiu en una direcció. Tot seguit es mostren valors de coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). Abans de calibrar el dispositiu, poseu sobre una superfície plana."</string>
   <string name="cit_accelermeter_sensor_check_title">Acceleròmetre</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_audio_cali_done">Calibrant</string>

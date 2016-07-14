@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Un moment…</string>
+  <string name="account_error">Error de compte</string>
   <string name="app_name">Còpia de seguretat Mi Cloud</string>
   <string name="as_new_device">Substitueix ajustos i pantalla d\'inici prèvies</string>
   <string name="as_new_device_summary">Eliminar còpies prèvies de Mi Cloud</string>
@@ -9,8 +10,11 @@
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat…</string>
   <string name="backup_fail">No s\'ha pogut fer la còpia</string>
   <string name="backup_finished_notification_content">"Còpia de seguretat d'aplicacions pantalla d'inici, configuració del sistema, etc."</string>
+  <string name="backup_now">Fer còpia ara</string>
   <string name="backup_size">Mida: %s</string>
+  <string name="backup_size_summary">Mida: %1$s</string>
   <string name="backup_success">Còpia realitzada</string>
+  <string name="backup_successfully">Còpia realitzada amb èxit</string>
   <string name="backup_to_cloud">Còpia de seguretat d\'aplicació</string>
   <string name="button_cancel">Cancel·la</string>
   <string name="button_delete">Esborra</string>
@@ -55,8 +59,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran a Mi Cloud."</st
   <string name="cloud_backup_detail_state">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i ajustos del sistema</string>
   <string name="cloud_backup_detail_time">, hora de la còpia: %1$s</string>
-  <string name="cloud_backup_have_data">Còpia de seguretat trobada a Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Seleccioneu la còpia de seguretat de Mi Cloud</string>
   <string name="cloud_restore_from_other_device">La restauració des de %s està en procés, esborrar la còpia de seguretat de la mateixa cancel·larà la tasca, está segur d\'esborrar-la?</string>
   <string name="cloud_restore_task">Restaurant…</string>
   <string name="cloud_task_in_process">Hi ha un %s tasca en procés! Esborrant la còpia de seguretat del dispositiu actual cancel·larà la tasca, està segur d\'esborrar-la?</string>
