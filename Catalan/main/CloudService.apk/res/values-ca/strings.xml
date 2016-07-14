@@ -167,7 +167,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_yes">Sí</string>
   <string name="micloud_detail_battery_low_message">La bateria està baixa. Si us plau carregui el telèfon per realitzar la sincronització.</string>
   <string name="micloud_detail_battery_low_title">La bateria està baixa</string>
-  <string name="micloud_detail_depend_wifi_message">Si us plau connecta't al Wi-Fi o comprova la configuració de sincronització.</string>
+  <string name="micloud_detail_depend_wifi_message">Si us plau connecta\'t al Wi-Fi o comprova la configuració de sincronització.</string>
   <string name="micloud_detail_depend_wifi_title">Es necessita xarxa Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">No sincronitzar</string>
   <string name="micloud_detail_download_syncing">Descarregant %s</string>
