@@ -53,6 +53,15 @@
         <item>25 minuts</item>
         <item>30 minuts</item>
     </string-array>
+	<string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="auto_silence_entries">
         <item>Mai</item>
         <item>1 minut</item>
@@ -63,9 +72,24 @@
         <item>25 minuts</item>
         <item>30 minuts</item>
     </string-array>
+	<string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No fer res</item>
         <item>Repetir</item>
         <item>Rebutjar</item>
+    </string-array>
+	<string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

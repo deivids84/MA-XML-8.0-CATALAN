@@ -6,7 +6,14 @@
   <string name="alarm_alert_snooze_set">Repetir en %d minuts.</string>
   <string name="alarm_ascending_mode_summary">Volum de l\'alarma augmenta gradualment</string>
   <string name="alarm_ascending_mode_title">Volum ascendent</string>
+  <string name="alarm_count">Després de sonar repetidament parar de forma automàtica</string>
+  <string name="alarm_count_never_summary">No se parar automáticamente</string>
+  <string name="alarm_count_summary">Parar en sonar %dvegades</string>
   <string name="alarm_disabled">Desactivat</string>
+  <string name="alarm_duration">Durada d\'Alarma (en minuts)</string>
+  <string name="alarm_duration_summary">Sonar%dminuts</string>
+  <string name="alarm_duration_title">Ajust de temps</string>
+  <string name="alarm_in_silent_mode_summary">Quan el telèfon està en mode silenci, sonarà l\'alarma</string>
   <string name="alarm_in_silent_mode_title">Alarma en mode Silenci</string>
   <string name="alarm_klaxon_service_desc">Servei de reproducció de so d\'alarmes establertes en el rellotge.</string>
   <string name="alarm_label_hint">Etiqueta d\'alarma</string>
@@ -15,7 +22,7 @@
   <string name="alarm_notify_text">Repetir o descartar alarma.</string>
   <string name="alarm_repeat">Repetir</string>
   <string name="alarm_screen">So i pantalla d\'alarma</string>
-  <string name="alarm_settings">Paràmetres de l\'alarma</string>
+  <string name="alarm_settings">Ajustos d\'Alarma</string>
   <string name="alarm_vibrate">Vibrar</string>
   <string name="alarm_volume_summary">"Establir volum de l'alarma"</string>
   <string name="alarm_volume_title">Volum de l\'alarma</string>
@@ -24,6 +31,7 @@
   <string name="analog_gadget">Rellotge analògic</string>
   <string name="app_label">Rellotge</string>
   <string name="auto_silence_never">Mai</string>
+  <string name="auto_silence_summary">En %d minuts, deixarà de sonar l\'alarma</string>
   <string name="auto_silence_title">Silenciar automàticament</string>
   <string name="battery_charging_level">%d %%</string>
   <string name="birthday_alarm">Alarma d\'aniversari</string>
@@ -49,8 +57,11 @@
   <string name="dialog_confirm_abort">Descartar els canvis?</string>
   <string name="done">Fet</string>
   <string name="edit_systemtime">Editar hora del sistema</string>
-  <string name="elapsed_time_format">+ %s</string>
+  <string name="elapsed_time_format">"+%s"</string>
   <string name="every_day">Diari</string>
+  <string name="force_touch_add_alarm">Afegir alarma</string>
+  <string name="force_touch_enter_stopwatch">Cronògraf</string>
+  <string name="force_touch_enter_timer">Temporitzador</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="hour">1 hora</string>
   <string name="hour_unit">Hr +</string>
@@ -75,6 +86,7 @@
   <string name="menu_item_sort_by_name">Ordenar per nom</string>
   <string name="minute">1 minut</string>
   <string name="minutes">%s minuts</string>
+  <string name="more_settings">Més ajustos</string>
   <string name="never">Una vegada</string>
   <string name="oneshot_alarm">"Eliminar després d'apagar l'alarma"</string>
   <string name="pause">Pausa</string>

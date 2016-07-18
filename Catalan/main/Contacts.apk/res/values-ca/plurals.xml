@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="group_move_success_toast">
+        <item quantity="other">Mogut %1$d contactes</item>
+     </plurals>
+     <plurals name="group_copy_success_toast">
+        <item quantity="other">Copiat %1$d contactes</item>
+     </plurals>
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactes amb número de telèfon</item>
         <item quantity="one">1 contacte amb número de telèfon</item>
@@ -75,6 +81,10 @@
      <plurals name="hint_search_emails">
         <item quantity="other">%1$d contactes amb email</item>
         <item quantity="one">1 contacte amb email</item>
+     </plurals>
+	 <plurals name="hint_account_contacts">
+        <item quantity="other">Va trobar %1$d elements</item>
+        <item quantity="one">Va trobar %1$d element</item>
      </plurals>
      <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d preferits</item>

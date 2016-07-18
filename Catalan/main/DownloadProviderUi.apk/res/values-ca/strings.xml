@@ -24,6 +24,7 @@
   <string name="cancel_running_download">Cancel·lar</string>
   <string name="cancle">Cancel·lar</string>
   <string name="choose_open_time">Seleccioneu quan vol començar</string>
+  <string name="clear_data">Netejar</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_delete_downloads_message">%d descàrregues seran eliminades.</string>
   <string name="confirm_delete_the_download_item_message">Eliminar aquestes descàrregues?</string>
@@ -96,7 +97,7 @@
   <string name="edit_hint"> Introduir http, torrent, o direcció d\'eMule</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Compartir</string>
-  <string name="engine_open">Obre</string>
+  <string name="engine_open">Obrir</string>
   <string name="experience_xunlei_account_speed">Els membres de Xunlei gaudeixen de descàrregues a grans velocitats</string>
   <string name="expire_notification_msg">El compte Xunlei expira aviat.</string>
   <string name="expire_today_notification_msg">El compte Xunlei expira avui.</string>

@@ -36,6 +36,8 @@
   <string name="notification_download_success_more">%1$d descàrregues completades.</string>
   <string name="notification_need_wifi_for_size">La mida de la baixada requereix xarxa Wi-Fi.</string>
   <string name="notification_paused_in_background">​​Pausat en segon pla.</string>
+  <string name="notify_disabled_net_by_app">Connexió a internet restringida per l\'aplicació de Seguretat</string>
+  <string name="notify_only_wifi_download">A l\'espera de la xarxa Wi-Fi</string>
   <string name="paused_waiting_for_network">A l\'espera de connexió a la xarxa</string>
   <string name="permdesc_accessAllDownloads">Permet a l\'aplicació veure i modificar totes les descàrregues iniciades per qualsevol aplicació en el sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permet a l\'aplicació descarregar arxius en la memòria cau de descàrrega, que no es poden eliminar automàticament quan el gestor de descàrregues necessita més espai."</string>
@@ -73,4 +75,8 @@ Toqui %s per iniciar aquesta baixada la propera vegada que estigui connectat a u
 
 Toqui %s per iniciar aquesta baixada la propera vegada que estigui connectat a una xarxa Wi-Fi."</string>
   <string name="wifi_required_title">Descàrrega massa gran per a la xarxa de l\'operador</string>
+  <string name="xl_speedup_experience_notify_context">La velocitat de descàrrega augmenta de manera excepcional en inscriure\'t com a usuari Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">Membraria Xunlei</string>
+  <string name="xl_speedup_notify_button_experience">Prova-ho gratis</string>
+  <string name="xl_speedup_notify_button_member">Converteix-te en membre</string>
 </resources>
