@@ -320,7 +320,7 @@ El nostre servidor està caigut. Torna-ho a provar més tard…
   <string name="mi_router_label">Mi Router</string>
   <string name="midrive_network_connect_confirm">Mi Drive necessita connectar-se a internet per funcionar amb normalitat.</string>
   <string name="midrive_space_full">No hi ha suficient espai a Mi Drive</string>
-  <string name="midrive_welcome_message">Els seus arxius de KuaiPan s'han mogut correctament a Mi Drive. Li donem una membresía Mi Cloud de tres mesos complementària. Mi Cloud i Mi Drive utilitzen el mateix emmagatzematge. Pot accedir als seus arxius a i.mi.com.</string>
+  <string name="midrive_welcome_message">Els seus arxius de KuaiPan s\'han mogut correctament a Mi Drive. Li donem una membresía Mi Cloud de tres mesos complementària. Mi Cloud i Mi Drive utilitzen el mateix emmagatzematge. Pot accedir als seus arxius a i.mi.com.</string>
   <string name="midrive_welcome_title">Benvingut a Mi Drive</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, pot buscar dispositius propers i enviar arxius</string>
