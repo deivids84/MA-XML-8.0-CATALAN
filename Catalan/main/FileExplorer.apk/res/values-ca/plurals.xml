@@ -160,4 +160,28 @@
         <item quantity="few">%1$d fitxers temporals de WeChat Video s\'esborraran, vols fer còpia?</item>
         <item quantity="many">%1$d fitxers temporals de WeChat Video s\'esborraran, vols fer còpia?</item>
     </plurals>
+	<plurals name="video_play_num">
+          <item quantity="other">%1$s vistes</item>
+          <item quantity="zero">%1$s vistes</item>
+          <item quantity="one">%1$s vista</item>
+          <item quantity="two">%1$s vistes</item>
+          <item quantity="few">%1$s vistes</item>
+          <item quantity="many">%1$s vistes</item>
+    </plurals>
+    <plurals name="video_num">
+          <item quantity="other">%1$s vídeos</item>
+          <item quantity="zero">%1$s vídeos</item>
+          <item quantity="one">%1$s vídeo</item>
+          <item quantity="two">%1$s vídeos</item>
+          <item quantity="few">%1$s vídeos</item>
+          <item quantity="many">%1$s vídeos</item>
+    </plurals>
+    <plurals name="user_upload_items">
+          <item quantity="other">vídeos</item>
+          <item quantity="zero">vídeos</item>
+          <item quantity="one">vídeo</item>
+          <item quantity="two">vídeos</item>
+          <item quantity="few">vídeos</item>
+          <item quantity="many">vídeos</item>
+    </plurals>
 </resources>
