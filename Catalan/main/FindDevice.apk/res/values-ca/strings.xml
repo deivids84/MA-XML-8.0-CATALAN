@@ -9,7 +9,7 @@
   <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podria posar-se en contacte amb mi? Gràcies!</string>
   <string name="device_locked">Aquest dispositiu està bloquejat</string>
   <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
-  <string name="disable_find_device_error">No es pot desactivar 'Trobar dispositiu'. %1$s</string>
+  <string name="disable_find_device_error">"No es pot desactivar 'Trobar dispositiu'. %1$s"</string>
   <string name="disable_find_device_success">Trobar dispositiu està desactivat</string>
   <string name="doing_extra_login_steps">Verificant l\'inici de sessió</string>
   <string name="enable_find_device_error">No es pot encendre Trobar dispositiu. %1$s</string>
