@@ -1,43 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activate_xiaomi_account">Activa aquest dispositiu</string>
+  <string name="activate_xiaomi_account">Activar aquest dispositiu</string>
+  <string name="adding_or_updating_account">Actualitzant el compte…</string>
   <string name="app_name">Trobar dispositiu</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">No es pot desbloquejar. %s.</string>
-  <string name="disable_find_device_error">No es pot apagar Trobar dispositiu. %1$s</string>
-  <string name="disable_find_device_success">Trobar dispositiu apagat</string>
+  <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessita introduir la seva contrasenya de nou per verificar el dispositiu.</string>
+  <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podria posar-se en contacte amb mi? Gràcies!</string>
+  <string name="device_locked">Aquest dispositiu està bloquejat</string>
+  <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
+  <string name="disable_find_device_error">No es pot desactivar 'Trobar dispositiu'. %1$s</string>
+  <string name="disable_find_device_success">Trobar dispositiu està desactivat</string>
+  <string name="doing_extra_login_steps">Verificant l\'inici de sessió</string>
   <string name="enable_find_device_error">No es pot encendre Trobar dispositiu. %1$s</string>
   <string name="enable_find_device_success">Trobar dispositiu encès</string>
   <string name="find_device">Trobar dispositiu</string>
-  <string name="find_device_error_account_sys_timeout">No s\'ha pogut connectar al compte Mi</string>
+  <string name="find_device_crash">Trobar dispositiu es va tancar inesperadament.</string>
+  <string name="find_device_error_account_sys_timeout">No s\'ha pogut connectar al Compte Mi</string>
+  <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
   <string name="find_device_error_network">Comprova la teva connexió de dades i intenta de nou.</string>
   <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Error de servidor</string>
   <string name="find_device_error_unknown">Error desconegut.</string>
   <string name="find_device_noise_title">Alarma de localitzar dispositiu</string>
-  <string name="find_device_notice_p1">Anar a</string>
+  <string name="find_device_notice_p1">Accedeixi a</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"per localitzar, bloquejar, o restaurar el teu telèfon.
-Si canvies de targeta SIM s\'enviarà altre SMS automàticament per reactivar aquesta funció."</string>
+Si canvia de targeta SIM, se li enviarà automàticament un altre SMS per reactivar aquesta funció."</string>
   <string name="find_device_stop_noise">Prem D\'acord per silenciar</string>
+  <string name="find_device_storage_corrupted">L\'emmagatzematge de Localitzar el dispositiu es troba danyat. Actualment el seu dispositiu no és segur.</string>
   <string name="find_device_success_title">Trobar dispositiu</string>
   <string name="i_know">D\'acord</string>
-  <string name="login_failed">No s\'ha pogut iniciar sessió</string>
+  <string name="lock_msg_phone">Informació de contacte: %s</string>
+  <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
+  <string name="login_failed">No s\'ha pogut iniciar sessió. %s.</string>
+  <string name="passport_checking_vcode">Comprovant contrasenya…</string>
+  <string name="passport_error_empty_vcode">Introdueixi codi de verificació</string>
+  <string name="passport_notification_need_unlock_again">Tracti de desbloquejar de nou</string>
+  <string name="passport_notification_processing">Processant…</string>
+  <string name="passport_trust_device">Confiar en aquest dispositiu</string>
+  <string name="passport_vcode_prompt_long">Introdueixi codi de verificació</string>
+  <string name="passport_verify">Verificar</string>
   <string name="password">Contrasenya</string>
   <string name="phone_locked">Pot ser que aquest dispositiu estigui associat amb un compte Mi existent (%s). Inicia sessió per activar aquest dispositiu.</string>
   <string name="stop_on_empty_captcha">El captcha no pot estar buit</string>
   <string name="stop_on_empty_password">La contrasenya no pot estar buida</string>
-  <string name="unlock">Activa</string>
+  <string name="time_correction_failure">No es va poder corregir l\'hora. %s</string>
+  <string name="time_correction_success">Hora corregida</string>
+  <string name="unlock">Activat</string>
   <string name="unlock_access_denied">Accés denegat</string>
   <string name="unlock_bad_authentication">Usuari o contrasenya invàlids</string>
+  <string name="unlock_error_abort">Cancel·lat per l\'usuari</string>
   <string name="unlock_error_device_id">No es pot obtenir l\'ID del dispositiu</string>
   <string name="unlock_error_interrupted">Interromput</string>
   <string name="unlock_error_network">No es pot connectar a la xarxa</string>
+  <string name="unlock_error_passport_sdk_timeout">Compte Mi SDK no respon</string>
   <string name="unlock_error_rpc">Error RPC</string>
-  <string name="unlock_error_server">Error de servidor</string>
+  <string name="unlock_error_server">Error del servidor</string>
   <string name="unlock_error_ssl_hand_shake">No s\'ha pogut connectar al servidor, prova a configurar la data i hora.</string>
   <string name="unlock_error_unknown">No s\'ha pogut iniciar sessió</string>
   <string name="unlock_error_user_name">Usuari invàlid</string>
+  <string name="unlock_error_wrong_vcode">El codi introduït és incorrecte</string>
+  <string name="unlock_help">"Mantingui\'s connectat a la xarxa
+Asseguri\'s d\'haver instal·lat una targeta SIM que funcioni i que el seu dispositiu estigui connectat a una xarxa Wi-Fi amb accés a Internet
+
+Va oblidar la seva contrasenya?
+Vagi a id.mi.com per restablir la seva contrasenya
+
+Altres motius
+Iniciï sessió a i.mi.com i intenti desbloquejar el seu dispositiu des d'allí"</string>
+  <string name="unlock_help_title">Desbloquejar ajuda:</string>
   <string name="unlock_wrong_captcha">El codi introduït és incorrecte</string>
   <string name="unlocking">Activant…</string>
+  <string name="verifing_account">Verificant contrasenya…</string>
   <string name="verify_password_failed">No s\'ha pogut verificar el ID del compte Mi. %s.</string>
 </resources>
