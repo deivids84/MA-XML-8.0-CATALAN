@@ -1,14 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Visor HTML</string>
-  <string name="app_name_which_call">Aplicación:%s</string>
-  <string name="app_version_which_call">Versión aplicación:%s</string>
-  <string name="license_host_unreachable">"No se puede conectar a la red. Para ver esta información, 
-ve a %s"</string>
-  <string name="loading">Cargando…</string>
-  <string name="mibi_license">Términos de Servicio de Mi Credit</string>
-  <string name="open_wifi_connect_summary">Tocar para ver detalles.</string>
-  <string name="open_wifi_connect_title">Conectar a %1$s</string>
-  <string name="permdesc_accessDrm">Permitir a la aplicación acceder a contenido protegido con DRM.</string>
+  <string name="app_name_which_call">Aplicació:%s</string>
+  <string name="app_version_which_call">Versió aplicació:%s</string>
+  <string name="license_host_unreachable">"No es pot connectar a la xarxa. Per veure aquesta informació, 
+ves a %s"</string>
+  <string name="loading">Carregant…</string>
+  <string name="mibi_license">Termes de Servei de Mi Credit</string>
+  <string name="open_wifi_connect_summary">Tocar per veure detalls.</string>
+  <string name="open_wifi_connect_title">Connectar a %1$s</string>
+  <string name="permdesc_accessDrm">Permetre a l\'aplicació accedir a contingut protegit amb DRM.</string>
   <string name="policy_name">Política:%s</string>
+  <string name="settings_license_activity_loading">Carregant…</string>
+  <string name="settings_license_activity_title">Llicències de codi obert</string>
+  <string name="settings_license_activity_unavailable">Existeix un problema en carregar les llicències.</string>
+  <string name="settings_safetylegal_activity_loading">Carregant…</string>
+  <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
+  <string name="settings_safetylegal_activity_unreachable">No té connexió de dades. Per veure aquesta informació ara, vagi a %s des de qualsevol computadora que tingui accés a Internet.</string>
+  <string name="settings_safetylegal_title">Informació de seguretat</string>
 </resources>
