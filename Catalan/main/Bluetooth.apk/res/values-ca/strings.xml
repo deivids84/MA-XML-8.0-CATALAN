@@ -159,7 +159,7 @@
   <string name="status_running">S\'està duent a terme la transferència de fitxers.</string>
   <string name="status_success">La transferència de fitxers s\'ha completat correctament.</string>
   <string name="status_unknown_error">Error desconegut.</string>
-  <string name="transfer_clear_dlg_msg">S\'esborraran tots els elements de la llista.</string>
+  <string name="transfer_clear_dlg_msg">S\'eliminaran tots els elements de la llista.</string>
   <string name="transfer_clear_dlg_title">Esborra</string>
   <string name="transfer_menu_clear">Esborra de la llista</string>
   <string name="transfer_menu_clear_all">Esborra la llista</string>
