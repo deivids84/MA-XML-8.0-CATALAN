@@ -2,8 +2,8 @@
 <resources>
 <string name="label_airplane_mode">Mode avió</string>
     <string name="label_silent_mode">Silenci</string>
-    <string name="label_reboot">Reiniciar</string>
-    <string name="label_shutdown">Apagar</string>
-    <string name="label_alert_reboot">Premi per reiniciar</string>
-    <string name="label_alert_shutdown">Premi per apagar</string>
+    <string name="label_reboot">Reinicia</string>
+    <string name="label_shutdown">Apaga</string>
+    <string name="label_alert_reboot">Toqueu per reiniciar</string>
+    <string name="label_alert_shutdown">Toqueu per apagar</string>
 </resources>
