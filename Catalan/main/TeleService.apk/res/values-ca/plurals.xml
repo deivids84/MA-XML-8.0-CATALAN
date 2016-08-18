@@ -10,7 +10,7 @@
     <item quantity="one">El telèfon entrarà en mode Trucada d\'Emergència durant %s minut. Durant aquest temps no podrà usar cap aplicació que necessiti connexió de dades. Vol sortir ara?</item>
   </plurals>
   <plurals name="alert_dialog_not_avaialble_in_ecm">
-    <item quantity="other">"L'acció seleccionada no està disponible mentre estigui en mode Trucada d'Emergència. El telèfon romandrà en aquest mode durant %s minutos. Quiere salir ahora?"</item>
-    <item quantity="one">"L'acció seleccionada no està disponible mentre estigui en mode Trucada d'Emergència. El telèfon romandrà en aquest mode durant %s minut. Vol sortir ara?"</item>
+    <item quantity="other">"L\'acció seleccionada no està disponible mentre estigui en mode Trucada d\'Emergència. El telèfon romandrà en aquest mode durant %s minutos. Quiere salir ahora?"</item>
+    <item quantity="one">"L\'acció seleccionada no està disponible mentre estigui en mode Trucada d\'Emergència. El telèfon romandrà en aquest mode durant %s minut. Vol sortir ara?"</item>
   </plurals>
 </resources>
