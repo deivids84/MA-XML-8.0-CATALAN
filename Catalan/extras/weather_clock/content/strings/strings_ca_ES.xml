@@ -6,7 +6,7 @@
     <string name="desc_time">'hora actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toqueu dos cops per obrir el rellotge'</string>
 	<string name="weather_type_0">Serè</string>
     <string name="weather_type_1">Ennuvolat</string>
-    <string name="weather_type_2">Calijós</string>
+    <string name="weather_type_2">Calitjós</string>
     <string name="weather_type_3">Emboirat</string>
     <string name="weather_type_4">Aiguat</string>
     <string name="weather_type_5">Xàfec</string>
