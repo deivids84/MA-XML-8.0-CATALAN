@@ -377,6 +377,7 @@ Total: %3$s € "</string>
   <string name="sending_shortcut">Enviant&#8230;</string>
   <string name="service_unavailiable">Servei no disponible</string>
   <string name="share">Compartir</string>
+  <string name="shop_recommendation_format">%s: %s</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Ha fallat l\'enviament</string>
