@@ -59,7 +59,6 @@
   <string name="birthday_event_description_today">Avui és</string>
   <string name="birthday_event_description_tomorrow">Demà és</string>
   <string name="birthday_event_description_yesterday">Ahir va ser</string>
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_text_days_later">Falten %1$s dies per %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
   <string name="birthday_notification_title_days_later">"Aviat serà el %2$s de %1$s."</string>
@@ -278,9 +277,6 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="path_calendar">Aplicacions del sistema/Calendari/Configuració</string>
   <string name="pengzu">pengzu</string>
-  <string name="prefDefault_alerts_vibrateWhen">mai</string>
-  <string name="prefDefault_alerts_vibrate_false">mai</string>
-  <string name="prefDefault_alerts_vibrate_true">sempre</string>
   <string name="prefDialogTitle_vibrateWhen">Vibració</string>
   <string name="pref_error_no_ringtone_select">Cap seleccionat</string>
   <string name="pref_title_alarm_remind">Recordatoris d\'alarma</string>
