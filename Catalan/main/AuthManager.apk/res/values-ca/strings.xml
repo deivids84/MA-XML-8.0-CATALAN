@@ -290,4 +290,5 @@ Necessita instal·lar una versió de desenvolupament de MIUI per tenir permisos 
   <string name="screen_overlay_button">Obrir configuració</string>
   <string name="screen_overlay_message">Per canviar l\'ajust d\'aquest permís, primer has de desactivar el recobriment de pantalla a Configuració &gt; Aplicacions</string>
   <string name="screen_overlay_title">Detectat recobriment de pantalla</string>
+  <string name="static_cache_db_md5">a091ed54ebb50d2485bc3138234b205b</string>
 </resources>
