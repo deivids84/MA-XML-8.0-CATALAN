@@ -3651,7 +3651,7 @@ Hi ha un intent de Google de sincronitzar dades per accedir als teus contactes, 
   <string name="trackball_settings">Punter</string>
   <string name="trackball_wake_title">Seguiment de punter</string>
   <string name="transition_animation_scale_title">Escala de transició-animació</string>
-  <string name="translation_contributors_title">Contribucions</string>
+  <string name="translation_contributors_title">Col·laboradors de la traducció</string>
   <string name="trust_agent_disabled_device_admin">Desactivat per l\'administrador</string>
   <string name="trusted_credentials">Credencials fiables</string>
   <string name="trusted_credentials_disable_confirmation">Desactivar el certificat de sistema CA?</string>
