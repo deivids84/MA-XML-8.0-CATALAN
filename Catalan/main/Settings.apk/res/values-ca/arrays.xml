@@ -511,14 +511,6 @@
     <item>Mostra safata d\'aplicacions recents</item>
     <item>Mostra menú</item>
   </string-array>
-  <string-array name="screen_key_long_press_action">
-    <item>Res</item>
-    <item>Mostra safata d\'aplicacions recents</item>
-    <item>Obrir Assistent</item>
-    <item>Obrir Google now</item>
-    <item>Tancar aplicació actual</item>
-    <item>Mostra menú</item>
-  </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0.5 segons</item>
     <item>1 segon</item>
