@@ -57,7 +57,7 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
-  <string name="daily_forcast_temperature_transfer">%1$s°C / %2$s°C</string>
+  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -142,7 +142,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
   <string name="sunrise">Alba</string>
   <string name="sunset">Posta de sol</string>
-  <string name="temperature_unit">%1$s °C</string>
+  <string name="temperature_unit">%1$s°</string>
   <string name="title_share_link">Comparteix la URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
