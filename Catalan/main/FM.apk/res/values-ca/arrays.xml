@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-     <string-array name="sleep_duration_values">
-        <item>15 minuts</item>
-        <item>30 minuts</item>
-        <item>45 minuts</item>
-        <item>1 hora</item>
-     </string-array>
-</resources>
