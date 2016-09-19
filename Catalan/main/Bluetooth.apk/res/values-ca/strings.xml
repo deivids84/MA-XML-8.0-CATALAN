@@ -3,7 +3,7 @@
 <resources>
   <string name="ErrorTooManyRequests">S\'estan processant massa sol·licituds. Intenteu-ho més tard.</string>
   <string name="ack_record">Registre d\'ACK</string>
-  <string name="airplane_can_not_share">"En el mode avió no podeu utilitzar el Bluetooth per compartir"</string>
+  <string name="airplane_can_not_share">"Amb el mode avió no es pot utilitzar el Bluetooth per compartir"</string>
   <string name="airplane_error_msg">"No podeu utilitzar el Bluetooth en el mode avió."</string>
   <string name="airplane_error_title">Mode avió</string>
   <string name="app_name">Compartir per Bluetooth</string>
@@ -12,7 +12,7 @@
   <string name="auth_notif_title">Clau de sessió</string>
   <string name="ble_device_address">Adreça MAC del dispositiu BLE</string>
   <string name="ble_device_profile">Perfil del dispositiu BLE</string>
-  <string name="ble_device_profile_header_title">Paràmetres</string>
+  <string name="ble_device_profile_header_title">Configuració</string>
   <string name="ble_device_profile_title">Dispositiu BLE vinculat</string>
   <string name="ble_device_rename">Canvia el nom</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
@@ -59,7 +59,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Suprimeix tots els registres</string>
   <string name="delete_record">Suprimeix el registre</string>
-  <string name="device_picker">Configuració de Bluetooth</string>
+  <string name="device_picker">Configuració del Bluetooth</string>
   <string name="disconnect">Desvincula</string>
   <string name="download_cancel">Atura</string>
   <string name="download_fail_line1">No s\'ha rebut el fitxer</string>
@@ -71,7 +71,7 @@
   <string name="download_line3">Mida del fitxer: %1$s</string>
   <string name="download_line5">S\'està rebent el fitxer&#8230;</string>
   <string name="download_ok">Amaga</string>
-  <string name="download_succ_line5">Fitxer rebut</string>
+  <string name="download_succ_line5">S\'ha rebut el fitxer</string>
   <string name="download_succ_ok">Obre\'l</string>
   <string name="download_success">Recepció completada (%1$s).</string>
   <string name="download_title">Transferència de fitxers</string>
@@ -106,10 +106,10 @@
   <string name="mi_band_vibrate_sms_no_contacts">SMS de números desconeguts</string>
   <string name="mi_key_alert_dialog_message">Toqueu \"D\'acord\" per silenciar l\'alarma.</string>
   <string name="mi_key_alert_dialog_title">Alarma de Mi Key</string>
-  <string name="mi_key_find_mikey">Cerca la Mi Key</string>
-  <string name="mi_key_find_phone">Cerca el telèfon</string>
+  <string name="mi_key_find_mikey">Troba la Mi Key</string>
+  <string name="mi_key_find_phone">Troba el dispositiu</string>
   <string name="mi_key_open_camera">Obre la càmera</string>
-  <string name="mi_key_summary_find_phone">Mantén premuda la Mi Key per fer-lo sonar</string>
+  <string name="mi_key_summary_find_phone">Manteniu premuda la Mi Key per fer-lo sonar</string>
   <string name="mi_key_summary_open_camera">Feu doble clic a la Mi Key per obrir la càmera</string>
   <string name="mi_key_summary_take_photo">Feu clic a la Mi Key per fer una foto</string>
   <string name="mi_key_take_photo">Fes una foto</string>
@@ -127,7 +127,7 @@
   <string name="notification_sending">Bluetooth: S\'està enviant %1$s</string>
   <string name="notification_sent">Bluetooth: %1$s enviat</string>
   <string name="notification_sent_complete">100% completat</string>
-  <string name="notification_sent_fail">Bluetooth: El fitxer %1$s no s\'ha enviat</string>
+  <string name="notification_sent_fail">Bluetooth: No s\'ha enviat el fitxer %1$s</string>
   <string name="notify_device_lose_connection_text">Toqueu per desvincular %1$s</string>
   <string name="notify_device_lose_connection_title">S\'ha perdut la connexió amb %1$s</string>
   <string name="notify_server">Notifica al servidor TCP</string>
@@ -138,7 +138,7 @@
   <string name="pbap_authentication_timeout_message">S\'ha esgotat el temps d\'espera per introduir la clau de la sessió amb %1$s</string>
   <string name="pbap_session_key_dialog_header">Es necessita la clau de sessió de Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Introduïu la clau de sessió per a %1$s</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Permet que l\'aplicació accedeixi al gestor de dades AVRCP de Bluetooth i l\'utilitzi per mostrar-les a la interfície d\'usuari.</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Permet que l\'aplicació accedeixi al gestor de dades AVRCP del Bluetooth i l\'utilitzi per mostrar-les a la interfície d\'usuari.</string>
   <string name="permdesc_bluetoothShareManager">Permet que l\'aplicació accedeixi al gestor de Compartició per Bluetooth i l\'utilitzi per transferir fitxers.</string>
   <string name="permdesc_bluetoothWhitelist">Permet que l\'aplicació posi temporalment un dispositiu Bluetooth a la llista blanca, acceptant-ne així els fitxers que aquest enviï sense la confirmació de l\'usuari.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Accés a les dades AVRCP.</string>
@@ -147,10 +147,10 @@
   <string name="progress_scanning">S\'està cercant&#8230;</string>
   <string name="reset_function_msg">Si restabliu aquesta característica podeu provocar que %1$s deixi de funcionar correctament.</string>
   <string name="some_app_taking">(%1$s ja està utilitzant aquesta funció)</string>
-  <string name="start_server">Inicia servidor TCP</string>
+  <string name="start_server">Inicia el servidor TCP</string>
   <string name="status_canceled">L\'usuari ha cancel·lat la transferència.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>
-  <string name="status_file_error">Problema d\'emmagatzematge.</string>
+  <string name="status_file_error">Error d\'emmagatzematge.</string>
   <string name="status_forbidden">El dispositiu de destí ha prohibit la transferència.</string>
   <string name="status_no_sd_card">Sense emmagatzematge USB.</string>
   <string name="status_not_accept">"El contingut no és compatible."</string>
@@ -159,7 +159,7 @@
   <string name="status_running">S\'està duent a terme la transferència de fitxers.</string>
   <string name="status_success">La transferència de fitxers s\'ha completat correctament.</string>
   <string name="status_unknown_error">Error desconegut.</string>
-  <string name="transfer_clear_dlg_msg">S\'esborraran tots els elements de la llista.</string>
+  <string name="transfer_clear_dlg_msg">S\'eliminaran tots els elements de la llista.</string>
   <string name="transfer_clear_dlg_title">Esborra</string>
   <string name="transfer_menu_clear">Esborra de la llista</string>
   <string name="transfer_menu_clear_all">Esborra la llista</string>
@@ -183,7 +183,7 @@
   <string name="upload_line1">A: \"%1$s\"</string>
   <string name="upload_line3">Tipus de fitxer: %1$s (%2$s)</string>
   <string name="upload_line5">S\'està enviant el fitxer&#8230;</string>
-  <string name="upload_succ_line5">Fitxer enviat</string>
+  <string name="upload_succ_line5">S\'ha enviat el fitxer</string>
   <string name="upload_succ_ok">D\'acord</string>
   <string name="upload_success">Enviament completat (%1$s).</string>
 </resources>

@@ -6,10 +6,10 @@
   <string name="button_select">Selecciona</string>
   <string name="copy_failure_alert_content">"Aquests fitxers no s'han copiat: %1$s"</string>
   <string name="copy_notification_title">S\'estan copiant els fitxers</string>
-  <string name="copy_preparing">S\'està preparant la còpia&#8230;</string>
+  <string name="copy_preparing">S\'està preparant per copiar&#8230;</string>
   <string name="copy_remaining">En falten %s</string>
   <string name="create_error">No s\'ha pogut crear la carpeta</string>
-  <string name="drawer_close">Amagar arbre de directoris</string>
+  <string name="drawer_close">Amaga l\'arbre de directoris</string>
   <string name="drawer_open">Mostra l\'arbre de carpetes</string>
   <string name="empty">Sense elements</string>
   <string name="menu_advanced_hide">Oculta l\'emmagatzematge intern</string>
@@ -33,11 +33,11 @@
   <string name="retry">Torna-hi</string>
   <string name="root_available_bytes">%1$s lliure</string>
   <string name="root_recent">Recents</string>
-  <string name="root_type_apps">Més aplis</string>
+  <string name="root_type_apps">Més aplicacions</string>
   <string name="root_type_device">Dispositius</string>
   <string name="root_type_service">Serveis d\'emmagatzematge</string>
   <string name="root_type_shortcut">Dreceres de teclat</string>
-  <string name="save_error">Hi ha hagut un error en desar el document</string>
+  <string name="save_error">No s\'ha pogut desar el document</string>
   <string name="share_via">Comparteix-lo a través de</string>
   <string name="sort_date">Per data de modificació</string>
   <string name="sort_name">Per nom</string>

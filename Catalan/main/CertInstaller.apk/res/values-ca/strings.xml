@@ -13,7 +13,7 @@
   <string name="credential_usage_label">Ús de credencials:</string>
   <string name="done_label">FET</string>
   <string name="extracting_pkcs12">S\'està extraient&#8230;</string>
-  <string name="install_done">Les credencials %1$s s\'han afegit a les xarxes Wi-Fi desades.</string>
+  <string name="install_done">S\'han afegit %1$s credencials a les xarxes Wi-Fi desades.</string>
   <string name="install_done_title">Credencials instal·lades</string>
   <string name="invalid_cert">El certificat no és vàlid.</string>
   <string name="n_cacrts">%d certificats CA</string>
@@ -49,7 +49,7 @@ Mètode d\'autenticació: EAP-%5$s
   <string name="wifi_installer_detail">Instal·la les credencials Wi-Fi per connectar-se a les xarxes disponibles mitjançant %1$s.</string>
   <string name="wifi_installer_download_error">"El fitxer baixat té problemes i no es pot instal·lar. Assegureu-vos d'haver baixat el fitxer de la font correcta."</string>
   <string name="wifi_installer_fail">"No es poden instal·lar les credencials de Wi-Fi. Proveu de tornar a baixar el fitxer."</string>
-  <string name="wifi_installer_fail_no_wifi">Activeu la WLAN i torneu a provar-ho.</string>
+  <string name="wifi_installer_fail_no_wifi">Activeu la Wi-Fi i torneu a provar-ho.</string>
   <string name="wifi_installer_fail_no_wifi_title">S\'ha cancel·lat la instal·lació</string>
   <string name="wifi_installer_fail_title">"No es pot instal·lar"</string>
   <string name="wifi_installing_label">S\'està instal·lant</string>

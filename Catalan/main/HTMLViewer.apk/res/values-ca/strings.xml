@@ -4,8 +4,8 @@
   <string name="app_label">Lector d\'HTML</string>
   <string name="app_name_which_call">Aplicació:%s</string>
   <string name="app_version_which_call">Versió de l\'aplicació:%s</string>
-  <string name="license_host_unreachable">"No s\'ha pogut connectar a la xarxa. Per veure aquesta informació,
-aneu a %s"</string>
+  <string name="license_host_unreachable">«No s\'ha pogut connectar a la xarxa. Per veure aquesta informació,
+aneu a %s»</string>
   <string name="loading">S\'està carregant&#8230;</string>
   <string name="mibi_license">Condicions del Servei de Mi Credit</string>
   <string name="open_wifi_connect_summary">Toqueu per veure\'n els detalls.</string>
@@ -14,7 +14,7 @@ aneu a %s"</string>
   <string name="policy_name">Política:%s</string>
   <string name="settings_license_activity_loading">S\'està carregant&#8230;</string>
   <string name="settings_license_activity_title">Llicències de codi obert</string>
-  <string name="settings_license_activity_unavailable">S\'ha produït un problema en lcarregar les llicències.</string>
+  <string name="settings_license_activity_unavailable">S\'ha produït un problema en carregar les llicències.</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant&#8230;</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">"No teniu una connexió de dades. Per veure la informació aneu a %s des de qualsevol ordinador connectat a Internet."</string>

@@ -4,7 +4,8 @@
   <string name="action_bar_label">Inicia sessió a la xarxa</string>
   <string name="action_do_not_use_network">No utilitzis aquesta xarxa</string>
   <string name="action_use_network">Utilitza aquesta xarxa tal com està</string>
+  <string name="app_name">CaptivePortalLogin</string>
   <string name="ssl_error_continue">Continua igualment al navegador</string>
-  <string name="ssl_error_example">Per exemple, la pàgina d\'inici de sessió pot no pertànyer a la organització mostrada.</string>
+  <string name="ssl_error_example">Per exemple, la pàgina d\'inici de sessió pot no pertànyer a l\'organització mostrada.</string>
   <string name="ssl_error_warning">La xarxa a la qual us intenteu unir té problemes de seguretat.</string>
 </resources>

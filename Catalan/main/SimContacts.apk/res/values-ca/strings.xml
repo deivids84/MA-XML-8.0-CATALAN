@@ -3,4 +3,5 @@
 <resources>
   <string name="account_phone">TELÈFON</string>
   <string name="account_sim">Targeta SIM</string>
+  <string name="app_name">Contactes SIM</string>
 </resources>
