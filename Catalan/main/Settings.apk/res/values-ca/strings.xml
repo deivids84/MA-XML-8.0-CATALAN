@@ -425,7 +425,6 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
   <string name="battery_stats_flashlight_on_label">Llanterna engegada</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">Bateria al %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
@@ -4350,11 +4349,9 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
   <string name="wifi_security_eap">802.1 x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1 x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
