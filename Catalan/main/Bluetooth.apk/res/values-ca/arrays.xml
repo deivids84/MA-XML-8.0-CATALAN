@@ -12,13 +12,13 @@
     <item>Cerca la Mi-key</item>
   </string-array>
   <string-array name="ble_packages">
-    <item></item>
+    <item/>
     <item>com.xiaomi.hm.health</item>
-    <item></item>
+    <item/>
   </string-array>
   <string-array name="ble_package_names">
-    <item></item>
+    <item/>
     <item>Mi Fit</item>
-    <item></item>
+    <item/>
   </string-array>
 </resources>

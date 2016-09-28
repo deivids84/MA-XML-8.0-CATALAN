@@ -14,7 +14,7 @@
     <item quantity="one">fa %d dia</item>
   </plurals>
   <plurals name="view_realtime_clear">
-    <item quantity="other">Esborra</item>
-    <item quantity="one">Esborra</item>
+    <item quantity="other">Serè</item>
+    <item quantity="one">Serè</item>
   </plurals>
 </resources>
