@@ -4,6 +4,6 @@
   <string name="bugreport_confirm">"Els informes d'errors contenen dades de diversos fitxers de registre del sistema, inclosa la informació personal i privada. Comparteix els informes d'errors només amb les aplicacions i persones de la seva confiança."</string>
   <string name="bugreport_confirm_repeat">Mostra aquest missatge la propera vegada</string>
   <string name="bugreport_finished_text">Toca per compartir el seu informe d\'error</string>
-  <string name="bugreport_finished_title">Capturat informe d'error</string>
+  <string name="bugreport_finished_title">Capturat informe d\'error</string>
   <string name="bugreport_storage_title">Informes d\'errors</string>
 </resources>
