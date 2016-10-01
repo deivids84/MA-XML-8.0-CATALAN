@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Active">Actiu</string>
+  <string name="PassWordGuard">Contrasenya del segon espai</string>
+  <string name="PrivacyContactDes1">"Els contactes es convertiran en privats.
+Els missatges només apareixeran en el Segon espai."</string>
+  <string name="PrivacyContactDes2">"Si va utilitzar missatges privats en el Primer espai,
+aquesta característica s'afegirà al segon espai de forma automàtica."</string>
+  <string name="add_finger_print">Afegir empremta digital</string>
+  <string name="appData">Aplicacions instal·lades</string>
+  <string name="app_name">Security Core Component</string>
+</resources>

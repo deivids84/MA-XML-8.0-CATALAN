@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="carrier_name">(Nom de l\'operador)</string>
+  <string name="change">Estableix</string>
+  <string name="close">Tanca</string>
+</resources>

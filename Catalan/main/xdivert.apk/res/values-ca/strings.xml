@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">D'acord</string>
+  <string name="error_updating_title">Error de configuració de la trucada</string>
+  <string name="exception_error">Error de xarxa o targeta SIM.</string>
+  <string name="fdn_check_failure">"La configuració de marcació fixa de números de l'aplicació del telèfon està engegada. Com a resultat, algunes de les característiques relacionades amb les trucades no estan funcionant."</string>
+</resources>

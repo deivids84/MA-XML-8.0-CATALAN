@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibra en sonar</item>
+        <item>Vibra quan es rep un missatge</item>
+        <item>"Vibra amb l'alarma"</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fes una foto</item>
+        <item>Troba el telèfon</item>
+        <item>Troba la Mi-key</item>
+    </string-array>
+    <string-array name="ble_packages">
+        <item></item>
+        <item>com.xiaomi.hm.health</item>
+        <item></item>
+    </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item></item>
+    </string-array>
+</resources>

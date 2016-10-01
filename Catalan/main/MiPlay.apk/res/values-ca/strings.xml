@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Servidor multimèdia</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="enable_wifi_btn">Activa</string>
+  <string name="enable_wifi_message">Activeu Wi-Fi per buscar i connectar dispositius propers.</string>
+  <string name="enable_wifi_title">Activa Wi-Fi</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Configuració</string>
+  <string name="app_name">Agent de còpia de seguretat</string>
+  <string name="backup_contacts">Còpia de seguretat de contactes</string>
+  <string name="backup_sms_mms">Cópia de seguretat de SMS/MMS</string>
+</resources>

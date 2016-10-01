@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC habilitat.</string>
+  <string name="android_beam">Android Beam</string>
+  <string name="app_name">Servei NFC</string>
+  <string name="ask_nfc_tap">Premi un altre dispositiu per completar</string>
+</resources>
