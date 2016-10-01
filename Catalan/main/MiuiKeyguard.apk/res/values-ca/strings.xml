@@ -35,7 +35,7 @@
   <string name="lockscreen_access_pattern_cleared">Patró esborrat</string>
   <string name="lockscreen_access_pattern_detected">Patró completat</string>
   <string name="lockscreen_access_pattern_start">Patró iniciat</string>
-  <string name="lockscreen_charging_msg">Carregant</string>
+  <string name="lockscreen_charging_msg">S\'està carregant</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Ha introduït la contrasenya incorrectament %d vegades. Després de %d intents incorrectes més, el telèfon es reiniciarà a valors de fàbrica i es perdran totes les dades d\'usuari.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ha introduït la contrasenya incorrectament %d vegades. Després de %d intents incorrectes més, se li demanarà que desbloquegi el telèfon iniciant la sessió al compte.
 
@@ -60,6 +60,6 @@ Intenteu-ho de nou en %d segons. "</string>
   <string name="unlocking_sim_card">Desbloquejant la targeta SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador.</string>
   <string name="unlockscreen_recharge_completed">Bateria plena</string>
-  <string name="unlockscreen_recharging_message">Carregant %d %%</string>
+  <string name="unlockscreen_recharging_message">S\'està carregant %d%%</string>
   <string name="wrong_password">Contrasenya incorrecta</string>
 </resources>
