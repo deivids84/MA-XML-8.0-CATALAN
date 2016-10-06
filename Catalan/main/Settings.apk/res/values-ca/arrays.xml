@@ -33,10 +33,6 @@
     <item>S\'han combinat</item>
     <item>Separat</item>
   </string-array>
-  <string-array name="status_bar_style_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="timezone_filters">
     <item>Amèrica</item>
     <item>Europa</item>
@@ -55,15 +51,6 @@
     <item>10 minuts</item>
     <item>Mai</item>
   </string-array>
-  <string-array name="screen_timeout_values">
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>2147483647</item>
-  </string-array>
   <string-array name="dream_timeout_entries">
     <item>Mai</item>
     <item>15 segons</item>
@@ -73,16 +60,6 @@
     <item>5 minuts</item>
     <item>10 minuts</item>
     <item>30 minuts</item>
-  </string-array>
-  <string-array name="dream_timeout_values">
-    <item>0</item>
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>1800000</item>
   </string-array>
   <string-array name="lock_after_timeout_entries">
     <item>Immediatament</item>
@@ -95,30 +72,11 @@
     <item>10 minuts</item>
     <item>30 minuts</item>
   </string-array>
-  <string-array name="lock_after_timeout_values">
-    <item>0</item>
-    <item>5000</item>
-    <item>15000</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>120000</item>
-    <item>300000</item>
-    <item>600000</item>
-    <item>1800000</item>
-  </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
     <item>Normal</item>
     <item>Grossa</item>
     <item>Molt grossa</item>
-  </string-array>
-  <string-array name="entryvalues_font_size">
-    <item>petita</item>
-    <item>normal</item>
-    <item>mitjana</item>
-    <item>grossa</item>
-    <item>molt grossa</item>
-    <item>godzilla</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Molt lent</item>
@@ -131,30 +89,12 @@
     <item>Molt ràpida</item>
     <item>El més ràpid</item>
   </string-array>
-  <string-array name="tts_rate_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-    <item>250</item>
-    <item>300</item>
-    <item>350</item>
-    <item>400</item>
-  </string-array>
   <string-array name="tts_pitch_entries">
     <item>Molt baix</item>
     <item>Baix</item>
     <item>Normal</item>
     <item>Alt</item>
     <item>Molt alt</item>
-  </string-array>
-  <string-array name="tts_pitch_values">
-    <item>50</item>
-    <item>80</item>
-    <item>100</item>
-    <item>120</item>
-    <item>150</item>
   </string-array>
   <string-array name="tts_demo_strings">
     <item>This is an example of speech synthesis in English.</item>
@@ -225,11 +165,6 @@
     <item>Només quan és endollat</item>
     <item>Mai</item>
   </string-array>
-  <string-array name="wifi_sleep_policy_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="data_usage_data_range">
     <item>Els darrers 30 dies</item>
     <item>Defineix el cicle d\'ús...</item>
@@ -238,11 +173,6 @@
     <item>Automàtic</item>
     <item>Només 5 GHz</item>
     <item>Només 2,4 GHz</item>
-  </string-array>
-  <string-array name="wifi_frequency_band_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
     <item>Temps d\'ús</item>
@@ -275,76 +205,6 @@
     <item>Cap</item>
     <item>Manual</item>
     <item>Configuració automàtica del servidor intermediari</item>
-  </string-array>
-  <string-array name="apn_auth_entries">
-    <item>Cap</item>
-    <item>PAP</item>
-    <item>CHAP</item>
-    <item>PAP o CHAP</item>
-  </string-array>
-  <string-array name="apn_auth_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
-  </string-array>
-  <string-array name="apn_protocol_values">
-    <item>IP</item>
-    <item>IPV6</item>
-    <item>IPV4V6</item>
-  </string-array>
-  <string-array name="bearer_entries">
-    <item>No s\'ha especificat</item>
-    <item>LTE</item>
-    <item>HSPAP</item>
-    <item>HSPA</item>
-    <item>HSUPA</item>
-    <item>HSDPA</item>
-    <item>UMTS</item>
-    <item>EDGE</item>
-    <item>GPRS</item>
-    <item>eHRPD</item>
-    <item>EVDO_B</item>
-    <item>EVDO_A</item>
-    <item>EVDO_0</item>
-    <item>1xRTT</item>
-    <item>IS95B</item>
-    <item>IS95A</item>
-  </string-array>
-  <string-array name="bearer_values">
-    <item>0</item>
-    <item>14</item>
-    <item>15</item>
-    <item>11</item>
-    <item>10</item>
-    <item>9</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-    <item>13</item>
-    <item>12</item>
-    <item>8</item>
-    <item>7</item>
-    <item>6</item>
-    <item>5</item>
-    <item>4</item>
-  </string-array>
-  <string-array name="mvno_type_entries">
-    <item>Cap</item>
-    <item>SPN</item>
-    <item>IMSI</item>
-    <item>GID</item>
-  </string-array>
-  <string-array name="mvno_type_values">
-    <item/>
-    <item>spn</item>
-    <item>imsi</item>
-    <item>gid</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Emmagatzematge intern del dispositiu</item>
@@ -467,46 +327,12 @@
     <item>Mitjana</item>
     <item>Llarga</item>
   </string-array>
-  <string-array name="long_press_timeout_selector_values">
-    <item>500</item>
-    <item>1000</item>
-    <item>1500</item>
-  </string-array>
-  <string-array name="captioning_typeface_selector_titles">
-    <item>Predeterminada</item>
-    <item>Sans serif</item>
-    <item>Sans-serif condensed</item>
-    <item>Serif</item>
-    <item>Espaiat simple</item>
-    <item>Serif amb un espai</item>
-    <item>Ocasional</item>
-    <item>Cursiva</item>
-    <item>Minúscules</item>
-  </string-array>
-  <string-array name="captioning_typeface_selector_values">
-    <item/>
-    <item>sans-serif</item>
-    <item>sans-serif-condensed</item>
-    <item>serif</item>
-    <item>monospace</item>
-    <item>serif-monospace</item>
-    <item>ocasional</item>
-    <item>cursive</item>
-    <item>sans-serif-smallcaps</item>
-  </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Molt petita</item>
     <item>Petita</item>
     <item>Normal</item>
     <item>Grossa</item>
     <item>Molt grossa</item>
-  </string-array>
-  <string-array name="captioning_font_size_selector_values">
-    <item>0,25</item>
-    <item>0,5</item>
-    <item>1,0</item>
-    <item>1,5</item>
-    <item>2,0</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
     <item>Cap</item>
@@ -542,13 +368,6 @@
     <item>256K</item>
     <item>1M</item>
   </string-array>
-  <string-array name="select_logd_size_values">
-    <item>65536</item>
-    <item>262144</item>
-    <item>1048576</item>
-    <item>4194304</item>
-    <item>16777216</item>
-  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>64K per registre de memòria</item>
     <item>256K per registre de memòria</item>
@@ -575,15 +394,6 @@
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
   </string-array>
-  <string-array name="window_animation_scale_values">
-    <item>0</item>
-    <item>0,5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
@@ -592,15 +402,6 @@
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
-  </string-array>
-  <string-array name="transition_animation_scale_values">
-    <item>0</item>
-    <item>0,5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Sense animacions</item>
@@ -611,54 +412,11 @@
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
   </string-array>
-  <string-array name="animator_duration_scale_values">
-    <item>0</item>
-    <item>0,5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
-  </string-array>
-  <string-array name="overlay_display_devices_entries">
-    <item>Cap</item>
-    <item>480p</item>
-    <item>480p (segur)</item>
-    <item>720p</item>
-    <item>720p (segur)</item>
-    <item>1080p</item>
-    <item>1080p (segur)</item>
-    <item>4K</item>
-    <item>4K (segur)</item>
-    <item>4K (redimensionat)</item>
-    <item>4K (redimensionat, segur)</item>
-    <item>720p, 1080p (pantalla doble)</item>
-  </string-array>
-  <string-array name="overlay_display_devices_values">
-    <item/>
-    <item>720x480/142</item>
-    <item>720x480/142, segur</item>
-    <item>1280x720/213</item>
-    <item>1280x720/213, segur</item>
-    <item>1920x1080/320</item>
-    <item>1920x1080/320, segur</item>
-    <item>3840x2160/320</item>
-    <item>3840x2160/320, segur</item>
-    <item>1920x1080/320 | 3840x2160/640</item>
-    <item>1920x1080/320 | 3840x2160/640, segur</item>
-    <item>1280x720/213; 1920x1080/320</item>
-  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (Gràfics)</item>
     <item>Trucades en glGetError</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_values">
-    <item>0</item>
-    <item>1</item>
-    <item>systrace</item>
-    <item>error</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagat</item>
@@ -675,11 +433,6 @@
     <item>Mostra les àrees sobreposades</item>
     <item>Mostra les àrees amb Deuteranomaly</item>
   </string-array>
-  <string-array name="debug_hw_overdraw_values">
-    <item>fals</item>
-    <item>mostra</item>
-    <item>show_deuteranomaly</item>
-  </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
     <item>Sense processos en segon pla</item>
@@ -687,30 +440,6 @@
     <item>Com a molt 2 processos</item>
     <item>Com a molt 3 processos</item>
     <item>Com a molt 4 processos</item>
-  </string-array>
-  <string-array name="app_process_limit_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </string-array>
-  <string-array name="vpn_types">
-    <item>PPTP</item>
-    <item>L2TP/IPSec PSK</item>
-    <item>L2TP/IPSec RSA</item>
-    <item>IPSec Xauth PSK</item>
-    <item>IPSec Xauth RSA</item>
-    <item>IPSec Hybrid RSA</item>
-  </string-array>
-  <string-array name="vpn_types_long">
-    <item>PPTP VPN</item>
-    <item>L2TP/IPSec VPN amb claus pre-compartides</item>
-    <item>L2TP/IPSec VPN amb certificats</item>
-    <item>IPSec VPN amb claus pre-compartides i autenticació Xauth</item>
-    <item>IPSec VPN amb certificats i autenticació Xauth</item>
-    <item>IPSec VPN amb certificats i autenticació híbrida</item>
   </string-array>
   <string-array name="vpn_states">
     <item>S\'ha desconnectat</item>
@@ -727,36 +456,12 @@
     <item>Ximpanzé</item>
     <item>Mono</item>
   </string-array>
-  <string-array name="user_content_ratings_values">
-    <item>5</item>
-    <item>4</item>
-    <item>3</item>
-    <item>2</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="security_settings_premium_sms_values">
-    <item>Preguntar</item>
-    <item>Mai permetre</item>
-    <item>Permet sempre</item>
-  </string-array>
   <string-array name="ram_states">
     <item>Normal</item>
     <item>Moderat</item>
     <item>Baix</item>
     <item>Crític</item>
     <item>\?</item>
-  </string-array>
-  <string-array name="daltonizer_type_values">
-    <item>12</item>
-    <item>11</item>
-    <item>13</item>
-  </string-array>
-  <string-array name="simulate_color_space_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>2</item>
-    <item>1</item>
-    <item>3</item>
   </string-array>
   <string-array name="proc_stats_memory_states">
     <item>Normal</item>
@@ -788,26 +493,9 @@
     <item>Rosa</item>
     <item>Vermell</item>
   </string-array>
-  <string-array name="usb_configuration_values">
-    <item>cap</item>
-    <item>mtp</item>
-    <item>ptp</item>
-    <item>rndis</item>
-    <item>audio_source</item>
-    <item>midi</item>
-  </string-array>
-  <string-array name="night_mode_values">
-    <item>1</item>
-    <item>2</item>
-    <item>0</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>Preferentment amb Wi-Fi</item>
     <item>Preferentment amb dades mòbils</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values">
-    <item>2</item>
-    <item>1</item>
   </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>Apagat</item>
@@ -815,41 +503,20 @@
     <item>Mitjà</item>
     <item>Fort</item>
   </string-array>
-  <string-array name="haptic_feedback_level_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="media_feedback_level_entries">
     <item>Fort</item>
     <item>Mitjà</item>
     <item>Suau</item>
-  </string-array>
-  <string-array name="media_feedback_level_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Gràfic</item>
     <item>Percentatge</item>
     <item>Barra superior</item>
   </string-array>
-  <string-array name="battery_indicator_style_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
   <string-array name="usb_connection_mode_entries">
     <item>Pregunta-ho quan es connecti</item>
     <item>Només càrrega</item>
     <item>Munta targeta SD</item>
-  </string-array>
-  <string-array name="usb_connection_mode_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="led_freq_entries">
     <item>2 segons</item>
@@ -860,33 +527,6 @@
     <item>7 segons</item>
     <item>8 segons</item>
     <item>9 segons</item>
-  </string-array>
-  <string-array name="led_freq_values">
-    <item>2000</item>
-    <item>3000</item>
-    <item>4000</item>
-    <item>5000</item>
-    <item>6000</item>
-    <item>7000</item>
-    <item>8000</item>
-    <item>9000</item>
-  </string-array>
-  <string-array name="led_color_values">
-    <item>blau</item>
-    <item>vermell</item>
-    <item>groc</item>
-    <item>verd</item>
-    <item>cyan</item>
-    <item>blanc</item>
-    <item>\#FFAA00AA</item>
-  </string-array>
-  <string-array name="mi1_led_color_values">
-    <item>blau</item>
-    <item>vermell</item>
-    <item>verd</item>
-    <item>\#FFFF0033</item>
-    <item>\#FF5500FF</item>
-    <item>\#FFAA00AA</item>
   </string-array>
   <string-array name="mi1_led_color_entries">
     <item>Blau</item>
@@ -928,10 +568,6 @@
     <item>Botó de Menú a l\'esquerra i botó Enrera a la dreta</item>
     <item>Botó de Menú a la dreta i botó Enrere a l\'esquerra</item>
   </string-array>
-  <string-array name="screen_key_position_action_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="screen_key_press_action">
     <item>Mostra la safata d\'aplicacions recents</item>
     <item>Mostra el menú</item>
@@ -951,21 +587,10 @@
     <item>1,5 segons</item>
     <item>2 segons</item>
   </string-array>
-  <string-array name="screen_key_long_press_timeout_value">
-    <item>500</item>
-    <item>1000</item>
-    <item>1500</item>
-    <item>2000</item>
-  </string-array>
   <string-array name="long_press_volume_down_action">
     <item>Cap</item>
     <item>Mode de captura ràpida (activa\'l a la càmera)</item>
     <item>Drecera a la targeta de transport públic</item>
-  </string-array>
-  <string-array name="long_press_volume_down_action_value">
-    <item>u</item>
-    <item>Mode de captura ràpida</item>
-    <item>public_transportation_shortcuts</item>
   </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 segon</item>
@@ -974,14 +599,6 @@
     <item>10 segons</item>
     <item>20 segons</item>
     <item>Sempre</item>
-  </string-array>
-  <string-array name="button_light_timeout_value">
-    <item>1000</item>
-    <item>2000</item>
-    <item>5000</item>
-    <item>10000</item>
-    <item>20000</item>
-    <item>-1</item>
   </string-array>
   <string-array name="wfd_status">
     <item>S\'està iniciant la sessió&#8230;</item>
@@ -1045,19 +662,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>"Incrementa el contrast de pantalla"</item>
     <item>El contrast romandrà constant</item>
   </string-array>
-  <string-array name="perms_hips_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="perm_hips_action">
     <item>Permet</item>
     <item>Pregunta</item>
     <item>Denega</item>
-  </string-array>
-  <string-array name="startup_hips_values">
-    <item>2</item>
-    <item>0</item>
   </string-array>
   <string-array name="startup_hips_action">
     <item>Permet</item>
@@ -1067,17 +675,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>sRGB</item>
     <item>Nadiu</item>
   </string-array>
-  <string-array name="values_color_calibration">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="phone_call_noise_suppression_title">
     <item>Un sol micròfon per a supressió de fressa</item>
     <item>Doble micròfon per a supressió de fressa</item>
-  </string-array>
-  <string-array name="phone_call_noise_suppression_values">
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>Desbloqueig facial</item>
@@ -1094,19 +694,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Connecta automàticament</item>
     <item>Connecta\'t manualment</item>
   </string-array>
-  <string-array name="wifi_connect_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="wifi_ssid_type_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="nfc_se_route_values">
-    <item>1</item>
-    <item>0</item>
-  </string-array>
   <string-array name="preferred_app_entries">
     <item>Inicialitzador</item>
     <item>Marca</item>
@@ -1118,53 +705,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Adreça electrònica</item>
     <item>Vídeo</item>
   </string-array>
-  <string-array name="permission_risk_privacy">
-    <item>android.permission.ACCESS_COARSE_LOCATION</item>
-    <item>android.permission.ACCESS_FINE_LOCATION</item>
-    <item>android.permission.DUMP</item>
-    <item>android.permission.GET_TASKS</item>
-    <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
-    <item>android.permission.READ_CALENDAR</item>
-    <item>android.permission.READ_CONTACTS</item>
-    <item>android.permission.READ_PHONE_STATE</item>
-    <item>android.permission.READ_SMS</item>
-    <item>android.permission.READ_SOCIAL_STREAM</item>
-    <item>android.permission.RECEIVE_MMS</item>
-    <item>android.permission.RECEIVE_SMS</item>
-    <item>android.permission.RECEIVE_WAP_PUSH</item>
-    <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
-  </string-array>
-  <string-array name="permission_risk_security">
-    <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
-    <item>android.permission.ACCESS_MOCK_LOCATION</item>
-    <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
-    <item>android.permission.BROADCAST_SMS</item>
-    <item>android.permission.BROADCAST_STICKY</item>
-    <item>android.permission.BROADCAST_WAP_PUSH</item>
-    <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
-    <item>android.permission.DELETE_PACKAGES</item>
-    <item>android.permission.INJECT_EVENTS</item>
-    <item>android.permission.INSTALL_PACKAGES</item>
-    <item>android.permission.INTERNET</item>
-    <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
-    <item>android.permission.MODIFY_PHONE_STATE</item>
-    <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
-    <item>android.permission.PROCESS_OUTGOING_CALLS</item>
-    <item>android.permission.REMOVE_TASKS</item>
-    <item>android.permission.REORDER_TASKS</item>
-    <item>android.permission.SET_ACTIVITY_WATCHER</item>
-    <item>android.permission.SET_DEBUG_APP</item>
-    <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
-    <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
-    <item>android.permission.SYSTEM_ALERT_WINDOW</item>
-    <item>android.permission.WRITE_APN_SETTINGS</item>
-    <item>android.permission.WRITE_CALENDAR</item>
-    <item>android.permission.WRITE_CONTACTS</item>
-    <item>android.permission.WRITE_SETTINGS</item>
-    <item>android.permission.WRITE_SMS</item>
-    <item>android.permission.WRITE_SOCIAL_STREAM</item>
-    <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
-  </string-array>
   <string-array name="network_speed_slow_summary">
     <item>La xarxa va lenta perquè hi ha molt trànsit</item>
     <item>La xarxa va lenta perquè la intensitat del senyal és feble</item>
@@ -1174,10 +714,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Emmagatzematge intern</item>
     <item>Emmagatzematge extern</item>
   </string-array>
-  <string-array name="priority_storage_value">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="tts_rate_xunfei_entries">
     <item>Molt lenta</item>
     <item>Lenta</item>
@@ -1185,75 +721,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Ràpida</item>
     <item>Més ràpida</item>
   </string-array>
-  <string-array name="tts_rate_xunfei_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-  </string-array>
   <string-array name="whetstone_level_entries">
     <item>Apagat</item>
     <item>Baixa</item>
     <item>Al mig</item>
     <item>Alt</item>
   </string-array>
-  <string-array name="whetstone_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
-  <string-array name="agps_network_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="agps_network_entries">
     <item>Xarxa domèstica</item>
     <item>Totes les xarxes</item>
-  </string-array>
-  <string-array name="agps_si_mode_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="agps_si_mode_entries">
-    <item>MSB</item>
-    <item>MSA</item>
-  </string-array>
-  <string-array name="agps_apn_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
-  <string-array name="agps_apn_entries">
-    <item>CMWAP</item>
-    <item>CMNET</item>
-  </string-array>
-  <string-array name="agps_reset_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="agps_reset_type_entries">
-    <item>CALENT</item>
-    <item>TEMPERAT</item>
-    <item>FRED</item>
   </string-array>
   <string-array name="handy_mode_size_text_entries">
     <item>4,5 polzades</item>
     <item>4,0 polzades</item>
     <item>3,5 polzades</item>
-  </string-array>
-  <string-array name="handy_mode_size_value_entries">
-    <item>4,5</item>
-    <item>4,0</item>
-    <item>3,5</item>
-  </string-array>
-  <string-array name="lock_screen_secure_after_timeout_values">
-    <item>0</item>
-    <item>30000</item>
-    <item>60000</item>
-    <item>300000</item>
-    <item>300000</item>
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>Immediatament</item>
@@ -1278,10 +759,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Molt alta (2K)</item>
     <item>Normal (720p)</item>
   </string-array>
-  <string-array name="screen_resolution_values">
-    <item>1440</item>
-    <item>720</item>
-  </string-array>
   <string-array name="miui_entries_font_size">
     <item>S</item>
     <item>M</item>
@@ -1289,191 +766,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>XL</item>
     <item>XXL</item>
     <item>XXXL</item>
-  </string-array>
-  <string-array name="organized_locales">
-    <item>dz</item>
-    <item>ao</item>
-    <item>ag</item>
-    <item>ar</item>
-    <item>bs</item>
-    <item>bh</item>
-    <item>bd</item>
-    <item>bb</item>
-    <item>be</item>
-    <item>bz</item>
-    <item>bo</item>
-    <item>bw</item>
-    <item>bg</item>
-    <item>br</item>
-    <item>cm</item>
-    <item>cl</item>
-    <item>co</item>
-    <item>cd</item>
-    <item>cr</item>
-    <item>ci</item>
-    <item>hr</item>
-    <item>cu</item>
-    <item>cz</item>
-    <item>dm</item>
-    <item>do</item>
-    <item>ec</item>
-    <item>eg</item>
-    <item>sv</item>
-    <item>gq</item>
-    <item>et</item>
-    <item>fk</item>
-    <item>fr</item>
-    <item>gf</item>
-    <item>de</item>
-    <item>gh</item>
-    <item>gr</item>
-    <item>gd</item>
-    <item>gt</item>
-    <item>gy</item>
-    <item>ht</item>
-    <item>hn</item>
-    <item>hk</item>
-    <item>hu</item>
-    <item>in</item>
-    <item>id</item>
-    <item>ir</item>
-    <item>iq</item>
-    <item>il</item>
-    <item>it</item>
-    <item>jm</item>
-    <item>jo</item>
-    <item>kz</item>
-    <item>ke</item>
-    <item>kw</item>
-    <item>lb</item>
-    <item>ls</item>
-    <item>ly</item>
-    <item>lt</item>
-    <item>mw</item>
-    <item>my</item>
-    <item>mr</item>
-    <item>mu</item>
-    <item>mx</item>
-    <item>ma</item>
-    <item>mz</item>
-    <item>mm</item>
-    <item>na</item>
-    <item>np</item>
-    <item>ni</item>
-    <item>ng</item>
-    <item>kp</item>
-    <item>om</item>
-    <item>pk</item>
-    <item>ps</item>
-    <item>pa</item>
-    <item>py</item>
-    <item>pe</item>
-    <item>ph</item>
-    <item>pl</item>
-    <item>qa</item>
-    <item>ro</item>
-    <item>ru</item>
-    <item>rw</item>
-    <item>sa</item>
-    <item>sn</item>
-    <item>rs</item>
-    <item>sg</item>
-    <item>sk</item>
-    <item>so</item>
-    <item>za</item>
-    <item>gs</item>
-    <item>kr</item>
-    <item>es</item>
-    <item>lk</item>
-    <item>kn</item>
-    <item>lc</item>
-    <item>vc</item>
-    <item>sd</item>
-    <item>sr</item>
-    <item>sz</item>
-    <item>ch</item>
-    <item>sy</item>
-    <item>tw</item>
-    <item>tz</item>
-    <item>th</item>
-    <item>tn</item>
-    <item>tr</item>
-    <item>tm</item>
-    <item>tt</item>
-    <item>ug</item>
-    <item>ua</item>
-    <item>ae</item>
-    <item>us</item>
-    <item>uy</item>
-    <item>uz</item>
-    <item>ve</item>
-    <item>vn</item>
-    <item>ye</item>
-    <item>zm</item>
-    <item>zw</item>
-  </string-array>
-  <string-array name="broadcast_locales">
-    <item>AE</item>
-    <item>AG</item>
-    <item>AR</item>
-    <item>BH</item>
-    <item>BO</item>
-    <item>BS</item>
-    <item>BB</item>
-    <item>BZ</item>
-    <item>BR</item>
-    <item>CL</item>
-    <item>CO</item>
-    <item>CR</item>
-    <item>CU</item>
-    <item>EC</item>
-    <item>EG</item>
-    <item>GF</item>
-    <item>GD</item>
-    <item>GQ</item>
-    <item>GT</item>
-    <item>GY</item>
-    <item>HT</item>
-    <item>HN</item>
-    <item>IN</item>
-    <item>IL</item>
-    <item>IR</item>
-    <item>JM</item>
-    <item>JO</item>
-    <item>KW</item>
-    <item>MX</item>
-    <item>NI</item>
-    <item>OM</item>
-    <item>PA</item>
-    <item>PY</item>
-    <item>PE</item>
-    <item>QA</item>
-    <item>SA</item>
-    <item>SR</item>
-    <item>KN</item>
-    <item>LC</item>
-    <item>VC</item>
-    <item>TW</item>
-    <item>TT</item>
-    <item>UY</item>
-    <item>VE</item>
-  </string-array>
-  <string-array name="ncc_locales">
-    <item>TW</item>
-  </string-array>
-  <string-array name="common_password_business_keys">
-    <item>miui_keyguard</item>
-    <item>modeinfants</item>
-    <item>file_explorer</item>
-    <item>com_miui_applicatinlock_use_fingerprint_state</item>
-    <item>security_core_add</item>
-  </string-array>
-  <string-array name="common_password_business_clickable_default">
-    <item>cert</item>
-    <item>cert</item>
-    <item>fals</item>
-    <item>cert</item>
-    <item>fals</item>
   </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
@@ -1487,12 +779,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>20 seg</item>
     <item>30 seg</item>
     <item>1 min</item>
-  </string-array>
-  <string-array name="anr_record_interval_values">
-    <item>10</item>
-    <item>20</item>
-    <item>30</item>
-    <item>60</item>
   </string-array>
   <string-array name="screen_button_style">
     <item>Per a esquerrans</item>
