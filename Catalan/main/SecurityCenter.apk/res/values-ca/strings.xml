@@ -1168,8 +1168,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">A punt</string>
 
-1. El dispositiu es connectarà a la xarxa de l'operador, enviar un missatge gratis, i esperara la resposta de la companyia. Això pot trigar fins a 5 minuts.
-2. Es pot sortir d'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Premi per ajustar la ubicació</string>
   <string name="tc_diagnostic_location_error_notification_title">Ubicació incorrecta</string>
   <string name="tc_diagnostic_notification_sumarry">Premi per veure els resultats</string>
