@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="bookmarks_cu_customization">
         <item>沃门户</item>
@@ -44,21 +44,8 @@
         <item>Només amb Wi-Fi</item>
         <item>Sempre</item>
      </string-array>
-     <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
-     </string-array>
-     <string-array name="pref_default_zoom_choices">
-        <item>Petit</item>
-        <item>Mitjà</item>
-        <item>Gran</item>
-     </string-array>
+
+
      <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Escriptori</item>
@@ -126,9 +113,5 @@
         <item>Pàgina anterior/Pàgina següent</item>
         <item>Pestanya anterior/Pestanya següent</item>
      </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
+
 </resources>

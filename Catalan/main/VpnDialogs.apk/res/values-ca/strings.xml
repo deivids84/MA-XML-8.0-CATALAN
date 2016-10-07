@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">Confio en aquesta aplicació.</string>
   <string name="configure">Configurar</string>
   <string name="data_received">Rebut:</string>
   <string name="data_transmitted">Enviat:</string>
-  <string name="data_value_format">%1$s bytes / %2$s paquets</string>
+
   <string name="disconnect">Desconnectar</string>
   <string name="duration">Durada:</string>
   <string name="legacy_title">VPN connectada</string>

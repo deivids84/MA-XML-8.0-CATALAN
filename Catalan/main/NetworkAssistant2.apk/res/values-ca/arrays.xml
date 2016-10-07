@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="date_of_app">
@@ -28,11 +28,7 @@
         <item>"Ús mòbil "</item>
         <item>"Ús Wi-Fi "</item>
      </string-array>
-     <string-array name="min_limit_pkg_default">
-        <item>1 MB</item>
-        <item>2 MB</item>
-        <item>3 MB</item>
-     </string-array>
+
      <string-array name="network_speed_update_internals">
         <item>3 segs</item>
         <item>4 segs</item>

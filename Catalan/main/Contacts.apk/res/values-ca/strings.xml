@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Detalls de registre de trucada</string>
   <string name="account_container_title">Importat de</string>
@@ -981,7 +981,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_account_login_before_action">Inicie sesión en su cuenta de Mi ahora</string>
   <string name="resource_account_login_title">Iniciar sesión</string>
   <string name="resource_account_switch">Cambiar</string>
-  <string name="resource_alarm_default">Alarma</string>
+
   <string name="resource_app_name">Explorador de recursos</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_apply_trial">Probar ahora</string>
@@ -1002,7 +1002,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_comment_date">%1$02d:%2$02d</string>
   <string name="resource_comment_edit_comment">Añadir comentarios</string>
   <string name="resource_comment_edit_comment_waiting">Revisar historial de usuario…</string>
-  <string name="resource_comment_edit_text_default">Escribir un comentario</string>
+
   <string name="resource_comment_edit_title">Editar Comentario: %1$s</string>
   <string name="resource_comment_entry_tips">Ver comentarios</string>
   <string name="resource_comment_expand_full_text">Expandir todo el texto</string>
@@ -1010,7 +1010,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_comment_good_comments">Positivo</string>
   <string name="resource_comment_invalid">Toque las estrellas para valorar el tema</string>
   <string name="resource_comment_loading_list">Cargando…</string>
-  <string name="resource_comment_name_default">Usuario %1$s</string>
+
   <string name="resource_comment_no_average_score">N/D</string>
   <string name="resource_comment_no_comment">No hay comentarios</string>
   <string name="resource_comment_publish">Confirmar</string>
@@ -1025,8 +1025,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_comment_upload_not_bought">Es necesario aplicar el tema antes de que se puedan escribir comentarios sobre el</string>
   <string name="resource_comment_upload_not_logined">Tienes que iniciar sesión primero</string>
   <string name="resource_comment_upload_success">Tu comentario se mostrará después de una breve revisión.</string>
-  <string name="resource_default">Tono de llamada por defecto</string>
-  <string name="resource_default_name">Recurso</string>
+
+
   <string name="resource_delete">Eliminar</string>
   <string name="resource_delete_all">¿Eliminar fuentes %1$d seleccionadas?</string>
   <string name="resource_delete_confirm">¿Borrar estas fuentes?</string>
@@ -1088,7 +1088,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_no_match_app">No se ha encontrado aplicación para realizar esta acción.</string>
   <string name="resource_no_network_text">No se puede conectar a la red.</string>
   <string name="resource_no_result">No se ha podido encontrar nada</string>
-  <string name="resource_notification_default">Notificaciones</string>
+
   <string name="resource_on_trial">Tratando: %1$s</string>
   <string name="resource_online">En linea%1$s</string>
   <string name="resource_pack_confirm">Aunque ya has comprado %1$d componentes de este tema, es todavía más barato si compras el paquete completo.</string>
@@ -1106,7 +1106,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Gratis</string>
   <string name="resource_ranking_purchase">Pago</string>
-  <string name="resource_ringtone_default">Tonos de llamada</string>
+
   <string name="resource_ringtone_playing_error">Error al ejecutar</string>
   <string name="resource_ringtone_volume_mute">El timbre está silenciado</string>
   <string name="resource_save_to_note">Guardar en las notas</string>

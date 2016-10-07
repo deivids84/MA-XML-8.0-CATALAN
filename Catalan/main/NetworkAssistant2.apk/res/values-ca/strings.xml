@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_miservice_dialog_content">"%s us requereix perquè afegiu l\'estructura de serveis MIUI a la llista d\'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
@@ -151,7 +151,7 @@ Per a més informació miri el missatge que haurà rebut del vostre proveïdor d
   <string name="lock_screen_warning_category">Notificacions en pantalla de bloqueig</string>
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
-  <string name="lock_screen_warning_value">Quantitat d\'advertència d\'ús de dades</string>
+
   <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
@@ -249,7 +249,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="permit_running_network">Dades en segon pla</string>
   <string name="person_hotpot">Punt d\'accés mòbil</string>
   <string name="pkg_traffic">Establir límit d\'ús de dades</string>
-  <string name="power_save_on_time_default_time">00:00</string>
+
   <string name="power_save_on_time_end_time_summary">Fins</string>
   <string name="power_save_on_time_start_time_summary">Des de</string>
   <string name="pref_about">Quant a</string>
@@ -328,7 +328,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="pref_traffic_saving_whitelist">Excepcions</string>
   <string name="pref_traffic_saving_whitelist_hint">Aixecar restriccions de dades per a les aplicacions seleccionades</string>
   <string name="pref_version">Versió %s</string>
-  <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
+
   <string name="pref_whitelist_setting">Administrar llista de permeses</string>
   <string name="privacy_declare_dialog_message">En utilitzar aquest servei, accepta els &lt;a href=%s&gt; Termes de Servei&lt;/a&gt; d\'Opera.</string>
   <string name="privacy_declare_dialog_title">Termes de Servei</string>
@@ -337,8 +337,8 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="privacy_prompt_traffic_purchase_message">"El seu número de telèfon i detalls de l\'operador s\'han d\'encriptar i pujaran als servidors de Xiaomi per obtenir més informació sobre les opcions de compra de dades."</string>
   <string name="privacy_prompt_upload">Pujar</string>
   <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
-  <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
-  <string name="reach_daily_limit_value_title">Ha arribat al límit diari de dades</string>
+
+
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="repair">Reparar</string>
@@ -373,7 +373,7 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
   <string name="tc_sms_report_do_report">Enviar</string>
-  <string name="tc_sms_report_get_default">"No incorrerà en càrrecs per missatges SMS que s\'utilitzen per obtenir el saldo d\'utilització de les dades del seu operador."</string>
+
   <string name="tc_sms_report_get_sms">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms_again">Refrescar SMS</string>
@@ -462,9 +462,9 @@ La comptabilitat del seu operador mostra que Vè. ha fet servir %1$s de les seve
   <string name="traffic_saving_history_total_money">Total estalviat</string>
   <string name="traffic_saving_history_total_money_unit">€</string>
   <string name="traffic_saving_history_total_month">"Estalviat aquest mes: "</string>
-  <string name="traffic_saving_history_total_month_default">Estalvi mitg per mes </string>
-  <string name="traffic_saving_history_total_month_value">"Escoltar &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; cançons / Xatejar durant &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hores / Llegir &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Escoltar &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; cançons / Xatejar durant &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hores / Llegir &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+
+
+
   <string name="traffic_saving_history_total_rate">Percentatge</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Estalvi de dades</string>

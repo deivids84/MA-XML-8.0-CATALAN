@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Resultat</string>
   <string name="accessibility_settings_activity_title">Accessibilitat</string>
@@ -355,7 +355,7 @@
   <string name="dial_emergency_error">Trucada no enviada. ¡%s no és un número d\'emergència!</string>
   <string name="dial_related_setting_catory">Marcar</string>
   <string name="dialerKeyboardHintText">Utilitza el teclat per marcar</string>
-  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
+
   <string name="dialog_activate_livetalk">Activa paquet autorrecàrrega</string>
   <string name="dialog_call_ordinary_telephone">Utilitza SIM</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
@@ -702,7 +702,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="msim_not_set_summary">Sense ajustos</string>
   <string name="msim_pref_title_data">Dades</string>
   <string name="msim_pref_title_voice">Veu</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
+
   <string name="msim_set_icc_card_error">Error de targeta ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Durant una trucada, no es pot establir</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM, prova-ho més tard</string>
@@ -758,7 +758,7 @@ Canviar al nou proveïdor de totes maneres?"</string>
   <string name="no_vt_allowed">Per fer una trucada de vídeo, encendre el mode TTY</string>
   <string name="no_wifi_available">Necessites estar connectat a una xarxa Wi-Fi per fer trucades per internet (usar els paràmetres de la xarxa Wi-Fi).</string>
   <string name="no_wifi_available_title">No hi ha connexió Wi-Fi</string>
-  <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
+
   <string name="not_activate_sim_card_content">El paquet de recàrrega no ha estat activat per a la targeta SIM seleccionada. Prova a fer servir la teva SIM normal per fer aquesta trucada. El teu proveïdor et cobrarà per aquesta trucada.</string>
   <string name="not_allowed">"La teva targeta SIM no permet una connexió a aquesta xarxa."</string>
   <string name="not_sufficient_funds_content">No tens prou saldo al teu compte. Prova a fer servir la teva SIM normal per fer aquesta trucada. El teu proveïdor et cobrarà per aquesta trucada.</string>
@@ -859,7 +859,7 @@ El telèfon es bloquejarà automàticament després d\'un altre intent fallit"</
   <string name="please_choose_the_refueling_package">Triar paquet de recàrrega</string>
   <string name="pocket_mode_summary">El telèfon es bloquejarà automàticament quan el guardi a la butxaca</string>
   <string name="pocket_mode_title">Prevenir marcacions a la butxaca</string>
-  <string name="port_title">Número de port</string>
+
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
   <string name="preference_category_ringtone">To de trucada Vibrar</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
@@ -1132,7 +1132,7 @@ La seva targeta SIM serà esborrada després d\'un altre intent fallit."</string
   <string name="title_purchase">Recarregar paquet</string>
   <string name="title_rates">Tarifes</string>
   <string name="title_user_config">Activa targeta SIM</string>
-  <string name="transport_title">Tipus de transport</string>
+
   <string name="tty_mode_entries_full">TTY totes</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY apagat</string>

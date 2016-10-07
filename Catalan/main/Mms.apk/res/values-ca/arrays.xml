@@ -1,28 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_names">
-        <item>Feliç</item>
-        <item>Trist</item>
-        <item>Gest</item>
-        <item>Llengua penjant</item>
-        <item>Sorprès</item>
-        <item>Petó</item>
-        <item>Xisclant</item>
-        <item>Ulleres</item>
-        <item>Avergonyit</item>
-        <item>Enfadat</item>
-        <item>Sorrut</item>
-        <item>Ángel</item>
-        <item>Indecís</item>
-        <item>Plorant</item>
-        <item>Els meus llavis estan segellats</item>
-        <item>Rient</item>
-        <item>Sorprès</item>
-        <item>Cor</item>
-        <item>Boig</item>
-        <item>Escèptic</item>
-        <item>Cara de pòquer</item>
-    </string-array>
+
     <string-array name="prefEntries_ringtone_repeat">
         <item>1x</item>
         <item>2x</item>

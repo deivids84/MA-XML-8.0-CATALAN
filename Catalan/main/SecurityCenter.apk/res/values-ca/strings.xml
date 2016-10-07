@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="Setting_lock">Configuració</string>
@@ -805,7 +805,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_save_mode_ontime_enabled">Programar temps per canviar entre modes</string>
   <string name="power_save_mode_start_time">Començar</string>
   <string name="power_save_mode_summary" formatted="false">"Supervisar els processos de fons, desactivar la sincronització i amagar les animacions del sistema. L'estalvi de bateria s'apaga automàticament quan la càrrega de la bateria és del 60% o 100%."</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
+
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
   <string name="power_save_summary_text">"Activar l'estalvi de bateria per reduir l'activitat de fons de les apps, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
@@ -914,7 +914,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-  <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
+
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -1167,7 +1167,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tc_diagnostic_brand_error_notification_title">Tipus de xarxa incorrecte</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">A punt</string>
-  <string name="tc_diagnostic_fragment_default">"Sobre diagnòstic
+
 1. El dispositiu es connectarà a la xarxa de l'operador, enviar un missatge gratis, i esperara la resposta de la companyia. Això pot trigar fins a 5 minuts.
 2. Es pot sortir d'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Premi per ajustar la ubicació</string>

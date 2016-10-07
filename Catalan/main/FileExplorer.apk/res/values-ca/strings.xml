@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Movent les dades de l\'usuari… Això pot trigar uns minuts.</string>
   <string name="account_login_title">Compte</string>
@@ -62,7 +62,7 @@
   <string name="category_all">Tot</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
-  <string name="category_default_number_text">(0)</string>
+
   <string name="category_document">Documents</string>
   <string name="category_download">Descàrregues</string>
   <string name="category_favorite">Favorits</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"No s\'ha pogut accedir a l\'emmagatzematge USB."</string>
   <string name="accessibility_audio_shutter_bg">Disparador d\'àudio de fons</string>
@@ -264,9 +264,9 @@
   <string name="pref_camera_snap_entry_take_movie">Quan la pantalla està apagada, premi i mantingui el botó de baixar el volum per iniciar la gravació de vídeo. Deixeu anar per aturar.</string>
   <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premi i mantingui el botó baixar el volum per començar la ràfega de fotos. Deixeu anar per aturar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode Quick snap mentre \"Activa amb els botons de volum\" estigui actiu."</string>
-  <string name="pref_camera_snap_value_off">Off</string>
-  <string name="pref_camera_snap_value_take_movie">Movie</string>
-  <string name="pref_camera_snap_value_take_picture">Picture</string>
+
+
+
   <string name="pref_camera_sound_title">Sons de càmera</string>
   <string name="pref_camera_tilt_shift_title">Efecte diorama</string>
   <string name="pref_camera_touchafaec_entry_off">Apagat</string>

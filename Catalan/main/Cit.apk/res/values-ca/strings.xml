@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="cit_OTG_plugin_check_summary">Quan es connecta el dispositiu OTG, ha de mostrar el text \"Dispositiu USB OTG detectat\" més avall.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecció)</string>
@@ -17,10 +17,10 @@
   <string name="cit_audio_cali_playing">Prem el botó per calibrar</string>
   <string name="cit_audio_cali_summary">Calibrar altaveu PA</string>
   <string name="cit_audio_cali_title">Prova de calibratge de l\'altaveu PA</string>
-  <string name="cit_audio_cali_valueC">Comptador:</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Impedància:</string>
-  <string name="cit_audio_cali_valueT">tCoef:</string>
+
+
+
+
   <string name="cit_audio_calibrating">Calibració en curs...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prova de retroalimentació del micròfon posterior</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Prova de retroalimentació del micròfon principal</string>

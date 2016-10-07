@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_id_not_login">Toqui per iniciar sessió</string>
   <string name="account_info">Compte Mi</string>
@@ -351,7 +351,7 @@
   <string name="theme_precast_create_notification_title"> Actualitzats a MIUI 7</string>
   <string name="theme_precast_update_notification_content">Toca per explorar les actualitzacions.</string>
   <string name="theme_precast_update_notification_title">Temes de MIUI 7 actualitzats</string>
-  <string name="theme_provision_default_theme_title">Defecte</string>
+
   <string name="theme_provision_loading_tips">Un moment…</string>
   <string name="theme_provision_oper_button_next">Següent</string>
   <string name="theme_provision_title">Tria un tema</string>
@@ -375,7 +375,7 @@
   <string name="title_component">Personalitzar tema</string>
   <string name="title_system_resource">Descarregats</string>
   <string name="to_activate_the_account">Activa el seu compte Mi ara</string>
-  <string name="vip_level_value">LV%d</string>
+
   <string name="wallpaper_crop">Retallar</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_loading_text">Un moment…</string>

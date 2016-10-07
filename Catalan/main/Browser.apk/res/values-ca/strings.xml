@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">"Pàgina d'inici"</string>
   <string name="abc_action_bar_up_description">A dalt</string>
@@ -149,7 +149,7 @@
   <string name="color_picker_dialog_title">Seleccionar el color</string>
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturació</string>
-  <string name="color_picker_value">Valor</string>
+
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_menu">Comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
@@ -326,7 +326,7 @@ Esteu segur de voler sortir d\'aquesta pàgina?"</string>
   <string name="js_dialog_before_unload_positive_button">Abandonar aquesta Pàgina</string>
   <string name="js_dialog_before_unload_title">Confirmar Navegació</string>
   <string name="js_dialog_title">La pàgina a \"%s\" diu:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
+
   <string name="js_disable_confirm_message">Desactivar JavaScript pot causar que alguns llocs web es visualitzin incorrectament.</string>
   <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
   <string name="keep_queued_download">Mantenir</string>

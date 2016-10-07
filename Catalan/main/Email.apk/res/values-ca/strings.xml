@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMTP_independent_verification_text">Verificació independent SMTP</string>
   <string name="SMTP_password_text">Contrasenya</string>
@@ -815,7 +815,7 @@
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
   <string name="set_network">Definir xarxa</string>
-  <string name="setting_default_lable"/>
+
   <string name="settings_activity_title">Configuració</string>
   <string name="share_choose">Triar fitxer a compartir</string>
   <string name="sharing">Compartir</string>

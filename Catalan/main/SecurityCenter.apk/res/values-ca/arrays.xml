@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="auto_memory_clean">
         <item>En 1 minut</item>
@@ -115,11 +115,7 @@
         <item>Vibra quan estigui en silenci</item>
         <item>Vibra sempre</item>
     </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
+
     <string-array name="alarm_repeat_type">
         <item>Un cop</item>
         <item>Tots els dies</item>
@@ -133,17 +129,6 @@
         <item>Entre setmana</item>
         <item>Personalitzar</item>
     </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
+
+
 </resources>
