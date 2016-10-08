@@ -76,9 +76,6 @@
   <string name="activate_status_desc_acquire_phone_number">S\'està obtenint el número de telèfon&#8230;</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">S\'ha produït un error al servidor en adquirir el número de telèfon</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"No s'ha pogut recuperar el número de telèfon"</string>
-  <string name="activate_status_desc_acquire_phone_number">S\'està obtenint el número de telèfon&#8230;</string>
-  <string name="activate_status_desc_acquire_phone_number_server_error">S\'ha produït un error al servidor en adquirir el número de telèfon</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info">"No s'ha pogut recuperar el número de telèfon"</string>
   <string name="activate_status_desc_checking_xiaomi_account">S\'està verificant el Compte Mi&#8230;</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">S\'ha produït un error al servidor en verificar el Compte Mi</string>
   <string name="activate_status_desc_completed_with_sms_sent">S\'ha enviat 1 SMS per activar la SIM</string>
