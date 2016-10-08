@@ -8,14 +8,14 @@
   <string name="button_queue_for_wifi">Cua</string>
   <string name="button_start_now">Inicia ara</string>
   <string name="button_wait_for_wifi">Espera</string>
-  <string name="dialog_insufficient_space_on_cache">No hi ha prou espai en l\'emmagatzematge intern de descàrrega</string>
+  <string name="dialog_insufficient_space_on_cache">No hi ha prou espai en l\'emmagatzematge intern de baixada</string>
   <string name="dialog_insufficient_space_on_external">No hi ha prou espai en l\'emmagatzematge extern</string>
   <string name="dialog_not_show_again">"No ho mostris més"</string>
   <string name="download_apk_desktop_installing">S\'està instal·lant</string>
   <string name="download_apk_desktop_pause">Aturat</string>
   <string name="download_apk_desktop_pending">Pendent</string>
   <string name="download_apk_desktop_running">S\'està descarregant</string>
-  <string name="download_error">Incorrecte</string>
+  <string name="download_error">Error</string>
   <string name="download_no_application_title">"No es pot obrir l'arxiu"</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">En cua</string>
@@ -23,7 +23,7 @@
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_unknown_title">&lt;Sense títol&gt;</string>
-  <string name="enter_garbage_clean">Netejar emmagatzematge intern.</string>
+  <string name="enter_garbage_clean">Neteja l\'emmagatzematge intern.</string>
   <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del dispositiu"</string>
   <string name="mobile_recommended_title">Ús de dades mòbils</string>
   <string name="notif_text_engine_off">Accelerador Xunlei desactivat.</string>
@@ -36,10 +36,13 @@
   <string name="notification_download_failed_more">"No s'ha pogut descarregar %1$d elements"</string>
   <string name="notification_download_success_more">%1$d baixats</string>
   <string name="notification_need_wifi_for_size">La mida de la baixada requereix Wi-Fi.</string>
-  <string name="notification_paused_in_background">Posada en pausa de fons.</string>
+  <string name="notification_paused_in_background">Aturat en segon pla.</string>
   <string name="notify_disabled_net_by_app">Connexió a internet restringida per l\'aplicació Seguretat</string>
+  <string name="notify_install_guide_forward_text">Obre</string>
+  <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
+  <string name="notify_install_guide_title">%s s\'ha instal·lat amb èxit</string>
   <string name="notify_only_wifi_download">A l\'espera de Wi-Fi</string>
-  <string name="paused_waiting_for_network">Esperant una connexió</string>
+  <string name="paused_waiting_for_network">A l\'espera d\'una connexió de xarxa</string>
   <string name="permdesc_accessAllDownloads">Permet que l\'aplicació consulti i modifiqui totes les baixades iniciades per una aplicació al sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permet que l'aplicació baixi fitxers a la memòria cau de baixada que no es poden suprimir automàticament quan el gestor de baixades necessita més espai."</string>
   <string name="permdesc_downloadCompletedIntent">Permet que l\'aplicació enviï notificacions sobre les baixades completades. Les aplicacions malicioses poden fer-ho servir per confondre altres aplicacions que baixen fitxers.</string>
@@ -50,7 +53,7 @@
   <string name="permlab_accessAllDownloads">Accedeix a totes les baixades del sistema</string>
   <string name="permlab_downloadCacheNonPurgeable">Reserva espai a la memòria cau de baixada</string>
   <string name="permlab_downloadCompletedIntent">Envia notificacions de baixades.</string>
-  <string name="permlab_downloadManager">Accediu al gestor de baixades.</string>
+  <string name="permlab_downloadManager">Accedeix al gestor de baixades.</string>
   <string name="permlab_downloadManagerAdvanced">Funcions avançades del gestor de baixades.</string>
   <string name="permlab_downloadWithoutNotification">baixa fitxers sense notificació</string>
   <string name="permlab_seeAllExternal">Mostra totes les baixades a l\'emmagatzematge USB</string>
@@ -77,7 +80,7 @@
 Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>
   <string name="wifi_required_title">Baixada massa gran per a la xarxa de l\'operador</string>
   <string name="xl_speedup_experience_notify_context">"La velocitat augmentarà a cada baixada quan sigueu un membre de Xunlei"</string>
-  <string name="xl_speedup_experience_notify_title">Subscripció a Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">Subscripció Xunlei</string>
   <string name="xl_speedup_notify_button_experience">Proveu-lo gratuïtament</string>
   <string name="xl_speedup_notify_button_member">Convertiu-vos en membre</string>
 </resources>

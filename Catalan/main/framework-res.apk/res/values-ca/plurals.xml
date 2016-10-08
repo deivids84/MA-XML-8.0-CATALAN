@@ -31,7 +31,7 @@
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d de %2$d</item>
-    <item quantity="one">Una coincidència</item>
+    <item quantity="one">1 coincidència</item>
   </plurals>
   <plurals name="restr_pin_countdown">
     <item quantity="other">Torneu-ho a provar en %d segons</item>

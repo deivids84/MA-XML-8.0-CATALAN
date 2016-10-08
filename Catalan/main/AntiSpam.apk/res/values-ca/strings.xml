@@ -123,6 +123,7 @@
   <string name="dlg_white_antispam_hint">Excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
   <string name="email">Correu</string>
+  <string name="empty_activity_title">" "</string>
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
@@ -163,7 +164,7 @@
   <string name="mark_number_sell">Telemàrqueting</string>
   <string name="mark_number_setting_guide_content1">Bloqueja les trucades dels números informats?</string>
   <string name="mark_number_setting_guide_content2">Bloqueja automàticament trucades dels número informats per altres usuaris</string>
-  <string name="mark_number_setting_guide_content3">Vostè ha reportat un número com %1$s. Voleu bloquejar les trucades dels números informats com %2$s?</string>
+  <string name="mark_number_setting_guide_content3">Heu reportat un número com %1$s. Voleu bloquejar les trucades dels números informats com %2$s?</string>
   <string name="mark_number_setting_guide_forward">Configuració de la llista de bloqueig</string>
   <string name="mark_number_setting_guide_title">Bloqueja els números reportats</string>
   <string name="mark_sell">Bloqueja els telemàrquetings reportats</string>
@@ -296,10 +297,14 @@
   <string name="st_show_block_notification">Mostra la notificació bloquejada</string>
   <string name="st_show_num_keyword">" paraules clau"</string>
   <string name="st_show_num_number">" números"</string>
-  <string name="st_sms_group">Missatges </string>
+  <string name="st_sms_group">Missatges</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
   <string name="st_sum_call_wait">El missatge d\'absent també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
+  <string name="st_summary_blacklist_numbers">Bloqueja les trucades i missatges utilitzant números i prefixos</string>
+  <string name="st_summary_keywords_blacklist">Afegeix paraules clau per bloquejar missatges</string>
+  <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
+  <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges dels números i els prefixos específics</string>
   <string name="st_title_adblock_group">Bloquejador d\'anuncis</string>
   <string name="st_title_adblock_setting">Configuració del bloquejador d\'anuncis</string>
   <string name="st_title_addblacklist">Afegeix al llistat de bloqueig</string>

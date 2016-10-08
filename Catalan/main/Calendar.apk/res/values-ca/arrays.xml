@@ -278,4 +278,9 @@
     <item>Data</item>
     <item>Vegades</item>
   </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Sempre</item>
+    <item>Només quan el timbre està silenciat</item>
+    <item>Mai</item>
+  </string-array>
 </resources>
