@@ -11,7 +11,6 @@
   <string name="change_default_dialer_with_previous_app_set_text">Voleu utilitzar %1$s en lloc de %2$s com aplicació de marcador predeterminada?</string>
   <string name="dial_conference_fail_prompt">"No es pot marcar una conferència directament perquè la xarxa actual no és compatible amb VoLTE."</string>
   <string name="dial_vt_fail_prompt">"La xarxa actual no és compatible amb VoLTE. Voleu canviar a una trucada de veu normal?"</string>
-  <string name="duplicate_video_call_not_allowed">La trucada no es pot afegir ara mateix.</string>
   <string name="duplicate_video_call_not_allowed">"La trucada no es pot afegir ara mateix."</string>
   <string name="enable_account_preference_title">Comptes de trucada</string>
   <string name="handle_restricted">RESTRINGIT</string>
