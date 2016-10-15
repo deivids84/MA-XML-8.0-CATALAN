@@ -950,7 +950,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="share">Comparteix</string>
   <string name="share_album">Comparteix l\'àlbum</string>
   <string name="share_album_needs_auto_upload_tip">"No es poden desactivar les còpies de seguretat per als àlbums compartits"</string>
-  <string name="share_app_is_launching">{0,choice,0#Launching app&#8230;|1#%s is launching&#8230;}</string>
+  <string name="share_app_is_launching">{0,elecció,0#S\'està executant l\'aplicació&#8230;|1#%s s\'està executant&#8230;}</string>
   <string name="share_by_email_start">Comparteix %1$s en segon pla</string>
   <string name="share_by_email_successfully">S\'ha compartit %1$s</string>
   <string name="share_public_url_text">"He compartit l'àlbum %1$s amb tu. Pots veure-ho a %2$s"</string>

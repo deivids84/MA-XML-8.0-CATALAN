@@ -123,7 +123,6 @@
   <string name="dlg_white_antispam_hint">Excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
   <string name="email">Correu</string>
-  <string name="empty_activity_title">" "</string>
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>

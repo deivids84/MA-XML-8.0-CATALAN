@@ -102,7 +102,7 @@
   <string name="auto_tune">Sintonia automàtica</string>
   <string name="auto_tune_hint_text">Canvia automàticament el canal després de començar, el telèfon enviarà un cert interval de codis&lt;canal+&gt;botó</string>
   <string name="auto_tune_running">Sintonia automàtica en execució&#8230;</string>
-  <string name="back">Volver</string>
+  <string name="back">Enrere</string>
   <string name="backup">Còpia de seguretat al núvol</string>
   <string name="backup_failed">"Ha fallat la còpia de seguretat, torneu a provar-ho"</string>
   <string name="backup_succeed">La còpia de seguretat s\'ha fet correctament</string>
@@ -119,7 +119,7 @@
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">Altre</string>
   <string name="broadcast">Ràdio</string>
-  <string name="btn_connected_stb">Descodificadpr</string>
+  <string name="btn_connected_stb">Descodificador</string>
   <string name="bullet_hint">Mostra aquest missatge a la pantalla</string>
   <string name="bulletin">Missatges</string>
   <string name="by">"Amb el suport de "</string>
@@ -387,11 +387,11 @@
   <string name="less_than_10m">&lt; 10 m</string>
   <string name="living_room">Sala d\'estar</string>
   <string name="loading_brand">Obtenint informació&#8230;</string>
-  <string name="loading_brand_info">Només un segon&#8230;</string>
-  <string name="loading_device_type_info">Només un segon&#8230;</string>
-  <string name="loading_get">Només un segon&#8230;</string>
-  <string name="loading_hint">Només un segon&#8230;</string>
-  <string name="loading_ir_data">Només un segon&#8230;</string>
+  <string name="loading_brand_info">Un moment&#8230;</string>
+  <string name="loading_device_type_info">Un moment&#8230;</string>
+  <string name="loading_get">Un moment&#8230;</string>
+  <string name="loading_hint">Un moment&#8230;</string>
+  <string name="loading_ir_data">Un moment&#8230;</string>
   <string name="loading_more">正在加载更多内容</string>
   <string name="locate_current_place">Cercant la ubicació actual</string>
   <string name="location_select">Canvia el nom del dispositiu</string>
@@ -480,7 +480,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_tv_intro_source">Allibereu quan canviï la font d\'entrada</string>
   <string name="match_tv_intro_volume">Allibereu quan el volum sigui més fort</string>
   <string name="match_tv_name_ch_inc">Canal +</string>
-  <string name="match_tv_name_source">Font</string>
+  <string name="match_tv_name_source">Entrada</string>
   <string name="match_tv_name_volume">Volum +</string>
   <string name="match_type_selection_des">Escolliu el dispositiu per emparellar</string>
   <string name="match_type_selection_title">Tipus</string>
@@ -522,7 +522,7 @@ Llavors responeu la pregunta"</string>
   <string name="my_favorite">Protagonitzat per</string>
   <string name="my_notification">Notificacions</string>
   <string name="my_room">La meva habitació</string>
-  <string name="my_room_underline">&lt; u &gt; La meva habitació &lt;/u &gt;</string>
+  <string name="my_room_underline">&lt;u&gt;La meva habitació&lt;/u&gt;</string>
   <string name="my_setting">Configuració</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
@@ -767,7 +767,7 @@ To activate your account, follow the
   <string name="quick_add_tv_power">已速配的: %1$s电视电源开关</string>
   <string name="rc">Comandament</string>
   <string name="rc_add_distance">%1$dm</string>
-  <string name="rc_add_distance_far">&gt; 1.000km</string>
+  <string name="rc_add_distance_far">&gt; 1.000 km</string>
   <string name="rc_add_distance_km">%1$s km</string>
   <string name="rc_name">Comandament</string>
   <string name="recover">Restaura des de Mi Cloud</string>
@@ -942,7 +942,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="suggest_use_wifi_rc">* El comandament Wi-Fi també inclou característiques com llistats de vídeo, aplicacions, etc.</string>
   <string name="supported_by_kookong">Suport tècnic per Kookong</string>
   <string name="supporting_soon">Properament</string>
-  <string name="swipe_loading">Només un segon&#8230;</string>
+  <string name="swipe_loading">Un moment&#8230;</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
   <string name="technical_support">Suport tècnic</string>
   <string name="temperature">Temperatura</string>

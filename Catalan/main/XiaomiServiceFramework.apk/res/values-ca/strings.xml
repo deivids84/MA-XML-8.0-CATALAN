@@ -107,7 +107,6 @@
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se li cobrarà per l\'SMS enviat segons les tarifes de la seva operadora.</string>
   <string name="explain_send_sms_permission_title">Verifiqueu el vostre número de telèfon</string>
-  <string name="sim_unactivated_title">"La targeta SIM no està activada"</string>
   <string name="sync_notification_title_format">Element de sincronització actual: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Informació de l\'activació XMSF</string>

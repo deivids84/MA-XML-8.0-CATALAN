@@ -50,12 +50,12 @@
     <item quantity="one">%d aplicació pot llegir les notificacions</item>
   </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_minute">
-    <item quantity="other">Canvia les alarmes des de %1$d minuts (fins a %2$s)</item>
-    <item quantity="one">Canvia les alarmes d\'un minut fins a %2$s</item>
+    <item quantity="other">Canvia a «Només alarmes» durant %1$d minuts (fins a %2$s)</item>
+    <item quantity="one">Canvia a «Només alarmes» durant un minut fins a %2$s</item>
   </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_hour">
-    <item quantity="other">Canvia les alarmes des de %1$d a %2$s hores</item>
-    <item quantity="one">Canvia les alarmes d\'una hora fins a %2$s</item>
+    <item quantity="other">Canvia a «Només alarmes» durant %1$d fins a %2$s</item>
+    <item quantity="one">Canvia a «Només alarmes» durant una hora fins a %2$s</item>
   </plurals>
   <plurals name="permissions_summary">
     <item quantity="other">S\'han concedit %d permisos</item>

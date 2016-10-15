@@ -49,7 +49,6 @@
   <string name="dual_camera_lowlight_toast">"Sembla que és massa fosc."</string>
   <string name="dual_camera_too_close_toast">La càmera és massa a prop de l\'objecte.</string>
   <string name="dual_camera_use_hint">"El Mode estèreo ajuda a entelar el fons. L\'objecte no hauria de ser més lluny de 2 metres."</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar la captura d'àudio"</string>
   <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>

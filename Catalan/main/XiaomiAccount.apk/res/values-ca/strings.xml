@@ -372,7 +372,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
-  <string name="user_avatar_uploading">Un segon&#8230;</string>
+  <string name="user_avatar_uploading">Un moment&#8230;</string>
   <string name="verified_apps">Aplicacions verificades</string>
   <string name="verified_devices">Dispositius verificats</string>
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
