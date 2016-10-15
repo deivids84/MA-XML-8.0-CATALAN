@@ -11,7 +11,7 @@
   <string name="act_weather_find_city_no_result">No s\'ha trobat res</string>
   <string name="act_weather_find_city_searching">S\'està cercant&#8230;</string>
   <string name="activity_find_city_dialog_cancel">Cancel·la</string>
-  <string name="activity_find_city_dialog_message">Deixeu que «El Temps» vegi la vostra ubicació</string>
+  <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
   <string name="activity_main_clickable">&gt;</string>
@@ -22,7 +22,7 @@
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
   <string name="alert_warning">Alertes meteorològiques</string>
-  <string name="app_name">El Temps</string>
+  <string name="app_name">El temps</string>
   <string name="aqi_data_source">Funciona amb Caiyun Weather</string>
   <string name="aqi_desc">Índex de qualitat de l\'aire</string>
   <string name="aqi_detail_24_hours">Previsió per hores</string>
@@ -138,7 +138,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_menu_title">Comparteix</string>
   <string name="share_subject">Comparteix</string>
   <string name="share_title">Comparteix el temps</string>
-  <string name="share_weather_desc">\#El Temps de MIUI#Avui a les %1$s %2$s</string>
+  <string name="share_weather_desc">\#El temps de MIUI#Avui a les %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
