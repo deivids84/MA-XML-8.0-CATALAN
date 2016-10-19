@@ -81,8 +81,8 @@
   <string name="app_local">Local</string>
   <string name="app_manager_get_data_failed">"No s'ha pogut obtenir la informació de l'aplicació"</string>
   <string name="app_manager_no_data">No s\'ha trobat cap aplicació</string>
-  <string name="app_name">Comandament Mi</string>
-  <string name="app_name_for_airkan">Mostra el repartiment</string>
+  <string name="app_name">Control Mi</string>
+  <string name="app_name_for_airkan">Emet a pantalla</string>
   <string name="app_open">Obre</string>
   <string name="app_open_inbox">Obre amb Mi Box</string>
   <string name="app_open_intv">Obre a Mi TV</string>
@@ -493,7 +493,7 @@ Llavors responeu la pregunta"</string>
   <string name="mi_account">Compte Mi</string>
   <string name="mi_account_name">Compte Mi</string>
   <string name="mi_brand">Mi</string>
-  <string name="mi_rc">Comandament Mi</string>
+  <string name="mi_rc">Control Mi</string>
   <string name="mibox">Sintonitzador Mi</string>
   <string name="milink_device_newfound">Nou dispositiu</string>
   <string name="milink_device_offline">Desconnectat</string>
@@ -521,8 +521,8 @@ Llavors responeu la pregunta"</string>
   <string name="my_backup">Còpies de seguretat remotes</string>
   <string name="my_favorite">Protagonitzat per</string>
   <string name="my_notification">Notificacions</string>
-  <string name="my_room">La meva habitació</string>
-  <string name="my_room_underline">&lt;u&gt;La meva habitació&lt;/u&gt;</string>
+  <string name="my_room">L\'habitació</string>
+  <string name="my_room_underline">&lt;u&gt;L\'habitació&lt;/u&gt;</string>
   <string name="my_setting">Configuració</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
@@ -735,7 +735,7 @@ To activate your account, follow the
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
-  <string name="privacy_content">Llegiu la &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt;Política de privacitat&lt;/a&gt; de Xiaomi i el &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt;Contracte d\'usuari&lt;/a&gt; abans d\'utilitzat comandament Mi. Cal tenir accés a internet i als serveis de localització perquè l\'aplicació funcioni amb normalitat.</string>
+  <string name="privacy_content">Llegiu la &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt;Política de privacitat&lt;/a&gt; de Xiaomi i el &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt;Contracte d\'usuari&lt;/a&gt; abans d\'utilitzar Control Mi. Cal tenir accés a internet i als serveis de localització perquè l\'aplicació funcioni amb normalitat.</string>
   <string name="privacy_nohit">"No ho mostris més"</string>
   <string name="privacy_title">Termes i condicions</string>
   <string name="program_booking_book_filter_book_status">Estat de programació</string>
@@ -777,7 +777,7 @@ To activate your account, follow the
   <string name="refreshing_retry">"No s'ha pogut carregar, intenteu de nou"</string>
   <string name="release_to_refresh">Deixeu anar per actualitzar</string>
   <string name="rematch">Vincula un altre cop</string>
-  <string name="remote_controller_name">Comandament Mi</string>
+  <string name="remote_controller_name">Control Mi</string>
   <string name="remove_fav_channel">取消收藏</string>
   <string name="rename">Canvia el nom</string>
   <string name="rename_hint">"Introduïu el nom del dispositiu"</string>
@@ -910,7 +910,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_title_to_sina_weibo">Comparteix utilitzant Sina Weibo</string>
   <string name="share_to_others">Comparteix</string>
   <string name="sharerc_tips">Després que compartiu aquest comandament, la gent del voltant podrà utilitzar-lo.</string>
-  <string name="shortcut_pop_desc">Sembla que utilitzeu el comandament Mi força sovint. Voleu crear una drecera a la pantalla inicial?</string>
+  <string name="shortcut_pop_desc">Sembla que utilitzeu Control Mi força sovint. Voleu crear una drecera a la pantalla inicial?</string>
   <string name="shortcut_pop_title">Drecera</string>
   <string name="show_all_episodes">全部剧集</string>
   <string name="show_remote_when_lock_screen">Mostra el comandament quan la pantalla estigui bloquejada</string>

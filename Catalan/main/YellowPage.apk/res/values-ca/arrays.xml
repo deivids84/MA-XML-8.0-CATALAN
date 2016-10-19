@@ -6,7 +6,7 @@
     <item>com.miui.yellowpage.permission.CAMERA</item>
   </string-array>
   <string-array name="permission_labels">
-    <item>localització</item>
+    <item>ubicació</item>
     <item>càmera</item>
   </string-array>
 </resources>

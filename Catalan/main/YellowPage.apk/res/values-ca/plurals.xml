@@ -6,7 +6,7 @@
     <item quantity="one">1 cupó</item>
   </plurals>
   <plurals name="review_count">
-    <item quantity="other">Consulta %d comentaris</item>
-    <item quantity="one">Veure 1 comentari</item>
+    <item quantity="other">Mostra %d comentaris</item>
+    <item quantity="one">Mostra 1 comentari</item>
   </plurals>
 </resources>

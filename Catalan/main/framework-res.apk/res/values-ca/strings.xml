@@ -213,7 +213,7 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="config_wifi_random_mac_oui">DA-A1-19</string>
   <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
   <string name="config_wifi_tether_enable">com.android.settings/.TetherService</string>
-  <string name="configure_input_methods">Trieu els teclats</string>
+  <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
   <string name="contentServiceSync">Sincronització</string>
   <string name="contentServiceSyncNotificationTitle">Sincronització</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Massa eliminacions de %s</string>

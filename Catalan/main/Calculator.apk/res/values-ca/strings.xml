@@ -26,7 +26,7 @@
   <string name="convertion_unit_weight">Convertidor de pes</string>
   <string name="cos">cos</string>
   <string name="cosDesc">cosinus</string>
-  <string name="currency_update_time_format">Els tipus de canvi són proporcionats per hexun.com (%s)</string>
+  <string name="currency_update_time_format">Els tipus de canvi els proporciona hexun.com (%s)</string>
   <string name="dateformat">dd/LL/yyyy</string>
   <string name="day">dia</string>
   <string name="del">DEL</string>
