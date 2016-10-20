@@ -1097,7 +1097,6 @@ La seva targeta SIM serà eliminada després d\'un altre intent fallit."</string
   <string name="saving_account">Guardant el compte</string>
   <string name="search_antispam_setting">Llista de bloquejos</string>
   <string name="search_app_name">Telèfon; Enregistrament de la trucada; Desvia trucades; redirecció; Trucada en espera;Llista de bloqueig;Codi de país; Codi d\'àrea; Codis de país; Codis d\'àrea; Enregistra trucades; Enregistra trucada;Teclat;Trucada;Trucades;Telefonia;VoIP;VoLTE;Trucada perduda;Trucades perdudes;SIP;Teclat predictiu;Telefonia IP;FDN</string>
-  <string name="search_call_background_setting">@string/call_background_setting</string>
   <string name="search_networks">Cerca xarxes</string>
   <string name="selectContact">Selecciona contacte</string>
   <string name="select_automatically">Triar automàticament</string>
