@@ -3,55 +3,55 @@
 <!-- Parsed by jbart2a -->
 <resources>
   <string-array name="app_ops_labels">
-    <item>Trying to access location</item>
-    <item>Trying to access location</item>
-    <item>Trying to access location</item>
-    <item>Trying to use vibrate</item>
-    <item>Llegint els contactes</item>
-    <item>Modificant els contactes</item>
-    <item>Trying to read call log</item>
-    <item>Trying to modify call log</item>
-    <item>Trying to read calendar</item>
-    <item>Trying to modify calendar</item>
-    <item>Trying to access location</item>
-    <item>Trying to post notification</item>
-    <item>Trying to access location</item>
-    <item>Trying to make phone call</item>
-    <item>Trying to read SMS</item>
-    <item>Trying to write/modify SMS</item>
-    <item>Trying to receive SMS</item>
-    <item>Trying to receive SMS</item>
-    <item>Trying to receive SMS</item>
-    <item>Trying to receive SMS</item>
-    <item>Trying to send SMS</item>
-    <item>Trying to read SMS</item>
-    <item>Trying to write/modify SMS</item>
-    <item>Trying to modify settings</item>
-    <item>Trying to draw on top</item>
-    <item>Trying to access notifications</item>
-    <item>Trying to access Camera</item>
-    <item>Trying to record audio</item>
-    <item>Trying to play audio</item>
-    <item>Trying to read clipboard</item>
-    <item>Trying to modify clipboard</item>
-    <item>Trying to use media buttons</item>
-    <item>Trying to use audio focus</item>
-    <item>Trying to use master volume</item>
-    <item>Trying to use voice volume</item>
-    <item>Trying to use ring volume</item>
-    <item>Trying to use media volume</item>
-    <item>Trying to use alarm volume</item>
-    <item>Trying to use notification volume</item>
-    <item>Trying to use bluetooth volume</item>
-    <item>Trying to Keep device awake</item>
-    <item>Trying to access location</item>
-    <item>Trying to access location</item>
-    <item>Trying to turn on/off Wi-Fi</item>
-    <item>Trying to turn on/off bluetooth</item>
-    <item>Trying to turn on/off mobile data</item>
-    <item>Trying to send MMS</item>
-    <item>Trying to read MMS</item>
-    <item>Trying to write MMS</item>
-    <item>Trying to start at bootup</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant utilitzar la vibració</item>
+    <item>S\'estan llegint els contactes</item>
+    <item>S\'estan modificant els contactes</item>
+    <item>S\'està intentant llegir el registre de trucades</item>
+    <item>S\'està intentant modificar el registre de trucades</item>
+    <item>S\'està intentant accedir al calendari</item>
+    <item>S\'està intentant modificar el calendari</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant publicar una notificació</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant realitzar una trucada</item>
+    <item>S\'està intentant llegir els SMS</item>
+    <item>S\'està intentant escriure/modificar els SMS</item>
+    <item>S\'està intentant rebre SMS</item>
+    <item>S\'està intentant rebre SMS</item>
+    <item>S\'està intentant rebre SMS</item>
+    <item>S\'està intentant rebre SMS</item>
+    <item>S\'està intentant enviar SMS</item>
+    <item>S\'està intentant llegir SMS</item>
+    <item>S\'està intentant escriure/modificar SMS</item>
+    <item>S\'està intentant modificar la configuració</item>
+    <item>S\'està intentant dibuixar per sobre</item>
+    <item>S\'està intentant accedir a les notificacions</item>
+    <item>S\'està intentant accedir a la Càmera</item>
+    <item>S\'està intentant enregistrar àudio</item>
+    <item>S\'està intentant reproduir àudio</item>
+    <item>S\'està intentant llegir el porta-retalls</item>
+    <item>S\'està intentant modificar el porta-retalls</item>
+    <item>S\'està intentant utilitzar els botons multimèdia</item>
+    <item>S\'està intentant utilitzar l\'enfocament de l\'àudio</item>
+    <item>S\'està intentant utilitzar el volum principal</item>
+    <item>S\'està intentant utilitzar el volum de veu</item>
+    <item>S\'està intentant utilitzar el volum del to</item>
+    <item>S\'està intentant utilitzar el volum multimèdia</item>
+    <item>S\'està intentant utilitzar el volum de l\'alarma</item>
+    <item>S\'està intentant utilitzar el volum de les notificacions</item>
+    <item>S\'està intentant utilitzar el volum del Bluetooth</item>
+    <item>S\'està intentant mantenir el dispositiu actiu</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant accedir a la ubicació</item>
+    <item>S\'està intentant activar/desactivar la Wi-Fi</item>
+    <item>S\'està intentant activar/desactivar el Bluetooth</item>
+    <item>S\'està intentant activar/desactivar les dades mòbils</item>
+    <item>S\'està intentant enviar MMS</item>
+    <item>S\'està intentant llegir MMS</item>
+    <item>S\'està intentant escriure MMS</item>
+    <item>S\'està intentant iniciar en l\'arrencada</item>
   </string-array>
 </resources>
