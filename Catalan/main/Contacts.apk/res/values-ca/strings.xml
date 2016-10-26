@@ -185,6 +185,8 @@
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
+  <string name="config_export_dir">/mnt/sdcard</string>
+  <string name="config_export_file_extension">vcf</string>
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
@@ -353,8 +355,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_other_title">Un altre telèfon</string>
   <string name="device_paired_dialog_message">Combinant contactes&#8230;</string>
   <string name="device_paired_dialog_title">Combinant contactes&#8230;</string>
-  <string name="device_pairing_dialog_message">Aparellant&#8230;</string>
-  <string name="device_pairing_dialog_title">Dispositius aparellats</string>
+  <string name="device_pairing_dialog_message">S\'està vinculant&#8230;</string>
+  <string name="device_pairing_dialog_title">Dispositius vinculats</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="device_version_title">Triar un model</string>
@@ -655,6 +657,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="miprofile_contact_header">Contactes amb targeta de contacte</string>
   <string name="miprofile_contact_meaasge">Contactes locals</string>
   <string name="miprofile_contact_verifying">Verificant</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edita perfil</string>
   <string name="miprofile_error_accept_self">"No pots intercanviar la teva pròpia targeta de contacte"</string>
   <string name="miprofile_error_no_miaccount">Inicia la sessió amb el teu compte Mi</string>

@@ -6,7 +6,7 @@
     <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant&#8230;</item>
     <item>S\'està autenticant&#8230;</item>
-    <item>Obtenint adreça IP&#8230;</item>
+    <item>S\'està obtenint l\'adreça IP&#8230;</item>
     <item>Connectat</item>
     <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
@@ -24,7 +24,7 @@
     <item>S\'ha connectat a %1$s</item>
     <item>Suspès</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
-    <item>S\'ha desconnectat</item>
+    <item>Desconnectat</item>
     <item>No s\'ha pogut realitzar</item>
     <item>Bloquejat</item>
     <item>Evita temporalment la mala connexió</item>
@@ -442,7 +442,7 @@
     <item>Com a molt 4 processos</item>
   </string-array>
   <string-array name="vpn_states">
-    <item>S\'ha desconnectat</item>
+    <item>Desconnectat</item>
     <item>S\'està inicialitzant&#8230;</item>
     <item>S\'està connectant&#8230;</item>
     <item>S\'ha connectat</item>

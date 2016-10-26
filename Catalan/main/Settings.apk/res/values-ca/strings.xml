@@ -118,7 +118,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="add_fingerprint_put_finger_edge_msg">Traieu el dit i torneu-lo a posar a sobre del lector.</string>
   <string name="add_fingerprint_put_finger_msg">Poseu el dit en el lector fins que noteu una vibració.</string>
   <string name="add_fingerprint_put_finger_title">Afegiu una empremta</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mogueu el dit a poc a poc i torneu-lo a posar en el sensor per afegir més zones de l\'empremta</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mogueu el dit una mica</string>
   <string name="add_fingerprint_text">Afegiu una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
   <string name="adding_profile_owner_warning">«Si continueu, l\'Administrador podrà emmagatzemar dades complementàries i personals.
@@ -507,7 +507,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s es desconnectarà de la connexió a internet compartida.</string>
   <string name="bluetooth_disconnect_pan_user_profile">Es desconnectarà l\'accés a internet mitjançant %1$s.</string>
   <string name="bluetooth_disconnect_title">Voleu desconnectar-ho?</string>
-  <string name="bluetooth_disconnected">S\'ha desconnectat</string>
+  <string name="bluetooth_disconnected">Desconnectat</string>
   <string name="bluetooth_disconnecting">S\'està desconnectant&#8230;</string>
   <string name="bluetooth_display_passkey_pin_msg">Per a vincular amb:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Teclegeu:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; premeu Enter.</string>
   <string name="bluetooth_dock_settings">Configuració de l\'acoplador</string>
@@ -563,10 +563,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_pairing_error_message">"No s'ha pogut vincular amb %1$s."</string>
   <string name="bluetooth_pairing_key_msg">Codi de vinculació Bluetooth</string>
   <string name="bluetooth_pairing_pin_error_message">"No s'ha pogut vincular amb %1$s per un PIN o contrasenya incorrectes."</string>
-  <string name="bluetooth_pairing_rejected_error_message">Vinculació rebutjada per %1$s.</string>
+  <string name="bluetooth_pairing_rejected_error_message">%1$s ha rebutjat la vinculació.</string>
   <string name="bluetooth_pairing_request">Voleu vincular %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Permet %1$s a accedir als contactes i el registre de trucades</string>
-  <string name="bluetooth_pairing_will_share_phonebook">La sincronització permet accedir als contactes i al registre de trucades quan el dispositiu està connectat.</string>
+  <string name="bluetooth_pairing_will_share_phonebook">La vinculació dóna accés als contactes i al registre de trucades quan està connectat.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">S\'està compartint la connexió a Internet amb el dispositiu</string>
   <string name="bluetooth_pan_profile_summary_use_for">Utilitza per a compartir internet</string>
   <string name="bluetooth_pan_user_profile_summary_connected">S\'ha connectat a un dispositiu per a accedir a internet</string>
@@ -636,7 +636,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_settings_devices_title">Dispositiu</string>
   <string name="bluetooth_unlock_settings_toggle_title">Aplica a</string>
   <string name="bluetooth_unlock_settings_unlock_device">Desbloqueja el dispositiu</string>
-  <string name="bluetooth_unlock_state_disconnected">S\'ha desconnectat</string>
+  <string name="bluetooth_unlock_state_disconnected">Desconnectat</string>
   <string name="bluetooth_unlock_state_key_error">Codi incorrecte</string>
   <string name="bluetooth_unlock_state_label">"Estat: "</string>
   <string name="bluetooth_unlock_state_ok">S\'ha desbloquejat</string>
@@ -1967,7 +1967,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_dcim_usage">Imatges, vídeos</string>
   <string name="memory_details">Propietats</string>
   <string name="memory_details_title">Estat de la memòria</string>
-  <string name="memory_downloads_usage">Descàrregues</string>
+  <string name="memory_downloads_usage">Baixades</string>
   <string name="memory_max_desc">Màxim %1$s</string>
   <string name="memory_max_use">Màxima</string>
   <string name="memory_maximum_usage">Ús màxim</string>
@@ -2014,7 +2014,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_light">Llum de notificació</string>
   <string name="miui_allow_music">Multimèdia</string>
   <string name="miui_allow_vibrate">Vibració</string>
-  <string name="miui_data_usage_menu_metered">Punts d\'accés mòbils</string>
+  <string name="miui_data_usage_menu_metered">Punt d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2028,7 +2028,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mock_location_app">Selecciona aplicació per simular ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulades: %1$s</string>
-  <string name="model_number">Número de model</string>
+  <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
   <string name="modify_privacy_password">Canvieu la contrasenya</string>
   <string name="move_app">Desplaça</string>
@@ -2120,7 +2120,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="network_assistant">Ús de dades</string>
-  <string name="network_detail">%s Detalls sobre la xarxa</string>
+  <string name="network_detail">Detalls de la xarxa %s</string>
   <string name="network_error">S\'ha produït un error de xarxa</string>
   <string name="network_operators_settings">Operadors de xarxa</string>
   <string name="network_reset_not_available">Aquest usuari no pot restaurar-ho a configuració de fàbrica</string>
@@ -2226,7 +2226,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="oldman_mode_settings_caption">Configuració del mode bàsic</string>
   <string name="oldman_mode_summary">Utilitza la pantalla d\'inici i els menús simplificats</string>
   <string name="oldman_mode_summary_cta">Per a funcionar amb normalitat en el mode bàsic li cal connexió a internet, llegir els contactes, missatges i la ubicació.</string>
-  <string name="onekey_migrate">Transferència</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
   <string name="onscreen_keyboard_settings_summary">Configuració del teclat de pantalla</string>
@@ -2707,7 +2707,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">S\'ha connectat</string>
   <string name="radioInfo_data_connecting">S\'està connectant</string>
-  <string name="radioInfo_data_disconnected">S\'ha desconnectat</string>
+  <string name="radioInfo_data_disconnected">Desconnectat</string>
   <string name="radioInfo_data_suspended">Suspesa</string>
   <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_bytes">bytes</string>
@@ -3067,7 +3067,7 @@ Per fer-ho:
   <string name="search_notification_sound_title">So predeterminat de notificació</string>
   <string name="search_ntts_settings_title">TTS;Configuració TTS</string>
   <string name="search_oldman_mode">Mode bàsic;Mode avi</string>
-  <string name="search_onekey_migrate">Transferència</string>
+  <string name="search_onekey_migrate">Transferència; Mi Mover</string>
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Informació del propietari</string>
   <string name="search_page_layout_settings">Mida del text</string>

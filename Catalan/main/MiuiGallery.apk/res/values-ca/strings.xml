@@ -895,7 +895,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="relation_text_mother">Mare</string>
   <string name="relation_with_you">Trieu una relació</string>
   <string name="release_space_finish_format">S\'han alliberat %s d\'emmagatzematge local</string>
-  <string name="remove_from_other_albums_tip">Haureu d\'activar la sincronització amb Mi Cloud d\'aquest àlbum si el traieu de la llista d\'altres àlbums. Voleu treure\'l ara?</string>
+  <string name="remove_from_other_albums_tip">Activeu la sincronització amb Mi Cloud per moure elements d\'altres àlbums. Voleu moure\'l ara?</string>
   <string name="remove_from_secret_fail">"No es pot eliminar de l'àlbum ocult"</string>
   <string name="remove_from_secret_failed_with_reason">"No es pot eliminar de l'àlbum ocult. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elements no es poden eliminar de l'àlbum ocult. %1$s."</string>
@@ -960,11 +960,11 @@ Feu més fotos als vostres amics!"</string>
   <string name="slideshow_interval_invalid">L\'interval entre diapositives ha d\'estar entre 3 i 3600 segons</string>
   <string name="slideshow_interval_title">Mostra cada diapositiva durant</string>
   <string name="slideshow_interval_value">%1$d segons</string>
-  <string name="slim_after_backuped_summary">Substitueix les fotos a resolució completa al dispositiu amb versions optimitzades després que hagin estat copiades a Mi Cloud. Les fotos a màxima resolució continuaran estant disponibles a Mi Cloud. Així podeu estalviar una gran quantitat d\'emmagatzematge local.</string>
-  <string name="slim_after_backuped_title">Optimitza l\'emmagatzematge local un cop fetes les còpies de seguretat</string>
+  <string name="slim_after_backuped_summary">Substitueix les fotos a resolució completa al dispositiu amb versions optimitzades després que hagin estat copiades a Mi Cloud. Les fotos a màxima resolució continuaran estant disponibles a Mi Cloud. Així es pot estalviar una gran quantitat d\'emmagatzematge local.</string>
+  <string name="slim_after_backuped_title">Optimitza l\'espai un cop fetes les còpies de seguretat</string>
   <string name="slim_introduce">Substitueix les fotos a resolució completa amb versions optimitzades després que hagin estat copiades a Mi Cloud. Les fotos a màxima resolució continuaran estant disponibles a Mi Cloud.</string>
-  <string name="slim_introduce_with_specific_size">Substitueix les fotos a resolució completa amb versions optimitzades després que hagin estat copiades a Mi Cloud. Les fotos a màxima resolució continuaran estant disponibles a Mi Cloud. Així podeu estalviar fins a %1$s d\'emmagatzematge local (es necessita un compte Mi).</string>
-  <string name="slim_now">Optimitza-les ara</string>
+  <string name="slim_introduce_with_specific_size">Substitueix les fotos a resolució completa amb versions optimitzades després que hagin estat copiades a Mi Cloud. Les fotos a màxima resolució continuaran estant disponibles a Mi Cloud. Així es poden estalviar fins a %1$s d\'emmagatzematge local (es necessita un compte Mi).</string>
+  <string name="slim_now">Optimitza\'l ara</string>
   <string name="slim_result_size">S\'han alliberat %1$s</string>
   <string name="slim_result_title">Optimització completada</string>
   <string name="slim_tip_msg">S\'optimitzaran les fotos quan el dispositiu estigui connectat a la Wi-Fi. Baixeu els elements a resolució completa tocant «Baixa la foto» als detalls de la foto.</string>
@@ -1084,7 +1084,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="view_queuing_status">Comprova l\'estat</string>
   <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
-  <string name="welcome_to_slim">Optimitzeu l\'emmagatzematge local</string>
+  <string name="welcome_to_slim">Optimització de l\'emmagatzematge local</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>
   <string name="who_is_this">Qui és?</string>
   <string name="xiaomi_account_not_exists_toast">"El compte Mi no existeix"</string>

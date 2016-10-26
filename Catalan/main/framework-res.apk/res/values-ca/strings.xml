@@ -62,7 +62,7 @@
   <string name="addToDictionary">Afegeix al diccionari</string>
   <string name="add_account_button_label">Afegeix un compte</string>
   <string name="add_account_label">Afegeix un compte</string>
-  <string name="aerr_application">S\'ha detingut l\'aplicació %1$s.</string>
+  <string name="aerr_application">L\'aplicació %1$s s\'ha aturat.</string>
   <string name="aerr_process">S\'ha aturat el procés %1$s.</string>
   <string name="allow">Permet</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
@@ -308,7 +308,7 @@ amb %s»</string>
   <string name="emailTypeOther">Altre</string>
   <string name="emailTypeWork">Feina</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
-  <string name="emergency_calls_only">Només trucades d\'emergència</string>
+  <string name="emergency_calls_only">Només emergències</string>
   <string name="emptyPhoneNumber">(Sense número de telèfon)</string>
   <string name="enablePin">Error en activar el bloqueig de SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">Accessibilitat cancel·lada</string>
@@ -347,12 +347,12 @@ amb %s»</string>
   <string name="ext_media_status_mounted">A punt</string>
   <string name="ext_media_status_mounted_ro">Només lectura</string>
   <string name="ext_media_status_removed">S\'ha extret</string>
-  <string name="ext_media_status_unmountable">Danyat</string>
+  <string name="ext_media_status_unmountable">Malmès</string>
   <string name="ext_media_status_unmounted">Expulsat</string>
   <string name="ext_media_status_unsupported">Incompatible</string>
   <string name="ext_media_unmount_action">Expulsa</string>
-  <string name="ext_media_unmountable_notification_message">%s està danyat. Proveu a formatar de nou.</string>
-  <string name="ext_media_unmountable_notification_title">%s està danyat</string>
+  <string name="ext_media_unmountable_notification_message">%s està malmès. Proveu a formatejar de nou.</string>
+  <string name="ext_media_unmountable_notification_title">%s està malmès</string>
   <string name="ext_media_unmounting_notification_message">"No el treieu"</string>
   <string name="ext_media_unmounting_notification_title">Encara s\'està extraient %s&#8230;</string>
   <string name="ext_media_unsupported_notification_message">Aquest dispositiu no és compatible amb aquest %s. Toqueu per configurar-lo en un format compatible.</string>
@@ -532,7 +532,7 @@ amb %s»</string>
   <string name="keyguard_accessibility_widget_empty_slot">Buit</string>
   <string name="keyguard_accessibility_widget_reorder_end">S\'ha finalitzat el canvi de ordre dels ginys.</string>
   <string name="keyguard_accessibility_widget_reorder_start">S\'ha començat a canviar l\'ordre dels ginys.</string>
-  <string name="keyguard_label_text">Per desbloquejar, premeu Menú i després 0.</string>
+  <string name="keyguard_label_text">Per desbloquejar, toqueu Menú i després 0.</string>
   <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desbloquejar</string>
   <string name="keyguard_password_enter_pin_code">Introduïu el codi PIN</string>
   <string name="keyguard_password_enter_pin_password_code">Introduïu el PIN per desbloquejar</string>
@@ -631,8 +631,8 @@ Accediu a »&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_submit_button">Inicia la sessió</string>
   <string name="lockscreen_glogin_too_many_attempts">Massa intents incorrectes de creació del patró</string>
   <string name="lockscreen_glogin_username_hint">Nom d\'usuari (correu)</string>
-  <string name="lockscreen_instructions_when_pattern_disabled">Premeu Menú per desbloquejar.</string>
-  <string name="lockscreen_instructions_when_pattern_enabled">Premeu Menú per desbloquejar o establiu una trucada d\'emergència.</string>
+  <string name="lockscreen_instructions_when_pattern_disabled">Toqueu Menú per desbloquejar.</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Toqueu Menú per desbloquejar o fer una trucada d\'emergència.</string>
   <string name="lockscreen_missing_sim_instructions">Inseriu una targeta SIM.</string>
   <string name="lockscreen_missing_sim_instructions_long">Falta la targeta SIM o és il·legible. Inseriu una targeta SIM.</string>
   <string name="lockscreen_missing_sim_message">No hi ha cap targeta SIM al telèfon.</string>

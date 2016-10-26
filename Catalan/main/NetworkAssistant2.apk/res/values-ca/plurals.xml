@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Sense rastreig d\'us de dades a %d aplicacions</item>
-        <item quantity="one">Sense rastreig d\'us de dades a %d aplicació</item>
+        <item quantity="other">Sense seguiment d\'ús de dades a %d aplicacions</item>
+        <item quantity="one">Sense seguiment d\'ús de dades a %d aplicació</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Rastreig d\'us de dades a %d aplicacions</item>
-        <item quantity="one">Rastreig d\'us de dades a %d aplicació</item>
+        <item quantity="other">Seguiment d\'ús de dades a %d aplicacions</item>
+        <item quantity="one">Seguiment d\'ús de dades a %d aplicació</item>
     </plurals>
     <plurals name="hints_traffic_saving_optimized">
         <item quantity="other">%d aplicacions optimitzades</item>
@@ -18,19 +18,19 @@
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d aplicacions estan utilitzant l\'estalvi de dades</item>
-        <item quantity="one">%d aplicació está utilitzant l\'estalvi de dades</item>
+        <item quantity="one">%d aplicació està utilitzant l\'estalvi de dades</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d aplicacions no están utilitzant l\'estalvi de dades</item>
+        <item quantity="other">%d aplicacions no estan utilitzant l\'estalvi de dades</item>
         <item quantity="one">%d aplicació no está utilitzant l\'estalvi de dades</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">Usat fa %d dies</item>
-        <item quantity="one">Usat ahir</item>
+        <item quantity="other">Utilitzat fa %d dies</item>
+        <item quantity="one">Utilitzat ahir</item>
     </plurals>
     <plurals name="search_app_count_txt">
-        <item quantity="other">Cercar %d aplicacions</item>
-        <item quantity="one">Cercar %d aplicació</item>
+        <item quantity="other">Cerca %d aplicacions</item>
+        <item quantity="one">Cerca %d aplicació</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
         <item quantity="other">%d aplicacions poden utilitzar dades mòbils</item>
