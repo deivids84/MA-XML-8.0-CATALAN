@@ -521,7 +521,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="last_check_date_yesterday">"Escanejat ahir "</string>
   <string name="last_check_never_checked">Escanejar ara</string>
   <string name="last_checked_date2">Escanejat fa %d dies</string>
-  <string name="last_checked_default">Escanejat fa %d dies</string>
+  <string name="last_checked_default">Escanejat fa %s dies</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
