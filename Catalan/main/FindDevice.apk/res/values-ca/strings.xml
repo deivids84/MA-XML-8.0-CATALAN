@@ -20,8 +20,6 @@
   <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
   <string name="find_device_error_network">Comprova la teva connexió de dades i intenta de nou.</string>
   <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
-  <string name="find_device_error_server">Error de servidor</string>
-  <string name="find_device_error_unknown">Error desconegut.</string>
   <string name="find_device_noise_title">Alarma de localitzar dispositiu</string>
   <string name="find_device_notice_p1">Accedeixi a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
