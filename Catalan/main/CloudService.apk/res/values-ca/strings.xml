@@ -117,7 +117,6 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="license_host_unreachable">"No s\'ha pogut connectar a la xarxa. Per veure aquesta informació ara, aneu a %s."</string>
   <string name="loading">Carregant</string>
   <string name="loading_hint">Carregant</string>
-  <string name="master_alert_notif_content">%d dades no se sincronitzen.</string>
   <string name="master_alert_notif_dspt_add">"%s elements esperant la sincronització"</string>
   <string name="master_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
