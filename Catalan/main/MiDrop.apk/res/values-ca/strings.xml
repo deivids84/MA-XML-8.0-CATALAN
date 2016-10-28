@@ -37,7 +37,6 @@
   <string name="notif_receive_progress">Rebent %1$s fitxer(s)…</string>
   <string name="notif_receive_success">Rebut(s) %1$s fitxer(s)</string>
   <string name="notif_send_cancel">Transferència a %1$s interrompuda</string>
-  <string name="notif_send_cancel_multi">Transferència a %1$s+%2$ interrompuda</string>
   <string name="notif_send_progress">Enviant fitxer(s) a %1$s…</string>
   <string name="notif_send_success">Enviat(s) a %1$s</string>
   <string name="notif_send_success_multi">Enviat(s) a %1$d persona(s)</string>
