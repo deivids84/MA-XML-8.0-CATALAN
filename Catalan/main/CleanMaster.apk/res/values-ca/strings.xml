@@ -262,7 +262,6 @@
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
   <string name="long_click_dialog_title">Nota</string>
-  <string name="low_memory_clean_dialog_msg">Primer heu de netejar com a mínim %1$s fitxers</string>
   <string name="low_memory_clean_dialog_ok_button">D\'acord</string>
   <string name="low_memory_clean_dialog_title">Disc sense espai</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancel·la</string>
