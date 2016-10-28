@@ -58,7 +58,7 @@
   <string name="gift_present_dlg_anonymous">Regal anònim</string>
   <string name="gift_present_dlg_input_hint">ID del Compte Mi/Telèfon</string>
   <string name="gift_present_dlg_no_fee">"El vostre operador no li cobrarà l'enviament de regals"</string>
-  <string name="gift_present_dlg_present_max_limit">"El tema no pot ser regalat més de %$1s vegades."</string>
+  <string name="gift_present_dlg_present_max_limit">"El tema no pot ser regalat més de %1$s vegades."</string>
   <string name="gift_present_dlg_share">Crea un codi i comparteix un regal</string>
   <string name="gift_present_fail_dlg_content">"No s'ha pogut enviar aquest regal. "</string>
   <string name="gift_present_fail_dlg_title">"No s'ha pogut enviar el regal"</string>
