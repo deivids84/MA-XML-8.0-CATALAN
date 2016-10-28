@@ -265,7 +265,6 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="more_match">更多赛事</string>
-  <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Introducció</string>
   <string name="my_subscribe_events">Les vostres subscripcions</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
@@ -396,7 +395,6 @@
   <string name="str_hour_of_everyday">Diàriament %s</string>
   <string name="str_hour_of_next">Següent %s</string>
   <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_success">订阅“%1$s”成功</string>
   <string name="subscribe_description_card_more_cut">Col·lapse</string>
   <string name="subscribe_description_card_more_launch">Expansió</string>
   <string name="subscribe_detail_title">Detalls de la subscripció</string>
