@@ -66,7 +66,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="phone_locked_timeout_minutes_string">Torneu a provar-ho d\'aquí %s minuts</string>
   <string name="phone_locked_timeout_seconds_string">Torneu a provar-ho d\'aquí %s segons</string>
   <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Desbloqueja la SIM</string>
+  <string name="unlock_sim_string">Unlock</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
