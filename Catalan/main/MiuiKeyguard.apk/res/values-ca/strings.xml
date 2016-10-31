@@ -31,7 +31,7 @@
   <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la contrasenya</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="input_pattern_hint_text">Traceu el patró de desbloqueig</string>
-  <string name="input_pin_code">Introduïu el PIN</string>
+  <string name="input_pin_code">PIN?</string>
   <string name="input_puk_code">Introduïu el PUK</string>
   <string name="invalid_confirm_pin_hint">"Els PIN no coincideixen"</string>
   <string name="invalid_sim_pin_hint">El PIN ha de tenir entre 4 i 8 números</string>
@@ -66,7 +66,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="phone_locked_timeout_minutes_string">Torneu a provar-ho d\'aquí %s minuts</string>
   <string name="phone_locked_timeout_seconds_string">Torneu a provar-ho d\'aquí %s segons</string>
   <string name="symbol_colon">:</string>
-  <string name="unlock_sim_string">Unlock</string>
+  <string name="unlock_sim_string">Desbloqueja</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>

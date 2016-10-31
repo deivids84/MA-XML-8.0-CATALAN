@@ -97,9 +97,6 @@
   <string name="pref_burst_shoot_title">Disparar en ràfega</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
-  <string name="pref_camera2_cameramode_title">Mode Camera2</string>
-  <string name="pref_camera2_clearsight_title">ClearSight</string>
-  <string name="pref_camera2_mpo_title">Format MPO</string>
   <string name="pref_camera_antibanding_entry_0">Apagat</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -128,7 +125,6 @@
   <string name="pref_camera_beautify_entry_8">8</string>
   <string name="pref_camera_beautify_entry_9">9</string>
   <string name="pref_camera_beautify_entry_auto">Desactivat</string>
-  <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
@@ -211,7 +207,6 @@
   <string name="pref_camera_hdr_entry_off">Apagat</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
-  <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Apagat</string>
   <string name="pref_camera_histogram_entry_disable">Desactivar</string>
@@ -304,6 +299,8 @@
   <string name="pref_camera_snap_entry_take_movie">Quan la pantalla està apagada, premi i mantingui el botó de baixar el volum per iniciar la gravació de vídeo. Deixeu anar per aturar.</string>
   <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premi i mantingui el botó baixar el volum per començar la ràfega de fotos. Deixeu anar per aturar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode Quick snap mentre \"Activa amb els botons de volum\" estigui actiu."</string>
+  <string name="pref_camera_snap_value_take_movie">Pel·lícula</string>
+  <string name="pref_camera_snap_value_take_picture">Imatge</string>
   <string name="pref_camera_sound_title">Sons de càmera</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
   <string name="pref_camera_stereo_default">5</string>
@@ -334,6 +331,7 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
+  <string name="pref_camera_whitebalance_entryvalue_manual">manual</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Ences</string>
@@ -403,7 +401,7 @@
   <string name="see_qrcode_detals">Mostra els detalls</string>
   <string name="simple_mode_button_asd_flash">Tancar captura flash</string>
   <string name="simple_mode_button_asd_hdr">Tancar captura HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Tancar disparador de veu</string>
+  <string name="simple_mode_button_text_audio_capture">Desactiva el disparador de veu</string>
   <string name="simple_mode_button_text_color_effect">Tancar filtre</string>
   <string name="simple_mode_button_text_delay_capture">Tancar compte enrere</string>
   <string name="simple_mode_button_text_face_beauty">Tancar embellidor</string>

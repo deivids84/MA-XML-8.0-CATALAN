@@ -265,6 +265,7 @@
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="wallpaper_scaling_message">S\'està escalant a la mida fixada</string>
   <string name="wallpaper_scroll_type_tips">Desplaçament del fons</string>
+  <string name="wallpaper_scrolling">tot</string>
   <string name="wallpaper_settings">Fons de pantalla</string>
   <string name="wallpaper_success_message">S\'ha aplicat el fons de pantalla</string>
   <string name="widget_favorite_contacts_edit">Editor</string>

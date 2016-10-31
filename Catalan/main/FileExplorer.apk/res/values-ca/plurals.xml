@@ -121,10 +121,6 @@
     <item quantity="other">vídeos</item>
     <item quantity="one">vídeo</item>
   </plurals>
-  <plurals name="user_follow_me_items">
-    <item quantity="other">seguidors</item>
-    <item quantity="one">seguidor</item>
-  </plurals>
   <plurals name="number_of_comment">
     <item quantity="other">%1$s comentaris</item>
     <item quantity="one">%1$s comentari</item>
@@ -133,10 +129,6 @@
     <item quantity="other">%1$s vídeos</item>
     <item quantity="one">%1$s vídeo</item>
   </plurals>
-  <plurals name="follow_count">
-    <item quantity="other">%1$s seguidors</item>
-    <item quantity="one">%1$s seguidor</item>
-  </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s comentaris</item>
     <item quantity="one">%1$s comentari</item>
@@ -144,5 +136,9 @@
   <plurals name="user_sign_limt">
     <item quantity="other">Podeu introduir %d càracters</item>
     <item quantity="one">Podeu introduir %d càracter</item>
+  </plurals>
+  <plurals name="video_items">
+    <item quantity="other">%1$d elements</item>
+    <item quantity="one">%1$d element</item>
   </plurals>
 </resources>

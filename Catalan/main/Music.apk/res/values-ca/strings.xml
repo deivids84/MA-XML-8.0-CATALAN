@@ -87,7 +87,6 @@
   <string name="button_sort_by_size">Ordena per mida</string>
   <string name="button_wait_for_wifi">Espera</string>
   <string name="buy_other_flow">Dades habituals</string>
-  <string name="buy_traffic">Xina Unicom</string>
   <string name="buy_vip">Aconsegueix el paquet de cançons prèmium</string>
   <string name="can_not_find_resource">"No s'ha trobat el recurs"</string>
   <string name="cancel">Cancel·la</string>
@@ -430,6 +429,7 @@
   <string name="monthly_price">Crèdits Mi</string>
   <string name="more">Més</string>
   <string name="more_about_artist">Més sobre %s</string>
+  <string name="more_add_song_list">Afegeix a la llista de reproducció</string>
   <string name="more_online_artist">Més</string>
   <string name="more_online_billboard">Més</string>
   <string name="more_online_fm">Més</string>
@@ -439,6 +439,7 @@
   <string name="more_online_suggest">Més</string>
   <string name="more_settings">Configuració avançada</string>
   <string name="more_settings_summary">Configuració de baixades, temporitzador, ús de dades mòbils, filtres de fitxers, etc.</string>
+  <string name="more_share">Compartir</string>
   <string name="multichoice">Seleccioneu</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtra els fitxers d\'àudio</string>
