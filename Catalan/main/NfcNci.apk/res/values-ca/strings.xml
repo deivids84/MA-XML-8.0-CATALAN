@@ -23,6 +23,7 @@
   <string name="connecting_peripheral">S\'està connectant a %1$s</string>
   <string name="could_not_use_app">"No s'ha pogut utilitzar %1$s."</string>
   <string name="default_pay_app_removed">S\'ha eliminat el servei preferit per a Toca i Paga. Voleu triar-ne un altre?</string>
+  <string name="device">dispositiu</string>
   <string name="disconnected_peripheral">Desconnectat de %1$s</string>
   <string name="disconnecting_peripheral">S\'està desconnectant de %1$s</string>
   <string name="failed_to_enable_bt">No s\'ha pogut activar el Bluetooth</string>
