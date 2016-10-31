@@ -24,6 +24,7 @@
   <string name="label_pages">Pàgines</string>
   <string name="label_paper_size">Mida del paper</string>
   <string name="label_paper_size_summary">Mida del paper:</string>
+  <string name="mediasize_default">ISO_A4</string>
   <string name="mediasize_standard_china">3</string>
   <string name="mediasize_standard_iso">0</string>
   <string name="mediasize_standard_japan">2</string>

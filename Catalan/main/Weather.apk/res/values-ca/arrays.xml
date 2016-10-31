@@ -26,14 +26,6 @@
     <item>Seül</item>
     <item>Kuala Lumpur</item>
   </string-array>
-  <string-array name="aqi_title_prefix">
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-  </string-array>
   <string-array name="aqi_title_append">
     <item>%1$s</item>
     <item>%1$s</item>
@@ -77,7 +69,7 @@
     <item>Pols</item>
     <item>Calitja</item>
     <item>Pluja gelant</item>
-    <item></item>
+    <item/>
   </string-array>
   <string-array name="indices_uv_level">
     <item>Feble</item>
@@ -99,7 +91,7 @@
     <item>SE</item>
     <item>S</item>
     <item>SO</item>
-    <item>O</item>
+    <item>W</item>
     <item>NO</item>
   </string-array>
   <string-array name="wind_power">
@@ -116,5 +108,13 @@
     <item>%s</item>
     <item>%s</item>
     <item>%s</item>
+  </string-array>
+  <string-array name="aqi_value">
+    <item>Bé</item>
+    <item>Satisfactory</item>
+    <item>Moderately polluted</item>
+    <item>Mala qualitat</item>
+    <item>Very poor</item>
+    <item>Important</item>
   </string-array>
 </resources>

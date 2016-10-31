@@ -92,7 +92,6 @@ Voleu tancar-lo?»</string>
   <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
   <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
   <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
-  <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
@@ -192,6 +191,7 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingSecondaryUserActivity</string>
   <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
   <string name="config_datause_iface">rmnet0</string>
+  <string name="config_default_dns_server">8.8.8.8</string>
   <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
   <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
@@ -263,7 +263,6 @@ a partir de %s»</string>
   <string name="default_audio_route_name">Telèfon</string>
   <string name="default_audio_route_name_dock_speakers">Altaveus de la base</string>
   <string name="default_audio_route_name_headphones">Auriculars</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminat</string>
@@ -389,7 +388,6 @@ amb %s»</string>
   <string name="fingerprints">Empremtes:</string>
   <string name="floating_toolbar_close_overflow_description">Tanca el panell addicional</string>
   <string name="floating_toolbar_open_overflow_description">Més opcions</string>
-  <string name="font_family_body_1_material">sans-serif</string>
   <string name="font_family_body_2_material">sans-serif-medium</string>
   <string name="font_family_button_material">sans-serif-medium</string>
   <string name="font_family_caption_material">sans-serif</string>
@@ -614,7 +612,7 @@ Per treure la fixació, pressioneu i manteniu el botó Inici i el d\'encesa a la
   <string name="lockscreen_access_pattern_detected">Patró completat</string>
   <string name="lockscreen_access_pattern_start">Patró iniciat</string>
   <string name="lockscreen_carrier_default">Sense servei.</string>
-  <string name="lockscreen_emergency_call">Trucada d\'emergència</string>
+  <string name="lockscreen_emergency_call">Emergència</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Si falleu %d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %d vegades, haureu de fer servir les vostres credencials d\'accés a Google per desbloquejar el telèfon.
 

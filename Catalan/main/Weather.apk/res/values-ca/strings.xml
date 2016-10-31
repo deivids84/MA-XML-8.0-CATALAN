@@ -66,7 +66,6 @@
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Gestioneu les alertes</string>
   <string name="edit_city">Edita</string>
-  <string name="empty">" "</string>
   <string name="first_start_network_msg">Aquesta aplicació necessita connectar-se a Internet i accedir a la vostra ubicació per funcionar correctament.</string>
   <string name="first_start_network_title">Accés a la connexió a Internet i a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>

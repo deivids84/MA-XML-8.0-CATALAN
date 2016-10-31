@@ -135,6 +135,7 @@
   <string name="status_bar_toggle_vibrate">Vibra</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Punt d\'accés</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
   <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
   <string name="turn_off">Desactiva</string>

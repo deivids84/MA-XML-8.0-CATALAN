@@ -12,4 +12,18 @@
     <item>512KB</item>
     <item>Esperar sempre a estar connectat per Wi-Fi</item>
   </string-array>
+  <string-array name="video_type">
+    <item>avi</item>
+    <item>rmvb</item>
+    <item>rm</item>
+    <item>asf</item>
+    <item>mpeg</item>
+    <item>wmv</item>
+    <item>mp4</item>
+    <item>mkv</item>
+    <item>m4v</item>
+    <item>xvid</item>
+    <item>flv</item>
+    <item>mp3</item>
+  </string-array>
 </resources>

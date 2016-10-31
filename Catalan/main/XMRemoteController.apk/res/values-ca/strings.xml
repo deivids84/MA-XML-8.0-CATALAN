@@ -212,7 +212,7 @@
   <string name="epg_all_channels">Tots els canals</string>
   <string name="epg_book_all">Programa-ho tot</string>
   <string name="epg_book_count">Programa %1$s</string>
-  <string name="epg_book_program">La reserva %1$s [%2$s] ha estat satisfactòria</string>
+  <string name="epg_book_program">预约 %1$s [%2$s] 成功</string>
   <string name="epg_bookable">Programa</string>
   <string name="epg_booked">Programat</string>
   <string name="epg_booked_program_time_left">Programació (queda %1$s)</string>
@@ -257,7 +257,7 @@
   <string name="epg_no_program_data">No hi ha dades de la programació</string>
   <string name="epg_no_search_result">No hi ha resultats de la cerca</string>
   <string name="epg_no_sys_notification">Temporalment no hi ha sistema de notificació</string>
-  <string name="epg_not_booked_program_time_left">Programat (temps restant%1$s)</string>
+  <string name="epg_not_booked_program_time_left">预约 (还有%1$s播出)</string>
   <string name="epg_program_comment">Escriu un comentari</string>
   <string name="epg_program_detail_more_time_events">更多播出时间</string>
   <string name="epg_program_share">Comparteix %1$s</string>
@@ -319,7 +319,7 @@
   <string name="get_info_failed">"No s'ha pogut obtenir informació"</string>
   <string name="get_location_fail_tip">"No s'ha pogut determinar la localització, escolliu una ciutat"</string>
   <string name="guid_one">· Connecta a la mateixa xarxa Wi-Fi que la del dispositiu de destinació</string>
-  <string name="guid_three">"· Alguns controls poden no estar disponibles si el vostre televisor o descodificador no és compatible amb Android"</string>
+  <string name="guid_three">"· Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android"</string>
   <string name="guid_two">· Turn off router AP Isolation</string>
   <string name="guid_zero">". El vostre dispositiu no és compatible amb dispositius d'IR."</string>
   <string name="guide">Guia</string>
@@ -446,8 +446,8 @@ Llavors responeu la pregunta"</string>
   <string name="match_mibox_third">· Afegeix uns altres dispositius Mi automàticament</string>
   <string name="match_name_power">Encesa</string>
   <string name="match_number_default">Funcionen els botons de numeració?</string>
-  <string name="match_power_confirm_tip_frame">Esta engegat %1$s?</string>
-  <string name="match_power_main_tip_frame">Esta engegat %1$s?</string>
+  <string name="match_power_confirm_tip_frame">%1$s està funcionant?</string>
+  <string name="match_power_main_tip_frame">%1$s està funcionant?</string>
   <string name="match_stb_intro_left">Allibereu quan el cursor es mogui a l\'esquerra</string>
   <string name="match_stb_intro_ok">Allibereu quan es mostri el canvi a la pantalla</string>
   <string name="match_stb_intro_up">Allibereu quan el cursor es mogui cap amunt</string>
@@ -638,7 +638,7 @@ To activate your account, follow the
   <string name="passport_loading">Carregant&#8230;</string>
   <string name="passport_login">Inicieu la sessió a un compte existent</string>
   <string name="passport_login_check_find_device">Comprovant l\'estat de Troba el dispositiu&#8230;</string>
-  <string name="passport_login_check_find_device_failed">"No s'ha pogut comprovar l'estatus de Trobar dispositiu. Comproveu la vostra connexió de xarxa."</string>
+  <string name="passport_login_check_find_device_failed">"No s'ha pogut comprovar l'estat de Trobar dispositiu. Comproveu la vostra connexió de xarxa."</string>
   <string name="passport_login_failed">"No es pot obrir sessió"</string>
   <string name="passport_login_find_device_bind">Aquest dispositiu està associat amb l\'ID del compte Mi existent (%s). Inicieu sessió per activar aquest dispositiu.</string>
   <string name="passport_login_instead_reg">Utilitza aquest número</string>
@@ -683,14 +683,14 @@ To activate your account, follow the
   <string name="passport_relogin">Torneu a iniciar la sessió</string>
   <string name="passport_relogin_notice">Us cal iniciar sessió de nou</string>
   <string name="passport_remove_confirm">Tanca sessió</string>
-  <string name="passport_remove_unactivated_account_notice">"El vostre compte no ha estat activat."</string>
+  <string name="passport_remove_unactivated_account_notice">"El vostre compte no s'ha activat."</string>
   <string name="passport_resend_active_email">Resend activation email</string>
   <string name="passport_reset_fail_title">"No s'ha pogut restablir"</string>
   <string name="passport_reset_password_prompt">La contrasenya és incorrecta</string>
   <string name="passport_reset_password_title">Restableix contrasenya</string>
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
-  <string name="passport_restart_register_title">Crear un compte Mi</string>
+  <string name="passport_restart_register_title">Crea un compte Mi</string>
   <string name="passport_send_too_many_code">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu a provar.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
   <string name="passport_sim_index_info">Targeta SIM %1$d - %2$s</string>

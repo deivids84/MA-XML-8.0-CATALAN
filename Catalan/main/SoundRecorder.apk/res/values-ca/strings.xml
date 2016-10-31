@@ -9,7 +9,7 @@
   <string name="btn_clear_records">Esborra enregistraments (%d elements)</string>
   <string name="button_queue_for_wifi">Espereu</string>
   <string name="button_start_now">Baixa</string>
-  <string name="call_record">Trucades enregistrades</string>
+  <string name="call_record">Trucades enregistrades (%d)</string>
   <string name="choose_call_records_count">%d elements</string>
   <string name="clear_records">Esborra enregistraments sincronitzats</string>
   <string name="cloud_record_open">Sincronitza gravacions</string>

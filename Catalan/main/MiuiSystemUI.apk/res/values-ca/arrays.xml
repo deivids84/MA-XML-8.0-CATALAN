@@ -6,18 +6,18 @@
     <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant&#8230;</item>
     <item>S\'està autenticant&#8230;</item>
-    <item>Obtenint adreça IP&#8230;</item>
+    <item>S\'està obtenint l\'adreça IP&#8230;</item>
     <item>Connectat</item>
     <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
     <item>Desconnectat</item>
     <item>Incorrecte</item>
     <item>Bloquejat</item>
-    <item>Evita temporalment la mala connexió</item>
+    <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item/>
-    <item>S\'està escannejant&#8230;</item>
+    <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant a %1$s&#8230;</item>
     <item>S\'està autenticant amb %1$s&#8230;</item>
     <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
@@ -27,35 +27,79 @@
     <item>Desconnectat</item>
     <item>Incorrecte</item>
     <item>Boquejat</item>
-    <item>Evita temporalment la mala connexió</item>
+    <item>S\'està evitant temporalment una mala connexió</item>
+  </string-array>
+  <string-array name="duration_entries">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>-</item>
+    <item>d</item>
+  </string-array>
+  <string-array name="system_foreground_notification_whitelist">
+    <item>com.miui.home</item>
+    <item>com.android.providers.contacts</item>
+    <item>com.android.updater</item>
+    <item>com.miui.gallery</item>
+    <item>com.miui.player</item>
+    <item>com.android.fileexplorer</item>
+    <item>com.miui.securitycenter</item>
+    <item>com.miui.cloudappbackup</item>
+    <item>com.miui.fmradio</item>
+    <item>com.android.systemui</item>
+  </string-array>
+  <string-array name="aqi_title_append">
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+  </string-array>
+  <string-array name="aqi_title">
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
   </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
     <item>Ennuvolat</item>
-    <item>Tapat</item>
+    <item>Cobert</item>
     <item>Emboirat</item>
     <item>Temporal fort</item>
-    <item>Ruixat</item>
+    <item>Aiguat</item>
     <item>Temporal</item>
     <item>Tempesta</item>
     <item>Xàfec</item>
-    <item>Pluja torrencial</item>
-    <item>Plugim</item>
+    <item>Pluja forta</item>
+    <item>Pluja moderada</item>
     <item>Pluja feble</item>
     <item>Aiguaneu</item>
-    <item>Tempesta de neu</item>
-    <item>Flocs de neu</item>
-    <item>Nevada intensa</item>
+    <item>Torb</item>
+    <item>Neu</item>
+    <item>Neu forta</item>
     <item>Neu moderada</item>
-    <item>Neu lleugera</item>
+    <item>Neu feble</item>
     <item>Temporal fort de sorra</item>
     <item>Temporal de sorra</item>
-    <item>Calima</item>
-    <item>Ventos</item>
-    <item>Calamarsa</item>
-    <item>Pols en suspensió</item>
+    <item>Sorra</item>
+    <item>Ventós</item>
+    <item>Pedra</item>
+    <item>Pols</item>
     <item>Calitja</item>
-    <item>Pluja gelada</item>
+    <item>Pluja gelant</item>
     <item/>
   </string-array>
 </resources>
