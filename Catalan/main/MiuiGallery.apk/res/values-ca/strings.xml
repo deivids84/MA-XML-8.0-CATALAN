@@ -70,7 +70,7 @@
   <string name="album_share_subtitle_requesting">S\'està obtenint la informació de l\'àlbum&#8230;</string>
   <string name="album_share_title_new_album">Comparteix un nou àlbum</string>
   <string name="album_show_local_only">Mostra només els àlbums locals</string>
-  <string name="album_show_local_only_summary">Engegueu per veure i per suprimir fotos només al vostre dispositiu</string>
+  <string name="album_show_local_only_summary">Activeu-ho per veure i eliminar fotos només al vostre dispositiu</string>
   <string name="album_type_baby">Àlbum de nadó</string>
   <string name="album_type_share">Àlbums compartits</string>
   <string name="album_type_system">Àlbums del sistema</string>
@@ -121,7 +121,7 @@
   <string name="baby_sexy">Gènere</string>
   <string name="baby_suffix">nadó</string>
   <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu buscar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
-  <string name="backup_automatically_title">Còpia de seguretat i sincronització automàtica</string>
+  <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_detail_page_title">Còpia de seguretat de Mi Cloud</string>
   <string name="backup_only_in_wifi">Utilitza només el Wi-Fi per fer les còpies de seguretat de fotos i vídeos</string>
   <string name="backup_only_in_wifi_summary">No utiltiza mai les dades mòbils per fer les còpies de seguretat de fotos o vídeos</string>
@@ -311,7 +311,7 @@
   <string name="cityname_241">Shanwei</string>
   <string name="cityname_242">Shangluo</string>
   <string name="cityname_243">Shangqiu</string>
-  <string name="cityname_244">Shanghai</string>
+  <string name="cityname_244">Xangai</string>
   <string name="cityname_245">Shangrao</string>
   <string name="cityname_246">Shaoguan</string>
   <string name="cityname_247">Shaoxing</string>
@@ -513,7 +513,6 @@
   <string name="cityname_86">Guyuan</string>
   <string name="cityname_87">"Guang'an"</string>
   <string name="cityname_88">Guangyuan</string>
-  <string name="cityname_89">Guangzhou</string>
   <string name="cityname_9">Anshan</string>
   <string name="cityname_90">Guigang</string>
   <string name="cityname_91">Guilin</string>
@@ -800,7 +799,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="not_is">No</string>
   <string name="not_remind_again">"No ho mostris més"</string>
   <string name="not_remind_any_more">"No ho mostris més"</string>
-  <string name="number_of_uploading_finish">S\'ha fet una còpia de seguretat de l\'àlbum automàticament</string>
   <string name="open">Activa</string>
   <string name="open_public_message">Creeu una URL per compartir amb els vostres amics</string>
   <string name="open_public_title">Comparteix</string>
@@ -848,6 +846,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Baixeu la foto abans d\'editar-la</string>
+  <string name="photo_editor_label">Edita</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
@@ -919,15 +918,17 @@ Feu més fotos als vostres amics!"</string>
   <string name="scan_barcode_to_join">Escanegeu el codi QR per afegir l\'àlbum</string>
   <string name="scan_qr_code_buttom_text">Escanegeu el codi QR per veure aquest àlbum</string>
   <string name="secret_album_display_name">Àlbum ocult</string>
+  <string name="secret_album_password_first_use_msg">S\'utilitzarà la contrasenya de protecció d\'intimitat. Funciona per fotos, notes, carpetes ocultes, etc.</string>
+  <string name="secret_album_password_first_use_title">Contrasenya de protecció de la privacitat</string>
   <string name="secret_album_password_update_dialog_cancel">Cancel·la</string>
   <string name="secret_album_password_update_dialog_msg">La Galeria utilitzarà contrasenya de protecció d\'intimitat d\'ara endavant.</string>
   <string name="secret_album_password_update_dialog_ok">D’acord</string>
   <string name="secret_album_password_update_dialog_title">Actualitza la contrasenya</string>
+  <string name="secret_album_password_update_first_user_dialog_msg">Contrasenya de protecció d\'intimitat per fotos, notes, carpetes ocultes, etc.</string>
+  <string name="secret_album_password_update_first_user_dialog_title">Actualitza la contrasenya</string>
   <string name="secret_album_set_pc_password_dialog_msg">Contrasenya de protecció d\'intimitat per aplis, fotos, notes, carpetes ocultes, etc.</string>
   <string name="secret_album_set_pc_password_dialog_ok">Estableix una contrasenya</string>
   <string name="secret_album_set_pc_password_dialog_title">Estableix una contrasenya nova</string>
-  <string name="secret_album_set_pc_password_first_use_msg">S\'utilitzarà la contrasenya de protecció d\'intimitat. Funciona per fotos, notes, carpetes ocultes, etc.</string>
-  <string name="secret_album_set_pc_password_first_use_title">Contrasenya de protecció d\'intimitat</string>
   <string name="secret_reason_space_full">Els àlbums del núvol estan plens</string>
   <string name="secret_reason_too_large">El fitxer és massa gran</string>
   <string name="secret_reason_type_not_support">"Aquest tipus de fitxer no és compatible"</string>
@@ -949,7 +950,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="share">Comparteix</string>
   <string name="share_album">Comparteix l\'àlbum</string>
   <string name="share_album_needs_auto_upload_tip">"No es poden desactivar les còpies de seguretat per als àlbums compartits"</string>
-  <string name="share_app_is_launching">{0,elecció,0#S\'està executant l\'aplicació&#8230;|1#%s s\'està executant&#8230;}</string>
+  <string name="share_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="share_by_email_start">Comparteix %1$s en segon pla</string>
   <string name="share_by_email_successfully">S\'ha compartit %1$s</string>
   <string name="share_public_url_text">"He compartit l'àlbum %1$s amb tu. Pots veure-ho a %2$s"</string>
@@ -1049,7 +1050,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_filter_purple">Porpra</string>
   <string name="video_editor_filter_rainy">Plujós</string>
   <string name="video_editor_filter_rouge">Coloret</string>
-  <string name="video_editor_filter_sunny">Assolellat</string>
+  <string name="video_editor_filter_sunny">Serè</string>
   <string name="video_editor_invalid_trim_arguments">Hauria de ser superior a 1 segon</string>
   <string name="video_editor_loading_plugin">S\'està carregant&#8230;</string>
   <string name="video_editor_loading_warning_msg">"Per un error de codificació, algunes característiques no estaran disponibles durant el procés d'edició, però això no afectarà el fitxer de vídeo final."</string>
@@ -1082,7 +1083,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="view_by_gallery_tip">Galeria de MIUI</string>
   <string name="view_face_album">Veure àlbum</string>
   <string name="view_queuing_status">Comprova l\'estat</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Benvingut a Mi Cloud</string>
   <string name="welcome_to_slim">Optimització de l\'emmagatzematge local</string>
   <string name="where_is_barcode">"On és el codi QR?"</string>

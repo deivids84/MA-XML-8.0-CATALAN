@@ -225,7 +225,6 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="app_link_open_never">No l\'obris amb aquesta aplicació</string>
   <string name="app_list_memory_use">Ús de les aplicacions</string>
   <string name="app_list_preference_none">Cap</string>
-  <string name="app_lock_role_instruction">Protegiu les vostres aplicacions privades</string>
   <string name="app_memory_use">Memoria en ús</string>
   <string name="app_name_label">Aplicació</string>
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
@@ -386,7 +385,6 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="battery_info_health_unspecified_failure">S\'ha produït un error desconegut</string>
   <string name="battery_info_label">Informació de la bateria</string>
   <string name="battery_info_level_label">Nivell de la bateria:</string>
-  <string name="battery_info_power_ac">AC</string>
   <string name="battery_info_power_ac_usb">AC+USB</string>
   <string name="battery_info_power_label">Endoll:</string>
   <string name="battery_info_power_unknown">Desconegut</string>
@@ -653,6 +651,11 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_apply_step_4">Pot ser que que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
   <string name="bootloader_apply_step_5">Assegureu-vos que sabeu com utilitzar el mode Fastboot abans d\'activar-lo.</string>
   <string name="bootloader_apply_title">Nota important</string>
+  <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
+  <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
+  <string name="bootloader_status_locked">Bloquejada</string>
+  <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
+  <string name="bootloader_status_unlocked">S\'ha desbloquejat</string>
   <string name="bootloader_summary">Flasheja el dispositiu mitjançant USB</string>
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
@@ -805,8 +808,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="config_charging_function_name">s\'està carregant</string>
   <string name="config_list_label">Xarxes configurades</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
-  <string name="config_mtp_function_name">mtp</string>
-  <string name="config_ptp_function_name">ptp</string>
   <string name="configure_apps">Configura les aplicacions</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
   <string name="confirm_action">D\'acord</string>
@@ -1251,6 +1252,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_service_password_reason">El fet d\'activar %1$s afecta el xifrat de dades i cal confirmar la contrasenya.</string>
   <string name="enable_service_pattern_reason">El fet d\'activar %1$s afecta el xifrat de dades i cal confirmar el patró.</string>
   <string name="enable_service_pin_reason">El fet d\'activar %1$s afecta el xifrat de dades i cal confirmar el PIN.</string>
+  <string name="enable_service_title">Voleu utilitzar %1$s?</string>
   <string name="enable_snapshot_screenlock">Mantingueu premut Enrere per fer una foto</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
@@ -1424,7 +1426,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="free_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
   <string name="free_wifi_connected">S\'ha connectat a Wi-Fi oberta</string>
-  <string name="free_wifi_connected_count">%1$d usuaris connectats</string>
+  <string name="free_wifi_connected_count">%1$s usuaris connectats</string>
   <string name="free_wifi_connected_time">Durada: %1$s</string>
   <string name="free_wifi_connecting">S\'està connectant&#8230;</string>
   <string name="free_wifi_login_again">Torna a iniciar la sessió</string>
@@ -1490,7 +1492,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="hdmi_3dplay_control_disable_subtext">S\'ha desactivat la sortida de pantalla 3D estereoscòpica</string>
   <string name="hdmi_3dplay_control_enable_subtext">S\'ha activat la sortida de pantalla 3D estereoscòpica</string>
   <string name="hdmi_3dplay_control_text">Sortida 3D</string>
-  <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Nadiu</string>
   <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Configuració del compte</string>
@@ -1555,6 +1556,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="input_methods_and_subtype_enabler_title">Selecciona mètodes d\'introducció actius</string>
   <string name="input_methods_settings_label_format">Configuració de %1$s</string>
   <string name="input_methods_settings_title">Introducció de text</string>
+  <string name="input_password_hint_text">Introduir contrasenya</string>
   <string name="input_settings">Configuració d\'entrada</string>
   <string name="install_all_warning">El telèfon i les dades personals són més vulnerables a atacs per part d\'aplicacions d\'orígens desconeguts. L\'usuari accepta ser l\'únic responsable de qualsevol dany que es produeixi al telèfon o de la pèrdua de dades que puguin resultar de l\'ús d\'aquestes aplicacions.</string>
   <string name="install_applications">Orígens desconeguts</string>
@@ -1585,7 +1587,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="internal_storage">Emmagatzematge intern</string>
   <string name="internal_storage_sentence">emmagatzematge intern</string>
   <string name="invalid_location">La ubicació d\'instal·lació no és vàlida.</string>
-  <string name="invalid_size_value">No s\'ha pogut calcular la mida del paquet</string>
+  <string name="invalid_size_value">No s\'ha pogut calcular la mida del paquet.</string>
   <string name="ipaddr_label">IPaddr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
@@ -2109,7 +2111,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_headset_settings">Auriculars</string>
   <string name="music_hifi_summary">Redueix el soroll, la distorsió i augmenta la qualitat d\'àudio</string>
   <string name="music_hifi_title">Àudio Hi-Fi</string>
-  <string name="music_hifi_volume">Volum Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
@@ -2480,7 +2481,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_xiaomi_account">Configuració/Compte Mi</string>
   <string name="path_xiaomi_cloud_service">Aplicacions</string>
   <string name="path_xiaomi_money_service">Aplicacions</string>
-  <string name="path_xspace">Configuració/Aplicacions clonades</string>
+  <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="path_zen_mode_option_miui_silent">Configuració/So i vibració/Mode en silenci</string>
   <string name="performance_category">Rendiment</string>
   <string name="permission_detail_info">Detalls</string>
@@ -2529,7 +2530,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_charging_duration_usb">%1$s - %2$s fins a plena per USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins a plena per sense fils</string>
   <string name="power_checker">Comprovador d\'energia</string>
-  <string name="power_discharge_remaining">%1$s restants</string>
+  <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
   <string name="power_flashlight">Llanterna</string>
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
@@ -3736,7 +3737,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Assistent tàctil</string>
+  <string name="touch_assistant">Menú de dreceres</string>
   <string name="touch_filtered_warning">Com que hi ha una aplicació que amaga una sol·licitud de permís, des de la configuració no es pot verificar la resposta.</string>
   <string name="touch_sensitive_summary">Fes que la pantalla sigui més sensible a la pressió</string>
   <string name="touch_sensitive_title">Mode de Guants</string>
@@ -3813,9 +3814,9 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
   <string name="uninstall_text">Desinstal·la</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions clonades es suprimiran conjuntament amb les dades de l\'aplicació.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions clonades, es suprimiran totes les dades de l\'aplicació.</string>
-  <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació clonada?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
+  <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_app">Aplicació desconeguda</string>
   <string name="unlock_change_lock_password_title">Canvi de contrasenya de desbloqueig</string>

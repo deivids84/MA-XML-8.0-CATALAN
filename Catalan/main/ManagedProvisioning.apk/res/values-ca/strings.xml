@@ -12,6 +12,8 @@
   <string name="continue_provisioning_notify_text">Toqueu per continuar amb la configuració del perfil professional</string>
   <string name="continue_provisioning_notify_title">S\'ha acabat el xifratge</string>
   <string name="copying_certs">S\'estan configurant els certificats de CA</string>
+  <string name="default_managed_profile_name">Perfil de feina</string>
+  <string name="default_owned_device_username">Dispositiu de feina de l\'usuari</string>
   <string name="delete_profile">SUPRIMEIX</string>
   <string name="delete_profile_title">Voleu suprimir el perfil professional?</string>
   <string name="device_owner_cancel_cancel">CANCEL·LA</string>
@@ -33,4 +35,21 @@
   <string name="encrypt_device_cancel">CANCEL·LA</string>
   <string name="encrypt_device_launch_settings">XIFRATGE</string>
   <string name="encrypt_device_text_for_device_owner_setup">"Per continuar configurant el dispositiu, l'heu de xifrar. És possible que trigui una mica."</string>
+  <string name="encrypt_device_text_for_profile_owner_setup">"Per continuar configurant el perfil de feina, cal que xifreu el dispositiu. Això pot portar una estona."</string>
+  <string name="frp_clear_progress_text">Espereu...</string>
+  <string name="frp_clear_progress_title">S\'està esborrant</string>
+  <string name="learn_more_label">Botó per saber-ne més</string>
+  <string name="learn_more_link">Més informació</string>
+  <string name="managed_provisioning_error_text">"No s'ha pogut configurar el perfil de feina. Contacteu amb el departament d'informàtica o torneu-ho a provar més tard."</string>
+  <string name="maximum_user_limit_reached">"No es pot crear el perfil professional perquè heu arribat al màxim d'usuaris permesos al dispositiu. Suprimiu-ne un com a mínim i torneu-ho a provar."</string>
+  <string name="mdm_icon_label">icona de %1$s</string>
+  <string name="ok_setup">D\'acord</string>
+  <string name="pick_launcher">D\'ACORD</string>
+  <string name="profile_owner_cancelling">S\'està cancel·lant&#8230;</string>
+  <string name="progress_download">S\'està baixant l\'aplicació d\'administració&#8230;</string>
+  <string name="set_up">Configura</string>
+  <string name="setup_work_device">Restaurar disseny d\'escriptori i aplicacions</string>
+  <string name="suw_back_button_label">Enrere</string>
+  <string name="suw_more_button_label">Més</string>
+  <string name="suw_next_button_label">Següent</string>
 </resources>

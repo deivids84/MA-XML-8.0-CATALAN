@@ -70,7 +70,7 @@
   <string name="failed_to_add_media">"No podeu afegir aquest %1$s al missatge."</string>
   <string name="failed_to_resize_image">"No es pot redimensionar la imatge."</string>
   <string name="feedback_description_hint">Escriviu el comentari aquí</string>
-  <string name="feedback_submit">Envieu</string>
+  <string name="feedback_submit">Envia</string>
   <string name="festival_networking_desc">Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat.</string>
   <string name="festival_never_remind">"No ho tornis a mostrar"</string>
   <string name="festival_sms_loading">Carregant&#8230;</string>
@@ -142,7 +142,6 @@
   <string name="permdesc_readHmsCommon">Permet que l\'aplicació llegeixi dades de Mi Pub.</string>
   <string name="permdesc_writeHmsCommon">Permet que l\'aplicació escrigui dades de Mi Pub.</string>
   <string name="play">Reprodueix</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Configuració addicional</string>
   <string name="pref_collapse_sp_messages_summary">Agrupa automàticament les notificacions d\'SMS</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatge breu (SMSC)</string>
@@ -202,7 +201,7 @@
   <string name="select_different_media">Tria un %1$s diferent.</string>
   <string name="select_link_title">Trieu una acció</string>
   <string name="select_recipient">Seleccioneu els destinataris</string>
-  <string name="send">Envieu</string>
+  <string name="send">Envia</string>
   <string name="send_sms">Envieu el missatge</string>
   <string name="send_to">Per a:</string>
   <string name="service_unavailiable">Servei no disponible</string>
@@ -212,7 +211,6 @@
   <string name="sim_copy_to_phone_memory">Copia a la memòria del telèfon</string>
   <string name="sim_delete">Suprimeix</string>
   <string name="sim_empty">No hi ha missatges a la targeta SIM</string>
-  <string name="snippet_audio">[àudio]</string>
   <string name="snippet_picture">[imatge]</string>
   <string name="sp_mark_as_read_title">Marca tots com a llegits</string>
   <string name="stick">Fixeu</string>

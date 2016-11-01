@@ -4,6 +4,7 @@
   <string name="configure">Configura</string>
   <string name="data_received">Rebut:</string>
   <string name="data_transmitted">Enviat:</string>
+  <string name="data_value_format">%1$s bytes / %2$s paquets</string>
   <string name="disconnect">Desconnecta</string>
   <string name="duration">Durada:</string>
   <string name="legacy_title">La VPN està connectada</string>

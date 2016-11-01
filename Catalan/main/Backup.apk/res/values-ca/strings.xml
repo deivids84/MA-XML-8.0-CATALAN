@@ -6,7 +6,7 @@
   <string name="account_contact_backup_info">Dades del compte Google, Mi i contactes</string>
   <string name="account_login">Inicia la sessió</string>
   <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
-  <string name="already_enable_encrypt">Xifratge activat</string>
+  <string name="already_enable_encrypt">El xifratge ja està activat</string>
   <string name="app_name">Còpia de seguretat</string>
   <string name="apps_and_data_item_desc">Aplicacions i dades</string>
   <string name="auto_backup">Planifica còpies de seguretat periòdiques</string>
@@ -25,8 +25,8 @@
   <string name="auto_backup_time">Hora</string>
   <string name="auto_backup_user_data">Aplicacions</string>
   <string name="backup">Còpia de seguretat</string>
-  <string name="backup_data">Selecciona elements de la còpia de seguretat</string>
-  <string name="backup_delete">Suprimeix:</string>
+  <string name="backup_data">Selecciona els elements per fer-ne còpia de seguretat</string>
+  <string name="backup_delete">Elimina:</string>
   <string name="backup_empty">No hi ha còpies de seguretat</string>
   <string name="backup_empty_info">" Còpia de seguretat de les dades, configuracions i aplicacions"</string>
   <string name="backup_empty_info_onpad">" Còpia de seguretat de les dades, configuracions i aplicacions"</string>
@@ -40,31 +40,31 @@
   <string name="backup_items_app_tailer">" fitxers de dades d'aplicació"</string>
   <string name="backup_items_sysdata_tailer">" fitxers de dades del sistema,"</string>
   <string name="backup_new">Noves:</string>
-  <string name="backup_progress">S\'està fent una còpia de seguretat&#8230;</string>
+  <string name="backup_progress">S\'està fent la còpia de seguretat&#8230;</string>
   <string name="backup_report">Mostra els detalls</string>
   <string name="backup_update">Actualiza</string>
   <string name="batch_delete_backup_confirm">Voleu eliminar les còpies de seguretat seleccionades?</string>
-  <string name="button_backup">Còpia de seguretat</string>
+  <string name="button_backup">Fes la còpia de seguretat</string>
   <string name="button_cancel">Cancel·la</string>
   <string name="button_continue">Continua</string>
-  <string name="button_finish">Fet</string>
+  <string name="button_finish">Finalitza</string>
   <string name="button_next">Següent</string>
   <string name="button_ok">D\'acord</string>
   <string name="button_return">Enrere</string>
   <string name="button_send">Envia</string>
   <string name="call_title">Registres de trucades</string>
-  <string name="camera_summary">Configuració de la càmera (sense les fotos)</string>
+  <string name="camera_summary">Configuració de la càmera (no inclou les fotos)</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_backup">Atura</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
-  <string name="cloud_backup_hint">Inicia la sessió per accedir a les còpies de seguretat</string>
-  <string name="cloud_backup_login">Inicia la sessió al compte Mi</string>
+  <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
+  <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
   <string name="cloud_backup_window_title">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
-  <string name="cloud_last_backup">"Darrera còpia de seguretat el "</string>
+  <string name="cloud_last_backup">"Darrera còpia de seguretat feta el "</string>
   <string name="cloud_no_backup">No hi ha còpies de seguretat</string>
   <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
   <string name="cloud_restore_title">Restauració de la còpia de seguretat</string>
@@ -104,7 +104,7 @@
   <string name="err_router_disconnected">"Comproveu la connexió de l'encaminador i torneu-ho a provar."</string>
   <string name="err_router_files_delete">"No s'han pogut eliminar les còpies de seguretat de l'encaminador"</string>
   <string name="err_unknown">Error no identificat</string>
-  <string name="err_version_too_old">El fitxer de la còpia de seguretat és massa vell.</string>
+  <string name="err_version_too_old">El fitxer de la còpia de seguretat és massa antic.</string>
   <string name="err_version_unsupported">"La versió de la còpia de seguretat no és compatible."</string>
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canvia de compte</string>
@@ -119,7 +119,7 @@
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
-  <string name="import_from_xiaomi_account_hint1">"1.\u0009Descarregueu Mi Talk i inicieu la sessió.
+  <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
 
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
@@ -138,12 +138,12 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="local_select_video">Vídeos</string>
-  <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi.</string>
+  <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
-  <string name="multi_user_mode_backup_message">"Desactiveu el mode de Multiusuari per utilitzar la còpia de seguretat."</string>
-  <string name="multi_user_mode_dialog_message">"Desactiveu el mode de Multiusuari per utilitzar Mi Mover."</string>
+  <string name="multi_user_mode_backup_message">"Desactiveu el mode de Multiusuari per poder utilitzar la còpia de seguretat."</string>
+  <string name="multi_user_mode_dialog_message">"Desactiveu el mode de Multiusuari per poder utilitzar Mi Mover."</string>
   <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode de Multiusuari"</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
@@ -155,7 +155,7 @@
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
   <string name="notif_restore_complete_title">Restauració completada</string>
-  <string name="notif_restore_content">S\'està restaurant les dades d\'usuari</string>
+  <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restauració de dades</string>
   <string name="notif_trans_receiving_completed">Dades rebudes correctament</string>
   <string name="notif_trans_receiving_failed">Error en rebre les dades</string>
@@ -169,25 +169,25 @@
   <string name="prompt_writing">S\'està desant&#8230;</string>
   <string name="read_encrypt_fail">"No es pot llegir la còpia de seguretat xifrada"</string>
   <string name="refresh">Actualitza</string>
-  <string name="remote_receive">Receptor</string>
+  <string name="remote_receive">Rep</string>
   <string name="restore">Restaura</string>
   <string name="restore_backup">Restaura</string>
   <string name="restore_contact">Restaura els contactes</string>
   <string name="restore_contact_content">La restauració pot crear contactes duplicats.</string>
-  <string name="restore_contacts_hit">Per visualitzar les dades restaurades, cal tornar a iniciar la sessió.</string>
+  <string name="restore_contacts_hit">Potser us caldrà iniciar sessió de nou per visualitzar les dades restaurades.</string>
   <string name="restore_counts">Restaura:</string>
   <string name="restore_data">Selecciona els elements a restaurar</string>
   <string name="restore_failed">"No s'ha pogut restaurar"</string>
   <string name="restore_finished">S\'ha restaurat correctament</string>
   <string name="restore_is_running">S\'està restaurant el dispositiu</string>
-  <string name="restore_launcher_layout_hit">Restaura la configuració del sistema</string>
+  <string name="restore_launcher_layout_hit">Restaura la configuració del llançador</string>
   <string name="restore_progress">S\'està restaurant&#8230;</string>
-  <string name="restore_report">Informe de la restauració</string>
-  <string name="restore_telephony_hit">La restauració reiniciarà les aplicacions del telèfon</string>
-  <string name="retry">Reintenta-ho</string>
+  <string name="restore_report">Detalls de la restauració</string>
+  <string name="restore_telephony_hit">La restauració reiniciarà l\'aplicació Telèfon.</string>
+  <string name="retry">Torna-hi</string>
   <string name="reverse_all">Esborra-ho tot</string>
   <string name="router_backup_hint">No apagueu el dispositiu</string>
-  <string name="sc_bad_request">Sol·licitud errònia</string>
+  <string name="sc_bad_request">Sol·licitud no vàlida</string>
   <string name="sc_internal_server_error">Error intern del servidor</string>
   <string name="sc_network_unavailable">Comproveu la connexió i torneu-ho a provar.</string>
   <string name="sc_others">S\'ha produït un error</string>
@@ -206,13 +206,12 @@
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
   <string name="service_stoped">El servei s\'ha aturat</string>
   <string name="settings_summary">Configuració del telèfon i missatgeria</string>
-  <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
-  <string name="start_backup">Còpia de seguretat</string>
+  <string name="start_backup">Fes la còpia de seguretat</string>
   <string name="start_restore">Restaura</string>
   <string name="state_mounting">S\'està accedint a l\'emmagatzematge de l\'encaminador&#8230;</string>
   <string name="state_waiting">Un moment&#8230;</string>
@@ -238,7 +237,7 @@
   <string name="task_post_running">S\'està copiant&#8230;</string>
   <string name="task_pre_running">S\'està iniciant&#8230;</string>
   <string name="task_progress">Progrés</string>
-  <string name="task_restore_cancel_dialog">Si ara l\'atureu es poden perdre dades.</string>
+  <string name="task_restore_cancel_dialog">Si l\'atureu ara es poden perdre dades.</string>
   <string name="task_restore_cancel_progress">S\'està aturant&#8230;</string>
   <string name="task_restore_finished_local">"S'ha restaurat "</string>
   <string name="task_restore_none">No hi ha res per restaurar</string>
@@ -258,7 +257,7 @@
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
   <string name="trans_cancel_confirm">S\'està transferint, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant&#8230;</string>
-  <string name="trans_connect_failed_message">"Error de connexió, torneu-ho a provar o reinicieu el sistema. I a l'altre dispositiu, aneu a a Configuració &gt; Configuració addicional &gt; Mi Mover, Prem [Sóc un emissor], o rellanceu Mi Mover un cop s'hagi reiniciat."</string>
+  <string name="trans_connect_failed_message">"Error de connexió, torneu-ho a provar o reinicieu el sistema. A l'altre dispositiu, aneu a a Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor], o rellanceu Mi Mover un cop s'hagi reiniciat."</string>
   <string name="trans_connect_failed_title">"No s'ha pogut connectar"</string>
   <string name="trans_connect_failed_toast">"No s'ha pogut connectar"</string>
   <string name="trans_connecting_toast">S\'està connectant&#8230;</string>
@@ -269,7 +268,7 @@
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_main_tutor">Desplaça els contactes, registre de trucades, missatges, disposició de la pantalla d\'inici, aplicacions, configuracions, etc. a un nou dispositiu</string>
+  <string name="trans_main_tutor">Desplaça els contactes, el registre de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_native_no_space">"No hi ha prou espai en aquest dispositiu.
 Com a mínim cal esborrar %s."</string>
@@ -278,9 +277,9 @@ Com a mínim cal esborrar %s."</string>
   <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover
 Premeu [Sóc un receptor] per crear el codi QR"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Instal·leu l\'aplicació Mi Mover en el dispositiu vell
+  <string name="trans_operate_old_phone_tips1">"1. Instal·leu l\'aplicació Mi Mover en el dispositiu antic
 2. Obriu l\'aplicació i seleccioneu [Sóc un emissor]
-3. Escanegeu el codi QR amb el dispositiu vell"</string>
+3. Escanegeu el codi QR amb el dispositiu antic"</string>
   <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor]"</string>
   <string name="trans_please_waiting">Un moment&#8230;</string>
   <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
@@ -289,10 +288,10 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
   <string name="trans_progress_subdescript_transing_receiver">S\'està rebent %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">S\'ha rebut %s, s\'està esperant per restaurar&#8230;</string>
   <string name="trans_progress_subdescript_transing_sender">S\'està enviant %1$s, %2$s completat</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">S\'està rebent fitxers, %s completat</string>
-  <string name="trans_progress_subdescript_transingsd_sender">S\'està enviant fitxers, %s completat</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">S\'està rebent %1$s fitxers de la targeta SD, %2$s completat</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">S\'està enviant %1$s fitxers de la targeta SD, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">S\'estan rebent fitxers, %s completat</string>
+  <string name="trans_progress_subdescript_transingsd_sender">S\'estan enviant fitxers, %s completat</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">S\'estan rebent %1$s fitxers de la targeta SD, %2$s completat</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">S\'estan enviant %1$s fitxers de la targeta SD, %2$s completat</string>
   <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
   <string name="trans_receiver">"Sóc un receptor"</string>
   <string name="trans_receiver_time_remained">"%s restant.
@@ -300,49 +299,49 @@ No apagueu la zona Wi-Fi.
 Mantingueu els dispositius propers l\'un a l\'altre."</string>
   <string name="trans_receiving_completed">S\'han rebut les dades correctament</string>
   <string name="trans_restoring">S\'està restaurant&#8230;</string>
-  <string name="trans_restoring_no_items">S\'està sincronitzant elements</string>
-  <string name="trans_retry">Reintenta-ho</string>
-  <string name="trans_scan_invalid_qrcode">Codi QR invàlid</string>
+  <string name="trans_restoring_no_items">S\'estan sincronitzant elements</string>
+  <string name="trans_retry">Torna-hi</string>
+  <string name="trans_scan_invalid_qrcode">Codi QR no vàlid</string>
   <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
   <string name="trans_select_data">Seleccioneu els elements per enviar</string>
   <string name="trans_select_data_no_space">"No hi ha prou espai en el dispositiu nou
 Torneu a seleccionar els fitxers o esborreu %s d\'emmagatzematge en el dispositiu nou"</string>
   <string name="trans_select_data_tips">"Seleccioneu els fitxers per a transferir
 Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
-  <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre dades.</string>
-  <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir dades.</string>
+  <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
+  <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
   <string name="trans_sender">"Sóc un emissor"</string>
-  <string name="trans_sender_connectting">Confirma en el dispositiu nou</string>
+  <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
   <string name="trans_sender_searching">S\'està cercant dispositius nous</string>
-  <string name="trans_sender_searching_ensurance">"Comproveu que el dispositiu vell és engegat
-S\'està esperant que el dispositiu vell es connecti&#8230;"</string>
+  <string name="trans_sender_searching_ensurance">"Comproveu que el dispositiu antic està engegat
+S\'està esperant que el dispositiu antic es connecti&#8230;"</string>
   <string name="trans_sender_time_remained">"%s restant.
 No apagueu el Wi-Fi.
 Mantingueu els dispositius propers l\'un a l\'altre."</string>
   <string name="trans_sending_completed">S\'ha enviat correctament</string>
-  <string name="trans_show_qr_code_label">Connecteu el dispositiu vell</string>
-  <string name="trans_show_qr_code_tips">Escanegeu el codi QR amb el dispositiu vell</string>
+  <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
+  <string name="trans_show_qr_code_tips">Escanegeu el codi QR amb el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut transferir, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut transferir"</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">"
 Temps emprat: %s"</string>
-  <string name="trans_wait_trans_data">"S\'ha connectat al dispositiu vell.
+  <string name="trans_wait_trans_data">"S\'ha connectat al dispositiu antic.
 S\'està esperant la transferència&#8230;"</string>
-  <string name="trans_waiting_ensurance">"Comproveu que el dispositiu vell és engegat
+  <string name="trans_waiting_ensurance">"Comproveu que el dispositiu antic està engegat
 i s\'ha activat Mi Mover"</string>
-  <string name="trans_waiting_for_sender">S\'està esperant al dispositiu vell per connectar&#8230;</string>
+  <string name="trans_waiting_for_sender">S\'està esperant al dispositiu antic per connectar&#8230;</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">"  elements"</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
-  <string name="user_notice_message">Per funcionar amb normalitat, cal que algunes característiques es connectin a Internet.</string>
+  <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"La connexió amb Download Manager ha fallat, comproveu l'estat de l'administrador de descàrregues des d'Administració d'aplicacions."</string>
-  <string name="xiaomi_external_storage_unavailable">Emmagatzematge no disponible, verifiqueu la targeta SD.</string>
+  <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar amb el gestor de baixades. Comproveu-ne l'estat des de l'administrador d'aplicacions."</string>
+  <string name="xiaomi_external_storage_unavailable">Emmagatzematge no disponible, comproveu la targeta SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

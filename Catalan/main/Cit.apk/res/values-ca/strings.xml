@@ -294,16 +294,9 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_modem_mbn">Canvia la configuració del mòdem</string>
   <string name="cit_tool_modem_offline_log">Obre/tanca el registre fora de línia</string>
   <string name="cit_tool_nfc">Eines de proves NFC</string>
-  <string name="cit_tool_nfc_bbgain">Guany BB</string>
-  <string name="cit_tool_nfc_card_mode">Mode targeta</string>
-  <string name="cit_tool_nfc_config_save">desa</string>
-  <string name="cit_tool_nfc_cw">CW</string>
-  <string name="cit_tool_nfc_detector">Nivell de detecció</string>
-  <string name="cit_tool_nfc_fdt">FDT</string>
-  <string name="cit_tool_nfc_mod">MOD</string>
-  <string name="cit_tool_nfc_phaseoff">Fase desactivada</string>
-  <string name="cit_tool_nfc_phaseon">Fase activada</string>
-  <string name="cit_tool_nfc_rf">Afina l\'NFC</string>
+  <string name="cit_tool_nfc_ce_disable">Desactiva Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Activa Ce</string>
+  <string name="cit_tool_nfc_ce_status">Estat Ce:</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Executa</string>
@@ -314,7 +307,6 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Surt</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
-  <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
   <string name="cit_tool_wifi_rx_count_error">El valor de sortida no és un número.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>

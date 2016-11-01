@@ -34,8 +34,8 @@
     <item quantity="one">"%d dia "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d hores "</item>
-    <item quantity="one">"%d hora "</item>
+    <item quantity="other">"%d hores i "</item>
+    <item quantity="one">"%d hora i "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
     <item quantity="other">"%d minuts "</item>
@@ -60,6 +60,22 @@
   <plurals name="app_check_title_text">
     <item quantity="other">Poden optimitzar-se %d elements</item>
     <item quantity="one">Pot optimitzar-se %d element</item>
+  </plurals>
+  <plurals name="people">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="people_million">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="million">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="view_num">
+    <item quantity="other">%1$d vistes</item>
+    <item quantity="one">%1$d vista</item>
   </plurals>
   <plurals name="system_check_content">
     <item quantity="other">%1$d elements segurs</item>
@@ -96,6 +112,22 @@
   <plurals name="summary_app_update">
     <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
     <item quantity="one">Actualització disponible per %d aplicació.</item>
+  </plurals>
+  <plurals name="hints_handle_item_text_risk_number">
+    <item quantity="other">%d riscos,</item>
+    <item quantity="one">%d risc,</item>
+  </plurals>
+  <plurals name="hints_handle_item_text_virus_number">
+    <item quantity="other">%d troians,</item>
+    <item quantity="one">%d troià,</item>
+  </plurals>
+  <plurals name="hints_scan_result_virus_number">
+    <item quantity="other">%d riscos</item>
+    <item quantity="one">%d risc</item>
+  </plurals>
+  <plurals name="hints_scan_result_danger">
+    <item quantity="other">%d riscos trobats, arregleu-los</item>
+    <item quantity="one">%d risc trobat, arregleu-lo</item>
   </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>

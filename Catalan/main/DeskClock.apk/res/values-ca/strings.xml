@@ -130,6 +130,8 @@
   <string name="tomorrow">Demà</string>
   <string name="turn_off_a_repeat_alarm">Atura una alarma de repetició</string>
   <string name="turn_off_this_repeat_alarm">Atura aquesta alarma de repetició</string>
+  <string name="upcoming_alarm">Propera alarma</string>
+  <string name="upcoming_alarm_hint">Podreu tancar aquesta alarma amb antelació</string>
   <string name="vibrate_pref_summary">Vibra quan soni l\'alarma</string>
   <string name="vibrate_when_ringing">Vibra mentre sona</string>
   <string name="volume_button_setting_summary">"Estableix la funció dels botons de volum durant l'alarma"</string>

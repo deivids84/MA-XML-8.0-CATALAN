@@ -8,47 +8,23 @@
     <item>Ciutat de Taipei</item>
     <item>Jakarta</item>
     <item>Delhi</item>
-    <item>Bombai</item>
+    <item>Mumbai</item>
     <item>Moscou</item>
     <item>Hyderabad</item>
     <item>Chennai</item>
     <item>Istanbul</item>
     <item>Rio de Janeiro</item>
-    <item>Singapur</item>
-    <item>Berlín</item>
-    <item>Roma</item>
-    <item>Nova York</item>
+    <item>Singapore</item>
+    <item>Berlin</item>
+    <item>Rome</item>
+    <item>New York</item>
     <item>Los Angeles</item>
     <item>Chicago</item>
-    <item>Tòquio</item>
-    <item>París</item>
+    <item>Tokyo</item>
+    <item>Paris</item>
     <item>Bangkok</item>
     <item>Seül</item>
     <item>Kuala Lumpur</item>
-  </string-array>
-  <string-array name="aqi_title_prefix">
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-    <item>IQA %1$s</item>
-  </string-array>
-  <string-array name="aqi_title_append">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-  </string-array>
-  <string-array name="aqi_title">
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
-    <item>%1$s</item>
   </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
@@ -77,7 +53,7 @@
     <item>Pols</item>
     <item>Calitja</item>
     <item>Pluja gelant</item>
-    <item></item>
+    <item/>
   </string-array>
   <string-array name="indices_uv_level">
     <item>Feble</item>
@@ -99,7 +75,7 @@
     <item>SE</item>
     <item>S</item>
     <item>SO</item>
-    <item>O</item>
+    <item>W</item>
     <item>NO</item>
   </string-array>
   <string-array name="wind_power">
@@ -116,5 +92,13 @@
     <item>%s</item>
     <item>%s</item>
     <item>%s</item>
+  </string-array>
+  <string-array name="aqi_value">
+    <item>Bé</item>
+    <item>Satisfactori</item>
+    <item>Moderadament contaminat</item>
+    <item>Mala qualitat</item>
+    <item>Molt pobra</item>
+    <item>Important</item>
   </string-array>
 </resources>

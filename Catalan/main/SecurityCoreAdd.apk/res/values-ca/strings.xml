@@ -229,7 +229,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment&#8230;</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
-  <string name="xspace_creating">Creant aplicació dual&#8230;</string>
+  <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
   <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
   <string name="xspace_header">Aplicacions duals</string>
   <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>

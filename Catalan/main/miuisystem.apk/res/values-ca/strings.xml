@@ -5,6 +5,7 @@
   <string name="android_ringtone_default_with_actual">To predeterminat (%1$s)</string>
   <string name="android_ringtone_silent">Cap</string>
   <string name="android_ringtone_unknown">So de trucada desconegut</string>
+  <string name="carousel">Carrusel</string>
   <string name="cloud_state_disabled">Sincronització amb Mi Cloud apagada</string>
   <string name="cloud_state_finished">Sincronització amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronizat amb Mi Cloud</string>
@@ -14,7 +15,9 @@
   <string name="cta_message_license">Utilitzant aquest producte accepteu els termes previstos en els nostres termes de servei i política de privacitat.</string>
   <string name="cta_message_permission">Aquesta app necessita %2$s per funcionar correctament.</string>
   <string name="cta_permission_and">&#160;i</string>
+  <string name="cta_permission_delimiter">,</string>
   <string name="cta_title">Condicions d\'ús</string>
+  <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">Esborra frases freqüents</string>
   <string name="delete_frequent_phrases_confirm">Voleu esborrar les frases freqüents seleccionades?</string>
   <string name="device_hongmi">Redmi</string>
@@ -31,6 +34,7 @@
   <string name="presentation_payphone">Telèfon públic</string>
   <string name="presentation_private">Número privat</string>
   <string name="presentation_unknown">Nombre desconegut</string>
+  <string name="solar_calendar">Calendari</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>
   <string name="vip_sign">Signatura:</string>
   <string name="yellow_page_module_sms_sent">SMS enviat</string>

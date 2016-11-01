@@ -121,6 +121,14 @@
     <item quantity="other">No hi ha prou espai al dispositiu. Còpia de seguretat pendent per a %1$d elements</item>
     <item quantity="one">No hi ha prou espai al dispositiu. Còpia de seguretat pendent per a %1$d element</item>
   </plurals>
+  <plurals name="number_of_images_synced">
+    <item quantity="other">%1$d fotos</item>
+    <item quantity="one">1 foto</item>
+  </plurals>
+  <plurals name="number_of_videos_synced">
+    <item quantity="other">%1$d vídeos</item>
+    <item quantity="one">1 vídeo</item>
+  </plurals>
   <plurals name="number_of_images_to_upload">
     <item quantity="other">Còpia de seguretat pendent per a %1$d fotos</item>
     <item quantity="one">Còpia de seguretat pendent per a una foto</item>
