@@ -32,7 +32,6 @@
   <string name="apk_status_install">Instal·lat</string>
   <string name="apk_status_installed_old">Versió antiga</string>
   <string name="apk_status_uninstalled">Sense instal·lar</string>
-  <string name="apk_title_alipay_plugin">支付宝插件</string>
   <string name="app_install_tips_go_to">Obre</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
@@ -81,7 +80,6 @@
   <string name="button_text_unselect_pic">Desselecciona</string>
   <string name="button_text_view_detail">Detalls</string>
   <string name="button_text_view_file">Fitxer</string>
-  <string name="buy_a_new_phone">Actualització de l\'emmagatzematge</string>
   <string name="buy_immediately">Compra</string>
   <string name="buy_traffic_pack">Compra més dades</string>
   <string name="byteShort">B</string>
@@ -153,7 +151,6 @@
   <string name="dialog_msg_load_cleanup_engine_error">El motor de neteja s\'ha malmès.</string>
   <string name="dialog_msg_stop_scan">Aturar l\'exploració de neteja en curs?</string>
   <string name="dialog_msg_uninstall_apps">Voleu desinstal·lar aquestes aplicacions?</string>
-  <string name="dialog_msg_uninstall_apps_xspace">Voleu desinstal·lar aquests aplicacions? (incloent les aplicacions duals)?</string>
   <string name="dialog_ok_add_white_list_error">D\'acord</string>
   <string name="dialog_title_add_white_list_error">Atenció</string>
   <string name="dialog_title_backup_and_uninstall_apps">Còpia de seguretat i desinstal·lació</string>
@@ -265,7 +262,6 @@
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
   <string name="long_click_dialog_title">Nota</string>
-  <string name="low_memory_clean_dialog_msg">Primer heu de netejar com a mínim %1$s fitxers</string>
   <string name="low_memory_clean_dialog_ok_button">D\'acord</string>
   <string name="low_memory_clean_dialog_title">Disc sense espai</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancel·la</string>
@@ -326,7 +322,6 @@
   <string name="pref_title_auto_clean_content_choose">Seleccioneu elements a netejar</string>
   <string name="pref_title_auto_update_cleanup_db">Actualització automàtica</string>
   <string name="pref_title_choose_engine">Definicions</string>
-  <string name="pref_title_clean_alert">Neteja de forma automàtica</string>
   <string name="pref_title_cleanup_white_list">Excepcions</string>
   <string name="pref_title_expand_cache_group">Mostra els elements en memòria cau</string>
   <string name="pref_title_garbage_cleanup_check_size">Límit de mida de la paperera</string>
@@ -339,6 +334,9 @@
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
+  <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
+  <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
+  <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
@@ -442,6 +440,7 @@
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
   <string name="traffic_top">Les 5 aplicacions que més dades consumeixen</string>
+  <string name="unlike">No gràcies</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Escaneig de virus</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>

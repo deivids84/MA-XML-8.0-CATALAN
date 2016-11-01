@@ -20,6 +20,7 @@
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
   <string name="action_label">Torna</string>
   <string name="action_text_new_event">Nou esdeveniment</string>
+  <string name="action_text_online">Subscriure\'s</string>
   <string name="action_text_today">Avui</string>
   <string name="ad_card_connecting">Connexió</string>
   <string name="ad_card_download_count">%1$s baixades personals</string>
@@ -80,6 +81,7 @@
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
   <string name="card_detail_title">Detalls de la subscripció</string>
   <string name="card_manager">Administrador de targeta</string>
+  <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
   <string name="card_title_change">Canvia el títol de la targeta</string>
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
@@ -116,13 +118,14 @@
   <string name="credit_event_delete_successfully">S\'ha eliminat correctament l\'esdeveniment de pagament de targeta</string>
   <string name="credit_event_title">Factura de la targeta de crèdit</string>
   <string name="daily">Diàriament</string>
-  <string name="date_pattern_mm_dd">d-M</string>
+  <string name="date_pattern_mm_dd">MMesddia</string>
   <string name="date_pattern_mm_dd_kk_mm">MMesddia HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">d-M-yyyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>
   <string name="delete_calendar">Anul·la la subscripció</string>
+  <string name="delete_label">Elimina</string>
   <string name="delete_recurring_event_title">Voleu eliminar %s?</string>
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
   <string name="delete_topic_dialog_title">Esteu segur de voler cancel·lar \"%s\"?</string>
@@ -262,7 +265,6 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="more_match">更多赛事</string>
-  <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Introducció</string>
   <string name="my_subscribe_events">Les vostres subscripcions</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
@@ -298,6 +300,7 @@
   <string name="preferences_category_general_title">Paràmetres generals</string>
   <string name="preferences_clear_search_history_summary">"Elimina totes les cerques que fetes"</string>
   <string name="preferences_clear_search_history_title">Neteja l\'historial de cerca</string>
+  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
   <string name="preferences_general_title">Ajusta la vista del calendari</string>
@@ -392,11 +395,6 @@
   <string name="str_hour_of_everyday">Diàriament %s</string>
   <string name="str_hour_of_next">Següent %s</string>
   <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_success">订阅“%1$s”成功</string>
-  <string name="subscribe_channel_footer_button">Administrador de targeta</string>
-  <string name="subscribe_channel_footer_title">Ja està subscrit</string>
-  <string name="subscribe_channel_subscribe">Subscriu-me</string>
-  <string name="subscribe_channel_subscribing">Subscripcions</string>
   <string name="subscribe_description_card_more_cut">Col·lapse</string>
   <string name="subscribe_description_card_more_launch">Expansió</string>
   <string name="subscribe_detail_title">Detalls de la subscripció</string>
@@ -475,7 +473,6 @@
   <string name="weekly">Setmanalment (cada %s)</string>
   <string name="when_label">Quan</string>
   <string name="widget_events">Pròxim esdeveniment</string>
-  <string name="widget_get_weather_info">Obtenir informació meteorològica &gt;</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
   <string name="work_day_indication">:(</string>

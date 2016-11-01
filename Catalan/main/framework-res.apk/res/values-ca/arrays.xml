@@ -48,40 +48,6 @@
     <item>Xinès (simplificat)</item>
     <item>Xinès (tradicional)</item>
   </string-array>
-  <string-array name="config_statusBarIcons">
-    <item>headset</item>
-    <item>mikey</item>
-    <item>call_record</item>
-    <item>privacy_mode</item>
-    <item>ble_unlock_mode</item>
-    <item>quiet</item>
-    <item>gps</item>
-    <item>missed_call</item>
-    <item>managed_profile</item>
-    <item>ime</item>
-    <item>sync_failing</item>
-    <item>sync_active</item>
-    <item>cast</item>
-    <item>ubicació</item>
-    <item>bluetooth</item>
-    <item>bluetooth_handsfree_battery</item>
-    <item>nfc</item>
-    <item>tty</item>
-    <item>speakerphone</item>
-    <item>zen</item>
-    <item>mute</item>
-    <item>volume</item>
-    <item>wifi</item>
-    <item>wimax</item>
-    <item>cdma_eri</item>
-    <item>data_connection</item>
-    <item>phone_evdo_signal</item>
-    <item>phone_signal</item>
-    <item>bateria</item>
-    <item>alarm_clock</item>
-    <item>secure</item>
-    <item>clock</item>
-  </string-array>
   <string-array name="networkAttributes">
     <item>wifi,1,1,1,-1,true</item>
     <item>mobile,0,0,0,-1,true</item>
@@ -175,7 +141,7 @@
     <item>energia</item>
     <item>reinicia</item>
     <item>mode avió</item>
-    <item>silent</item>
+    <item>silenci</item>
     <item>informe d\'error</item>
     <item>usuaris</item>
   </string-array>
@@ -258,7 +224,7 @@
     <item>Reservat10</item>
     <item>Reservat11</item>
     <item>Reservat12</item>
-    <item>"Col·loqueu el dit3 directament en el sensor"</item>
+    <item>Col·loqueu el dit3 directament en el sensor</item>
     <item>Moveu el dit lleugerament entre escanejos</item>
     <item>Aixequeu el dit5</item>
     <item>Mantingueu prolongadament el dit6 al sensor</item>

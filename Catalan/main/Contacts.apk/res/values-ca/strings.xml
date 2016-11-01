@@ -185,6 +185,8 @@
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
+  <string name="config_export_dir">/mnt/sdcard</string>
+  <string name="config_export_file_extension">vcf</string>
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
@@ -417,7 +419,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="expandCloseViewDescription">Redueix</string>
   <string name="expandOpenViewDescription">Expandeix</string>
   <string name="export_sim_contact_finish">Contactes exportats</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferits | %2$d duplicats | %3$d restants</string>
   <string name="export_to_sdcard">Exportar a emmagatzematge</string>
   <string name="export_to_sim">Exporta a la targeta SIM</string>
   <string name="export_to_sim1">Exporta a SIM 1</string>
@@ -655,6 +656,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="miprofile_contact_header">Contactes amb targeta de contacte</string>
   <string name="miprofile_contact_meaasge">Contactes locals</string>
   <string name="miprofile_contact_verifying">Verificant</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edita perfil</string>
   <string name="miprofile_error_accept_self">"No pots intercanviar la teva pròpia targeta de contacte"</string>
   <string name="miprofile_error_no_miaccount">Inicia la sessió amb el teu compte Mi</string>
@@ -869,8 +871,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="photo_fragment">Foto</string>
   <string name="photo_labels_group">Foto de perfil</string>
   <string name="photo_load_failed">"No s'ha pogut carregar la foto"</string>
-  <string name="pick_new_photo">Seleccioneu Nova foto de la galeria</string>
-  <string name="pick_photo">Triar foto de la galeria</string>
   <string name="pickerNewContactHeader">Crea un nou contacte</string>
   <string name="pickerNewContactText">Crea un nou contacte</string>
   <string name="picker_all_list_empty">No hi ha contactes</string>
@@ -1199,7 +1199,6 @@ Trieu una de les següents opcions: "</string>
   <string name="user_profile_contacts_list_header">Jo</string>
   <string name="vcard_export_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
   <string name="vcard_export_will_start_message">%s s\'exportaran aviat.</string>
-  <string name="vcard_import_failed">"No s'ha pogut importar vCard "</string>
   <string name="vcard_import_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
   <string name="vcard_import_will_start_message">%s s\'importaran aviat.</string>
   <string name="vcard_import_will_start_message_with_default_name">El fitxer s\'importarà d\'aquí a poc.</string>
