@@ -7,12 +7,6 @@
     <item>45 minuts</item>
     <item>1 hora</item>
   </string-array>
-  <string-array name="sleep_duration_values_seconds">
-    <item>900</item>
-    <item>1.800</item>
-    <item>2.700</item>
-    <item>3.600</item>
-  </string-array>
   <string-array name="search_category_rbds_entries">
     <item>Totes les emissores</item>
     <item>Hits històrics</item>
@@ -173,5 +167,19 @@
     <item>Opcions addicionals</item>
     <item>Configura els paràmetres de cerca FM</item>
     <item>Estadístiques RF</item>
+  </string-array>
+  <string-array name="freq_entries">
+    <item>" "</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>.</item>
   </string-array>
 </resources>
