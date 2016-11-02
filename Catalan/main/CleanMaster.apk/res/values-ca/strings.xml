@@ -7,10 +7,10 @@
   <string name="activity_title_cache">Memòria cau</string>
   <string name="activity_title_cache_data">Dades d\'aplicació</string>
   <string name="activity_title_deep_apk">Elimina APK</string>
-  <string name="activity_title_deep_clean">Neteja profunda</string>
+  <string name="activity_title_deep_clean">Neteja intensiva</string>
   <string name="activity_title_garbage_cleanup">Netejador</string>
   <string name="activity_title_ignored_image">Ignorades</string>
-  <string name="activity_title_image_gallery">Eliminar duplicades</string>
+  <string name="activity_title_image_gallery">Elimina duplicades</string>
   <string name="activity_title_large_file">Fitxers grans</string>
   <string name="activity_title_main">Netejador</string>
   <string name="activity_title_news">Notícies</string>
@@ -20,7 +20,7 @@
   <string name="activity_title_screenshot">Captures de pantalla</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_similar_image">Fotos duplicades</string>
-  <string name="activity_title_similar_image_group">Eliminar duplicades</string>
+  <string name="activity_title_similar_image_group">Elimina duplicades</string>
   <string name="activity_title_tedious_image">Fotos accidentals</string>
   <string name="activity_title_uninstall_apps">Aplicacions</string>
   <string name="activity_title_video">Esborrar vídeos</string>

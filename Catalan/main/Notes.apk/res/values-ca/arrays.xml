@@ -46,27 +46,23 @@
 Per obtenir més informació, visiteu
 http://www.miui.com/forum.php?lang=1
 "</item>
-    <item>"Hide notes
-Protect private notes with a password.
-There are 2 ways to hide a note:
-1. Tap the \"More\" button in the upper right corner of a note, and select \"Hide\".
-2. Hold a note until a pop-up menu appears, and select \"Hide\"."</item>
-    <item>"And more great features!
-  - Images, checklists, reminders.
+    <item>"Oculta les notes Protegir les notes privades amb una contrasenya. Hi ha 2 formes d\'ocultar una nota: 1. Toqueu el botó «Més» a la cantonada superior dreta d\'una nota i seleccioneu «Oculta». 2. Mantingueu premut una nota fins que aparegui un menú emergent i seleccioneu «Oculta»."</item>
+    <item>"I més característiques!
+ - Fotos, llistes de tasques, recordatoris.
 
-Add images
-Tap the image icon at the bottom of a note to add an image.
-You can take a photo or choose one from the Gallery.
-When a note contains an image, this image will be used as the note's miniature in grid view.
+Afegiu fotos
+Toqueu en la icona de la imatge de la part inferior d\'una nota per afegir una imatge.
+Podreu fer una foto o triar-ne una de la Galeria.
+Quan una nota conté una imatge, aquesta imatge s\'utilitzarà com a miniatura de la nota a la visualització de quadrícula.
 
-Create checklists
-Checkbox is an essential element of a to-do list.
-Tap the checkbox icon at the bottom of a note to add a checkbox to a paragraph of text.
-Check the box when the stuff is done.
+Creu llistes de tasques
+La casella de tasques és un element essencial en una llista de tasques pendents.
+Toqueu la icona de la casella de tasques a la part inferior d\'una nota per afegir una casella de comprovació a un paràgraf de text.
+Marqueu la casella quan es faci la tasca.
 
-Set reminders
-Set reminders directly from notes.
-Tap the \"More\" button in the upper right corner of a note, select \"Reminders\", set the time.
+Establiu recordatoris
+Establiu recordatoris directament en una nota.
+Toqueu el botó «Més» a la part superior dreta d\'una nota i seleccioneu «Recordatoris», establiu l\'hora.
 "</item>
   </string-array>
 </resources>

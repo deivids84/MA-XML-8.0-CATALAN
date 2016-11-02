@@ -499,7 +499,7 @@ Llavors responeu la pregunta"</string>
   <string name="milink_device_offline">Desconnectat</string>
   <string name="milink_device_online">Connectat</string>
   <string name="milink_device_rc_saved">S\'ha desat el comandament a distància</string>
-  <string name="milink_nowifi">No connectat a Wi-Fi</string>
+  <string name="milink_nowifi">No connectat a la Wi-Fi</string>
   <string name="milink_screenshot_done">La captura de pantalla de TV s\'ha fet amb èxit</string>
   <string name="milink_screenshot_pic">Captures de pantalla</string>
   <string name="milink_view_screenshot">Desat a la galeria, premeu per veure-ho</string>
@@ -728,7 +728,7 @@ To activate your account, follow the
   <string name="pm_2.5">PM 2.5:</string>
   <string name="popup_installed_app_no_app">Obtenint l\'aplicació, espereu un minut i torneu a provar</string>
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
-  <string name="popup_select_device">Seleccioneu el comandament per obrir la Wifi</string>
+  <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
   <string name="power">Encesa</string>
   <string name="power_off">Apaga</string>
   <string name="power_on">Engega</string>

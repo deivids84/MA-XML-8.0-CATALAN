@@ -13,14 +13,6 @@
     <item quantity="other">%d cançons trobades</item>
     <item quantity="one">%d cançó trobada</item>
   </plurals>
-  <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-    <item quantity="one">"Només podeu baixar %d cançó prèmium aquest mes. Actualitzeu el vostre paquet de cançons prèmium per baixar-ne més. "</item>
-    <item quantity="other">"Només podeu baixar %d cançons prèmium aquest mes. Actualitzeu el vostre paquet de cançons prèmium per baixar-ne més. "</item>
-  </plurals>
-  <plurals name="Nalert_msg_vip_songs_for_download_limited">
-    <item quantity="one">" Només podeu baixar %d cançó prèmium aquest mes. Voleu continuar baixant les cançons seleccionades?"</item>
-    <item quantity="other">" Només podeu baixar %d cançons prèmium aquest mes. Voleu continuar baixant les cançons seleccionades?"</item>
-  </plurals>
   <plurals name="Nexpired_remind">
     <item quantity="other">%d dies restants</item>
     <item quantity="one">%d dia restant</item>
@@ -68,10 +60,6 @@
   <plurals name="Ntracks_remove_from_playlist">
     <item quantity="other">%d cançons eliminades de la llista de reproducció</item>
     <item quantity="one">Cançó eliminada de la llista de reproducció</item>
-  </plurals>
-  <plurals name="artist_list_fragment_item_count_format">
-    <item quantity="other">%d cançons</item>
-    <item quantity="one">1 cançó</item>
   </plurals>
   <plurals name="Nquit_warning">
     <item quantity="other">El reproductor pararà a %d minuts</item>

@@ -173,6 +173,10 @@
     <item quantity="other">%d aplicacions trobades</item>
     <item quantity="one">%d aplicació trobada</item>
   </plurals>
+  <plurals name="sp_settings_exception_count">
+    <item quantity="other">%d elements</item>
+    <item quantity="one">Un element</item>
+  </plurals>
   <plurals name="sp_back_title_text">
     <item quantity="other">%s riscos de pagament</item>
     <item quantity="one">%s risc de pagament</item>

@@ -30,15 +30,6 @@
   <string name="alaka_required">"Aquesta cançó no està disponible."</string>
   <string name="album_name">Àlbum</string>
   <string name="album_search_title">Àlbum</string>
-  <string name="alert_msg_vip_song_for_download">Obteniu el paquet de cançons prèmium per descarregar aquesta cançó.</string>
-  <string name="alert_msg_vip_song_for_download_upgrade">Heu esgotat la seva quota de baixada per aquest mes. Actualitzeu el paquet de cançons prèmium per descarregar-ne més.</string>
-  <string name="alert_msg_vip_song_for_stream">Obtingueu un paquet de cançons prèmium per transmetre aquesta cançó.</string>
-  <string name="alert_msg_vip_songs_for_download">Obteniu un paquet de cançons prèmium per baixar totes les cançons.</string>
-  <string name="alert_msg_vip_songs_for_download_upgrade">Heu esgotat la seva quota de baixada per aquest mes. Actualitzeu el paquet de cançons prèmium per descarregar-ne més.</string>
-  <string name="alert_msg_vip_songs_for_stream">Algunes cançons només poden ser transmeses amb el paquet de cançons prèmium.</string>
-  <string name="alert_title_vip_song">Cançons prèmium</string>
-  <string name="alert_title_vip_songs">Paquet de cançons prèmium</string>
-  <string name="alert_title_vip_songs_upgrade">Actualitzeu el paquet de cançons prèmium</string>
   <string name="all_artist">Tots els artistes</string>
   <string name="all_downloads">Totes les baixades</string>
   <string name="all_fileter">Tots</string>
@@ -87,7 +78,6 @@
   <string name="button_sort_by_size">Ordena per mida</string>
   <string name="button_wait_for_wifi">Espera</string>
   <string name="buy_other_flow">Dades habituals</string>
-  <string name="buy_vip">Aconsegueix el paquet de cançons prèmium</string>
   <string name="can_not_find_resource">"No s'ha trobat el recurs"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
@@ -378,7 +368,6 @@
   <string name="local_page_song_download">Cançons locals</string>
   <string name="local_page_song_favorite">Cançons preferides</string>
   <string name="local_tracks_short">Local</string>
-  <string name="login_first">Inicieu sessió amb el vostre Compte Mi primer</string>
   <string name="lrc_search_failed">"No s'han pogut trobar les lletres"</string>
   <string name="lrc_searching">S\'està cercant&#8230;</string>
   <string name="lyric">Lletres</string>
@@ -465,6 +454,7 @@
   <string name="network_request_error">"No es pot connectar a la xarxa"</string>
   <string name="network_settings_error">"No es pot connectar a la xarxa"</string>
   <string name="network_traffic">Ús de dades</string>
+  <string name="news_mark">NOTÍCIES</string>
   <string name="next_time">Ara no</string>
   <string name="no_album_info">No hi ha informació de l\'àlbum</string>
   <string name="no_artist_info">No hi ha informació de l\'artista</string>
@@ -524,7 +514,7 @@
   <string name="order_pending">S\'està esperant la confirmació</string>
   <string name="order_process_fail">"No s'ha pogut autoritzar el vostre compte. Espereu uns minuts i torne-ho a provar."</string>
   <string name="other_filter">Altres</string>
-  <string name="othor_song_in_album">Altres cançons de l\'àlbum</string>
+  <string name="other_song_in_album">Altres cançons d\'aquest àlbum</string>
   <string name="package_filter">Paquets</string>
   <string name="pause_download">Pausa</string>
   <string name="paused_by_app">Pausat</string>
@@ -700,7 +690,6 @@
   <string name="storage_internal">Emmagatzematge intern</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
-  <string name="stream_normal">Reprodueix en qualitat estàndard</string>
   <string name="stream_quality">Qualitat de la transmissió</string>
   <string name="streamloadingtext">S\'està connectant amb %s</string>
   <string name="sub_explanation">Pla de dades musicals</string>
@@ -749,8 +738,6 @@
   <string name="title_search_history">Històric de cerca</string>
   <string name="title_search_hot">Popular</string>
   <string name="to_mi_pay">Crèdits Mi</string>
-  <string name="toast_cancel_download">Baixada cancel·lada</string>
-  <string name="toast_cancel_play">Reproducció cancel·lada</string>
   <string name="toast_download_error_by_count_limit">Heu esgotat el límit de baixades per a aquest mes.</string>
   <string name="toast_download_error_by_not_login">Inicieu la sessió al Compte Mi i torneu-ho a provar.</string>
   <string name="toast_download_error_by_vip_required">Obteniu el paquet de cançons prèmium per baixar aquesta cançó.</string>
@@ -760,8 +747,6 @@
   <string name="toast_stream_normal">S\'està reproduint en qualitat estàndard. Aconseguiu el paquet de cançons prèmium per gaudir d\'una transmissió d\'alta qualitat.</string>
   <string name="toast_uhd_songs_for_download">S\'ha establert la qualitat de baixada a alta</string>
   <string name="toast_uhd_songs_for_stream">S\'ha establert la qualitat de transmissió a alta</string>
-  <string name="toast_vip_download_one_limit">" Heu esgotat la quota de baixades per a aquest mes. Podeu descarregar més cançons quan aconseguiu el paquet prèmium el proper mes."</string>
-  <string name="toast_vip_download_some_limit">" Heu esgotat la quota de baixades per a aquest mes. Podeu descarregar més cançons quan aconseguiu el paquet prèmium el proper mes. "</string>
   <string name="too_freq">Massa peticions des d\'aquest dispositiu</string>
   <string name="tos">Condicions del servei</string>
   <string name="track_list_control_download">Baixa</string>
@@ -795,7 +780,6 @@
   <string name="upgrade_services">Actualitzacions</string>
   <string name="upgrade_suggest">"Suspenem el servei de transmissió de música a causa d'assumptes de copyright. Actualitzeu a la darrera versió de l'aplicació Música per escoltar música en alta qualitat."</string>
   <string name="upgrade_to">Actualitza a</string>
-  <string name="upgrade_vip">Actualitzeu el paquet de cançons prèmium</string>
   <string name="upgrade_waringing">"Només podreu escoltar la música emmagatzemada en el dispositiu."</string>
   <string name="valid_period">Vàlid: %s</string>
   <string name="version_info">Versió</string>

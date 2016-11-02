@@ -35,6 +35,8 @@
   <string name="presentation_private">Número privat</string>
   <string name="presentation_unknown">Nombre desconegut</string>
   <string name="solar_calendar">Calendari</string>
+  <string name="vip_achievements">Fites</string>
+  <string name="vip_login">Premeu per iniciar sessió</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>
   <string name="vip_sign">Signatura:</string>
   <string name="yellow_page_module_sms_sent">SMS enviat</string>

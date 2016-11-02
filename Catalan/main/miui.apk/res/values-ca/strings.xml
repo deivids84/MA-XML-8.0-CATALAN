@@ -34,6 +34,7 @@
   <string name="copyright">Drets d\'autor</string>
   <string name="country_name_co">CO</string>
   <string name="country_name_im">MI</string>
+  <string name="country_name_mt">MT</string>
   <string name="country_name_tv">Televisor</string>
   <string name="date_picker_dialog_title">Defineix la data</string>
   <string name="date_time_done">Fet</string>
@@ -100,8 +101,6 @@
   <string name="friday">Divendres</string>
   <string name="friday_short">Dv.</string>
   <string name="friday_shortest">Dv.</string>
-  <string name="heavenly_stems_ren">壬</string>
-  <string name="heavenly_stems_xin">辛</string>
   <string name="hybrid_provider">Proporcionat per %1$s</string>
   <string name="im">Xat</string>
   <string name="instruction">Instruccions</string>

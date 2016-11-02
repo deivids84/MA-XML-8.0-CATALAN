@@ -49,22 +49,10 @@
     <item>SOSHARE MOBILE</item>
     <item>Mi Mobile</item>
   </string-array>
-  <string-array name="tian_gan">
-    <item>甲</item>
-    <item>乙</item>
-    <item>丙</item>
-    <item>丁</item>
-    <item>戊</item>
-    <item>己</item>
-    <item>庚</item>
-    <item>辛</item>
-    <item>壬</item>
-    <item>癸</item>
-  </string-array>
   <string-array name="cta_permission_names">
-    <item>access network</item>
+    <item>accés a la xarxa</item>
     <item>llegeix SMS</item>
-    <item>modify SMS</item>
+    <item>modifica SMS</item>
     <item>Rebre SMS</item>
     <item>envia SMS</item>
     <item>trucada de telèfon</item>
@@ -72,7 +60,7 @@
     <item>modifica contactes</item>
     <item>llegeix el registre de trucades</item>
     <item>modifica el registre de trucades</item>
-    <item>access camera</item>
-    <item>access location</item>
+    <item>accés a la càmera</item>
+    <item>accés a la ubicació</item>
   </string-array>
 </resources>

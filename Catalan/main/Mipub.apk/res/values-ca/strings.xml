@@ -211,6 +211,7 @@
   <string name="sim_copy_to_phone_memory">Copia a la memòria del telèfon</string>
   <string name="sim_delete">Suprimeix</string>
   <string name="sim_empty">No hi ha missatges a la targeta SIM</string>
+  <string name="snippet_audio">[àudio]</string>
   <string name="snippet_picture">[imatge]</string>
   <string name="sp_mark_as_read_title">Marca tots com a llegits</string>
   <string name="stick">Fixeu</string>

@@ -5,7 +5,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="enable_wifi_btn">Activa</string>
   <string name="enable_wifi_message">Activeu Wi-Fi per buscar i connectar dispositius propers.</string>
-  <string name="enable_wifi_title">Activa Wi-Fi</string>
+  <string name="enable_wifi_title">Activa la Wi-Fi</string>
   <string name="media_feature_projection">Pantalla de mirall</string>
   <string name="media_status_error">Error</string>
   <string name="media_status_started">S\'ha connectat</string>

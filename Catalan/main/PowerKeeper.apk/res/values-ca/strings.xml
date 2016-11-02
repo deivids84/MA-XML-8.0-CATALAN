@@ -14,6 +14,7 @@
   <string name="alter_message_delete">Eliminar?</string>
   <string name="alter_message_switch_mode">Canviar modes?</string>
   <string name="alter_message_switch_mode_message">En canviar els modes, la configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
+  <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Seleccionar aplicacions</string>
   <string name="app_list_total">%d aplicacions</string>
   <string name="app_name">Estalvi de bateria</string>
@@ -65,8 +66,11 @@
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
+  <string name="power_checker_recent_btn_title">Configuració de l\'energia</string>
   <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
+  <string name="power_checker_running_group_title">S\'està executant</string>
+  <string name="power_checker_title">Control d\'energia</string>
   <string name="power_chooser_user_define_title">Nou mode</string>
   <string name="power_config_alarm_sync_summary">Permet a l\'aplicació alarmes en segon pla</string>
   <string name="power_config_alarm_sync_title">Alarma</string>
@@ -74,6 +78,8 @@
   <string name="power_config_app_full_screen_title">Pantalla completa</string>
   <string name="power_config_app_launch_title">Primer pla</string>
   <string name="power_config_apps">Estalvi de bateria en segon pla</string>
+  <string name="power_config_bg_data_delay_time_dialog_title">Seleccioneu l\'horari de restricció de dades en segon pla</string>
+  <string name="power_config_bg_data_delay_time_title">Restricció de les dades en segon pla</string>
   <string name="power_config_choose_apps">Triar aplicacions</string>
   <string name="power_config_confirm_event_delete">Esborra aquesta configuració?</string>
   <string name="power_config_cpu_freq_dialog_title">Freqüència de CPU</string>
@@ -89,7 +95,7 @@
   <string name="power_config_event_delete">Esborra</string>
   <string name="power_config_idle_notification_summary">Mostra només la primera notificació de l\'aplicació</string>
   <string name="power_config_idle_notification_title">Mostra només primera notificació</string>
-  <string name="power_config_keyguard_notification_summary">Permet notificacions en pantalla de bloqueig</string>
+  <string name="power_config_keyguard_notification_summary">Permet notificacions a la pantalla de bloqueig</string>
   <string name="power_config_keyguard_notification_title">Notificacions en pantalla de bloqueig</string>
   <string name="power_config_lcd_mode_dialog_title">Mode LCD</string>
   <string name="power_config_lcd_mode_title">Mode LCD</string>
@@ -102,7 +108,10 @@
   <string name="power_config_select_apps_title">Aplicacions</string>
   <string name="power_config_title">Configuració</string>
   <string name="power_config_ultimate_description">MIUI congelarà les aplicacions en segon pla</string>
+  <string name="power_config_ultimate_off_already">Mode extrem desactivat</string>
+  <string name="power_config_ultimate_on_already">Mode extrem activat</string>
   <string name="power_config_ultimate_title">Extrem</string>
+  <string name="power_config_ultimate_unlock_already">Tots els elements desbloquejats</string>
   <string name="power_configure_screen_brightness_enable">Establir brillantor de pantalla</string>
   <string name="power_customize_giveup_change">Descarta els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
@@ -131,6 +140,7 @@
   <string name="power_mode_view_event_title">Esdeveniments</string>
   <string name="power_mode_view_user_define_title">Esdeveniment nou</string>
   <string name="power_optimize_activity_profile_file_error">Error en l\'estalvi de bateria</string>
+  <string name="ragment_sys_listempty">No hi ha aplicacions del sistema</string>
   <string name="reading">Mode lectura</string>
   <string name="screen_off">Pantalla apagada</string>
   <string name="screen_off_10_min">Pantalla apagada durant 10 minuts</string>

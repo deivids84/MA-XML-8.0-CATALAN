@@ -1237,6 +1237,7 @@ Trieu una de les següents opcions: "</string>
   <string name="wipe_data">Esborrar dades</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>
+  <string name="yellowpage_mi_family">Família Mi</string>
   <string name="yellowpage_navigation_ad_hint">Anunci</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no es van poder verificar, torneu-ho a provar més tard."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo i les dades han estat verificats</string>

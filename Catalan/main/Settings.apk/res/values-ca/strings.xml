@@ -6,6 +6,7 @@
 L\'identificador de publicitat del dispositiu és únic i permanent. Serveix als anunciants per oferir-vos publicitat personalitzada.
 
 Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat d\'anuncis sinó que no es personalitzaran.»</string>
+  <string name="about_phone_enter_xiaomi_net">Saber més</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="ac_enable_summary">Cal una contrasenya</string>
@@ -304,6 +305,8 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="auto_disable_screenbuttons_auto">Sempre deshabilitat</string>
   <string name="auto_disable_screenbuttons_cancel">Cancel·la</string>
   <string name="auto_disable_screenbuttons_no">No ho deshabilitis mai</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Quan el dispositiu estigui en mode apaïsat, els botons de navegació es bloquejaran</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Bloqueja els botons de navegació en mode apaïsat</string>
   <string name="auto_disable_screenbuttons_summary">Deshabilita automàticament els botons de navegació a les aplicacions seleccionades. Per habilitar-los feu doble clic a qualsevol botó de navegació.</string>
   <string name="auto_disable_screenbuttons_title">Deshabilita automàticament els botons de navegació</string>
   <string name="auto_launch_disable_text">No s\'ha predeterminat.</string>
@@ -347,6 +350,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="band_mode_title">Defineix la freqüència de GSM/UMTS</string>
   <string name="baseband_version">Versió de la freqüència base</string>
   <string name="batch_delete_saved_network">Voleu suprimir la xarxa desada: %s?</string>
+  <string name="batch_delete_saved_networks">Elimina totes les xarxes seleccionades</string>
   <string name="battery_action_app_details">Informació de l\'aplicació</string>
   <string name="battery_action_app_settings">Configuració de l\'aplicació</string>
   <string name="battery_action_bluetooth">Configuració del Bluetooth</string>
@@ -651,11 +655,24 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bootloader_apply_step_4">Pot ser que que provoqui la divulgació i la pèrdua de les dades o que malmeti per sempre més el maquinari.</string>
   <string name="bootloader_apply_step_5">Assegureu-vos que sabeu com utilitzar el mode Fastboot abans d\'activar-lo.</string>
   <string name="bootloader_apply_title">Nota important</string>
-  <string name="bootloader_device_bind_no_account">Inicieu sessió amb el vostre Compte Mi primer</string>
+  <string name="bootloader_device_bind_already">S\'ha afegit amb èxit. El Compte Mi s\'associarà ara amb aquest dispositiu.</string>
+  <string name="bootloader_device_bind_fail">"No s'ha pogut verificar, espereu un o dos minuts i torneu-ho a provar"</string>
+  <string name="bootloader_device_bind_msg">S\'està preparant per afegir el compte i el dispositiu&#8230;</string>
+  <string name="bootloader_device_bind_no_account">Primer inicia la sessió al seu compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connectat a la xarxa i torna-ho a provar</string>
+  <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
+  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
+  <string name="bootloader_locked_answer_2">"Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l'eina de desbloqueig i instal·lar-la a l'ordinador. Aquí està l'adreça:"</string>
+  <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
+  <string name="bootloader_locked_question_1">Per què s\'han de bloquejar els dispositius?</string>
+  <string name="bootloader_locked_question_2">Entenc els riscos, però encara vull desbloquejar el dispositiu.</string>
+  <string name="bootloader_status">Estat del Bloqueig Mi</string>
   <string name="bootloader_status_locked">Bloquejada</string>
   <string name="bootloader_status_locked_info">Aquest dispositiu està bloquejat</string>
+  <string name="bootloader_status_locked_summary">El telèfon està assegurat</string>
+  <string name="bootloader_status_summary">Comproveu si el dispositiu està bloquejat</string>
   <string name="bootloader_status_unlocked">S\'ha desbloquejat</string>
+  <string name="bootloader_status_unlocked_info">Aquest dispositiu està desbloquejat</string>
   <string name="bootloader_summary">Flasheja el dispositiu mitjançant USB</string>
   <string name="breathing_light_color_menu_title">Color del LED</string>
   <string name="breathing_light_color_summary">Color del LED per a notificacions noves</string>
@@ -785,6 +802,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="cmcc_hardware_version">Versió del maquinari</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nadiu</string>
@@ -803,6 +821,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_white">Blanc</string>
   <string name="color_yellow">Groc</string>
   <string name="common_settings">Configuració ràpida</string>
+  <string name="complete_parameters">Totes les característiques</string>
   <string name="complete_settings">Configuració general</string>
   <string name="computing_size">S\'està calculant&#8230;</string>
   <string name="config_charging_function_name">s\'està carregant</string>
@@ -1065,17 +1084,20 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="development_settings_not_available">Les opcions per a desenvolupadors no són disponibles per a aquest usuari</string>
   <string name="development_settings_summary">Defineix les opcions per al desenvolupament d\'aplicacions</string>
   <string name="development_settings_title">Opcions per a desenvolupadors</string>
+  <string name="device_actionbar_title">Totes les característiques</string>
   <string name="device_admin_add_title">Administrador del dispositiu</string>
   <string name="device_admin_settings_title">Configuració d\'administració de dispositius</string>
   <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
   <string name="device_admin_title">Administració del dispositiu</string>
   <string name="device_admin_warning">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
+  <string name="device_complete_parameters">Fet</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">Deu-nuclis</string>
   <string name="device_cpu2_info">Doble-nucli</string>
   <string name="device_cpu4_info">Quatre-nuclis</string>
   <string name="device_cpu6_info">Sis-nuclis</string>
   <string name="device_cpu8_info">Vuit-nuclis</string>
+  <string name="device_display_layout_title">Característiques</string>
   <string name="device_edit_title">Reanomena el telèfon</string>
   <string name="device_feedback">Envia suggeriments sobre el dispositiu</string>
   <string name="device_info_default">Desconegut</string>
@@ -1084,7 +1106,9 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_info_settings">Estat del telèfon</string>
   <string name="device_internal_memory">Memòria interna</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Veure més</string>
   <string name="device_miui_version">Versió MIUI</string>
+  <string name="device_miui_version_update">Actualització de MIUI disponible</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
   <string name="device_name_input_hint">Introduïu el nom</string>
@@ -1092,6 +1116,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_sd_memory">Targeta SD</string>
+  <string name="device_share_loading">S\'està creant la imatge</string>
   <string name="device_status">Estat</string>
   <string name="device_status_activity_title">Estat</string>
   <string name="device_status_summary">Número de telèfon, senyal, etc.</string>
@@ -1651,8 +1676,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_text_to_speech_output">puntuar idioma parla predeterminada parlar síntesi de veu accessibilitat lector invident</string>
   <string name="keywords_users">restricció restringir restringit</string>
   <string name="keywords_voice_input">reconeixedor entrada veu parlar idioma mans lliures mans-lliures gratuït reconeixement paraula ofensiva àudio historial bluetooth auriculars</string>
-  <string name="keywords_wifi">wi-fi Wi-Fi xarxa connexió</string>
-  <string name="keywords_wifi_calling">WiFi Wi-Fi truca trucades</string>
+  <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
+  <string name="keywords_wifi_calling">wifi wi-fi trucada trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
@@ -1985,6 +2010,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s mitjana de memòria utilitzada en les 3 últimes hores</string>
   <string name="menu_cancel">Descarta</string>
+  <string name="menu_check">Experiència</string>
   <string name="menu_delete">Suprimeix l\'APN</string>
   <string name="menu_duration_12h">12 hores</string>
   <string name="menu_duration_1d">1 dia</string>
@@ -2001,6 +2027,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="menu_proc_stats_type_foreground">En primer pla</string>
   <string name="menu_restore">Reinicialitza</string>
   <string name="menu_save">Desa</string>
+  <string name="menu_share">Comparteix</string>
   <string name="menu_show_percentage">Mostra els percentatges</string>
   <string name="menu_show_system">Mostra el sistema</string>
   <string name="menu_stats_last_unplugged">Des de que es va desendollar (%1$s)</string>
@@ -2068,6 +2095,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="multi_touch_points_preference">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu</string>
   <string name="music_audio_effect_optimize">Configuració d\'àudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres configuracions d\'àudio</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_settings">Configuració d\'àudio</string>
   <string name="music_dirac_control">Optimitza la qualitat d\'àudio</string>
@@ -2092,6 +2120,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dolby_mode_off">Apagat</string>
   <string name="music_equalizer">Equalitzador</string>
   <string name="music_equalizer_summary">Configuració individual dels nivells segons el tipus de música</string>
+  <string name="music_hd_title">Àudio HD Sound</string>
   <string name="music_headphone_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="music_headset_button_settings">Assigna botons del control remot</string>
   <string name="music_headset_calibrate">Assigna botons dels auriculars</string>
@@ -2117,6 +2146,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
+  <string name="my_device">El meu dispositiu</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="network_assistant">Ús de dades</string>
@@ -2240,6 +2270,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="optimization_close">Desactiva &amp; i reinicia</string>
   <string name="optimization_open">Engega</string>
   <string name="other_advanced_settings">Configuració addicional</string>
+  <string name="other_device_info">Altres</string>
   <string name="other_personal_settings">Configuració personal</string>
   <string name="other_relative">Altres</string>
   <string name="other_sound_settings">Altres sons</string>
@@ -2762,6 +2793,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_smsc_refresh_label">Actualitza</string>
   <string name="radio_info_smsc_update_label">Actualitza</string>
   <string name="radio_info_toggle_dns_check_label">Commuta la comprovació DNS</string>
+  <string name="rank_title">Classificacions</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
@@ -2769,6 +2801,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
+  <string name="recommend_item_1">Funda per al mòbil</string>
+  <string name="recommend_item_2">Mi Band</string>
+  <string name="recommend_item_3">Power bank</string>
+  <string name="recommend_item_4">Auriculars</string>
+  <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
   <string name="regulatory_information">Informació de regulació</string>
@@ -3145,13 +3182,13 @@ Per fer-ho:
   <string name="search_wifi_advanced_mac_address_title">Adreça MAC Wi-Fi</string>
   <string name="search_wifi_advanced_settings">Configuració avançada;Wi-Fi</string>
   <string name="search_wifi_display">Pantalla sense fils</string>
-  <string name="search_wifi_enable">Wi-Fi;Wi-Fi</string>
+  <string name="search_wifi_enable">Wi-Fi;Wi-Fi;Wi-Fi;Activa la Wifi;Activa la WiFi;Activa la Wi-Fi</string>
   <string name="search_wifi_install_credentials">Instal·la certificats</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Directe</string>
   <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS</string>
   <string name="search_wifi_more_settings">Més;Mode avió;VPN;Techering i; portable hotspot;Pantalla sense fil;Dades mòbils internacionals;NFC;Android Beam;Secure element position</string>
   <string name="search_wifi_scan_always_available">Escaneig sempre disponible</string>
-  <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi</string>
+  <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi;Freqüència WiFi;Freqüència Wi-Fi;Freqüència Wifi;banda de freqüències</string>
   <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
   <string name="search_wifi_tether_checkbox">Zona Wi-Fi</string>
   <string name="search_wifi_tether_configure_ap_text">Configura zona Wi-Fi</string>
@@ -3600,6 +3637,7 @@ Un cop formatat, aquest ^1 només funcionarà en aquest dispositiu.
 
 \"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
   <string name="storage_wizard_format_confirm_public_title">Formatació com a emmagatzematge extraïble</string>
+  <string name="storage_wizard_format_confirm_third_body">La ^1 està sent formatada</string>
   <string name="storage_wizard_format_confirm_title">Formatació com a emmagatzematge intern</string>
   <string name="storage_wizard_format_progress_body">No traieu ^1 mentre s\'està formatant.</string>
   <string name="storage_wizard_format_progress_title">S\'està formatant ^1&#8230;</string>
@@ -4165,8 +4203,10 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_version">Versió %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
-  <string name="wakeup_for_keyguard_notification_title">Permet notificacions en pantalla de bloqueig</string>
+  <string name="wakeup_for_keyguard_notification_title">Activa la pantalla en rebre notificacions</string>
   <string name="wallpaper_attributions">Fons de pantalla</string>
+  <string name="wallpaper_attributions_values">"Proveïdors d\'imatges per satèl·lit:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Pantalla d\'inici</string>
   <string name="wallpaper_live">Fons de pantalla animats</string>
   <string name="wallpaper_lockscreen">Bloqueja la pantalla</string>

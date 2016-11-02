@@ -63,7 +63,7 @@
   </plurals>
   <plurals name="picker_no_network_retry_origin_confirm_message">
     <item quantity="other">"No es poden baixar %1$d fotos (%2$dMB), connecteu-vos a la xarxa i torneu-ho a provar"</item>
-    <item quantity="one">"No es pot baixar la foto (%2$dMB), connecteu-vos a la xarxa i torneu a provar"</item>
+    <item quantity="one">"No es pot baixar la foto (%2$dMB), connecteu-vos a la xarxa i torneu-ho a provar"</item>
   </plurals>
   <plurals name="picker_cancel_confirm_message">
     <item quantity="other">Voleu cancel·lar la baixada de les últimes %d fotos?</item>
@@ -71,7 +71,7 @@
   </plurals>
   <plurals name="add_to_album_cloud_photo_count_tip">
     <item quantity="other">S\'han afegit %d fotos al núvol, desactiveu «Mostra només els àlbums locals» per veure-les.</item>
-    <item quantity="one">S\'ha afegit %d foto al núvol, desactiveu «Mostra només els àlbums locals» per veure-les.</item>
+    <item quantity="one">S\'ha afegit %d foto al núvol, desactiveu «Mostra només els àlbums locals» per veure-la.</item>
   </plurals>
   <plurals name="delete_photo_msg_format">
     <item quantity="other">Voleu eliminar %1$d fotos %2$s?</item>

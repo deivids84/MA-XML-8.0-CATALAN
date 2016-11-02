@@ -224,6 +224,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="notification_otg_unknow_out">Dispositiu OTG desconnectat</string>
   <string name="notification_template_text">"Nova notificació. Tocar per veure."</string>
   <string name="oldman_airplane_mode_text">avió</string>
+  <string name="oldman_incall_text">en trucada</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Connectat</string>

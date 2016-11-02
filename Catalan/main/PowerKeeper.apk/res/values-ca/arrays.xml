@@ -4,14 +4,14 @@
   <string-array name="group_name_translate">
     <item>Per defecte</item>
     <item>Mode ocult</item>
-    <item>Reader mode</item>
+    <item>Mode lector</item>
     <item>Mode multimèdia</item>
   </string-array>
   <string-array name="event_name_translate">
-    <item>App running in foreground</item>
-    <item>Display on</item>
-    <item>Display off</item>
-    <item>Display off over 10 minutes</item>
+    <item>L\'aplicació s\'està executant en primer pla</item>
+    <item>Pantalla activada</item>
+    <item>Pantalla desactivada</item>
+    <item>Pantalla desactivada durant 10 minuts</item>
     <item>Pantalla completa</item>
     <item>Surt de la pantalla completa</item>
     <item>S\'està executant l\'aplicació en segon pla</item>
@@ -20,15 +20,15 @@
     <item>El telèfon està inactiu</item>
   </string-array>
   <string-array name="action_name_translate">
-    <item>Max display brightness</item>
+    <item>Màxima lluentor de pantalla</item>
     <item>Màxima freqüència de la CPU</item>
-    <item>Display mode</item>
+    <item>Mode de pantalla</item>
     <item>Ús de CPU</item>
     <item>Connexió de dades</item>
     <item>Ubicació</item>
-    <item>First notification</item>
+    <item>Primera notificació</item>
     <item>Notificacions en pantalla de bloqueig</item>
-    <item>Restrict background data connections</item>
+    <item>Restringeix connexions de dades en segon pla</item>
   </string-array>
   <string-array name="action_param_translate">
     <item>Cap</item>
@@ -36,14 +36,14 @@
     <item>Imatge</item>
     <item>Pel·lícula</item>
     <item>Estalvi de bateria</item>
-    <item>Balance</item>
+    <item>Equilibri</item>
     <item>Rendiment</item>
     <item>Activat</item>
     <item>Desactivat</item>
     <item>Immediatament</item>
-    <item>After 10 min</item>
-    <item>After 30 min</item>
-    <item>When display is off</item>
+    <item>Després de 10 min</item>
+    <item>Després de 30 min</item>
+    <item>Quan la pantalla estigui desactivada</item>
   </string-array>
   <string-array name="app_groups">
     <item>seleccionades</item>
@@ -59,16 +59,24 @@
     <item>Fons</item>
     <item>Recentment</item>
   </string-array>
+  <string-array name="power_checker_running_group_titles">
+    <item>S\'està bloquejant el mode suspensió profunda</item>
+    <item>S\'està bloquejant el mode suspensió</item>
+    <item>S\'està cercant una Wi-Fi</item>
+    <item>S\'està utilitzant el GPS</item>
+    <item>S\'està ocupant la CPU</item>
+    <item>S\'està despertant el dispositiu freqüentment</item>
+  </string-array>
   <string-array name="power_checker_recent_group_titles">
     <item>Kernel WakeLock</item>
     <item>WakeLock</item>
-    <item>WIFI scan</item>
+    <item>Escaneig Wi-Fi</item>
     <item>GPS</item>
     <item>CPU</item>
-    <item>Wake Up</item>
+    <item>Desperta</item>
   </string-array>
   <string-array name="invisible_app_groups">
     <item>seleccionat</item>
-    <item>unselected</item>
+    <item>no seleccionat</item>
   </string-array>
 </resources>

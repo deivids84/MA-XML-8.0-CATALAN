@@ -307,6 +307,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Surt</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+  <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
   <string name="cit_tool_wifi_rx_count_error">El valor de sortida no és un número.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>

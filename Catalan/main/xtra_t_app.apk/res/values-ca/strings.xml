@@ -6,7 +6,7 @@
   <string name="IZat_MENU_TEXT">Ubicació accelerada</string>
   <string name="IZat_SUB_TITLE_TEXT">Utilitza el maquinari Qualcomm® IZat™ d\'ubicació accelerada</string>
   <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Condicions i Política de privacitat&lt;/a&gt;</string>
-  <string name="POPUP_BOX_TEXT">Per activar l\'acceleració de maquinari, permeteu a IZat recopilar dades de localització. L\'IZat emmagatzema algunes dades en el dispositiu i pot funcionar fins i tot quan no hi hagi aplicacions en execució.</string>
+  <string name="POPUP_BOX_TEXT">Per activar l\'acceleració de maquinari, permeteu a IZat recopilar dades d\'ubicació. L\'IZat emmagatzema algunes dades en el dispositiu i pot funcionar fins i tot quan no hi hagi aplicacions en execució.</string>
   <string name="POPUP_BOX_TITLE">Consentiment d\'ubicació</string>
   <string name="setup_wizard_back_button_label">Enrere</string>
   <string name="setup_wizard_next_button_label">Següent</string>
