@@ -375,7 +375,6 @@
   <string name="ir_device_shared">Als voltants</string>
   <string name="ir_device_sound">Altaveus</string>
   <string name="ir_device_stb">Descodificador</string>
-  <string name="ir_device_tv">Televisor</string>
   <string name="ir_device_wifi">Comandament Wi-Fi</string>
   <string name="ir_not_supported_devices">"*Algun TV Mi/descodificador no operen amb IR, utilitzeu comandament WiFi"</string>
   <string name="jump_to_mivideo">Visionat en un dispositiu mòbil</string>

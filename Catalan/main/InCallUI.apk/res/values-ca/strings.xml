@@ -106,14 +106,6 @@
   <string name="dialog_activate_livetalk">Verifiqueu el número</string>
   <string name="dialog_call_ordinary_telephone">Trucada regular</string>
   <string name="dialog_purchase">Recàrrega</string>
-  <string name="dialpad_abc">ABC</string>
-  <string name="dialpad_def">DEF</string>
-  <string name="dialpad_ghi">GHI</string>
-  <string name="dialpad_jkl">JKL</string>
-  <string name="dialpad_mno">MNO</string>
-  <string name="dialpad_pqrs">PQRS</string>
-  <string name="dialpad_tuv">TUV</string>
-  <string name="dialpad_wxyz">WXYZ</string>
   <string name="do_not_ask">No mostrar de nou</string>
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
@@ -182,7 +174,6 @@
   <string name="notification_action_dismiss">Rebutja</string>
   <string name="notification_action_earpiece">Auricular</string>
   <string name="notification_action_end_call">Penja</string>
-  <string name="notification_action_speaker">Altaveu</string>
   <string name="notification_dialing">S\'està trucant</string>
   <string name="notification_incoming_call">Trucada entrant</string>
   <string name="notification_incoming_video_call">Videotrucada entrant</string>

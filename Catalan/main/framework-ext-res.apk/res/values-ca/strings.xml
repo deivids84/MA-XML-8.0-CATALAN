@@ -20,10 +20,6 @@
   <string name="auto_start_warning_allow">Permet</string>
   <string name="auto_start_warning_deny">Denega</string>
   <string name="auto_start_warning_title">Voleu permetre que %s\'iniciï de forma automàtica?</string>
-  <string name="button_text_cancel">Cancel·la</string>
-  <string name="button_text_delete">Elimina</string>
-  <string name="button_text_delete_timer">Eliminar (%d)</string>
-  <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent (%d)</string>
   <string name="call_record_or">" o "</string>
   <string name="call_record_sample_prefix_miui">Trucada</string>
@@ -73,7 +69,6 @@
   <string name="memory_clear_nothing_result">Res a netejar en memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
   <string name="miui">miui</string>
-  <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
   <string name="package_delete_confirm_step_2">En eliminar aquesta aplicació, el sistema pot tornar-se inestable.</string>
   <string name="package_delete_confirm_step_3">"No podreu obrir aquesta aplicació després d'eliminar-la."</string>
   <string name="paste">Enganxa</string>
@@ -144,7 +139,6 @@
   <string name="status_bar_toggle_vibrate">Vibra</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Punt d\'accés</string>
-  <string name="subinfo_default_name">SIM %d</string>
   <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
   <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
   <string name="turn_off">Desactiva</string>

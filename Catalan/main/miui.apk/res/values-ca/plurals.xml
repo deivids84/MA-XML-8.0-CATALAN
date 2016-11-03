@@ -5,6 +5,30 @@
     <item quantity="other">%d elements seleccionats</item>
     <item quantity="one">%d element seleccionat</item>
   </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="one">Ara mateix</item>
+    <item quantity="other">Ara mateix</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="one">Immediatament</item>
+    <item quantity="other">Immediatament</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="one">Fa 1 hora</item>
+    <item quantity="other">Fa 1 hora</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="one">Fa mitja hora</item>
+    <item quantity="other">Fa mitja hora</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="one">En 1 hora</item>
+    <item quantity="other">En 1 hora</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="one">En mitja hora</item>
+    <item quantity="other">En mitja hora</item>
+  </plurals>
   <plurals name="abbrev_num_minutes_ago">
     <item quantity="other">fa %d minuts</item>
     <item quantity="one">fa 1 minut</item>

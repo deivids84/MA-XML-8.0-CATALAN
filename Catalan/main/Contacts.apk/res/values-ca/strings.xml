@@ -494,7 +494,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="ic_menu_back">Enrere</string>
   <string name="ic_menu_done">Fet</string>
   <string name="imLabelsGroup">MI</string>
-  <string name="imei">"IMEI: "</string>
+  <string name="imei">IMEI: </string>
   <string name="imei_invalid">L\'IMEI no és vàlid</string>
   <string name="import_all_sim_entries_miui">Importa tots els contactes</string>
   <string name="import_all_vcard_string">Importa tots els fitxers vCard</string>
@@ -580,7 +580,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="map_home">Veure adreça de domicili</string>
   <string name="map_other">Veure adreça</string>
   <string name="map_work">Veure adreça de treball</string>
-  <string name="meid">"MEID: "</string>
+  <string name="meid">MEID: </string>
   <string name="meid_invalid">L\'IMEI no és vàlid</string>
   <string name="menuMoreDescription">Més</string>
   <string name="menu_accounts">Comptes</string>
@@ -1237,7 +1237,6 @@ Trieu una de les següents opcions: "</string>
   <string name="wipe_data">Esborrar dades</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>
-  <string name="yellowpage_mi_family">Família Mi</string>
   <string name="yellowpage_navigation_ad_hint">Anunci</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no es van poder verificar, torneu-ho a provar més tard."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo i les dades han estat verificats</string>

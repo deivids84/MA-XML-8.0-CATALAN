@@ -44,10 +44,8 @@
   <string name="ok">D\'acord</string>
   <string name="other_sub_is_validating">S\'està validant un altre sub</string>
   <string name="phone_storage">Emmagatzematge del telèfon</string>
-  <string name="ppp_number">ppp_number</string>
   <string name="qc_mbn">MBN de referència</string>
   <string name="quit">Surt</string>
-  <string name="read_only">read_only</string>
   <string name="ref_value">Ref:</string>
   <string name="rule1">s\'ha d\'establir a</string>
   <string name="rule2">per un sub primari cal establir-lo a</string>

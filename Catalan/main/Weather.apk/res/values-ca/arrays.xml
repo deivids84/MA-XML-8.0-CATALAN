@@ -68,36 +68,11 @@
     <item>Apropiat</item>
     <item>Inapropiat</item>
   </string-array>
-  <string-array name="wind_direction">
-    <item>N</item>
-    <item>NE</item>
-    <item>E</item>
-    <item>SE</item>
-    <item>S</item>
-    <item>SO</item>
-    <item>W</item>
-    <item>NO</item>
-  </string-array>
-  <string-array name="wind_power">
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-    <item>%s</item>
-  </string-array>
   <string-array name="aqi_value">
     <item>Bo</item>
     <item>Satisfactori</item>
     <item>Moderadament contaminat</item>
-    <item>Pobre</item>
+    <item>Poor</item>
     <item>Molt pobre</item>
     <item>Greu</item>
   </string-array>

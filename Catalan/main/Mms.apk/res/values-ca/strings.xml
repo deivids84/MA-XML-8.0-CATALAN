@@ -570,7 +570,6 @@
   <string name="sms_rejected_title">Missatge de text rebutjat</string>
   <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="sms_report_success">Informe enviat</string>
-  <string name="snippet_audio">[àudio]</string>
   <string name="snippet_red_package">[Paquet vermell]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>

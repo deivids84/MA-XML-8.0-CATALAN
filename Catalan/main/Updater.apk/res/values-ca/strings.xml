@@ -121,7 +121,7 @@
   <string name="next">Següent</string>
   <string name="no_log">No hi ha cap resum disponible</string>
   <string name="no_wifi_msg">"Utilitzar les dades mòbils per baixar l'actualització incrementarà molt l'ús d'aquestes. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
-  <string name="no_wifi_title">Avís d\'ús de dades</string>
+  <string name="no_wifi_title">Alerta d\'ús de dades</string>
   <string name="not_open">No</string>
   <string name="notification_auto_reboot_seccess_title">El dispositiu s\'ha actualitzat automàticament</string>
   <string name="notification_delay_update_button">Actualitza d\'aquí 2 hores</string>

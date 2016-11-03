@@ -127,7 +127,6 @@
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
   <string name="hint_antispam_mode_edit">Mode personalitzat</string>
-  <string name="im">MI</string>
   <string name="info_antispam_close">AntiSpam desactivat</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Bloqueja les trucades</string>

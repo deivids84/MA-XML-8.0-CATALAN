@@ -390,10 +390,6 @@
   <string name="str_hour_of_next">Següent %s</string>
   <string name="subscribe_card">立即订阅</string>
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
-  <string name="subscribe_channel_footer_button">Administrador de targeta</string>
-  <string name="subscribe_channel_footer_title">Ja està subscrit</string>
-  <string name="subscribe_channel_subscribe">Subscriu-me</string>
-  <string name="subscribe_channel_subscribing">Subscripcions</string>
   <string name="subscribe_description_card_more_cut">Col·lapse</string>
   <string name="subscribe_description_card_more_launch">Expansió</string>
   <string name="subscribe_detail_title">Detalls de la subscripció</string>
@@ -471,7 +467,6 @@
   <string name="weekly">Setmanalment (cada %s)</string>
   <string name="when_label">Quan</string>
   <string name="widget_events">Pròxim esdeveniment</string>
-  <string name="widget_get_weather_info">Obtenir informació meteorològica &gt;</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
   <string name="work_day_indication">:(</string>

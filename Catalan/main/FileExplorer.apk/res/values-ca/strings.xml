@@ -28,8 +28,6 @@
   <string name="app_name_miuiwallpaper">Fons de pantalla</string>
   <string name="app_name_screenshot">Captures de pantalla</string>
   <string name="auto_play">Reprodueix automàticament quan estigui connectat a una Wi-Fi</string>
-  <string name="auto_play_later">Més tard</string>
-  <string name="auto_play_now">Activa</string>
   <string name="auto_play_toast">Els vídeos es reproduiran automàticament. Podeu canviar-ho a la configuració.</string>
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
@@ -84,9 +82,7 @@
   <string name="claim_no_video">No hi ha vídeos per reclamar</string>
   <string name="claim_operation_too_frequently">S\'han produït massa intents! Torneu-ho a provar més tard.</string>
   <string name="claim_remind_dialog_cancel">Mostra altres vídeos</string>
-  <string name="claim_remind_dialog_confirm">Romandre en aquesta Pàgina</string>
   <string name="claim_remind_dialog_message">"No podreu reclamar aquest vídeo si torneu"</string>
-  <string name="claim_remind_dialog_title">Atenció!</string>
   <string name="claim_video">Reclama</string>
   <string name="claim_video_already_claimed">Aquest vídeo ja s\'ha reclamat. Sigueu més ràpid la pròxima vegada!</string>
   <string name="claim_video_already_locked">Reclamat</string>
@@ -321,7 +317,6 @@
   <string name="no_enough_storage_title">No hi ha espai suficient</string>
   <string name="no_file">Buit</string>
   <string name="no_login_btn_text">Iniciar sessió</string>
-  <string name="no_login_str">Sessió no iniciada</string>
   <string name="no_message">Cap missatge</string>
   <string name="no_new_content_tip">Tots els articles estan actualitzats</string>
   <string name="no_recent_files">No hi ha fitxers recents</string>
@@ -386,6 +381,7 @@
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s\'ha unit a la comunitat</string>
   <string name="original_user_signal">Equip de talent</string>
   <string name="original_user_title">Enhorabona! Heu esdevingut membre de l\'equip de Talent.</string>
+  <string name="original_user_verify">• Gràcies per quedar-vos!</string>
   <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Seguint</string>
   <string name="other_user_liked_topic_tip">No hi ha temes</string>
@@ -516,15 +512,10 @@
   <string name="setting">Configuració</string>
   <string name="setting_account_bind">Afegir compte</string>
   <string name="setting_message_notify">Notificacions</string>
-  <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
-  <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_title_1">Trobat nou paquet d\'adhesius!</string>
   <string name="share_to">Compartir per&#8230;</string>
   <string name="share_youliao1">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao2">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao3">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao4">Actualitzeu per veure més capítols.</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_str">Compartits per fans de Mi</string>
@@ -550,14 +541,10 @@
   <string name="swap_tip_2">per veure altres vídeos</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="tab_category">Categories</string>
-  <string name="tab_claim">Reclama</string>
   <string name="tab_common_app">Aplicacions bàsiques</string>
-  <string name="tab_discover">Descobrir</string>
   <string name="tab_follow">Seguint</string>
-  <string name="tab_homepage">Pàgina principal</string>
   <string name="tab_hottest_video">Popular</string>
   <string name="tab_local">LOCAL</string>
-  <string name="tab_mine">Perfil</string>
   <string name="tab_more">Més</string>
   <string name="tab_newest_video">Nou</string>
   <string name="tab_ranking_list">Rànquing</string>
@@ -592,7 +579,6 @@
   <string name="unlogin">Inicieu primer la sessió</string>
   <string name="unmount_inform_text">Desmuntar l\'emmagatzematge USB?</string>
   <string name="unreviewed_video_cannot_share">Els vídeos han de ser ressenyats abans de ser compartits</string>
-  <string name="update">Actualitza</string>
   <string name="update_failed">"No s'ha pogut desar, intenteu-ho de nou"</string>
   <string name="update_loading">S\'està desant&#8230;</string>
   <string name="upload_avatar_camera">Càmera</string>
@@ -612,12 +598,8 @@
   <string name="upload_notification_success_content">"El teu vídeo ha de ser ressenyat abans de ser compartit amb altres persones"</string>
   <string name="upload_notification_title">Pujant vídeo</string>
   <string name="upload_user_photo">Pujar</string>
-  <string name="upload_video_failed">"No es va poder pujar"</string>
   <string name="upload_video_failed_external_progress">"No s'ha pogut pujar, proveu-ho amb un altre"</string>
-  <string name="upload_video_failed_progress">"No s'ha pogut pujar, intenteu-ho de nou"</string>
   <string name="upload_video_forbidden">No pujar vídeo similars</string>
-  <string name="upload_video_success">Pujat amb èxit</string>
-  <string name="upload_video_success_progress">Pujat amb èxit</string>
   <string name="uploading_video">Pujant vídeo&#8230;</string>
   <string name="usb_label">USB</string>
   <string name="used">Usat </string>
@@ -684,7 +666,6 @@
   <string name="video_encrypt_fans_text">Només els admiradors poden veure aquest vídeo</string>
   <string name="video_encrypt_follow_fail">"No s'ha pogut seguir"</string>
   <string name="video_encrypt_follow_success">S\'ha seguit a %s</string>
-  <string name="video_encrypt_login_btn">Inicia la sessió</string>
   <string name="video_encrypt_login_text">Inicieu sessió per reproduir aquest vídeo</string>
   <string name="video_operation_need_fans">Seguieu a la persona que ha fet el vídeo per fer això</string>
   <string name="video_operation_need_login">Inicieu sessió per fer això</string>
@@ -696,7 +677,6 @@
   <string name="video_parsing_btn">Anàlisi…</string>
   <string name="video_play_failed">Error desconegut</string>
   <string name="video_publish_hint">Una bona descripció ajudarà al fet que altres persones trobin el teu vídeo</string>
-  <string name="video_publish_hint2">Descripció</string>
   <string name="video_recommend_upload">Recomanat</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
@@ -725,7 +705,6 @@
   <string name="weixin_sticker_tag_str">Adhesius de WeChat</string>
   <string name="welcome_to_my_page">Benvinguts a la meva pàgina inicial</string>
   <string name="welcome_to_my_page_1">Seguiu-me!</string>
-  <string name="welcome_to_my_page_2">Seguiu-me!</string>
   <string name="wifi_state">Xarxa Wi-Fi</string>
   <string name="wx_title1">"Aquí teniu un vídeo genial!"</string>
   <string name="wx_title2">He compartit un vídeo, feu una ullada!</string>
@@ -736,7 +715,11 @@
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>
-  <string name="youliao_ad_update">Actualitza</string>
+  <string name="youliao_ad_msg">"Gaudiu amb «Youliao»! 
+Formeu part dels 170 milions de Mi Fans!"</string>
+  <string name="youliao_ad_title">S\'han actualitzat els vídeos populars!</string>
+  <string name="youliao_dialog_msg">"Els vídeos populars van ser substituïts per «Youliao»
+és tracta d\'una aplicació dedicada a portar més diversió!"</string>
   <string name="youliao_dialog_title">No trobeu vídeos interessants?</string>
   <string name="zero">0</string>
 </resources>

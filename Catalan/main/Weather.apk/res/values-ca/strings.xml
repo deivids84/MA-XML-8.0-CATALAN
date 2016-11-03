@@ -27,7 +27,6 @@
   <string name="aqi_desc">Índex de qualitat de l\'aire</string>
   <string name="aqi_detail_24_hours">Previsió per hores</string>
   <string name="aqi_detail_5_days">Previsió per dies</string>
-  <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_no2">NO₂</string>
   <string name="aqi_detail_o3">O₃</string>
   <string name="aqi_detail_pm10">PM10</string>

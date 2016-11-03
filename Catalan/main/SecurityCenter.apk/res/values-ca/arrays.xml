@@ -77,9 +77,6 @@
     <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>
     <item>Quan el dispositiu està bloquejat o un minut després de sortir de l\'aplicació</item>
   </string-array>
-  <string-array name="long_add_menu">
-    <item>Afegeix a les excepcions</item>
-  </string-array>
   <string-array name="power_dialog_auto_clean_memory_items">
     <item>Després de 1 minut</item>
     <item>Després de 5 minuts</item>

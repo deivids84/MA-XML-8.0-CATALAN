@@ -67,7 +67,6 @@
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
   <string name="power_checker_recent_btn_title">Configuració de l\'energia</string>
-  <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
   <string name="power_checker_running_group_title">S\'està executant</string>
   <string name="power_checker_title">Control d\'energia</string>

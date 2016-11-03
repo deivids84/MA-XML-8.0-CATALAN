@@ -38,48 +38,6 @@
     <item>Altre</item>
     <item>Personalitzat</item>
   </string-array>
-  <string-array name="config_statusBarIcons">
-    <item>headset</item>
-    <item>mikey</item>
-    <item>call_record</item>
-    <item>privacy_mode</item>
-    <item>ble_unlock_mode</item>
-    <item>quiet</item>
-    <item>gps</item>
-    <item>missed_call</item>
-    <item>managed_profile</item>
-    <item>ime</item>
-    <item>sync_failing</item>
-    <item>sync_active</item>
-    <item>cast</item>
-    <item>location</item>
-    <item>bluetooth</item>
-    <item>bluetooth_handsfree_battery</item>
-    <item>nfc</item>
-    <item>tty</item>
-    <item>speakerphone</item>
-    <item>zen</item>
-    <item>mute</item>
-    <item>volume</item>
-    <item>wifi</item>
-    <item>wimax</item>
-    <item>cdma_eri</item>
-    <item>data_connection</item>
-    <item>phone_evdo_signal</item>
-    <item>phone_signal</item>
-    <item>bateria</item>
-    <item>alarm_clock</item>
-    <item>secure</item>
-    <item>clock</item>
-  </string-array>
-  <string-array name="config_globalActionsList">
-    <item>potència</item>
-    <item>reboot</item>
-    <item>avió</item>
-    <item>silent</item>
-    <item>bugreport</item>
-    <item>users</item>
-  </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Reservat0</item>
     <item>Reservat1</item>

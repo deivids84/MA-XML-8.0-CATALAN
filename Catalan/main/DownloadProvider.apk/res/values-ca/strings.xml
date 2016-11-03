@@ -65,7 +65,7 @@
   <string name="warning_tip_cancel">Baixa</string>
   <string name="warning_tip_content">"No esteu connectat a cap Wi-Fi. L'ús de la connexió de dades mòbil per completar la baixada incrementarà l'ús de dades. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
-  <string name="warning_tip_title">Avís d\'ús de dades</string>
+  <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="wifi_recommended_body" formatted="false">«En iniciar aquesta %s baixada podria donar lloc a un ús excessiu de la connexió de dades mòbil, que podria portar a càrrecs pel seu operador de telefonia mòbil en funció del seu pla de dades.
 
  Toqueu %s per iniciar la descàrrega la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>

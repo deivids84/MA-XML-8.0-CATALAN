@@ -191,7 +191,6 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="config_customAdbPublicKeyConfirmationSecondaryUserComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingSecondaryUserActivity</string>
   <string name="config_customVpnConfirmDialogComponent">com.android.vpndialogs/com.android.vpndialogs.ConfirmDialog</string>
   <string name="config_datause_iface">rmnet0</string>
-  <string name="config_default_dns_server">8.8.8.8</string>
   <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
   <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
@@ -234,7 +233,7 @@ a partir de %s»</string>
   <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Toqueu per veure l\'ús i la configuració.</string>
-  <string name="data_usage_warning_title">Avis d\'ús de dades</string>
+  <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
   <string name="data_usage_wifi_limit_title">Dades Wi-Fi desactivades</string>
   <string name="date_and_time" formatted="false">%b %-e, %M, %-l:%Y:%S %p</string>

@@ -20,7 +20,7 @@
   <string name="cloud_status_full_dialog_title">Emmagatzematge a Mi Cloud ple</string>
   <string name="data_connection_body">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals.</string>
   <string name="data_connection_button_text">D\'acord</string>
-  <string name="data_connection_title">Avís sobre l\'ús de dades</string>
+  <string name="data_connection_title">Alerta d\'ús de dades</string>
   <string name="delete">Elimina</string>
   <string name="delete_dialog_message">Voleu eliminar la gravació?</string>
   <string name="deleting_message">S\'està eliminant&#8230;</string>
@@ -143,6 +143,6 @@
   <string name="toast_max_record_time">%1$s pot enregistrar durant uns %2$s</string>
   <string name="toast_uninstall_fileexplorer">"L'apli «Explorador» no està instal·lada"</string>
   <string name="wifi_recommended_body" formatted="false">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer (%s) augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals. Toqueu %s per iniciar aquesta baixada quan estigueu connectat a una xarxa Wi-Fi.</string>
-  <string name="wifi_recommended_title">Avís sobre l\'ús de dades</string>
+  <string name="wifi_recommended_title">Alerta d\'ús de dades</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

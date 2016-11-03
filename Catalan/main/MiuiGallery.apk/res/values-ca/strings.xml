@@ -623,7 +623,7 @@
   <string name="download_tip">Baixa</string>
   <string name="download_title">S\'estan preparant els fitxers&#8230;</string>
   <string name="download_without_wifi_msg">"Si utilitzeu la connexió de dades mòbils per baixar fotos augmentareu l'ús de dades. En cas que excediu el límit de dades de la tarifa el vostre operador us pot cobrar de més."</string>
-  <string name="download_without_wifi_title">Advertència d\'ús de dades</string>
+  <string name="download_without_wifi_title">Alerta d\'ús de dades</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
   <string name="email_picker_title">Afegeix un correu compartit</string>
   <string name="enable_auto_upload_tip">Aquest àlbum s\'eliminarà dels altres àlbums després que ho activeu.</string>
@@ -848,7 +848,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Fotos</string>
   <string name="photo_edit_file_not_exits_tip">Baixeu la foto abans d\'editar-la</string>
-  <string name="photo_editor_label">Edita</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>

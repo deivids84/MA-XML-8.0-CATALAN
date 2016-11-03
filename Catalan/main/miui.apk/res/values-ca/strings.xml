@@ -32,10 +32,6 @@
   <string name="chinese_day_24">廿四</string>
   <string name="close">Tanca</string>
   <string name="copyright">Drets d\'autor</string>
-  <string name="country_name_co">CO</string>
-  <string name="country_name_im">MI</string>
-  <string name="country_name_mt">MT</string>
-  <string name="country_name_tv">Televisor</string>
   <string name="date_picker_dialog_title">Defineix la data</string>
   <string name="date_time_done">Fet</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
@@ -169,7 +165,7 @@
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>
   <string name="send_sms_for_sync_notice">La vostra companyia podria cobrar-vos el SMS usat per activar aquest servei.</string>
-  <string name="send_sms_for_sync_title">Avis d\'ús de dades</string>
+  <string name="send_sms_for_sync_title">Alerta d\'ús de dades</string>
   <string name="sim_changed_reactivate_int_notice">La targeta SIM actual està desactivada. Un text d\'activació s\'enviarà automàticament (s\'apliquen tarifes internacionals).</string>
   <string name="sim_changed_reactivate_notice">La targeta SIM actual està desactivada. Un text d\'activació s\'enviarà automàticament (s\'apliquen tarifes normals). </string>
   <string name="sim_in_airplane_mode">Si us plau, desactivar el mode avió.</string>

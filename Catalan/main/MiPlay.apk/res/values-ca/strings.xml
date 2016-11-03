@@ -12,7 +12,6 @@
   <string name="media_status_starting">S\'està connectant&#8230;</string>
   <string name="media_status_stopped">Aturat</string>
   <string name="media_status_stopping">S\'està aturant&#8230;</string>
-  <string name="noti_projection_status_desc_on">L\'emmirallat de pantalla és actiu</string>
   <string name="noti_projection_status_title">Pantalla sense fils de MiPlay</string>
   <string name="prjection_title">Pantalla sense fil</string>
   <string name="search_for_devices">Recarrega</string>

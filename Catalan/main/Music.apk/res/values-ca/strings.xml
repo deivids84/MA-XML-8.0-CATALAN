@@ -418,7 +418,6 @@
   <string name="monthly_price">Crèdits Mi</string>
   <string name="more">Més</string>
   <string name="more_about_artist">Més sobre %s</string>
-  <string name="more_add_song_list">Afegeix a la llista de reproducció</string>
   <string name="more_online_artist">Més</string>
   <string name="more_online_billboard">Més</string>
   <string name="more_online_fm">Més</string>
@@ -428,7 +427,6 @@
   <string name="more_online_suggest">Més</string>
   <string name="more_settings">Configuració avançada</string>
   <string name="more_settings_summary">Configuració de baixades, temporitzador, ús de dades mòbils, filtres de fitxers, etc.</string>
-  <string name="more_share">Comparteix</string>
   <string name="multichoice">Seleccioneu</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtra els fitxers d\'àudio</string>
@@ -454,7 +452,6 @@
   <string name="network_request_error">"No es pot connectar a la xarxa"</string>
   <string name="network_settings_error">"No es pot connectar a la xarxa"</string>
   <string name="network_traffic">Ús de dades</string>
-  <string name="news_mark">NOTÍCIES</string>
   <string name="next_time">Ara no</string>
   <string name="no_album_info">No hi ha informació de l\'àlbum</string>
   <string name="no_artist_info">No hi ha informació de l\'artista</string>
@@ -796,7 +793,7 @@
   <string name="warning_tip_cancel">Baixa</string>
   <string name="warning_tip_content">"Ja no esteu connectats a Wi-Fi. Utilitzeu la vostra connexió de dades mòbils per completar aquesta baixada incrementarà l'ús de dades. Si excediu el límit de dades contractat, la vostra companyia podria cobrar-li taxes addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
-  <string name="warning_tip_title">Avis d\'ús de dades</string>
+  <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="welcome_to_new_music">Benvinguts a la nova versió de Música Mi</string>
   <string name="wifi_required_body" formatted="false">«Heu d\'utilitzar la Wi-Fi per completar aquesta descàrrega %s. 
 

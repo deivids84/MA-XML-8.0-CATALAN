@@ -16,15 +16,15 @@
     <item>Mostra el número</item>
   </string-array>
   <string-array name="call_barring_outgoing_display_values">
-    <item>Desactivat</item>
+    <item>Off</item>
     <item>Roaming call barring</item>
     <item>Restricció de trucades internacionals</item>
     <item>Restricció de trucades sortints</item>
   </string-array>
   <string-array name="call_barring_incoming_display_values">
-    <item>Desactivat</item>
+    <item>Off</item>
     <item>Itinerància</item>
-    <item>Tot</item>
+    <item>All</item>
   </string-array>
   <string-array name="list_language_entries">
     <item>Anglès</item>
