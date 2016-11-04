@@ -143,6 +143,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="description_target_search">Cercar</string>
   <string name="disable_notification_summary">Amaga notificacions d\'aplicacions</string>
   <string name="disable_notification_title">Amaga notificacions</string>
+  <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">Si activa l\'emmagatzematge USB, algunes aplicacions que està usant s\'aturaran i poden no estar disponibles fins que desactivi l\'emmagatzematge USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activa emmagatzematge USB</string>
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
@@ -174,6 +175,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
 Utilitza únicament el carregador subministrat."</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
+  <string name="list_delimeter">", "</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
@@ -193,7 +195,11 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="media_projection_remember_text">"No mostrar de nou"</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Sí</string>
+  <string name="nav_guide_cancel">Ignora</string>
   <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
+  <string name="nav_guide_ok">Configuració</string>
+  <string name="nav_guide_title">Amaga els botons de la pantalla</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="no_weather_description">Obtenir informació meteorològica &gt;</string>
   <string name="notification_header_title">Notificacions</string>
@@ -220,6 +226,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="oldman_airplane_mode_text">avió</string>
   <string name="oldman_incall_text">en trucada</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
+  <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
   <string name="quick_settings_done">Fet</string>
@@ -285,9 +292,11 @@ d MMMM"</string>
   <string name="status_bar_safepay_scanning">S\'està comprovant l\'entorn de pagament&#8230;</string>
   <string name="status_bar_safepay_unknown">"No s'ha pogut comprovar l'entorn de pagament"</string>
   <string name="status_bar_settings_airplane">Mode avió</string>
+  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">No hi ha connexió a internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connectat</string>
   <string name="status_bar_style_settings">Notificacions</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="title_usb_accessory">Accessori USB</string>
   <string name="torch_activity_hint">Premeu [icon] a la pantalla de bloqueig per encendre la llanterna</string>
@@ -350,6 +359,7 @@ d MMMM"</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
   <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+  <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>

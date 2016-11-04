@@ -3,6 +3,8 @@
 <resources>
   <string name="admin_receiver_status_disable_warning">L\'administrador de dispositiu de Secure Spaces es tornarà a activar quan sigui necessari (si ho és) més tard.</string>
   <string name="app_name">Agent de Secure Spaces</string>
+  <string name="choice_no">No</string>
+  <string name="choice_yes">Sí</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida amb les condicions actuals. Actualitzeu la contrasenya.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
@@ -14,6 +16,7 @@
   <string name="mobile">mòbil</string>
   <string name="notification_message">Premeu per començar l\'actualització de política</string>
   <string name="notification_title">Actualització de Política</string>
+  <string name="or">o</string>
   <string name="policy_search_field_hint">Nom de la Política</string>
   <string name="policy_update_disclaimer">L\'actualització de política de l\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als proveïdors locals de servei per les quantitats carregades. Si hi esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per començar l\'actualització de la política.</string>
   <string name="policy_update_never_remind">No ho tornis a preguntar</string>
@@ -40,6 +43,7 @@
   <string name="securespaces_device_admin_label">Administrador del dispositiu d\'Espais segurs</string>
   <string name="space_status_authorizing">S\'està autoritzant&#8230;</string>
   <string name="space_status_pending_auth">A l\'espera de l\'autorització.</string>
+  <string name="space_status_registering">S\'està registrant&#8230;</string>
   <string name="space_status_registration_error">Error en registrar l\'Espai.</string>
   <string name="space_status_registration_error_qr_code_reused">La invitació ja no és vàlida</string>
   <string name="space_status_unregistering">S\'està anul·lant el registre&#8230;</string>

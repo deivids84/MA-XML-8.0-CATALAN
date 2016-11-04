@@ -90,6 +90,7 @@
   <string name="sender_transfer_interrupt">"Transferència interrompuda, no apaguis el Wi-Fi durant la transferència"</string>
   <string name="sender_wait">Esperant</string>
   <string name="sender_wait_queue">Esperant</string>
+  <string name="title_activity_main">Activitat principal</string>
   <string name="transfer_interrupt">Transferència interrompuda</string>
   <string name="transmission_click_send">envia</string>
   <string name="transmission_connect">"No s'ha pogut trobar el receptor"</string>

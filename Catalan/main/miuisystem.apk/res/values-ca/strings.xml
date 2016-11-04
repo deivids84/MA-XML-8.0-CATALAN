@@ -16,6 +16,7 @@
   <string name="cta_message_permission">Aquesta app necessita %2$s per funcionar correctament.</string>
   <string name="cta_permission_and">&#160;i</string>
   <string name="cta_title">Condicions d\'ús</string>
+  <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">Esborra frases freqüents</string>
   <string name="delete_frequent_phrases_confirm">Voleu esborrar les frases freqüents seleccionades?</string>
   <string name="device_hongmi">Redmi</string>

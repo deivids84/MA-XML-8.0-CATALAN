@@ -6,6 +6,7 @@
 L\'identificador de publicitat del dispositiu és únic i permanent. Serveix als anunciants per oferir-vos publicitat personalitzada.
 
 Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat d\'anuncis sinó que no es personalitzaran.»</string>
+  <string name="about_phone_enter_xiaomi_net">Més informació</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="ac_enable_summary">Cal una contrasenya</string>

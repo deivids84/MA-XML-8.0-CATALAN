@@ -202,6 +202,12 @@
     <item>Manual</item>
     <item>Configuració automàtica del servidor intermediari</item>
   </string-array>
+  <string-array name="apn_auth_entries">
+    <item>Cap</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP o CHAP</item>
+  </string-array>
   <string-array name="apn_protocol_entries">
     <item>IPv4</item>
     <item>IPv6</item>
@@ -352,7 +358,7 @@
     <item>Llarga</item>
   </string-array>
   <string-array name="captioning_typeface_selector_titles">
-    <item>Default</item>
+    <item>Per defecte</item>
     <item>Sans-serif</item>
     <item>Sans-serif condensada</item>
     <item>Sans serif monoespaiada</item>
@@ -446,6 +452,20 @@
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Cap</item>
+    <item>480p</item>
+    <item>480p (secure)</item>
+    <item>720p</item>
+    <item>720p (secure)</item>
+    <item>1080p</item>
+    <item>1080p (secure)</item>
+    <item>4K</item>
+    <item>4K (secure)</item>
+    <item>4K (upscaled)</item>
+    <item>4K (upscaled, secure)</item>
+    <item>720p, 1080p (dual screen)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>

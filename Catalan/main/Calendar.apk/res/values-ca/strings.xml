@@ -350,6 +350,7 @@
   <string name="repeat_label_frequency">Freqüència</string>
   <string name="repeat_label_interval">Cada</string>
   <string name="repeat_label_week">Setmana</string>
+  <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Repeteix</string>
   <string name="response_maybe">Potser</string>
@@ -467,6 +468,7 @@
   <string name="weekly">Setmanalment (cada %s)</string>
   <string name="when_label">Quan</string>
   <string name="widget_events">Pròxim esdeveniment</string>
+  <string name="widget_get_weather_info">Obtén la informació meteorològica &gt;</string>
   <string name="widget_no_events">No hi ha esdeveniments</string>
   <string name="widget_select_style">Seleccioneu un estil</string>
   <string name="work_day_indication">:(</string>

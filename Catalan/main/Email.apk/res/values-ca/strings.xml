@@ -110,6 +110,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefix de la ruta IMAP</string>
   <string name="account_setup_incoming_password_label">Contrasenya</string>
+  <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Tipus de seguretat</string>
   <string name="account_setup_incoming_security_none_label">Cap</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
@@ -139,6 +140,7 @@
   <string name="account_setup_options_mail_window_label">Dies a sincronitzar</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantenir per</string>
   <string name="account_setup_options_title">Configuració del compte</string>
+  <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">Cal que permeteu que el servidor %s controli de manera remota algunes funcions de seguretat del dispositiu Android. Voleu acabar de configurar aquest compte?</string>
@@ -172,6 +174,7 @@
   <string name="att_download_failed_title">"Descàrrega del fitxer adjunt fallida"</string>
   <string name="att_file_not_exists">"No s'ha trobat %s"</string>
   <string name="att_mgr_no_attachment">Buit</string>
+  <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Nom</string>
   <string name="att_mgr_title_order_rev_date">Data</string>
   <string name="att_mgr_title_order_sender">Remitent</string>
@@ -192,6 +195,7 @@
   <string name="attachment_open_SecurityException_hint">Potser que no tinguis permisos per obrir aquest fitxer, o que estigui malmès.</string>
   <string name="attachment_open_SecurityException_title">"No es pot obrir el fitxer"</string>
   <string name="attachment_stop_all">Aturar</string>
+  <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
   <string name="attachment_unknown">fitxer %s</string>
   <string name="attachment_video">Vídeo</string>
@@ -235,6 +239,7 @@
   <string name="click_download_all_content">[ Toqui per descarregar  ]</string>
   <string name="click_to_reload">Toqueu la pantalla per tornar a carregar</string>
   <string name="collapse_recipient_details">Col·lapsar detalls del destinatari</string>
+  <string name="colon">:</string>
   <string name="compose">Redactar</string>
   <string name="compose_attachment_number_limit">"No es poden afegir més de 10 adjunts"</string>
   <string name="compose_paste_address_oob">El contingut a enganxar és massa llarg, aquest s\'ha truncat</string>
@@ -301,10 +306,12 @@
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Avui, %1$s</string>
+  <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
   <string name="del_account_questionnair_hint">"Ens pots dir per què estàs eliminant aquest compte?"</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_message_flow">Elimina el flux de missatges</string>
   <string name="deleted">Eliminat</string>
   <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activa l\'actualització completa del servei de correu i activar l\'equip de seguretat</string>
@@ -344,8 +351,10 @@
   <string name="download_message_failed_for_too_large">El missatge és massa gran per descarregar.</string>
   <string name="download_whole_email">Descarregar la resta de contingut</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
+  <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
+  <string name="email_setting">Correu</string>
   <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
   <string name="empty_account_tip">"No es pot trobar el compte"</string>
   <string name="empty_email_tip">"No es pot enviar un missatge buit"</string>
@@ -429,6 +438,7 @@
   <string name="general_preference_text_zoom_huge">Enorme</string>
   <string name="general_preference_text_zoom_label">Mida de text del missatge</string>
   <string name="general_preference_text_zoom_large">Gran</string>
+  <string name="general_preference_text_zoom_normal">Normal</string>
   <string name="general_preference_text_zoom_small">Petit</string>
   <string name="general_preference_text_zoom_tiny">Petit</string>
   <string name="generic_attachment_problem">"No pot adjuntar fitxer."</string>
@@ -492,6 +502,14 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
+  <string name="mailbox_name_server_all_unread">No llegits</string>
+  <string name="mailbox_name_server_drafts">Esborranys</string>
+  <string name="mailbox_name_server_inbox">Safata d\'entrada</string>
+  <string name="mailbox_name_server_junk">Correu brossa</string>
+  <string name="mailbox_name_server_outbox">Safata de sortida</string>
+  <string name="mailbox_name_server_sent">S\'ha enviat</string>
+  <string name="mailbox_name_server_starred">Marcat</string>
+  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
@@ -571,6 +589,7 @@
   <string name="message_saved">Missatge guardat com a esborrany.</string>
   <string name="message_view_attachment_background_load">\"Seran descarregats abans d\'enviar 
         un o més fitxers adjunts al missatge reenviat.\"</string>
+  <string name="mibill_privacy_policy_button1">Més tard</string>
   <string name="mibill_privacy_policy_button2">D\'acord</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
@@ -589,6 +608,7 @@
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_messages">%1$d missatges nous</string>
   <string name="next_action">Següent</string>
+  <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
@@ -702,11 +722,15 @@
   <string name="preference_sender_image_description">"Mostrar al costat del nom a la llista de conversa"</string>
   <string name="preference_sender_image_title">Imatge del remitent</string>
   <string name="preferences_signature_dialog_title">Signatura</string>
+  <string name="preferences_signature_summary_not_set">No s\'ha establert</string>
   <string name="preferences_signature_title">Signatura</string>
   <string name="preview_attachment">Vista prèvia</string>
   <string name="previous_action">Enrere</string>
   <string name="print">Imprimeix</string>
   <string name="prompt_title">Punter</string>
+  <string name="protocol_imap">imap</string>
+  <string name="protocol_legacy_imap">imap</string>
+  <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Tiri cap avall per actualitzar</string>
   <string name="pull_up_to_load_more">Tira cap amunt per carregar més</string>
   <string name="push_wps_better_confirm_download">Descarregar</string>
@@ -815,9 +839,11 @@
   <string name="selected_lable">Seleccionat</string>
   <string name="send">Enviar</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
+  <string name="send_feed_back">Envia els suggeriments</string>
   <string name="send_feed_back_keywords">envia suggeriments</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
   <string name="senders_elided">..</string>
+  <string name="senders_split_token">,</string>
   <string name="sending">Enviant&#8230;</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
@@ -842,6 +868,8 @@
   <string name="show_images">Descarregar i veure fotos</string>
   <string name="signature">" %s"</string>
   <string name="silent_ringtone">Silenciós</string>
+  <string name="single_new_message_notification_big_text">"%1$s 
+%2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
   <string name="sort_attachment">Ordenar per</string>
@@ -850,12 +878,14 @@
   <string name="special_text_3">Va escriure:</string>
   <string name="special_text_4">Va escriure:</string>
   <string name="special_text_5">Va escriure:</string>
+  <string name="special_text_colon_en">:</string>
   <string name="special_text_colon_zh">：</string>
   <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">Remitent</string>
   <string name="special_text_sender_zh">Remitent</string>
   <string name="storage">Emmagatzematge</string>
   <string name="str_select_all">Selecciona-ho tot</string>
+  <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Assumpte</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
@@ -882,8 +912,10 @@
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
   <string name="topic_merge">Combina temes</string>
+  <string name="translation_loading">S\'està carregant&#8230;</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Màquina</string>
   <string name="translation_query_failure">La cerca ha fallat</string>
@@ -908,6 +940,7 @@
   <string name="upload_log_success">"Els registres s'han pujat correctament"</string>
   <string name="upload_log_title">Pujar els registres ara?</string>
   <string name="upload_log_yes">Pujar</string>
+  <string name="upload_logs">Puja els registres</string>
   <string name="uploading_logs">Un moment&#8230;</string>
   <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
   <string name="via_domain">mitjançant %1$s</string>
@@ -918,6 +951,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_help_context">espereu</string>
   <string name="widget_all_mail">Tot el correu</string>
   <string name="widget_other_views">Altres</string>
+  <string name="wipe_account_fail_description">Permet</string>
   <string name="wipe_account_fail_title">"No s'ha pogut eliminar la informació personal"</string>
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>

@@ -115,6 +115,7 @@
   <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>
   <string name="callFailed_fdn_only">Les trucades sortints estan limitades als NMP.</string>
   <string name="callFailed_incoming_cb_enabled">La multi-conferència ha bloquejat totes les trucades entrants.</string>
+  <string name="callFailed_invalid_credentials">Nom d\'usuari o contrasenya incorrecta</string>
   <string name="callFailed_limitExceeded">S\'ha excedit el límit ACM</string>
   <string name="callFailed_low_battery">Bateria Baixa</string>
   <string name="callFailed_noSignal">Sense senyal</string>
@@ -330,8 +331,15 @@
   <string name="dialpad_7_letters">PQRS</string>
   <string name="dialpad_8_letters">TUV</string>
   <string name="dialpad_9_letters">WXYZ</string>
+  <string name="dialpad_def">DEF</string>
+  <string name="dialpad_ghi">GHI</string>
+  <string name="dialpad_jkl">JKL</string>
+  <string name="dialpad_mno">MNO</string>
   <string name="dialpad_pound_number">\#</string>
+  <string name="dialpad_pqrs">PQRS</string>
   <string name="dialpad_star_number">*</string>
+  <string name="dialpad_tuv">TUV</string>
+  <string name="dialpad_wxyz">WXYZ</string>
   <string name="disable">Apaga</string>
   <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
   <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
@@ -504,6 +512,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_supp_service_unknown">Servei no admès</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connecteu a una xarxa sense fil per fer una trucada.</string>
   <string name="incall_status_dialed_mmi">Començant seqüència MMI</string>
+  <string name="input_password">Introduïu la contrasenya</string>
   <string name="international_calls">Només internacional</string>
   <string name="international_dial_complete_intention">Feu trucades internacionals a preus més baixos</string>
   <string name="international_dial_complete_no">Ara no</string>

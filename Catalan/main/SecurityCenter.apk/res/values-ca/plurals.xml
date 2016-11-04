@@ -61,6 +61,22 @@
     <item quantity="other">Poden optimitzar-se %d elements</item>
     <item quantity="one">Pot optimitzar-se %d element</item>
   </plurals>
+  <plurals name="people">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="people_million">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="million">
+    <item quantity="one">Baixat per %1$d persona</item>
+    <item quantity="other">Baixat per %1$d persones</item>
+  </plurals>
+  <plurals name="view_num">
+    <item quantity="other">%1$d vistes</item>
+    <item quantity="one">%1$d vista</item>
+  </plurals>
   <plurals name="system_check_content">
     <item quantity="other">%1$d elements segurs</item>
     <item quantity="one">%1$d element segur</item>
