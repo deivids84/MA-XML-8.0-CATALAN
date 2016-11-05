@@ -502,14 +502,6 @@
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>
-  <string name="mailbox_name_server_all_unread">No llegits</string>
-  <string name="mailbox_name_server_drafts">Esborranys</string>
-  <string name="mailbox_name_server_inbox">Safata d\'entrada</string>
-  <string name="mailbox_name_server_junk">Correu brossa</string>
-  <string name="mailbox_name_server_outbox">Safata de sortida</string>
-  <string name="mailbox_name_server_sent">S\'ha enviat</string>
-  <string name="mailbox_name_server_starred">Marcat</string>
-  <string name="mailbox_name_server_trash">Paperera</string>
   <string name="mailbox_settings_activity_title">Opcions de sincronització</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opcions de sincronització (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Dies de correu per sincronitzar</string>
