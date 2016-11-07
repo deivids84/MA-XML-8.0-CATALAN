@@ -46,7 +46,7 @@
   <string name="account_user_phone">Número de telèfon</string>
   <string name="account_user_recovery_phone">Telèfon de recuperació</string>
   <string name="account_user_region">Regió</string>
-  <string name="account_user_secure_info">Telèfon &amp; email</string>
+  <string name="account_user_secure_info">Telèfon i email</string>
   <string name="account_user_using_facebook_avatar">Utilitza la foto de perfil de Facebook</string>
   <string name="account_user_using_qq_avatar">Utilitza la foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilitza la foto de perfil de Sina Weibo</string>
@@ -313,9 +313,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_uplink_slot2_reg">Utilitza la SIM 2</string>
   <string name="passport_use_generated_pwd_message">Assegureu-vos que recordeu la vostra contrasenya. La podeu utilitzar per accedir a altres serveis Mi.</string>
   <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
-  <string name="passport_user_agreement">Acord de l\'Usuari</string>
+  <string name="passport_user_agreement">Acord d\'usuari</string>
   <string name="passport_user_agreement_p1">D\'acord amb&#160;</string>
-  <string name="passport_user_agreement_p2">Acord de l\'Usuari</string>
+  <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">&#160;i</string>
   <string name="passport_user_agreement_p4">Política de privadesa</string>
   <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
@@ -323,7 +323,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_vcode_sms_send_prompt">Envia codi de verificació a %s</string>
   <string name="passport_verification_failed">Ha fallat l\'autenticació</string>
   <string name="passport_verify">Verifica</string>
-  <string name="passport_wait_for_sms_prompt">"Tornar a començar ara? Els missatges de verificació poden trigar uns 10 minuts en arribar al vostre telèfon si és que teniu cobertura."</string>
+  <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar si és que teniu cobertura."</string>
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_phone_number_format">El format del número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>

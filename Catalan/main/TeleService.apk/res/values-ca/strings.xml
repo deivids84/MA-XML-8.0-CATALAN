@@ -45,7 +45,7 @@
   <string name="answer_state_setting_summary">Opcions addicionals de les trucades entrants</string>
   <string name="answer_state_setting_title">Configuració de trucades entrants</string>
   <string name="antispam_notification_title">Número desconegut</string>
-  <string name="antispam_setting">Llista de bloquejos</string>
+  <string name="antispam_setting">Llista de bloqueig</string>
   <string name="apn_settings">Noms de punts d\'accés</string>
   <string name="area_code_preference_be_set_summary">Ubicació actual: %s</string>
   <string name="area_code_preference_summary">Marca codi d\'àrea automàticament</string>
@@ -235,7 +235,7 @@
   <string name="cfb_title">Desviament si ocupat</string>
   <string name="cfnrc_title">Desviament si fora de cobertura</string>
   <string name="cfnrc_title_cta">Desviament si fora de cobertura</string>
-  <string name="cfnry_title">Desviament si no es respon</string>
+  <string name="cfnry_title">Desviament si no contesta</string>
   <string name="cfu_title">Desviament incondicional</string>
   <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
   <string name="change_default_data_card">SIM de dades mòbils per defecte</string>
@@ -265,7 +265,7 @@
   <string name="connect_disconnect_vibrate_none">Cap</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">"Vibra quan la persona que esteu trucant contesti la trucada"</string>
-  <string name="connect_disconnect_vibrate_title">Vibra quan us responguin</string>
+  <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
   <string name="connect_later">"Ara no us podeu connectar a aquesta xarxa. Intenteu-ho més tard."</string>
   <string name="connection_service_default_label">Servei de connexió incorporat</string>
@@ -331,6 +331,7 @@
   <string name="dialpad_7_letters">PQRS</string>
   <string name="dialpad_8_letters">TUV</string>
   <string name="dialpad_9_letters">WXYZ</string>
+  <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>
   <string name="dialpad_ghi">GHI</string>
   <string name="dialpad_jkl">JKL</string>
@@ -511,7 +512,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_supp_service_transfer">"No es pot transferir."</string>
   <string name="incall_error_supp_service_unknown">Servei no admès</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connecteu a una xarxa sense fil per fer una trucada.</string>
-  <string name="incall_status_dialed_mmi">Començant seqüència MMI</string>
+  <string name="incall_status_dialed_mmi">S\'està començant seqüència MMI&#8230;</string>
   <string name="input_password">Introduïu la contrasenya</string>
   <string name="international_calls">Només internacional</string>
   <string name="international_dial_complete_intention">Feu trucades internacionals a preus més baixos</string>
@@ -548,11 +549,12 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="labelCF">Desviament de trucades</string>
   <string name="labelCFB">Ocupat</string>
   <string name="labelCFNRc">Fora de cobertura</string>
-  <string name="labelCFNRy">Sense resposta</string>
+  <string name="labelCFNRy">Sense contestar</string>
   <string name="labelCFU">Desviament incondicional</string>
   <string name="labelCW">Trucada en espera</string>
   <string name="labelCallerId">Identificador de trucades</string>
   <string name="labelCbCancelAll">Desactiva limitació de trucades</string>
+  <string name="labelCbChangePassword">Canvieu la contrasenya</string>
   <string name="labelCdmaMore_with_label">Configuració de trucada CDMA (%s)</string>
   <string name="labelGSMMore">Configuració de trucades GSM</string>
   <string name="labelGsmMore_with_label">Configuració de trucada GSM (%s)</string>
@@ -619,10 +621,11 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="livetalk_package_name">Recàrrega saldo</string>
   <string name="livetalk_provider">Operat per %1$s</string>
   <string name="livetalk_provision">Condicions del servei</string>
-  <string name="livetalk_provision_content">Us cal acceptar %1$s per començar a utilitzar el paquet de recàrrega. Per utilitzar aquest servei, heu d\'estar connectat a internet. Pot ser que s\'enviï un SMS des del vostre telèfon per activar el servei. Accepteu?</string>
+  <string name="livetalk_provision_content">Cal que accepteu %1$s per començar a utilitzar el paquet de recàrrega. Per aquest servei, heu d\'estar connectat a internet. Pot ser que s\'enviï un SMS des del vostre telèfon per activar-lo. Hi esteu d\'acord?</string>
   <string name="livetalk_provision_title">Prestació</string>
   <string name="livetalk_remain_minutes_title">Temps de trucada disponible</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
+  <string name="livetalk_shortcut_title">Paquet de recàrrega</string>
   <string name="livetalk_terms_conditions">Termes i condicions</string>
   <string name="livetalk_unavaiable_info">Aquest servei no està disponible temporalment</string>
   <string name="livetalk_user_config_title">Verificació de la SIM</string>
@@ -654,7 +657,7 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="menu_edit">Edita contacte</string>
   <string name="messageCFB">Número quan estigui ocupat</string>
   <string name="messageCFNRc">Número quan estigui fora de cobertura</string>
-  <string name="messageCFNRy">Número quan no respongui</string>
+  <string name="messageCFNRy">Número quan no contestin</string>
   <string name="messageCFU">Utilitza sempre aquest número</string>
   <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
   <string name="mhh_disable">Medicina, Hospitals i Salut desactivat</string>
@@ -696,13 +699,14 @@ per començar a utilitzar el paquet de recàrrega"</string>
   <string name="msim_not_set_summary">No establert</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcatge</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Error de targeta ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Error de targeta SIM</string>
   <string name="msim_setting_categery_title">Configuració de targeta SIM</string>
   <string name="msim_setting_no_sim_indicator">No hi ha targeta SIM</string>
   <string name="msim_setting_operator_network_title">Xarxa mòbil</string>
-  <string name="msim_setting_screen_title">Targetes SIM &amp; xarxes mòbils</string>
+  <string name="msim_setting_screen_title">Targetes SIM i xarxes mòbils</string>
   <string name="msim_setting_sim_info_editor_title">Ediat informació de targeta</string>
   <string name="msim_sim_lock">Bloquejada</string>
   <string name="msim_sim_radio_off">Desactivat</string>
@@ -856,8 +860,11 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="other_settings">Altres ajustaments de trucada</string>
   <string name="other_settings_category">Altres</string>
   <string name="overseas_roaming_setting">Itinerància de dades</string>
+  <string name="password">Contrasenya</string>
+  <string name="password_changed">La contrasenya s\'ha canviat</string>
+  <string name="password_title">Contrasenya</string>
   <string name="path_answer_state_setting_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants</string>
-  <string name="path_antispam_setting">Aplicacions de sistema/Telèfon/Llista de bloquejos</string>
+  <string name="path_antispam_setting">Aplicacions de sistema/Telèfon/Llista de bloqueig</string>
   <string name="path_app_name">Aplicacions del sistema/Telèfon</string>
   <string name="path_auto_answer_pref_title">Aplicacions de sistema/Telèfon/Resposta automàtica</string>
   <string name="path_autoip">Aplicacions de sistema/Telèfon/Configuració avançada/Marcatge IP automàtic</string>
@@ -870,7 +877,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_call_waiting_tone_title">Aplicacions de sistema/Telèfon/Configuració avançada/Notificació de trucada en espera</string>
   <string name="path_caller_id_title">Aplicacions de sistema/Telèfon/Configuració avançada/Identificació trucada entrant</string>
   <string name="path_cloud_antispam_title">Aplicacions de sistema/Telèfon/Identifica números desconeguts</string>
-  <string name="path_connect_disconnect_vibrate_title">Aplicacions de sistema/Telèfon/Configuració avançada/Vibració en respondre la vostre trucada</string>
+  <string name="path_connect_disconnect_vibrate_title">Aplicacions de sistema/Telèfon/Configuració avançada/Vibra quan despengin</string>
   <string name="path_dtmf_tones_title">Aplicacions de sistema/Telèfon/Configuració avançada/Marcació per tons</string>
   <string name="path_enable_antispam_strange_title">Telèfon/Paràmetres de trucades entrants/Silencia després del primer ring</string>
   <string name="path_enable_proximity_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants/Sensor de proximitat</string>
@@ -932,8 +939,10 @@ Queden %d intents."</string>
   <string name="pin_progress_set_icc_lock">S\'està establint el bloqueig ICC&#8230;</string>
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="please_enter_phone_number">Introduïu el número de telèfon</string>
+  <string name="port">Port</string>
+  <string name="port_title">Número de port</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
-  <string name="preference_category_ringtone">So de trucada &amp; vibració</string>
+  <string name="preference_category_ringtone">So i vibració</string>
   <string name="preference_data_usage_summary">Definiu el vostre pla de dades per controlar l\'ús de les dades mòbils</string>
   <string name="preference_data_usage_title">Establiu el pla de dades</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
@@ -1021,6 +1030,7 @@ Queden %d intents."</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
+  <string name="psw_enter_new">Nova contrasenya</string>
   <string name="psw_enter_old">Contrasenya antiga</string>
   <string name="psw_reenter_new">Introduïu la contrasenya de nou</string>
   <string name="puk2_blocked">PUK2 està bloquejat permanentment.</string>
@@ -1125,7 +1135,7 @@ Queden %d intents."</string>
   <string name="ruim_unlock_success">S\'ha desbloquejat RUIM.</string>
   <string name="save">Desa</string>
   <string name="saving_account">S\'està desant el compte&#8230;</string>
-  <string name="search_antispam_setting">Llista de bloquejos</string>
+  <string name="search_antispam_setting">Llista de bloqueig</string>
   <string name="search_app_name">Telèfon;Enregistrament de trucades;Desviament de trucades;redirecció;Trucada en espera;Llista de bloqueig;Codi de país;Codi d\'àrea;Codis de país;Codis d\'àrea;Enregistra trucades;Enregistra trucada;Teclat;Trucada;Trucades;Telefonia;VoIP;VoLTE;Trucada perduda;Trucades perdudes;SIP;Teclat predictiu;Telefonia IP;NMP</string>
   <string name="search_networks">Cerca xarxes</string>
   <string name="selectContact">Selecciona contacte</string>
@@ -1165,7 +1175,7 @@ Queden %d intents."</string>
   <string name="sim_no_activated">"No s'ha pogut verificar la targeta SIM"</string>
   <string name="sim_roaming_settings_summary">Connecta a xarxes de dades mòbils en itinerància</string>
   <string name="sim_roaming_settings_title">Itinerància Mi</string>
-  <string name="sim_service_setting">SIM Mi &amp; Itinerància Mi</string>
+  <string name="sim_service_setting">SIM Mi i itinerància Mi</string>
   <string name="sim_unlock_failed">La petició de desbloqueig de la targeta SIM no s\'ha atès.</string>
   <string name="sim_unlock_success">La targeta SIM s\'ha desbloquejat.</string>
   <string name="sim_useless">La SIM no està disponible</string>
@@ -1315,6 +1325,7 @@ Voleu utilitzar-lo en un paquet de recàrrega?"</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_range">Gamma</string>
   <string name="username">UserName</string>
+  <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="verified">Verificat</string>
@@ -1356,6 +1367,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
   <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
+  <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
   <string name="xdivert_summary">Configuració CFNRc</string>
   <string name="xdivert_title">Desviament de trucades</string>
 </resources>

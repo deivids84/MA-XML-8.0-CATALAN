@@ -70,7 +70,7 @@
   <string name="lockscreen_access_pattern_detected">S\'ha completat el patró</string>
   <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
   <string name="maml_component_customization_title">Configuració</string>
-  <string name="memory_clear_nothing_result">Res a netejar en memòria cau</string>
+  <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
   <string name="miui">miui</string>
   <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
@@ -135,7 +135,7 @@
   <string name="status_bar_toggle_mute">Silenci</string>
   <string name="status_bar_toggle_paper_mode">Mode lectura</string>
   <string name="status_bar_toggle_power_mode">Rendiment</string>
-  <string name="status_bar_toggle_quiet_mode">No molestar</string>
+  <string name="status_bar_toggle_quiet_mode">No molesteu</string>
   <string name="status_bar_toggle_rotate">No rotar</string>
   <string name="status_bar_toggle_screen_button">Botons</string>
   <string name="status_bar_toggle_screenshot">Captura</string>

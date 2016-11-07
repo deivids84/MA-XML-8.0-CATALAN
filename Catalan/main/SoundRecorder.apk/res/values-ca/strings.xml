@@ -46,7 +46,7 @@
   <string name="mark_point_list_title">Marques</string>
   <string name="message_file_size_error">La gravació ha arribat a la durada màxima permesa per %s</string>
   <string name="network_tip_dialog_cancel">Cancel·la</string>
-  <string name="network_tip_dialog_content">El motor de reconeixement de veu necessita connexió a Internet per treballar amb normalitat.</string>
+  <string name="network_tip_dialog_content">El motor de reconeixement de veu necessita connectar-se a Internet per funcionar correctament.</string>
   <string name="network_tip_dialog_ok">Permet</string>
   <string name="network_tip_dialog_title">Es requereix de connexió a Internet</string>
   <string name="new_record_name">Gravació nova</string>

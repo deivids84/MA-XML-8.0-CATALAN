@@ -255,7 +255,7 @@
   <string name="st_antispam_mode_only_contacts_sum">Permet trucades i missatges només de contactes</string>
   <string name="st_antispam_mode_only_whitelist">Permet només les excepcions</string>
   <string name="st_antispam_mode_only_whitelist_sum">Permet trucades i missatges només de números a la llista d\'excepcions</string>
-  <string name="st_antispam_mode_smart">Números reportats</string>
+  <string name="st_antispam_mode_smart">Números notificats</string>
   <string name="st_antispam_mode_smart_sum">"Bloqueja números afegits manualment o reportats per altres usuaris"</string>
   <string name="st_antispam_notification_sum">Mostra una notificació quan es bloqueja una trucada o missatge</string>
   <string name="st_antispam_title_anoy_incoming">Trucades de desconeguts</string>
@@ -306,8 +306,8 @@
   <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
   <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números específics</string>
-  <string name="st_title_adblock_group">Bloqueig de publicitat</string>
-  <string name="st_title_adblock_setting">Configuració del bloqueig de publicitat</string>
+  <string name="st_title_adblock_group">Bloquejador d\'anuncis</string>
+  <string name="st_title_adblock_setting">Configuració del bloquejador d\'anuncis</string>
   <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
   <string name="st_title_addwhitelist">Afegeix a les excepcions</string>
   <string name="st_title_adress">Afegeix ubicacions</string>

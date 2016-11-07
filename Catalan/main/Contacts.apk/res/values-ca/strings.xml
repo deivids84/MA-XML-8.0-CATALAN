@@ -110,20 +110,20 @@
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Afegir nota de trucada</string>
   <string name="callrecordview_menu_batch_delete">Eliminar lot</string>
-  <string name="callrecordview_menu_blocklist">Llista de bloquejos</string>
+  <string name="callrecordview_menu_blocklist">Llista de bloqueig</string>
   <string name="callrecordview_menu_conference">Trucada de conferència</string>
-  <string name="callrecordview_menu_delete">Netejar registre de trucades </string>
-  <string name="callrecordview_menu_delete_accepted">Netejar trucades respostes</string>
-  <string name="callrecordview_menu_delete_all">Netejar registre de trucades</string>
-  <string name="callrecordview_menu_delete_called">Netejar trucades sortints</string>
+  <string name="callrecordview_menu_delete">Esborra el registre de trucades</string>
+  <string name="callrecordview_menu_delete_accepted">Esborra les trucades contestades</string>
+  <string name="callrecordview_menu_delete_all">Esborra el registre de trucades</string>
+  <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
-  <string name="callrecordview_menu_delete_missed">Esborrar trucades perdudes</string>
+  <string name="callrecordview_menu_delete_missed">Esborra les trucades perdudes</string>
   <string name="callrecordview_menu_delete_new">Esborrar registres de trucades a nous contactes</string>
   <string name="callrecordview_menu_delete_one">Eliminar del registre de trucades</string>
   <string name="callrecordview_menu_delete_sim">Esborrar %s registres de trucades</string>
   <string name="callrecordview_menu_delete_stranger">Esborrar números desconeguts</string>
   <string name="callrecordview_menu_edit_call_note">Edita nota de trucada</string>
-  <string name="callrecordview_menu_ip">IP de marcació automàtica</string>
+  <string name="callrecordview_menu_ip">Auto marcació d\'IP</string>
   <string name="callrecordview_menu_livetalk">Paquet de recàrrega</string>
   <string name="callrecordview_menu_mobiledata">Dades de compra</string>
   <string name="callrecordview_menu_paste">Enganxar</string>
@@ -131,7 +131,7 @@
   <string name="callrecordview_menu_save_to_group">Desar el registre de trucades al grup</string>
   <string name="callrecordview_menu_settings">Configuració</string>
   <string name="callrecordview_menu_show">Filtrar</string>
-  <string name="callrecordview_menu_show_accepted">Trucades respostes</string>
+  <string name="callrecordview_menu_show_accepted">Trucades contestades</string>
   <string name="callrecordview_menu_show_all">Totes les trucades</string>
   <string name="callrecordview_menu_show_called">Trucades sortints</string>
   <string name="callrecordview_menu_show_missed">Trucades perdudes</string>
@@ -368,7 +368,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
   <string name="dialer_empty_text_no_search_result">No s\'han trobat els contactes</string>
   <string name="dialer_menu_description">Mostra marcador</string>
-  <string name="dialer_menu_title">Opcions de menú</string>
+  <string name="dialer_menu_title">Menú d\'opcions</string>
   <string name="dialer_returnToInCallScreen">Retornar a la trucada en progrés</string>
   <string name="dialer_useDtmfDialpad">Utilitza el teclat per tons</string>
   <string name="dialog_import">Importa contactes</string>
@@ -432,7 +432,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="exporting_vcard_canceled_title">Exportació de %s cancel·lat.</string>
   <string name="exporting_vcard_finished_title">Exportació %s acabada.</string>
   <string name="external_profile_title">El meu perfil de %1$s</string>
-  <string name="fail_reason_could_not_initialize_exporter">"No es pot començar l'exportador: \"%s\"."</string>
+  <string name="fail_reason_could_not_initialize_exporter">"No es pot iniciar l'exportador: \"%s\"."</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"No va poder obrir \"%s\": %s."</string>
   <string name="fail_reason_error_occurred_during_export">S\'ha produït un error durant l\'exportació: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"No va poder recollir informació meta dels fitxers vCard."</string>
@@ -985,7 +985,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="recentCallsIconLabel">Registre de trucades</string>
   <string name="recentCalls_addToContact">Afegeix a contactes</string>
   <string name="recentCalls_callNumber">Trucar a %s</string>
-  <string name="recentCalls_deleteAll">Netejar registre de trucades</string>
+  <string name="recentCalls_deleteAll">Neteja el registre de trucades</string>
   <string name="recentCalls_editNumberBeforeCall">Edita el número abans de trucar</string>
   <string name="recentCalls_empty">El registre de trucades està buit</string>
   <string name="recentCalls_removeFromRecentList">Elimina del registre de trucades</string>
@@ -1253,7 +1253,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_search_result_service_error">Servei no disponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Error desconegut</string>
   <string name="yellowpage_navigation_search_select_city">Seleccioneu una ciutat</string>
-  <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant icona&#8230;</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant&#8230;</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
   <string name="yellowpage_search_the_yellowpage">Buscar en les pàgines grogues</string>

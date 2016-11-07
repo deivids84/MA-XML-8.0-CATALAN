@@ -57,7 +57,7 @@
   <string name="auto_download_in_wifi">Baixa cançons preferides utilitzant Wi-Fi</string>
   <string name="auto_payment">Renovació automàtica</string>
   <string name="auto_payment_date">Proper pagament: %s</string>
-  <string name="auto_restart_under_wifi">Quan hi hagi connexió Wi-Fi es descarregarà automàticament aquest fitxer</string>
+  <string name="auto_restart_under_wifi">Quan hi hagi connexió Wi-Fi es baixarà automàticament aquest fitxer</string>
   <string name="avail_services">Disponible</string>
   <string name="available_playlist_name_format">Nova llista de reproducció %d</string>
   <string name="avoid_to_use_traffic_summary">"No utilitzar dades mòbils per escoltar música per transmissió"</string>
@@ -102,7 +102,6 @@
   <string name="confirm_to_renew">Renova</string>
   <string name="cp_info_first">«El servei de retransmissió de música
 és principalment proveït per Ultimate Inc.»</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"No s'ha pogut crear l'ordre, torneu-ho a provar."</string>
   <string name="create_playlist">Crea una llista de reproducció</string>
   <string name="create_playlist_failure">"No s'ha pogut crear la llista de reproducció "</string>
@@ -140,14 +139,14 @@
   <string name="dialog_confirm_delete_checkbox_message">Suprimeix també els arxius locals</string>
   <string name="dialog_confirm_delete_downloads_message">Voleu suprimir %d elements?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Voleu suprimir aquests elements?</string>
-  <string name="dialog_failed_body">Proveu-ho a baixar més tard o elimina el fitxer de la cua?</string>
+  <string name="dialog_failed_body">Proveu-ho a baixar-lo més tard o elimina el fitxer de la cua?</string>
   <string name="dialog_file_already_exists">"No es pot baixar. Aquest fitxer ja existeix."</string>
   <string name="dialog_file_missing_body">"No s'ha pogut trobar el fitxer descarregat."</string>
   <string name="dialog_file_missing_title">"No es pot obrir el fitxer"</string>
   <string name="dialog_hint_music_error">No s\'han trobat cançons.</string>
   <string name="dialog_insufficient_space_on_cache">"No es pot completar la baixada. No hi ha prou espai en l'emmagatzematge intern."</string>
   <string name="dialog_insufficient_space_on_external">"No es pot completar la baixada. No hi ha prou espai en la targeta SD."</string>
-  <string name="dialog_media_not_found">"No es pot descarregar. La targeta SD no està disponible."</string>
+  <string name="dialog_media_not_found">"No es pot baixar. La targeta SD no està disponible."</string>
   <string name="dialog_not_show_again">"No tornis a mostrar-ho"</string>
   <string name="dialog_queued_body">Aquest fitxer està en cua per a futures baixades.</string>
   <string name="dialog_title_add_playlist">Afegeix llista de reproducció</string>
@@ -188,7 +187,7 @@
   <string name="download_complete_start_install">S\'està instal·lant&#8230;</string>
   <string name="download_completed">Baixat</string>
   <string name="download_confirm_button_text">Instal·la</string>
-  <string name="download_confirm_text">Es baixarà i s\'instal. larà Mi Music %s</string>
+  <string name="download_confirm_text">Música Mi baixarà i instal·larà %s</string>
   <string name="download_done_btn">Baixat</string>
   <string name="download_error">Error</string>
   <string name="download_error_insufficient_space">No hi ha prou espai</string>
@@ -211,8 +210,8 @@
   <string name="download_pending">Baixada pendent</string>
   <string name="download_percent">%d%%</string>
   <string name="download_processing">S\'està baixant&#8230;</string>
-  <string name="download_quality">Qualitat de baixada</string>
-  <string name="download_quality_summary">Configuració addicional per a la baixada de cançons</string>
+  <string name="download_quality">Qualitat de la baixada</string>
+  <string name="download_quality_summary">Configuració addicional per la baixada de cançons</string>
   <string name="download_queued">En cua</string>
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
@@ -544,10 +543,10 @@
   <string name="playlist_type_my">Les meves llistes de reproducció</string>
   <string name="playlist_type_recommend">Llistes de reproducció destacades</string>
   <string name="playlist_unavailable">"La llista de reproducció no està disponible. Per eliminar-la, premeu i manteniu, després trieu eliminar."</string>
-  <string name="please_download_first">Cal baixar la cançó abans de poder-la posar com a to de trucada</string>
+  <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>
   <string name="please_search_or_select">Cerqueu o seleccioneu un camp</string>
   <string name="please_select_song">Seleccioneu una cançó primer</string>
-  <string name="power_save_mode_dialog_msg">S\'ha iniciat l\'estalvi de bateria. Voleu començar a baixar ara?</string>
+  <string name="power_save_mode_dialog_msg">S\'ha activat l\'estalvi de bateria. Voleu iniciar la baixada?</string>
   <string name="pref_download_settings_title">Mida màxima de la baixada</string>
   <string name="pref_summary_any_bytes_popup">Espera sempre la connexió Wi-Fi per baixar fitxers</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostra una notificació emergent quan s\'utilitzin dades mòbils per baixar fitxers</string>
@@ -561,7 +560,7 @@
   <string name="priority_storage">Utilitza la targeta SD externa</string>
   <string name="priority_storage_summary">Baixa automàticament a la targeta SD externa si està disponible</string>
   <string name="privacy_notif_content">Toqueu per veure els detalls.</string>
-  <string name="privacy_notif_title">Accelerador Xunlei activat</string>
+  <string name="privacy_notif_title">L\'accelerador de baixades Xunlei està activat</string>
   <string name="privacy_tip_cancel">Cancel·la</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'Accelerador Xunlei per augmentar la velocitat de descàrrega? La URL del node de baixada es pujarà al servidor de Xunlei. Els detalls del vostre Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
@@ -652,8 +651,8 @@
   <string name="settings_search_path_main">Aplicacions del sistema/Música</string>
   <string name="settings_search_path_normal">Aplicacions del sistema/Música/Servei i configuració</string>
   <string name="settings_search_title_desktop_lyric">Lletres a la pàgina principal</string>
-  <string name="settings_search_title_download_quality">Qualitat de baixada</string>
-  <string name="settings_search_title_download_when_favorite">Baixa preferits</string>
+  <string name="settings_search_title_download_quality">Qualitat de la baixada</string>
+  <string name="settings_search_title_download_when_favorite">Baixa els preferits</string>
   <string name="settings_search_title_main">Música</string>
   <string name="settings_search_title_notification">Notificacions de música</string>
   <string name="settings_search_title_vip_service">Cançons prèmium</string>
@@ -740,7 +739,7 @@
   <string name="to_mi_pay">Crèdits Mi</string>
   <string name="toast_download_error_by_count_limit">Heu esgotat el límit de baixades per a aquest mes.</string>
   <string name="toast_download_error_by_not_login">Inicieu la sessió al Compte Mi i torneu-ho a provar.</string>
-  <string name="toast_download_error_by_vip_required">Obteniu el paquet de cançons prèmium per baixar aquesta cançó.</string>
+  <string name="toast_download_error_by_vip_required">Obtén el paquet de cançons prèmium per baixar aquesta cançó.</string>
   <string name="toast_download_in_process">S\'està baixant</string>
   <string name="toast_normal_songs_for_download">S\'ha establert la qualitat de baixada a estàndard</string>
   <string name="toast_normal_songs_for_stream">S\'ha establert la qualitat de transmissió a estàndard</string>
@@ -798,8 +797,8 @@
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="welcome_to_new_music">Benvinguts a la nova versió de Música Mi</string>
-  <string name="wifi_required_body" formatted="false">«Heu d\'utilitzar la Wi-Fi per completar aquesta descàrrega %s. 
+  <string name="wifi_required_body" formatted="false">"Heu d\'utilitzar la Wi-Fi per completar aquesta baixada %s. 
 
-Toqueu %s per iniciar aquesta baixada la propera vegada que estigueu connectats a una xarxa Wi-Fi.»</string>
+Toqueu %s per iniciar aquesta baixada la propera vegada que estigueu connectats a una xarxa Wi-Fi."</string>
   <string name="wifi_required_title">Heu de connectar-vos a Wi-Fi per baixar aquest fitxer</string>
 </resources>

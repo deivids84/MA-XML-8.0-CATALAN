@@ -118,9 +118,9 @@
   <string name="previous">Enrere</string>
   <string name="qr_code_details">Detalls del codi QR:</string>
   <string name="recognition_error_download_cancel">Més tard</string>
-  <string name="recognition_error_download_data_msg">Baixar motor de reconeixement per escanejar targetes. La seva mida és d\'uns 15 Mb. Utilitzar dades mòbils per descarregar?</string>
+  <string name="recognition_error_download_data_msg">Baixa el motor de reconeixement per escanejar targetes. Són uns 15 Mb. Voleu utilitzar les dades mòbils per baixar-lo?</string>
   <string name="recognition_error_download_fail">"No s'ha pogut baixar el motor de reconeixement"</string>
-  <string name="recognition_error_download_msg">Baixar motor de reconeixement per escanejar targetes. La seva mida és d\'uns 15 Mb.</string>
+  <string name="recognition_error_download_msg">Baixa el motor de reconeixement per escanejar targetes. Són uns 15 Mb.</string>
   <string name="recognition_error_download_no_network">"No s'ha pogut baixar. Assegureu-vos que està connectat a la xarxa."</string>
   <string name="recognition_error_download_ok">Baixa</string>
   <string name="recognition_error_download_success">Baixat amb èxit</string>

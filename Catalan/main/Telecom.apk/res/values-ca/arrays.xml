@@ -105,23 +105,23 @@
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
     <item>Logcat</item>
-    <item>Systrace (Graphics)</item>
-    <item>Call stack on glGetError</item>
+    <item>Systrace (gràfics)</item>
+    <item>Trucades en glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>DesactivatDesactivat</item>
-    <item>Draw non-rectangular clip region in blue</item>
-    <item>Highlight tested drawing commands in green</item>
+    <item>Dibuixa en blau les regions no rectangulars del clip</item>
+    <item>Ressalta en verd les ordres de dibuixos ja provats</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
-    <item>On screen as bars</item>
-    <item>In adb shell dumpsys gfxinfo</item>
+    <item>Per pantalla en forma de barres</item>
+    <item>Per adb shell dumpsys gfxinfo</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
-    <item>Show overdraw areas</item>
-    <item>Show areas for Deuteranomaly</item>
+    <item>Mostra les àrees sobreposades</item>
+    <item>Mostra les àrees amb Deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>

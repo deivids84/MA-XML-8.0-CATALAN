@@ -8,7 +8,7 @@
   <string name="alarm_ascending_mode_title">Volum ascendent</string>
   <string name="alarm_disabled">Desactivat</string>
   <string name="alarm_in_silent_mode_title">Alarma en mode Silenci</string>
-  <string name="alarm_klaxon_service_desc">Servei de reproducció de so d\'alarmes establertes en el rellotge.</string>
+  <string name="alarm_klaxon_service_desc">Servei de reproducció de so d\'alarmes establertes al rellotge.</string>
   <string name="alarm_label_hint">Etiqueta d\'alarma</string>
   <string name="alarm_list_title">Alarma</string>
   <string name="alarm_notify_snooze_label">%s repetició</string>
@@ -96,7 +96,7 @@
   <string name="snooze_confirm_cancel">Cancel·la la repetició</string>
   <string name="snooze_duration_title">Durada de la repetició</string>
   <string name="start">Inicia</string>
-  <string name="start_up">Començar</string>
+  <string name="start_up">Inicia</string>
   <string name="stat_repeat_everyday">Diàriament</string>
   <string name="stat_repeat_legal_off_day">Dies festius</string>
   <string name="stat_repeat_legal_workday">Dies laborals</string>
@@ -138,5 +138,5 @@
   <string name="volume_button_setting_title">Botons de volum</string>
   <string name="workday_alarm_clock">Alarma de dia laboral</string>
   <string name="worldclock_empty_text">Sense rellotges</string>
-  <string name="worldclock_title">Rellotge</string>
+  <string name="worldclock_title">Hora</string>
 </resources>

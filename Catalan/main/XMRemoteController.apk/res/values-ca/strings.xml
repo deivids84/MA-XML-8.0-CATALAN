@@ -264,7 +264,6 @@
   <string name="epg_program_share_drama">Quedem per veure %3$s pel canal %1$s, que s\'emet a:.%2$s parlem dels protagonistes preferits, endevinem l\'argument, tot amb el comandament remot universal extern</string>
   <string name="epg_program_share_game">Mira amb mi: %3$s canal: %1$s, a les:%2$s.</string>
   <string name="epg_program_updated_to">播放至第%1$d集</string>
-  <string name="epg_reply_comment_prefix">\@</string>
   <string name="epg_search_box_hint">Programa de TV o canal que voleu cercar</string>
   <string name="epg_search_history">Historial de cerca</string>
   <string name="epg_search_hot_channel">Canals més cercats</string>
@@ -344,7 +343,7 @@
   <string name="input_dialogue_guide2">Introduïu el codi mostrat a la TV</string>
   <string name="input_dialogue_ok_button">Continua la instal·lació</string>
   <string name="input_source">Font d\'entrada</string>
-  <string name="input_speech_button">Premeu &amp; i aguanteu-ho, llavors digueu el vostre comandament</string>
+  <string name="input_speech_button">Premeu i aguanteu-ho, llavors digueu el vostre comandament</string>
   <string name="input_tip">Els codis expiren en 15 minuts</string>
   <string name="install_failed">"No s'ha pogut instal·lar %s"</string>
   <string name="install_succed">S\'ha instal·lat correctament %s</string>
@@ -407,7 +406,7 @@
   <string name="logout_done">S\'ha tancat la sessió correctament</string>
   <string name="management_app_management">Aplicacions</string>
   <string name="management_settings">Configuració</string>
-  <string name="management_video_favor">Historial &amp; preferits</string>
+  <string name="management_video_favor">Historial i preferits</string>
   <string name="management_video_recent_watch">Vist recentment</string>
   <string name="match_ac_intro_mode">Allibereu quan l\'AC es posi en mode refredament</string>
   <string name="match_ac_intro_power">Allibereu quan l\'AC s\'aturi</string>
@@ -522,7 +521,7 @@ Llavors responeu la pregunta"</string>
   <string name="my_favorite">Protagonitzat per</string>
   <string name="my_notification">Notificacions</string>
   <string name="my_room">L\'habitació</string>
-  <string name="my_room_underline">&lt;u&gt;L\'habitació&lt;/u&gt;</string>
+  <string name="my_room_underline">&lt;u&gt;L&#39;habitacio&lt;/u&gt;</string>
   <string name="my_setting">Configuració</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
@@ -554,7 +553,7 @@ ap arxiu d\'instal·lació</string>
   <string name="notification_found_shared_remote_text">Premeu per controlar-lo</string>
   <string name="notification_found_shared_remote_title">S\'ha trobat un %1$s pels voltants</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" començarà en 30 minuts.</string>
+  <string name="notification_str2">està a punt de començar</string>
   <string name="notification_title">Notificació del temporitzador</string>
   <string name="num_keys">Botons numèrics</string>
   <string name="off">Desactiva</string>
@@ -709,7 +708,7 @@ To activate your account, follow the
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_verification_failed">L\'autenticació ha fallat</string>
   <string name="passport_verify">Verifica</string>
-  <string name="passport_wait_for_sms_prompt">"Tornem a començar ara? Els missatges de verificació poden trigar uns 10 minuts en arribar al vostre telèfon si és que teniu cobertura."</string>
+  <string name="passport_wait_for_sms_prompt">"Voleu tornar a començar? Els missatges de verificació poden trigar uns 10 minuts en arribar si és que teniu cobertura."</string>
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_password">La contrasenya és incorrecta</string>
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït no és vàlid</string>
@@ -984,7 +983,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="updated_just_now">Tot just actualitzat</string>
   <string name="upgrade_already_latest">No hi ha actualitzacions disponibles</string>
   <string name="upgrade_current_version">Versió actual %1s</string>
-  <string name="upgrade_download">Baixa aplicació</string>
+  <string name="upgrade_download">Baixa l\'aplicació</string>
   <string name="upgrade_found_new_version">Actualització disponible (%1s)</string>
   <string name="upgrade_later">Ara no</string>
   <string name="upgrade_loading">S\'està baixant&#8230;</string>
@@ -1009,7 +1008,6 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video_comment_latest_list_title">最新评论</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_comment_refresh_failed">刷新评论失败</string>
-  <string name="video_comment_reply">\@%s:</string>
   <string name="video_comment_reply_empty">评论不能为空</string>
   <string name="video_comment_reply_failed">评论失败</string>
   <string name="video_count_info">共%d部视频</string>
@@ -1036,7 +1034,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="virtual_keyhboard">Utilitza el teclat del dispositiu</string>
   <string name="virtual_keyhboard_intro">"Utilitzeu el teclat del vostre dispositiu per escriure a la pantalla"</string>
   <string name="voice">Àudio</string>
-  <string name="voice_download_tips">Premeu \"D\'acord\" per baixar el motor de veu</string>
+  <string name="voice_download_tips">Premeu «D\'acord» per baixar el motor de veu</string>
   <string name="voice_download_title">Atenció</string>
   <string name="voice_engine_ifly_fail">"No s'ha pogut reconèixer la veu"</string>
   <string name="voice_record_start">Enregistra veu</string>

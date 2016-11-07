@@ -3,7 +3,7 @@
 <resources>
   <string name="add_game">Afegeix joc</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
-  <string name="anti_disturb_msg_title">No molestar</string>
+  <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="app_name">Connector del servei de seguretat</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada."</string>
   <string name="application_item_already_permission">Permès</string>

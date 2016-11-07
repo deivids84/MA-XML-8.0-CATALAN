@@ -70,7 +70,7 @@
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
   <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_upload_log">Afegeix registres</string>
-  <string name="feedback_status_answered">Contestat</string>
+  <string name="feedback_status_answered">Contestada</string>
   <string name="feedback_status_change_notification_title">"S'ha actualitzat el progrés de l'informe"</string>
   <string name="feedback_status_commit_failed_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_status_commit_succ_title">Enviat</string>

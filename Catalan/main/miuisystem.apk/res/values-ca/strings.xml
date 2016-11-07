@@ -33,6 +33,7 @@
   <string name="presentation_payphone">Telèfon públic</string>
   <string name="presentation_private">Número privat</string>
   <string name="presentation_unknown">Nombre desconegut</string>
+  <string name="solar_calendar">Calendari solar</string>
   <string name="vip_achievements">Fites</string>
   <string name="vip_login">Premeu per iniciar sessió</string>
   <string name="vip_not_login">No s\'ha iniciat sessió</string>

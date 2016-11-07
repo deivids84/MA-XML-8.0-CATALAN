@@ -47,7 +47,7 @@
   <string name="browser_scan_history_desc">Historial de navegació</string>
   <string name="browser_search_history_desc">Elements cercats</string>
   <string name="btn_text_done">Fet</string>
-  <string name="btn_text_quick_cleanup">Netejar</string>
+  <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_cleanup_apk">Esborra els %1$s APK seleccionats</string>
   <string name="btn_text_quick_cleanup_appdata">Esborra les %1$s dades seleccionades</string>
   <string name="btn_text_quick_cleanup_large_file">Esborra els %1$s fitxers seleccionats</string>
@@ -97,7 +97,7 @@
   <string name="clean_content_two">2 elements</string>
   <string name="clean_content_zero">Cap</string>
   <string name="clear_bigfiles">Esborra els fitxers grans, fotos duplicades i altres elements inútils</string>
-  <string name="clear_immediately">Neteja ara</string>
+  <string name="clear_immediately">Neteja-ho ara</string>
   <string name="clear_safe_notify">Barra de notificacions de seguretat</string>
   <string name="clip_board_history_desc">Continguts copiats/tallats</string>
   <string name="clipboard">Porta-retalls</string>
@@ -115,7 +115,7 @@
   <string name="deepclean_apk_version_error">Desconegut</string>
   <string name="deepclean_app_content">Desinstal·la les aplicacions que fa 30 dies que no s\'utilitzen</string>
   <string name="deepclean_app_summary_empty">Tot pinta bé, no hi ha aplicacions a eliminar</string>
-  <string name="deepclean_cache_content">Neteja dades generades per aplicacions</string>
+  <string name="deepclean_cache_content">Esborra les dades generades per les aplicacions</string>
   <string name="deepclean_cache_header_left">Fitxers de dades: %d</string>
   <string name="deepclean_cache_summary_empty">Tot pinta bé, no hi ha dades a eliminar</string>
   <string name="deepclean_empty">Tot sembla correcte</string>
@@ -130,7 +130,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
   <string name="deepclean_normal_item_desc1">Neteja general</string>
-  <string name="deepclean_normal_item_desc2">"És segur netejar"</string>
+  <string name="deepclean_normal_item_desc2">"L'activitat del Netejador no afectarà el rendiment del sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Tot pinta bé, no hi ha res a eliminar</string>
   <string name="deepclean_normal_title">Neteja automàtica</string>
   <string name="deepclean_similar_ignore">Ignora</string>
@@ -170,7 +170,7 @@
   <string name="empty_content_no_similar_image">No hi ha fotos</string>
   <string name="empty_title_ad">No s\'han trobat fitxers de publicitat</string>
   <string name="empty_title_apk">No s\'han trobat paquets d\'instal·lació</string>
-  <string name="empty_title_garbage_cache">Res a netejar</string>
+  <string name="empty_title_garbage_cache">No hi ha res per esborrar</string>
   <string name="empty_title_garbage_white_list">Premeu elements per afegir-los a les excepcions.</string>
   <string name="empty_title_installed_apps">Buit</string>
   <string name="empty_title_large_files">Buit</string>
@@ -191,7 +191,7 @@
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
   <string name="hints_apk_header_left">Paquets</string>
   <string name="hints_apk_version">Versió %s</string>
-  <string name="hints_app_uninstall_residual">Voleu netejar fitxers residuals de desinstal·lació?</string>
+  <string name="hints_app_uninstall_residual">Voleu netejar els fitxers residuals de desinstal·lació?</string>
   <string name="hints_cache_header_left">Fitxers de memòria cau</string>
   <string name="hints_cache_msd_desc">"L'eliminació d'actualitzacions delta no influirà en l'ús de les aplicacions"</string>
   <string name="hints_cache_msd_title">Actualització delta</string>
@@ -201,8 +201,8 @@
   <string name="hints_finish_quick_cleanup">Fet</string>
   <string name="hints_finish_quick_cleanup_title">Acabada neteja %s residuals</string>
   <string name="hints_finish_quick_scan">Escaneig finalitzat</string>
-  <string name="hints_garbage_cleanup_result_danger">Netejar emmagatzematge intern</string>
-  <string name="hints_garbage_cleanup_result_risk">Netejar emmagatzematge intern</string>
+  <string name="hints_garbage_cleanup_result_danger">Neteja l\'emmagatzematge intern</string>
+  <string name="hints_garbage_cleanup_result_risk">Neteja l\'emmagatzematge intern</string>
   <string name="hints_garbage_cleanup_result_safe">Tot sembla correcte</string>
   <string name="hints_garbage_handle_item_content">%1$d elements, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Buit</string>
@@ -219,13 +219,13 @@
   <string name="hints_installed_apps_header_left">Aplicacions instal·lades: %d</string>
   <string name="hints_large_file_header_left">Fitxers grans: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Ultima neteja: fa %d dies</string>
-  <string name="hints_latest_garbage_cleanup_never">Mai es va netejar</string>
+  <string name="hints_latest_garbage_cleanup_never">No s\'ha netejat mai</string>
   <string name="hints_latest_garbage_cleanup_today">Última neteja: Avui</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Última neteja: Ahir</string>
-  <string name="hints_list_item_clean">Netejar</string>
+  <string name="hints_list_item_clean">Neteja</string>
   <string name="hints_list_item_keep">Mantenir</string>
   <string name="hints_list_item_lock">Mantenir</string>
-  <string name="hints_list_item_unlock">Netejar</string>
+  <string name="hints_list_item_unlock">Neteja</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_memory_header_left">Memòria</string>
   <string name="hints_num">0</string>
@@ -265,14 +265,14 @@
   <string name="login_immediately">Inicia la sessió</string>
   <string name="long_click_dialog_summary">Mantingueu premut per afegir a excepcions.</string>
   <string name="long_click_dialog_title">Nota</string>
-  <string name="low_memory_clean_dialog_msg">Primer heu de netejar com a mínim %1$s fitxers</string>
+  <string name="low_memory_clean_dialog_msg">Abans esborreu com a mínim 100MB de fitxers</string>
   <string name="low_memory_clean_dialog_ok_button">D\'acord</string>
   <string name="low_memory_clean_dialog_title">Disc sense espai</string>
   <string name="low_memory_warning_dialog_cancel_button">Cancel·la</string>
   <string name="low_memory_warning_dialog_msg">No queda espai en els dispositius, en primer lloc, heu d\'alliberar espai</string>
   <string name="low_memory_warning_dialog_ok_button">Esborra</string>
   <string name="low_memory_warning_dialog_title">Disc sense espai</string>
-  <string name="mainbtn_text_quick_cleanup">Netejar %s</string>
+  <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
@@ -286,7 +286,7 @@
   <string name="msg_update_error_code_unknown_error">Error desconegut</string>
   <string name="name_debuglog_dir">Registre de depuració Bsp</string>
   <string name="name_optimizer">Política de Privacitat</string>
-  <string name="nb_clear_set">Netejar ROM, veure bateria i informació de la llista de bloqueig en l\'àrea de notificacions</string>
+  <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
   <string name="net_assistant_detail">Utilitzats %1$s, estalviats %2$s</string>
   <string name="net_assistant_title">Utilitzats %s de dades mòbils aquest mes</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
@@ -306,7 +306,7 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Cerca de Google</string>
   <string name="positive_confirm">D\'acord</string>
-  <string name="pref_category_title_auto_clean_settings">Netejar automàticament</string>
+  <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
   <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
   <string name="pref_category_title_cleanup_white_list">Excepcions</string>
   <string name="pref_category_title_engine_settings">Configuració de les definicions d\'escaneig</string>
@@ -317,8 +317,8 @@
   <string name="pref_summary_auto_update_cleanup_db">Darrera actualització: %s</string>
   <string name="pref_summary_cleanup_white_list">Evitar que les aplicacions seleccionades siguin netejades</string>
   <string name="pref_summary_expand_cache_group">Mostra els detalls de memòria cau automàticament</string>
-  <string name="pref_summary_garbage_auto_clean_content">Tria quins elements netejar automàticament</string>
-  <string name="pref_summary_garbage_cleanup_check_size">Netejar automàticament quan les escombraries arribi a certa mida</string>
+  <string name="pref_summary_garbage_auto_clean_content">Trieu quins elements es netejaran automàticament</string>
+  <string name="pref_summary_garbage_cleanup_check_size">Neteja automàtica quan la paperera arribi a una certa mida</string>
   <string name="pref_summary_garbage_cleanup_check_time">Programar una rutina de neteja</string>
   <string name="pref_summary_garbage_process_mode">Establir notificacions quan s\'executa la neteja</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pujar i comparar noms de fitxers desconeguts amb definicions en línia</string>

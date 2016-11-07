@@ -19,7 +19,7 @@
   <string name="ColpMmi">ID de línia connectada</string>
   <string name="ColrMmi">Restricció d\'ID de línia connectada</string>
   <string name="CwMmi">Trucada en espera</string>
-  <string name="DndMmi">No m\'empipeu</string>
+  <string name="DndMmi">No molesteu</string>
   <string name="Midnight">Mitjanit</string>
   <string name="Noon">Migdia</string>
   <string name="PinMmi">Canvi de PIN</string>
@@ -370,7 +370,7 @@ amb %s»</string>
   <string name="find_next">Cerca el següent</string>
   <string name="find_on_page">Cerca a la pàgina</string>
   <string name="find_previous">Cerca l\'anterior</string>
-  <string name="fingerprint_acquired_imager_dirty">El sensor d\'empremtes està brut. Si us plau, netegeu-lo i torneu a provar-ho.</string>
+  <string name="fingerprint_acquired_imager_dirty">El sensor d\'empremtes està brut. Netegeu-lo i torneu a provar-ho.</string>
   <string name="fingerprint_acquired_insufficient">"No s'ha pogut processar l'empremta. Torneu-ho a provar."</string>
   <string name="fingerprint_acquired_partial">S\'ha detectat una empremta digital parcial. Torneu-ho a provar.</string>
   <string name="fingerprint_acquired_too_fast">El dit s\'ha mogut massa ràpid. Torneu-ho a provar.</string>
@@ -1434,9 +1434,9 @@ Voleu tancar-la?»</string>
   <string name="zen_mode_default_weekends_name">Cap de setmana</string>
   <string name="zen_mode_default_weeknights_name">Nit entre setmana</string>
   <string name="zen_mode_downtime_feature_name">Temps d\'inactivitat</string>
-  <string name="zen_mode_feature_name">No m\'empipeu</string>
+  <string name="zen_mode_feature_name">No molesteu</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
-  <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No m\'empipeu</string>
+  <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Fins %1$s</string>
 </resources>

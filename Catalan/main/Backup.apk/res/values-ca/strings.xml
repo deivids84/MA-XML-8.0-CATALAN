@@ -270,8 +270,8 @@
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
   <string name="trans_main_tutor">Desplaça els contactes, el registre de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
-  <string name="trans_native_no_space">"No hi ha prou espai en aquest dispositiu.
-Com a mínim cal esborrar %s."</string>
+  <string name="trans_native_no_space">"No hi ha prou espai al dispositiu.
+Esborreu almenys %s."</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>

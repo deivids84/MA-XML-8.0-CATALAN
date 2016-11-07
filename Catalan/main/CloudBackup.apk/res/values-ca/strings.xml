@@ -69,7 +69,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="cloud_restore_task">S\'està restaurant&#8230;</string>
   <string name="cloud_task_in_process">"Voleu aturar %s i esborrar aquesta còpia de seguretat? Aquesta acció no es podrà revertir."</string>
   <string name="confirm_restore">Restaura</string>
-  <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es descarregaran automàticament quan estiguis connectat a la Wi-Fi</string>
+  <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat a Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization">&lt;u&gt;Personalitzar&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -82,8 +82,8 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
   <string name="device_xiaomi">Telèfon Mi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">S\'està descarregant la configuració de la pantalla d\'inici: %s%%</string>
-  <string name="download_settings_fail">"No s'ha pogut descarregar la configuració de la pantalla d'inici"</string>
+  <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
+  <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
   <string name="managespace_delete_backup">Esborra còpia de seguretat</string>

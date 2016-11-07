@@ -27,10 +27,10 @@
     <item>Nota</item>
   </string-array>
   <string-array name="font_size_names">
-    <item>Petit</item>
+    <item>Petita</item>
     <item>Per defecte</item>
     <item>Gran</item>
-    <item>Super</item>
+    <item>Enorme</item>
   </string-array>
   <string-array name="welcome_notes_content">
     <item>"Toqui per crear una nota

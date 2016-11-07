@@ -28,7 +28,7 @@
   <string name="next_fingerprint">Següent</string>
   <string name="other_settings">Configuració addicional</string>
   <string name="other_settings_auto_update">Actualització automàtica</string>
-  <string name="other_settings_auto_update_summary">MIUI seleccionarà el moment més adequat per descarregar i instal·lar actualitzacions.</string>
+  <string name="other_settings_auto_update_summary">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
   <string name="other_settings_location">Ubicació</string>
   <string name="other_settings_location_summary">Permet a les aplicacions que accedeixin a la ubicació</string>
   <string name="other_settings_mifg_online_content">Carrusel de fons de pantalla</string>

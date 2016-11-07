@@ -144,7 +144,7 @@
   <string name="pref_camera_beautify_entryvalue_low">1</string>
   <string name="pref_camera_beautify_entryvalue_normal">2</string>
   <string name="pref_camera_coloreffect_entry_big_face">Dispersió</string>
-  <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
+  <string name="pref_camera_coloreffect_entry_blackwhite">Blanc i negre</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ull de peix</string>
   <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Rústic</string>
@@ -297,7 +297,7 @@
   <string name="pref_camera_snap_enable_title">Mode dispar ràpid</string>
   <string name="pref_camera_snap_entry_off">Desactivat</string>
   <string name="pref_camera_snap_entry_take_movie">Quan la pantalla està apagada, premi i mantingui el botó de baixar el volum per iniciar la gravació de vídeo. Deixeu anar per aturar.</string>
-  <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premi i mantingui el botó baixar el volum per començar la ràfega de fotos. Deixeu anar per aturar.</string>
+  <string name="pref_camera_snap_entry_take_picture">Quan la pantalla està apagada, premeu i mantingueu el botó de baixar el volum per començar la ràfega de fotos. Deixeu-lo anar per aturar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode Quick snap mentre \"Activa amb els botons de volum\" estigui actiu."</string>
   <string name="pref_camera_snap_value_take_movie">Pel·lícula</string>
   <string name="pref_camera_snap_value_take_picture">Foto</string>

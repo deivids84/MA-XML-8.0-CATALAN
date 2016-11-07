@@ -18,8 +18,8 @@
     <item quantity="one">%d dia restant</item>
   </plurals>
   <plurals name="NTrackstoDownload">
-    <item quantity="other">Es descarregaran %d cançons</item>
-    <item quantity="one">Es descarregarà 1 cançó</item>
+    <item quantity="other">Es baixaran %d cançons</item>
+    <item quantity="one">Es baixarà 1 cançó</item>
   </plurals>
   <plurals name="NPlaylist_delete_confirm">
     <item quantity="other">Voleu eliminar %d llistes de reproducció?</item>

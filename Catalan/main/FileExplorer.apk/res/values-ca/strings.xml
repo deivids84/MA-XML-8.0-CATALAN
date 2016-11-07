@@ -107,7 +107,7 @@
   <string name="compress_message">Comprimir a&#8230;</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">D\'acord</string>
-  <string name="confirm_clean">Netejar</string>
+  <string name="confirm_clean">Neteja</string>
   <string name="confirm_know">D\'acord</string>
   <string name="connecting">Connectant&#8230;</string>
   <string name="connection_error">"No s'ha pogut connectar"</string>
@@ -160,9 +160,9 @@
   <string name="dislike_toast">"Aquests vídeos no són recomanables per a vostè."</string>
   <string name="dislike_video">"No m’interessa"</string>
   <string name="dlg_error_unmount_text">"No s'ha pogut desmuntar l'emmagatzematge USB."</string>
-  <string name="download">Descarregar</string>
-  <string name="download_fail">"No s'ha pogut descarregar"</string>
-  <string name="downloaded_sticker_str">Descarregat</string>
+  <string name="download">Baixa</string>
+  <string name="download_fail">"No s'ha pogut baixar"</string>
+  <string name="downloaded_sticker_str">Baixat</string>
   <string name="downloading">S\'està baixant</string>
   <string name="editor_commend">Editar</string>
   <string name="empty_comment">"No es pot deixar el comentari en blanc"</string>
@@ -269,7 +269,7 @@
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="male">Home</string>
   <string name="megabyteShort">MB</string>
-  <string name="menu_item_cleanup">Netejar</string>
+  <string name="menu_item_cleanup">Neteja</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">Router</string>
@@ -316,7 +316,7 @@
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
   <string name="no_comment">Cap comentari</string>
-  <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius descarregats. Descobreix els adhesius compartits per fans de Mi."</string>
+  <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius baixats. Descobriu els adhesius compartits per fans de Mi."</string>
   <string name="no_enough_storage_indication">"L'espai d'emmagatzematge del dispositiu és ple."</string>
   <string name="no_enough_storage_title">No hi ha espai suficient</string>
   <string name="no_file">Buit</string>
@@ -335,7 +335,6 @@
   <string name="notification_dialog_confirm">D\'acord</string>
   <string name="notification_dialog_content">Notificar automàticament i organitzar quan s\'afegeixin o canviïn fitxers a %1$s.</string>
   <string name="notification_dialog_title">Notificacions</string>
-  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notificacions</string>
   <string name="notification_title">Quan %1$s crea un fitxer</string>
   <string name="notification_wechat_auto_backup_hint">Premi per saber-ne més</string>
@@ -348,7 +347,7 @@
   <string name="oauth_failed_tip">"No es va poder completar l'autorització"</string>
   <string name="one_account_bind_needed">Afegiu com a mínim un compte</string>
   <string name="online_not_support">"No es pot veure aquest fitxer en línia de moment."</string>
-  <string name="only_wifi">Només amb connexió Wi-Fi</string>
+  <string name="only_wifi">Baixa només amb connexió Wi-Fi</string>
   <string name="open_app">Obrir</string>
   <string name="open_private_folder">Creant una carpeta oculta…</string>
   <string name="operation_add_fav">Afegint a favorits&#8230;</string>
@@ -475,7 +474,7 @@
   <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
-  <string name="save_to_local">Descarregar</string>
+  <string name="save_to_local">Baixa</string>
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>

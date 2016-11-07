@@ -4,8 +4,8 @@
   <string name="Connect">Connectar</string>
   <string name="Disconnect">Desconnectar</string>
   <string name="Register">registrar</string>
-  <string name="Start">Començar</string>
-  <string name="StartScan">Començar escaneig</string>
+  <string name="Start">Inicia</string>
+  <string name="StartScan">Escaneig d\'inici</string>
   <string name="Stop">Aturar</string>
   <string name="StopScan">Aturar escaneig</string>
   <string name="TestBonjour">Testar Bonjour</string>

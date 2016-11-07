@@ -84,7 +84,7 @@
   <string name="operation_delete_title">Voleu eliminar-lo?</string>
   <string name="operation_deleting">S\'està eliminant&#8230;</string>
   <string name="operation_deleting_detail">S\'està eliminant (%1$d/%2$d)</string>
-  <string name="operation_download">Baixat</string>
+  <string name="operation_download">Baixa</string>
   <string name="operation_move">Talla</string>
   <string name="operation_moving">S\'està movent&#8230;</string>
   <string name="operation_moving_detail">S\'està movent (%1$d/%2$d)</string>

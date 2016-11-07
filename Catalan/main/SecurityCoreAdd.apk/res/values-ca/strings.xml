@@ -87,7 +87,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="hidden_app">Segon espai</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicacions</string>
-  <string name="import_application_desc">"Importar aplicacions al Segon espai. També les podeu descarregar separadament."</string>
+  <string name="import_application_desc">"Importa les aplicacions al Segon espai. També podeu baixar-les per separat."</string>
   <string name="import_contacts">Importar contactes</string>
   <string name="import_contacts_desc">Fer privats els contactes importats</string>
   <string name="import_contacts_suc">Contactes privats importats</string>
@@ -171,7 +171,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="settings_cross_notification_title">Notificacions</string>
   <string name="settings_msg_add_shortcut">Drecera al Primer espai afegida</string>
   <string name="settings_msg_remove_shortcut">Eliminada drecera des del Primer espai</string>
-  <string name="settings_notification_and_switch">Switching &amp; notifications</string>
+  <string name="settings_notification_and_switch">Notificacions i commutadors</string>
   <string name="settings_space_data">Dades</string>
   <string name="settings_status_icon_summary">Mostrar la icona del Segon espai a la barra d\'estat</string>
   <string name="settings_status_icon_title">Icona del Segon espai</string>

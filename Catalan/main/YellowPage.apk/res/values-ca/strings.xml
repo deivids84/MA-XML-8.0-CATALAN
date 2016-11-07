@@ -256,7 +256,7 @@ Comproveu el número de seguiment."</string>
   <string name="menu_delete_one">Elimina del registre de trucades</string>
   <string name="menu_enroll_in_yellow_page">Utilitzeu la identitat de trucada</string>
   <string name="menu_follow_yellow_page">Segueix</string>
-  <string name="menu_remove_black_list">Treu de la llista de bloquejats</string>
+  <string name="menu_remove_black_list">Treu de la llista de bloqueig</string>
   <string name="menu_remove_from_favorite">Elimina dels favorits</string>
   <string name="menu_save_contact">Desa el número als contactes</string>
   <string name="menu_unfollow_yellow_page">Deixa de seguir</string>
@@ -410,7 +410,7 @@ Total: %3$s iuans"</string>
   <string name="upload_and_verify_fraud_num_on">Comparteix informació de trucades no desitjades</string>
   <string name="uploads_disabled">Les pujades de fitxers estan desactivades</string>
   <string name="user_agreement2">" Condicions del servei"</string>
-  <string name="user_agreement4">Polítiques de privadesa</string>
+  <string name="user_agreement4">Política de privadesa</string>
   <string name="user_notice_identify_summary_format">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti a una xarxa Wi-Fi. En utilitzar aquest servei accepteu les nostres %1$s i %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti a una xarxa Wi-Fi. En utilitzar aquest servei accepteu les nostres %1$s i %2$s."</string>
   <string name="user_notice_title">Avís</string>

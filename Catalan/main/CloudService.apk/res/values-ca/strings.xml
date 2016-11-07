@@ -182,7 +182,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_depend_wifi_message">Si us plau connecta\'t al Wi-Fi o comprova la configuració de sincronització.</string>
   <string name="micloud_detail_depend_wifi_title">Es necessita xarxa Wi-Fi</string>
   <string name="micloud_detail_do_not_sync">"No sincronitzar"</string>
-  <string name="micloud_detail_download_syncing">Descarregant %s</string>
+  <string name="micloud_detail_download_syncing">S\'està baixant %s</string>
   <string name="micloud_detail_fail">"Ha fallat"</string>
   <string name="micloud_detail_force_sync">sincronitzar ara</string>
   <string name="micloud_detail_lastest">S\'ha sincronitzat</string>
@@ -229,17 +229,17 @@ o eliminar el dispositiu."</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_full_influence_dspt">"Totes les seves fotos, vídeos, notes i aplicacions romandran recolzades en el núvol.
+  <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
-D\'aquesta manera, si perd o fa malbé el seu dispositiu, les seves dades romandran segures
+D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
 
-Quan el seu núvol estigui ple, les seves dades antigues no aniran enlloc. No obstant això, qualsevol contingut que afegeixi (ex. Fotos, vídeos, notes i aplicacions) ja no serà recolzat.
+Quan el vostre núvol estigui ple, les dades antigues es mantindran. No obstant, qualsevol contingut nou que afegiu (p. ex. fotos, vídeos, notes i aplicacions) ja no es copiarà.
 
-Per solucionar això, pot netejar alguns fitxers antics per deixar espai a nous o adquirir espai d\'emmagatzematge addicional."</string>
+Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als nous, o podeu comprar espai d\'emmagatzematge addicional."</string>
   <string name="micloud_full_influence_title">Quan el seu Mi Cloud está ple&#8230;</string>
   <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
-  <string name="micloud_main_clear_now">Netejar</string>
+  <string name="micloud_main_clear_now">Esborra</string>
   <string name="micloud_main_data_unsynced">%d elements a sincronitzar</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
@@ -335,7 +335,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_single_dspt">Utilitzeu Mi Cloud per sincronitzar dades, buscar el dispositiu i compartir coses amb amics.</string>
   <string name="micloud_space_applist_detail">Gestiona les aplicacions a la pantalla d\'inici</string>
   <string name="micloud_space_applist_title">Gestiona les aplicacions</string>
-  <string name="micloud_space_duokan_detail">Administra el teu contingut Duokan usant l\'aplicació Duokan.</string>
+  <string name="micloud_space_duokan_detail">Baixeu i gestioneu llibres electrònics amb l\'aplicació Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;&amp;#191;Que passa quan em quedo sense espai?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Gestiona gravacions emmagatzemades al dispositiu</string>
@@ -437,9 +437,9 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sms">SMS</string>
   <string name="some_sync_item_close">%d està desactivat</string>
   <string name="soundrecorder_sync_only_in_wifi">Només utilitzar Wi-Fi per sincronitzar</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">La gravadara no utilitzarà dades mòbils per descarregar o carregar les gravacions</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">La gravadora no utilitzarà dades mòbils per baixar o pujar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronitzar amb Mi Cloud</string>
-  <string name="start_micloud">Començar</string>
+  <string name="start_micloud">Inicia</string>
   <string name="storage">Emmagatzematge</string>
   <string name="sub_alert_notif_content">Activar Micloud</string>
   <string name="sub_alert_notif_dspt_add">%s no han estat sincronitzats.</string>
@@ -489,7 +489,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="upgrade_space_successful">Afegits %sGB</string>
   <string name="upgrade_space_successful_total">%sGB disponibles</string>
   <string name="upgrade_space_tb">TB</string>
-  <string name="user_agreement">Acord d\'Usuari</string>
+  <string name="user_agreement">Acord d\'usuari</string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_p6">"L'ús d'aquesta característica està subjecte a "</string>

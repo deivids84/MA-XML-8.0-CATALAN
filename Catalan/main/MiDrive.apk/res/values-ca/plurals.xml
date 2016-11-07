@@ -14,8 +14,8 @@
     <item quantity="one">%d element</item>
   </plurals>
   <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">%1$d fitxers pendents de descarregar</item>
-    <item quantity="one">%1$d fitxer pendent de descarregar</item>
+    <item quantity="other">%1$d fitxers pendents de baixar</item>
+    <item quantity="one">%1$d fitxer pendent de baixar</item>
   </plurals>
   <plurals name="ui_bar_txt_upload_progress">
     <item quantity="other">%1$d fitxers pendents de pujar</item>

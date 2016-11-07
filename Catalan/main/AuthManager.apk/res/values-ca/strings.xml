@@ -9,7 +9,7 @@
   <string name="Dashboard_Log_Clear_Title">Esborra els registres</string>
   <string name="Dashboard_Perm">Permisos</string>
   <string name="Dashboard_Perm_AutoStart">Permisos d\'inici automàtic</string>
-  <string name="Dashboard_Perm_AutoStart_Desc">Controleu quines aplicacions poden començar quan s\'engegui el dispositiu</string>
+  <string name="Dashboard_Perm_AutoStart_Desc">Controleu quines aplicacions poden iniciar-se quan s\'engegui el dispositiu</string>
   <string name="Dashboard_Perm_HIPS">Administra els permisos</string>
   <string name="Dashboard_Perm_HIPS_Desc">S\'estan monitoritzant %1$d aplicacions</string>
   <string name="Dashboard_Perm_HIPS_Desc2">S\'estan observant %1$d aplicacions</string>

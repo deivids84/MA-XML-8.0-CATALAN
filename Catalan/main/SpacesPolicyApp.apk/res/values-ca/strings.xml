@@ -14,11 +14,11 @@
   <string name="menu_action_export_json">Exporta JSON</string>
   <string name="menu_action_search_json">Cerca JSON</string>
   <string name="mobile">mòbil</string>
-  <string name="notification_message">Premeu per començar l\'actualització de política</string>
+  <string name="notification_message">Premeu per iniciar l\'actualització de la política</string>
   <string name="notification_title">Actualització de Política</string>
   <string name="or">o</string>
   <string name="policy_search_field_hint">Nom de la Política</string>
-  <string name="policy_update_disclaimer">L\'actualització de política de l\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als proveïdors locals de servei per les quantitats carregades. Si hi esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per començar l\'actualització de la política.</string>
+  <string name="policy_update_disclaimer">L\'actualització de la política d\'espai pot incórrer en càrrecs per ús de la xarxa. Els usuaris haurien de consultar als proveïdors locals de servei per les quantitats carregades. Si esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per iniciar l\'actualització de la política.</string>
   <string name="policy_update_never_remind">No ho tornis a preguntar</string>
   <string name="pref_cat_policy_data">Informació de Política</string>
   <string name="pref_cat_sscm_data">Informació del SSCM</string>

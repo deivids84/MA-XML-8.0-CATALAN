@@ -51,8 +51,8 @@
   <string name="toast_added_to_presets">Afegit a les presintonies</string>
   <string name="toast_fm_error_startfailed">Error de gravació. Una altra aplicació pot estar utilitzant la funció d\'enregistrament.</string>
   <string name="toast_fm_recorder_access_error">"No es pot enregistrar mentre esteu en mode convidat"</string>
-  <string name="toast_fm_recorder_internal_error">Error d\'enregistrament de FM</string>
-  <string name="toast_fm_recorder_storage_full">"No es pot continuar la gravació: no hi ha prou espai"</string>
+  <string name="toast_fm_recorder_internal_error">Error d\'enregistrament d\'FM</string>
+  <string name="toast_fm_recorder_storage_full">"No es pot continuar l'enregistrament: no hi ha prou espai"</string>
   <string name="toast_fm_seeking">Buscant&#8230;</string>
   <string name="toast_fm_starting">Iniciant&#8230;</string>
   <string name="toast_removed_from_presets">Suprimida de les presintonies</string>
@@ -63,7 +63,7 @@
   <string name="txt_sleep_mode">Mode en repòs</string>
   <string name="using_recorder_cancel">Rebutja</string>
   <string name="using_recorder_confirm">Permet</string>
-  <string name="using_recorder_dialog_message">"La ràdio necessita accés als serveis de gravació del vostre dispositiu per treballar normalment."</string>
+  <string name="using_recorder_dialog_message">"La ràdio necessita accés als serveis d'enregistrament del vostre dispositiu per treballar normalment."</string>
   <string name="using_recorder_dialog_title">Es requereix permís</string>
   <string name="view_stations_list">Mostra la llista d\'emissores</string>
 </resources>

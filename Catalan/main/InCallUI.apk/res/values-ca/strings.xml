@@ -32,7 +32,7 @@
   <string name="callFailed_timedOut">No hi ha resposta del servidor</string>
   <string name="callFailed_unobtainable_number">Número invàlid</string>
   <string name="callFailed_userBusy">Línia ocupada</string>
-  <string name="callUnanswered_forwarded">Trucada no resposta desviada</string>
+  <string name="callUnanswered_forwarded">Trucada sense contestar desviada</string>
   <string name="call_button_dialer_text">Teclat</string>
   <string name="call_button_tools_text">Característiques</string>
   <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
@@ -171,7 +171,7 @@
   <string name="no_vm_number_msg">Cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="non_ivr_menu_collapse_menu">Contraure menú</string>
   <string name="non_ivr_menu_view_menu">Veure menú</string>
-  <string name="not_activate_sim_card_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que li cobrarà el vostre operador.</string>
+  <string name="not_activate_sim_card_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que us cobrarà el vostre operador.</string>
   <string name="not_activate_sim_card_content_title">Número de telèfon no verificat</string>
   <string name="not_activate_sim_card_content_with_operator">Verifiqueu la SIM %1$s (%2$s) per fer una trucada utilitzant el paquet de càrrega. Encara podeu fer una trucada normal, el vostre operador podrà cobrar-li.</string>
   <string name="not_support_message">No es pot trucar a aquest número. El canvi a trucada normal podria ser cobrada pel vostre operador.</string>

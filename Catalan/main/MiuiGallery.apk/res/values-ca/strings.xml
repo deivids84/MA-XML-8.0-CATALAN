@@ -830,7 +830,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_set_contact_photo">Estableix-la com a foto de contacte</string>
   <string name="operation_set_wallpaper">Estableix-la com a fons de pantalla</string>
   <string name="operation_share">Comparteix</string>
-  <string name="operation_show_in_photos_tab">Mostra a «Fotos»</string>
+  <string name="operation_show_in_photos_tab">Mostra a la pestanya «Fotos»</string>
   <string name="operation_show_on_map">Mostra al mapa</string>
   <string name="operation_slide_show">Inicia presentació</string>
   <string name="operation_successful">Fet</string>

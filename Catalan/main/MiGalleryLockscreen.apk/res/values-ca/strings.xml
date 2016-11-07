@@ -52,8 +52,8 @@
   <string name="sst_subscribe_title">Subscriure\'s</string>
   <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>
   <string name="sst_wifi_only_title">Activa descarrega d\'imatges amb la connexió mobil</string>
-  <string name="summary">"Accepta el nostre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'Usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacitat&lt;/a&gt; per començar. És necessària una connexió a internet.​"</string>
-  <string name="summary_international">"Accepta el nostre &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'Usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacitat&lt;/a&gt; per començar. És necessària una connexió a internet.​"</string>
+  <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
+  <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>
   <string name="theme_apply_failured">"No es pot aplicar la pantalla de bloqueig"</string>
   <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
   <string name="theme_applying">Aplicant&#8230;</string>

@@ -236,6 +236,12 @@
     <item>IS95B</item>
     <item>IS95A</item>
   </string-array>
+  <string-array name="mvno_type_entries">
+    <item>Cap</item>
+    <item>SPN</item>
+    <item>IMSI</item>
+    <item>GID</item>
+  </string-array>
   <string-array name="app_install_location_entries">
     <item>Emmagatzematge intern del dispositiu</item>
     <item>Targeta SD extraïble</item>
@@ -528,7 +534,7 @@
     <item>Mono</item>
   </string-array>
   <string-array name="security_settings_premium_sms_values">
-    <item>Ask</item>
+    <item>Pregunta</item>
     <item>No ho permetis mai</item>
     <item>Permet-ho sempre</item>
   </string-array>
@@ -812,6 +818,15 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Xarxa domèstica</item>
     <item>Totes les xarxes</item>
   </string-array>
+  <string-array name="agps_si_mode_entries">
+    <item>MSB</item>
+    <item>MSA</item>
+  </string-array>
+  <string-array name="agps_reset_type_entries">
+    <item>HOT</item>
+    <item>WARM</item>
+    <item>COLD</item>
+  </string-array>
   <string-array name="handy_mode_size_text_entries">
     <item>4,5 polzades</item>
     <item>4,0 polzades</item>
@@ -848,13 +863,59 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>XXL</item>
     <item>XXXL</item>
   </string-array>
+  <string-array name="broadcast_locales">
+    <item>AE</item>
+    <item>AG</item>
+    <item>AR</item>
+    <item>BH</item>
+    <item>BO</item>
+    <item>BS</item>
+    <item>BB</item>
+    <item>BZ</item>
+    <item>BR</item>
+    <item>CL</item>
+    <item>CO</item>
+    <item>CR</item>
+    <item>CU</item>
+    <item>EC</item>
+    <item>EG</item>
+    <item>GF</item>
+    <item>GD</item>
+    <item>GQ</item>
+    <item>GT</item>
+    <item>GY</item>
+    <item>HT</item>
+    <item>HN</item>
+    <item>IN</item>
+    <item>IL</item>
+    <item>IR</item>
+    <item>JM</item>
+    <item>JO</item>
+    <item>KW</item>
+    <item>MX</item>
+    <item>NI</item>
+    <item>OM</item>
+    <item>PA</item>
+    <item>PY</item>
+    <item>PE</item>
+    <item>QA</item>
+    <item>SA</item>
+    <item>SR</item>
+    <item>KN</item>
+    <item>LC</item>
+    <item>VC</item>
+    <item>TW</item>
+    <item>TT</item>
+    <item>UY</item>
+    <item>VE</item>
+  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>
     <item>Explorador de fitxers</item>
-    <item>Bloqueig de l\'aplicació</item>
+    <item>Explorador de fitxers</item>
     <item>Segon espai</item>
-    <item>Second space</item>
+    <item>Segon espai</item>
   </string-array>
   <string-array name="anr_record_interval_entries">
     <item>10 seg</item>
@@ -881,6 +942,16 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Fitxers</item>
     <item>Notes</item>
-    <item>Bloqueig de l\'aplicació</item>
+    <item>Mode infantil</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_1">
+    <item>GB</item>
+    <item>16MP</item>
+    <item>95%NTSC</item>
+  </string-array>
+  <string-array name="standard_configuration_version_device_display_description_text_2">
+    <item>GB</item>
+    <item>蓝宝石</item>
+    <item>600nit</item>
   </string-array>
 </resources>

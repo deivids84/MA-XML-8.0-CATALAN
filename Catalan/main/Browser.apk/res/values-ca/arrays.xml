@@ -20,8 +20,8 @@
     <item>Personalitzat</item>
   </string-array>
   <string-array name="pref_text_zoom_choices">
-    <item>Diminut</item>
-    <item>Petit</item>
+    <item>Diminuta</item>
+    <item>Petita</item>
     <item>Normal</item>
     <item>Gran</item>
     <item>Enorme</item>
