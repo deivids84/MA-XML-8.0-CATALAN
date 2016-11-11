@@ -521,7 +521,7 @@ Llavors responeu la pregunta"</string>
   <string name="my_favorite">Protagonitzat per</string>
   <string name="my_notification">Notificacions</string>
   <string name="my_room">L\'habitació</string>
-  <string name="my_room_underline">&lt;u&gt;L&#39;habitacio&lt;/u&gt;</string>
+  <string name="my_room_underline">L\'habitació</string>
   <string name="my_setting">Configuració</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
