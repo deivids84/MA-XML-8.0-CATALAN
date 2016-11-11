@@ -276,6 +276,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_with_restrictions_header">Aplicacions amb restriccions</string>
   <string name="apps_with_restrictions_settings_button">Amplia la configuració de les aplicacions</string>
@@ -2368,6 +2369,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_brightness_settings">Configuració/Pantalla/Lluminositat</string>
   <string name="path_button_light_timeout">Configuració/Configuració addicional/Botons/Durada de la llum dels botons</string>
   <string name="path_calendar_sound_title">Configuració/So i vibració/So del calendari</string>
+  <string name="path_camera_key_action_shortcut_screenshot">Configuració/Configuració addicional/Captura de pantalla</string>
   <string name="path_children_mode_settings">Configuració/Avançats/Mode de mainada</string>
   <string name="path_choose_timezone">Configuració/Configuració addicional/Data &amp; time/Tria el fus horari</string>
   <string name="path_cloud_backup_settings_section_title">Configuració/Configuració addicional/Còpia de seguretat i reinicialització/Còpia de seguretat de la configuració</string>
@@ -2390,6 +2392,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_do_not_disturb_settings">Configuració/No molesteu</string>
   <string name="path_dtmf_tone_enable_title">Configuració/So i vibració/Tons de les tecles</string>
   <string name="path_edge_handgrip">Configuració/Control de la vora</string>
+  <string name="path_enable_adb">Configuració/Configuració addicional/Opcions de desenvolupador/Depuració USB</string>
   <string name="path_equalizer">Configuració/So i vibració/Configuració d\'àudio/Equalitzador</string>
   <string name="path_fluency_mode">Configuració/Bateria &amp; rendiment/Animacions del sistema</string>
   <string name="path_font_settings">Configuració/Pantalla/Tipus de lletra</string>
@@ -2429,6 +2432,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_other_advanced_settings">Configuració/Configuració addicional</string>
   <string name="path_owner_info_settings">Configuració/Pantalla de bloqueig &amp; contrasenya/Informació de l\'usuari</string>
   <string name="path_page_layout_settings">Configuració/Pantalla/Mida de la lletra</string>
+  <string name="path_permission_settings_title">Configuració/Permisos/Permisos de les aplicacions</string>
   <string name="path_pointer_speed">Configuració/Configuració addicional/Idioma &amp; teclat/Velocitat del punter</string>
   <string name="path_power_checker">Configuració/Configuració addicional/Funcions en Beta/Control de l\'energia</string>
   <string name="path_power_hide_mode_title">Configuració/Bateria &amp; rendiment/Gestió de l\'ús de bateria de les aplicacions</string>
@@ -3043,6 +3047,7 @@ Per fer-ho:
   <string name="search_brightness">Lluminositat</string>
   <string name="search_button_light_timeout">Manté els llums dels botons encesos</string>
   <string name="search_calendar_sound_title">So del calendari</string>
+  <string name="search_camera_key_action_shortcut_screenshot">Captura de pantalla</string>
   <string name="search_children_mode_settings">Mode de mainada;Bloqueig de SMS</string>
   <string name="search_children_mode_title">Mode de mainada</string>
   <string name="search_choose_timezone">Tria fus horàri</string>
@@ -3067,6 +3072,7 @@ Per fer-ho:
   <string name="search_dtmf_tone_enable_title">Tons de marcatge del teclat</string>
   <string name="search_edge_handgrip">Controls de la vora</string>
   <string name="search_empty">Cap resultat de cerca</string>
+  <string name="search_enable_adb">Depuració USB</string>
   <string name="search_equalizer">Equalitzador</string>
   <string name="search_fluency_mode">Animacions del sistema</string>
   <string name="search_font">Font del sistema</string>
@@ -3108,6 +3114,7 @@ Per fer-ho:
   <string name="search_other_advanced_settings">Additional settings;More settings</string>
   <string name="search_owner_info_settings">Informació del propietari</string>
   <string name="search_page_layout_settings">Mida del text</string>
+  <string name="search_permission_settings_title">Permisos de l\'aplicació</string>
   <string name="search_pointer_speed">Velocitat del punter</string>
   <string name="search_power_checker">Comprovador d\'energia</string>
   <string name="search_power_hide_mode_title">Gestiona l\'ús de bateria de les aplicacions</string>

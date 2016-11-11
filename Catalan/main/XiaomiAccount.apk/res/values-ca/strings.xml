@@ -55,7 +55,6 @@
   <string name="activate_email_notice">Assegureu-vos d\'activar el vostre compte abans de 24 hores</string>
   <string name="activity_not_found_notice">"No es pot trobar l'app"</string>
   <string name="add_account">Vincula compte</string>
-  <string name="alert_title_remove_account">Voleu suprimir el compte?</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
   <string name="authorize_title">Autorització</string>
@@ -86,12 +85,9 @@
   <string name="continue_action">Continua</string>
   <string name="cta_declaration_agree_and_continue">D\'acord</string>
   <string name="cta_declaration_exit">Surt</string>
-  <string name="cta_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="cta_declaration_message">"En registrar-vos al vostre compte de Mi, necessitareu connectar a internet. S'activaran els serveis d'ubicació i la sincronització amb Mi Cloud. Per poder fer una còpia de seguretat de les vostres dades, aquest aplicació necessita accedir els vostres contactes, missatges, historial de trucades i enregistraments. No s'utilitzaran les vostres dades amb finalitats comercials ni es compartiran amb terceres parts. Després de registrar-vos al vostre compte Mi, Mi VIP i els serveis Mi es connectaran a internet."</string>
   <string name="cta_declaration_title">Termes i condicions</string>
   <string name="current_location_title">Ubicació actual</string>
-  <string name="data_keep_in_device">Mantén en aquest dispositiu</string>
-  <string name="data_wipe_from_device">Elimina d\'aquest dispositiu</string>
   <string name="delete_action">Esborra</string>
   <string name="delete_app">Esborra aplicació</string>
   <string name="delete_bank_card_message">Per seguretat, les dades de la vostra targeta s\'esborraran després que tanqueu la sessió</string>
@@ -330,7 +326,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="phone_activated">%s activat</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="qq">QQ</string>
-  <string name="remove_account_notice">Què voleu fer amb els missatges, contactes, i altres dades que han estat sincronitzats des del vostre compte Mi?</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
   <string name="remove_trust_notice">Elimina dels dispositius de confiança i tanca sessió</string>
@@ -364,7 +359,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="trusted_browsers">Navegadors de confiança</string>
   <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar Troba el dispositiu"</string>
-  <string name="turning_off_find_device">S\'està apagant Troba el dispositiu&#8230;</string>
   <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la informació del compte %s per accedir al vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
 · Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
@@ -381,7 +375,4 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verified_devices">Dispositius verificats</string>
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
   <string name="verify_phone_title">Verifica el número de telèfon</string>
-  <string name="wipe_data_dialog_msg">S\'esborraran %s elements si continueu.</string>
-  <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
 </resources>

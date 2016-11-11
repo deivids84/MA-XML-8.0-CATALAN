@@ -8,9 +8,9 @@
     <item>Ventilador</item>
   </string-array>
   <string-array name="answer">
-    <item>El dispositiu només es pot vincular amb Mi TV, Mi Box, i un munt d\'altres dispositius Android per Wi-Fi.</item>
-    <item>"Assegureu-vos que heu seleccionat el model correcte d'A/C en el procés de vinculació. Seguiu els passos al vostre dispositiu fins que finalitzi el procés."</item>
-    <item>No. Actualment podeu utilitzar el Mi 4, el Mi 4c, i el Redmi Note 2 com a comandament d\'infrarojos.</item>
+    <item>El vostre dispositiu només es pot vincular amb Mi TV i Mi Box, a més d\'un munt d\'altres dispositius Android via Wi-Fi.</item>
+    <item>"Assegureu-vos que heu seleccionat el model correcte d'A/C en el procés de vinculació. Seguiu les indicacions al vostre dispositiu fins que finalitzi la vinculació."</item>
+    <item>No. Actualment podeu utilitzar com a comandament d\'infraroigs el Mi 4, el Mi 4c i el Redmi Note 2.</item>
   </string-array>
   <string-array name="epg_week_tab">
     <item>Dg.</item>
@@ -22,9 +22,9 @@
     <item>Ds.</item>
   </string-array>
   <string-array name="question">
-    <item>Perquè el meu telèfon no para de buscar dispositius Wi-Fi?</item>
+    <item>Per què el meu telèfon continua buscant dispositius Wi-Fi?</item>
     <item>"Perquè només puc encendre el meu aparell d'A/C i no el puc apagar?"</item>
-    <item>Puc utilitzar el Mi 3, el Mi 2, o el Redmi com a comandament d\'infrarojos?</item>
+    <item>Puc utilitzar el Mi 3, el Mi 2, o el Redmi com a comandament d\'infraroigs?</item>
   </string-array>
   <string-array name="assistant_tab">
     <item>Vídeo</item>

@@ -604,6 +604,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
   <string name="keywords_permcenter">Automàtic;Permisos;ROOT;Ubicació;Accés a contactes</string>
   <string name="keywords_powercenter">Estalvi de bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge</string>
+  <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
   <string name="kilobyteShort">KB</string>
@@ -815,7 +816,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
   <string name="notification_battery_over_heat_summary">\"Trobar què causa l\'escalfament i refredar el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
-  <string name="notification_charging_title">S\'està carregant </string>
+  <string name="notification_charging_title">"S'està carregant "</string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
@@ -837,6 +838,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s usats %2$s aquesta setmana</string>
   <string name="ok">D\'acord</string>
   <string name="ok_button">Aceptar</string>
+  <string name="old_sdk_deny_warning">"L'aplicació no és compatible amb els últims requisits de permisos d'Android. Els permisos denegats poden afectar la forma en què funciona aquesta aplicació."</string>
   <string name="open">Obre</string>
   <string name="open_app">Obre</string>
   <string name="open_browser">Obre al navegador</string>
@@ -900,6 +902,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
   <string name="path_permcenter">Aplicacions del sistema/Seguretat/Permisos</string>
   <string name="path_powercenter">Aplicacions del sistema/Seguretat/Ús de bateria</string>
+  <string name="path_powercenter_powerrank">Bateria i rendiment/Ús de bateria</string>
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
   <string name="path_securitycenter_settings">Aplicacions del sistema/Seguretat</string>
   <string name="pay_charge">Comprar dades addicionals</string>
@@ -1169,6 +1172,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="resource_networkassistant_4">Prova de xarxa</string>
   <string name="resource_permcenter">Permisos</string>
   <string name="resource_powercenter">Estalvi de bateria</string>
+  <string name="resource_powercenter_powerrank">Bateria i rendiment</string>
   <string name="resource_securitycenter">Seguretat</string>
   <string name="resource_securitycenter_settings">Seguretat</string>
   <string name="result_autoscan_header">Monitorització del Pagament</string>
@@ -1281,6 +1285,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sorted_button">Ordenar per</string>
   <string name="sorted_dialog_title">Ordenar per</string>
   <string name="sp_back_title_text_zero">Segur</string>
+  <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
+  <string name="sp_background_risk_dialog_title">Perillós</string>
+  <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
+  <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
+  <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa</string>
+  <string name="sp_background_risk_type_wifi">La Wi-Fi a la que esteu connectats és perillosa</string>
   <string name="sp_button_text_ignore_alert_title">Voleu ignorar la comprovació d\'aquest element?</string>
   <string name="sp_empty_title_sign_exception">Un únic clic en l\'aplicació en la pàgina de resultats per afegir-la a excepcions</string>
   <string name="sp_monitored_apps_count_zero">No hi ha aplicacions de pagament protegit</string>
@@ -1621,7 +1631,7 @@ Dades extres en ús"</string>
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Actiu</string>
   <string name="usage_type_wifi_running">Wi-Fi funcionant</string>
-  <string name="usb_adb_input_apply_step_1">L\'ordinador serà capaç de canviar la configuració i concedir permisos sense coneixement de l\'usuari quan el dispositiu està connectat a través d\'USB</string>
+  <string name="usb_adb_input_apply_step_1">"L'ordinador serà capaç de canviar la configuració i concedir permisos sense coneixement de l'usuari quan el dispositiu està connectat a través d'USB"</string>
   <string name="usb_adb_input_apply_step_2">Això pot donar lloc a fuites d\'informació privada, com ara comptes o missatges</string>
   <string name="usb_adb_input_apply_step_3">Assegureu-vos que comprèn els riscos relacionats abans de permetre. Permetre ara?</string>
   <string name="usb_install_desc">Instal·lar aquesta aplicació a través d\'USB?</string>

@@ -370,6 +370,10 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_web_discription_02">per guardar i accedir als teus fitxers des de qualsevol part</string>
   <string name="micloud_web_discription_international">Visita www.mi.com/micloud</string>
   <string name="micloud_website">Dades en el Núvol</string>
+  <string name="micloud_wipe_data_confirm_label">Elimina les dades del Mi Cloud</string>
+  <string name="micloud_wipe_data_confirm_title">Voleu eliminar els elements sincronitzats amb Mi Cloud del telèfon després de tancar sessió?</string>
+  <string name="micloud_wipe_data_remove">Elimina</string>
+  <string name="micloud_wipe_data_retain">Deixa</string>
   <string name="microsoft_cloud">Servei en el Núvol de Microsoft</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Aprox. 10 EUR a l\'any</string>
@@ -501,7 +505,11 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="view_storage_title">Espai d\'emmagatzematge</string>
   <string name="virtual_sim_desc">Activeu Mi SIM per localitzar el dispositiu sense una targeta SIM</string>
   <string name="voip_choose_sim">Trieu el número de telèfon per activar Mi Voice</string>
+  <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
+  <string name="wipe_data_dialog_msg">"%s no es van sincronitzar i seguiran al telèfon."</string>
+  <string name="wipe_data_dialog_msg_and_on">i d\'altres elements</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
+  <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

@@ -80,6 +80,8 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_audio_right_caldata">"Dades de calibratge del PA dret: 
 "</string>
   <string name="cit_audio_right_calfail">El calibratge del PA dret ha fallat</string>
+  <string name="cit_battery_check_summary">Estadístiques de la bateria del dispositiu</string>
+  <string name="cit_battery_check_title">Informació de la bateria</string>
   <string name="cit_battery_temp_fail">La temperatura de la bateria no és normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">La temperatura de la bateria és normal</string>
   <string name="cit_batterylight_blue">Blau</string>

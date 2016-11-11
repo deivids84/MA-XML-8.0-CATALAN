@@ -235,9 +235,9 @@
   <string name="st_antispam_black_adress_add">Trieu una ubicació</string>
   <string name="st_antispam_bw_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_choose_modes">Números bloquejats</string>
-  <string name="st_antispam_bw_head_add">Afegeix prefix</string>
+  <string name="st_antispam_bw_head_add">Afegeix un prefix</string>
   <string name="st_antispam_bw_man_add">Afegeix un número de telèfon</string>
-  <string name="st_antispam_bw_pick_add">Seleccioneu un contacte</string>
+  <string name="st_antispam_bw_pick_add">Afegeix contactes</string>
   <string name="st_antispam_delete">Elimina</string>
   <string name="st_antispam_des_anti">Bloqueja</string>
   <string name="st_antispam_des_permit">Permet</string>

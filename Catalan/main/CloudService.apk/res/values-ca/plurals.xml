@@ -17,4 +17,32 @@
     <item quantity="other">%d fotos</item>
     <item quantity="one">%d foto</item>
   </plurals>
+  <plurals name="dirty_callog_count">
+    <item quantity="other">%d registres a l\'historial de trucades</item>
+    <item quantity="one">%d registre a l\'historial de trucades</item>
+  </plurals>
+  <plurals name="dirty_wlan_count">
+    <item quantity="other">%d xarxes Wi-Fi</item>
+    <item quantity="one">%d xarxa Wi-Fi</item>
+  </plurals>
+  <plurals name="dirty_recorder_count">
+    <item quantity="other">%d registres</item>
+    <item quantity="one">%d registre</item>
+  </plurals>
+  <plurals name="dirty_music_count">
+    <item quantity="other">%d cançons</item>
+    <item quantity="one">%d cançó</item>
+  </plurals>
+  <plurals name="dirty_browser_count">
+    <item quantity="other">%d elements del navegador</item>
+    <item quantity="one">%d element del navegador</item>
+  </plurals>
+  <plurals name="dirty_calendar_count">
+    <item quantity="other">%d elements del calendari</item>
+    <item quantity="one">%d element del calendari</item>
+  </plurals>
+  <plurals name="dirty_blocklist_count">
+    <item quantity="other">%d entrades a la llista de bloqueig</item>
+    <item quantity="one">%d entrada a la llista de bloqueig</item>
+  </plurals>
 </resources>

@@ -49,6 +49,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Quilòmetres per hora</string>
   <string name="from_unit_short">km/h</string>
+  <string name="home_title_calculator">Calculadora</string>
   <string name="item_title_aa_payment">Pagament a escot</string>
   <string name="item_title_area_conversion">Àrea</string>
   <string name="item_title_calculator">Calculadora</string>
@@ -134,11 +135,13 @@
   <string name="tanDesc">tangent</string>
   <string name="tax_accumulation_fund">Fons d\'acumulació</string>
   <string name="tax_annual_bonus_hint">Introduïu la bonificació abans d\'impostos</string>
+  <string name="tax_annual_bonus_number">Bonificació</string>
   <string name="tax_birth">Naixement</string>
   <string name="tax_cal_method_annual">Càlcul de bonificació anual</string>
   <string name="tax_cal_method_fixed_salary">Càlcul de l\'impost sobre la renda</string>
   <string name="tax_cal_method_format">Ingressos personals: %s</string>
   <string name="tax_city">Ciutat</string>
+  <string name="tax_city_error">Introduïu la ciutat correcta</string>
   <string name="tax_city_located">Ubicació</string>
   <string name="tax_city_picker">Ciutat</string>
   <string name="tax_endowment">Fons de pensions</string>
@@ -153,6 +156,8 @@
   <string name="tax_individual_income_tax_result">Resultats</string>
   <string name="tax_injury">Sinistre</string>
   <string name="tax_insurance_and_fund">Assegurança</string>
+  <string name="tax_last_salary_hint">Introduïu els vostres ingressos</string>
+  <string name="tax_last_salary_number">Ingressos</string>
   <string name="tax_medical">Mèdica</string>
   <string name="tax_param_error">Introduïu tarifes d\'assegurança correctes</string>
   <string name="tax_result_real_get">Net</string>
@@ -339,9 +344,6 @@
   <string name="wf_word_figure">Caràcters financers</string>
   <string name="word_figure_big_unit_fen">分</string>
   <string name="word_figure_big_unit_jiao">角</string>
-  <string name="word_figure_big_unit_wan">万</string>
-  <string name="word_figure_big_unit_yi">亿</string>
-  <string name="word_figure_big_unit_zhao">兆</string>
   <string name="word_figure_number_0">零</string>
   <string name="word_figure_number_1">壹</string>
   <string name="word_figure_number_2">贰</string>
