@@ -563,7 +563,11 @@ Les targetes de contacte estan apagades"</string>
   <string name="list_filter_customize">Personalitzar</string>
   <string name="list_filter_phones">Tots els contactes amb números de telèfon</string>
   <string name="list_filter_single">Contacte</string>
+  <string name="live_talk_switch_on_toast">S\'ha activat la xarrada en directe</string>
   <string name="livetalk_charge">Carrega</string>
+  <string name="livetalk_left">Xerrada en directe restant</string>
+  <string name="livetalk_switch_on">Activa</string>
+  <string name="livetalk_title">Xerrada en directe</string>
   <string name="loading_accounts">Un moment&#8230;</string>
   <string name="loading_group_members">Un moment&#8230;</string>
   <string name="loading_groups">Un moment&#8230;</string>

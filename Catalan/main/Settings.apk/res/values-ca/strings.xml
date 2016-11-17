@@ -96,7 +96,7 @@ Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i l
   <string name="account_settings_menu_auto_sync_personal">Sincronització automàtica de dades personals</string>
   <string name="account_settings_menu_auto_sync_work">Sincronització automàtica de dades de la feina</string>
   <string name="account_settings_title">Comptes</string>
-  <string name="account_sync_settings_title">Sincronitza</string>
+  <string name="account_sync_settings_title">Sincronització</string>
   <string name="activating">S\'està activant&#8230;</string>
   <string name="active_device_admin_msg">Administrador del dispositiu</string>
   <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
@@ -3160,7 +3160,7 @@ Per fer-ho:
   <string name="search_status_sim">Estat de la SIM</string>
   <string name="search_storage">Emmagatzematge; Memòria</string>
   <string name="search_storage_settings">Esborra</string>
-  <string name="search_sync_settings">Sincronitza;Auto;Només Wi-Fi</string>
+  <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
   <string name="search_system_app_settings">Aplicacions del sistema</string>
   <string name="search_tether">Tethering i; zona Wi-Fi;Hotspot;Personal Hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
@@ -3726,9 +3726,9 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
 %1$s»</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Benvingut/da a la sincronització de Google!</font>\"
 La sincronització de dades que ha ideat Google per tal de permetre l\'accés als contactes, a les cites i a molts més elements des de qualsevol lloc.\"</string>
-  <string name="sync_settings">Sincronitza</string>
+  <string name="sync_settings">Sincronització</string>
   <string name="sync_wifi_label">Wi-Fi</string>
-  <string name="sync_wifi_only">Només Wi-Fi</string>
+  <string name="sync_wifi_only">Només per Wi-Fi</string>
   <string name="system">Sistema</string>
   <string name="system_alert_window_access_title">Visualització a sobre d\'altres aplicacions</string>
   <string name="system_alert_window_apps_title">Aplicacions</string>

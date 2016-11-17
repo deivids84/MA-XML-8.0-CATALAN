@@ -321,8 +321,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_summary">Elimina fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
-  <string name="card_main_gamebooster_summary">Accelera la velocitat i milloreu l\'experiència de joc</string>
-  <string name="card_main_gamebooster_title">Accelera la velocitat de joc</string>
+  <string name="card_main_gamebooster_summary">Accelera la velocitat i millora l\'experiència de joc</string>
+  <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
   <string name="card_main_monthreport_action">Mostra</string>
   <string name="card_main_monthreport_summary">Veure informes mensuals</string>
   <string name="card_main_monthreport_title">Estadístiques de seguretat</string>
@@ -1288,6 +1288,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
+  <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>
   <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
   <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa</string>
   <string name="sp_background_risk_type_wifi">La Wi-Fi a la que esteu connectats és perillosa</string>
@@ -1308,7 +1309,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_settings_check_item_title_virus_exception">Excepcions de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Cap element</string>
-  <string name="sp_settings_group_title_check_item">Comprovar la configuració dels elements</string>
+  <string name="sp_settings_group_title_check_item">Comprova múltiples configuracions</string>
   <string name="sp_settings_group_title_ime">Configuració de l\'IME segura</string>
   <string name="sp_settings_group_title_omit">Elements omesos</string>
   <string name="sp_settings_info_input_method">Utilitzant el mètode d\'entrada del sistema en aplicacions de pagament</string>
@@ -1527,7 +1528,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_virus_update_yes">Actualització automàtica de la definició de virus activada</string>
   <string name="title_virus_yes">No es van detectar virus</string>
   <string name="title_xiaomi_roaming">Itinerància Mi</string>
-  <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció de virus ja existeix!</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció del virus ja existeix</string>
   <string name="toast_add_virus_white_list_success">S\'ha afegit a excepcions. Mostra els elements a la configuració.</string>
   <string name="toast_auto_traffic_correct">L\'ús de dades s\'ajusta automàticament</string>
   <string name="toast_cleaner_cloudscan">Netejador farà servir definicions en línia</string>

@@ -52,7 +52,7 @@
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
   <string name="adblock_rules_not_updated_toast">"No s'ha pogut actualitzar"</string>
-  <string name="adblock_rules_restore">Desbloqueja</string>
+  <string name="adblock_rules_restore">Desbloquejar</string>
   <string name="adblock_rules_updated_toast">S\'ha actualitzat correctament</string>
   <string name="adblock_websites_settings_empyt_hint">"No heu bloquejat cap lloc."</string>
   <string name="adblock_websites_settings_title">Llocs bloquejats</string>

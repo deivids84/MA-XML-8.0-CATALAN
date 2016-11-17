@@ -411,6 +411,7 @@
   <string name="video_plugin">Plugin de vídeo</string>
   <string name="video_plugin_downloading">S\'està baixant (%1$s)</string>
   <string name="video_plugin_prepare">Un moment&#8230;</string>
+  <string name="video_pre_play_tip">Podeu reproduir una vista prèvia de franc de %1$d minuts，per reproduir-lo complement &lt;Dades&gt;&amp;lt;font color=#04b4fd&amp;gt;compra immediata &amp;gt;&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="video_vip">vip</string>
   <string name="vip_package">paquet vip</string>
   <string name="vip_rights">Drets Vip i interessos</string>

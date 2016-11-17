@@ -26,8 +26,8 @@
     <item quantity="one">%d xarxa Wi-Fi</item>
   </plurals>
   <plurals name="dirty_recorder_count">
-    <item quantity="other">%d registres</item>
-    <item quantity="one">%d registre</item>
+    <item quantity="other">%d enregistraments</item>
+    <item quantity="one">%d enregistrament</item>
   </plurals>
   <plurals name="dirty_music_count">
     <item quantity="other">%d cançons</item>

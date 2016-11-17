@@ -114,8 +114,8 @@
     <item quantity="one">Sincronització desactivada. Còpia de seguretat pendent per a %1$d element</item>
   </plurals>
   <plurals name="cloud_space_full">
-    <item quantity="other">Mi Cloud està ple. Còpia de seguretat pendent per a %1$d elements</item>
-    <item quantity="one">Mi Cloud està ple. Còpia de seguretat pendent per a %1$d element</item>
+    <item quantity="other">"No es poden copiar %1$d elements"</item>
+    <item quantity="one">"No es pot copiar %1$d element"</item>
   </plurals>
   <plurals name="local_space_full">
     <item quantity="other">No hi ha prou espai al dispositiu. Còpia de seguretat pendent per a %1$d elements</item>

@@ -85,6 +85,8 @@
   <string name="reset">Reinicialitza</string>
   <string name="revert">Anul·la</string>
   <string name="set_alarm">Estableix l\'alarma</string>
+  <string name="setting_alarm_arriving_summary">Envia una notificació abans de sonar</string>
+  <string name="setting_alarm_arriving_title">Notificació abans de sonar</string>
   <string name="settings">Configuració</string>
   <string name="shutdown_alarm_disable_summary">L\'alarma no sonarà amb el dispositiu apagat</string>
   <string name="shutdown_alarm_enable_summary">L\'alarma sonarà amb el dispositiu apagat</string>
@@ -105,7 +107,7 @@
   <string name="stat_repeat_weekdays">De dilluns a divendres</string>
   <string name="stat_repeat_weekends">Cap de setmana</string>
   <string name="stopwatch_lap_empty_text">Sense voltes</string>
-  <string name="stopwatch_title">Cronòmetre</string>
+  <string name="stopwatch_title">Crono</string>
   <string name="symbol_colon">:</string>
   <string name="system_time_setting">Configuració</string>
   <string name="time">Hora</string>
@@ -130,8 +132,8 @@
   <string name="tomorrow">Demà</string>
   <string name="turn_off_a_repeat_alarm">Atura una alarma de repetició</string>
   <string name="turn_off_this_repeat_alarm">Atura aquesta alarma de repetició</string>
-  <string name="upcoming_alarm">Propera alarma</string>
-  <string name="upcoming_alarm_hint">Podreu tancar aquesta alarma amb antelació</string>
+  <string name="upcoming_alarm">&#160;Propera alarma</string>
+  <string name="upcoming_alarm_hint">Podeu tancar aquesta alarma amb antelació</string>
   <string name="vibrate_pref_summary">Vibra quan soni l\'alarma</string>
   <string name="vibrate_when_ringing">Vibra mentre sona</string>
   <string name="volume_button_setting_summary">"Estableix la funció dels botons de volum durant l'alarma"</string>

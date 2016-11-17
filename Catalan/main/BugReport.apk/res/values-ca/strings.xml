@@ -88,7 +88,7 @@
   <string name="feedback_submit_hint2">Aneu a «Els meus informes» per veure\'n els detalls</string>
   <string name="feedback_submit_succ">S\'ha enviat correctament</string>
   <string name="feedback_submit_succ_button">Fet</string>
-  <string name="feedback_submitting">S\'està enviant&#8230;</string>
+  <string name="feedback_submitting">S\'està enviant</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggeriment \"%2$s\"</string>
   <string name="feedback_title">Títol</string>
   <string name="feedback_title_hint">Descriviu el problema breument</string>
@@ -205,7 +205,7 @@
   <string name="pull_to_refresh_release_label">Deixeu anar per actualitzar</string>
   <string name="refresh">Actualitza</string>
   <string name="reply">Respon</string>
-  <string name="reply_failed">Error en respondre</string>
+  <string name="reply_failed">"No es pot respondre"</string>
   <string name="report_miui">Notifica un error</string>
   <string name="request_empty_data">Sense dades</string>
   <string name="save_pic">Desa</string>

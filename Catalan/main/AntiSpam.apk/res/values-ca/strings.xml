@@ -300,12 +300,12 @@
   <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
   <string name="st_sum_call_wait">El missatge d\'abència també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
-  <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges utilitzant números i prefixos</string>
-  <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges utilitzant números</string>
+  <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
+  <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_keywords_blacklist">Afegiu paraules clau per bloquejar missatges</string>
   <string name="st_summary_special_numbers">Bloqueja els números de telèfon marcats</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
-  <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números específics</string>
+  <string name="st_summary_whitelist_numbers_international">Permet les trucades i els missatges de números i àrees específics</string>
   <string name="st_title_adblock_group">Bloquejador d\'anuncis</string>
   <string name="st_title_adblock_setting">Configuració del bloquejador d\'anuncis</string>
   <string name="st_title_addblacklist">Afegeix a la llista de bloqueig</string>
@@ -348,7 +348,7 @@
   <string name="tab_block_log_unKnowNumber">Número privat</string>
   <string name="tab_call">Trucades</string>
   <string name="tab_sms">SMS</string>
-  <string name="tab_title">AntiSpam</string>
+  <string name="tab_title">Llista de bloqueig</string>
   <string name="toast_keyword_blank">És necessari introduir una paraula clau</string>
   <string name="toast_keyword_exist">S\'ha afegit la paraula clau</string>
   <string name="toast_keyword_invalid">Paraula clau no vàlida</string>

@@ -254,14 +254,12 @@
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l'assumpte del missatge."</string>
   <string name="confirm_send_title">Enviar missatge?</string>
-  <string name="contact_edit_set_black_list_filtering">Filtrant&#8230;</string>
   <string name="contact_edit_set_black_list_from">Mou tots els emails d\'aquest remitent a les escombraries</string>
   <string name="contact_edit_set_black_list_receive">Moure emails amb aquest destinatari a les escombraries (només nous)</string>
   <string name="contact_edit_set_black_list_receive_summary">Esborrar correus electrònics que incloguin aquest destinatari en els camps Per o Cc</string>
   <string name="contact_edit_set_black_list_title">Establir llista de bloqueig</string>
   <string name="contact_edit_set_phone_contact">Edita contactes del telèfon</string>
   <string name="contact_edit_title_phone_contact">Llista de contactes del telèfon</string>
-  <string name="contact_in_filter_call_phone_str">Trucar des de %s</string>
   <string name="contact_in_filter_title">Remitent</string>
   <string name="contact_info_string">Mostra la informació de contacte de %1$s</string>
   <string name="contact_info_string_default">Mostra informació de contacte</string>
@@ -345,7 +343,6 @@
   <string name="download_confirm_message">Voleu baixar %1$s adjunts?</string>
   <string name="download_confirm_title">Baixa els adjunts</string>
   <string name="download_message_failed_for_too_large">El missatge és massa gran per baixar-lo.</string>
-  <string name="download_whole_email">Descarregar la resta de contingut</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
@@ -458,17 +455,9 @@
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
   <string name="info_actionbar_normal_detail">Detalls</string>
-  <string name="info_actionbar_subscribe">Servei de notícies</string>
-  <string name="info_item_from">De&#160;</string>
   <string name="info_item_hide">Amagar</string>
-  <string name="info_loading">Carregant&#8230;</string>
-  <string name="info_name_title">NOTÍCIES</string>
-  <string name="info_no_message">No hi ha articles per veure</string>
-  <string name="info_no_more_message">No hi ha més elements per veure</string>
   <string name="info_switch_summary">Vista superior de notícies</string>
   <string name="info_switch_title">Notícies de la safata d\'entrada</string>
-  <string name="info_sync_error">"No es pot sincronitzar, provar-ho més tard"</string>
-  <string name="information_subscribe_first_intro">"Sembla que estàs utilitzant les fonts de notícies per primera vegada. Explica'ns sobre els seus interessos perquè poguém personalitzar les seves notícies"</string>
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
   <string name="input_password_prompt">Introduïu la contrasenya</string>
   <string name="invalid_recipient">La direcció %s no és vàlida.</string>
@@ -587,7 +576,6 @@
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
-  <string name="net_check_title">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu a intentar."</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
   <string name="network_try_again">Comprovar la connexió de xarxa i torna a intentar</string>
@@ -719,7 +707,6 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Tiri cap avall per actualitzar</string>
-  <string name="pull_up_to_load_more">Tira cap amunt per carregar més</string>
   <string name="push_wps_better_confirm_download">Baixa</string>
   <string name="push_wps_better_confirm_exit">Ara no</string>
   <string name="push_wps_better_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
@@ -823,7 +810,6 @@
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
-  <string name="selected_lable">Seleccionat</string>
   <string name="send">Enviar</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="send_feed_back">Envia els suggeriments</string>
@@ -905,7 +891,7 @@
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Màquina</string>
-  <string name="translation_query_failure">La cerca ha fallat</string>
+  <string name="translation_query_failure">"La cerca ha fallat"</string>
   <string name="translation_technology_support">Suport tècnic proveït per PowerWord</string>
   <string name="trash_folder_selection_title">Seleccioneu la carpeta d\'escombraries del servidor per %s</string>
   <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
@@ -916,7 +902,6 @@
   <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica?</string>
   <string name="undo">Desfer</string>
   <string name="unread_string">conversa no llegida</string>
-  <string name="unselected_lable">Més</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
@@ -942,7 +927,6 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wipe_account_fail_title">"No s'ha pogut eliminar la informació personal"</string>
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>
-  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Està utilitzant ara la xarxa mòbil</string>
   <string name="zip_viewer_no_file">Buit</string>
 </resources>

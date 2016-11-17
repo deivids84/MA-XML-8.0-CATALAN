@@ -12,7 +12,7 @@
   <string name="default_open_channel_msg">Voleu obrir el canal?</string>
   <string name="default_receive_data_msg">S\'estan rebent dades</string>
   <string name="default_send_data_msg">Enviant dades</string>
-  <string name="default_setup_call_msg">Configurant trucada...</string>
+  <string name="default_setup_call_msg">S\'està configurant la trucada</string>
   <string name="default_tone_dialog_msg">Reproduint to</string>
   <string name="digits">Dígits (0-9, *, #, +)</string>
   <string name="disable_app">Apagat</string>

@@ -200,8 +200,6 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_syncing">Sincronitzant</string>
   <string name="micloud_detail_upload_syncing">Pujant %s</string>
   <string name="micloud_detail_wlan">%d dades no sincronitzades</string>
-  <string name="micloud_detail_wlan_contact">%d fotos de contacte no sincronitzades</string>
-  <string name="micloud_detail_wlan_mms">%d mms no sincronitzats</string>
   <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_find_device_finish">Fet</string>
@@ -240,7 +238,6 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_battery_low">Sense bateria suficient per sincronitzar</string>
   <string name="micloud_main_battery_message">Connecta el dispositiu a una font d\'energia per a sincronitzar</string>
   <string name="micloud_main_clear_now">Esborra</string>
-  <string name="micloud_main_data_unsynced">%d elements a sincronitzar</string>
   <string name="micloud_main_detail">Mostra els detalls</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
   <string name="micloud_main_memory_low_message">"Per sincronitzar, elimina alguns dels elements emmagatzemats en el núvol."</string>
@@ -253,7 +250,6 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_multi_user_error_title">Error de Mi Cloud</string>
   <string name="micloud_main_network_abnormal">"No s'ha pogut connectar a la xarxa"</string>
   <string name="micloud_main_network_error">"No s'ha pogut connectar a la xarxa "</string>
-  <string name="micloud_main_not_sync">%d elements esperant sincronitzar</string>
   <string name="micloud_main_query_error_message">"No es pot garantir si la sincronització està acabada"</string>
   <string name="micloud_main_query_error_title">"No es pot obtenir l'estat de sincronització"</string>
   <string name="micloud_main_set_internet">Xarxa</string>
@@ -310,7 +306,6 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_content_sync_with_off">Tocar per sincronitzar ara.</string>
   <string name="micloud_notif_title_battery_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Contingut copiat al porta-retalls</string>
-  <string name="micloud_notif_title_depend_wifi">%d esperant per sicronitzarse</string>
   <string name="micloud_notif_title_master_depend_wifi">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"No es pot sincronitzar amb Mi Cloud"</string>
@@ -396,11 +391,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="mx_sub_dspt_provision">Missatge Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Trucades per internet</string>
   <string name="mx_voip_dspt">Veu Mi</string>
-  <string name="network_unconnected">No esteu connectats a la xarxa</string>
+  <string name="network_unconnected">"No esteu connectats a la xarxa"</string>
   <string name="next">Següent</string>
   <string name="noRemind">"No recordar"</string>
   <string name="no_sim">Targeta SIM no detectada</string>
-  <string name="one_sync_item_close">%d està desactivat</string>
   <string name="open_micloud_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="other_settings">Altres configuracions</string>
   <string name="other_sync_item">Altres elements a sincronitzar</string>
@@ -421,8 +415,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="restoreSync">Sincronitzar ara</string>
   <string name="search_cloudbackup_pref">Còpia de seguretat al núvol</string>
   <string name="search_cloudbackup_pref_desc">Activa/desactiva la còpia de seguretat al núvol</string>
+  <string name="search_cloudbackup_pref_key_words">còpiadeseguretatalnúvol, còpia de seguretat al núvol</string>
   <string name="search_finddevice_pref">Troba el dispositiu</string>
   <string name="search_finddevice_pref_desc">Activa/desactiva Troba el dispositiu</string>
+  <string name="search_finddevice_pref_key_words">trobaeldispositiu, troba el dispositiu</string>
   <string name="setting">Configuració</string>
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>
@@ -439,7 +435,6 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: Si us plau, torneu a enllaçar</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: Si us plau, torneu a enllaçar</string>
   <string name="sms">SMS</string>
-  <string name="some_sync_item_close">%d està desactivat</string>
   <string name="soundrecorder_sync_only_in_wifi">Només utilitzar Wi-Fi per sincronitzar</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">La gravadora no utilitzarà dades mòbils per baixar o pujar les gravacions</string>
   <string name="soundrecorder_sync_records">Sincronitzar amb Mi Cloud</string>

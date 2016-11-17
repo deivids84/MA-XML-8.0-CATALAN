@@ -58,7 +58,6 @@
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
   <string name="authorize_title">Autorització</string>
-  <string name="barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_settings">Comptes</string>

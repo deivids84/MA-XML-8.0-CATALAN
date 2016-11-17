@@ -29,6 +29,7 @@
   <string name="call_record_sample_prefix_miui">Trucada</string>
   <string name="caller_info_name_delimiter">" o "</string>
   <string name="cancel_action">Cancel·la</string>
+  <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
   <string name="copy">Copia</string>
   <string name="cut">Talla</string>
   <string name="default_name">Per defecte</string>

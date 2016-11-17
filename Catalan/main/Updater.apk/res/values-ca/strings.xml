@@ -18,7 +18,7 @@
   <string name="auto_dialog_msg_check_again">"Heu d'acceptar la nostra política de privadesa nova abans de poder actualitzar el sistema. "</string>
   <string name="auto_dialog_title_check_again">Voleu cancel·lar l\'actualització?</string>
   <string name="auto_update">Actualitza automàticament</string>
-  <string name="auto_update_sum">Baixa automàticament les actualitzacions quan estigui connectat a la Wi-Fi</string>
+  <string name="auto_update_sum">Baixa les actualitzacions quan hi ha Wi-Fi i les instal·la a la nit</string>
   <string name="autosetmode">Configuració</string>
   <string name="best_update">La millor actualització fins ara</string>
   <string name="boot_recovery">Voleu reiniciar en mode recuperació?</string>
@@ -61,9 +61,6 @@
   <string name="dialog_delay_update_msg">"El dispositiu es reiniciarà per a aplicar les actualitzacions quan la bateria superi el 30%"</string>
   <string name="dialog_delay_update_title">Hi ha una actualització disponible</string>
   <string name="dialog_delay_update_tonight">Actualitza aquesta nit</string>
-  <string name="dialog_reboot_message">"Esteu a punt d'actualitzar MIUI. Aquest procés pot durar entre 5 i 20 minuts. Mantingueu el dispositiu encès i no el reinicieu mentre s'estigui actualitzant."</string>
-  <string name="dialog_reboot_title">Actualització del sistema</string>
-  <string name="dialog_reboot_yes">Actualitza</string>
   <string name="download_again">Torna a provar-ho</string>
   <string name="download_cancel">Cancel·la</string>
   <string name="download_current_rom">Reinicieu per aplicar l\'actualització</string>
@@ -102,8 +99,8 @@
   <string name="menu_more_button">Menú</string>
   <string name="menu_title_current_version_log">"Novetats"</string>
   <string name="menu_title_download_current_rom">Baixa l\'actualització</string>
-  <string name="menu_title_pick_rom_file">Seleccioneu el paquet d\'actualització</string>
-  <string name="menu_title_recovery">Reinici en mode de recuperació</string>
+  <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
+  <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
   <string name="miui_BBS">" \"&lt;a href=\"http://bbs.miui.com\"&gt;Vés al fòrum MIUI&lt;/a&gt;\" "</string>
   <string name="miui_summary_has_new_version">"  Hi ha disponible una actualització  "</string>
   <string name="miui_summary_no_new_version">No hi ha actualitzacions disponibles</string>

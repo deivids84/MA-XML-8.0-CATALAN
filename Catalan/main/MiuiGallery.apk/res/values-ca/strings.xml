@@ -536,7 +536,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Captures de pantalla</string>
   <string name="cloud_settings">Còpies de seguretat de la galeria</string>
-  <string name="cloud_space_full_button_text">Obtingueu més espai d\'emmagatzematge a Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Obtén més emmagatzematge</string>
   <string name="cloudfolder_cannot_start_with">"El nom de l'àlbum no pot començar amb '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"El nom de l'àlbum no pot contenir '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
