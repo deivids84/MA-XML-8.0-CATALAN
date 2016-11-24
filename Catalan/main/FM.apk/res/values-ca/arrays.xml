@@ -12,39 +12,39 @@
     <item>Hits històrics</item>
     <item>Clàssica</item>
     <item>Rock Clàssic</item>
-    <item>Acadèmiques</item>
+    <item>Universitària</item>
     <item>Country</item>
     <item>Serveis d\'emergència</item>
-    <item>Simulacre d\'emergència</item>
-    <item>Llengües extrangeres</item>
+    <item>Prova d\'emergència</item>
+    <item>Llengües estrangeres</item>
     <item>Informació</item>
     <item>Jazz</item>
     <item>Notícies</item>
-    <item>Nostàlgia</item>
-    <item>Oldies</item>
+    <item>Nostàlgica</item>
+    <item>Antigues</item>
     <item>Celebritats</item>
     <item>Públiques</item>
-    <item>Música Religiosa</item>
-    <item>Religioses</item>
+    <item>Música religiosa</item>
+    <item>Converses religioses</item>
     <item>Rhythm and Blues</item>
     <item>Rock</item>
-    <item>Lleugera</item>
-    <item>Rock tou</item>
-    <item>Rhythm and Blues lleuger</item>
+    <item>Suau</item>
+    <item>Rock suau</item>
+    <item>Rhythm and Blues suau</item>
     <item>Esports</item>
     <item>Converses</item>
     <item>Top 40</item>
-    <item>Meteorològiques</item>
+    <item>El Temps</item>
   </string-array>
   <string-array name="search_category_rds_entries">
     <item>Totes les emissores</item>
-    <item>Culturals</item>
+    <item>Cultural</item>
     <item>Actualitat</item>
-    <item>Programes Infantils</item>
+    <item>Programes infantils</item>
     <item>Música Country</item>
-    <item>Reportatges</item>
+    <item>Documentals</item>
     <item>Teatre</item>
-    <item>Música Agradable</item>
+    <item>Música agradable</item>
     <item>Educació</item>
     <item>Serveis d\'emergència</item>
     <item>Simulacre d\'emergència</item>
@@ -56,24 +56,24 @@
     <item>Oci</item>
     <item>Notícies</item>
     <item>Música nacional</item>
-    <item>Altres músiques</item>
-    <item>Música Oldies</item>
+    <item>Altra música</item>
+    <item>Música antiga</item>
     <item>De participació</item>
     <item>Música Pop</item>
     <item>Religiosa</item>
     <item>Música Rock</item>
-    <item>Científiques</item>
+    <item>Ciència</item>
     <item>Clàssica formal</item>
     <item>Temes Socials</item>
     <item>Esports</item>
     <item>Viatges</item>
     <item>Miscel·lània</item>
-    <item>Meteorològiques</item>
+    <item>El Temps</item>
   </string-array>
   <string-array name="presetlist_edit_category">
     <item>Canvia el nom</item>
     <item>Selecció automàtica</item>
-    <item>Esborra</item>
+    <item>Elimina</item>
   </string-array>
   <string-array name="regional_band_entries">
     <item>Amèrica del nord</item>
@@ -152,20 +152,20 @@
     <item>Estats Units (88.1 MHz a 107.9 MHz cada 200 kHz)</item>
   </string-array>
   <string-array name="rf_cfg">
-    <item>Agafa els paràmetres de l\'emissora actual</item>
-    <item>Agafa paràmetres d\'estació (repeteix 20 vegades)</item>
-    <item>Agafa paràmetres de cerca d\'emissora</item>
-    <item>Agafa els paràmetres d\'escombrat de banda FM</item>
-    <item>Configura els paràmetres de cerca FM</item>
+    <item>Obtén els paràmetres de l\'emissora actual</item>
+    <item>Obtén els paràmetres de l\'estació (repeteix 20 vegades)</item>
+    <item>Obtén els paràmetres de l\'emissora cercada</item>
+    <item>Obtén els paràmetres de la cerca de la banda FM</item>
+    <item>Configura els paràmetres de la cerca FM</item>
   </string-array>
   <string-array name="cfg_rf">
-    <item>Configura interval RSSI a FM</item>
-    <item>Configura llindar de senyal</item>
+    <item>Estableix l\'interval RSSI a FM</item>
+    <item>Estableix el llindar de la senyal</item>
     <item>Estadístiques RF</item>
   </string-array>
   <string-array name="stats_options">
     <item>Opcions addicionals</item>
-    <item>Configura els paràmetres de cerca FM</item>
+    <item>Configura els paràmetres de la cerca FM</item>
     <item>Estadístiques RF</item>
   </string-array>
   <string-array name="freq_entries">

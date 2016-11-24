@@ -20,6 +20,10 @@
   <string name="account_set_up_change_type_note">Si voleu canviar la configuració del seu compte de POP3 i IMAP, primer ha d\'eliminar el compte i tornar a configurar l\'inici de sessió.</string>
   <string name="account_setting">Comptes</string>
   <string name="account_setting_keywords">Comptes; comptes de correu</string>
+  <string name="account_setting_message_body_load_complete">Missatge complet</string>
+  <string name="account_setting_message_body_load_head_abstract">Resum del correu</string>
+  <string name="account_setting_message_body_load_head_only">Només la capçalera</string>
+  <string name="account_setting_message_body_load_text">Només el cos</string>
   <string name="account_settings_action">Configuració del compte</string>
   <string name="account_settings_background_attachments_label">Baixa els fitxers adjunts</string>
   <string name="account_settings_background_attachments_summary">Baixa els arxius adjunts amb Wi-Fi</string>
@@ -190,6 +194,7 @@
   <string name="attachment_not_exists">L\'adjunt no està disponible!</string>
   <string name="attachment_open_SecurityException_hint">Potser que no tinguis permisos per obrir aquest fitxer, o que estigui malmès.</string>
   <string name="attachment_open_SecurityException_title">"No es pot obrir el fitxer"</string>
+  <string name="attachment_size_exceed_limit">"Sembla que la mida va superar el límit del servidor"</string>
   <string name="attachment_stop_all">Aturar</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Per desgràcia, no es pot guardar o obrir aquest tipus de fitxer adjunt."</string>
@@ -291,6 +296,9 @@
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
+  <string name="conversation_quick_button_approve">D\'acord</string>
+  <string name="conversation_quick_button_disapprove">En desacord</string>
+  <string name="conversation_quick_button_received">S\'ha rebut</string>
   <string name="conversation_view">Vista de conversa</string>
   <string name="copied">Copiat</string>
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
@@ -379,6 +387,7 @@
   <string name="file_not_found_redownload">"No s'ha trobat el fitxer"</string>
   <string name="file_rar_not_support">"No es poden obrir fitxers rar encriptats"</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
   <string name="folder_drafts_name_cn0">Esborrany</string>
   <string name="folder_drafts_name_cn1">Esborranys</string>
   <string name="folder_drafts_name_cn2">[Gmail]/Esborrany</string>
@@ -543,6 +552,7 @@
   <string name="menu_att_mgr_order_size">Ordenar per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Compondre</string>
+  <string name="menu_contact_edit">Edita</string>
   <string name="menu_discovery">Descobrir</string>
   <string name="menu_folder_options">Opcions de sincronització</string>
   <string name="menu_move_to">Mou a</string>
@@ -554,6 +564,7 @@
   <string name="menu_search">Cercar</string>
   <string name="menu_settings">Configuració</string>
   <string name="merged_mailbox_compose_select_account">Seleccioneu un Compte</string>
+  <string name="message_body_load_set_description">Mida de la càrrega de nous correus en utilitzar dades mòbils</string>
   <string name="message_compose_insert_quick_response_list_title">Inseriu una resposta ràpida</string>
   <string name="message_decode_error">"No es pot desxifrar el missatge"</string>
   <string name="message_details_title">Detalls del missatge</string>
@@ -766,6 +777,7 @@
   <string name="refreshing">Sincronització de&#8230;</string>
   <string name="refreshing_done">Sincronització completa</string>
   <string name="release_to_refresh">Deixar anar per refrescar</string>
+  <string name="remind_attachment_size_limit">Els correus haurien de ser inferiors a %s MB</string>
   <string name="remote_search_result">%s correus trobats al servidor</string>
   <string name="remove_account">Elimina el compte</string>
   <string name="remove_folder">Esborrat de %1$s</string>
@@ -814,11 +826,13 @@
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="send_feed_back">Envia els suggeriments</string>
   <string name="send_feed_back_keywords">envia suggeriments</string>
+  <string name="send_mail">Envia</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">,</string>
   <string name="sending">Enviant&#8230;</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
+  <string name="sending_quick_reply">S\'està enviant el correu «%s»</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"No s\'ha pogut validar certificat de servidor
 \u0009 (assegureu-vos si està activat \'Temps de sincronització automàtica\' a Característiques)"</string>
@@ -928,5 +942,6 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>
   <string name="you_are_in_mobile_network">Està utilitzant ara la xarxa mòbil</string>
+  <string name="youfuli">Promoció</string>
   <string name="zip_viewer_no_file">Buit</string>
 </resources>

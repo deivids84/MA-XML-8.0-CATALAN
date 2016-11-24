@@ -3,28 +3,28 @@
 <resources>
   <string-array name="wifi_status">
     <item/>
-    <item>S\'està escannejant&#8230;</item>
+    <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant&#8230;</item>
     <item>S\'està autenticant&#8230;</item>
     <item>S\'està obtenint l\'adreça IP&#8230;</item>
     <item>Connectat</item>
-    <item>Suspesa</item>
+    <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
     <item>S\'ha desconnectat</item>
     <item>Error</item>
-    <item>Boquejat</item>
+    <item>Bloquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item/>
-    <item>S\'està escannejant&#8230;</item>
+    <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant a %1$s&#8230;</item>
     <item>S\'està autenticant amb %1$s&#8230;</item>
-    <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
+    <item>S\'està obtenint l\'adreça IP de %1$s&#8230;</item>
     <item>S\'ha connectat a %1$s</item>
-    <item>Suspesa</item>
+    <item>Suspès</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
-    <item>Desconnectada</item>
+    <item>Desconnectat</item>
     <item>Error</item>
     <item>Bloquejada</item>
     <item>S\'està evitant temporalment una mala connexió</item>
@@ -59,7 +59,7 @@
     <item>256K per registre de memòria</item>
     <item>1M per registre de memòria</item>
     <item>4M per registre de memòria</item>
-    <item>16M per cada registre de memòria</item>
+    <item>16M per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
@@ -109,7 +109,7 @@
     <item>Trucades en glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
-    <item>DesactivatDesactivat</item>
+    <item>Desactivat</item>
     <item>Dibuixa en blau les regions no rectangulars del clip</item>
     <item>Ressalta en verd les ordres de dibuixos ja provats</item>
   </string-array>
@@ -144,10 +144,10 @@
     <item>Lent</item>
     <item>Normal</item>
     <item>Ràpid</item>
-    <item>El més ràpid</item>
+    <item>Més ràpid</item>
     <item>Molt ràpid</item>
-    <item>Ràpida</item>
-    <item>Molt ràpid</item>
+    <item>Veloç</item>
+    <item>Molt veloç</item>
     <item>El més ràpid</item>
   </string-array>
   <string-array name="color_mode_names">

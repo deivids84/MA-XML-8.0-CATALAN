@@ -168,6 +168,10 @@
   <string name="notify_network_restricted_content_hidden_state">"La activitat en segon pla del compte Mi està restringida. Premeu per permetre."</string>
   <string name="notify_network_restricted_content_mobile_network">"L'accés a internet del compte Mi està restringit. Premeu per permetre."</string>
   <string name="notify_network_restricted_title">"El compte Mi no podria connectar a la xarxa"</string>
+  <string name="oauth_get_scopes_failed">"No s'ha pogut obtenir la informació del compte"</string>
+  <string name="oauth_getting_scopes">S\'està verificant el compte&#8230;</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; obtindrà els permisos següent:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Inici de sessió amb el compte Mi</string>
   <string name="other_devices_title">Altres dispositius</string>
   <string name="passport_access_denied">Accés denegat</string>
   <string name="passport_account_hint_text">Adreça email o identificador de compte Mi</string>
@@ -183,6 +187,7 @@
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya incorrectes</string>
+  <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
   <string name="passport_change_account">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">Comprovant contrasenya&#8230;</string>

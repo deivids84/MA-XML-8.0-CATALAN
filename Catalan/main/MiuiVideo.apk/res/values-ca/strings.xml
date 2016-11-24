@@ -90,6 +90,7 @@
   <string name="count_ge_media">%d vídeos</string>
   <string name="count_ji_quan">Tots els %d Eps</string>
   <string name="count_qi">Ep. %s</string>
+  <string name="create_tencent_shortcut_message">S\'ha creat una drecera a Tencent Video a l\'escriptori</string>
   <string name="data_buffering">Carregant memòria intermèdia</string>
   <string name="datastream_alert_download">Utilitza la connexió de dades mòbils per baixar vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_hint">Podeu desactivar les notificacions d\'ús de dades a Configuració</string>

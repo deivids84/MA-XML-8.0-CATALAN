@@ -5,7 +5,7 @@
   <string name="Disconnect">Desconnectar</string>
   <string name="Register">registrar</string>
   <string name="Start">Inicia</string>
-  <string name="StartScan">Escaneig d\'inici</string>
+  <string name="StartScan">Inicia l\'escaneig</string>
   <string name="Stop">Aturar</string>
   <string name="StopScan">Aturar escaneig</string>
   <string name="TestBonjour">Testar Bonjour</string>

@@ -57,15 +57,15 @@ Si més d\'un usuari fa servir el dispositiu, podeu habilitar-lo temporalment de
   <string name="accessibility_personal_account_title">Compte personal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botó d\'engegar penja la trucada</string>
   <string name="accessibility_screen_magnification_enable">Gestos per fer zoom</string>
-  <string name="accessibility_screen_magnification_summary">«Amb aquesta funció activa podeu tocar la pantalla 3 cops per fer zoom endavant i endarrere.
+  <string name="accessibility_screen_magnification_summary">"Amb aquesta funció activa, podeu apropar i allunyar el zoom amb tocar la pantalla tres vegades.
 
-Amb el zoom+ podeu:
-«&lt;li&gt;&lt;ul&gt;»Moure: Arrossegueu 2 o més dits per la pantalla.
-«&lt;li&gt;Ajustar el nivell de zoom: Acosteu o separeu els 2 dits.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;»
+Amb la imatge ampliada, podeu:
+\"&lt;li&gt;&lt;ul&gt;\"Desplaçar la imatge: Arrossegueu dos o més dits per la pantalla.
+\"&lt;li&gt;Ajustar el nivell de zoom: Pessigueu amb dos o més dits i separa\'ls mentre els arrossegues.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;\"
 
-També es pot ampliar temporalment what&amp;#8217;s el que hi ha a sota el dit, fent el triple toc i mantinguent-lo premut. Quan es veu ampliat, arrossegueu el dit per altres llocs de la pantalla. Per acabar l\'ampliació treieu el dit.
+També podeu ampliar el contingut seleccionat de forma temporal amb només tocar la pantalla tres vegades i mantenir-la premuda. Amb el contingut ampliat, podeu arrossegar el dit per explorar diferents parts de la pantalla. Aixequeu el dit per tornar a l\'estat anterior.
 
-Nota: El triple toc per ampliar funciona en qualsevol lloc excepte el teclat i la barra de navegació.»</string>
+Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol part, excepte en el teclat i en la barra de navegació."</string>
   <string name="accessibility_screen_magnification_title">Gestos per fer zoom</string>
   <string name="accessibility_service_default_description">Sense descripció.</string>
   <string name="accessibility_services_title">Serveis</string>
@@ -632,6 +632,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositiu anterior es substituirà pel dispositiu actual.</string>
   <string name="bluetooth_unlock_change_matched_device">Tria un altre dispositiu</string>
   <string name="bluetooth_unlock_confirm_device_text">Feu tocar els dispositius per desbloquejar-los.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Toqueu el botó del rellotge per desbloquejar.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Toqueu el botó del dispositiu per desbloquejar.</string>
   <string name="bluetooth_unlock_delete_device">Suprimeix el dispositiu</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Voleu eliminar aquest dispositiu?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilitza aquest dispositiu per desbloquejar-ho.</string>
@@ -787,6 +789,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="children_mode_title">Mode de mainada</string>
   <string name="choose_assist_title">Trieu l\'Assistent</string>
   <string name="choose_profile">Trieu el perfil</string>
+  <string name="choose_smartcover_type">Trieu el tipus de funda</string>
   <string name="choose_timezone">Trieu el fus horàri</string>
   <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
   <string name="cleaner">Netejador</string>
@@ -1435,7 +1438,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>Heu oblidat el patró?</u></string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
   <string name="forget_wifi_message">El telèfon no es tornarà a connectar automàticament a aquesta xarxa.</string>
@@ -1466,6 +1469,7 @@ Algunes aplicacions poden ser incompatibles fins que siguin actualitzades pels s
   <string name="free_xiaomi_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="frequently_fragment_delete">Suprimeix</string>
   <string name="frequently_fragment_tempty">Els elements freqüents es mostraran aquí</string>
+  <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
 Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius i de les aplicacions s\'emmagatzemaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos.»</string>
@@ -1687,6 +1691,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="large_font">Grossa</string>
   <string name="last_synced">Darrera sincronització %1$s</string>
   <string name="last_time_used_label">Darrer cop que es va fer servir</string>
+  <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
   <string name="launch_by_default">Obre de manera predeterminada</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
@@ -2216,6 +2221,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_updates_warning">El sistema ja està actualitzat</string>
   <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
+  <string name="normal_smartcover_title">Coberta opaca</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
@@ -3150,7 +3156,7 @@ Per fer-ho:
   <string name="search_sound_settings">So;Volums;Mode silenci;Alarma;Música;Vibració;To del telèfon;So predeterminat de notificació;Missatge rebut;Missatge lliurat;Tàctil;So de bloqueig de pantalla;Configuració d\'àudio;Suprimeix la fressa</string>
   <string name="search_status_bar">Notificacions de aplicació;Posició de commutadors;Velocitat de connexió;Nom de l\'operador;Notificació de captura;Pantalla de bloqueig</string>
   <string name="search_status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig;mostrar en pantalla de bloqueig</string>
   <string name="search_status_bar_settings_show_carrier">Mostra nom de l\'operador</string>
   <string name="search_status_bar_settings_show_network_speed">Mostra velocitat de connexió</string>
   <string name="search_status_bar_settings_show_notification_icon">Mostra icones de notificació</string>
@@ -3171,7 +3177,7 @@ Per fer-ho:
   <string name="search_touch_sensitive_title">Mode guants</string>
   <string name="search_trusted_credentials">Certificats de confiança</string>
   <string name="search_tts_settings_title">Sortida de cerca per veu</string>
-  <string name="search_turn_on_security_lock">Canvia el bloqueig de pantalla</string>
+  <string name="search_turn_on_security_lock">Canviar bloqueig de la pantalla;Bloqueig de pantalla;Edició de bloqueig de pantalla;edició de bloqueig de pantalla;bloqueig de pantalla</string>
   <string name="search_unlock_set">Pantalla de bloqueig automàtic;Informació del propietari;Son;Activa la pantalla de bloqueig;Contrasenya;Prevenció de trucades accidentals;Desbloqueig amb dispositiu Bluetooth</string>
   <string name="search_user_agreement">Termes del servei</string>
   <string name="search_user_dict_settings_title">Diccionari personal</string>
@@ -3431,6 +3437,9 @@ Per fer-ho:
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petita</string>
+  <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
+  <string name="smartcover_sensitive_summary">bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="sms_application_title">Aplicació de SMS</string>
   <string name="sms_change_default_dialog_text">Voleu utilitzar %1$s en comptes de %2$s com aplicació SMS predeterminada?</string>

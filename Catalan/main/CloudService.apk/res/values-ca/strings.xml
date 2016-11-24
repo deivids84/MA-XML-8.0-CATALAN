@@ -416,9 +416,11 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="search_cloudbackup_pref">Còpia de seguretat al núvol</string>
   <string name="search_cloudbackup_pref_desc">Activa/desactiva la còpia de seguretat al núvol</string>
   <string name="search_cloudbackup_pref_key_words">còpiadeseguretatalnúvol, còpia de seguretat al núvol</string>
+  <string name="search_cloudbackup_pref_path">El meu compte/El meu Núvol/dispositiu de còpia de seguretat</string>
   <string name="search_finddevice_pref">Troba el dispositiu</string>
   <string name="search_finddevice_pref_desc">Activa/desactiva Troba el dispositiu</string>
   <string name="search_finddevice_pref_key_words">trobaeldispositiu, troba el dispositiu</string>
+  <string name="search_finddevice_pref_path">El meu Compte/El meu Núvo/Troba dispositiu</string>
   <string name="setting">Configuració</string>
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>

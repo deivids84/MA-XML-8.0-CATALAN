@@ -11,7 +11,7 @@
   <string name="confirm_dialog_locked_title">Voleu eliminar el missatge bloquejat?</string>
   <string name="confirm_dialog_title">Voleu eliminar-lo?</string>
   <string name="copy_message_text">Copia</string>
-  <string name="copy_message_text_success">Text copiat</string>
+  <string name="copy_message_text_success">S\'ha copiat el text</string>
   <string name="delete">Elimina</string>
   <string name="delete_message">Elimina</string>
   <string name="from_label">"De: "</string>

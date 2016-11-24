@@ -30,6 +30,8 @@
   <string name="auto_play">Reprodueix automàticament quan estigui connectat a una Wi-Fi</string>
   <string name="auto_play_later">Més tard</string>
   <string name="auto_play_now">Activa</string>
+  <string name="auto_play_recommend">Reprodueix automàticament</string>
+  <string name="auto_play_recommend_tips">Inicia la reproducció de vídeos automàticament</string>
   <string name="auto_play_toast">Els vídeos es reproduiran automàticament. Podeu canviar-ho a la configuració.</string>
   <string name="backup_cancel">"No copiar"</string>
   <string name="backup_checkbox_msg">Copiar sempre i mostrar notificacions</string>
@@ -66,6 +68,7 @@
   <string name="category_favorite">Favorits</string>
   <string name="category_file">Fitxers</string>
   <string name="category_files">Fitxers</string>
+  <string name="category_installed_app">Aplicacions instal·lades</string>
   <string name="category_midrive">KuaiPan</string>
   <string name="category_music">Música</string>
   <string name="category_other">Altres</string>
@@ -115,6 +118,7 @@
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
   <string name="copy_text">Copiar text</string>
   <string name="copy_to">Copiar a&#8230;</string>
+  <string name="create_shortcut_success">S\'ha afegit una drecera</string>
   <string name="data_consumption_cancel">Sortir</string>
   <string name="data_consumption_checkbox_hint">"No mostrar de nou"</string>
   <string name="data_consumption_confirm">D\'acord</string>
@@ -147,6 +151,7 @@
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
   <string name="delete_video_dialog_title">Esborrar vídeo</string>
   <string name="delete_video_success">Eliminat amb èxit</string>
+  <string name="deleted_video_msg">"Arribeu una mica tard. Aquest vídeo s'ha suprimit."</string>
   <string name="dialog_logout_message">Tancar la sessió ara?</string>
   <string name="dialog_logout_title">Tancar la sessió</string>
   <string name="dialog_select_type">Triar tipus</string>
@@ -203,6 +208,8 @@
   <string name="follow_fail">"No s'ha pogut seguir, torneu a provar-ho més tard"</string>
   <string name="follow_tip_1">Seguiu-me per veure més vídeos</string>
   <string name="follow_tip_2">Seguiu-me per veure més vídeos</string>
+  <string name="force_touch_clean">Neteja</string>
+  <string name="force_touch_search">Cerca fitxers</string>
   <string name="found_router">Router connectat</string>
   <string name="found_usb">Emmagatzematge USB connectat</string>
   <string name="ftp_account_req_notice">4-16 caràcters, lletres i números, majúscules i minúscules</string>
@@ -241,6 +248,7 @@
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
   <string name="instruction_pre">Tocar per iniciar el servidor FTP</string>
   <string name="interest_recommend">Vídeos recomanats</string>
+  <string name="is_playing">S\'està reproduint&#8230;</string>
   <string name="just_now">ara</string>
   <string name="kilobyteShort">KB</string>
   <string name="kuaipan_label">Kuaipan</string>
@@ -254,9 +262,11 @@
   <string name="local_music">Música</string>
   <string name="local_video">Vídeo</string>
   <string name="login">Iniciar sessió</string>
+  <string name="login_account_bind_qq">Compte QQ</string>
   <string name="login_account_bind_skip">Saltar</string>
   <string name="login_account_bind_tip">Un bon àlies i avatar faran que els teus vídeos siguin més populars</string>
   <string name="login_account_bind_title">Afegir un compte de tercers</string>
+  <string name="login_account_bind_wb">Compte Weibo</string>
   <string name="login_account_bind_wx">Usar WeChat</string>
   <string name="login_account_bind_xm">Usar Compte Mi</string>
   <string name="login_expired">Sessió expirada, connectar-se de nou</string>
@@ -282,6 +292,7 @@
   <string name="menu_item_sort_type">Tipus</string>
   <string name="menu_item_usb">USB</string>
   <string name="message_comment_prefix">"Comentari: "</string>
+  <string name="message_my_received_notification">Missatge nou</string>
   <string name="message_my_received_praise">Els meus M\'agrada</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" m'agrada aquest comentari"</string>
@@ -408,6 +419,7 @@
   <string name="phone_code_et_hint">Entrar codi de verificació</string>
   <string name="phone_get_code_tip">Massa intents per obtenir el codi avui</string>
   <string name="phone_has_used_tip">Aquest telèfon està associat a un compte existent, intenti amb un diferent.</string>
+  <string name="phone_login_btn_str">Número de telèfon</string>
   <string name="phone_login_title">Telèfon</string>
   <string name="phone_num">Número de telèfon</string>
   <string name="phone_num_et_hint">Entrar número telefònic</string>
@@ -432,6 +444,7 @@
   <string name="pick_file">Seleccioneu fitxers</string>
   <string name="pick_folder">Triar carpeta</string>
   <string name="popup_msg_qq">Compartiu aquest vídeo amb els amics de QQ.</string>
+  <string name="popup_msg_wb">És un bon vídeo? Compartiu-lo amb els vostres amics de Weibo!</string>
   <string name="popup_msg_wx">Compartiu aquest vídeo amb els amics de WeChat.</string>
   <string name="port_range">El port ha d\'estar entre 1024 i 65535</string>
   <string name="private_files">Ocults</string>
@@ -441,6 +454,8 @@
   <string name="private_toast_hint2">Per amagar un fitxer, prem i manté, després afegeix-ho a una carpeta oculta.</string>
   <string name="private_toast_hint3">Tira per obrir les carpetes ocultes</string>
   <string name="promot_enctypt_password">Introdueix la contrasenya utilitzada per desbloquejar el dispositiu o apagar el Mode nen</string>
+  <string name="qq_btn_bind">QQ</string>
+  <string name="qq_login_btn_str">QQ</string>
   <string name="qq_not_installed">"QQ no està instal·lat"</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
@@ -516,9 +531,19 @@
   <string name="setting">Configuració</string>
   <string name="setting_account_bind">Afegir compte</string>
   <string name="setting_message_notify">Notificacions</string>
+  <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
   <string name="share_success">Compartit amb èxit</string>
   <string name="share_tip_1">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
   <string name="share_tip_2">Gràcies per compartir-ho, seguiu-me per veure més vídeos</string>
+  <string name="share_title_01">"%1$s Aquí teniu un vídeo guai! %2$s"</string>
+  <string name="share_title_02">"%1$s Aquí teniu un vídeo guai!"</string>
+  <string name="share_title_03">"%1$s Aquí teniu un vídeo guai! %2$s"</string>
+  <string name="share_title_04">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_05">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_06">%1$s He compartit un vídeo, feu una ullada! %2$s</string>
+  <string name="share_title_07">%s He compartit un vídeo, feu una ullada!</string>
+  <string name="share_title_08">%s He compartit un vídeo, feu una ullada!</string>
+  <string name="share_title_09">%s He compartit un vídeo, feu una ullada!</string>
   <string name="share_title_1">Trobat nou paquet d\'adhesius!</string>
   <string name="share_to">Compartir per&#8230;</string>
   <string name="share_youliao1">Actualitzeu per veure més capítols.</string>
@@ -533,6 +558,9 @@
 (Els GIFs es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
   <string name="shared_sticker_use_tip_title">Com utilitzar adhesius</string>
   <string name="shared_str">Compartit per %s</string>
+  <string name="shortcut_exists">La drecera ja existeix</string>
+  <string name="shortcut_hotvideos">Vídeos populars</string>
+  <string name="shortcut_msg">Afegeix una drecera a la pantalla d\'inici per als vídeos populars</string>
   <string name="smb_loading">Un moment&#8230;</string>
   <string name="sort_size_asc">De petit a gran</string>
   <string name="sort_size_desc">De gran a petit</string>
@@ -626,6 +654,7 @@
   <string name="user_follow_me_title">Els meus seguidors</string>
   <string name="user_follow_title">Persones que segueixo</string>
   <string name="user_guide_continue_use">D\'acord</string>
+  <string name="user_guide_more_login">Altres maneres d\'iniciar sessió</string>
   <string name="user_icon">Foto del perfil</string>
   <string name="user_info_setting">Editar la informació</string>
   <string name="user_like_text">M\'agrada</string>
@@ -697,6 +726,8 @@
   <string name="video_play_failed">Error desconegut</string>
   <string name="video_publish_hint">Una bona descripció ajudarà al fet que altres persones trobin el teu vídeo</string>
   <string name="video_publish_hint2">Descripció</string>
+  <string name="video_publish_origin_tag">Etiqueta original</string>
+  <string name="video_publish_watchable_tag">Seguiu-me per veure aquest vídeo</string>
   <string name="video_recommend_upload">Recomanat</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
@@ -717,10 +748,15 @@
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>
   <string name="view_more_sticker">Veure més adhesius</string>
+  <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
+  <string name="wechat_login_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Vídeo a %s</string>
+  <string name="weibo_login_btn_str">Weibo</string>
+  <string name="weibo_share_success">S\'ha compartit amb èxit</string>
+  <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat no està instal·lat"</string>
   <string name="weixin_sticker_tag_str">Adhesius de WeChat</string>
   <string name="welcome_to_my_page">Benvinguts a la meva pàgina inicial</string>
@@ -730,6 +766,7 @@
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Compte Mi</string>
   <string name="xiaomi_btn_str">Mi</string>
+  <string name="xiaomi_login_btn_str">Compte Mi</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Sí</string>
   <string name="yesterday">Ahir</string>

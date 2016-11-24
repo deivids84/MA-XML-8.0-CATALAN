@@ -8,10 +8,10 @@
   <string name="blocked_notification_title_template">S\'ha bloquejat la impressora %1$s</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancelling_notification_title_template">S\'està cancel·lant %1$s</string>
-  <string name="choose_print_service">Selecció d\'un servei d\'impressió</string>
-  <string name="collapse_handle">Reducció</string>
+  <string name="choose_print_service">Seleccioneu un servei d\'impressió</string>
+  <string name="collapse_handle">Amaga la llista</string>
   <string name="current_page_template">%1$d /%2$d</string>
-  <string name="expand_handle">Ampliació</string>
+  <string name="expand_handle">Mostra la llista</string>
   <string name="failed_notification_title_template">Error d\'impressora %1$s</string>
   <string name="generating_print_job">S\'està generant una tasca d\'impressió</string>
   <string name="install_for_print_preview">Per veure-ho, instal·leu un visualitzador de PDF</string>
@@ -40,19 +40,19 @@
   <string name="print_add_printer">Afegeix una impressora</string>
   <string name="print_button">Imprimeix</string>
   <string name="print_dialog">Diàleg d\'impressió</string>
-  <string name="print_error_default_message">"Ha fallat. Torneu-ho a provar."</string>
+  <string name="print_error_default_message">"Ha fallat. Torneu a provar-ho."</string>
   <string name="print_error_printer_unavailable">"La impressora no és disponible."</string>
-  <string name="print_error_retry">Reintenta-ho</string>
+  <string name="print_error_retry">Torna a intentar-ho</string>
   <string name="print_forget_printer">Oblida la impressora</string>
   <string name="print_no_printers">No s\'ha trobat cap impressora</string>
   <string name="print_options_collapsed">Opcions d\'impressió reduïdes</string>
   <string name="print_options_expanded">Opcions d\'impressió ampliades</string>
-  <string name="print_preparing_preview">S\'està preparant la previsualització&#8230;</string>
+  <string name="print_preparing_preview">S\'està preparant la vista prèvia&#8230;</string>
   <string name="print_preview">Vista prèvia</string>
   <string name="print_search_box_hidden_utterance">S\'ha amagat el quadre de cerca</string>
   <string name="print_search_box_shown_utterance">Es mostra el quadre de cerca</string>
   <string name="print_searching_for_printers">S\'estan cercant impressores</string>
-  <string name="print_select_printer">Selecció de la impressora</string>
+  <string name="print_select_printer">Seleccioneu una impressora</string>
   <string name="print_write_error_message">"No s'ha pogut escriure en el fitxer"</string>
   <string name="printer_unavailable">%1$s – no disponible</string>
   <string name="printing_app_crashed">Ha fallat l\'aplicació d\'impressió</string>
@@ -63,6 +63,6 @@
   <string name="savetopdf_button">Desa com a PDF</string>
   <string name="search">Cerca</string>
   <string name="summary_template">Resum, còpies %1$s, mida del paper %2$s</string>
-  <string name="template_all_pages">Tots les %1$s</string>
+  <string name="template_all_pages">Totes %1$s</string>
   <string name="template_page_range">Interval de %1$s</string>
 </resources>

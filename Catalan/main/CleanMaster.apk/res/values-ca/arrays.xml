@@ -14,7 +14,7 @@
     <item>Mida</item>
   </string-array>
   <string-array name="auto_clean_time">
-    <item>Tots els dies</item>
+    <item>Diàriament</item>
     <item>Cada 3 dies</item>
     <item>Cada 7 dies</item>
   </string-array>

@@ -7,7 +7,7 @@
     <item>Mostra-ho temporalment en mode apaïsat</item>
   </string-array>
   <string-array name="motion_behavior_entries">
-    <item>Feu lliscar</item>
+    <item>Llisqueu</item>
     <item>Toqueu</item>
   </string-array>
 </resources>

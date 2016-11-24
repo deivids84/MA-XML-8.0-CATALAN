@@ -16,10 +16,10 @@
   <string name="mobile_data">"Dades mòbils: "</string>
   <string name="mobile_data_off">desactivat</string>
   <string name="mobile_data_on">activat</string>
-  <string name="multi_sim_settings_title">Configuració dual SIM</string>
-  <string name="new_sim_detected">S\'ha detectat una nova targeta SIM:</string>
+  <string name="multi_sim_settings_title">Configuració de SIM dual</string>
+  <string name="new_sim_detected">S\'ha detectat una targeta SIM nova:</string>
   <string name="reg_failed">Ha fallat el registre</string>
-  <string name="reg_failed_msg">El registre de la targeta SIM 3G/LTE predeterminada ha fallat, %1$s serà reconeguda com una targeta SIM 2G.</string>
+  <string name="reg_failed_msg">El registre de la targeta SIM 3G/LTE predeterminada ha fallat, %1$s es reconeixerà com una targeta SIM 2G.</string>
   <string name="reg_suc">S\'ha registrat amb èxit</string>
   <string name="select_cancel">Cancel·la</string>
   <string name="select_ok">D\'acord</string>

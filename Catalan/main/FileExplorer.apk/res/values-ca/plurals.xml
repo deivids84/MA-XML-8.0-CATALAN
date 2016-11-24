@@ -153,4 +153,8 @@
     <item quantity="other">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidors!</item>
     <item quantity="one">• Teniu &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!</item>
   </plurals>
+  <plurals name="video_publish_watchable_hint">
+    <item quantity="other">Obtén %1$d seguidors més per actualitzar el vostre estat</item>
+    <item quantity="one">Obtén %1$d seguidor més per actualitzar el vostre estat</item>
+  </plurals>
 </resources>

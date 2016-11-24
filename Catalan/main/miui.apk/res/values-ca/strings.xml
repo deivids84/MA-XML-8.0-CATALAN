@@ -268,5 +268,6 @@
   <string name="wednesday">Dimecres</string>
   <string name="wednesday_short">Dc.</string>
   <string name="wednesday_shortest">Dc.</string>
+  <string name="xiaomi_mobile">Xiaomi mòbil</string>
   <string name="yesterday">Ahir</string>
 </resources>
