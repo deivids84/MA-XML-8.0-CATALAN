@@ -211,7 +211,7 @@ per reactivar aquesta funcionalitat."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connexió expirada. Intenta-ho més tard.</string>
   <string name="micloud_find_device_guide_micloud">Activa sincronització amb Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronitza contactes, fotos, notes i més amb Mi Cloud</string>
-  <string name="micloud_find_device_guide_noti_content">Protegeixi les seves dades fins i tot quan es perdi el dispositiu</string>
+  <string name="micloud_find_device_guide_noti_content">Protegiu les vostres dades fins i tot quan es perdi el vostre dispositiu</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Les seves dades de QQ estaran segures fins i tot si perd el seu dispositiu</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Les seves dades de WeChat estaran segures fins i tot si perd el seu dispositiu</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Les seves dades a Alipay estaran segures fins i tot si perd el seu dispositiu</string>

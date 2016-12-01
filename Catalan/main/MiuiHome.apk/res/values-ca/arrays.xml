@@ -52,12 +52,6 @@
     <item>Pols</item>
     <item>Calitja</item>
   </string-array>
-  <string-array name="editing_mode_entries">
-    <item>Mou icones</item>
-    <item>Ginys</item>
-    <item>Fons</item>
-    <item>Transicions</item>
-  </string-array>
   <string-array name="quality_business_devices">
     <item>Lithium</item>
   </string-array>

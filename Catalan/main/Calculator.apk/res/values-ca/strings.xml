@@ -135,7 +135,7 @@
   <string name="tanDesc">tangent</string>
   <string name="tax_accumulation_fund">Fons d\'acumulació</string>
   <string name="tax_annual_bonus_hint">Introduïu la bonificació abans d\'impostos</string>
-  <string name="tax_annual_bonus_number">Bonificació</string>
+  <string name="tax_annual_bonus_number">Bonificació tributària</string>
   <string name="tax_birth">Naixement</string>
   <string name="tax_cal_method_annual">Càlcul de bonificació anual</string>
   <string name="tax_cal_method_fixed_salary">Càlcul de l\'impost sobre la renda</string>

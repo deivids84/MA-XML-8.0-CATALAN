@@ -167,7 +167,7 @@ Vè. Pot："</string>
   <string name="update_pattern_jump">&lt;u&gt;Elimina la contrasenya&lt;/u&gt;</string>
   <string name="version_preference_title">Versió</string>
   <string name="welcome_page_alert">"Nota: Si us plau no esborreu la patró, altrament no podrà iniciar sessió"</string>
-  <string name="welcome_page_details">"- Protegeixi la seva informació del robatori maliciós de tercers.
-- La pèrdua del telèfon pot causar problemes de seguretat en els seus comptes de correu, xarxes socials, etc."</string>
+  <string name="welcome_page_details">"- Manteniu el vostre compte segur.
+- Eviteu que desconeguts utilitzin el vostre dispositiu per iniciar la sessió al vostre compte."</string>
   <string name="welcome_page_title">Benvingut al compte de protecció d\'accés de Xiaomi</string>
 </resources>

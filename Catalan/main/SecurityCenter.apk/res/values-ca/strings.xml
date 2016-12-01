@@ -270,7 +270,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_quick_antivirus">Arregla</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_optimize">Optimitzar</string>
-  <string name="btn_text_quick_save_power">Refredar</string>
+  <string name="btn_text_quick_save_power">Refreda</string>
   <string name="btn_text_quick_scan">Escanejar</string>
   <string name="btn_text_start_check">Escanejar</string>
   <string name="btn_text_stop">Aturar</string>
@@ -814,7 +814,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="none_mi_service_app_detail">Buit</string>
   <string name="notification_battery_consume_abnormal_summary">Drenat %2$s de la bateria durant els últims %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
-  <string name="notification_battery_over_heat_summary">\"Trobar què causa l\'escalfament i refredar el dispositiu.</string>
+  <string name="notification_battery_over_heat_summary">Troba què causa escalfament i refreda el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
   <string name="notification_charging_title">"S'està carregant "</string>
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
@@ -1239,8 +1239,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="scanning_bar_system_title">Escanejant sistema&#8230;</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="section_clear_acc_item_title">"Alliberats %s. Si encara no hi ha suficient emmagatzematge, intenta utilitzar el netejador."</string>
-  <string name="section_security_defend_item_title">Protegeixi les seves dades amb el bloquejador d\'aplicacions</string>
+  <string name="section_clear_acc_item_title">"%s. Si encara no hi ha suficient emmagatzematge, intenteu utilitzar el netejador."</string>
+  <string name="section_security_defend_item_title">Protegiu les vostres dades amb el bloquejador d\'aplicacions</string>
   <string name="section_system_item_fixed">Fix</string>
   <string name="section_title_clear_acc">Esborra la memòria cau</string>
   <string name="section_title_security_defend">Seguretat</string>
@@ -1471,11 +1471,11 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
   <string name="tips_message">"Si no té clars els detalls del seu pla de dades pot veure'ls trucant al %2$s (%1$s)."</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
-  <string name="tips_of_auto_launch_manage">Eviteu que aplicacions que es fan servir poc s\'iniciïn automàticament</string>
+  <string name="tips_of_auto_launch_manage">Evita que aplicacions que es fan servir poc s\'iniciïn automàticament</string>
   <string name="tips_of_operators_set">Ajusteu automàticament les estadístiques d\'ús de dades</string>
   <string name="tips_of_package_set">Establiu el vostre pla de dades i controleu la quantitat de trànsit que feu servir</string>
   <string name="tips_of_traffic_pack_threshold">"Compreu més dades quan estiguis a punt d'arribar al teu límit"</string>
-  <string name="tips_of_virus_scan">Escanegeu el dispositiu per mantenir lliure de virus i més segur</string>
+  <string name="tips_of_virus_scan">Escanegeu regularment el vostre dispositiu per detectar virus i mantenir-lo segur</string>
   <string name="title_app_lock_disable">Aplicacions bloquejades</string>
   <string name="title_app_update">Actualitzacions disponibles</string>
   <string name="title_auto_update">Actualització automàtica</string>
