@@ -341,7 +341,7 @@ i s\'ha activat Mi Mover"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar amb el gestor de baixades. Comproveu-ne l'estat des de l'administrador d'aplicacions."</string>
-  <string name="xiaomi_external_storage_unavailable">Emmagatzematge no disponible, comproveu la targeta SD.</string>
+  <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>

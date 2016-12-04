@@ -157,4 +157,8 @@
     <item quantity="other">Obtén %1$d seguidors més per actualitzar el vostre estat</item>
     <item quantity="one">Obtén %1$d seguidor més per actualitzar el vostre estat</item>
   </plurals>
+  <plurals name="follow_count">
+    <item quantity="other">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidors</item>
+    <item quantity="one">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidor</item>
+  </plurals>
 </resources>

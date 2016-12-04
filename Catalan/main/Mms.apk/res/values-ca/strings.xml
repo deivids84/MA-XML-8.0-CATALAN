@@ -382,7 +382,6 @@
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
   <string name="pref_forward_title">Endavant</string>
-  <string name="pref_message_recovery_introduction_title">Recupera el missatge</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_notification_settings_title">Notificacions</string>

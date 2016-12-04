@@ -93,6 +93,7 @@
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
+  <string name="feedback_submit_hint">En Informar-nos d\'errors cada vegada que es troba amb problemes per ajudar-nos a resoldre\'ls amb més rapidesa.</string>
   <string name="feedback_submit_hint1">"Us informarem sobre el progrés de l'informe"</string>
   <string name="feedback_submit_hint2">Aneu a «Els meus informes» per veure\'n els detalls</string>
   <string name="feedback_submit_succ">S\'ha enviat correctament</string>
@@ -272,6 +273,7 @@
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
+  <string name="toast_post_deleted">"En aquest tema no existeix, s'ha eliminat o editat."</string>
   <string name="toast_problem_class_required">Seleccioneu una categoria</string>
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>

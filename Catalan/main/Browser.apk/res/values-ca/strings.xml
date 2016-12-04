@@ -48,6 +48,7 @@
   <string name="action_menu_useful_page">Afegeix una drecera</string>
   <string name="action_menu_useful_page_added">Afegit a la pàgina d\'inici</string>
   <string name="actionbar_share">Comparteix</string>
+  <string name="actionbar_textselection_title">Selecció de text</string>
   <string name="actionbar_web_search">Cerca al web</string>
   <string name="adblock_force_updating_rules_toast">S\'està actualitzant el bloquejador d\'anuncis</string>
   <string name="adblock_notification">%d anuncis bloquejats</string>
@@ -85,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_pure">Excel·lent</string>
   <string name="aqi_quality_index_unhealthy">Perjudicial</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles</string>
   <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent amb emplenament automàtic</string>
   <string name="autologin_bar_error">"No s'ha pogut iniciar la sessió"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
@@ -199,9 +201,9 @@
 està a punt de succeir"</string>
   <string name="custom_head_card_text_incognito">"Ara sou en mode d\'incògnit!
 Les pàgines que visiteu no es veuran reflectides en l\'historial"</string>
-  <string name="data_traffic_prompt_change">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
-  <string name="data_traffic_prompt_message">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals."</string>
-  <string name="data_traffic_prompt_message_short">"Si s'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades."</string>
+  <string name="data_traffic_prompt_change">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals.</string>
+  <string name="data_traffic_prompt_message">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria carregar-vos despeses addicionals.</string>
+  <string name="data_traffic_prompt_message_short">Si s\'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades.</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
   <string name="date_picker_dialog_clear">Esborra</string>
   <string name="date_picker_dialog_other_button_label">Altres</string>
@@ -372,9 +374,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="media_error_timeout">S\'ha excedit el temps de connexió a la xarxa</string>
   <string name="media_error_video_not_exist">"El vídeo no existeix"</string>
   <string name="media_player_error_button">D\'acord</string>
-  <string name="media_player_error_text_invalid_progressive_playback">"No es pot transmetre aquest vídeo en aquest dispositiu."</string>
-  <string name="media_player_error_text_unknown">"No es pot reproduir el vídeo."</string>
-  <string name="media_player_error_title">"No es pot reproduir vídeo"</string>
+  <string name="media_player_error_text_invalid_progressive_playback">No es pot transmetre aquest vídeo en aquest dispositiu.</string>
+  <string name="media_player_error_text_unknown">No es pot reproduir el vídeo.</string>
+  <string name="media_player_error_title">No es pot reproduir vídeo</string>
   <string name="media_player_loading_video">Carregant el vídeo</string>
   <string name="menu_addtodesk">Afegeix a la pantalla d\'inici</string>
   <string name="menu_exit_nightmode">Surt</string>
@@ -487,6 +489,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="paused_waiting_to_retry">Esperant a reintentar&#8230;</string>
   <string name="pay_failed_toast">"No s'ha pogut completar el pagament"</string>
   <string name="pay_success_toast">S\'ha pagat correctament</string>
+  <string name="permission_alert_window">Permet les finestres emergents per utilitzar aquesta funció</string>
+  <string name="permission_unknown">Acció desconeguda</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">En tot cas apaga</string>
   <string name="pref_accessibility">Accessibilitat</string>
@@ -743,6 +747,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="unsecurity_url_toast">"Aquesta web no és segura"</string>
   <string name="up_to_loading_tips">Allibereu per actualitzar</string>
   <string name="update_no_network_toast">"No es pot connectar a la xarxa"</string>
+  <string name="updating_chrome">S\'està actualitzant Chrome...</string>
   <string name="uploads_disabled">La pujada de fitxers està desactivada</string>
   <string name="url_copy_done">La URL s\'ha copiat al porta-retalls</string>
   <string name="url_find_on_page_result">Mostra al Navegador</string>

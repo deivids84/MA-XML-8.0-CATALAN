@@ -84,6 +84,10 @@
   <string name="remind_ringtone">So</string>
   <string name="reset">Reinicialitza</string>
   <string name="revert">Anul·la</string>
+  <string name="search_alarm_clock_keywords">Alarma; Despertador;</string>
+  <string name="search_stopwatch_keywords">Cronòmetre</string>
+  <string name="search_timer_keywords">Temporitzador</string>
+  <string name="search_worldclock_keywords">Hora;Rellotge mundial;Rellotge</string>
   <string name="set_alarm">Estableix l\'alarma</string>
   <string name="setting_alarm_arriving_summary">Envia una notificació abans de sonar</string>
   <string name="setting_alarm_arriving_title">Notificació abans de sonar</string>

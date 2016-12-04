@@ -19,7 +19,6 @@
   <string name="device_owner_cancel_cancel">CANCEL·LA</string>
   <string name="device_owner_cancel_message">"Voleu plegar de configurar el dispositiu i esborrar-ne les dades?"</string>
   <string name="device_owner_error_already_provisioned">Aquest dispositiu ja s\'ha configurat.</string>
-  <string name="device_owner_error_already_provisioned_user">El dispositiu ja està configurat per a aquest usuari.</string>
   <string name="device_owner_error_download_failed">"No s'ha pogut baixar l'aplicació d'administració"</string>
   <string name="device_owner_error_frp">El dispositiu està bloquejat contra el restabliment de fàbrica. Contacteu amb el Departament d\'informàtica.</string>
   <string name="device_owner_error_general">"No s'ha pogut configurar. Contacteu amb el Departament d'informàtica."</string>
@@ -27,12 +26,9 @@
   <string name="device_owner_error_installation_failed">"No s'ha pogut instal·lar l'aplicació d'administració"</string>
   <string name="device_owner_error_ok">D’acord</string>
   <string name="device_owner_error_package_invalid">"No es utilitzar l'aplicació d'administració perquè s'ha malmès o hi manquen components. Contacteu amb el Departament d'informàtica."</string>
-  <string name="device_owner_error_package_name_invalid">"No es pot instal·lar l'aplicació d'administració. El nom del paquet no és vàlid. Contacteu amb el Departament d'informàtica."</string>
-  <string name="device_owner_error_package_not_installed">"L'aplicació d'administració no està instal·lada al dispositiu"</string>
   <string name="device_owner_error_reset">REINICIALITZA</string>
   <string name="device_owner_error_wifi">"No s'ha pogut connectar a la Wi-Fi"</string>
   <string name="device_owner_exists">Els perfils professionals no es poden configurar en un dispositiu gestionat</string>
-  <string name="encrypt_device_cancel">CANCEL·LA</string>
   <string name="encrypt_device_launch_settings">XIFRATGE</string>
   <string name="encrypt_device_text_for_device_owner_setup">"Per continuar configurant el dispositiu, l'heu de xifrar. És possible que trigui una mica."</string>
   <string name="encrypt_device_text_for_profile_owner_setup">"Per continuar configurant el perfil de feina, cal que xifreu el dispositiu. Això pot portar una estona."</string>
@@ -61,7 +57,6 @@
   <string name="provisioning">Provisionament</string>
   <string name="provisioning_error_title">Vaja!</string>
   <string name="read_more_delete_profile">Abans de continuar, &lt;a href=\"#read_this_link\"&gt;llegiu això&lt;/a&gt;.</string>
-  <string name="set_up">Configura</string>
   <string name="setting_up_workspace">S\'està configurant el perfil professional&#8230;</string>
   <string name="setup_device_encryption">Configura el dispositiu. Xifratge</string>
   <string name="setup_device_progress">Configureu el dispositiu. S\'està mostrant el progrés</string>
@@ -78,7 +73,6 @@
   <string name="the_following_is_your_mdm">La següent aplicació haurà d\'accedir a aquest perfil:</string>
   <string name="the_following_is_your_mdm_for_device">La següent aplicació administrarà el dispositiu:</string>
   <string name="theft_protection_disabled_warning">Si continueu, no s\'habilitaran les funcions contra robatori. Per activar la protecció contra robatori, cancel·leu ara i instal·leu això com un dispositiu personal.</string>
-  <string name="user_is_not_owner">Els perfils professionals han de ser establerts per l\'usuari principal del dispositiu</string>
   <string name="work_profile_setup_continue">CONTINUA</string>
   <string name="work_profile_setup_later_message">Podreu configurar el perfil professional posterior aplicació de gestió utilitzat per la seva empresa.</string>
   <string name="work_profile_setup_later_title">Voleu aturar la configuració del perfil?</string>

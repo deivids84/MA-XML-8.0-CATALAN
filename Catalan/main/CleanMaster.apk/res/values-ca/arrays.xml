@@ -26,7 +26,7 @@
   </string-array>
   <string-array name="auto_process_mode">
     <item>Mostra</item>
-    <item>"No ho mostris"</item>
+    <item>No ho mostris</item>
     <item>Mostra-ho després</item>
   </string-array>
   <string-array name="cache_clean_menu">

@@ -80,8 +80,6 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_audio_right_caldata">"Dades de calibratge del PA dret: 
 "</string>
   <string name="cit_audio_right_calfail">El calibratge del PA dret ha fallat</string>
-  <string name="cit_battery_check_summary">Estadístiques de la bateria del dispositiu</string>
-  <string name="cit_battery_check_title">Informació de la bateria</string>
   <string name="cit_battery_temp_fail">La temperatura de la bateria no és normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">La temperatura de la bateria és normal</string>
   <string name="cit_batterylight_blue">Blau</string>
@@ -123,8 +121,6 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_exit_test_title">Surt de la prova</string>
   <string name="cit_fail">Ha fallat</string>
   <string name="cit_finger_check_title">Prova d\'empremta (FPC)</string>
-  <string name="cit_flash_life_check_summary">Temps estimat de vida del flaix del dispositiu</string>
-  <string name="cit_flash_life_check_title">Vida del flaix</string>
   <string name="cit_fm_audio_path">Configura la ruta d\'àudio</string>
   <string name="cit_fm_audio_path_headset">Auriculars</string>
   <string name="cit_fm_audio_path_speaker">Altaveu</string>

@@ -11,7 +11,7 @@
   <string name="change_default_dialer_with_previous_app_set_text">Voleu utilitzar %1$s en lloc de %2$s com aplicació de marcador predeterminada?</string>
   <string name="dial_conference_fail_prompt">"No es pot marcar una conferència directament perquè la xarxa actual no és compatible amb VoLTE."</string>
   <string name="dial_vt_fail_prompt">"La xarxa actual no és compatible amb VoLTE. Voleu canviar a una trucada de veu normal?"</string>
-  <string name="duplicate_video_call_not_allowed">"La trucada no es pot afegir ara mateix."</string>
+  <string name="duplicate_video_call_not_allowed">La trucada no es pot afegir ara mateix.</string>
   <string name="enable_account_preference_title">Comptes de trucada</string>
   <string name="handle_restricted">RESTRINGIT</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
@@ -25,7 +25,7 @@
   <string name="notification_missedCallsMsg">%s trucades perdudes</string>
   <string name="notification_missedCallsTitle">Trucades perdudes</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
-  <string name="outgoing_call_not_allowed_no_permission">"Aquesta aplicació no pot fer trucades sense el permís del telèfon."</string>
+  <string name="outgoing_call_not_allowed_no_permission">Aquesta aplicació no pot fer trucades sense el permís del telèfon.</string>
   <string name="outgoing_call_not_allowed_user_restriction">El propietari del dispositiu només admet trucades d\'emergència.</string>
   <string name="respond_via_sms_canned_response_1">"Ara no puc parlar. Què passa?"</string>
   <string name="respond_via_sms_canned_response_2">"Et truco de seguida."</string>
@@ -46,7 +46,6 @@
   <string name="test_account_3_short_description">Converseu amb els usuaris del Chat Network</string>
   <string name="unknown">Desconegut</string>
   <string name="userCallActivityLabel">Telèfon</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Desactiveu el mode TTY per fer trucades de vídeo.</string>
   <string name="voice_dial_out">Trucada de veu</string>
   <string name="voice_report_incoming_call">Trucada entrant</string>
   <string name="voice_report_unknown_num">Número desconegut</string>

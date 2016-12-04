@@ -1177,6 +1177,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="toast_making_personal_copy">Creant una còpia personal&#8230;</string>
   <string name="toast_text_copied">Text copiat</string>
   <string name="today">Avui</string>
+  <string name="tomorrow">Demà</string>
   <string name="transfer_accounts">Transferir comptes</string>
   <string name="type_incoming">Trucada entrant</string>
   <string name="type_missed">Trucada perduda</string>
@@ -1263,5 +1264,6 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
   <string name="yellowpage_search_the_yellowpage">Buscar en les pàgines grogues</string>
   <string name="yellowpage_user_profile">Perfil</string>
+  <string name="yesterday">Ahir</string>
   <string name="zero_items_selected">Seleccionar elements</string>
 </resources>

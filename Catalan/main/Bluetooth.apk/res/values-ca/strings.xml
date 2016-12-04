@@ -10,6 +10,8 @@
   <string name="auth_notif_message">Introduïu la clau de sessió per a %1$s</string>
   <string name="auth_notif_ticker">Sol·licitud d\'autenticació OBEX</string>
   <string name="auth_notif_title">Clau de sessió</string>
+  <string name="bluetooth_connected">Àudio Bluetooth connectat</string>
+  <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
   <string name="bluetooth_in_airplane_mode">En mode avió</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
   <string name="bluetooth_map_settings_cancel">Cancel·la</string>
@@ -64,6 +66,7 @@
   <string name="inbound_history_title">Transferències d\'entrada</string>
   <string name="inbound_noti_title">Bluetooth: Fitxers rebuts</string>
   <string name="incoming_file_confirm_Notification_caption">Voleu rebre aquest fitxer?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s està llest per enviar %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Fitxer entrant</string>
   <string name="incoming_file_confirm_cancel">Rebutja</string>
   <string name="incoming_file_confirm_content">Accepteu el fitxer entrant?</string>

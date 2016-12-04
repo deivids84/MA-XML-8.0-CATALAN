@@ -3,7 +3,6 @@
 <resources>
   <string name="app_label">Intèrpret d\'ordres</string>
   <string name="bugreport_confirm">"Els informes d'errors contenen dades de diversos fitxers de registre del sistema, inclosa informació personal i privada. Compartiu els informes d'error només amb les aplicacions i persones de la vostra confiança."</string>
-  <string name="bugreport_confirm_repeat">Mostra aquest missatge la propera vegada</string>
   <string name="bugreport_finished_text">Toqueu per compartir l\'informe d\'error</string>
   <string name="bugreport_finished_title">S\'ha capturat l\'informe d\'error</string>
   <string name="bugreport_storage_title">Informes d\'errors</string>

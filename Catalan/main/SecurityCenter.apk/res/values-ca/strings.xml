@@ -369,7 +369,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="connecting">S\'està connectant&#8230;</string>
   <string name="continue_install">Instal·lar</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
-  <string name="convenient_summary">"No demanar la contrasenya després d'haver desbloquejat 1 aplicació"</string>
+  <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
   <string name="correction_attention_dialog_message">S\'estan aplicant els ajustos. Espereu fins que acabi el procés i torneu a provar.</string>
   <string name="cta_button_text_agree">D\'acord</string>
   <string name="cta_button_text_cancel">Cancel·la</string>
@@ -726,7 +726,6 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="menu_item_notification_antispam_text_avail">Llista de bloqueig</string>
   <string name="menu_item_notification_antispam_text_normal">Llista de bloqueig</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Energia</string>
   <string name="menu_item_notification_title">Mostra en àrea de notificacions</string>
   <string name="menu_item_settings_title">Configuració</string>

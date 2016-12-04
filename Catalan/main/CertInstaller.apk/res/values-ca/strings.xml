@@ -33,7 +33,6 @@
   <string name="pkcs12_file_password_dialog_title">Extreu de %s</string>
   <string name="pkcs12_password_dialog_title">Extreu el certificat</string>
   <string name="sdcard_not_present">Emmagatzematge USB no disponible.</string>
-  <string name="storage_error">"No s'ha pogut desar el certificat. Toqueu «D'acord» per tornar-ho provar."</string>
   <string name="unable_to_save_cert">"No s'ha pogut desar el certificat. L'emmagatzematge de credencials no està activat o no s'ha iniciat correctament."</string>
   <string name="wifi_cancel_label">Cancel·la</string>
   <string name="wifi_config_text">«Nom: %1$s

@@ -80,6 +80,7 @@
   <string name="download_complete">Completada</string>
   <string name="download_detail">Detalls</string>
   <string name="download_error">Ha fallat</string>
+  <string name="download_error_download_file_not_exists">"El fitxer no existeix"</string>
   <string name="download_error_insufficient_space">Espai insuficient</string>
   <string name="download_filesize_unknown">Desconegut</string>
   <string name="download_from">Font:</string>
