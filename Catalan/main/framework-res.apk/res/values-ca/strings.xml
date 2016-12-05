@@ -567,10 +567,10 @@ amb %s»</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Toqueu per introduir la contrasenya&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Codi PIN incorrecte.</string>
   <string name="kg_enter_confirm_pin_hint">Confirmeu el PIN que voleu</string>
-  <string name="kg_failed_attempts_almost_at_login">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %d vegades, haureu de fer servir un compte de correu electrònic per desbloquejar el telèfon.
+  <string name="kg_failed_attempts_almost_at_login">"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %2$d vegades, haureu de fer servir un compte de correu electrònic per desbloquejar el telèfon.
 
- Proveu-ho de nou en %d segons.»</string>
-  <string name="kg_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Si falleu unes altres %d vegades, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
+Proveu-ho de nou en %3$d segons."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %1$d vegades, però no ho heu aconseguit. Si falleu unes altres %2$d vegades, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
   <string name="kg_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
   <string name="kg_forgot_pattern_button_text">Heu oblidat el patró?</string>
   <string name="kg_invalid_confirm_pin_hint">Els codis PIN no coincideixen.</string>
@@ -597,15 +597,15 @@ Accediu a »&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Intenteu-ho de nou en %1$d segons.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">«Heu introduït una contrasenya incorrecta %d vegades. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Heu introduït una contrasenya incorrecta %1$d vegades. 
 
-Torneu-ho a provar en %d segons.»</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. 
+Torneu-ho a provar en %2$d segons."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. 
 
-Torneu-ho a provar en %d segons.»</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">«Heu introduït un codi PIN incorrecte %d vegades. 
+Torneu-ho a provar en %2$d segons."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
-Torneu-ho a provar en %d segons.»</string>
+Torneu-ho a provar en %2$d segons."</string>
   <string name="kg_wrong_password">La contrasenya és incorrecta</string>
   <string name="kg_wrong_pattern">El patró és incorrecte</string>
   <string name="kg_wrong_pin">El PIN no és correcte</string>
@@ -643,10 +643,10 @@ Per treure la fixació, pressioneu i manteniu el botó Inici i el d\'encesa a la
   <string name="lockscreen_access_pattern_start">Patró iniciat</string>
   <string name="lockscreen_carrier_default">Sense servei.</string>
   <string name="lockscreen_emergency_call">Emergència</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Si falleu %d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %d vegades, haureu de fer servir les vostres credencials d\'accés a Google per desbloquejar el telèfon.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon %1$d vegades, però no ho heu aconseguit. Si falleu %2$d vegades més, es restabliran les dades de fàbrica i es perdran totes les dades de l\'usuari.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">\"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %2$d vegades, haureu de fer servir les vostres credencials d\'accés a Google per desbloquejar el telèfon.
 
- Torneu-ho a provar en %d segons.»</string>
+ Torneu-ho a provar en %3$d segons.»</string>
   <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon %d vegades, però no ho heu aconseguit. Es restabliran les dades de fàbrica del dispositiu.</string>
   <string name="lockscreen_forgot_pattern_button_text">Heu oblidat el patró?</string>
   <string name="lockscreen_glogin_account_recovery_hint">«Heu oblidat el vostre nom d\'usuari o contrasenya? 
@@ -682,15 +682,15 @@ Accediu a »&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sound_off_label">So desactivat</string>
   <string name="lockscreen_sound_on_label">So activat</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Intenteu-ho de nou en %d segons.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">«Heu fallat %d vegades en dibuixar el patró de desbloqueig. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">\"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. 
 
-Torneu-ho a provar en %d segons.»</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">«Heu introduït una contrasenya incorrecta %d vegades. 
+Torneu-ho a provar en %2$d segons.»</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">\"Heu introduït una contrasenya incorrecta %1$d vegades. 
 
-Torneu-ho a provar en %d segons.»</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">«Heu introduït un codi PIN incorrecte %d vegades. 
+Torneu-ho a provar en %2$d segons.»</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
-Torneu-ho a provar en %d segons.»</string>
+Torneu-ho a provar en %2$d segons."</string>
   <string name="lockscreen_transport_ffw_description">Avanç ràpid</string>
   <string name="lockscreen_transport_next_description">Següent cançó</string>
   <string name="lockscreen_transport_pause_description">Pausa</string>
