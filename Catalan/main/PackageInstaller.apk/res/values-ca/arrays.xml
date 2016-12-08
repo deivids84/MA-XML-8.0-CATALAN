@@ -3,7 +3,7 @@
 <resources>
   <string-array name="wifi_status">
     <item/>
-    <item>S\'està escannejant&#8230;</item>
+    <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant&#8230;</item>
     <item>S\'està autenticant&#8230;</item>
     <item>S\'està obtenint l\'adreça IP&#8230;</item>
@@ -17,7 +17,7 @@
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item/>
-    <item>S\'està escannejant&#8230;</item>
+    <item>S\'està escanejant&#8230;</item>
     <item>S\'està connectant a %1$s&#8230;</item>
     <item>S\'està autenticant amb %1$s&#8230;</item>
     <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>

@@ -17,6 +17,8 @@
   <string name="experimental_validate_username">Nom d\'usuari</string>
   <string name="experimental_validate_warning">Gràcies per ajudar a millorar MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Desactiveu el mode avió</string>
+  <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremta digital. Afegiu altre cop la vostra empremta.</string>
+  <string name="fingerprint_add_title">Afegeix una empremta digital</string>
   <string name="fingerprint_enter_second_psw_msg">Per poder utilitzar el reconeixement d\'empremta, Introduïu la contrasenya del segon espai després de reiniciar el dispositiu</string>
   <string name="fingerprint_enter_second_psw_title">Introduïu la contrasenya del segon espai</string>
   <string name="fingerprint_lockout_msg">Espereu un minut i torneu a provar de desbloquejar amb l\'empremta</string>

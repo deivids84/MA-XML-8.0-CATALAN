@@ -133,6 +133,7 @@
   <string name="forward_to_bind">Afegeix</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
+  <string name="guest_account_label">Compte de convidat Mi</string>
   <string name="ignore">Ara no</string>
   <string name="input_email_address_notice">"Utilitzarem aquest e-mail per verificar el vostre compte"</string>
   <string name="io_error_title">Confirmeu la vostra xarxa</string>

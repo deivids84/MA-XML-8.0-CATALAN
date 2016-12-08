@@ -199,6 +199,7 @@
   <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
   <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
   <string name="pref_camera_gradienter_title">Degradat</string>
+  <string name="pref_camera_groupshot_mode_title">Selfie grupal</string>
   <string name="pref_camera_hand_night_title">Nit</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">En viu</string>
@@ -228,6 +229,7 @@
   <string name="pref_camera_long_pressing_shutter_title">Feu clic i mantingui l\'obturador per fixar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Mirall màgic</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
+  <string name="pref_camera_mono_mode_title">B/N</string>
   <string name="pref_camera_movie_solid_title">Estabilitzador d\'imatge</string>
   <string name="pref_camera_multilevel_entry_high">Alta</string>
   <string name="pref_camera_multilevel_entry_higher">Superior</string>
@@ -266,6 +268,7 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estàndard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
+  <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Apagat</string>
   <string name="pref_camera_recordlocation_entry_on">Ences</string>
   <string name="pref_camera_recordlocation_title">Desar localització</string>
@@ -345,6 +348,7 @@
   <string name="pref_front_mirror_entry_off">Apagat</string>
   <string name="pref_front_mirror_entry_on">Ences</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
+  <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
   <string name="pref_manual_exposure_title">Exposició manual</string>
   <string name="pref_priority_storage_title">Desar a la targeta SD</string>
   <string name="pref_qc_focus_position_title">Enfocar</string>
@@ -405,10 +409,13 @@
   <string name="simple_mode_button_text_face_beauty">Tancar embellidor</string>
   <string name="simple_mode_button_text_fast_video">Tancar càmera a velocitat lenta</string>
   <string name="simple_mode_button_text_gradienter">Tancar degradat</string>
+  <string name="simple_mode_button_text_groupshot">Desactiva les selfies grupals</string>
   <string name="simple_mode_button_text_hand_night">Tancar mode nit</string>
   <string name="simple_mode_button_text_magic_mirror">Desactiveu Mirall màgic</string>
   <string name="simple_mode_button_text_manual">Tancar mode Manual</string>
+  <string name="simple_mode_button_text_mono">Desactiva B/N</string>
   <string name="simple_mode_button_text_panorama">Tancar mode panoràmica</string>
+  <string name="simple_mode_button_text_raw">Desactiva RAW</string>
   <string name="simple_mode_button_text_scene">Tancar mode escena</string>
   <string name="simple_mode_button_text_slow_video">Tancar càmera a velocitat ràpida</string>
   <string name="simple_mode_button_text_square">Apagat Quadrat</string>
@@ -427,6 +434,7 @@
   <string name="toast_burst_snap_finished_end">Fotos</string>
   <string name="toast_burst_snap_finished_start">Dispar en ràfega acabat:</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Dispar en ràfega no es pot utilitzar si la captura d'àudio està activa"</string>
+  <string name="toast_saving">S\'estan desant les fotos&#8230;</string>
   <string name="toast_start_audio_capture">Fer un so al fer una foto</string>
   <string name="ubi_focus_capture_fail">"No s'ha pogut prendre la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>

@@ -23,6 +23,8 @@
   <string name="button_cancel">Cancel·la</string>
   <string name="button_delete">Esborra</string>
   <string name="button_next">Següent</string>
+  <string name="can_not_backup_in_lite_mode">"No es pot fer una còpia de seguretat en el mode bàsic"</string>
+  <string name="can_not_restore_in_lite_mode">"No es pot restaurar en mode bàsic"</string>
   <string name="cancel_recover_settings">&lt;u&gt;Cancel·la&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">Toqueu per provar-ho de nou</string>
   <string name="cloud_app_backup_success">Còpia de seguretat d\'aplicació finalitzada</string>
@@ -98,8 +100,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="open_wifi_description">Connecteu-vos a una xarxa Wi-Fi per restaurar aplicacions</string>
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
-  <string name="provision_arrow_back">&lt;</string>
-  <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Còpia de seguretat del Mi Cloud</string>
   <string name="query_restore_description">Restaurar aplicacions de pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses en la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
   <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com a nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>

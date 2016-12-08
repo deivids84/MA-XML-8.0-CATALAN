@@ -29,6 +29,158 @@
     <item>Boquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>No ho comprovis mai</item>
+    <item>Només comprova si el contingut té DRM</item>
+    <item>Comprova-ho sempre</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>No utilitzis mai la comprovació HDCP</item>
+    <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
+    <item>Utilitza sempre la comprovació HDCP</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>Inactiu</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+    <item>4M</item>
+    <item>16M</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Apagat</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>Desactivat</item>
+    <item>64K per registre de memòria</item>
+    <item>256K per registre de memòria</item>
+    <item>1M per registre de memòria</item>
+    <item>4M per registre de memòria</item>
+    <item>16M per registre de memòria</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>Sense animacions</item>
+    <item>Escala d\'animació 0.5x</item>
+    <item>Escala d\'animació 1x</item>
+    <item>Escala d\'animació 1,5x</item>
+    <item>Escala d\'animació 2x</item>
+    <item>Escala d\'animació 5x</item>
+    <item>Escala d\'animació 10x</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>Sense animacions</item>
+    <item>Escala d\'animació 0.5x</item>
+    <item>Escala d\'animació 1x</item>
+    <item>Escala d\'animació 1,5x</item>
+    <item>Escala d\'animació 2x</item>
+    <item>Escala d\'animació 5x</item>
+    <item>Escala d\'animació 10x</item>
+  </string-array>
+  <string-array name="animator_duration_scale_entries">
+    <item>Sense animacions</item>
+    <item>Escala d\'animació 0.5x</item>
+    <item>Escala d\'animació 1x</item>
+    <item>Escala d\'animació 1,5x</item>
+    <item>Escala d\'animació 2x</item>
+    <item>Escala d\'animació 5x</item>
+    <item>Escala d\'animació 10x</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Cap</item>
+    <item>480p</item>
+    <item>480p (segur)</item>
+    <item>720p</item>
+    <item>720p (segur)</item>
+    <item>1080p</item>
+    <item>1080p (segur)</item>
+    <item>4K</item>
+    <item>4K (segur)</item>
+    <item>4K (ampliat)</item>
+    <item>4K (ampliat, segur)</item>
+    <item>720p, 1080p (pantalla dual)</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Cap</item>
+    <item>Logcat</item>
+    <item>Systrace (gràfics)</item>
+    <item>Pila de crides a glGetError</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Desactivat</item>
+    <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
+    <item>Ressalta en color verd les ordres de dibuix verificades</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Desactivat</item>
+    <item>A la pantalla com barres</item>
+    <item>Volcat de sistema gfxinfo a la consola del adb</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Desactivat</item>
+    <item>Mostra les àrees sobreposades</item>
+    <item>Mostra les àrees per Deuteranomaly</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Límit estàndard</item>
+    <item>Sense processos de fons</item>
+    <item>Com a molt 1 procés</item>
+    <item>Com a molt 2 processos</item>
+    <item>Com a molt 3 processos</item>
+    <item>Com a molt 4 processos</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>S\'està carregant</item>
+    <item>PTP (Protocol de Transferència de Multimèdia)</item>
+    <item>PTP (Protocol de Transferència d\'imatges)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Font d\'àudio</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Molt lent</item>
+    <item>Lent</item>
+    <item>Normal</item>
+    <item>Ràpid</item>
+    <item>Més ràpid</item>
+    <item>Molt ràpid</item>
+    <item>Ràpid</item>
+    <item>Molt ràpid</item>
+    <item>El més ràpid</item>
+  </string-array>
+  <string-array name="tts_demo_strings">
+    <item>This is an example of speech synthesis in English.</item>
+    <item>Voici un échantillon de synthèse vocale en français.</item>
+    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+    <item>Questo è un esempio di sintesi vocale in italiano.</item>
+    <item>Este es un ejemplo de síntesis de voz en español.</item>
+    <item>Aquest és un exemple d\'una síntesi de veu del Coreà.</item>
+  </string-array>
+  <string-array name="tts_demo_string_langs">
+    <item>anglès</item>
+    <item>francès</item>
+    <item>alemany</item>
+    <item>italià</item>
+    <item>espanyol</item>
+    <item>coreà</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Vibrant (predeterminat)</item>
+    <item>Natural</item>
+    <item>Estàndard</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Colors millorats</item>
+    <item>Colors naturals tal com els veu l\'ull humà</item>
+    <item>Colors optimitzats per contingut digital</item>
+  </string-array>
+  <string-array name="battery_labels">
+    <item>0%</item>
+    <item>50%</item>
+    <item>100%</item>
+  </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
     <item>Ennuvolat</item>

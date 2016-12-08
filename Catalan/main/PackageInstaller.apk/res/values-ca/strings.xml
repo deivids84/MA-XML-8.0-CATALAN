@@ -19,6 +19,10 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Redueix</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
+  <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
+  <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
+  <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="allPerms">Tot</string>
   <string name="all_permissions">Tots els permisos</string>
@@ -28,6 +32,10 @@
   <string name="app_permissions">Permisos d\'aplicacions</string>
   <string name="app_permissions_breadcrumb">Aplicacions</string>
   <string name="app_permissions_group_summary">%1$d de %2$d aplicacions permeses</string>
+  <string name="app_process_limit_title">Límit de procés en segon pla</string>
+  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
   <string name="cancel">Cancel·la</string>
   <string name="current_permission_template">%1$s de %2$s</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>

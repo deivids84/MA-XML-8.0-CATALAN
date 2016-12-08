@@ -21,6 +21,8 @@
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_home">Casa</string>
   <string name="accessibility_ime_switch_button">Canvia el botó de mètode d\'entrada.</string>
   <string name="accessibility_managed_profile">Perfil de feina</string>
@@ -52,13 +54,31 @@
   <string name="account_info">No s\'ha iniciat sessió</string>
   <string name="activate_usb_message">Per activar aquesta funció, inseriu la targeta SIM.</string>
   <string name="activate_usb_title">Activar USB</string>
+  <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB de tots els ordinadors que prèviament heu autoritzat?</string>
+  <string name="adb_warning_message">La depuració USB està pensada només per al desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el dispositiu, instal·lar aplicacions al dispositiu sense avisos i llegir dades de registre.</string>
+  <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
+  <string name="allow_mock_location">Permet les ubicacions simulades</string>
+  <string name="allow_mock_location_summary">Permet les ubicacions simulades</string>
   <string name="always_use_accessory">Utilitza per defecte per a aquest accessori USB</string>
   <string name="always_use_device">Utilitza per defecte per a aquest dispositiu USB</string>
+  <string name="animator_duration_scale_title">Escala de la durada de l\'animació</string>
+  <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_label">Interfície de sistema</string>
+  <string name="app_process_limit_title">Límit de processos en segon pla</string>
   <string name="audio_effect_custom">Configura</string>
   <string name="audio_effect_info">Optimitzar àudio</string>
   <string name="audio_effect_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="available_via_passpoint">Disponible a %1$s</string>
+  <string name="battery_info_status_charging">S\'està carregant</string>
+  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
+  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
+  <string name="battery_info_status_charging_wireless">S\'està carregant sense cable</string>
+  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
+  <string name="battery_info_status_discharging">No s\'està carregant</string>
+  <string name="battery_info_status_full">Plena</string>
+  <string name="battery_info_status_not_charging">No s\'està carregant</string>
+  <string name="battery_info_status_unknown">Desconegut</string>
   <string name="battery_low_percent_format">%d%% restant</string>
   <string name="battery_low_title">Connecteu el carregador</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
@@ -75,6 +95,8 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon o multimèdia)</string>
   <string name="bluetooth_connected_no_map">Connectat (sense accés a missatges)</string>
   <string name="bluetooth_connecting">Connectant&#8230;</string>
+  <string name="bluetooth_disable_absolute_volume">Desactiva el volum general</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Desactiva la funció de volum general Bluetooth cas que es produeixin problemes de volum amb dispositius remots, sigui un volum massa alt o una pérdua de control.</string>
   <string name="bluetooth_disconnected">Desconnectat</string>
   <string name="bluetooth_disconnecting">Disconnectant&#8230;</string>
   <string name="bluetooth_dun_profile_summary_connected">Connectat al servidor Dun</string>
@@ -114,6 +136,9 @@
   <string name="bluetooth_sap_profile_summary_connected">Connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
+  <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
+  <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
+  <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="call_status_dialing">Marcant</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
@@ -127,9 +152,27 @@
   <string name="camera_key_action_shortcut_title">Accés directe</string>
   <string name="camera_key_action_shortcut_wake">Bloquejar/reactivar dispositiu</string>
   <string name="camera_key_action_toggle_title">Accionar commutador</string>
+  <string name="category_work">Feina</string>
+  <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
+  <string name="choose_profile">Seleccioneu perfil</string>
+  <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
+  <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
   <string name="connected_via_wfa">Connectat a través de l\'assistent Wifi</string>
+  <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
+Advertiment!! s\'esborraran totes les vostres dades.
+Aquesta funció és alfa i és possible que no funcioni correctament.
+Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
+  <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
+  <string name="convert_to_file_encryption_done">El fitxer ja està encriptat</string>
+  <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
+  <string name="daltonizer_mode_disabled">Desactivat</string>
+  <string name="daltonizer_mode_monochromacy">Monocromia</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalia (vermell-verd)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalia (blau-groc)</string>
+  <string name="daltonizer_type_overridden">Substituit per %1$s</string>
   <string name="data_usage_disabled_dialog">"Ha consumit el límit de dades especificat.
 
 Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</string>
@@ -138,6 +181,9 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="data_usage_disabled_dialog_enable">Reactivar dades</string>
   <string name="data_usage_disabled_dialog_mobile_title">Dades mòbils desactivades</string>
   <string name="data_usage_disabled_dialog_title">Dades desactivades</string>
+  <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
+  <string name="debug_applications_category">Aplicacions</string>
+  <string name="debug_input_category">Entrada</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
   <string name="description_target_search">Cercar</string>

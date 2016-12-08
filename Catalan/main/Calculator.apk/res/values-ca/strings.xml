@@ -124,6 +124,21 @@
   <string name="plusDesc">més</string>
   <string name="power">^</string>
   <string name="powerDesc">potència</string>
+  <string name="preference_about_calculator">Quant a la Calculadora</string>
+  <string name="preference_alert_follow_wechat">Copia i enganxa al WeChat per seguir</string>
+  <string name="preference_alert_follow_wechat_button">Copia</string>
+  <string name="preference_check_update_title">Cerca actualitzacions</string>
+  <string name="preference_feedback_title">PMF</string>
+  <string name="preference_follow_us">Segueix-nos</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Lloc web oficial</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Configuració</string>
+  <string name="preference_use_degress_summary">Substituir radiants per angles en funcions trigonomètriques</string>
+  <string name="preference_use_degress_title">Utilitza angles</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">parèntesi dret</string>
@@ -359,4 +374,14 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="xiaomi_bytes_unit">%1$s B</string>
+  <string name="xiaomi_connect_download_manager_fail">Error en connectar-se a l\'Administrador de baixades, comproveu l\'estat de l\'Administrador de baixades a l\'Administrador d\'aplicacions.</string>
+  <string name="xiaomi_external_storage_unavailable">L\'emmagatzematge no està disponible, comproveu la targeta SD.</string>
+  <string name="xiaomi_kilobytes_unit">%1$s KB</string>
+  <string name="xiaomi_megabytes_unit">%1$s MB</string>
+  <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
+Mida: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
+Mida de l\'actualització Delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s actualització!</string>
 </resources>

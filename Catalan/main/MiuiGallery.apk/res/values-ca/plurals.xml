@@ -5,6 +5,14 @@
     <item quantity="other">"Voleu amagar aquestes persones?"</item>
     <item quantity="one">"Voleu amagar aquesta persona?"</item>
   </plurals>
+  <plurals name="face_count">
+    <item quantity="other">%d fotos en total</item>
+    <item quantity="one">%d foto en total</item>
+  </plurals>
+  <plurals name="remind_face_recommend_confirm_text">
+    <item quantity="other">%d fotos en total</item>
+    <item quantity="one">%d foto en total</item>
+  </plurals>
   <plurals name="age_year">
     <item quantity="other">%d anys</item>
     <item quantity="one">%d any</item>

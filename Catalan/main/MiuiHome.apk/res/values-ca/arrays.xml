@@ -55,9 +55,9 @@
   <string-array name="editing_mode_entries">
     <item>Temes</item>
     <item>Ginys</item>
-    <item>Fons de pantalla</item>
+    <item>Fons</item>
     <item>Efectes</item>
-    <item>Screen cells</item>
+    <item>Cèl·lules de pantalla</item>
   </string-array>
   <string-array name="quality_business_devices">
     <item>Lithium</item>

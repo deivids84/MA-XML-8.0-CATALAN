@@ -55,11 +55,23 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="permission_prompt_started_info">"Heu permès la cerca global"</string>
   <string name="permission_prompt_title">Voleu més?</string>
   <string name="recent_apps">Aplicacions recents</string>
+  <string name="recent_apps_filter">"Amaga les aplicacions que no utilitzeu"</string>
+  <string name="recent_close_content">"Voleu desactivar aquesta funció ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca"</string>
+  <string name="recent_close_title">Desactiva la característica</string>
+  <string name="recent_delete_content">"Voleu ocultar aquestes aplicacions ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca"</string>
+  <string name="recent_delete_negative">Cancel·la</string>
+  <string name="recent_delete_positive">D\'acord</string>
+  <string name="recent_delete_title">Amaga aplicacions</string>
+  <string name="recent_edit">Edició</string>
+  <string name="recent_edit_done">Fet</string>
+  <string name="recent_filter_functions">Característiques desactivades</string>
+  <string name="recent_function">Característiques</string>
   <string name="recently_shortcut_label">Dreceres recents</string>
   <string name="remove_from_history">Voleu eliminar aquest element de l\'historial de cerca?</string>
   <string name="remove_from_history_failed">"No s'ha pogut eliminar l'element de l'historial."</string>
   <string name="search_apps">Cerca aplicacions</string>
   <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+  <string name="search_button">Cerca</string>
   <string name="search_group_fold">​​Amaga</string>
   <string name="search_group_unfold">Més</string>
   <string name="search_history">Historial</string>
@@ -93,6 +105,13 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="switch_setting">Configuració</string>
   <string name="system_search_category_title">Telèfon</string>
   <string name="top_clicked">Elements freqüents</string>
+  <string name="update_check">Cercar actualitzacions</string>
+  <string name="update_right_now">Actualitza ara</string>
+  <string name="update_title">Actualització disponible</string>
+  <string name="update_version_alpha">Alfa</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Estable</string>
+  <string name="updated_title">MIUI està actualitzat</string>
   <string name="voice_search_hint_title">Proveu de dir:</string>
   <string name="web_search_results">Resultats de la cerca web</string>
   <string name="xiaomi_search_label">Resultats</string>

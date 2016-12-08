@@ -12,6 +12,8 @@
   <string name="response_error">Resposta inesperada de la xarxa.</string>
   <string name="reverting_settings">S\'estan desfent els canvis&#8230;</string>
   <string name="set_subscription_error_atleast_one">Seleccioneu almenys una subscripció</string>
+  <string name="sim1LineNumber">Número SIM 1:</string>
+  <string name="sim2LineNumber">Número SIM 2:</string>
   <string name="sub1LineNumber">Número de Sub1:</string>
   <string name="sub2LineNumber">Número de Sub2:</string>
   <string name="sub_1">SUB 1</string>
@@ -29,7 +31,10 @@
   <string name="xdivert_not_supported">La desviació de trucades no és compatible amb el multiplexat CDMA</string>
   <string name="xdivert_partial_set">La desviació de trucades s\'ha establert només per a la primera subscripció</string>
   <string name="xdivert_setting">Configuració de la desviació de trucades</string>
+  <string name="xdivert_setting_primary_user_only">La desviació de trucades no s\'admet a l\'usuari convidat.</string>
   <string name="xdivert_status">Estat de la desviació de trucades</string>
+  <string name="xdivert_status_active">Desviació de trucades activa</string>
+  <string name="xdivert_status_not_active">Desviació de trucades no activa</string>
   <string name="xdivert_sub_absent">S\'han d\'activar les dues subscripcions per utilitzar la desviació de trucades</string>
   <string name="xdivert_summary">Desviament si es troba fora de cobertura</string>
   <string name="xdivert_title">Desviació de trucades</string>

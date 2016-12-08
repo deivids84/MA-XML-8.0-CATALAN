@@ -496,6 +496,7 @@
   <string name="notification_recommend_title">Notificacions importants</string>
   <string name="notification_setting">Configuració de les notificacions</string>
   <string name="notification_title_no_song">"Mireu el que escolta la gent!"</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Voleu eliminar-la de la llista de reproducció?</string>
   <string name="nowplaying_menu_item_delete">Esborra</string>
   <string name="ok">D\'acord</string>
   <string name="one_month">1 mes</string>

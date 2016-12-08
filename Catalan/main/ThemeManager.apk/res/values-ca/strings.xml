@@ -4,6 +4,7 @@
   <string name="account_info">El meu compte</string>
   <string name="account_name_not_login">Inicia la sessió</string>
   <string name="account_unactivated">Compte no activat</string>
+  <string name="add_resource_detail_fail">"El recurs no es pot afegir"</string>
   <string name="all_resources">Tot</string>
   <string name="app_name">Temes</string>
   <string name="apply_default_font_tip">"Voleu continuar utilitzant la font actual del sistema?"</string>

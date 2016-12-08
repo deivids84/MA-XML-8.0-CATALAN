@@ -78,6 +78,7 @@
   <string name="alert_secret_album_enter">Ho entenc</string>
   <string name="alert_secret_album_message">Arrossegueu cap avall des de dalt de tot dels àlbums per veure els ocults.</string>
   <string name="alert_secret_album_title">Com veure els àlbums ocults</string>
+  <string name="all_faces">Totes les fotos amb gent</string>
   <string name="all_items_synced">S\'han copiat tots els àlbums a Mi Cloud</string>
   <string name="all_video_album_display_name">Tots els vídeos</string>
   <string name="already_create_baby_album">L\'àlbum de nadó ja existeix a Mi Cloud.</string>
@@ -551,6 +552,9 @@
   <string name="confirm_download_video_message">Cal que acabeu de baixar aquest vídeo per començar-lo a veure. La baixada continuarà quan el Wi-Fi estigui disponible.</string>
   <string name="confirm_download_video_title">Baixa el vídeo</string>
   <string name="confirm_face">Troba coincidències</string>
+  <string name="confirm_hidden_recommend_group">D\'acord</string>
+  <string name="confirm_hidden_recommend_group_message">Quan les recomanacions es desactiven, podeu seguir utilitzant la opció \"Més persones que s\'assemblen\"</string>
+  <string name="confirm_hidden_recommend_group_title">"No mostrar les recomanacions"</string>
   <string name="confirm_merge_face_albums">" \"&lt;Data&gt; Voleu combinar aquest àlbum amb %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_merge_many_face_albums">" \"&lt;Data&gt; Voleu combinar aquests àlbums amb %s? &lt;/Data&gt;\" "</string>
   <string name="confirm_not_face">No coincideix</string>
@@ -626,6 +630,8 @@
   <string name="download_without_wifi_title">Alerta d\'ús de dades</string>
   <string name="edit_baby_info">Veure informació del nadó</string>
   <string name="email_picker_title">Afegeix un correu compartit</string>
+  <string name="empty_recommend_back">Enrere</string>
+  <string name="empty_recommend_face_page_view">No hi ha més recomanacions</string>
   <string name="enable_auto_upload_tip">Aquest àlbum s\'eliminarà dels altres àlbums després que ho activeu.</string>
   <string name="enable_auto_upload_title">Activa la sincronització amb Mi Cloud</string>
   <string name="enable_cloud_for_sharing">És necessari activar Mi Cloud per veure les fotos compartides.</string>
@@ -664,10 +670,16 @@ Feu més fotos als vostres amics!"</string>
   <string name="face_album_not_named">Sense nom</string>
   <string name="face_album_pending_enable_tip">S\'ordenaran les fotos quan el dispositiu estigui connectat a la Wi-Fi</string>
   <string name="face_album_rename_hint">Introduïu el nom</string>
+  <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Ordena automàticament les fotos per les persones que hi apareixen.</string>
   <string name="face_albumset_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="face_choose_tip">Trieu-la d\'un àlbum existent</string>
+  <string name="face_confirm">Aquesta és la mateixa persona</string>
   <string name="face_move_dialog_title">Trieu un àlbum</string>
+  <string name="face_name_edit">Edició</string>
+  <string name="face_name_input">Introduïu el nom</string>
+  <string name="face_recommend">Recomanacions</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"No s'ha pogut completar l'operació"</string>
   <string name="fail_to_pick_email">L\'adreça de correu electrònica no és vàlida</string>
   <string name="fail_to_sync_album">"No s'ha pogut sincronitzar l'àlbum. Comproveu la connexió de dades i torneu a intentar-ho."</string>
@@ -780,6 +792,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="messagelist_sender_self">Jo</string>
   <string name="micloud_introduce">Còpia de seguretat automàtica de fotos i vídeos (es necessita un compte Mi)</string>
   <string name="more_album_hint">, etc.</string>
+  <string name="more_face">Més persones que s\'assemblen</string>
   <string name="more_face_album_name">Més persones</string>
   <string name="move_to_other_albums_tip">La sincronització d\'aquest àlbum amb Mi Cloud es desactivarà si el moveu a altres àlbums. Esteu segur de voler moure\'l?</string>
   <string name="must_pick_file">Seleccioneu una foto</string>
@@ -896,6 +909,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="relation_text_mother">Mare</string>
   <string name="relation_with_you">Trieu una relació</string>
   <string name="release_space_finish_format">S\'han alliberat %s d\'emmagatzematge local</string>
+  <string name="remind_face_recommend_confirm">Confirma</string>
   <string name="remove_from_other_albums_tip">Activeu la sincronització amb Mi Cloud per moure elements d\'altres àlbums. Voleu moure\'l ara?</string>
   <string name="remove_from_secret_fail">"No es pot eliminar de l'àlbum ocult"</string>
   <string name="remove_from_secret_failed_with_reason">"No es pot eliminar de l'àlbum ocult. %1$s."</string>

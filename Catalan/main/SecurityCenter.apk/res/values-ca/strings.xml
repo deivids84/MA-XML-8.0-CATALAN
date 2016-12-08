@@ -79,6 +79,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="antivirus_choose_engine_disable_toast">"No es poden canviar les definicions durant l'escaneig"</string>
   <string name="antivirus_choose_engine_settings">Configuració de definicions de virus</string>
   <string name="antivirus_choose_engine_title">Definicions</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"No es poden canviar les definicions durant l'actualització"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Elimina aplicacions perilloses</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Elimina virus</string>
   <string name="antivirus_monitor_clean_tips">S\'han eliminat %s elements</string>
@@ -263,6 +264,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_text_goto_setup">Anar a configuració</string>
   <string name="btn_text_network_speed_detail">Connexió</string>
   <string name="btn_text_open_now">Activar</string>
+  <string name="btn_text_optimize_extend_battery_time">Afegeix %s</string>
   <string name="btn_text_optimize_manually">Optimitzar manualment</string>
   <string name="btn_text_optimize_now">Optimitzar</string>
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
@@ -609,6 +611,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_securitycenter_settings">Estalvi de bateria;Permisos;Blocklist;Ús de dades;Calibrar pla de dades;Prova de xarxa;Bloqueig d\'app;Estalviar bateria;Escalfament;Engegar;Apagar;Bateria;Drenatge;Automàtic;ROOT;Ubicació;Accés a contactes;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents;Dades;Trànsit;Calibrar;Connexió;Internet;Prova;Contrasenya;Privacitat;Accés;Protecció</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
+  <string name="label_mi_stats">Anàlisi Mi</string>
   <string name="last_check_canceled">L\'escaneig de virus previ va ser cancel·lat </string>
   <string name="last_check_date_today">"Escanejat avui "</string>
   <string name="last_check_date_yesterday">"Escanejat ahir "</string>
@@ -664,7 +667,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="long_click_dialog_title">Atenció</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
-  <string name="main_activity_content_title_scanning">Escannejant...</string>
+  <string name="main_activity_content_title_scanning">S\'està escanejant&#8230;</string>
   <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
@@ -755,6 +758,8 @@ Consum en hores punta: %1$s%2$s queda | %3$s usat"</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
+  <string name="msg_update_error_code_success">Fet</string>
+  <string name="msg_update_up">​​Amaga</string>
   <string name="network_assistant_upgraded_body">Toqui per veure els detalls.</string>
   <string name="network_assistant_upgraded_title">Actualització acabada</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
@@ -1063,6 +1068,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_title_declaration">Clàusula important</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificacions flotants</string>
   <string name="pref_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
+  <string name="pref_title_manual_check_virus_db_update">Cerca actualitzacions</string>
   <string name="pref_title_mobile_traffic">Mostra l\'ús de dades mentre estava bloquejat</string>
   <string name="pref_title_network_diagnostics">Diagnosticar la xarxa</string>
   <string name="pref_title_over_traffic_limit_warning">Quan se superi</string>
@@ -1148,6 +1154,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="quick_optimize_no_issue_subtitle">Tot es veu bé</string>
   <string name="quick_optimize_no_issue_title">"No s'han trobat problemes amb la bateria"</string>
   <string name="quick_optimize_sub_summary_text">Afegit %s de durada de la bateria</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">El telèfon està drenant la bateria, solucioneu-lo</string>
+  <string name="quick_optimize_suggest_battery_over_heat">El telèfon està sobrescalfant-se, solucioneu-lo</string>
   <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
   <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
@@ -1320,6 +1328,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_toast_removed_from_sign_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="spinner_title">%1$s - Dades mòbils: %2$s</string>
   <string name="sponsored">Patrocinat</string>
+  <string name="sponsored_sec_fb">Patrocinat</string>
   <string name="st_title_mode_choose_group">Escollir perfil</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
@@ -1639,8 +1648,14 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
+  <string name="virus_already_update">Les definicions estan actualitzades</string>
+  <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="virus_update_success">S\'ha actualitzat correctament</string>
+  <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
+  <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
   <string name="warning_open_mi_sim">Activar Mi SIM</string>

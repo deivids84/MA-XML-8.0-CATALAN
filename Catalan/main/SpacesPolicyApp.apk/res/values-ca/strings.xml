@@ -5,9 +5,12 @@
   <string name="app_name">Agent d\'espais de seguretat</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
+  <string name="dialog_download_space_cancel">Cancel·la</string>
+  <string name="dialog_download_space_create">D’acord</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida en les condicions actuals. Actualitzeu-la.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
+  <string name="dialog_space_creating_text">Espereu si us plau</string>
   <string name="expiration_status_future">La contrasenya caducarà d\'aquí %1$s</string>
   <string name="expiration_status_past">La contrasenya va caducar fa %1$s</string>
   <string name="label_activity_debug">Política de depuració</string>

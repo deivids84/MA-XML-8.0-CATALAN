@@ -13,6 +13,10 @@
     <item quantity="other">Sou a %1$d passos d\'activar les opcions de desenvolupament.</item>
     <item quantity="one">Sou a %1$d pas d\'activar les opcions de desenvolupament.</item>
   </plurals>
+  <plurals name="dlg_remove_locales_title">
+    <item quantity="other">Voleu suprimir els idiomes seleccionats?</item>
+    <item quantity="one">Voleu suprimir l\'idioma seleccionat?</item>
+  </plurals>
   <plurals name="security_settings_fingerprint_preference_summary">
     <item quantity="other">S\'han configurat %1$d empremtes</item>
     <item quantity="one">S\'ha configurat %1$d empremta</item>
@@ -44,6 +48,22 @@
   <plurals name="wrong_pin_code">
     <item quantity="other">El codi PIN de la SIM no és correcte, resten %d intents.</item>
     <item quantity="one">El codi PIN de la SIM no és correcte, resta %d intent abans que hàgiu de posar-vos en contacte amb la companyia per poder desbloquejar el dispositiu.</item>
+  </plurals>
+  <plurals name="uri_permissions_text">
+    <item quantity="other">%d elements</item>
+    <item quantity="one">1 element</item>
+  </plurals>
+  <plurals name="print_settings_title">
+    <item quantity="other">%d tasques d\'impressió</item>
+    <item quantity="one">1 tasca d\'impressió</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_dialog_title">
+    <item quantity="other">Confia en els certificats o suprimeix-los</item>
+    <item quantity="one">Confia en el certificat o suprimeix-lo</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_settings_button">
+    <item quantity="other">Comprova els certificats</item>
+    <item quantity="one">Comprova el certificat</item>
   </plurals>
   <plurals name="manage_notification_access_summary_nonzero">
     <item quantity="other">%d aplicacions poden llegir les notificacions</item>
