@@ -39,28 +39,6 @@
     <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
     <item>Utilitza sempre la comprovació HDCP</item>
   </string-array>
-  <string-array name="select_logd_size_titles">
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
-    <item>16M</item>
-  </string-array>
-  <string-array name="select_logd_size_lowram_titles">
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>1M</item>
-  </string-array>
-  <string-array name="select_logd_size_summaries">
-    <item>64K per registre de memòria</item>
-    <item>256K per registre de memòria</item>
-    <item>1M per registre de memòria</item>
-    <item>4M per registre de memòria</item>
-    <item>16M per cada registre de memòria</item>
-    <item>16M per log buffer</item>
-  </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
@@ -87,26 +65,6 @@
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
-  </string-array>
-  <string-array name="overlay_display_devices_entries">
-    <item>Cap</item>
-    <item>480p</item>
-    <item>480p (secure)</item>
-    <item>720p</item>
-    <item>720p (secure)</item>
-    <item>1080p</item>
-    <item>1080p (secure)</item>
-    <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_entries">
-    <item>Cap</item>
-    <item>Logcat</item>
-    <item>Systrace (Gràfics)</item>
-    <item>Trucades en glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagat</item>
@@ -138,33 +96,6 @@
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
-  </string-array>
-  <string-array name="tts_rate_entries">
-    <item>Molt lent</item>
-    <item>Lent</item>
-    <item>Normal</item>
-    <item>Ràpid</item>
-    <item>Més ràpid</item>
-    <item>Molt ràpid</item>
-    <item>Ràpida</item>
-    <item>Molt ràpida</item>
-    <item>El més ràpid</item>
-  </string-array>
-  <string-array name="tts_demo_strings">
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Questo è un esempio di sintesi vocale in italiano.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
-  </string-array>
-  <string-array name="tts_demo_string_langs">
-    <item>eng</item>
-    <item>fra</item>
-    <item>deu</item>
-    <item>ita</item>
-    <item>spa</item>
-    <item>kor</item>
   </string-array>
   <string-array name="status_bar_style_entries">
     <item>S\'han combinat</item>
@@ -215,21 +146,6 @@
     <item>Grossa</item>
     <item>Molt grossa</item>
   </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-    <item>"AKA'"</item>
-  </string-array>
-  <string-array name="eap_method_without_sim_auth">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-  </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Premeu el botó</item>
     <item>PIN del dispositiu a aparellar</item>
@@ -273,73 +189,10 @@
     <item>Darrera vegada que es va fer servir</item>
     <item>Nom de l\'aplicació</item>
   </string-array>
-  <string-array name="wifi_eap_entries">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-  </string-array>
-  <string-array name="wifi_peap_phase2_entries">
-    <item>Cap</item>
-    <item>MSCHAPV2</item>
-    <item>GTC</item>
-  </string-array>
-  <string-array name="wifi_phase2_entries">
-    <item>Cap</item>
-    <item>PAP</item>
-    <item>MSCHAP</item>
-    <item>MSCHAPV2</item>
-    <item>GTC</item>
-  </string-array>
-  <string-array name="wifi_ip_settings">
-    <item>DHCP</item>
-    <item>Estàtica</item>
-  </string-array>
   <string-array name="wifi_proxy_settings">
     <item>Cap</item>
     <item>Manual</item>
     <item>Configuració automàtica del servidor intermediari</item>
-  </string-array>
-  <string-array name="apn_auth_entries">
-    <item>Cap</item>
-    <item>PAP</item>
-    <item>CHAP</item>
-    <item>PAP o CHAP</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
-  </string-array>
-  <string-array name="apn_protocol_values">
-    <item>IP</item>
-    <item>IPV6</item>
-    <item>IPV4V6</item>
-  </string-array>
-  <string-array name="bearer_entries">
-    <item>Sense especificar</item>
-    <item>LTE</item>
-    <item>HSPAP</item>
-    <item>HSPA</item>
-    <item>HSUPA</item>
-    <item>HSDPA</item>
-    <item>UMTS</item>
-    <item>EDGE</item>
-    <item>GPRS</item>
-    <item>eHRPD</item>
-    <item>EVDO_B</item>
-    <item>EVDO_A</item>
-    <item>EVDO_0</item>
-    <item>1xRTT</item>
-    <item>IS95B</item>
-    <item>IS95A</item>
-  </string-array>
-  <string-array name="mvno_type_entries">
-    <item>Cap</item>
-    <item>SPN</item>
-    <item>IMSI</item>
-    <item>GID</item>
-    <item>ICCID</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Emmagatzematge intern del dispositiu</item>
@@ -516,12 +369,6 @@
     <item>En relleu</item>
     <item>Reduït</item>
   </string-array>
-  <string-array name="captioning_opacity_selector_titles">
-    <item>25%</item>
-    <item>50%</item>
-    <item>75%</item>
-    <item>100%</item>
-  </string-array>
   <string-array name="captioning_preset_selector_titles">
     <item>Blanc sobre negre</item>
     <item>Negre sobre blanc</item>
@@ -656,22 +503,6 @@
     <item>Blanc</item>
     <item>Violeta</item>
   </string-array>
-  <string-array name="wifi_wapi_key_type">
-    <item>WAPI ASCII</item>
-    <item>WAPI hexadecimal</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim_for_cmcc">
-    <item>PEAP</item>
-    <item>SIM</item>
-  </string-array>
   <string-array name="screen_key_position_action">
     <item>Botó de Menú a l\'esquerra i botó Enrera a la dreta</item>
     <item>Botó de Menú a la dreta i botó Enrere a l\'esquerra</item>
@@ -770,19 +601,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>"Incrementa el contrast de pantalla"</item>
     <item>El contrast romandrà constant</item>
   </string-array>
-  <string-array name="perm_hips_action">
-    <item>Permet</item>
-    <item>Pregunta</item>
-    <item>Denega</item>
-  </string-array>
-  <string-array name="startup_hips_action">
-    <item>Permet</item>
-    <item>Denega</item>
-  </string-array>
-  <string-array name="entries_color_calibration">
-    <item>sRGB</item>
-    <item>Nadiu</item>
-  </string-array>
   <string-array name="phone_call_noise_suppression_title">
     <item>Un sol micròfon per a supressió de fressa</item>
     <item>Doble micròfon per a supressió de fressa</item>
@@ -835,19 +653,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Al mig</item>
     <item>Alt</item>
   </string-array>
-  <string-array name="agps_network_entries">
-    <item>Xarxa domèstica</item>
-    <item>Totes les xarxes</item>
-  </string-array>
-  <string-array name="agps_si_mode_entries">
-    <item>MSB</item>
-    <item>MSA</item>
-  </string-array>
-  <string-array name="agps_reset_type_entries">
-    <item>HOT</item>
-    <item>WARM</item>
-    <item>COLD</item>
-  </string-array>
   <string-array name="handy_mode_size_text_entries">
     <item>4,5 polzades</item>
     <item>4,0 polzades</item>
@@ -871,64 +676,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
   <string-array name="fluency_mode_confirms">
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
-  </string-array>
-  <string-array name="screen_resolution_entries">
-    <item>Molt alta (2K)</item>
-    <item>Normal (720p)</item>
-  </string-array>
-  <string-array name="miui_entries_font_size">
-    <item>S</item>
-    <item>M</item>
-    <item>L</item>
-    <item>XL</item>
-    <item>XXL</item>
-    <item>XXXL</item>
-  </string-array>
-  <string-array name="broadcast_locales">
-    <item>AE</item>
-    <item>AG</item>
-    <item>AR</item>
-    <item>BH</item>
-    <item>BO</item>
-    <item>BS</item>
-    <item>BB</item>
-    <item>BZ</item>
-    <item>BR</item>
-    <item>CL</item>
-    <item>CO</item>
-    <item>CR</item>
-    <item>CU</item>
-    <item>EC</item>
-    <item>EG</item>
-    <item>GF</item>
-    <item>GD</item>
-    <item>GQ</item>
-    <item>GT</item>
-    <item>GY</item>
-    <item>HT</item>
-    <item>HN</item>
-    <item>IN</item>
-    <item>IL</item>
-    <item>IR</item>
-    <item>JM</item>
-    <item>JO</item>
-    <item>KW</item>
-    <item>MX</item>
-    <item>NI</item>
-    <item>OM</item>
-    <item>PA</item>
-    <item>PY</item>
-    <item>PE</item>
-    <item>QA</item>
-    <item>SA</item>
-    <item>SR</item>
-    <item>KN</item>
-    <item>LC</item>
-    <item>VC</item>
-    <item>TW</item>
-    <item>TT</item>
-    <item>UY</item>
-    <item>VE</item>
   </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
@@ -969,15 +716,5 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fitxers</item>
     <item>Notes</item>
     <item>Mode infantil</item>
-  </string-array>
-  <string-array name="standard_configuration_version_device_display_description_text_1">
-    <item>GB</item>
-    <item>16MP</item>
-    <item>95%NTSC</item>
-  </string-array>
-  <string-array name="standard_configuration_version_device_display_description_text_2">
-    <item>GB</item>
-    <item>蓝宝石</item>
-    <item>600nit</item>
   </string-array>
 </resources>
