@@ -149,7 +149,7 @@
   <string name="click_to_login">Prem per iniciar sessió</string>
   <string name="click_to_retry">Prem per tornar-ho a provar</string>
   <string name="click_to_shrink">Minimitza</string>
-  <string name="close">Apaga</string>
+  <string name="close">Atura</string>
   <string name="comment_bad">Més o menys</string>
   <string name="comment_good">M\'agrada</string>
   <string name="commit_done">Enviat</string>
@@ -467,7 +467,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_tip_pause">Funciona el botó de pausa?</string>
   <string name="match_tip_play">Funciona el botó de reproducció?</string>
   <string name="match_tip_power">El dispositiu commuta on/off?</string>
-  <string name="match_tip_power_off">El dispositiu s\'ha apagat?</string>
+  <string name="match_tip_power_off">El dispositiu s\'ha aturat?</string>
   <string name="match_tip_power_on">El dispositiu s\'ha engegat?</string>
   <string name="match_tip_rew">Funciona el botó de retrocedir?</string>
   <string name="match_tip_stop">Funciona el botó d\'aturada?</string>
@@ -483,7 +483,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_tv_name_volume">Volum +</string>
   <string name="match_type_selection_des">Escolliu el dispositiu per emparellar</string>
   <string name="match_type_selection_title">Tipus</string>
-  <string name="match_voh_intro_open">Allibereu quan s\'encengui el projector</string>
+  <string name="match_voh_intro_open">Allibereu quan s\'engegui el projector</string>
   <string name="match_vol_dec">El volum ha disminuït?</string>
   <string name="match_vol_inc">El volum ha pujat?</string>
   <string name="max_enter">No es pot excedir els %d caràcters</string>
@@ -714,6 +714,7 @@ To activate your account, follow the
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
+  <string name="passport_xiaomi_account_sec_dspt"></string>
   <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Necessiteu una connexió a internet per iniciar la sessió al compte Mi. A més, s\'encendra automàticament l\'accés a la localització, Mi Cloud i Mi VIP.</string>
   <string name="place_frame">"Ubicació: "</string>
@@ -729,8 +730,8 @@ To activate your account, follow the
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
   <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
   <string name="power">Encesa</string>
-  <string name="power_off">Apaga</string>
-  <string name="power_on">Engega</string>
+  <string name="power_off">Aturat</string>
+  <string name="power_on">Engegat</string>
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
@@ -962,7 +963,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
   <string name="tune_from_first_channel">从频道1开始换台</string>
-  <string name="turn_off">Apaga</string>
+  <string name="turn_off">Atura</string>
   <string name="turn_off_timeing_time_tip">L\'AC es pararà a les %1$s</string>
   <string name="turn_on">Engega</string>
   <string name="turn_on_timeing_time_tip">L\'AC s\'engegarà a les %1$s</string>

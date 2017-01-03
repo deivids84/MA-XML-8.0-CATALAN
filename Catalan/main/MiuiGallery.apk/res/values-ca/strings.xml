@@ -131,6 +131,7 @@
   <string name="backuping">S\'està fent la còpia de seguretat %1$d/%2$d</string>
   <string name="begin_share">S\'ha creat l\'àlbum de nadó \"%s\". Ja el podeu compartir</string>
   <string name="begin_share_toast">Voleu crear un àlbum separat per aquest nen abans de compartir-lo?</string>
+  <string name="blank_app_name"></string>
   <string name="browse_category_title">Navegació</string>
   <string name="buy_member_tip">Fer-se membre</string>
   <string name="by_email">Correu electrònic</string>
@@ -788,7 +789,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="menu_item_sort_size">Mida</string>
   <string name="menu_view_contact">Veure contacte</string>
   <string name="merge_album">Combina</string>
-  <string name="merge_album_title">Combina àlbums</string>
+  <string name="merge_album_title">Combina amb una persona</string>
   <string name="messagelist_sender_self">Jo</string>
   <string name="micloud_introduce">Còpia de seguretat automàtica de fotos i vídeos (es necessita un compte Mi)</string>
   <string name="more_album_hint">, etc.</string>
@@ -835,6 +836,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_move_to_other_albums">Mou-lo a altres àlbums</string>
   <string name="operation_not_show_in_photos_tab">"No mostris a la pestanya «Fotos»"</string>
   <string name="operation_projection">Emet</string>
+  <string name="operation_remove_face">Eliminar</string>
   <string name="operation_remove_from_face_album">Elimina de l\'àlbum</string>
   <string name="operation_remove_from_other_albums">Mou-lo dels altres àlbums</string>
   <string name="operation_remove_secret">No amaguis</string>
@@ -910,11 +912,16 @@ Feu més fotos als vostres amics!"</string>
   <string name="relation_with_you">Trieu una relació</string>
   <string name="release_space_finish_format">S\'han alliberat %s d\'emmagatzematge local</string>
   <string name="remind_face_recommend_confirm">Confirma</string>
+  <string name="remove_from_album_message">Aquesta foto ja no es mostra aquí</string>
+  <string name="remove_from_album_title">Eliminar d\'aquest àlbum</string>
+  <string name="remove_from_current_album">Eliminar d\'aquest àlbum</string>
   <string name="remove_from_other_albums_tip">Activeu la sincronització amb Mi Cloud per moure elements d\'altres àlbums. Voleu moure\'l ara?</string>
   <string name="remove_from_secret_fail">"No es pot eliminar de l'àlbum ocult"</string>
   <string name="remove_from_secret_failed_with_reason">"No es pot eliminar de l'àlbum ocult. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elements no es poden eliminar de l'àlbum ocult. %1$s."</string>
   <string name="remove_from_secret_successful">Eliminat de l\'àlbum ocult</string>
+  <string name="remove_to_album_title">Fusionar-se amb</string>
+  <string name="remove_to_other_album">Fusionar-se amb una persona diferent</string>
   <string name="rename_face_album">Canvia el nom</string>
   <string name="rename_fail_msg">"No es pot canviar nom"</string>
   <string name="rename_from_contact">Agafa el nom dels contactes</string>

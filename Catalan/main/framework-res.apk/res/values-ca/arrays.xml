@@ -38,10 +38,43 @@
     <item>Altre</item>
     <item>Personalitzat</item>
   </string-array>
+  <array name="config_keySystemUuidMapping"></array>
+  <array name="preloaded_color_state_lists"></array>
   <string-array name="app_ops_labels">
     <item>S\'està tractant d\'activar la Wi-Fi</item>
     <item>S\'està tractant d\'activar el BT</item>
   </string-array>
+  <array name="config_tether_wimax_regexs"></array>
+  <array name="config_mobile_hotspot_provision_app"></array>
+  <array name="config_cdma_dun_supported_types"></array>
+  <array name="config_tether_apndata"></array>
+  <array name="config_usbHostBlacklist"></array>
+  <array name="config_serialPorts"></array>
+  <array name="config_autoBrightnessButtonBacklightValues"></array>
+  <array name="config_autoBrightnessKeyboardBacklightValues"></array>
+  <array name="config_ephemeralResolverPackage"></array>
+  <array name="config_testLocationProviders"></array>
+  <array name="config_twoDigitNumberPattern"></array>
+  <array name="config_sms_enabled_single_shift_tables"></array>
+  <array name="config_sms_enabled_locking_shift_tables"></array>
+  <array name="config_oemUsbModeOverride"></array>
+  <array name="config_disabledUntilUsedPreinstalledCarrierApps"></array>
+  <array name="config_operatorConsideredNonRoaming"></array>
+  <array name="config_sameNamedOperatorConsideredRoaming"></array>
+  <array name="config_cdma_home_system"></array>
+  <array name="config_default_vm_number"></array>
+  <array name="dial_string_replace"></array>
+  <array name="config_cdma_international_roaming_indicators"></array>
+  <array name="config_cell_retries_per_error_code"></array>
+  <array name="lboostv2_param_value"></array>
+  <array name="freqaggr_init_param_value"></array>
+  <array name="freqaggr_param_value"></array>
+  <array name="launchboost_packing_param_value"></array>
+  <array name="animationboost_param_value"></array>
+  <array name="boost_activityList"></array>
+  <array name="ascrollboost_param_value"></array>
+  <array name="panelview_flingboost_param_value"></array>
+  <array name="config_defaultPinnerServiceFiles"></array>
   <string-array name="origin_carrier_names">
     <item>"CHINA  MOBILE"</item>
     <item>CMCC</item>
@@ -58,6 +91,8 @@
     <item>中國電信</item>
     <item>S\'està cercant el servei</item>
   </string-array>
+  <array name="keypress_param_value"></array>
+  <array name="common_nicknames"></array>
   <string-array name="wfcOperatorErrorAlertMessages">
     <item>Per fer trucades i enviar missatges per Wi-Fi, primer heu de demanar a l\'operador de telefonia mòbil que configuri aquest servei. Després, torneu a activar les trucades per Wi-Fi des de la Configuració.</item>
   </string-array>
@@ -89,10 +124,14 @@
     <item>Reservat17</item>
     <item>Reservat18</item>
   </string-array>
+  <array name="fingerprint_error_vendor"></array>
   <string-array name="imAddressTypes">
     <item>Casa</item>
     <item>Feina</item>
     <item>Altre</item>
     <item>Personalitzat</item>
   </string-array>
+  <array name="carrier_properties"></array>
+  <array name="securespaces_extension_encryption_userRestrictions"></array>
+  <array name="securespaces_extension_hidden_userRestrictions"></array>
 </resources>

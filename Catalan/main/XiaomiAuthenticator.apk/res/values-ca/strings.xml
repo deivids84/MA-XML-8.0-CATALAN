@@ -76,7 +76,9 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_continue_button_text">Continuar</string>
   <string name="lockpattern_need_to_confirm">Dibuje de nuevo su patrón para confirmar:</string>
   <string name="lockpattern_need_to_confirm_wrong">Los patrones no coinciden. Inténtelo de nuevo:</string>
+  <string name="lockpattern_need_to_unlock_footer"></string>
   <string name="lockpattern_need_to_unlock_wrong">Contraseña errónea, le quedan %d intentos más</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"></string>
   <string name="lockpattern_pattern_confirmed_header">Su nuevo patrón de desbloqueo:</string>
   <string name="lockpattern_pattern_entered_header">Patrón registrado.</string>
   <string name="lockpattern_recording_incorrect_too_short">Conecte al menos %d puntos. Inténtelo de nuevo:</string>

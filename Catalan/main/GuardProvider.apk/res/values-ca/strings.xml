@@ -10,6 +10,8 @@
   <string name="Mi">Mi</string>
   <string name="Tencent">Tencent</string>
   <string name="app_name">Components de seguretat MIUI</string>
+  <string name="avast_dialog_cloudscan"></string>
+  <string name="avast_dialog_dbupdate"></string>
   <string name="avast_dialog_header">"Aquesta característica xifra i carrega l'ID de dispositiu als servidors d'Avast (%s)."</string>
   <string name="avast_dialog_policy">mostra la política de privadesa</string>
   <string name="avast_dialog_title">"Política de privacitat d'Avast"</string>
@@ -28,10 +30,13 @@
   <string name="avast_virus_type_trjan_description">"El virus és un troià. És un malware dissenyat per proporcionar un accés no autoritzat, a distància al dispositiu d'un usuari. Els troians normalment no tenen la capacitat de replicar-se a si mateixos com els virus. No obstant això, poden donar lloc a un altre tipus de malware que s'instal·la en el dispositiu, les dades siguin robades, o altres activitats malicioses."</string>
   <string name="avast_virus_type_unknown_description">Tipus d\'infecció desconeguda.</string>
   <string name="avast_virus_type_worm_description">El virus és un cuc. És un malware independent que es replica a si mateix amb la finalitat de difondre a altres dispositius. S\'aprofita de fitxers o funcions de transferència d\'informació del seu sistema (per exemple, xarxes), pot viatjar sense cap acció humana. Els cucs gairebé sempre causen almenys alguns danys a la xarxa.</string>
+  <string name="avl_dialog_cloudscan"></string>
+  <string name="avl_dialog_dbupdate"></string>
   <string name="avl_dialog_header">"Aquesta funcionalitat encripta i puja l'ID del dispositiu als servidors d'AVL (%s)."</string>
   <string name="avl_dialog_policy">mostra la Política de Privacitat</string>
   <string name="avl_dialog_title">"Política de Privacitat d'AVL"</string>
   <string name="avl_dialog_url">http://sdk.avlsec.com/policy/en.html</string>
+  <string name="default_sdcard_volume_path"></string>
   <string name="hello_world">Hola món!</string>
   <string name="menu_settings">Configuració</string>
   <string name="tencent_dialog_cloudscan">Puja i escaneja els noms i detalls d\'aplicacions fent servir definicions de virus en línia.</string>

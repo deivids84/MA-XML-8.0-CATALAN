@@ -123,5 +123,4 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="start_recover">Restaura %s</string>
   <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici encesesa</string>
   <string name="wait_icon_download">S\'està baixant icones d\'aplicacions</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

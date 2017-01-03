@@ -16,11 +16,11 @@
   <string name="activate_feature_register_xiaomi_account">Configuració del compte Mi</string>
   <string name="activate_feature_remote_assist">Assistència remota</string>
   <string name="activate_feature_verify_mx_token">Verificació del compte Mi</string>
-  <string name="activate_history_cancelled">Cancel·lat</string>
-  <string name="activate_history_multisim_overview">Activació de la targeta SIM %3$d %1$s. Motivada per \"«%2$s»\".</string>
-  <string name="activate_history_overview">Activació de la targeta SIM %1$s. Motivada per \"«%2$s»\".</string>
+  <string name="activate_history_canceled_overview">Activació de la targeta SIM s\'ha cancel·lat. L\'activació és provocada per \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">La targeta SIM %2$d activació es va cancel·lar. L\'activació és provocada per \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">Activat targeta SIM %2$d amb èxit. L\'activació és provocada per \"%1$s\".</string>
   <string name="activate_history_sms">S\'ha enviat un SMS durant l\'activació.</string>
-  <string name="activate_history_success">Correcte</string>
+  <string name="activate_history_success_overview">Activat targeta SIM amb èxit. L\'activació és provocada per \"%1$s\".</string>
   <string name="activate_history_title">Activació de targeta SIM</string>
   <string name="activate_phone_cancel_notif_title">S\'ha cancel·lat l\'activació de la targeta SIM</string>
   <string name="activate_phone_cancel_notif_title_msim">S\'ha cancel·lat l\'activació de la targeta SIM %s</string>

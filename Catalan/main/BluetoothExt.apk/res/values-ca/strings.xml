@@ -34,6 +34,7 @@
   <string name="map_notif_title">Sol·licitud de clau d\'accés a MAP</string>
   <string name="map_session_key_dialog_header">Cal una clau per la sessió Bluetooth</string>
   <string name="map_session_key_dialog_title">Introduïu la clau de sessió per a %1$s</string>
+  <string name="process"></string>
   <string name="sap_acceptance_timeout_message">S\'ha esgotat el temps per acceptar la connexió amb %1$s</string>
   <string name="sap_notif_message">Toqueu per connectar amb «%1$s».</string>
   <string name="sap_notif_ticker">Sol·licitud d\'accés Bluetooth a la SIM</string>

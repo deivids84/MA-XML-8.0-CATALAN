@@ -10,11 +10,14 @@
   <string name="act_weather_find_city_net_no_good">"No es pot connectar a la xarxa."</string>
   <string name="act_weather_find_city_no_result">No s\'ha trobat res</string>
   <string name="act_weather_find_city_searching">S\'està cercant&#8230;</string>
+  <string name="activity_alert_detail_title"></string>
   <string name="activity_find_city_dialog_cancel">Cancel·la</string>
   <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
+  <string name="activity_main_alert"></string>
   <string name="activity_main_clickable">&gt;</string>
+  <string name="activity_main_one_alert"></string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
@@ -22,7 +25,12 @@
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
+  <string name="ads_extension"></string>
+  <string name="ads_install_num"></string>
+  <string name="ads_score_title"></string>
   <string name="alert_warning">Alertes meteorològiques</string>
+  <string name="already_voted">Ja heu votat</string>
+  <string name="already_voted_toast">"Avui ja l'heu seleccionat"</string>
   <string name="app_name">El temps</string>
   <string name="aqi_data_source">Funciona amb Caiyun Weather</string>
   <string name="aqi_desc">Índex de qualitat de l\'aire</string>
@@ -50,6 +58,7 @@
   <string name="button_exit">Surt</string>
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
+  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
   <string name="commercial">Publicitat</string>
   <string name="common_loading_text">Un moment&#8230;</string>
@@ -58,15 +67,17 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
+  <string name="daily_forcast_temperature_connect"></string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
+  <string name="daily_forecast_detail">Detall de la previsió</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_detail_date_format">del %1$s al %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Gestioneu les alertes</string>
-  <string name="edit_city">Edita</string>
+  <string name="edit_city">Edita la ciutat</string>
   <string name="first_start_network_msg">Aquesta aplicació necessita connectar-se a Internet i accedir a la vostra ubicació per funcionar correctament.</string>
   <string name="first_start_network_title">Accés a la connexió a Internet i a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
@@ -95,8 +106,10 @@
   <string name="indices_title_visibility">Visibilitat</string>
   <string name="information_manager_information">Informació meteorològica</string>
   <string name="information_manager_wlan">Mostra quan estigui connectat al Wifi</string>
+  <string name="information_menu_title"></string>
   <string name="information_set">Configuració de la pàgina d\'inici</string>
   <string name="information_time_source">%1$s | %2$s</string>
+  <string name="information_views"></string>
   <string name="install">Instal·la</string>
   <string name="international_detail_menu_title">Detalls</string>
   <string name="international_details_pressure_title">PRESSIÓ</string>
@@ -109,6 +122,7 @@
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_management">Ubicacions</string>
   <string name="location_tag">Ubica</string>
+  <string name="lunar_calendar"></string>
   <string name="menu_add_city">Edita les ubicacions</string>
   <string name="menu_location">Ubicacions</string>
   <string name="mi_pad2">latte</string>
@@ -117,6 +131,8 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Torna-ho a provar</string>
+  <string name="no_vote_num">%1$sgent |</string>
+  <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="pressure_connect">%1$s mbar</string>
@@ -151,17 +167,33 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
+  <string name="total_voted_num_text">"&lt;font color=\"#20a7ff '&gt;%1$s&lt;/font&gt; la gent ha votat"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>
   <string name="traffic_control_today_numbers">Avui: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Demà: %1$s</string>
   <string name="traffic_controls">Restriccions de trànsit</string>
+  <string name="tts_report_aqi"></string>
+  <string name="tts_report_city_name"></string>
+  <string name="tts_report_defautl_head"></string>
+  <string name="tts_report_split"></string>
+  <string name="tts_report_temperature_high"></string>
+  <string name="tts_report_temperature_low"></string>
+  <string name="tts_report_weather_desc"></string>
+  <string name="tts_report_wind"></string>
+  <string name="twc_logo_title"></string>
   <string name="unit">Unitats</string>
   <string name="unit_temperature">Unitats de temperatura</string>
   <string name="unit_wind">Unitats de velocitat del vent</string>
+  <string name="video_dialog_no_play"></string>
+  <string name="video_dialog_play"></string>
+  <string name="video_dialog_subtitle"></string>
+  <string name="video_dialog_title"></string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>
   <string name="view_indexes_item_tommorrow">Demà</string>
   <string name="weather_alert">Alertes meteorològiques</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="yes_vote_num">| %1$sgent</string>
+  <string name="yes_vote_ratio">pros %1$s%%</string>
 </resources>

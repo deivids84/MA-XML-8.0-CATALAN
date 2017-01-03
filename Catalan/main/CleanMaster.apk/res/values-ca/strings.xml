@@ -366,6 +366,8 @@
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommend_the_following">Prengueu les següents accions per obtenir el màxim profit del seu dispositiu</string>
   <string name="recommended">Recomanat</string>
+  <string name="remain_item_name_n7p"></string>
+  <string name="remain_item_name_pamp"></string>
   <string name="safety_check_detail">%1$d vegades, guanyats %2$d punts</string>
   <string name="safety_rank">Per davant de %d%% usuaris de MIUI en termes de seguretat</string>
   <string name="sc_allow_network_dialog_button">Permet</string>

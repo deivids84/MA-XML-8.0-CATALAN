@@ -143,6 +143,7 @@
   <string name="pref_camera_beautify_entryvalue_high">3</string>
   <string name="pref_camera_beautify_entryvalue_low">1</string>
   <string name="pref_camera_beautify_entryvalue_normal">2</string>
+  <string name="pref_camera_coloreffect_entry_aqua"></string>
   <string name="pref_camera_coloreffect_entry_big_face">Dispersió</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Blanc i negre</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ull de peix</string>
@@ -155,7 +156,10 @@
   <string name="pref_camera_coloreffect_entry_mirror">Mirall</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
+  <string name="pref_camera_coloreffect_entry_negative"></string>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
+  <string name="pref_camera_coloreffect_entry_posterize"></string>
+  <string name="pref_camera_coloreffect_entry_sepia"></string>
   <string name="pref_camera_coloreffect_entry_sketch">Dibuix</string>
   <string name="pref_camera_coloreffect_entry_small_face">Aixafa</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vívid</string>

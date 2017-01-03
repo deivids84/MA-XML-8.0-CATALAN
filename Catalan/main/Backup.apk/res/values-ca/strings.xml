@@ -158,9 +158,9 @@
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restauració de dades</string>
   <string name="notif_trans_receiving_completed">Dades rebudes correctament</string>
-  <string name="notif_trans_receiving_failed">Error en rebre les dades</string>
+  <string name="notif_trans_receiving_failed">"Error en rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
-  <string name="notif_trans_sending_failed">Error en enviar les dades</string>
+  <string name="notif_trans_sending_failed">"Error en enviar les dades"</string>
   <string name="page_loading">Un moment&#8230;</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat&#8230;</string>
   <string name="progress_restore_hint">S\'està restaurant&#8230;</string>

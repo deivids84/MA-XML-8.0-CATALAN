@@ -13,10 +13,6 @@
   <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
   <string name="APN_NAME_CUWAP">China Unicom WAP</string>
   <string name="Accounts_settings_title">Comptes</string>
-  <string name="aaid_info">«
-L\'identificador de publicitat del dispositiu és únic i permanent. Serveix als anunciants per oferir-vos publicitat personalitzada.
-
-Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat d\'anuncis sinó que no es personalitzaran.»</string>
   <string name="abc_action_bar_home_description">Torna a la pàgina d\'inici</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -36,6 +32,7 @@ Si trieu que no voleu rebre anuncis personalitzats, no es reduirà la quantitat 
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="about_ad_service_instructions">Quant als serveis de publicitat i privacitat</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
   <string name="about_summary">Android %1$s</string>
@@ -169,9 +166,16 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
 L\'Administrador pot supervisar i administrar la configuració. També pot gestionar l\'accés a les aplicacions i a les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació.»</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="additional_permissions_more">%1$d més</string>
+  <string name="additional_system_update"></string>
+  <string name="additional_system_update_menu"></string>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
   <string name="adjust_3d_depth_title">"Ajusta la profunditat dels jocs 3D"</string>
+  <string name="admin_device_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb aquest dispositiu, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_disabled_other_options">L\'administrador ha desactivat altres opcions.</string>
   <string name="admin_more_details">Més detalls</string>
+  <string name="admin_profile_owner_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades amb el perfil professional, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_profile_owner_user_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades d'aquest usuari, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
+  <string name="admin_support_more_info">Més detalls</string>
   <string name="advanced_apps">Avançat</string>
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
@@ -182,6 +186,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="agps_roaming_dia_title">Utilitzeu l\'A-GPS en itinerància</string>
   <string name="agps_roaming_summary">Utilitza dades mòbils quan el GPS és en itinerància</string>
   <string name="airplane_mode">Mode avió</string>
+  <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
   <string name="alarm_sound_title">So de l\'alarma</string>
   <string name="alarm_volume_option_title">Volum de l\'alarma</string>
@@ -209,6 +214,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="android_beam_tips">Assegureu-vos que els dos dispositius es toquen i premeu sobre el contingut que voleu transmetre.</string>
   <string name="android_beam_witch_label">Transmissió Android</string>
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
+  <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
   <string name="anr_record_interval_title">Gravació d\'intervals ANR</string>
   <string name="anti_spam">Llista de bloqueig</string>
   <string name="apn_apn">APN</string>
@@ -256,6 +262,9 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="app_floating_window_dlg_disable">"Si atureu la configuració de la finestra flotant %1$s's haureu de reinicialitzar l'aplicació."</string>
   <string name="app_floating_window_dlg_enable">"Si activeu la configuració de la finestra flotant %1$s's haureu de reinicialitzar l'aplicació."</string>
   <string name="app_forward_locked">L\'aplicació és protegida contra còpies.</string>
+  <string name="app_install_details_group_title">Botiga</string>
+  <string name="app_install_details_summary">Aplicació instal·lada des de %1$s</string>
+  <string name="app_install_details_title">Informació de l\'aplicació</string>
   <string name="app_install_location_summary">Canvia la ruta d\'instal·lació preferida per les noves aplicacions</string>
   <string name="app_install_location_title">Lloc d\'instal·lació preferit</string>
   <string name="app_invisible">Aplicació invisible</string>
@@ -272,16 +281,22 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="app_memory_use">Memoria en ús</string>
   <string name="app_name_label">Aplicació</string>
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
+  <string name="app_not_found_dlg_title"></string>
   <string name="app_notification_block_summary">No mostris mai notificacions d\'aquesta aplicació</string>
   <string name="app_notification_block_title">Bloqueja-ho tot</string>
+  <string name="app_notification_importance_title">Importància</string>
+  <string name="app_notification_override_dnd_summary">Permet que aquestes notificacions continuïn interrompent quan el mode No molesteu estigui configurat com a Només amb prioritat</string>
+  <string name="app_notification_override_dnd_title">Prioritat de No molesteu</string>
   <string name="app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="app_notification_row_banned">S\'ha bloquejat</string>
   <string name="app_notification_row_priority">Prioritat</string>
   <string name="app_notification_row_sensitive">Confidencial</string>
+  <string name="app_notification_visibility_override_title">A la pantalla de bloqueig</string>
   <string name="app_notifications_dialog_done">Fet</string>
   <string name="app_notifications_switch_label">Notificacions personalitzades</string>
   <string name="app_notifications_title">Notificacions de les aplicacions</string>
   <string name="app_ops_never_used">(No s\'ha fet servir mai)</string>
+  <string name="app_ops_permiss_name">Accés a la xarxa de l\'aplicació</string>
   <string name="app_ops_running">S\'està executant</string>
   <string name="app_ops_settings">Funcionament de les aplicacions</string>
   <string name="app_overlay_permission_preference">Permís de sobreposició de l\'aplicació</string>
@@ -314,6 +329,8 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
+  <string name="apps_summary">%1$d aplicacions instal·lades</string>
+  <string name="apps_summary_example">24 aplicacions instal·lades</string>
   <string name="apps_with_restrictions_header">Aplicacions amb restriccions</string>
   <string name="apps_with_restrictions_settings_button">Amplia la configuració de les aplicacions</string>
   <string name="ask_compatibility">Quan s\'executi demana-ho</string>
@@ -381,6 +398,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="backup_data_title">Feu una còpia de seguretat de les dades</string>
   <string name="backup_disabled">Còpia de seguretat desactivada</string>
   <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, adreces d\'interès, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
+  <string name="backup_erase_dialog_title"></string>
   <string name="backup_inactive_title">S\'ha deshabilitat el servei de còpies de seguretat.</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
@@ -581,6 +599,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_enter_passkey_msg">Teclegeu el codi de vinculació i premeu Enter</string>
   <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
   <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
+  <string name="bluetooth_error_title"></string>
   <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizeu-lo per l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu</string>
@@ -672,6 +691,13 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_settings_summary">Organitza les connexions, estableix el nom del dispositiu i la visibilitat</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Mostra els fitxers rebuts</string>
+  <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+  <string name="bluetooth_talkback_computer">Ordinador</string>
+  <string name="bluetooth_talkback_headphone">Auriculars</string>
+  <string name="bluetooth_talkback_headset">Auricular</string>
+  <string name="bluetooth_talkback_imaging">Sincronització Bluetooth</string>
+  <string name="bluetooth_talkback_input_peripheral">Perifèric d\'entrada</string>
+  <string name="bluetooth_talkback_phone">Telèfon</string>
   <string name="bluetooth_tether_checkbox_text">Comparteix internet per Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">S\'està compartint la connexió a Internet del telèfon</string>
   <string name="bluetooth_tethering_device_connected_subtext">S\'està compartint la connexió a Internet del telèfon amb 1 dispositiu</string>
@@ -682,6 +708,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_tethering_overflow_error">No es pot compartir la connexió a internet amb més de %1$d dispositius.</string>
   <string name="bluetooth_turning_off">S\'està desactivant el Bluetooth&#8230;</string>
   <string name="bluetooth_turning_on">S\'està activant el Bluetooth&#8230;</string>
+  <string name="bluetooth_unknown"></string>
   <string name="bluetooth_unlock_add_device">Afegeix dispositiu</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositiu anterior es substituirà pel dispositiu actual.</string>
   <string name="bluetooth_unlock_change_matched_device">Tria un altre dispositiu</string>
@@ -750,6 +777,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="build_number">Número de compilació</string>
   <string name="builtin_keyboard_settings_summary">Configuració del teclat físic </string>
   <string name="builtin_keyboard_settings_title">Teclat físic</string>
+  <string name="button_confirm_convert_fbe">Esborra i converteix</string>
+  <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="button_disconnect_network">Desconnecta de la xarxa</string>
   <string name="button_light_timeout">Durada de la llum dels botons</string>
   <string name="button_text_accept">D\'acord</string>
@@ -772,6 +801,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="call_settings_summary">Configura la bústia de veu, devolució de trucada, trucada en espera, identificador de trucada</string>
   <string name="call_settings_title">Configuració de trucada</string>
   <string name="calls_title">Trucades</string>
+  <string name="camera_double_tap_power_gesture_desc">Obre ràpidament la càmera sense haver de desbloquejar la pantalla</string>
+  <string name="camera_double_tap_power_gesture_title">Botó d\'engegada dos cops per obrir càmera</string>
+  <string name="camera_gesture_desc">Gira el canell dues vegades per obrir l\'aplicació Càmera</string>
+  <string name="camera_gesture_title">Doble gir per obrir Càmera</string>
   <string name="camera_key_action_app_title">Obre l\'aplicació</string>
   <string name="camera_key_action_category_title">"No es pot utilitzar la càmera"</string>
   <string name="camera_key_action_none_title">No facis res</string>
@@ -821,13 +854,22 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
   <string name="cell_broadcast_settings">Difusions d\'emergència</string>
+  <string name="cell_data_template">%1$s dades mòbils</string>
+  <string name="cell_warning_and_limit">%1$s Advertiment sobre ús de dades / %2$s Límit de dades</string>
+  <string name="cell_warning_only">%1$s Advertiment sobre ús de dades</string>
   <string name="cellular_data_summary">Permet l\'accés de dades a través de la xarxa mòbil</string>
   <string name="cellular_data_title">Dades mòbils</string>
+  <string name="cellular_data_usage">Ús de dades mòbils</string>
+  <string name="cellular_to_wlan_hint_summary">Permet suggeriments quan és en manual o que sempre ho demani en mòbil -&gt; Wi-Fi</string>
+  <string name="cellular_to_wlan_hint_title">Mòbil -&gt; Wi-Fi suggeriments</string>
+  <string name="cellular_to_wlan_hint_toast">Mòbil -&gt;La connexió Wi-Fi pot quedar afectada</string>
+  <string name="cellular_to_wlan_title">Mòbil -&gt;Wi-Fi</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Canvia</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
   <string name="change_storage">Canvia l\'emmagatzematge</string>
+  <string name="charge_length_format">Fa %1$s</string>
   <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
   <string name="check_update">Comprova les actualitzacions</string>
@@ -844,6 +886,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="choose_assist_title">Trieu l\'Assistent</string>
   <string name="choose_profile">Trieu el perfil</string>
   <string name="choose_smartcover_type">Trieu el tipus de funda</string>
+  <string name="choose_spell_checker">Tria el corrector ortogràfic</string>
   <string name="choose_timezone">Trieu el fus horàri</string>
   <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
   <string name="cleaner">Netejador</string>
@@ -856,10 +899,13 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_data_failed">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_text">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_title">Suprimeix les dades</string>
+  <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="collect_diagnostics_summary">Recull dades de diagnòstic per a la depuració</string>
+  <string name="collect_diagnostics_title">Recull la diagnosi</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nadiu</string>
@@ -873,6 +919,9 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_orange">Carbassa</string>
   <string name="color_purple">Lila</string>
   <string name="color_red">Vermell</string>
+  <string name="color_temperature">Temperatura del color fred</string>
+  <string name="color_temperature_desc">Utilitza colors de pantalla més freds</string>
+  <string name="color_temperature_toast">Desactiva la pantalla per aplicar el canvi de color</string>
   <string name="color_title">Color</string>
   <string name="color_unspecified">Predeterminat</string>
   <string name="color_white">Blanc</string>
@@ -880,9 +929,27 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="common_settings">Configuració ràpida</string>
   <string name="complete_settings">Configuració general</string>
   <string name="computing_size">S\'està calculant&#8230;</string>
+  <string name="condition_airplane_summary">"La Wi-Fi, el Bluetooth, i la xarxa mòbil estan desactivats. No podeu fer trucades telefòniques ni connectar-vos a Internet."</string>
+  <string name="condition_airplane_title">Mode d\'avió activat</string>
+  <string name="condition_battery_summary">El rendiment ha disminuït. Els Serveis d\'ubicació i les dades en segon pla s\'han desactivat.</string>
+  <string name="condition_battery_title">Estalvi de bateria activat</string>
+  <string name="condition_bg_data_summary">Les dades en segon pla només estan disponibles mitjançant una Wi-Fi. Això pot afectar aplicacions o serveis determinats quan no n\'hi hagi cap de disponible.</string>
+  <string name="condition_bg_data_title">Economitzador de dades activat</string>
+  <string name="condition_cellular_summary">Internet només és disponible per Wi-Fi</string>
+  <string name="condition_cellular_title">Dades mòbils desactivades</string>
+  <string name="condition_expand_hide">​​Amaga</string>
+  <string name="condition_expand_show">Mostra</string>
+  <string name="condition_hotspot_summary">S\'ha activat el punt d\'accés Wi-Fi %1$s. S\'ha desactivat la Wi-Fi del dispositiu.</string>
+  <string name="condition_hotspot_title">Punt d\'accés activat</string>
+  <string name="condition_turn_off">Apaga</string>
+  <string name="condition_turn_on">Engega</string>
+  <string name="condition_work_summary">Les aplicacions, la sincronització en segon pla i altres funcions relacionades amb el perfil professional estan desactivades.</string>
+  <string name="condition_work_title">Perfil professional desactivat</string>
+  <string name="condition_zen_title">S\'ha activat el mode No molesteu (%1$s)</string>
   <string name="config_charging_function_name">s\'està carregant</string>
   <string name="config_list_label">Xarxes configurades</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
+  <string name="configure">Configuració</string>
   <string name="configure_apps">Configura les aplicacions</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
   <string name="configure_notification_settings">Configura les notificacions</string>
@@ -904,7 +971,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
-  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent de Wi‑Fi</string>
+  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'auxiliar de Wi‑Fi</string>
   <string name="connected_wifi">S\'ha connectat</string>
   <string name="connecting_to_vpn">S\'està connectant amb la VPN</string>
   <string name="contributors_title">Col·laboradors</string>
@@ -939,6 +1006,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="credentials_reset_warning_plural">Contrasenya incorrecta. Teniu %1$d intents més abans que l\'emmagatzematge de credencials s\'esborri.</string>
   <string name="credentials_settings_not_available">Les credencials no estan disponibles per aquest usuari</string>
   <string name="credentials_title">Emmagatzematge de credencials</string>
+  <string name="credentials_unlock"></string>
   <string name="credentials_unlock_hint">Introduïu la contrasenya per a l\'emmagatzematge de certificats.</string>
   <string name="credentials_wrong_password">La contrasenya no és correcta.</string>
   <string name="crypt_keeper_button_text">Xifra el telèfon</string>
@@ -1243,6 +1311,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="dlg_confirm_unmount_text">Si desmunteu l\'emmagatzematge USB algunes aplicacions que s\'estan utilitzant s\'aturaran i és possible que no estiguin disponibles fins que torneu a muntar l\'emmagatzematge USB.</string>
   <string name="dlg_confirm_unmount_title">Voleu desmuntar l\'emmagatzematge USB?</string>
   <string name="dlg_error_unmount_text">No s\'ha pogut desmuntar l\'emmagatzematge USB. Proveu-ho més tard.</string>
+  <string name="dlg_error_unmount_title"></string>
   <string name="dlg_ok">D\'acord</string>
   <string name="dlg_remove_locales_error_message">Conserva com a mínim un idioma preferit</string>
   <string name="dlg_remove_locales_error_title">No es poden suprimir tots els idiomes</string>
@@ -1432,7 +1501,10 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="error_mcc_not3">El camp MCC ha de tenir 3 dígits.</string>
   <string name="error_mnc_not23">El camp MNC ha de tenir 2 o 3 dígits.</string>
   <string name="error_name_empty">El camp Nom no pot quedar buit.</string>
+  <string name="error_title"></string>
   <string name="ethernet">Ethernet</string>
+  <string name="ethernet_data_template">%1$s dades Ethernet</string>
+  <string name="ethernet_data_usage">Ús de dades Ethernet</string>
   <string name="every_day">Cada dia</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">Codi a la memòria externa</string>
@@ -1458,8 +1530,10 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="filter_dlg_title">Selecció d\'opcions de filtre</string>
   <string name="filter_enabled_apps">Habilitat</string>
   <string name="filter_notif_blocked_apps">Bloquejat</string>
+  <string name="filter_notif_hide_notifications_apps">No les mostris mai a la pantalla de bloqueig</string>
   <string name="filter_notif_priority_apps">Prioritat</string>
   <string name="filter_notif_sensitive_apps">Contingut sensible amagat</string>
+  <string name="filter_notif_silent">Mostra-les de manera silenciosa</string>
   <string name="filter_overlay_apps">Aplicacions amb permís</string>
   <string name="filter_personal_apps">Personal</string>
   <string name="filter_with_domain_urls_apps">Amb URL del domini</string>
@@ -1468,23 +1542,31 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_add_max">Podeu afegir fins a %d empremtes</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
+  <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de privadesa</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Empremta tàctil (cal utilitzar contrasenya a la pantalla de bloqueig)</string>
   <string name="fingerprint_for_keyguard_disabled">La configuració de seguretat ha desactivat l\'empremta.</string>
   <string name="fingerprint_identify_input_password_msg">Introduïu la contrasenya</string>
   <string name="fingerprint_identify_msg">S\'està escanejant l\'empremta&#8230;</string>
   <string name="fingerprint_identify_try_again_msg">"No s'ha pogut llegir l'empremta, torneu-hi"</string>
   <string name="fingerprint_last_delete_confirm">Sí, suprimeix-la</string>
   <string name="fingerprint_last_delete_message">"No podreu fer servir les empremtes digitals per a desbloquejar el telèfon, autoritzar compres ni iniciar la sessió en aplicacions."</string>
+  <string name="fingerprint_last_delete_message_profile_challenge">"No podreu utilitzar les empremtes dactilars per desbloquejar el perfil professional, autoritzar compres ni iniciar la sessió en aplicacions de feina."</string>
   <string name="fingerprint_last_delete_title">Voleu suprimir totes les empremtes?</string>
   <string name="fingerprint_list_title">Empremta</string>
   <string name="fingerprint_lock_first">Desbloqueja el primer espai</string>
   <string name="fingerprint_lock_second">Desbloqueja el segon espai</string>
+  <string name="fingerprint_manage">Gestió d\'empremtes</string>
   <string name="fingerprint_manage_category_title">Gestió d\'empremtes</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
+  <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
+  <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
+  <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
   <string name="fingerprint_usage_category_title">Ús de les empremtes per</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button_label">Finalitza</string>
@@ -1496,10 +1578,36 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="font_size_exhuge">Extra grossa</string>
   <string name="font_size_huge">Molt grossa</string>
   <string name="font_size_large">Grossa</string>
+  <string name="font_size_make_larger_desc">Fes-la més grossa</string>
+  <string name="font_size_make_smaller_desc">Fes-la més petita</string>
   <string name="font_size_medium">Mitjana</string>
   <string name="font_size_normal">Petita</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Aquest senyor vol una cervesa i uns kiwis.</string>
+  <string name="font_size_preview_text_body">"El metge va ésser taxatiu. Cal que sigui així, no podem pas criticar aquests professionals, perquè quan es mostren severs ho fan pel nostre bé.
+
+Va dir-li:
+
+—Des d’ara mateix, un canvi total de règim. Oblidi’s de les coses que li agraden i comenci a acostumar-se a aquelles altres que li desplauen. Si em creu a mi, encara podrà viure una colla d’anys.
+
+Sortí del consultori amb l’ànima als peus, perquè acomiadar-se dels bells moments sempre convida al pessimisme, ni que sigui a canvi de la promesa de durar més.
+
+Travessà el carrer a les palpentes, sense reparar en el semàfor, i una furgoneta de la Tintoreria Esperança el va aixafar.
+
+Un d’aquests transeünts que hi corren de seguida va provar d’assistir-lo, i recollí unes paraules balbucejants de l’accidentat:
+
+—Per aquest viatge no necessitava alforges…
+
+—Què diu? —volgué saber el benemèrit ciutadà que el socorria.
+
+—…sobretot —afegí el ferit—, quan algú m’acaba de buidar les alforges.
+
+—Què vol dir? —insistí l’home diligent.
+
+Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una altra cosa."</string>
+  <string name="font_size_preview_text_headline">Text de mostra</string>
+  <string name="font_size_preview_text_subtitle">Conte d\'en Pere Calders: Prescripció facultativa</string>
+  <string name="font_size_preview_text_title">Prescripció facultativa (Pere Calders)</string>
   <string name="font_size_save">D\'acord</string>
   <string name="font_size_small">Molt petita</string>
   <string name="font_size_summary">«Canvia la mida de la lletra del sistema operatiu
@@ -1508,10 +1616,14 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="font_size_summary1">"Si la mida de la lletra encara és massa petita, proveu de "</string>
   <string name="font_size_summary2">el mode bàsic.</string>
   <string name="forbidden_switch_apn_string">"La configuració de l'APN seleccionada no coincideix amb el tipus de xarxa actual"</string>
+  <string name="force_allow_on_external">Força permís d\'aplicacions a l\'emmagatzem. extern</string>
+  <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
   <string name="force_hw_ui">Força la renderització de la GPU</string>
   <string name="force_hw_ui_summary">Força l\'ús de la GPU per a dibuixos en 2D</string>
   <string name="force_msaa">Força 4x MSAA</string>
   <string name="force_msaa_summary">Activa MSAA 4x en aplicacions d\'OpenGL ES 2.0</string>
+  <string name="force_resizable_activities">Força l\'ajust de la mida de les activitats</string>
+  <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="force_stop">Força el tancament</string>
@@ -1584,6 +1696,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="getConnectionInfo">informació de la connexió</string>
   <string name="global_change_warning">Aquesta configuració afecta tots els usuaris del telèfon.</string>
   <string name="global_locale_change_title">Canvia d\'idioma</string>
+  <string name="go_back_button_label">Torna enrere</string>
   <string name="google_backup_enable">Activa la còpia de seguretat</string>
   <string name="google_backup_section_title">Restaura la còpia de seguretat de Google</string>
   <string name="got_it">D\'acord</string>
@@ -1620,7 +1733,41 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="header_category_wireless_networks">Xarxes</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="heavy_weight_stop_description">Aquesta aplicació es pot aturar de forma segura. Si l\'atureu, podeu perdre part del treball actual.</string>
+  <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="help_label">Ajuda i suggeriments</string>
+  <string name="help_uri_about"></string>
+  <string name="help_uri_accessibility"></string>
+  <string name="help_uri_apps"></string>
+  <string name="help_uri_beam"></string>
+  <string name="help_uri_dashboard"></string>
+  <string name="help_uri_default"></string>
+  <string name="help_uri_display"></string>
+  <string name="help_uri_interruptions"></string>
+  <string name="help_uri_notifications"></string>
+  <string name="help_uri_other_sounds"></string>
+  <string name="help_uri_printing"></string>
+  <string name="help_uri_storage"></string>
+  <string name="help_uri_wallpaper"></string>
+  <string name="help_url_accounts"></string>
+  <string name="help_url_backup_reset"></string>
+  <string name="help_url_battery"></string>
+  <string name="help_url_bluetooth"></string>
+  <string name="help_url_choose_lockscreen"></string>
+  <string name="help_url_data_saver"></string>
+  <string name="help_url_data_usage"></string>
+  <string name="help_url_dreams"></string>
+  <string name="help_url_fingerprint"></string>
+  <string name="help_url_location_access"></string>
+  <string name="help_url_more_networks"></string>
+  <string name="help_url_nfc_payment"></string>
+  <string name="help_url_remote_display"></string>
+  <string name="help_url_security"></string>
+  <string name="help_url_sound"></string>
+  <string name="help_url_tether"></string>
+  <string name="help_url_unrestricted_data_access"></string>
+  <string name="help_url_users"></string>
+  <string name="help_url_vpn"></string>
+  <string name="help_url_wifi"></string>
   <string name="hidden_ssid_label">SSID ocults:</string>
   <string name="hide">​​Amaga</string>
   <string name="hide_screen_button">Amaga els botons de pantalla</string>
@@ -1636,10 +1783,14 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="high_power_prompt_title">Voleu que s\'ignorin les optimitzacions de la bateria?</string>
   <string name="high_power_system">L\'optimització de la bateria no és disponible</string>
   <string name="history_details_title">Detalls de l\'historial</string>
+  <string name="home">Pàgina d\'inici de configuració</string>
+  <string name="home_app">Aplicació d\'inici</string>
   <string name="home_app_uninstall_button">Desinstal·la aquesta aplicació</string>
   <string name="home_key">Pàgina d\'inici</string>
   <string name="home_settings">Pàgina d\'inici</string>
   <string name="home_work_profile_not_supported">No admet el perfil de feina</string>
+  <string name="hotspot_accout_check_server_url"></string>
+  <string name="hotspot_accout_up_sell_url"></string>
   <string name="ignore_optimizations_off">Optimitza</string>
   <string name="ignore_optimizations_off_desc">Es recomana per allargar la bateria</string>
   <string name="ignore_optimizations_on">No ho optimitzis</string>
@@ -1650,6 +1801,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="imei_information_title">Informació de l\'IMEI</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
   <string name="immediately_destroy_activities_summary">Destrueix activitats quan l\'usuari deixi d\'utilitzar-les</string>
+  <string name="importance_reset">Reestableix</string>
   <string name="inactive_app_active_summary">Activa. Toca per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Inactiva. Toca per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
@@ -1704,6 +1856,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
+  <string name="join_two_unrelated_items">%1$s, %2$s</string>
   <string name="keep_legacy_fingerprint">Manté</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
@@ -1711,6 +1864,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
   <string name="key_settings_title">Botons</string>
+  <string name="keyboard_and_input_methods_category">Teclat i mètodes d\'introducció</string>
+  <string name="keyboard_assistance_category">Assistència per al teclat</string>
   <string name="keyboard_layout_default_label">Predeterminada</string>
   <string name="keyboard_layout_dialog_setup_button">Seleccioneu un disseny de teclat</string>
   <string name="keyboard_layout_dialog_switch_hint">Per canviar, premeu Ctrl + barra espaiadora</string>
@@ -1718,6 +1873,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keyboard_layout_picker_title">Dissenys del teclat</string>
   <string name="keyboard_settings_category">Teclat i mètodes d\'introducció</string>
   <string name="keyboard_settings_title">Teclat Android</string>
+  <string name="keyboard_shortcuts_helper">Auxiliar per a les tecles de drecera</string>
+  <string name="keyboard_shortcuts_helper_summary">Mostra les dreceres disponibles</string>
+  <string name="keyguard_advance_setting_title">Configuració avançada</string>
   <string name="keyguard_left_function_chooser_hint_text">Drecera esquerra canviada a %s</string>
   <string name="keyguard_left_function_chooser_title">Aplicació</string>
   <string name="keyguard_left_function_title">Esquerra</string>
@@ -1731,6 +1889,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">aplicacions permisos seguretat</string>
   <string name="keywords_battery">ús de la càrrega de la bateria</string>
+  <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, estàndard</string>
+  <string name="keywords_color_temperature">temperatura del color D65 D73 blanc groc blau càlid fred</string>
   <string name="keywords_date_and_time">rellotge militar</string>
   <string name="keywords_default_apps">aplicacions predeterminades</string>
   <string name="keywords_default_phone_app">marcador del telèfon predeterminat</string>
@@ -1750,29 +1910,38 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_lockscreen">feu lliscar la contrasenya, patró, PIN</string>
   <string name="keywords_more_default_sms_app">missatge de text missatges de text missatges missatgeria</string>
   <string name="keywords_more_mobile_networks">mòbil telèfon mòbil operador de telefonia mòbil dades sense fil 4g 3g 2g lte</string>
+  <string name="keywords_network_name_display">es mostra el nom de la xarxa</string>
   <string name="keywords_network_reset">reinicialitza restaura fàbrica</string>
   <string name="keywords_printing">impressora</string>
+  <string name="keywords_profile_challenge">desafiament per accedir a contingut de feina, feina, perfil</string>
   <string name="keywords_reset_apps">reinicialitza les preferències prederminades</string>
+  <string name="keywords_sounds">bip de l\'altaveu</string>
   <string name="keywords_sounds_and_notifications_interruptions">no molesteu interromp interrupció pausa</string>
   <string name="keywords_spell_checker">ortografia diccionari corrector ortogràfic correcció automàtica</string>
   <string name="keywords_storage">espai disc unitat de disc dur dispositiu ús</string>
   <string name="keywords_system_alert_window">finestra de diàleg d\'alerta del sistema per dibuixar sobre altres aplicacions</string>
   <string name="keywords_text_to_speech_output">puntuar idioma parla predeterminada parlar síntesi de veu accessibilitat lector invident</string>
+  <string name="keywords_unification">perfil professional, perfil gestionat, unificar, unificació, feina, perfil</string>
   <string name="keywords_users">restricció restringir restringit</string>
   <string name="keywords_voice_input">reconeixedor entrada veu parlar idioma mans lliures mans-lliures gratuït reconeixement paraula ofensiva àudio historial bluetooth auriculars</string>
+  <string name="keywords_vr_listener">RV realitat virtual processador estèreo servei ajuda</string>
   <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
   <string name="keywords_wifi_calling">wifi wi-fi trucada trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
+  <string name="label_global_roaming_settings">Configuració de l\'itinerància</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma i introducció de text</string>
   <string name="large_font">Grossa</string>
   <string name="last_synced">Darrera sincronització %1$s</string>
   <string name="last_time_used_label">Darrer cop que es va fer servir</string>
+  <string name="later">MÉS TARD</string>
   <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
   <string name="launch_by_default">Obre de manera predeterminada</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
+  <string name="launcher_auto_fill_empty_title">Emplena cel·les buides</string>
+  <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
   <string name="launching_pho">S\'està iniciant informació del telèfon, espereu-vos.</string>
   <string name="launching_rep">S\'està enviant&#8230;</string>
@@ -1817,6 +1986,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="local_backup_section_summary">Còpia de seguretat de la configuració del sistema, comptes i aplicacions</string>
   <string name="local_backup_section_title">Còpies de seguretat locals</string>
   <string name="locale_default">Predeterminada</string>
+  <string name="locale_not_translated">És possible que no estigui disponible en algunes aplicacions</string>
+  <string name="locale_remove_menu">Treu</string>
   <string name="locale_settings">Configuració regional</string>
   <string name="location_access_summary">Les aplicacions poden saber on sou</string>
   <string name="location_access_title">Accés a la ubicació</string>
@@ -1866,6 +2037,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_neighborhood_level_wifi">Ubicació determinada per Wi-Fi</string>
   <string name="location_network_based">Wi-Fi i xarxes mòbils</string>
   <string name="location_no_recent_apps">Cap aplicació no ha sol·licitat la ubicació recentment</string>
+  <string name="location_off_summary">Desactivat</string>
+  <string name="location_on_summary">Engegat / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Millora la ubicació permetent que les aplicacions i els serveis del sistema sempre detectin dispositius Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">El Bluetooth està escanejant</string>
   <string name="location_scanning_screen_title">S\'està escanejant</string>
@@ -1880,11 +2053,16 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_after_timeout_summary_with_exception">%1$s després de posar en repòs, excepte quan es manté desbloquejat per %2$s</string>
   <string name="lock_immediately_summary_with_exception">Immediatament després de posar en repòs, excepte quan es manté desbloquejat per %1$s</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_profile_wipe_attempts">Torneu-hi. %1$d intent de %2$d.</string>
+  <string name="lock_profile_wipe_content">Heu superat el nombre d\'intents incorrectes permesos. El perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_dismiss">Omet</string>
   <string name="lock_profile_wipe_warning_content_password">Si torneu a introduir una contrasenya incorrecta, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_title">Darrera oportunitat</string>
+  <string name="lock_screen_cells_title">Bloqueja el format de la pantalla d\'inici</string>
+  <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
   <string name="lock_screen_notifications_interstitial_message">Quan el dispositiu està bloquejat, com voleu que es mostrin les notificacions?</string>
   <string name="lock_screen_notifications_interstitial_message_profile">Com voleu que es mostrin les notificacions quan el dispositiu està bloquejat?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificacions</string>
@@ -1909,6 +2087,19 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_settings_picker_fingerprint_message">Tria el mètode de còpia de seguretat de la pantalla de bloqueig</string>
   <string name="lock_settings_picker_settings">Configura el bloqueig de pantalla</string>
   <string name="lock_settings_picker_title">Tria un bloqueig de pantalla</string>
+  <string name="lock_settings_picker_title_profile">Tria bloq. profess.</string>
+  <string name="lock_settings_profile_screen_lock_title">Bloqueig de pantalla del perfil professional</string>
+  <string name="lock_settings_profile_title">Seguretat del perfil professional</string>
+  <string name="lock_settings_profile_unification_dialog_body">També podeu utilitzar el bloqueig del perfil professional per al bloqueig de pantalla del dispositiu. Si ho feu, les polítiques del bloqueig professional també s\'aplicaran al bloqueig de pantalla.</string>
+  <string name="lock_settings_profile_unification_dialog_confirm">Canvia el bloqueig del dispositiu</string>
+  <string name="lock_settings_profile_unification_dialog_title">Voleu utilitzar el mateix bloqueig?</string>
+  <string name="lock_settings_profile_unification_dialog_uncompliant_body">"El bloqueig del perfil professional no compleix els requisits de seguretat de l\'empresa.
+
+Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil professional, però les polítiques del bloqueig professional també s\'aplicaran al bloqueig de pantalla."</string>
+  <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">Canvia el bloqueig</string>
+  <string name="lock_settings_profile_unification_summary">Canvia el bloqueig de pantalla del dispositiu perquè coincideixi amb el del perfil professional</string>
+  <string name="lock_settings_profile_unification_title">Utilitza el mateix bloqueig</string>
+  <string name="lock_settings_profile_unified_summary">El mateix bloqueig de pantalla que el del dispositiu</string>
   <string name="lock_settings_title">Seguretat del dispositiu</string>
   <string name="lock_settings_with_fingerprint">Pantalla de bloqueig i contrasenya</string>
   <string name="lock_setup">S\'ha completat la configuració.</string>
@@ -1929,10 +2120,13 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lockpassword_confirm_your_lock_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmeu el patró</string>
   <string name="lockpassword_confirm_your_password_generic">Per continuar, introduïu la contrasenya del dispositiu.</string>
+  <string name="lockpassword_confirm_your_password_generic_profile">Per continuar, introduïu la contrasenya del dispositiu</string>
   <string name="lockpassword_confirm_your_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_pattern_generic">Per continuar, utilitzeu el patró del dispositiu.</string>
+  <string name="lockpassword_confirm_your_pattern_generic_profile">Per continuar, utilitzeu el patró del dispositiu</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmeu el patró</string>
   <string name="lockpassword_confirm_your_pin_generic">Per continuar, introduïu el PIN del dispositiu.</string>
+  <string name="lockpassword_confirm_your_pin_generic_profile">Per continuar, introduïu el PIN del dispositiu</string>
   <string name="lockpassword_confirm_your_pin_header">Confirmeu el PIN</string>
   <string name="lockpassword_confirm_your_private_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Confirmeu el patró</string>
@@ -1956,6 +2150,12 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lockpassword_pin_set_toast">S\'ha definit el PIN</string>
   <string name="lockpassword_pin_too_long">El PIN ha de tenir menys de %d números</string>
   <string name="lockpassword_pin_too_short">El PIN ha de tenir com a mínim %d números</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_password">Per continuar introduïu la contrasenya del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Per continuar introduïu el patró del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Per continuar introduïu el PIN del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_password">Per continuar introduïu la contrasenya de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Per continuar introduïu el patró de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Per continuar introduïu el PIN de la feina. Aquest pas és necessari després del reinici.</string>
   <string name="lockpattern_change_lock_pattern_label">Canvia el patró de desbloqueig</string>
   <string name="lockpattern_change_lock_pin_label">Canvia el PIN</string>
   <string name="lockpattern_confirm_button_text">Confirma</string>
@@ -1980,8 +2180,13 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra en tocar</string>
   <string name="lockpattern_settings_enable_title">Cal un patró</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Fes el patró visible</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title_profile">Mostra el patró del perfil</string>
   <string name="lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepte quan es manté desbloquejat per %1$s</string>
+  <string name="lockpattern_settings_require_cred_before_startup">Inici segur</string>
+  <string name="lockpattern_settings_require_password_before_startup_summary">"Sol·licita una contrasenya per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
+  <string name="lockpattern_settings_require_pattern_before_startup_summary">"Sol·licita un patró per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
+  <string name="lockpattern_settings_require_pin_before_startup_summary">"Sol·licita un PIN per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
   <string name="lockpattern_settings_title">Patró de desbloqueig</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Heu superat el límit d\'intents. Espereu-vos %d segons.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espereu %d segons i torneu-ho a provar.</string>
@@ -1991,7 +2196,13 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
+  <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
+  <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
+  <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
+  <string name="lte_4g_settings_disable">Mode d\'avió o la targeta SIM no està preparada</string>
+  <string name="lte_4g_settings_title">Activa el 4G</string>
+  <string name="lte_4g_switch_prompt">El telèfon canviarà de 3G/2G a 4G, algunes tasques actives poden aturar-se</string>
   <string name="macaddr_label">Adreça MAC:</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
@@ -1999,6 +2210,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="man_add_application">Afegiu aplicacions d\'engegada automàtica</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
+  <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
   <string name="manage_mobile_plan_title">Pla mòbil</string>
   <string name="manage_notification_access_summary_zero">Les aplicacions no poden llegir les notificacions</string>
   <string name="manage_notification_access_title">Accés a les notificacions</string>
@@ -2010,12 +2222,16 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="manageapplications_settings_summary">Gestiona i elimina les aplicacions instal·lades</string>
   <string name="manageapplications_settings_title">Gestiona les aplicacions</string>
   <string name="managed_device_admin_title">Treball</string>
+  <string name="managed_profile_contact_search_summary">Permet que la teva organització cerqui contactes per identificar els remitents i els contactes</string>
+  <string name="managed_profile_contact_search_title">Cerca de contactes</string>
   <string name="managed_profile_location_category">Perfil professional</string>
   <string name="managed_profile_location_switch_lockdown">L\'ha desactivat l\'administrador de l\'empresa.</string>
   <string name="managed_profile_location_switch_title">Ubicació del perfil professional</string>
   <string name="managed_profile_not_available_label">El perfil professional encara no està disponible</string>
+  <string name="managed_profile_settings_title">Configuració del perfil professional</string>
   <string name="managed_user_title">Perfil professional</string>
   <string name="managing_admin">Gestionat per %s</string>
+  <string name="manual">Manual</string>
   <string name="manually_add_network">Afegeix una xarxa</string>
   <string name="master_clear_accounts">«
 
@@ -2056,6 +2272,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">"Només es permeten 5 emprentes. Per afegir-n'en una altra, primer n'heu d'esborrar una."</string>
   <string name="maximum_memory_use">Ús màxim de la memòria</string>
+  <string name="mbn_version">Versió MBN</string>
   <string name="media_button">Botó multimèdia</string>
   <string name="media_category">Multimèdia</string>
   <string name="media_feedback_enable_title">Vibra amb el ritme</string>
@@ -2095,6 +2312,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_performance">Rendiment</string>
   <string name="memory_settings_title">Memòria</string>
   <string name="memory_size">Espai total</string>
+  <string name="memory_summary">Mitjana de %1$s de %2$s de la memòria utilitzada</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Ús de la memòria</string>
   <string name="memory_usage_apps">Memòria utilitzada per les aplicacions</string>
@@ -2133,6 +2351,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punt d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+  <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
   <string name="mms_privacy_password_role_instruction">Les converses amb contactes privats es desaran aquí.</string>
@@ -2150,8 +2369,10 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="modify_privacy_password">Canvieu la contrasenya</string>
   <string name="move_app">Desplaça</string>
   <string name="move_app_failed_dlg_text">No s\'ha pogut desplaçar l\'aplicació %1$s</string>
+  <string name="move_app_failed_dlg_title"></string>
   <string name="move_app_to_internal">Desplaça-ho al telèfon</string>
   <string name="move_app_to_sdcard">Desplaça-ho a l\'emmagatzematge USB</string>
+  <string name="move_error_device_admin">No es poden instal·lar administradors de dispositius en suports externs.</string>
   <string name="moving">S\'està desplaçant</string>
   <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Baixa el controlador</string>
@@ -2235,15 +2456,19 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
+  <string name="n_cacrts">%d certificats de CA</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="network_assistant">Ús de dades</string>
   <string name="network_detail">Detalls de la xarxa %s</string>
   <string name="network_error">S\'ha produït un error de xarxa</string>
+  <string name="network_name_displayed_summary">Mostra el nom de la xarxa a la barra d\'estat</string>
+  <string name="network_operator_display_title">Mostra l\'operador de xarxa</string>
   <string name="network_operators_settings">Operadors de xarxa</string>
   <string name="network_reset_not_available">Aquest usuari no pot restaurar-ho a configuració de fàbrica</string>
+  <string name="network_restrictions">Restriccions de xarxa</string>
   <string name="network_scorer_change_active_dialog_text">Voleu utilitzar %1$s en comptes de %2$s per a gestionar les connexions de xarxa?</string>
-  <string name="network_scorer_change_active_dialog_title">Voleu canviar l\'assistent de Wi‑Fi?</string>
+  <string name="network_scorer_change_active_dialog_title">Voleu canviar l\'auxiliar de Wi‑Fi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Voleu utilitzar %s per a gestionar les connexions de xarxa?</string>
   <string name="network_settings_title">Xarxes mòbils</string>
   <string name="network_state_label">Estat de la xarxa:</string>
@@ -2252,6 +2477,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="networks_title">Xarxes mòbils</string>
   <string name="never">Mai</string>
   <string name="new_backup_pw_prompt">Introduïu una contrasenya nova per a les còpies de seguretat completes</string>
+  <string name="new_password_to_new_fingerprint_dialog_msg">Afegiu la vostra empremta digital i utilitzeu-la per desbloquejar el vostre dispositiu.</string>
+  <string name="new_password_to_new_fingerprint_dialog_negative_msg">Cancel·la</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Afegeix</string>
+  <string name="new_password_to_new_fingerprint_dialog_tittle">Afegeix una empremta digital</string>
   <string name="next_button_label">Següent</string>
   <string name="next_label">Següent</string>
   <string name="nfc_category_title">NFC</string>
@@ -2283,6 +2512,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_connected_devices">Cap dispositiu connectat</string>
   <string name="no_data_usage">No s\'han fet servir dades</string>
   <string name="no_default_apps">Sense aplicació predeterminada.</string>
+  <string name="no_default_home">No hi ha cap pàgina d\'inici predeterminada</string>
   <string name="no_device_admins">No hi ha cap administrador del dispositiu disponible</string>
   <string name="no_internet_access_remember">No ho tornis a preguntar en aquesta xarxa</string>
   <string name="no_internet_access_text">La xarxa WiFi %1$s no té accés a internet. Voleu que continuï connectada?</string>
@@ -2297,27 +2527,80 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_updates_found">"S'està fent servir la darrera versió de MIUI"</string>
   <string name="no_updates_warning">El sistema ja està actualitzat</string>
   <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
+  <string name="no_vr_listeners">Cap aplicació instal·lada no ha sol·licitat que s\'executi com un servei d\'ajuda per a la realitat virtual.</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
   <string name="normal_smartcover_title">Coberta opaca</string>
+  <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
   <string name="notes_privacy_password_role_instruction">Les notes privades es desaran aquí.</string>
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
   <string name="notification_breathing_light_color_title">Color de les notificacions</string>
   <string name="notification_breathing_light_freq_title">Freqüència de pampallugeig del LED de les notificacions</string>
+  <string name="notification_importance_blocked">No mostris mai les notificacions d\'aquesta aplicació</string>
+  <string name="notification_importance_default">Sense interrupció de la pantalla completa ni previsualització.</string>
+  <string name="notification_importance_high">Permet sempre la previsualització. Sense interrupció de la pantalla completa.</string>
+  <string name="notification_importance_low">Sense interrupció de la pantalla completa, previsualització, so ni vibració.</string>
+  <string name="notification_importance_max">Permet previs. i interrupció pant. compl. Mostra les notificacions a la part superior de la llista.</string>
+  <string name="notification_importance_min">Sense interr. pant. comp., prev., so ni vibració. Mostra notific. a part inferior de la llista i les amaga de pant. bloqueig i barra d\'estat.</string>
+  <string name="notification_importance_none">Sense definir</string>
+  <string name="notification_importance_title">Importància</string>
+  <string name="notification_importance_unspecified">L\'aplicació determina la importància de cada notificació</string>
+  <string name="notification_listener_disable_warning_cancel">Cancel·la</string>
+  <string name="notification_listener_disable_warning_confirm">Apaga</string>
+  <string name="notification_listener_disable_warning_summary">Si desactiveu l\'accés a les notificacions de %1$s, també es desactivarà l\'accés a No molesteu.</string>
   <string name="notification_listener_security_warning_summary">%1$s podrà llegir totes les notificacions, inclosa la informació personal, com ara els noms de contactes i el text dels missatges que rebeu. També podrà ignorar-les o bé activar els botons d\'acció que continguin.</string>
   <string name="notification_listener_security_warning_title">Voleu que %1$s accedeixi a les notificacions?</string>
+  <string name="notification_log_details_actions">accions</string>
+  <string name="notification_log_details_ashmem">ashmem</string>
+  <string name="notification_log_details_content_intent">intenció</string>
+  <string name="notification_log_details_content_view">vista personalitzada</string>
+  <string name="notification_log_details_default">predeterminada</string>
+  <string name="notification_log_details_delete_intent">suprimeix l\'intent</string>
+  <string name="notification_log_details_delimiter">": "</string>
+  <string name="notification_log_details_explanation">explicació</string>
+  <string name="notification_log_details_extras">extres</string>
+  <string name="notification_log_details_full_screen_intent">intent de pantalla completa</string>
+  <string name="notification_log_details_group">grup</string>
+  <string name="notification_log_details_group_summary">(resum)</string>
+  <string name="notification_log_details_icon">icona</string>
+  <string name="notification_log_details_importance">importància</string>
+  <string name="notification_log_details_key">clau</string>
+  <string name="notification_log_details_none">cap</string>
+  <string name="notification_log_details_package">paquet</string>
+  <string name="notification_log_details_parcel">mida del paquet</string>
+  <string name="notification_log_details_priority">prioritat</string>
+  <string name="notification_log_details_public_version">versió pública</string>
+  <string name="notification_log_details_ranking_none">"L'objecte de classificació no conté aquesta clau."</string>
+  <string name="notification_log_details_ranking_null">Falta l\'objecte de classificació.</string>
+  <string name="notification_log_details_remoteinput">entrades remotes</string>
+  <string name="notification_log_details_sound">so</string>
+  <string name="notification_log_details_title">títol</string>
+  <string name="notification_log_details_vibrate">vibració</string>
+  <string name="notification_log_details_visibility">visibilitat</string>
+  <string name="notification_log_no_title">(cap)</string>
   <string name="notification_log_title">Registre de notificacions</string>
   <string name="notification_pulse_title">Llum de notificació</string>
   <string name="notification_ringtone_title">So de notificació predeterminat</string>
   <string name="notification_sound_dialog_title">So de notificació predeterminat</string>
   <string name="notification_sound_title">So de notificació predeterminat</string>
+  <string name="notification_suggestion_summary">Mostra o oculta el contingut de la notificació</string>
+  <string name="notification_suggestion_title">Controla notificacions de pantalla bloq.</string>
+  <string name="notification_summary_level">Nivell %d</string>
+  <string name="notification_summary_none">Totes les aplicacions poden enviar notificacions</string>
   <string name="notification_volume_option_title">Volum de les notificacions</string>
   <string name="notification_volume_title">Notificació</string>
   <string name="notifications_disabled">Bloqueja</string>
   <string name="notifications_enabled">Normal</string>
+  <string name="notifications_hidden">No es mostren a la pantalla de bloqueig</string>
   <string name="notifications_label">Notificacions</string>
   <string name="notifications_priority">Prioritat</string>
+  <string name="notifications_redacted">El contingut confidencial no es mostra a la pantalla de bloqueig</string>
+  <string name="notifications_silenced">Notificacions silenciades</string>
+  <string name="notifications_summary_divider">&#160;/&#160;</string>
+  <string name="notify_connect">avisos CMCC Wi-Fi </string>
+  <string name="notify_connect_summary">Avisa\'m quan accedeixi a CMCC Wi-Fi</string>
   <string name="now">Reinicieu ara</string>
+  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_radio_info_label">Informació/configuració específica d\'OEM</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el bootloader</string>
@@ -2331,6 +2614,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="oldman_mode_settings_caption">Configuració del mode bàsic</string>
   <string name="oldman_mode_summary">Utilitza la pantalla d\'inici i els menús simplificats</string>
   <string name="oldman_mode_summary_cta">Per a funcionar amb normalitat en el mode bàsic li cal connexió a internet, llegir els contactes, missatges i la ubicació.</string>
+  <string name="one_cacrt">un certificat CA</string>
+  <string name="one_usercrt">un certificat d\'usuari</string>
+  <string name="one_userkey">una clau d\'usuari</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
@@ -2338,12 +2624,19 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_anr_debug">Activa la depuració ANR</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Tanca</string>
+  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir l'assistent intel·ligent i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
+  <string name="open_personal_assistant_dialog_title">Desactiva l\'assistent intel·ligent</string>
+  <string name="open_personal_assistant_title">Activa l\'assistent intel·ligent</string>
   <string name="open_wifi_connect_summary">Toca per veure detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
+  <string name="operator_warning">El recompte de dades de l\'operador de telefonia mòbil pot ser diferent del calculat pel dispositiu</string>
   <string name="optimization_cancel">Cancel·la</string>
   <string name="optimization_close">Desactiva i reinicia</string>
   <string name="optimization_open">Engega</string>
+  <string name="ota_disable_automatic_update">Actualitzacions automàtiques del sistema</string>
   <string name="other_advanced_settings">Configuració addicional</string>
   <string name="other_personal_settings">Configuració personal</string>
   <string name="other_relative">Altres</string>
@@ -2412,6 +2705,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="passwordIncorrect">La contrasenya introduïda és errònia</string>
   <string name="password_entrance_title">Pantalla de bloqueig</string>
   <string name="password_guard">Contrasenya</string>
+  <string name="password_turned_off_text">S\'ha desactivat la contrasenya</string>
+  <string name="password_turned_on_text">S\'ha activat la contrasenya</string>
   <string name="path_about_about_settings">Configuració/Quant al telèfon</string>
   <string name="path_accelerometer_settings">Configuració/Pantalla/Gir automàtic de la pantalla</string>
   <string name="path_access_control_settings">Configuració/Configuració addicional/Privadesa/Configuració de la privadesa</string>
@@ -2588,6 +2883,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="path_xiaomi_money_service">Aplicacions</string>
   <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="path_zen_mode_option_miui_silent">Configuració/So i vibració/Mode en silenci</string>
+  <string name="payment_summary">%1$s com a predeterminat</string>
   <string name="performance_category">Rendiment</string>
   <string name="permission_detail_info">Detalls</string>
   <string name="permission_detail_info_summary">Seguretat: %1$d | Privadesa: %2$d | Altres: %3$d</string>
@@ -2609,6 +2905,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_call_noise_suppression">Supressió de fressa durant la trucada</string>
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
+  <string name="phone_language_summary"></string>
+  <string name="physical_device_title">%1$s - %2$s</string>
+  <string name="physical_keyboard_title">Teclat físic</string>
+  <string name="picture_color_mode">Mode de color de la imatge</string>
+  <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin_failed">Hi ha hagut un problema en l\'operació del PIN de la SIM!</string>
   <string name="ping_test_label">Executa una prova de ping</string>
   <string name="please_select_phase2">Autenticació de fase 2</string>
@@ -2627,11 +2928,16 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins a plena</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins a plena per AC</string>
+  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
+  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s fins a plena per USB</string>
+  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins a plena per sense fils</string>
+  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_checker">Comprovador d\'energia</string>
   <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
+  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
   <string name="power_flashlight">Llanterna</string>
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
@@ -2642,6 +2948,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_optimize">Estalvi de bateria</string>
   <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
   <string name="power_phone">Trucades de veu</string>
+  <string name="power_remaining_duration_only">Resten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Resten %1$s</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_title">Rendiment del sistema</string>
   <string name="power_unaccounted">Miscel·lània</string>
@@ -2656,6 +2964,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pref_button_light_summary">Il·luminació dels botons Menú, Pàgina d\'inici i Enrere</string>
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
+  <string name="pref_title_lang_selection">Preferències d\'idioma</string>
   <string name="pref_volume_launch_camera_summary">Per obrir la càmera, pitgeu dos cops baixar el volum</string>
   <string name="pref_volume_launch_camera_title">Obre la càmera</string>
   <string name="pref_volume_wake_summary">El dispositiu s\'engega prement les tecles de volum</string>
@@ -2683,6 +2992,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="preferred_sms_title">Aplicació predeterminada de missatgeria</string>
   <string name="preferred_sms_warning_message">Usant \"%1$s\" com a aplicació predeterminada de missatgeria pot incrementar el consum de dades i comprometre les dades privades.</string>
   <string name="preferred_sms_warning_use_system">"No ho utilizis"</string>
+  <string name="premium_sms_access">Accés a l\'enviament de SMS prèmium</string>
+  <string name="premium_sms_none">Cap aplicació instal·lada no ha sol·licitat accés a l\'enviament de SMS prèmium</string>
+  <string name="premium_sms_warning">Els SMS prèmium poden costar diners i aquest import s\'afegirà a la facturació de l\'operador de telefonia mòbil. Si activeu el permís en una aplicació, podreu enviar SMS prèmium utilitzant-la.</string>
+  <string name="preview_page_indicator_content_description">Previsualització, pàg %1$d de %2$d</string>
+  <string name="preview_pager_content_description">Previsualització</string>
   <string name="print_blocked_state_title_template">S\'ha bloquejat la impressora %1$s</string>
   <string name="print_cancel">Cancel·la</string>
   <string name="print_cancelling_state_title_template">S\'està cancel·lant %1$s</string>
@@ -2708,6 +3022,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="print_service_disabled">El servei s\'ha desactivat</string>
   <string name="print_settings">Impressió</string>
   <string name="print_settings_title">Serveis d\'impressió</string>
+  <string name="printer_info_desc">Més informació sobre aquesta impressora</string>
   <string name="priority_storage_app_settings">Les dades de %1$s es guardaran en</string>
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
@@ -2723,16 +3038,24 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_mode_enable_title">Mode convidat</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Contrasenya de privacitat</string>
+  <string name="privacy_password_bind_account">Afegeix un compte Mi</string>
+  <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
+  <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
   <string name="privacy_password_fingerprint_dialog_message">Recolzeu el dit al sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta</string>
+  <string name="privacy_password_never_remind">"No m'ho tornis a preguntar"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
+  <string name="privacy_password_remind_bindaccont_message">Fes que el compte Mi (%s) pugui restablir la contrasenya.</string>
+  <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
+  <string name="privacy_password_transparent_tiltle"></string>
   <string name="privacy_password_visible_pattern">Mostra el patró</string>
   <string name="privacy_protect_title">Protecció de privacitat</string>
   <string name="privacy_relative">Privadesa</string>
@@ -2768,6 +3091,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="processes_subtitle">Processos</string>
   <string name="profile_info_settings_title">Informació del perfil</string>
   <string name="profile_owner_add_title">Voleu activar un gestor de perfil?</string>
+  <string name="profile_section_header">Notificacions de la feina</string>
+  <string name="profiles_settings_title">Perfils de sistema</string>
   <string name="progress_scanning">S\'està cercant</string>
   <string name="provider_label">Subscripcions de tramesa automàtica</string>
   <string name="provision_back">Enrere</string>
@@ -2831,8 +3156,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_band_mode_label">Seleccioneu la banda de ràdio</string>
   <string name="radio_info_call_redirect_label">Redirecció de trucada:</string>
   <string name="radio_info_call_status_label">Estat de la trucada:</string>
+  <string name="radio_info_cell_info_refresh_rate">Freqüència d\'actualització de la informació del mòbil:</string>
   <string name="radio_info_cellinfo_label">Informació mòbil:</string>
   <string name="radio_info_current_network_label">Xarxa actual:</string>
+  <string name="radio_info_data_connection_disable">Desactiva la connexió de dades</string>
+  <string name="radio_info_data_connection_enable">Activa la connexió de dades</string>
+  <string name="radio_info_data_network_type_label">Tipus de xarxa de dades:</string>
   <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
   <string name="radio_info_gprs_service_label">Servei GPRS:</string>
   <string name="radio_info_gsm_service_label">Servei GSM:</string>
@@ -2841,9 +3170,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_message_waiting_label">Espera de missatges:</string>
   <string name="radio_info_neighboring_location_label">CID propers:</string>
   <string name="radio_info_phone_number_label">Número de telèfon:</string>
+  <string name="radio_info_ping_hostname_v4">Fes ping a IPv4 de nom d\'amfitrió (www.google.com):</string>
+  <string name="radio_info_ping_hostname_v6">Fes ping a IPv6 de nom d\'amfitrió (www.google.com):</string>
   <string name="radio_info_ppp_received_label">PPP rebuts:</string>
   <string name="radio_info_ppp_resets_label">Nombre de reinicialitzacions de PPP des de l\'inici:</string>
   <string name="radio_info_ppp_sent_label">PPP enviats:</string>
+  <string name="radio_info_radio_power">Alimentació del senyal mòbil</string>
   <string name="radio_info_roaming_label">Itinerància:</string>
   <string name="radio_info_set_perferred_label">Configura el tipus de xarxa preferida:</string>
   <string name="radio_info_signal_location_label">Ubicació:</string>
@@ -2852,6 +3184,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_smsc_refresh_label">Actualitza</string>
   <string name="radio_info_smsc_update_label">Actualitza</string>
   <string name="radio_info_toggle_dns_check_label">Commuta la comprovació DNS</string>
+  <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
@@ -2861,9 +3194,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recent_location_requests_title">Accés a la ubicació</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
+  <string name="regulatory_info_text"></string>
   <string name="regulatory_information">Informació de regulació</string>
+  <string name="remaining_length_format">Resten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
   <string name="remove_account_label">Suprimeix el compte</string>
+  <string name="remove_and_uninstall_device_admin">Desactiva i desinstal·la</string>
   <string name="remove_device_admin">Desactiva</string>
   <string name="remove_from_frequently_fragment">Voleu esborrar %s de la configuració ràpida?</string>
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
@@ -2894,11 +3230,18 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="reset_network_final_button_text">Reinicia la configuració</string>
   <string name="reset_network_final_desc">Voleu reiniciar tots els paràmetres de la xarxa? No podreu recuperar-los!</string>
   <string name="reset_network_title">Reinicia la configuració de la xarxa</string>
+  <string name="reset_second_space_passwd">Restableix la contrasenya del Segon espai</string>
+  <string name="reset_second_space_passwd_cancel">Cancel·la</string>
+  <string name="reset_second_space_passwd_confirm">Continua</string>
+  <string name="reset_second_space_passwd_detail">Introduïu la contrasenya del compte Mi del Primer espai</string>
+  <string name="reset_shortcut_manager_throttling">Restableix els comptadors de limitació de velocitat de ShortcutManager</string>
+  <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
   <string name="resolver_settings_label">Ordena</string>
   <string name="resource_ringtone_volume_mute">S\'ha silenciat el so del telèfon</string>
   <string name="restore_default_apn">S\'està restaurant la configuració predeterminada d\'APN.</string>
   <string name="restore_default_apn_completed">S\'ha restablert la configuració predeterminada d\'APN.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
+  <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
   <string name="restriction_bluetooth_config_summary">Permet la modificació de la vinculació i configuració per Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Permet que les aplicacions utilitzin la informació de la ubicació</string>
@@ -2916,6 +3259,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="ring_volume_title">Volum del so de la trucada</string>
   <string name="ringtone_mute">Cap</string>
   <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
+  <string name="ringtone_summary"></string>
   <string name="ringtone_title">So de trucada del telèfon</string>
   <string name="ringtone_uniform_setting_title">Configuració de SIM dual</string>
   <string name="roaming">Dades en itinerància</string>
@@ -2961,6 +3305,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
   <string name="screen_button_tips">Llisca avall per amagar el botons de la pantalla</string>
+  <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
   <string name="screen_color_temperature">Colors</string>
@@ -3024,6 +3369,29 @@ Per fer-ho:
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
   <string name="screen_timeout_title">Mode en repòs</string>
+  <string name="screen_zoom_conversation_icon_alex">A</string>
+  <string name="screen_zoom_conversation_icon_pete">P</string>
+  <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
+  <string name="screen_zoom_conversation_message_2">Vols anar a fer el toc i parlem?</string>
+  <string name="screen_zoom_conversation_message_3">I tant, ja sé on podem anar.</string>
+  <string name="screen_zoom_conversation_message_4">Som-hi doncs.</string>
+  <string name="screen_zoom_conversation_timestamp_1">Dimarts a les 18:00</string>
+  <string name="screen_zoom_conversation_timestamp_2">Dimarts a les 18:01</string>
+  <string name="screen_zoom_conversation_timestamp_3">Dimarts a les 18:02</string>
+  <string name="screen_zoom_conversation_timestamp_4">Dimarts a les 18:03</string>
+  <string name="screen_zoom_keywords">densitat de pantalla, zoom de pantalla, escala, mida</string>
+  <string name="screen_zoom_make_larger_desc">Fes-la més grossa</string>
+  <string name="screen_zoom_make_smaller_desc">Fes-la més petita</string>
+  <string name="screen_zoom_preview_title">Previsualització</string>
+  <string name="screen_zoom_short_summary">Amplia o redueix els elements de la pantalla</string>
+  <string name="screen_zoom_summary">Amplia o redueix els elements de la pantalla. És possible que algunes aplicacions de la pantalla canviïn de posició.</string>
+  <string name="screen_zoom_summary_custom">Personalitzada (%d)</string>
+  <string name="screen_zoom_summary_default">Predeterminada</string>
+  <string name="screen_zoom_summary_extremely_large">La més grossa</string>
+  <string name="screen_zoom_summary_large">Grossa</string>
+  <string name="screen_zoom_summary_small">Petita</string>
+  <string name="screen_zoom_summary_very_large">Més grossa</string>
+  <string name="screen_zoom_title">Mida de visualització</string>
   <string name="screensaver_settings_button">Configuració</string>
   <string name="screensaver_settings_disabled_prompt">Per a controlar què passa quan el telèfon està acoblat i/o en repòs, activeu el Daydream.</string>
   <string name="screensaver_settings_dream_start">Inicia</string>
@@ -3048,6 +3416,7 @@ Per fer-ho:
   <string name="sd_insert_summary">Inseriu l\'emmagatzematge USB per muntar-lo</string>
   <string name="sd_memory">Emmagatzematge USB</string>
   <string name="sd_mount">Munta l\'emmagatzematge USB</string>
+  <string name="sd_mount_summary"></string>
   <string name="sdcard_changes_instructions">Els canvis s\'aplicaran quan es torni a connectar el cable USB.</string>
   <string name="sdcard_format">Esborra l\'emmagatzematge USB</string>
   <string name="sdcard_setting">Emmagatzematge USB</string>
@@ -3285,15 +3654,20 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nom</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">D\'acord</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">A més de desbloquejar el telèfon, també podeu utilitzar l\'empremta per autoritzar compres i l\'accés a les aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">S\'ha desactivat l\'opció de bloqueig de pantalla. Encara podeu fer servir l\'empremta digital per autoritzar compres i permetre l\'accés a determinades aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">S\'ha desactivat l\'opció de bloqueig de pantalla. Encara podeu fer servir l\'empremta per autoritzar compres i permetre l\'accés a determinades aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Fet</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració amb la ubicació del sensor d\'empremtes digitals i de dispositiu</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Cerca el sensor d\'empremtes digitals a la part posterior del telèfon.</string>
+  <string name="security_settings_fingerprint_enroll_error_dialog_title">No s\'ha completat la inscripció</string>
+  <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"La identificació de l'empremta digital no ha funcionat. Torneu-ho a provar o utilitzeu un altre dit."</string>
+  <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">S\'ha esgotat el temps d\'espera per inscriure l\'empremta. Torna-ho a provar.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Il·lustració del dispositiu amb la ubicació del sensor d\'empremtes</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Cerca el sensor d\'empremtes a la part posterior del telèfon.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Cerca el sensor</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">Quan vegeu aquesta icona, podeu fer servir l\'empremta digital per identificar-vos o per autoritzar una compra.</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Quan vegeu aquesta icona, podeu fer servir l\'empremta per identificar-vos o per autoritzar una compra.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">S\'ha afegit l\'empremta!</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Cancel·la</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Omet</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continua</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Afegeix una empremta digital</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Només cal que toqueu el sensor d\'empremtes per a desbloquejar el telèfon, per autoritzar les compres o per iniciar la sessió en una aplicació. Aneu amb compte a l\'hora d\'afegir empremtes, tingueu present que totes les que afegiu podran fer tot això.</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueig amb empremta</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Treu el dit i torna a tocar el sensor</string>
@@ -3304,20 +3678,27 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_start_title">Som-hi!</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Utilitza el sensor d\'empremtes del dispositiu.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Ep, això no és el sensor</string>
+  <string name="security_settings_fingerprint_preference_summary_none"></string>
   <string name="security_settings_fingerprint_preference_title">Empremta</string>
   <string name="security_settings_premium_sms_desc">Envia SMS prèmium</string>
   <string name="security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de certificats</string>
   <string name="security_settings_title">Seguretat</string>
+  <string name="see_all">Mostra-les totes</string>
+  <string name="see_less">Mostra\'n menys</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_application">Selecciona l\'aplicació</string>
   <string name="select_device_admin_msg">Administrador del dispositiu</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia de Logger</string>
+  <string name="select_sim_card">Seleccioneu una targeta SIM</string>
   <string name="select_sim_for_calls">Truca mitjançant</string>
   <string name="select_sim_for_data">Selecciona una SIM per a les dades</string>
   <string name="select_ssid_type_title">Selecció de SSID</string>
   <string name="select_usb_configuration_dialog_title">Selecció de la configuració USB</string>
   <string name="select_usb_configuration_title">Selecció de la configuració USB</string>
+  <string name="select_webview_provider_dialog_title">Configura la implementació de WebView</string>
+  <string name="select_webview_provider_title">Implementació de WebView</string>
+  <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torna-ho a provar.</string>
   <string name="selinux_status">Estat de SELinux</string>
   <string name="selinux_status_disabled">S\'ha desactivat</string>
   <string name="selinux_status_enforcing">S\'està forçant</string>
@@ -3333,10 +3714,14 @@ Per fer-ho:
   <string name="service_stop">Atura</string>
   <string name="service_stop_description">L\'aplicació ha començat a executar la tasca. Si l\'atureu hi pot haver errors.</string>
   <string name="services_subtitle">Tasques</string>
+  <string name="set_data_limit">Estableix un límit de dades</string>
+  <string name="set_data_time_range">Mostra l\'interval de temps</string>
   <string name="set_password_action">Estableix la contrasenya</string>
   <string name="set_password_message">Configura una contrasenya per aturar el mode de mainada i per a desbloquejar el dispositiu.</string>
   <string name="set_password_title">Estableix una contrasenya</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
+  <string name="settings_ad_loading">S\'està carregant&#8230;</string>
+  <string name="settings_ad_loading_unavailable">Hi ha un problema en carregar.</string>
   <string name="settings_backup">Còpia de seguretat de la configuració</string>
   <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
   <string name="settings_button">Configuració</string>
@@ -3346,6 +3731,8 @@ Per fer-ho:
   <string name="settings_license_activity_loading">S\'està carregant&#8230;</string>
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="settings_license_activity_unavailable">S\'ha produït un problema en llegir les llicències.</string>
+  <string name="settings_manual_activity_title">Manual</string>
+  <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
   <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant&#8230;</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
@@ -3354,11 +3741,23 @@ Per fer-ho:
   <string name="settings_shortcut">Configuració de les dreceres</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
   <string name="settings_toggle_position_divider_page">%1$d commutadors sobre d\'aquesta barra són actius</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_title">Voleu ometre la configuració d\'empremta digital?</string>
   <string name="setup_fingerprint_enroll_finish_message">Toca el sensor d\'empremtes per activar i desbloquejar el dispositiu.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Quan vegeu aquesta icona, podeu fer servir l\'empremta.</string>
+  <string name="setup_fingerprint_enroll_finish_secondary_message">Per canviar la vostra configuració, aneu a Configuració &gt; Seguretat &gt; Empremta digital.</string>
+  <string name="setup_lock_settings_picker_fingerprint_message">Fer servir l\'empremta pot ser menys segur que utilitzar un patró, un PIN o una contrasenya segurs. Per a més seguretat configureu un bloqueig de pantalla alternatiu.</string>
+  <string name="setup_lock_settings_picker_message">Activa les funcions de protecció del dispositiu per impedir que altres persones utilitzin el telèfon sense permís. Trieu el bloqueig de pantalla que vulgueu utilitzar.</string>
+  <string name="setup_lock_settings_picker_title">Protecció del telèfon</string>
   <string name="setup_wifi_nfc_tag">Configura l\'etiqueta de NFC per a Wi-Fi</string>
   <string name="severe_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
   <string name="severe_threats_title">Amenaces importants</string>
+  <string name="share_remote_bugreport_action">Compartició</string>
+  <string name="share_remote_bugreport_dialog_message">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions, dades i que el dispositiu funcioni més a poc a poc durant una estona.</string>
+  <string name="share_remote_bugreport_dialog_message_finished">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes del dispositiu. És possible que es comparteixin aplicacions i dades.</string>
+  <string name="share_remote_bugreport_dialog_title">Voleu compartir l\'informe d\'errors?</string>
+  <string name="sharing_remote_bugreport_dialog_message">L\'informe d\'errors s\'està compartint amb l\'administrador de TI. Contacteu-hi per obtenir-ne més informació.</string>
+  <string name="short_summary_font_size">Amplia o redueix el text</string>
   <string name="show_all_anrs">Mostra totes ANRs</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_background_processes">Mostra els processos en memòria cau</string>
@@ -3374,6 +3773,8 @@ Per fer-ho:
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
   <string name="show_hw_screen_updates_summary">Quan es dibuixin amb la GPU, il·lumina les vistes de dins de les finestres</string>
+  <string name="show_ime">Mostra el teclat virtual</string>
+  <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
@@ -3383,6 +3784,8 @@ Per fer-ho:
   <string name="show_running_services">Mostra les tasques en execució</string>
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Quan s\'actualitzin il·lumina totes les superfícies de les finestres</string>
+  <string name="show_silently">Mostra de manera silenciosa</string>
+  <string name="show_silently_summary">"No reprodueix cap so, no vibra ni mostra aquestes notificacions a la pantalla actual."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
@@ -3463,6 +3866,7 @@ Per fer-ho:
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
+  <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
   <string name="skip_lock_screen_confirm_msg">Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home.</string>
   <string name="skip_step">Omet</string>
@@ -3492,7 +3896,11 @@ Per fer-ho:
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sons en tocar</string>
   <string name="sound_settings">So</string>
+  <string name="sound_settings_example_summary">Volum del timbre al 80%</string>
+  <string name="sound_settings_summary">Volum del timbre al %1$s</string>
   <string name="sound_vibrate_settings">So i vibració</string>
+  <string name="special_access">Accés especial</string>
+  <string name="spell_checker_not_selected">No s\'ha seleccionat</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Configuració</string>
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
@@ -3513,6 +3921,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Llisca avall per amagar el botons de la pantalla</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
   <string name="status_bar_screen_button_key_can_hide">Els botons de la pantalla es poden amagar</string>
@@ -3523,6 +3932,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings">Notificacions i barra d\'estat</string>
   <string name="status_bar_settings_advanced">Configuració avançada</string>
   <string name="status_bar_settings_all_app_display_loading">Un moment&#8230;</string>
+  <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
@@ -3558,6 +3968,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_data_state">Estat de la xarxa mòbil</string>
   <string name="status_failed_to_write">No es poden escriure dades a l\'etiqueta NFC. Si el problema continua, proveu-ho amb una altra etiqueta</string>
   <string name="status_icc_id">ICCID</string>
+  <string name="status_iccid">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
   <string name="status_invalid_password">La contrasenya no és vàlida. Torneu-ho a provar.</string>
@@ -3635,6 +4046,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_label">Emmagatzematge</string>
   <string name="storage_low_summary">És possible que algunes funcions del sistema, com ara la sincronització, no funcionin bé. Proveu d\'alliberar espai: suprimeix o desfixa elements, com ara aplicacions o contingut multimèdia.</string>
   <string name="storage_low_title">L\'espai d\'emmagatzematge s\'està esgotant</string>
+  <string name="storage_menu_cleanup">Neteja de l\'emmagatzematge</string>
   <string name="storage_menu_explore">Explora</string>
   <string name="storage_menu_forget">Oblida</string>
   <string name="storage_menu_format">Formata</string>
@@ -3653,6 +4065,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_settings_summary">Desmunta l\'emmagatzematge USB, visualitza l\'emmagatzematge disponible</string>
   <string name="storage_settings_title">Configuració d\'emmagatzematge</string>
   <string name="storage_size_large">^1&lt;petit&gt;&lt;petit&gt; ^2&lt;/petit&gt;&lt;/petit&gt;</string>
+  <string name="storage_summary">S\'ha utilitzat el %1$s de %2$s</string>
   <string name="storage_summary_format">%1$s utilitzats de %2$s</string>
   <string name="storage_title_usb">Connexió USB a l\'ordinador</string>
   <string name="storage_type_external">Emmagatzematge extern</string>
@@ -3720,6 +4133,13 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">S\'ha activat el mode estricte</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
+  <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
+  <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
+  <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
+  <string name="suggestion_additional_fingerprints_summary">Desbloqueja amb una altra empremta</string>
+  <string name="suggestion_remove">Treu</string>
+  <string name="suggestions_title">Suggeriments (%1$d)</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
@@ -3767,12 +4187,17 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
   <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
+  <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
+  <string name="system_default_app">(Opció predeterminada del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
   <string name="system_storage">Emmagatzematge del sistema</string>
   <string name="system_ui_settings">Mostra el SystemUI Tuner</string>
+  <string name="system_update_settings_list_item_summary"></string>
   <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
+  <string name="talkback_summary">Lector de pantalla destinat principalment a persones invidents i amb problemes de visió</string>
+  <string name="talkback_title">TalkBack</string>
   <string name="tap_to_wake">Toca per activar-lo</string>
   <string name="tap_to_wake_summary">Toca dos cops un punt de la pantalla per activar el dispositiu</string>
   <string name="terms_title">Termes i condicions</string>
@@ -3784,6 +4209,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés a internet</string>
+  <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre la funció Economitzador de dades està activada</string>
+  <string name="tether_settings_launch_title">Punt d\'accés mòbil</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Connexió compartida per Bluetooth</string>
   <string name="tether_settings_title_usb">Connexió compartida per USB</string>
@@ -3791,12 +4218,31 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tether_share_qrcode_title">Compartició del codi QR</string>
   <string name="tethering_help_button_text">Ajuda</string>
+  <string name="tethering_help_dialog_text">&lt;b&gt;USB compartit&lt;/b&gt;\" 
+Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador mitjançant un cable USB. 
+
+1.L\'USB compartit funciona amb Windows Vista, Windows 7, Windows 8, Windows 8.1 i Linux. 
+
+2.Si el dispositiu té una targeta SD o emmagatzematge USB, no podreu muntar-la mentre s\'estigui compartint l\'USB. 
+
+ \"&lt;b&gt;Punt d\'accés Wi-Fi &lt;/b&gt;\"
+ Podeu convertir el dispositiu Android en un punt d\'accés Wi-Fi i compartir la connexió a internet de l\'Android amb altres ordinadors o dispositius.
+
+1.Quan el dispositiu fa de punt d\'accés, no podreu utilitzar les aplicacions per connectar-vos a internet des de Wi-Fi (sí que ho podreu fer des de les dades mòbils). 
+
+2.Podeu configurar el punt d\'accés des de la configuració de Wi-Fi.\"</string>
+  <string name="tethering_help_dialog_title">Ajuda</string>
+  <string name="tethering_no_sim_alert_title">No hi ha cap targeta SIM</string>
+  <string name="tethering_no_sim_card_text">Instal·leu la targeta SIM per poder compartir la connexió de dades amb altres dispositius mitjançant un punt d\'accés Wi-Fi o amb un cable USB.</string>
   <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
+  <string name="tethering_settings_summary">"Compartiu la connexió de dades mòbils del dispositiu mitjançant USB o amb un punt d'accés Wi-Fi"</string>
   <string name="theme_settings_title">Temes</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecciona el fus horari</string>
+  <string name="timer_switch_settings_title">Planificació d\'activació i desactivació</string>
   <string name="timezone_settings">Fus horari</string>
   <string name="title_color_calibration">Correcció predeterminada de color</string>
+  <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="title_font">Tipus de lletra</string>
   <string name="title_font2">Tipus de lletra</string>
   <string name="title_font_current">Tipus de lletra del sistema</string>
@@ -3826,6 +4272,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="trackball_settings">Punter</string>
   <string name="trackball_wake_title">Activació amb el punter</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
+  <string name="translation_contributors_summary"></string>
   <string name="translation_contributors_title">Col·laboradors en la traducció</string>
   <string name="trusted_credentials">Certificats de confiança</string>
   <string name="trusted_credentials_disable_confirmation">Voleu desactivar el certificat de CA del sistema?</string>
@@ -3836,6 +4283,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="trusted_credentials_remove_label">Suprimeix</string>
   <string name="trusted_credentials_summary">Mostra els certificats CA de confiança</string>
   <string name="trusted_credentials_system_tab">Sistema</string>
+  <string name="trusted_credentials_trust_label">De confiança</string>
   <string name="trusted_credentials_user_tab">Usuari</string>
   <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -3856,6 +4304,10 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la veu</string>
+  <string name="tts_reset_speech_rate_summary">Restableix la velocitat de lectura del text al valor normal.</string>
+  <string name="tts_reset_speech_rate_title">Restableix la velocitat de la veu</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
   <string name="tts_status_checking">S\'està comprovant...</string>
@@ -3864,10 +4316,17 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
+  <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Voleu desactivar la contrasenya de la pantalla de bloqueig?</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
+  <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
+  <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
+  <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
   <string name="under_keyguard">Pantalla de bloqueig</string>
   <string name="uninstall_all_users_text">Desinstal·la per a tots els usuaris</string>
+  <string name="uninstall_device_admin">Desinstal·la l\'aplicació</string>
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
   <string name="uninstall_text">Desinstal·la</string>
@@ -3883,22 +4342,40 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Les funcions de protecció del perfil no funcionen sense contrasenya.</string>
   <string name="unlock_disable_frp_warning_content_pattern">\"Les funcions de protecció del dispositiu no funcionaran sense el patró.</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el patró.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense el patró.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Les funcions de protecció del perfil no funcionen sense patró.</string>
   <string name="unlock_disable_frp_warning_content_pin">\"Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense el PIN.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense el PIN.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions.»</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
+
+Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_ok">Sí, suprimeix-la</string>
   <string name="unlock_disable_frp_warning_title">Voleu suprimir la protecció del dispositiu?</string>
+  <string name="unlock_disable_frp_warning_title_profile">Voleu suprimir la protecció del perfil?</string>
   <string name="unlock_disable_lock_pin_summary">Desactiva el PIN</string>
   <string name="unlock_disable_lock_title">Desactiva la pantalla de bloqueig</string>
+  <string name="unlock_set_do_later_title">Ara no</string>
   <string name="unlock_set_enter_system">Omet la pantalla de bloqueig</string>
   <string name="unlock_set_enter_system_summary">En sortir de repòs vés a la pàgina d\'inici</string>
   <string name="unlock_set_unlock_disabled_summary">S\'ha desactivat per l\'administrador, política d\'encriptació o emmagatzematge de certificats</string>
@@ -3906,6 +4383,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_launch_picker_change_title">Canvi de la pantalla de bloqueig</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Trieu un mètode per bloquejar la pantalla</string>
   <string name="unlock_set_unlock_launch_picker_title">Bloqueig de pantalla</string>
+  <string name="unlock_set_unlock_launch_picker_title_profile">Bloq. perfil profess.</string>
   <string name="unlock_set_unlock_mode_none">Llisca</string>
   <string name="unlock_set_unlock_mode_off">Cap</string>
   <string name="unlock_set_unlock_mode_password">Contrasenya</string>
@@ -3913,6 +4391,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">Sense seguretat</string>
   <string name="unlock_set_unlock_none_title">Cap</string>
+  <string name="unlock_set_unlock_off_summary"></string>
   <string name="unlock_set_unlock_off_title">Cap</string>
   <string name="unlock_set_unlock_password_summary">Per a desbloquejar-lo introduïu com a mínim 4 lletres o números</string>
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
@@ -3923,10 +4402,14 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
+  <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'Economitzador de dades activat</string>
+  <string name="unrestricted_app_title">Ús de dades sense restricció</string>
+  <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
   <string name="untitled_apn">Sense nom</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
   <string name="upload_debug_log_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
   <string name="upload_debug_log_title">Programa d\'experiència d\'usuari</string>
+  <string name="usage">Ús</string>
   <string name="usage_access">Accés d\'ús</string>
   <string name="usage_access_description">Gràcies a l\'accés d\'ús, les aplicacions poden fer un seguiment de les altres aplicacions que utilitzeu i la freqüència amb què ho feu, de l\'operador de telefonia mòbil i de la configuració d\'idioma, entre d\'altres.</string>
   <string name="usage_access_title">Aplicacions amb accés d\'ús</string>
@@ -3972,6 +4455,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_midi_summary">Permet que les aplicacions compatibles amb MIDI utilitzin programari de MIDI a l\'ordinador des d\'USB.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Munta l\'emmagatzematge USB</string>
+  <string name="usb_mount_summary"></string>
   <string name="usb_msd_driver_installer_summary">Obtén drivers per a Windows i OSX</string>
   <string name="usb_msd_driver_installer_title">Disc d\'instal·lació del controlador (MSD)</string>
   <string name="usb_msd_summary">Transfereix fitxers via Windows o OSX</string>
@@ -3983,16 +4467,24 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_tethering_active_subtext">Connexió compartida</string>
   <string name="usb_tethering_available_subtext">S\'ha connectat l\'USB, activa-ho per a compartir-lo</string>
   <string name="usb_tethering_button_text">Connexió compartida per USB</string>
+  <string name="usb_tethering_desc">Utilitza el dispositiu per compartir internet des d\'USB</string>
   <string name="usb_tethering_errored_subtext">No s\'ha pogut compartir la connexió per USB</string>
   <string name="usb_tethering_storage_active_subtext">No es pot compartir la connexió quan l\'emmagatzematge USB és en ús</string>
+  <string name="usb_tethering_title">Internet compartit per USB</string>
   <string name="usb_tethering_turnon_subtext">Connecta-ho per activar-lo</string>
   <string name="usb_tethering_unavailable_subtext">No s\'ha connectat l\'USB</string>
   <string name="usb_title">USB</string>
   <string name="usb_use">Funcions de l\'USB</string>
   <string name="usb_use_MIDI">MIDI</string>
+  <string name="usb_use_MIDI_desc">Utilitza aquest dispositiu com a MIDI</string>
   <string name="usb_use_charging_only">Només càrrega</string>
+  <string name="usb_use_charging_only_desc">Només carrega el dispositiu</string>
   <string name="usb_use_file_transfers">Transfereix fitxers (MTP)</string>
+  <string name="usb_use_file_transfers_desc">Transfereix fitxers a un altre dispositiu</string>
   <string name="usb_use_photo_transfers">Transfereix fotos (PTP)</string>
+  <string name="usb_use_photo_transfers_desc">Transfereix fotos o fitxers si no s\'admet MTP (PTP)</string>
+  <string name="usb_use_power_only">Sbministra corrent</string>
+  <string name="usb_use_power_only_desc">Subministra corrent a l\'altre dispositiu connectat</string>
   <string name="use_location_summary">Permet que Google utilitzi la ubicació per millorar els resultats de les cerques i altres serveis</string>
   <string name="use_location_title">Ubicació i cerca de Google</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
@@ -4002,6 +4494,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="user_account_title">Compte per al contingut</string>
   <string name="user_add_max_count">Podeu afegir fins a %1$d usaris</string>
   <string name="user_add_on_lockscreen_menu">Afegeix usuaris quan el dispositiu és bloquejat</string>
+  <string name="user_add_on_lockscreen_menu_summary">amb el dispositiu bloquejat</string>
   <string name="user_add_profile_item_summary">Des del compte podeu restringir l\'accés a aplicacions i continguts</string>
   <string name="user_add_profile_item_title">Perfil amb restriccions</string>
   <string name="user_add_user_item_summary">Els usuaris tenen les seves aplicacions i el seu contingut</string>
@@ -4019,12 +4512,16 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_add_user_title">Voleu afegir un altre usuari?</string>
   <string name="user_add_user_type_title">Afegeix</string>
   <string name="user_adding_new_user">S\'està afegint un altre usuari&#8230;</string>
+  <string name="user_admin">Administrador</string>
   <string name="user_cannot_add_accounts_message">Els perfils restringits no poden afegir comptes</string>
   <string name="user_cannot_manage_message">Només el propietari del telèfon en pot gestionar els usuaris.</string>
   <string name="user_confirm_remove_message">Se suprimiran totes les dades i totes les aplicacions.</string>
   <string name="user_confirm_remove_self_message">Perdreu l\'espai i les dades del telèfon. No podreu recuperar-lo.</string>
   <string name="user_confirm_remove_self_title">Voleu suprimir el vostre compte?</string>
   <string name="user_confirm_remove_title">Voleu suprimir l\'usuari?</string>
+  <string name="user_credential_title">Detalls de les credencials</string>
+  <string name="user_credentials">Credencials d\'usuari</string>
+  <string name="user_credentials_summary">Mostra i modifica les credencials emmagatzemades</string>
   <string name="user_delete_button">Esborra</string>
   <string name="user_delete_user_description">Suprimeix l\'usuari</string>
   <string name="user_dict_settings_add_dialog_confirm">D\'acord</string>
@@ -4045,6 +4542,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_dict_settings_empty_text">«No hi ha cap diccionari
 Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_dict_settings_more_languages">Més idiomes&#8230;</string>
+  <string name="user_dict_settings_summary"></string>
   <string name="user_dict_settings_title">Diccionari personal</string>
   <string name="user_enable_calling">Activa les trucades telefòniques</string>
   <string name="user_enable_calling_and_sms_confirm_message">Es compartirà amb aquest usuari l\'historial de trucades i de SMS.</string>
@@ -4065,6 +4563,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_image_take_photo">Fes una foto</string>
   <string name="user_info_settings_title">Informació de l\'usuari</string>
   <string name="user_list_title">Usuaris i perfils</string>
+  <string name="user_lockscreen_settings">Configuració de la pantalla de bloqueig</string>
   <string name="user_need_lock_message">Per crear un perfil restringit, heu de configurar una pantalla de bloqueig per protegir les aplicacions i les dades personals.</string>
   <string name="user_new_profile_name">Perfil nou</string>
   <string name="user_new_user_name">Usuari nou</string>
@@ -4084,11 +4583,14 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_setup_dialog_message">Comproveu que l\'usuari té accés al dispositiu i que pot configurar el seu espai</string>
   <string name="user_setup_dialog_title">Voleu configurar l\'usuari?</string>
   <string name="user_setup_profile_dialog_message">Voleu configurar el perfil?</string>
+  <string name="user_summary">Sessió iniciada com a %1$s</string>
   <string name="user_summary_managed_profile_not_set_up">No s\'ha configurat el perfil professional</string>
   <string name="user_summary_not_set_up">No s\'ha configurat</string>
   <string name="user_summary_restricted_not_set_up">No s\'ha configurat el perfil amb restriccions</string>
   <string name="user_summary_restricted_profile">Perfil amb restriccions</string>
   <string name="user_you">Tu (%s)</string>
+  <string name="v7_preference_off">Desactivat</string>
+  <string name="v7_preference_on">Activat</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="version_text">versió %1$s</string>
@@ -4099,6 +4601,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_input_devices_summary">Si està connectat, redirigeix la vibració al controlador de jocs.</string>
   <string name="vibrate_on_touch_title">Vibrar en tocar</string>
   <string name="vibrate_when_ringing_title">Vibra també en trucades</string>
+  <string name="virtual_keyboard_category">Teclat virtual</string>
   <string name="virtual_sim_category_title">Itinerància Mi</string>
   <string name="virtual_sim_description">Servei d\'itinerància internacional fiable</string>
   <string name="virtual_sim_global_category_title">SIM Mi</string>
@@ -4138,6 +4641,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virus_scanner_select_trust_lib">Selecciona les definició de virus</string>
   <string name="virus_scanner_title">Cercador de virus</string>
   <string name="virus_scanner_update_lib">Actualitza les definicions</string>
+  <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
+  <string name="vision_settings_title">Configuració de visió</string>
   <string name="voice_category">Veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
   <string name="voice_input_output_settings_title">Configuració de l\'entrada i sortida de veu</string>
@@ -4145,9 +4650,11 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="voice_input_settings_title">Entrada de veu</string>
   <string name="voice_interaction_security_warning">Aquest servei podrà fer el seguiment constant del control de veu a les aplicacions que hàgiu activat. Es tracta de l\'aplicació %s. Voleu activar l\'ús d\'aquest servei?</string>
   <string name="voice_interactor_preference_summary">Paraula activa i interacció completes</string>
+  <string name="voice_over_lte">Veu sobre LTE</string>
   <string name="voice_recognizer_preference_summary">Síntesi de veu simple</string>
   <string name="voice_search_settings_title">Cerca amb la veu</string>
   <string name="voice_service_preference_section_title">Serveis d\'entrada de veu</string>
+  <string name="volte_provisioned_switch_string">VoLTE administrada</string>
   <string name="volume_alarm_description">Alarma</string>
   <string name="volume_alarm_mute">Silencia les alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
@@ -4163,7 +4670,10 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="volume_ring_mute">Silencia els sons i les notificacions</string>
   <string name="volume_system_description">Càmera, bloqueig de pantalla i altres notificacions del sistema</string>
   <string name="volume_voice_description">Volum de la trucada</string>
+  <string name="vpn_always_on_active">Sempre actiu</string>
   <string name="vpn_cancel">Cancel·la</string>
+  <string name="vpn_cant_connect_message">"Aquesta aplicació no és compatible amb una VPN sempre activada."</string>
+  <string name="vpn_cant_connect_title">"No s'ha pogut connectar %1$s"</string>
   <string name="vpn_configure">Configuració</string>
   <string name="vpn_connect">Connecta</string>
   <string name="vpn_connect_to">Connecta amb %s</string>
@@ -4176,6 +4686,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_edit">Edita el perfil de la VPN</string>
   <string name="vpn_enable">VPN</string>
   <string name="vpn_forget">Oblida-la</string>
+  <string name="vpn_forget_long">Oblida la VPN</string>
   <string name="vpn_ipsec_ca_cert">Certificat IPSec CA</string>
   <string name="vpn_ipsec_identifier">Identificador IPSec</string>
   <string name="vpn_ipsec_secret">Clau IPSec prèviament compartida</string>
@@ -4195,10 +4706,14 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_no_network">No hi ha connexió de xarxa. Torna-ho a provar més tard.</string>
   <string name="vpn_no_selected">Seleccioneu una VPN</string>
   <string name="vpn_no_server_cert">(rebut des del servidor)</string>
+  <string name="vpn_no_vpns_added">No s\'ha afegit cap VPN.</string>
   <string name="vpn_not_used">(no s\'utilitza)</string>
   <string name="vpn_off">Desactivada</string>
   <string name="vpn_on">Activada</string>
   <string name="vpn_password">Contrasenya</string>
+  <string name="vpn_replace">Reemplaça</string>
+  <string name="vpn_replace_always_on_vpn_message">"Ja esteu connectats a una VPN. Si us connecteu a una altra VPN, se substituirà l'actual."</string>
+  <string name="vpn_replace_always_on_vpn_title">Voleu substituir la VPN actual?</string>
   <string name="vpn_routes">Rutes de desviament</string>
   <string name="vpn_routes_hint">ex. 10.0.0.0/8</string>
   <string name="vpn_safe">Seguretat</string>
@@ -4215,6 +4730,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_type">Tipus</string>
   <string name="vpn_username">Nom d\'usuari</string>
   <string name="vpn_version">Versió %s</string>
+  <string name="vr_listener_security_warning_summary">%1$s es podrà executar quan s\'utilitzen aplicacions en mode de realitat virtual.</string>
+  <string name="vr_listener_security_warning_title">Voleu permetre a %1$s l\'accés al servei de realitat virtual?</string>
+  <string name="vr_listeners_title">Serveis d\'ajuda per a la realitat virtual</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wakeup_for_keyguard_notification_title">Activa la pantalla en rebre notificacions</string>
@@ -4226,6 +4744,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_lockscreen">Bloqueja la pantalla</string>
   <string name="wallpaper_settings_fragment_title">Selecciona fons de pantalla des de</string>
   <string name="wallpaper_settings_title">Fons de pantalla</string>
+  <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
+  <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
   <string name="webview_license_title">Llicència de WebView del sistema</string>
   <string name="welcome">Benvinguts</string>
   <string name="wfd_available_devices">Dispositius disponibles</string>
@@ -4245,10 +4765,12 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="whetstone_level_reboot_OK">Reinicia</string>
   <string name="whetstone_level_title">Optimització de memòria del sistema</string>
   <string name="widget_picker_title">Selecció d\'un giny</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="wifi_access_points">Xarxes Wi-Fi</string>
   <string name="wifi_add_network">Afegeix una xarxa</string>
   <string name="wifi_advanced_ip_address_title">Adreça IP</string>
   <string name="wifi_advanced_mac_address_title">Adreça MAC</string>
+  <string name="wifi_advanced_not_available">La configuració avançada del Wi‑Fi no està disponible per a aquest usuari</string>
   <string name="wifi_advanced_settings_label">Configuració IP</string>
   <string name="wifi_advanced_titlebar">Configuració avançada de Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
@@ -4266,10 +4788,23 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
   <string name="wifi_api_test">API de Wi-Fi</string>
-  <string name="wifi_assistant_title">Assistent de Wi‑Fi</string>
+  <string name="wifi_assistant_card_message">Connecta\'t automàticament a les xarxes disponibles amb l\'auxiliar de Wi-Fi.</string>
+  <string name="wifi_assistant_dialog_message">"L'auxiliar de Wi-Fi vol configurar una connexió VPN que permet fer el seguiment del tràfic de xarxa. Només hauríeu d'acceptar-ho si confieu en l'origen."</string>
+  <string name="wifi_assistant_explanation_message">L\'auxiliar de Wi-Fi de Google detecta les xarxes disponibles i connecta el dispositiu a la que té millor velocitat i fiabilitat.</string>
+  <string name="wifi_assistant_intro_setup">"Presentació de l\'auxiliar Wi-Fi"</string>
+  <string name="wifi_assistant_permission_accepted">Vàreu autoritzar a \"l\'auxiliar Wi-Fi de Google\" d\'establir una connexió VPN, per tant aquesta aplicació pot fer el seguiment del tràfic de xarxa.</string>
+  <string name="wifi_assistant_setting_summary">Assistent Wi-Fi de Google</string>
+  <string name="wifi_assistant_setting_title">Auxiliar de Wi-Fi</string>
+  <string name="wifi_assistant_title">Auxiliar de Wi-Fi</string>
+  <string name="wifi_assistant_title_message">L\'auxiliar Wi-Fi de Google permet connectar automàticament amb la millor xarxa disponible</string>
+  <string name="wifi_assistant_vpn_message">Per protegir les dades, l\'auxiliar Wi-Fi de Google pot proporcionar una connexió VPN segura a través dels servidors de Google.</string>
   <string name="wifi_auto_connect">Connexió automàtica</string>
-  <string name="wifi_automatically_connect_summary">Permet que un assistent de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
+  <string name="wifi_auto_connect_type_summary">Especifiqueu el tipus de connexió de xarxa</string>
+  <string name="wifi_auto_connect_type_title">Connexió automàtica</string>
+  <string name="wifi_automatically_connect_summary">Permet que un auxiliar de Wi-Fi es connecti automàticament a les xarxes obertes considerades de bona qualitat</string>
   <string name="wifi_automatically_connect_title">Utilització automàticament de xarxes Wi-Fi obertes</string>
+  <string name="wifi_automatically_manage_summary">Permet que un auxiliar Wi-Fi gestioni la xarxa de connexions</string>
+  <string name="wifi_automatically_manage_title">Administració automàtica del Wi-Fi</string>
   <string name="wifi_available_title">Connexió amb Wi-Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Utilitza només les xarxes amb una bona connexió a Internet</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>
@@ -4298,6 +4833,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_context_menu_change_wapi_certificate">Canvia el certificat WAPI</string>
   <string name="wifi_context_menu_connect">Connecta</string>
   <string name="wifi_context_menu_forget">Oblida-la</string>
+  <string name="wifi_data_template">%1$s dades Wi-Fi</string>
   <string name="wifi_data_usage">Ús de dades Wi-Fi</string>
   <string name="wifi_datanetwork_switch_not_remind">"No ho tornis a mostrar"</string>
   <string name="wifi_dialog_remind_type_title">Xarxa de dades mòbils</string>
@@ -4336,6 +4872,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
+  <string name="wifi_do_not_provide_eap_user_cert">No proporcionis un certificat d\'usuari</string>
+  <string name="wifi_do_not_validate_eap_server">No validis el servidor d\'EAP</string>
+  <string name="wifi_do_not_validate_eap_server_warning">No s\'ha especificat cap certificat. La connexió no serà privada.</string>
   <string name="wifi_dont_skip">No ho ometis</string>
   <string name="wifi_eap_anonymous">Identitat anònima</string>
   <string name="wifi_eap_ca_cert">Certificat de CA</string>
@@ -4350,6 +4889,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Canvia entre dades i Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Si la connexió Wi-Fi no és gaire bona, manté les dades i el Wi-Fi activats.</string>
+  <string name="wifi_enable_hs2_title">Passpoint activat</string>
   <string name="wifi_enable_watchdog_service_summary">Només connexions estables</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
@@ -4456,7 +4996,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
 Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</string>
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
-  <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escanneig sempre disponible."</string>
+  <string name="wifi_scan_notify_text_location_off">"Les aplicacions poden escanejar xarxes, fins i tot quan hi ha el Wi-Fi desactivat. Podeu configurar-ho des de Configuració avançada &gt; Escaneig sempre disponible."</string>
+  <string name="wifi_scan_notify_text_location_on">"Per millorar la precisió de la localització i altres finalitats, Google i d'altres aplicacions poden escanejar xarxes properes, fins i tot si hi ha el Wi-Fi desactivat. Podeu configurar-ho des d'Avançats &gt; Escaneig sempre disponible."</string>
   <string name="wifi_security">Tipus de seguretat</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
@@ -4474,9 +5015,12 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_select_assistant_dialog_title">Selecció de l\'assistent</string>
+  <string name="wifi_select_assistant_dialog_title">Selecció de l\'auxiliar</string>
   <string name="wifi_select_network">Tria una xarxa Wi-Fi</string>
+  <string name="wifi_set_priority_settings_summary">Configura la prioritat per a cada punt d\'accés</string>
+  <string name="wifi_set_priority_settings_title">Configuració de la prioritat als punt d\'accés</string>
   <string name="wifi_setting_category">Xarxes disponibles</string>
+  <string name="wifi_setting_connect_type_error">Hi ha hagut un problema en establir el tipus de connexió.</string>
   <string name="wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activa en repòs</string>
   <string name="wifi_setting_sleep_policy_error">S\'ha produït un problema en canviar la configuració</string>
@@ -4547,6 +5091,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_share_upload">Comparteix</string>
   <string name="wifi_share_upload_finish">S\'han compartit</string>
   <string name="wifi_share_uploading">S\'està compartint&#8230;</string>
+  <string name="wifi_shared">Comparteix amb altres usuaris del dispositiu</string>
   <string name="wifi_show_advanced">Opcions avançades</string>
   <string name="wifi_show_password">Mostra la contrasenya</string>
   <string name="wifi_signal">Intensitat del senyal</string>
@@ -4579,15 +5124,18 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_tether_configure_subtext">Punt d\'accés portàtil %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">S\'ha activat el punt d\'accés Wi-Fi portàtil %1$s</string>
   <string name="wifi_tether_failed_subtext">Error del punt d\'accés Wi-Fi portàtil</string>
+  <string name="wifi_tether_first_use_message">Configura el punt d\'accés Wi-Fi al primer ús</string>
   <string name="wifi_tether_setting_title">Configuració</string>
   <string name="wifi_tether_settings_title">Punt d\'accés personal</string>
   <string name="wifi_tether_starting">S\'està engegant el punt d\'accés&#8230;</string>
   <string name="wifi_tether_stopping">S\'està apagant el punt d\'accés&#8230;</string>
+  <string name="wifi_type_approval"></string>
   <string name="wifi_type_approval_dialog_title">Informació de regulació</string>
   <string name="wifi_type_approval_title">Tipus d\'homologació</string>
   <string name="wifi_unchanged">(sense canvis)</string>
   <string name="wifi_unspecified">(sense especificar)</string>
   <string name="wifi_update">Actualitza les estadístiques</string>
+  <string name="wifi_use_system_certs">Utilitza certificats del sistema</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
   <string name="wifi_wapi_as_cert">Certificat AS</string>
@@ -4626,6 +5174,14 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Torneu-ho a provar d\'aquí a una estona.</string>
   <string name="wifi_wps_setup_msg">S\'esta engegant WPS&#8230;</string>
   <string name="wifi_wps_setup_title">Configuració de Wi-Fi protegida</string>
+  <string name="wifiap_configure_ap_text">Configura Wi-Fi wifiap</string>
+  <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi wifiap portable</string>
+  <string name="wifiap_settings_desc">Wi-Fi wifiap pot compartir la connexió de dades d\'internet mitjantçant la Wi-Fi amb altres dispositius com ara PC o dispositius mòbils.</string>
+  <string name="wifiap_settings_indication">Quan la Wi-Fi wifiap s\'ha activat, els altres dispositius podran connectar-se a internet seguint aquests passos:</string>
+  <string name="wifiap_settings_indication_step1">1. Activant la Wi-Fi del propi dispositiu mòbil o PC.</string>
+  <string name="wifiap_settings_indication_step2">2. Cercant \"%s\" a la llista de xarxes Wi-Fi.</string>
+  <string name="wifiap_title">Punt d\'accés Wi-Fi</string>
+  <string name="wifiap_turn_on_hint">Per utilitzar Wi-Fi wifiap, engegeu-lo.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
   <string name="wireless_networks_settings_title">Connexions sense fil i xarxes</string>
@@ -4634,6 +5190,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wizard_back">Enrere</string>
   <string name="wizard_finish">Finalitza</string>
   <string name="wizard_next">Següent</string>
+  <string name="wlan_to_cellular_hint_title">Wi-Fi -&gt; suggeriments de la xarxa mòbil</string>
+  <string name="work_mode_label">Mode professional</string>
+  <string name="work_mode_summary">Permet que el perfil professional funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades</string>
   <string name="work_profile_confirm_remove_message">Si continueu, se suprimiran totes les aplicacions i les dades d\'aquest perfil.</string>
   <string name="work_profile_confirm_remove_title">Voleu suprimir el perfil professional?</string>
   <string name="work_profile_usage_access_warning">Encara que es desactivi l\'accés a l\'ús d\'aquesta aplicació, l\'administrador podrà continuar fent el seguiment de les aplicacions del perfil professional.</string>
@@ -4660,7 +5219,10 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="xiaomi_router_notif_title">Notificació de Router Mi</string>
   <string name="xspace">Aplicacions duals</string>
   <string name="yes">Sí</string>
+  <string name="zen_access_disabled_package_warning">Ha d\'estar activat perquè l\'accés a les notificacions també ho està</string>
   <string name="zen_access_empty_text">Cap aplicació instal·lada no ha sol·licitat accés al mode No molesteu</string>
+  <string name="zen_access_revoke_warning_dialog_summary">Se suprimiran totes les regles del mode No molesteu creades per aquesta aplicació.</string>
+  <string name="zen_access_revoke_warning_dialog_title">Voleu cancel·lar que %1$s pugui accedir al mode No molesteu?</string>
   <string name="zen_access_warning_dialog_summary">L\'aplicació podrà activar o desactivar el mode No molesteu i fer canvis en paràmetres relacionats.</string>
   <string name="zen_access_warning_dialog_title">Voleu permetre que %1$s accedeixi al mode No molesteu?</string>
   <string name="zen_event_rule_enabled_toast">S\'ha establert una regla automàtica per activar el mode No molesteu durant els esdeveniments indicats</string>
@@ -4668,8 +5230,14 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_add_rule">Afegir regla</string>
   <string name="zen_mode_alarm_use">Sons</string>
   <string name="zen_mode_alarms">Alarmes</string>
+  <string name="zen_mode_all_callers">Totes les trucades</string>
+  <string name="zen_mode_all_messages">Tots els missatges</string>
+  <string name="zen_mode_all_visual_interruptions">Apagat</string>
   <string name="zen_mode_automation_settings_title">Regles automàtiques</string>
+  <string name="zen_mode_automation_suggestion_summary">Silencia en hores concretes</string>
+  <string name="zen_mode_automation_suggestion_title">Configura horari de No molesteu</string>
   <string name="zen_mode_calls">Trucades</string>
+  <string name="zen_mode_choose_rule_type">Tria el tipus de regla</string>
   <string name="zen_mode_configure_rule">Configura una regla</string>
   <string name="zen_mode_delete_rule">Suprimeix la regla</string>
   <string name="zen_mode_delete_rule_button">Suprimeix</string>
@@ -4695,6 +5263,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_important_category">Configuració</string>
   <string name="zen_mode_messages">Missatges</string>
   <string name="zen_mode_miui_silent_category">Permet</string>
+  <string name="zen_mode_no_visual_interruptions">Quan la pantalla està activada o desactivada</string>
   <string name="zen_mode_option_alarms">Només les alarmes</string>
   <string name="zen_mode_option_important_interruptions">Només amb prioritat</string>
   <string name="zen_mode_option_miui_silent">Mode silenci</string>
@@ -4709,13 +5278,22 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_rule_name_hint">Introdueix el nom de la regla</string>
   <string name="zen_mode_rule_name_warning">El nom de la regla ja s\'utilitza</string>
   <string name="zen_mode_rule_not_found_text">No s\'ha trobat la regla.</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Engegat / %1$s</string>
+  <string name="zen_mode_rule_summary_provider_combination">"%1$s
+%2$s"</string>
   <string name="zen_mode_rule_type">Tipus de regla</string>
   <string name="zen_mode_rule_type_unknown">Desconeguda</string>
+  <string name="zen_mode_schedule_alarm_summary">Atura quan s\'acabi o quan soni la propera alarma, el que passi primer</string>
+  <string name="zen_mode_schedule_alarm_title">L\'alarma pot substituir l\'hora de finalització</string>
   <string name="zen_mode_schedule_rule_days">Dies</string>
   <string name="zen_mode_schedule_rule_days_all">Cada dia</string>
   <string name="zen_mode_schedule_rule_days_none">Cap</string>
+  <string name="zen_mode_screen_off">Bloqueja quan la pantalla està desactivada</string>
+  <string name="zen_mode_screen_off_summary">Evita que les notificacions silenciades pel mode No molesteu activin la pantalla o el llum de notificació</string>
+  <string name="zen_mode_screen_off_summary_no_led">Evita que les notificacions silenciades pel mode No molesteu activin la pantalla</string>
   <string name="zen_mode_screen_off_visual_interruptions">Quan la pantalla està desactivada</string>
   <string name="zen_mode_screen_on">Bloqueja quan la pantalla està activada</string>
+  <string name="zen_mode_screen_on_summary">Evita que les notificacions silenciades pel mode No molesteu apareguin a la pantalla</string>
   <string name="zen_mode_screen_on_visual_interruptions">Quan la pantalla està activada</string>
   <string name="zen_mode_selected_callers">Contactes seleccionats</string>
   <string name="zen_mode_selected_messages">Missatges seleccionats</string>

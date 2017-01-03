@@ -860,6 +860,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optimize_result_button_cooldown_now">Refreda</string>
   <string name="optimize_result_button_correct_now">Ajusta</string>
   <string name="optimize_result_button_fix_now">Arregla</string>
+  <string name="optimize_result_button_mifi_insurance">Compra ara</string>
   <string name="optimize_result_button_onekey_open">Activa</string>
   <string name="optimize_result_button_onekey_restore">Restaura</string>
   <string name="optimize_result_button_open_now">Activa</string>
@@ -910,6 +911,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
   <string name="path_securitycenter_settings">Aplicacions del sistema/Seguretat</string>
   <string name="pay_charge">Comprar dades addicionals</string>
+  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instal·lar a través d\'USB</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
@@ -1097,6 +1099,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="preference_key_information_setting_close">key_information_setting_close</string>
   <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_lock_screen_memory_clean">lock_screen_memory_clean</string>
+  <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
   <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
@@ -1289,6 +1292,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
   <string name="sim_location_error_notify_title">Error de la targeta SIM</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
+  <string name="skin_change_close_btn_text">Estableix com a fons per defecte</string>
+  <string name="skin_change_close_toast">Els canvis s\'aplicaran la propera vegada que executeu Seguretat</string>
   <string name="sorted_button">Ordenar per</string>
   <string name="sorted_dialog_title">Ordenar per</string>
   <string name="sp_back_title_text_zero">Segur</string>
@@ -1361,6 +1366,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_garbage_lib">Utilitza les definicions més recents per eliminar spyware, adware i un altre programari no sol·licitat</string>
   <string name="summary_install_virus">Comprovar aplicacions a la recerca de virus abans de la instal·lació</string>
   <string name="summary_live_talk_purchase">Només ¥ 0,05 per minut per a trucades nacionals.</string>
+  <string name="summary_mifi_insurance">Obtén un pla de reemplaçament d\'un any que funcioni per als casos de danys en el maquinari</string>
   <string name="summary_miui_update">Actualització disponible per a %s.</string>
   <string name="summary_mms">Bloquejar spam de SMS automàticament</string>
   <string name="summary_network_switch">Permet a l\'aplicació Seguretat connectar-se a internet</string>
@@ -1466,6 +1472,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
   <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>
   <string name="text_button">D\'acord</string>
+  <string name="text_day"></string>
   <string name="text_lock_info">Dibuixa un patró de desbloqueig</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
   <string name="third_application">Third party apps</string>
@@ -1511,6 +1518,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_install_virus_yes">Monitor d\'instal·lació activat</string>
   <string name="title_limit_traffic_per_day">Límit d\'ús de dades diari</string>
   <string name="title_live_talk_purchase">Torna a carregar ara</string>
+  <string name="title_mifi_insurance">Garantia estesa</string>
   <string name="title_miui_update">Actualització disponible</string>
   <string name="title_mms_no">Filtre de missatges desactivat</string>
   <string name="title_mms_yes">Filtre de missatges activat</string>

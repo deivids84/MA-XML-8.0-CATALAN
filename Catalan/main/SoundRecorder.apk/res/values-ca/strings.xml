@@ -100,6 +100,7 @@
   <string name="record_list_fm">Gravacions de FM</string>
   <string name="record_mark_point">Marca %s</string>
   <string name="record_name_hour">.</string>
+  <string name="record_name_minute"></string>
   <string name="record_quliaty_preference_title">Qualitat de gravació</string>
   <string name="recording">Gravació</string>
   <string name="recording_quality_high">Qualitat alta</string>

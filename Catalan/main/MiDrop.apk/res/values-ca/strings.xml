@@ -59,8 +59,8 @@
   <string name="receiver_insufficient_storage_cannot_send">"No es pot enviar: no hi ha prou espai"</string>
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_interrupt_summary_v21">"No apaguis el punt Wi-Fi mentre reps fitxers"</string>
-  <string name="receiver_notification_turn_on">El receptor ha d\'encendre Mi Drop</string>
-  <string name="receiver_notification_turn_on_help">Encendre per trobar dispositius i enviar fitxers.</string>
+  <string name="receiver_notification_turn_on">El receptor ha d\'engegar Mi Drop</string>
+  <string name="receiver_notification_turn_on_help">Engega per trobar dispositius i enviar fitxers.</string>
   <string name="receiver_pic_file_current">Rebent %2$d imatge(s) de %1$s​…</string>
   <string name="receiver_pic_file_num">%2$d imatge(s) de %1$s</string>
   <string name="receiver_reject">Rebutjar</string>

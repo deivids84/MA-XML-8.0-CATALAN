@@ -10,7 +10,11 @@
   <string name="eq_custom">Per personalitzar, seleccioneu Personalitzat</string>
   <string name="eq_dialog_title">Equalitzador</string>
   <string name="flat">Pla</string>
+  <string name="folk">Folk</string>
   <string name="headset_plug">Per a aquests efectes cal connectar els auriculars.</string>
+  <string name="heavy_metal">Heavy metal</string>
+  <string name="hip_hop">Hip hop</string>
+  <string name="jazz">Jazz</string>
   <string name="largehall">Sala gran</string>
   <string name="largeroom">Habitació gran</string>
   <string name="main_toggle_effects_title">Efectes de so</string>
@@ -18,12 +22,15 @@
   <string name="mediumroom">Habitació mitjana</string>
   <string name="no_effects">Efectes no disponibles.</string>
   <string name="none">Cap</string>
+  <string name="normal">Normals</string>
   <string name="picker_title">Tauler de control dels efectes musicals</string>
   <string name="plate">Plat</string>
+  <string name="pop">Pop</string>
   <string name="power_on_prompt">Premeu el botó d\'encesa a la part superior dreta.</string>
   <string name="pr_dialog_title">Configuració de reverberació</string>
   <string name="pr_summary">Efectes addicionals de reverberació d\'habitació</string>
   <string name="pr_title">Reverberació</string>
+  <string name="rock">Rock</string>
   <string name="setup">Configuració</string>
   <string name="smallroom">Habitació petita</string>
   <string name="toggle_button_off">Desactivat</string>

@@ -53,6 +53,26 @@
     <item quantity="other">%d elements</item>
     <item quantity="one">1 element</item>
   </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+    <item quantity="other">Retards extremadament petits (%1$d ms)</item>
+    <item quantity="one">Retard extremadament petit (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+    <item quantity="other">Retards molt petits (%1$d ms)</item>
+    <item quantity="one">Retard molt petit (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+    <item quantity="other">Petits retards (%1$d ms)</item>
+    <item quantity="one">Petit retard (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+    <item quantity="other">Retards llargs (%1$d ms)</item>
+    <item quantity="one">Retard llarg (%1$d ms)</item>
+  </plurals>
+  <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+    <item quantity="other">Retards molt llargs (%1$d ms)</item>
+    <item quantity="one">Retard molt llarg (%1$d ms)</item>
+  </plurals>
   <plurals name="print_settings_title">
     <item quantity="other">%d tasques d\'impressió</item>
     <item quantity="one">1 tasca d\'impressió</item>
@@ -60,6 +80,22 @@
   <plurals name="ssl_ca_cert_dialog_title">
     <item quantity="other">Confia en els certificats o suprimeix-los</item>
     <item quantity="one">Confia en el certificat o suprimeix-lo</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message_device_owner">
+    <item quantity="other">"%s ha instal·lat autoritats de certificació en el dispositiu i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+    <item quantity="one">"%s ha instal·lat una autoritat de certificació en el dispositiu i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+  </plurals>
+  <plurals name="ssl_ca_cert_info_message">
+    <item quantity="other">"%s ha instal·lat autoritats de certificació en el perfil professional i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
+    <item quantity="one">"%s ha instal·lat una autoritat de certificació en el perfil professional i podrà supervisar-ne l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
+
+Per obtenir més informació sobre aquest certificat, contacteu amb l\'administrador."</item>
   </plurals>
   <plurals name="ssl_ca_cert_settings_button">
     <item quantity="other">Comprova els certificats</item>
@@ -100,6 +136,14 @@
   <plurals name="memory_usage_apps_summary">
     <item quantity="other">%1$d aplicacions han utilitzat la memòria en els darrers %2$s</item>
     <item quantity="one">Una aplicació ha utilitzat la memòria en els darrers %2$s</item>
+  </plurals>
+  <plurals name="notification_summary">
+    <item quantity="other">No es permet l\'enviament des de %d aplicacions</item>
+    <item quantity="one">No es permet l\'enviament des d\' %d aplicació</item>
+  </plurals>
+  <plurals name="data_saver_unrestricted_summary">
+    <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
+    <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
   </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositius</item>

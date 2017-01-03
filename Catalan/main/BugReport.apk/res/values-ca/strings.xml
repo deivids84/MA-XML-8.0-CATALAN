@@ -5,7 +5,7 @@
   <string name="action_submit">Envia</string>
   <string name="announcement">Atenció</string>
   <string name="app_empty">"No heu baixat cap aplicació."</string>
-  <string name="app_label">Notificació d\'errors</string>
+  <string name="app_label">Comentaris</string>
   <string name="app_name">Notificació d\'errors</string>
   <string name="btn_send">Envia</string>
   <string name="bugreport_dialog_not_show_again">"No tornis a mostrar-ho"</string>

@@ -11,6 +11,8 @@
   <string name="content_description_language_picker">Selecciona l\'idioma</string>
   <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Inicia</string>
+  <string name="desc_extra_fingerprint"></string>
+  <string name="desc_extra_international_fingerprint"></string>
   <string name="desc_fingerprint">Utilitzeu la empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="disagree">Cancel·la</string>

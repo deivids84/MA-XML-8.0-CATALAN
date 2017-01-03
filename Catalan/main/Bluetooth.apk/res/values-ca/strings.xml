@@ -16,7 +16,7 @@
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
   <string name="bluetooth_map_settings_cancel">Cancel·la</string>
   <string name="bluetooth_map_settings_count">Espais lliures:</string>
-  <string name="bluetooth_map_settings_intro">Seleccioneu els comptes que vulgueu compartir per Bluetooth. Cal que accepteu l\'accés als comptes en connectar-hi.</string>
+  <string name="bluetooth_map_settings_intro">Seleccioneu els comptes que vulgueu compartir per Bluetooth. Caldrà que accepteu qualsevol accés als comptes en connectar-hi.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">No es pot seleccionar el compte. No queda espai.</string>
   <string name="bluetooth_map_settings_save">Desa</string>
   <string name="bluetooth_map_settings_title">Configuració per compartir missatges mitjançant el Bluetooth</string>
@@ -31,6 +31,7 @@
   <string name="bt_enable_line1">Per utilitzar els serveis Bluetooth, primer cal que activeu el Bluetooth.</string>
   <string name="bt_enable_line2">Voleu activar el Bluetooth?</string>
   <string name="bt_enable_ok">Activa\'l</string>
+  <string name="bt_enable_title"></string>
   <string name="bt_error_btn_ok">D\'acord</string>
   <string name="bt_share_picker_label">Bluetooth</string>
   <string name="bt_sm_2_1">"No hi ha prou espai a l'emmagatzematge USB per desar el fitxer de \"%1$s\""</string>
@@ -53,6 +54,7 @@
   <string name="download_line1">De: \"%1$s\"</string>
   <string name="download_line2">Fitxer: %1$s</string>
   <string name="download_line3">Mida del fitxer: %1$s</string>
+  <string name="download_line4"></string>
   <string name="download_line5">S\'està rebent el fitxer&#8230;</string>
   <string name="download_ok">Amaga</string>
   <string name="download_succ_line5">S\'ha rebut el fitxer</string>
@@ -109,6 +111,8 @@
   <string name="permlab_bluetoothAvrcpDataManager">Accés a les dades AVRCP.</string>
   <string name="permlab_bluetoothShareManager">Accés al gestor de baixades.</string>
   <string name="permlab_bluetoothWhitelist">Accés a la llista blanca de dispositius Bluetooth.</string>
+  <string name="process"></string>
+  <string name="sharedUserId"></string>
   <string name="start_server">Inicia el servidor TCP</string>
   <string name="status_canceled">L\'usuari ha cancel·lat la transferència.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>

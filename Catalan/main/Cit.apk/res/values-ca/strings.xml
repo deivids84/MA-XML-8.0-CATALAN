@@ -8,6 +8,7 @@
   <string name="SD_SDCard_mounted">Detecta la targeta SD</string>
   <string name="SD_SDCard_total_size">Espai total</string>
   <string name="SD_SDCard_unmounted">La targeta SD no està disponible</string>
+  <string name="button_cancel">Cancel·la</string>
   <string name="button_ok">D\'acord</string>
   <string name="camerainfo">Informació de la càmera</string>
   <string name="cit_OTG_plugin_check_summary">En connectar el dispositiu OTG, ha de mostrar-se el text «Dispositiu USB OTG detectat\"» més avall.</string>
@@ -80,6 +81,8 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_audio_right_caldata">"Dades de calibratge del PA dret: 
 "</string>
   <string name="cit_audio_right_calfail">El calibratge del PA dret ha fallat</string>
+  <string name="cit_battery_check_summary">Estadístiques de la bateria del dispositiu</string>
+  <string name="cit_battery_check_title">Informació de la bateria</string>
   <string name="cit_battery_temp_fail">La temperatura de la bateria no és normal (valor=%d)</string>
   <string name="cit_battery_temp_pass">La temperatura de la bateria és normal</string>
   <string name="cit_batterylight_blue">Blau</string>
@@ -121,6 +124,8 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_exit_test_title">Surt de la prova</string>
   <string name="cit_fail">Ha fallat</string>
   <string name="cit_finger_check_title">Prova d\'empremta (FPC)</string>
+  <string name="cit_flash_life_check_summary">Temps estimat de vida del flaix del dispositiu</string>
+  <string name="cit_flash_life_check_title">Vida del flaix</string>
   <string name="cit_fm_audio_path">Configura la ruta d\'àudio</string>
   <string name="cit_fm_audio_path_headset">Auriculars</string>
   <string name="cit_fm_audio_path_speaker">Altaveu</string>
@@ -262,6 +267,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_sim_state_unkown">Desconegut</string>
   <string name="cit_start_calibration">Calibra</string>
   <string name="cit_stop_calibration">Atura el calibratge</string>
+  <string name="cit_tfcard_support_summary">Comprova si la targeta TF és compatible amb aquest dispositiu</string>
+  <string name="cit_tfcard_support_title">Suport targeta TF</string>
   <string name="cit_tool">Eines addicionals</string>
   <string name="cit_tool_bluetooth">Eina de prova de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entra al mode de prova de Bluetooth</string>
@@ -290,6 +297,11 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error... (Això triga aproximadament 1 minut)</string>
   <string name="cit_tool_modem">Eines de proves del mòdem</string>
   <string name="cit_tool_modem_bugreport">Força el MÒDEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Desactiva CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Desactiva CU VoLTE, caldrà reiniciar per tenir efecte.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Activa CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Activa CU VoLTE, caldrà reiniciar per tenir efecte.</string>
   <string name="cit_tool_modem_exit_ftm">Surt del mode FTM</string>
   <string name="cit_tool_modem_mbn">Canvia la configuració del mòdem</string>
   <string name="cit_tool_modem_offline_log">Obre/tanca el registre fora de línia</string>

@@ -219,6 +219,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="uncrypt_title">S\'està desxifrant (%s)</string>
   <string name="unkown_error_title">"No s'ha pogut baixar"</string>
   <string name="unstable_build">Inestable</string>
+  <string name="update_comment_hint"></string>
   <string name="update_comment_title">Comentari</string>
   <string name="update_downfull_no_info_sum">Espereu un minut o dos i torneu a provar-ho.</string>
   <string name="update_downfull_no_info_title">"No es pot baixar l'actualització"</string>

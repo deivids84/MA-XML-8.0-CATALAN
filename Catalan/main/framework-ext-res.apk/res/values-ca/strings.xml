@@ -83,7 +83,7 @@
   <string name="permdesc_manageLocationPolicy">Permet que l\'aplicació gestioni les polítiques d\'ubicació i defineixi regles específiques de l\'aplicació.</string>
   <string name="permlab_manageLocationPolicy">Accés a la ubicació</string>
   <string name="reboot_confirm_title">Voleu reiniciar el dispositiu ara?</string>
-  <string name="reboot_info_auto_boot">El dispositiu està programat per encendre\'s a les %s</string>
+  <string name="reboot_info_auto_boot">El dispositiu està programat per engegar-se a les %s</string>
   <string name="reboot_info_shutdown_alarm">L\'alarma sonarà a les %s</string>
   <string name="reboot_progress">S\'està reiniciant&#8230;</string>
   <string name="replace">Substitueix</string>
@@ -101,11 +101,15 @@
   <string name="screenshot_gesture_detect_alert_msg">En lliscar cap avall amb tres dits, voleu que es prengui una captura de pantalla?</string>
   <string name="screenshot_gesture_detect_alert_title">Captura de pantalla amb tres dits</string>
   <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+  <string name="securespaces_extension_accelerometer_serviceName"></string>
   <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+  <string name="securespaces_extension_delete_userdata_serviceName"></string>
   <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
   <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
   <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+  <string name="securespaces_extension_hidden_serviceName"></string>
   <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+  <string name="securespaces_extension_read_cross_space_contacts_serviceName"></string>
   <string name="security_permission_denied_text">Accés denegat</string>
   <string name="security_permission_failed_text">Es va produir un error, torneu-ho a provar més tard</string>
   <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
@@ -124,6 +128,7 @@
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
   <string name="status_bar_toggle_auto_brightness">Lluentor</string>
+  <string name="status_bar_toggle_battery_saver">Estalvi de la bateria</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Emet</string>
   <string name="status_bar_toggle_data">Dades mòbils</string>
@@ -134,6 +139,7 @@
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
   <string name="status_bar_toggle_mute">Silenci</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Mode lectura</string>
   <string name="status_bar_toggle_power_mode">Rendiment</string>
   <string name="status_bar_toggle_quiet_mode">No molesteu</string>

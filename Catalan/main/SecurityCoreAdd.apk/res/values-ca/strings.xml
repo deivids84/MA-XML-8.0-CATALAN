@@ -50,7 +50,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="deleteAll">Esborrar tot</string>
   <string name="deleteDataConfirm">Se suprimiran tots els elements</string>
   <string name="deleteDataDes">"No heu seleccionat elements per moure'ls. No podreu restablir elements després que hagin estat eliminats."</string>
-  <string name="delete_fingerprint">Suprimir l\'empremta</string>
+  <string name="delete_fingerprint">Suprimeix l\'empremta</string>
   <string name="delete_fingerprint_desc">L\'empremta del Segon espai s\'esborrarà juntament amb la contrasenya</string>
   <string name="delete_phone_fingerprint">Esborrar l\'empremta del Segon espai</string>
   <string name="delete_src_file">Esborrar els arxius</string>
@@ -58,7 +58,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
   <string name="disable">Apagar</string>
   <string name="dont_import">Ara no</string>
-  <string name="enable">Encendre</string>
+  <string name="enable">Engega</string>
   <string name="err_copy_contacts">"No s'han pogut copiar els contactes"</string>
   <string name="err_copy_files">"No s'han pogut copiar els fitxers"</string>
   <string name="err_copy_photos">"No s'han pogut copiar les fotos"</string>

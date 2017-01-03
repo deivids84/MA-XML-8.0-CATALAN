@@ -27,7 +27,7 @@
   <string name="ad_mark">ANUNCI</string>
   <string name="add_music">Afegeix cançons</string>
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
-  <string name="alaka_required">"Aquesta cançó no està disponible."</string>
+  <string name="alaka_required">Aquesta cançó no està disponible.</string>
   <string name="album_name">Àlbum</string>
   <string name="album_search_title">Àlbum</string>
   <string name="all_artist">Tots els artistes</string>
@@ -65,7 +65,7 @@
   <string name="back_confirm">Toqueu una altre vegada per sortir</string>
   <string name="baidu_music">Música de Baidu</string>
   <string name="being_disable_auto_payment">S\'està apagant&#8230;</string>
-  <string name="being_enable_auto_payment">S\'està encenent&#8230;</string>
+  <string name="being_enable_auto_payment">S\'està engegant&#8230;</string>
   <string name="bill_list_fragment_title">Llistes</string>
   <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Dispositiu d\'àudio Bluetooth</string>
@@ -216,6 +216,7 @@
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_share_dialog">Compartiu amb</string>
+  <string name="download_speed_null"></string>
   <string name="download_start">S\'està iniciant la baixada&#8230;</string>
   <string name="download_start_btn">Baixada gratuïta</string>
   <string name="download_success">Completat</string>

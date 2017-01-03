@@ -4,7 +4,7 @@
   <string name="activity_not_found">"L'aplicació no està instal·lada al vostre dispositiu"</string>
   <string name="add_screen">Afegeix una pantalla</string>
   <string name="app_already_exist">L\'aplicació ja existeix</string>
-  <string name="app_being_backup_message">L\'aplicació s\'està copiant</string>
+  <string name="app_being_backup_message">S\'està fent una còpia de seguretat de l\'aplicació</string>
   <string name="app_being_restored_message">L\'aplicació s\'està restaurant</string>
   <string name="app_category_books">Lectura</string>
   <string name="app_category_education">Educació</string>
@@ -30,7 +30,7 @@
   <string name="apply_both">Estableix-ho a ambdues</string>
   <string name="aqi_quality_index_dangerous">Perillós</string>
   <string name="aqi_quality_index_good">Bo</string>
-  <string name="aqi_quality_index_hazardous">Dolent</string>
+  <string name="aqi_quality_index_hazardous">Perillós</string>
   <string name="aqi_quality_index_light_pollution">Precaució</string>
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_unhealthy">Insalubre</string>
@@ -175,7 +175,7 @@
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
-  <string name="multi_selecting_tips">Per recollir un aplicació, arrossegueu la seva icona i deixeu-la aquí</string>
+  <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat correctament</string>
@@ -210,12 +210,14 @@
   <string name="pref_wallpaper_scroll_type_title">Alineació del fons de pantalla</string>
   <string name="preferences_general_title">Configuració addicional</string>
   <string name="preferences_title">Configuració del llançador</string>
+  <string name="process"></string>
   <string name="recommend_apps_default_title">Buit</string>
   <string name="recommend_apps_notice">Aplicacions recomanades</string>
   <string name="recommend_apps_notice_nodata">Aplicacions recomanades (sense dades)</string>
   <string name="recommend_apps_switch_title">Aplicacions recomanades</string>
   <string name="recommend_apps_tips">"Aquesta funcionalitat necessita una connexió a internet. Per desactivar-la, toqueu el nom d'aquesta carpeta."</string>
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
+  <string name="screen_locked_toast">El disseny de la pantalla d\'inici està bloquejat</string>
   <string name="screen_number">Pantalla %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">pàgina %1$d, %2$d aplicacions</string>
   <string name="select_all">Selecciona-ho tot</string>
@@ -225,6 +227,7 @@
   <string name="settings">Configuració</string>
   <string name="settings_shortcut">Configuració</string>
   <string name="share">Comparteix</string>
+  <string name="sharedUserId"></string>
   <string name="show_all">Mostra-ho tot</string>
   <string name="sort_by_abc">Ordena pel nom</string>
   <string name="sort_by_frequency">Ordena per l\'ús</string>

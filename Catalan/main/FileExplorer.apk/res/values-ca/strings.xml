@@ -119,6 +119,7 @@
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
   <string name="copy_text">Copiar text</string>
   <string name="copy_to">Copiar a&#8230;</string>
+  <string name="count_down">Compte enrere: %1$s</string>
   <string name="create_shortcut_success">S\'ha afegit una drecera</string>
   <string name="data_consumption_cancel">Sortir</string>
   <string name="data_consumption_checkbox_hint">"No mostrar de nou"</string>
@@ -141,6 +142,7 @@
   <string name="decrypt_error">"No s'ha pogut desencriptar"</string>
   <string name="decrypt_to">Desxifrar i desa a&#8230;</string>
   <string name="decrypting">Desencriptant&#8230;</string>
+  <string name="default_prize_text">Això va directament al meu tresor!</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_error">"No s'han pogut eliminar els fitxers, intenta-ho de nou"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
@@ -221,6 +223,7 @@
   <string name="ftp_transfer_secure">Seguretat</string>
   <string name="ftp_username_and_passworld">Inicia la sessió</string>
   <string name="ftp_username_hint">Nom d\'usuari</string>
+  <string name="full_gems">Intercanvia les seves gemmes</string>
   <string name="gbk_summary">Codificació per defecte de Xinès tradicional de Windows</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"No es pot obtenir informació sobre aquesta persona"</string>
@@ -361,6 +364,8 @@
   <string name="one_account_bind_needed">Afegiu com a mínim un compte</string>
   <string name="online_not_support">"No es pot veure aquest fitxer en línia de moment."</string>
   <string name="open_app">Obrir</string>
+  <string name="open_chest">Obriu-lo per aconseguir un regal</string>
+  <string name="open_chest_failed">"No es pot obrir, comproveu la configuració de xarxa i torneu-ho a provar"</string>
   <string name="open_private_folder">Creant una carpeta oculta…</string>
   <string name="operation_add_fav">Afegint a favorits&#8230;</string>
   <string name="operation_cancel">Cancel·lar</string>
@@ -452,6 +457,8 @@
   <string name="private_folder_update">S\'estan actualitzant els fitxers ocults&#8230;</string>
   <string name="private_toast_hint2">Per amagar un fitxer, prem i manté, després afegeix-ho a una carpeta oculta.</string>
   <string name="private_toast_hint3">Tira per obrir les carpetes ocultes</string>
+  <string name="prize_result_tip">Intercanvia</string>
+  <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
   <string name="promot_enctypt_password">Introdueix la contrasenya utilitzada per desbloquejar el dispositiu o apagar el Mode nen</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
@@ -464,6 +471,7 @@
   <string name="recommend_user">Perfils recomanades</string>
   <string name="remote_video_report_success">"Gràcies pel vostre informe! Li donarem un cop d'ull tan aviat com sigui possible."</string>
   <string name="rename_alert">"Si canvies l'extensió d'aquest fitxer, pot ser que no ho aconsegueixis obrir."</string>
+  <string name="rename_alert2">El fitxer s\'ocultarà.</string>
   <string name="rename_failed">"No es pot reanomenar %1$s"</string>
   <string name="repair_done">Restaurat</string>
   <string name="repair_error">"No s'ha pogut restaurar"</string>

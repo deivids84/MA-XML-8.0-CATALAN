@@ -7,10 +7,12 @@
   <string name="choice_yes">Sí</string>
   <string name="dialog_download_space_cancel">Cancel·la</string>
   <string name="dialog_download_space_create">D’acord</string>
+  <string name="dialog_download_space_title">Voleu baixar l\'espai?</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida en les condicions actuals. Actualitzeu-la.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
   <string name="dialog_space_creating_text">Espereu si us plau</string>
+  <string name="dialog_space_creating_title">S\'està creant un nou espai</string>
   <string name="expiration_status_future">La contrasenya caducarà d\'aquí %1$s</string>
   <string name="expiration_status_past">La contrasenya va caducar fa %1$s</string>
   <string name="label_activity_debug">Política de depuració</string>
@@ -53,5 +55,9 @@
   <string name="sscm_registration_disclaimer">Els espais segurs asseguren la integritat i les actualitzacions del vostre espai. Els espais segurs incorren en un petit ús de xarxa. Consulteu al vostre proveïdor local per les quantitats carregades. Si esteu d\'acord amb aquestes condicions, seleccioneu «Sí» per subscriure el vostre espai segur.</string>
   <string name="sscm_registration_summary">Baixeu les notificacions per mostrar els detalls</string>
   <string name="title_sscm_registration">Recordatori del servei d\'espais segurs</string>
+  <string name="toast_space_creation_failed">No s\'ha pogut crear l\'espai</string>
+  <string name="uri_invalid">L\'URI o el codi QR no descriuen un espai segur</string>
+  <string name="uri_invalid_server_url">URL del servidor no vàlida en el registre URI</string>
+  <string name="uri_missing_registration_token">Testimoni de registre buit o mancant en el registre URI</string>
   <string name="wifi">WiFi</string>
 </resources>

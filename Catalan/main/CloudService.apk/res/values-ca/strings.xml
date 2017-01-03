@@ -91,7 +91,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">Pots activar o desactivar aquesta funció en els ajustos</string>
   <string name="find_device_dspt_provision_4">Si canvia de targetes SIM, s\'enviarà automàticament un missatge SMS per reactivar aquesta funció.</string>
-  <string name="find_device_enabling">Encenent&#8230;</string>
+  <string name="find_device_enabling">S\'està engegant&#8230;</string>
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
   <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
@@ -133,11 +133,11 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="master_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
   <string name="member_due_date">Vàlid fins a %s</string>
-  <string name="micloud_all_sub_1_intl_sms">S\'ha d\'enviar un SMS internacional per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_1_sms">S\'ha d\'enviar un SMS normal per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cercar dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">S\'hauran d\'enviar dos SMS (normal i internacional) per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_2_intl_sms">S\'hauran d\'enviar dos SMS internacionals per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
-  <string name="micloud_all_sub_2_sms">S\'hauran d\'enviar dos SMS normals per activar la teva targeta SIM. El teu operador et cobrarà. Quan encenguis \'Cerca dispositiu\', pot ser que s\'enviï un SMS d\'activació després que hagis canviat la targeta SIM.</string>
+  <string name="micloud_all_sub_1_intl_sms">S\'enviarà un SMS internacional per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_1_sms">S\'enviarà un SMS normal per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">S\'enviaran dos missatges de text (un normal i un internacional) per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_2_intl_sms">S\'enviaran dos missatges de text internacionals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
+  <string name="micloud_all_sub_2_sms">S\'enviaran dos missatges de text normals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_resend_sms">"Quan s'activa 'Trobar dispositiu', un SMS d'activació pot ser enviat després de canviar les targetes SIM."</string>
   <string name="micloud_battery_low_notification_message">Connectar el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
@@ -222,11 +222,13 @@ per reactivar aquesta funcionalitat."</string>
   <string name="micloud_find_device_guide_progress">Activant la funció Trobar dispositiu&#8230;</string>
   <string name="micloud_find_device_guide_title">"Inicia sessió a %s per trobar, bloquejar,
 o eliminar el dispositiu."</string>
-  <string name="micloud_find_device_open_fail">"No s'ha pogut encendre Trobar dispositiu"</string>
+  <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+  <string name="micloud_first_login_summary"></string>
+  <string name="micloud_first_login_title"></string>
   <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
 D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
@@ -351,6 +353,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
  %s usats | %s restants"</string>
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">"Has arribat al teu límit d'emmagatzematge!"</string>
+  <string name="micloud_unlogin_for_time_summary"></string>
   <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
   <string name="micloud_upgrade_member">Aconsegueix més espai d\'emmagatzematge</string>
   <string name="micloud_upgrade_space">Aconsegueix més espai d\'emmagatzematge</string>
@@ -509,4 +512,5 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xmpp_server_addr"></string>
 </resources>

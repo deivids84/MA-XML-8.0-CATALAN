@@ -6,6 +6,11 @@
   <string name="accessibility_shutter_button">Obturador</string>
   <string name="action_search">Cerca</string>
   <string name="address">Adreça:</string>
+  <string name="alisdk_message_10003_action"></string>
+  <string name="alisdk_message_10011_action"></string>
+  <string name="alisdk_message_10015_action"></string>
+  <string name="alisdk_message_100_action"></string>
+  <string name="alisdk_message_15_action"></string>
   <string name="allow_check_website_security">Comprova la seguretat del lloc web</string>
   <string name="app_details">Detalls de l\'aplicació:</string>
   <string name="app_name">Escàner</string>

@@ -124,6 +124,7 @@
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
   <string name="incall_error_supp_service_conference">"No es poden realitzar trucades de conferència."</string>
   <string name="incall_error_supp_service_hangup">"No es pot alliberar la trucada."</string>
+  <string name="incall_error_supp_service_hold">"No es pot retenir trucades."</string>
   <string name="incall_error_supp_service_reject">"No es pot rebutjar la trucada."</string>
   <string name="incall_error_supp_service_separate">No es pot separar la trucada.</string>
   <string name="incall_error_supp_service_switch">No es pot alternar entre trucades.</string>

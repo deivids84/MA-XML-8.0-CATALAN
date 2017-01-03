@@ -184,6 +184,10 @@
   <string name="composer_failed_to_get_database_infomation">"No s'ha pogut obtenir informació de base de dades."</string>
   <string name="composer_has_no_exportable_contact">No hi ha contactes exportables. Si vostè té contactes al telèfon, tingui en compte que alguns proveïdors de dades no permeten exportar els contactes des del telèfon.</string>
   <string name="composer_not_initialized">"El generador de vCard no va iniciar correctament."</string>
+  <string name="config_export_extensions_to_consider"></string>
+  <string name="config_export_file_prefix"></string>
+  <string name="config_export_file_suffix"></string>
+  <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_delete_contact_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_selected_all_call_logs">Esborrar registre de trucades?</string>
   <string name="confirm_delete_sim_entry_miui_title">Esborra</string>
@@ -226,8 +230,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"No s'han pogut apagar les targetes de contacte"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Targetes de contacte apagades</string>
   <string name="contact_detail_profile_switch_on">"Veure les fotos de perfil del contacte"</string>
-  <string name="contact_detail_profile_switch_on_fail_toast">"No s'han pogut encendre les targetes de contacte"</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Tocar per encendre les targetes de contacte</string>
+  <string name="contact_detail_profile_switch_on_fail_toast">"No s'ha pogut engegar les targetes de contacte"</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Premeu per engegar les targetes de contacte</string>
   <string name="contact_detail_profile_switch_on_success_toast">Targetes de contacte enceses</string>
   <string name="contact_directory_description">Agenda %1$s</string>
   <string name="contact_edit_save_error_empty">Contacte buit</string>
@@ -409,6 +413,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="email_work">Enviar email a la feina</string>
   <string name="emergency_number_label">Número d\'emergència</string>
   <string name="emptyGroup">Grup sense contactes</string>
+  <string name="empty_divider_title"></string>
   <string name="enter_contact_name">"Nom del contacte"</string>
   <string name="eventLabelsGroup">Aniversari</string>
   <string name="eventTypeCustom">Personalitzat</string>
@@ -483,6 +488,10 @@ Les targetes de contacte estan apagades"</string>
   <string name="group_sms_progress_msg">Agrupant&#8230;</string>
   <string name="groupsLabel">Grups</string>
   <string name="groups_list_empty">No hi ha grups</string>
+  <string name="help_url_people_add"></string>
+  <string name="help_url_people_edit"></string>
+  <string name="help_url_people_main"></string>
+  <string name="hint_distance"></string>
   <string name="hint_findContacts">Trobar contactes</string>
   <string name="hint_more_contact">Combinar contactes duplicats</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
@@ -577,6 +586,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="local_search_label">Tots els contactes</string>
   <string name="locale_change_in_progress">La llista de contactes s\'està actualitzant per reflectir el canvi d\'idioma.</string>
   <string name="login_ok">Inicia la sessió</string>
+  <string name="low_memory_toast">"No es pot continuar utilitzant des que l'emmagatzematge lliure es petit."</string>
   <string name="lunarBirthdayLabelsGroup">Aniversari</string>
   <string name="lunar_leap">Córrer</string>
   <string name="lunar_yue">Mes</string>
@@ -732,6 +742,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="nickname_picker_name_column">Nom de contacte</string>
   <string name="nickname_picker_nickname_column">Títol</string>
   <string name="noAccounts">Per crear grups necessita un compte.</string>
+  <string name="noContactHelpTextAccountsInfo"></string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dades de contactes utilitzant el compte Mi</string>
   <string name="noContacts">No hi ha contactes</string>
   <string name="noContactsHelpText">"No té cap contacte per mostrar
@@ -1022,6 +1033,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="scan_duplicate_message">%1$d contactes amb informació idèntica</string>
   <string name="scan_merge">Buscant contactes duplicats&#8230;</string>
   <string name="scan_qrcode_card_hint1">Escaneja el codi QR de dalt</string>
+  <string name="scan_qrcode_card_hint2"></string>
   <string name="scanning_sdcard_failed_message">Motiu: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"L'emmagatzematge no va poder ser escanejat"</string>
   <string name="searchHint">Cercar contactes</string>
@@ -1243,6 +1255,7 @@ Trieu una de les següents opcions: "</string>
   <string name="wipe_data">Esborrar dades</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>
+  <string name="yellowpage_fc_toast">"No es pot continuar utilitzant des que Pàgines grogues s'ha espatllat."</string>
   <string name="yellowpage_navigation_ad_hint">Anunci</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no es van poder verificar, torneu-ho a provar més tard."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo i les dades han estat verificats</string>

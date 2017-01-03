@@ -111,9 +111,11 @@
   <string name="express_inquiry_button_text">Segueix</string>
   <string name="express_inquiry_clipboard_number_message">Voleu fer el seguiment del número copiat?</string>
   <string name="express_inquiry_data_owner_prefix">"Informació de seguiment proporcionada per "</string>
+  <string name="express_inquiry_data_owner_suffix"></string>
   <string name="express_inquiry_delete_warning_multiple">Voleu eliminar %d entrades?</string>
   <string name="express_inquiry_delete_warning_single">Voleu eliminar aquesta entrada?</string>
   <string name="express_inquiry_delivered">S\'ha lliurat</string>
+  <string name="express_inquiry_detail">Detalls de la consulta expressa</string>
   <string name="express_inquiry_edit_logistics">Transportista</string>
   <string name="express_inquiry_history">Historial</string>
   <string name="express_inquiry_history_remark">Comentaris</string>
@@ -187,6 +189,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_shortcut_name">Consulta o enviament exprés</string>
   <string name="express_show_all_inquiry_history">Mostra tot l\'historial de consultes</string>
   <string name="express_submit_order">Confirma</string>
+  <string name="express_tail_number">Número de cua</string>
   <string name="express_track_order">Fes el seguiment</string>
   <string name="express_tracking_number">Número de seguiment</string>
   <string name="express_urge_order">És urgent</string>
@@ -215,13 +218,17 @@ Comproveu el número de seguiment."</string>
   <string name="general_recent_title">Recents</string>
   <string name="general_unfollow_hint">Voleu deixar de seguir %1$s?</string>
   <string name="general_yellow_page_title">General</string>
+  <string name="group_name_banner"></string>
+  <string name="group_name_basic"></string>
   <string name="group_name_data_source">Font</string>
+  <string name="group_name_enroll"></string>
   <string name="group_name_gallery">Galeria</string>
   <string name="group_name_management">Gestiona</string>
   <string name="group_name_more">Miscel·lània</string>
   <string name="group_name_service">Serveis</string>
   <string name="group_name_shop_info">Informació</string>
   <string name="group_name_shop_recommendation">Als voltants</string>
+  <string name="group_name_title"></string>
   <string name="hms_no_subject_view">(Sense assumpte)</string>
   <string name="hms_notification">Missatges</string>
   <string name="homepage_barcode_prompt">Escanegeu per obrir la pàgina d\'inici</string>

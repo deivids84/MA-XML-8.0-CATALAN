@@ -75,8 +75,14 @@
     <item>CPU</item>
     <item>Desperta</item>
   </string-array>
+  <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
   <string-array name="invisible_app_groups">
     <item>seleccionat</item>
     <item>no seleccionat</item>
   </string-array>
+  <array name="read_enable"></array>
 </resources>

@@ -161,4 +161,16 @@
     <item quantity="other">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidors</item>
     <item quantity="one">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidor</item>
   </plurals>
+  <plurals name="video_like_num">
+    <item quantity="other">%1$s m\'agraden</item>
+    <item quantity="one">%1$s m\'agrada</item>
+  </plurals>
+  <plurals name="gems">
+    <item quantity="other">%1$s gemes</item>
+    <item quantity="one">%1$s gema</item>
+  </plurals>
+  <plurals name="more_gems">
+    <item quantity="other">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gemes més per participar en sorteig</item>
+    <item quantity="one">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gema més per participar en el sorteig</item>
+  </plurals>
 </resources>
