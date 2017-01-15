@@ -311,7 +311,7 @@
   <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
-  <string name="del_account_questionnair_hint">"Ens pots dir per què estàs eliminant aquest compte?"</string>
+  <string name="del_account_questionnair_hint">"Ens podeu dir per què esteu eliminant aquest compte?"</string>
   <string name="delete">Eliminar</string>
   <string name="delete_message_flow">Elimina el flux de missatges</string>
   <string name="deleted">Eliminat</string>
@@ -736,7 +736,7 @@
   <string name="questionnair_not_send">"No es poden enviar correus electrònics"</string>
   <string name="questionnair_not_sync">Sincronització inestable</string>
   <string name="questionnair_other_reasons">Altres raons</string>
-  <string name="questionnair_title">Eliminant compte</string>
+  <string name="questionnair_title">Voleu eliminar el compte?</string>
   <string name="questionnair_ui_not_pretty">"No m'agrada el disseny"</string>
   <string name="questionnair_waste_resource">Eliminar pot guanyar espai</string>
   <string name="quick_1">Gràcies!</string>

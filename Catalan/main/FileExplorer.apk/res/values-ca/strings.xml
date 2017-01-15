@@ -375,11 +375,11 @@
   <string name="operation_create_folder">Crear una carpeta</string>
   <string name="operation_create_folder_message">Nom de la carpeta</string>
   <string name="operation_decompressing">Extraient&#8230;</string>
-  <string name="operation_del_fav">Eliminant de favorits&#8230;</string>
+  <string name="operation_del_fav">S\'està eliminant dels preferits&#8230;</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_delete_confirm_message">Eliminar?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
-  <string name="operation_deleting">Eliminant&#8230;</string>
+  <string name="operation_deleting">S\'està eliminant&#8230;</string>
   <string name="operation_favorite">Favorit</string>
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>

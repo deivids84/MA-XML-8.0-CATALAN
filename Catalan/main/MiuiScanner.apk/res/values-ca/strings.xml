@@ -14,7 +14,7 @@
   <string name="allow_check_website_security">Comprova la seguretat del lloc web</string>
   <string name="app_details">Detalls de l\'aplicació:</string>
   <string name="app_name">Escàner</string>
-  <string name="barcode_into_rectangle">Centrar el codi a l\'interior del marc</string>
+  <string name="barcode_into_rectangle">Centreu el codi dins del marc</string>
   <string name="birthday">Aniversari:</string>
   <string name="camera_error_title">Error de la càmera</string>
   <string name="cancel">Cancel·la</string>
@@ -102,7 +102,7 @@
   <string name="name">Nom:</string>
   <string name="namecard_recognize_failed_tip">"No s'ha pogut llegir la targeta"</string>
   <string name="namecard_recognizing">S\'està llegint&#8230;</string>
-  <string name="namecard_title">Alinear la targeta dins del quadre</string>
+  <string name="namecard_title">Centreu la targeta dins del marc</string>
   <string name="namecard_vendor_info">Amb tecnologia de CamCard</string>
   <string name="nickname">Sobrenom:</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa"</string>
@@ -115,7 +115,7 @@
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telèfon:</string>
   <string name="picker_lable">Fotografia</string>
-  <string name="place_barcode_into_rectangle">Alinear el codi en el quadre de sota</string>
+  <string name="place_barcode_into_rectangle">Centreu el codi dins del marc</string>
   <string name="pref_camera_jpeg_quality_fine">bona</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">molt bona</string>
@@ -168,7 +168,7 @@
   <string name="translation_prompt_translating">S\'està traduint&#8230;</string>
   <string name="translation_prompt_translating_sentence">S\'està traduint&#8230;</string>
   <string name="translation_prompt_translating_word">S\'està identificant&#8230;</string>
-  <string name="translation_prompt_word">Alinear la paraula dins del quadre</string>
+  <string name="translation_prompt_word">Centreu la paraula dins del marc</string>
   <string name="translation_see_more">Veure definició</string>
   <string name="translation_type_sentence">Frase</string>
   <string name="translation_type_word">Paraula</string>

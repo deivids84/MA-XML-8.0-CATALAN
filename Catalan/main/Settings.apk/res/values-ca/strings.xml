@@ -317,7 +317,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="application_item_disable">Denega</string>
   <string name="application_item_permission">Permet</string>
   <string name="application_lock_name">Bloquejador d\'aplicacions</string>
-  <string name="application_manager_section_title">Configuració de l\'aplicació</string>
+  <string name="application_manager_section_title">Configuració d\'aplicacions</string>
   <string name="application_permission_manager">Permisos de l\'aplicació</string>
   <string name="application_restrictions">Permet les aplicacions i el contingut</string>
   <string name="application_size_label">Aplicació</string>
@@ -972,7 +972,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'auxiliar de Wi‑Fi</string>
-  <string name="connected_wifi">S\'ha connectat</string>
+  <string name="connected_wifi">Xarxa connectada</string>
   <string name="connecting_to_vpn">S\'està connectant amb la VPN</string>
   <string name="contributors_title">Col·laboradors</string>
   <string name="controls_label">Controls</string>
@@ -2060,7 +2060,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_title">Darrera oportunitat</string>
-  <string name="lock_screen_cells_title">Bloqueja el format de la pantalla d\'inici</string>
+  <string name="lock_screen_cells_title">Bloqueja la disposició de la pantalla d\'inici</string>
   <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
   <string name="lock_screen_notifications_interstitial_message">Quan el dispositiu està bloquejat, com voleu que es mostrin les notificacions?</string>
@@ -2338,7 +2338,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="menu_show_percentage">Mostra els percentatges</string>
   <string name="menu_show_system">Mostra el sistema</string>
   <string name="menu_stats_last_unplugged">Des de que es va desendollar (%1$s)</string>
-  <string name="menu_stats_refresh">Recarrega</string>
+  <string name="menu_stats_refresh">Actualitza</string>
   <string name="menu_stats_total">Utilització total</string>
   <string name="menu_stats_unplugged">%1$s des que es va desendollar</string>
   <string name="menu_use_uss">Utiliza Uss</string>
@@ -4817,7 +4817,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_calling_suggestion_title">Activa Trucades per Wi-Fi</string>
   <string name="wifi_cancel">Cancel·la</string>
   <string name="wifi_certificate">Certificat</string>
-  <string name="wifi_click_share_wlan">Toca per a compartir la contrasenya</string>
+  <string name="wifi_click_share_wlan">Toqueu per compartir la contrasenya</string>
   <string name="wifi_config_info">Configura Wi-Fi</string>
   <string name="wifi_configure_titlebar">Configuració Wi-Fi</string>
   <string name="wifi_configured_ap_list">APs configurades anteriorment</string>

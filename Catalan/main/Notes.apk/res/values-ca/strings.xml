@@ -21,7 +21,7 @@
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
   <string name="dlg_btn_set_password">Estableix una contrasenya</string>
   <string name="dlg_check_reminder">"No tornis a mostrar-ho"</string>
-  <string name="dlg_delete_message">Eliminant&#8230;</string>
+  <string name="dlg_delete_message">S\'està eliminant&#8230;</string>
   <string name="dlg_hide_message">S\'està ocultant&#8230;</string>
   <string name="dlg_info_creating_message">S\'està creant el missatge&#8230;</string>
   <string name="dlg_message_password_reset">"Les contrasenyes de les notes ocultes es canviaran per contrasenyes de protecció de privadesa que funcionen pels missatges, les fotos, i les carpetes ocultes"</string>

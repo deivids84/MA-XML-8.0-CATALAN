@@ -39,26 +39,12 @@
     <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
     <item>Utilitza sempre la comprovació HDCP</item>
   </string-array>
-  <string-array name="select_logd_size_titles">
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
-    <item>16M</item>
-  </string-array>
-  <string-array name="select_logd_size_lowram_titles">
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>1M</item>
-  </string-array>
   <string-array name="select_logd_size_summaries">
+    <item>Desactivat</item>
     <item>64K per registre de memòria</item>
-    <item>256K per registre de memòria</item>
+    <item>256k per registre de memòria</item>
     <item>1M per registre de memòria</item>
     <item>4M per registre de memòria</item>
-    <item>16M per cada registre de memòria</item>
     <item>16M per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
@@ -132,8 +118,8 @@
     <item>Com a molt 4 processos</item>
   </string-array>
   <string-array name="usb_configuration_titles">
-    <item>Charging</item>
-    <item>MTP (Media Transfer Protocol)</item>
+    <item>Càrrega</item>
+    <item>MTP (Protocol de Transferència de Multimèdia)</item>
     <item>PTP (Picture Transfer Protocol)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
@@ -150,14 +136,6 @@
     <item>Molt ràpida</item>
     <item>El més ràpid</item>
   </string-array>
-  <string-array name="tts_demo_strings">
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Questo è un esempio di sintesi vocale in italiano.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
-    <item>이것은 한국어 음성 합성의 예입니다.</item>
-  </string-array>
   <string-array name="color_mode_names">
     <item>Vibrant (predeterminat)</item>
     <item>Natural</item>
@@ -168,13 +146,8 @@
     <item>Colors naturals tal com els veu l\'ull humà</item>
     <item>Colors optimitzats per al contingut digital</item>
   </string-array>
-  <string-array name="battery_labels">
-    <item>0%</item>
-    <item>50%</item>
-    <item>100%</item>
-  </string-array>
   <string-array name="status_bar_style_entries">
-    <item>S\'han combinat</item>
+    <item>Combinat</item>
     <item>Separat</item>
   </string-array>
   <string-array name="timezone_filters">
@@ -224,21 +197,6 @@
     <item>Normal</item>
     <item>Grossa</item>
     <item>Molt grossa</item>
-  </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-    <item>"AKA'"</item>
-  </string-array>
-  <string-array name="eap_method_without_sim_auth">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Premeu el botó</item>
@@ -514,8 +472,8 @@
     <item>Molt grossa</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
+    <item>Predeterminat</item>
     <item>Cap</item>
-    <item>Subratlla</item>
     <item>Contorn</item>
     <item>Redueix l\'ombra</item>
     <item>En relleu</item>
@@ -528,23 +486,15 @@
     <item>100%</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
+    <item>Valors predeterminats</item>
     <item>Blanc sobre negre</item>
-    <item>Negre sobre blanc</item>
     <item>Negre sobre blanc</item>
     <item>Groc sobre negre</item>
     <item>Groc sobre blau</item>
-    <item>Personalitza</item>
-  </string-array>
-  <string-array name="vpn_types">
-    <item>PPTP</item>
-    <item>L2TP/IPSec PSK</item>
-    <item>L2TP/IPSec RSA</item>
-    <item>IPSec Xauth PSK</item>
-    <item>IPSec Xauth RSA</item>
-    <item>IPSec Hybrid RSA</item>
+    <item>Personalitzat</item>
   </string-array>
   <string-array name="vpn_types_long">
-    <item>PPTP VPN</item>
+    <item>VPN PPTP</item>
     <item>VPN L2TP/IPSec amb claus prèviament compartides</item>
     <item>VPN L2TP/IPSec amb certificats</item>
     <item>VPN IPSec amb claus prèviament compartides i autenticació Xauth</item>
@@ -674,18 +624,6 @@
   <string-array name="wifi_wapi_key_type">
     <item>WAPI ASCII</item>
     <item>WAPI hexadecimal</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-  </string-array>
-  <string-array name="wifi_eap_method_add_sim_for_cmcc">
-    <item>PEAP</item>
-    <item>SIM</item>
   </string-array>
   <string-array name="screen_key_position_action">
     <item>Botó de Menú a l\'esquerra i botó Enrera a la dreta</item>

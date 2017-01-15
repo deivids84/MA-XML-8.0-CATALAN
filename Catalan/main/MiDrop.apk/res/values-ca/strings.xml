@@ -18,7 +18,7 @@
   <string name="action_settings">Configuració</string>
   <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Cancel·lar</string>
-  <string name="cancel_confirm_title">"Transferència no completada, cancel·lar ara?"</string>
+  <string name="cancel_confirm_title">"La transferència no s'ha completat, voleu cancel·lar-la?"</string>
   <string name="cancel_receive_confirm">Cancel·lar</string>
   <string name="cancel_receive_stop">Continuar rebent</string>
   <string name="cancel_stop">Continuar enviant</string>

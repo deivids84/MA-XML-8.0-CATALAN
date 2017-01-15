@@ -128,7 +128,7 @@
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
   <string name="status_bar_toggle_auto_brightness">Lluentor</string>
-  <string name="status_bar_toggle_battery_saver">Estalvi de la bateria</string>
+  <string name="status_bar_toggle_battery_saver">Estalviador</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_cast">Emet</string>
   <string name="status_bar_toggle_data">Dades mòbils</string>

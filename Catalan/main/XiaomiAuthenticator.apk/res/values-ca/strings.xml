@@ -111,9 +111,13 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Política de privadesa</string>
   <string name="progress_loading">Procesando&#8230;</string>
-  <string name="remove_Xiaomi_account_dialog_message">Eliminant aquest compte eliminarà la seva capacitat per generar codis, però no desactivarà la verificació en 2-passos. Això podria impedir accedir al seu compte. Abans d\'eliminar-la: desactivi la verificació en 2-passos per a aquest compte, o assegurat de tindre Vè. un mecanisme alternatiu per generar codis.</string>
+  <string name="remove_Xiaomi_account_dialog_message">Si elimineu aquest compte s\'eliminarà la capacitat de generar codis, però no es desactivarà la verificació en 2 passos. Això podria impedir-vos d\'accedir al compte. Abans d\'eliminar-lo desactiveu la verificació en 2 passos per a aquest compte, o assegureu-vos de tenir un alternativa per generar codis.</string>
   <string name="remove_account">Eliminar compte</string>
-  <string name="remove_account_dialog_message">Eliminant aquest compte eliminarà la seva capacitat per generar codis, però desactivarà l\'autenticació de 2-passos. Això podria impedir accedir al seu compte. Abans d\'eliminar-la: Desactiveu l\'autenticació de 2-passos per a aquest compte, o assegurat de tindre Vè. Un mecanisme alternatiu per generar codis.</string>
+  <string name="remove_account_dialog_message">Si elimineu aquest compte s\'eliminarà la capacitat de generar codis. Això pot podria impedir-vos d\'accedir al compte.
+
+Abans d\'eliminar-lo:
+—Desactiveu la verificació en 2 passos per aquest compte, o
+—Assegureu-vos de tenir una alternativa per generar codis.</string>
   <string name="remove_account_dialog_title">Eliminar %1$s?</string>
   <string name="rename">Reanomenar</string>
   <string name="rename_message">Reanomenar %1$s</string>

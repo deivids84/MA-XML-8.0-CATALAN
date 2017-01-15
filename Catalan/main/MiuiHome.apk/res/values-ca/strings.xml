@@ -202,7 +202,7 @@
   <string name="pref_icon_shadow_title">Ombres a les aplicacions</string>
   <string name="pref_keep_in_memory_summary">Mantén el llançador en execució quan la memòria és baixa</string>
   <string name="pref_keep_in_memory_title">Bloqueig del MIUI a la memòria</string>
-  <string name="pref_keep_layout_summary">"Canviar el disseny de la pantalla d'inici no afectarà a la posició de les aplicacions entre sí"</string>
+  <string name="pref_keep_layout_summary">"Canviar la disposició de la pantalla d'inici no afectarà a la posició de les aplicacions entre sí"</string>
   <string name="pref_keep_layout_title">Bloqueig de la posició de les aplicacions</string>
   <string name="pref_render_in_truecolor_summary">Desactivar aquesta funció millora el rendiment de dibuix</string>
   <string name="pref_render_in_truecolor_title">Gràfics d\'alta qualitat</string>
@@ -217,7 +217,7 @@
   <string name="recommend_apps_switch_title">Aplicacions recomanades</string>
   <string name="recommend_apps_tips">"Aquesta funcionalitat necessita una connexió a internet. Per desactivar-la, toqueu el nom d'aquesta carpeta."</string>
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
-  <string name="screen_locked_toast">El disseny de la pantalla d\'inici està bloquejat</string>
+  <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>
   <string name="screen_number">Pantalla %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">pàgina %1$d, %2$d aplicacions</string>
   <string name="select_all">Selecciona-ho tot</string>

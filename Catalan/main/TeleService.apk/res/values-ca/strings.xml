@@ -499,7 +499,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="default_preference_summary">&lt;No establert&gt;</string>
   <string name="delete">Elimina</string>
   <string name="delete_fdn_contact">Esborra número de marcatge predefinit</string>
-  <string name="deleting_fdn_contact">Eliminant número de marcatge predefinit&#8230;</string>
+  <string name="deleting_fdn_contact">S\'està eliminant el número de marcatge predefinit&#8230;</string>
   <string name="description_delete_button">retrocés</string>
   <string name="description_dial_button">marca</string>
   <string name="description_dialpad_back">Torna enrere</string>

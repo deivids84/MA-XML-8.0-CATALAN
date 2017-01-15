@@ -51,8 +51,8 @@
     <item>altres seleccionades</item>
   </string-array>
   <string-array name="hmode_app_groups">
-    <item>personalitzat</item>
-    <item>suggerit</item>
+    <item>Estalvi personalitzat</item>
+    <item>Estalvi activat</item>
   </string-array>
   <string-array name="power_checker_group_prefix">
     <item>Ara</item>

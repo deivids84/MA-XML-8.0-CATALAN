@@ -6,7 +6,7 @@
   <string name="alarm_alert_snooze_set">Posposa en %d minuts.</string>
   <string name="alarm_ascending_mode_summary">Volum de l\'alarma augmenta gradualment</string>
   <string name="alarm_ascending_mode_title">Volum ascendent</string>
-  <string name="alarm_disabled">Desactivat</string>
+  <string name="alarm_disabled">Desactivada</string>
   <string name="alarm_in_silent_mode_title">Alarma en mode Silenci</string>
   <string name="alarm_klaxon_service_desc">Servei de reproducció de so d\'alarmes establertes al rellotge.</string>
   <string name="alarm_label_hint">Etiqueta d\'alarma</string>

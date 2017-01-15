@@ -16,7 +16,7 @@
   <string name="download_apk_desktop_pending">Pendent</string>
   <string name="download_apk_desktop_running">S\'està baixant</string>
   <string name="download_error">Error</string>
-  <string name="download_no_application_title">"No es pot obrir l'arxiu"</string>
+  <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">En cua</string>
   <string name="download_remaining">En falten %s</string>
