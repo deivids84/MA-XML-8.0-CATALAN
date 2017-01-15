@@ -1635,7 +1635,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern"><u>Heu oblidat el patró?</u></string>
+  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
   <string name="forget_wifi_message">El telèfon no es tornarà a connectar automàticament a aquesta xarxa.</string>
@@ -1966,7 +1966,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="legal_workday">Dies feiners</string>
   <string name="legal_workday_invalidate">Dl-Dv (informació de festius caducada)</string>
   <string name="legal_workday_invalidate_message">Premeu per actualitzar la informació de dies festius.</string>
-  <string name="legal_workday_message">(Salta\'t els festius)</string>
+  <string name="legal_workday_message">(Omet els festius)</string>
   <string name="license_title">Llicència</string>
   <string name="lift_to_wake_title">Aixeca\'l per reactivar-lo</string>
   <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
@@ -4981,7 +4981,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_quick_toggle_summary">Engega el Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">S\'ha desat</string>
-  <string name="wifi_required_info_text">Per acabar la instal·lació el dispositiu s\'ha de connectar per Wi-Fi. Després de la instal·lació podreu canviar entre dades mòbils o Wi-Fi.</string>
+  <string name="wifi_required_info_text">Per acabar la instal·lació, la vostra tauleta tàctil s\'ha de connectar via Wi-Fi. Després de la instal·lació ja podreu triar entre dades mòbils i Wi-Fi.</string>
   <string name="wifi_sap_no_channel_error">La banda de 5 GHz no és disponible en aquest país</string>
   <string name="wifi_save">Desa</string>
   <string name="wifi_saved_access_points_label">Xarxes desades</string>

@@ -14,7 +14,6 @@
   <string name="cancel_button">Cancel·la</string>
   <string name="close">Tanca</string>
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
-  <string name="empty">" "</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_total">Accelerada la velocitat %1$s vegades, afegits %2$s de temps de joc</string>

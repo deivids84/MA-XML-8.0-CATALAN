@@ -158,14 +158,6 @@
     <item>Este es un ejemplo de síntesis de voz en español.</item>
     <item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
-  <string-array name="tts_demo_string_langs">
-    <item>eng</item>
-    <item>fra</item>
-    <item>deu</item>
-    <item>ita</item>
-    <item>spa</item>
-    <item>kor</item>
-  </string-array>
   <string-array name="color_mode_names">
     <item>Vibrant (predeterminat)</item>
     <item>Natural</item>

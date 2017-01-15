@@ -622,7 +622,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="legal_workday">Feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
   <string name="legal_workday_invalidate_message">Premi per actualitzar la informació de dies laborables.</string>
-  <string name="legal_workday_message">(Saltar festius)</string>
+  <string name="legal_workday_message">(Omet els festius)</string>
   <string name="list_empty_text">Buit</string>
   <string name="load_fail">"No s'ha pogut carregar"</string>
   <string name="load_only_under_wlan">Carrega notícies quan es connecta al Wi-Fi</string>

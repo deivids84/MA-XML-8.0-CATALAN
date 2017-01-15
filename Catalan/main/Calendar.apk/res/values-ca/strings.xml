@@ -364,7 +364,6 @@
   <string name="repeat_label_interval">Cada</string>
   <string name="repeat_label_week">Setmana</string>
   <string name="repeat_lunar_yearly"></string>
-  <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Repeteix</string>
   <string name="response_maybe">Potser</string>
