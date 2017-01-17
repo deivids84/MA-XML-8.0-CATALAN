@@ -11,7 +11,6 @@
     <item>898611</item>
     <item>898612</item>
   </string-array>
-  <array name="config_support_tdscdma_roaming_on_networks"></array>
   <string-array name="preferred_network_mode_gsm_wcdma_choices">
     <item>Només GSM</item>
     <item>Només WCDMA</item>

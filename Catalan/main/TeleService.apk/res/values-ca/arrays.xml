@@ -140,7 +140,6 @@
     <item>LTE/CDMA</item>
     <item>LTE / GSM / UMTS</item>
   </string-array>
-  <array name="config_support_tdscdma_roaming_on_networks"></array>
   <string-array name="clir_display_values">
     <item>Network default</item>
     <item>Hide number</item>
