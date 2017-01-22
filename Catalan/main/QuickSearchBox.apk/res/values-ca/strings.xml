@@ -22,7 +22,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="common_setting">Configuració general</string>
   <string name="connect_and_retry">Connecteu-vos a Internet i torneu a provar</string>
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
-  <string name="corpus_description_web">Adreces d\'interès</string>
+  <string name="corpus_description_web">Marcadors</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
   <string name="corpus_label_global">Tots</string>

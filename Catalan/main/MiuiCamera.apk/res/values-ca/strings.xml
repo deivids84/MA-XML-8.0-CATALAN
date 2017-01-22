@@ -193,7 +193,7 @@
   <string name="pref_camera_facedetection_title">Detecció facial</string>
   <string name="pref_camera_flashmode_entry_auto">Automàtic</string>
   <string name="pref_camera_flashmode_entry_off">Apagat</string>
-  <string name="pref_camera_flashmode_entry_on">Ences</string>
+  <string name="pref_camera_flashmode_entry_on">Encès</string>
   <string name="pref_camera_flashmode_entry_torch">Flaix</string>
   <string name="pref_camera_flashmode_title">Mode de flaix</string>
   <string name="pref_camera_focusmode_entry_auto">Automàtic</string>
@@ -245,7 +245,7 @@
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_peak_entry_off">Apagat</string>
-  <string name="pref_camera_peak_entry_on">Ences</string>
+  <string name="pref_camera_peak_entry_on">Encès</string>
   <string name="pref_camera_peak_title">Punt d\'enfocament</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -274,7 +274,7 @@
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Apagat</string>
-  <string name="pref_camera_recordlocation_entry_on">Ences</string>
+  <string name="pref_camera_recordlocation_entry_on">Encès</string>
   <string name="pref_camera_recordlocation_title">Desar localització</string>
   <string name="pref_camera_referenceline_title">Línia de referència</string>
   <string name="pref_camera_saturation_title">Saturació</string>
@@ -318,7 +318,7 @@
   <string name="pref_camera_tilt_shift_entryvalue_parallel">paral·lel</string>
   <string name="pref_camera_tilt_shift_title">Efecte diorama</string>
   <string name="pref_camera_touchafaec_entry_off">Apagat</string>
-  <string name="pref_camera_touchafaec_entry_on">Ences</string>
+  <string name="pref_camera_touchafaec_entry_on">Encès</string>
   <string name="pref_camera_ubifocus_title">Reenfocar</string>
   <string name="pref_camera_video_duration_entry_10">10 minuts</string>
   <string name="pref_camera_video_duration_entry_120">Sense límit</string>
@@ -340,7 +340,7 @@
   <string name="pref_camera_whitebalance_entryvalue_manual">manual</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
-  <string name="pref_camera_zsl_entry_on">Ences</string>
+  <string name="pref_camera_zsl_entry_on">Encès</string>
   <string name="pref_capture_settings">Càmera</string>
   <string name="pref_face_beauty_advanced">a:1</string>
   <string name="pref_face_beauty_close">i:0</string>
@@ -350,7 +350,7 @@
   <string name="pref_face_beauty_title">Embellidor</string>
   <string name="pref_front_mirror_entry_auto">Quan es detecti la cara</string>
   <string name="pref_front_mirror_entry_off">Apagat</string>
-  <string name="pref_front_mirror_entry_on">Ences</string>
+  <string name="pref_front_mirror_entry_on">Encès</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
   <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
   <string name="pref_manual_exposure_title">Exposició manual</string>
@@ -359,7 +359,7 @@
   <string name="pref_scan_qrcode_title">Escaneja el codi QR</string>
   <string name="pref_setting_title">Configuració</string>
   <string name="pref_simple_hdr_entry_off">Apagat</string>
-  <string name="pref_simple_hdr_entry_on">Ences</string>
+  <string name="pref_simple_hdr_entry_on">Encès</string>
   <string name="pref_skin_beautify_color_default">4</string>
   <string name="pref_skin_beautify_color_title">To</string>
   <string name="pref_skin_beautify_eye_default">2</string>

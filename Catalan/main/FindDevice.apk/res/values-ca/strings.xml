@@ -3,8 +3,8 @@
 <resources>
   <string name="activate_xiaomi_account">Activa aquest dispositiu</string>
   <string name="adding_or_updating_account">S\'està actualitzant el compte&#8230;</string>
-  <string name="app_name">Troba dispositiu</string>
-  <string name="captcha">CAPTCHA</string>
+  <string name="app_name">Trobar dispositiu</string>
+  <string name="captcha">Codi de seguretat</string>
   <string name="change_find_device_status_failed">"No es pot desbloquejar. %s."</string>
   <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
   <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
@@ -14,24 +14,24 @@
   <string name="disable_find_device_success">Troba dispositiu està desactivat</string>
   <string name="doing_extra_login_steps">S\'està verificant l\'inici de sessió&#8230;</string>
   <string name="enable_find_device_error">"No es pot activar la recerca del dispositiu. %1$s"</string>
-  <string name="enable_find_device_success">Troba dispositiu està activat</string>
-  <string name="find_device">Troba dispositiu</string>
-  <string name="find_device_crash">Troba dispositiu s\'ha tancat inesperadament.</string>
+  <string name="enable_find_device_success">Trobar dispositiu està activat</string>
+  <string name="find_device">Trobar dispositiu</string>
+  <string name="find_device_crash">Trobar dispositiu s\'ha tancat inesperadament.</string>
   <string name="find_device_error_account_sys_timeout">"No s'ha pogut connectar al Compte Mi"</string>
   <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
   <string name="find_device_error_network">S\'ha produït un error de xarxa.</string>
-  <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
+  <string name="find_device_error_password_changed">La contrasenya del vostre compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Error de servidor (%s).</string>
   <string name="find_device_error_unknown">Error desconegut (%s).</string>
-  <string name="find_device_noise_title">Alarma de Troba dispositiu</string>
+  <string name="find_device_noise_title">Alarma de trobar dispositiu</string>
   <string name="find_device_notice_p1">Vés a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">«per localitzar, bloquejar, o restaurar el vostre telèfon.
 Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per reactivar aquesta funció.»</string>
-  <string name="find_device_stop_noise">Premeu D\'acord per silenciar</string>
+  <string name="find_device_stop_noise">Premeu d\'acord per silenciar</string>
   <string name="find_device_storage_corrupted">L\'emmagatzematge de Troba dispositiu està malmès. Ara mateix el vostre dispositiu no és segur.</string>
-  <string name="find_device_success_title">Troba dispositiu</string>
-  <string name="find_device_telephony_fault">Troba dispositiu: Problema telefònic (%s).</string>
+  <string name="find_device_success_title">Trobar dispositiu</string>
+  <string name="find_device_telephony_fault">Trobar dispositiu: Problema telefònic (%s).</string>
   <string name="i_know">D\'acord</string>
   <string name="lock_msg_phone">Informació de contacte: %s</string>
   <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
@@ -51,7 +51,7 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="time_correction_success">Hora corregida</string>
   <string name="unlock">Activat</string>
   <string name="unlock_access_denied">Accés denegat</string>
-  <string name="unlock_bad_authentication">Usuari o contrasenya invàlids</string>
+  <string name="unlock_bad_authentication">Usuari o contrasenya invàlida</string>
   <string name="unlock_error_abort">Cancel·lat per l\'usuari</string>
   <string name="unlock_error_device_id">"No es pot obtenir l'ID del dispositiu"</string>
   <string name="unlock_error_interrupted">Interromput</string>
@@ -64,7 +64,7 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="unlock_error_user_name">Usuari invàlid</string>
   <string name="unlock_error_wrong_vcode">El codi introduït és incorrecte</string>
   <string name="unlock_help">«Mantingueu-vos connectat a la xarxa
-Assegureu-vos d\'haver instal·lat una targeta SIM que funcioni i que el seu dispositiu estigui connectat a una xarxa Wi-Fi amb accés a Internet
+Assegureu-vos d\'haver instal·lat una targeta SIM que funcioni i que el vostre dispositiu estigui connectat a una xarxa Wi-Fi amb accés a Internet
 
 Heu oblidat la vostra contrasenya?
 Aneu a id.mi.com per restablir la vostra contrasenya

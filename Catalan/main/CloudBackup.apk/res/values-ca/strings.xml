@@ -11,21 +11,21 @@
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
   <string name="backup_fail">"No s'ha pogut fer la còpia"</string>
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
-  <string name="backup_now">Fer còpia ara</string>
+  <string name="backup_now">Fer la còpia ara</string>
   <string name="backup_size">Mida: %s</string>
   <string name="backup_size_summary">Mida: %1$s</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
   <string name="backup_successfully">Còpia realitzada amb èxit</string>
-  <string name="backup_to_cloud">Còpia de seguretat de l\'aplicació</string>
+  <string name="backup_to_cloud">Fes una còpia de l\'aplicació</string>
   <string name="btn_back">Enrere</string>
   <string name="btn_continue">Continua</string>
-  <string name="btn_skip">Ometre aquest pas</string>
+  <string name="btn_skip">Omet aquest pas</string>
   <string name="button_cancel">Cancel·la</string>
   <string name="button_delete">Esborra</string>
   <string name="button_next">Següent</string>
   <string name="can_not_backup_in_lite_mode">"No es pot fer una còpia de seguretat en el mode bàsic"</string>
   <string name="can_not_restore_in_lite_mode">"No es pot restaurar en mode bàsic"</string>
-  <string name="cancel_recover_settings">&lt;u&gt;Cancel·la&lt;/u&gt;</string>
+  <string name="cancel_recover_settings">Cancel·la</string>
   <string name="click_try_to_restore_again">Toqueu per provar-ho de nou</string>
   <string name="cloud_app_backup_success">Còpia de seguretat d\'aplicació finalitzada</string>
   <string name="cloud_app_check_data">Connectant amb Mi Cloud&#8230;</string>
@@ -34,46 +34,46 @@
   <string name="cloud_app_no_data">No hi ha còpies</string>
   <string name="cloud_app_no_network">"No es pot connectar a la xarxa"</string>
   <string name="cloud_app_other_devices">Altres dispositius</string>
-  <string name="cloud_app_restore_app_and_data">Restaurar disseny d\'escriptori i aplicacions</string>
+  <string name="cloud_app_restore_app_and_data">Configura el teu dispositiu</string>
   <string name="cloud_app_restore_data">Restaurar les aplicacions prèviament instal·lades</string>
   <string name="cloud_app_restore_error">"No s'ha pogut restaurar"</string>
   <string name="cloud_app_restore_success">Aplicacions restaurades</string>
   <string name="cloud_app_restore_wifi_prompt">Per restaurar l\'aplicació, connecteu-vos a una xarxa Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">«Aquests elements es desaran al Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
+  <string name="cloud_back_up_detail_discription">"Aquests elements es desaran al Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
 *\u0009\u0009\u0009\u0009Aplicacions, disposició de pantalla d\'inici i fons
 *\u0009\u0009\u0009\u0009Alarmes, rellotges i configuració del temps
 *\u0009\u0009\u0009\u0009Configuracions de les notificacions
 *\u0009\u0009\u0009\u0009Configuracions de MIUI i del sistema
-Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</string>
+Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programar còpia</string>
   <string name="cloud_back_up_frequence_long">Cada 7 dies</string>
-  <string name="cloud_back_up_frequence_short">Tots els dies</string>
+  <string name="cloud_back_up_frequence_short">Cada dia</string>
   <string name="cloud_back_up_interval_long">7 dies</string>
-  <string name="cloud_back_up_interval_short">Cada dia</string>
-  <string name="cloud_back_up_no_network_warn">"No es pot connectar a la Wi-Fi"</string>
+  <string name="cloud_back_up_interval_short">dia</string>
+  <string name="cloud_back_up_no_network_warn">"No es pot connectar al Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">D\'acord</string>
   <string name="cloud_back_up_opening">Un moment&#8230;</string>
-  <string name="cloud_back_up_share_activity_confirm">Actualitza</string>
+  <string name="cloud_back_up_share_activity_confirm">Millora</string>
   <string name="cloud_back_up_share_activity_discription">Aconseguiu més espai, còpies diàries i molt més.</string>
-  <string name="cloud_back_up_share_activity_title">Actualitzar Compte Mi</string>
+  <string name="cloud_back_up_share_activity_title">Millorar Compte Mi</string>
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s copiar una vegada</string>
+  <string name="cloud_backup_detail_frequence_day">Copiar cada %1$s</string>
   <string name="cloud_backup_detail_manage">Administrar còpies</string>
   <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
   <string name="cloud_backup_detail_state">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i configuració del sistema</string>
   <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
-  <string name="cloud_backup_have_data">S\'ha trobat un còpia al Mi Cloud</string>
+  <string name="cloud_backup_have_data">S\'ha trobat una còpia al Mi Cloud</string>
   <string name="cloud_backup_select_recover">Escolliu una còpia del Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Voleu aturar la restauració de %s i esborrar la còpia de seguretat? Aquesta acció no es podrà revertir."</string>
   <string name="cloud_restore_task">S\'està restaurant&#8230;</string>
   <string name="cloud_task_in_process">"Voleu aturar %s i esborrar aquesta còpia de seguretat? Aquesta acció no es podrà revertir."</string>
   <string name="confirm_restore">Restaura</string>
-  <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat a Wi-Fi</string>
+  <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat al Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
-  <string name="customization">&lt;u&gt;Personalitzar&lt;/u&gt;</string>
+  <string name="customization">Personalitza</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del rellotge</string>
   <string name="desktop_downloading">S\'està baixant</string>
@@ -101,7 +101,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
   <string name="query_restore_back_view">Còpia de seguretat del Mi Cloud</string>
-  <string name="query_restore_description">Restaurar aplicacions de pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses en la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
+  <string name="query_restore_description">Restaura les aplicacions de la pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses a la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
   <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com a nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar còpia del Mi Cloud</string>
   <string name="recover_home_settings">Restaura la configuració de la pantalla d\'inici</string>
@@ -110,9 +110,9 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="recovering">S\'està restaurant %s</string>
   <string name="remove_task_in_process">S\'està eliminant&#8230;</string>
   <string name="remove_task_unfinished">Encara no s\'ha eliminat</string>
-  <string name="restore_data_summary">Aquesta funcionalitat requereix de connexió a Internet.</string>
+  <string name="restore_data_summary">Aquesta funcionalitat requereix una connexió a Internet.</string>
   <string name="restore_from_cloud">Restaurar des del Mi Cloud</string>
-  <string name="restore_from_this_device">Restaurar usant aquesta còpia</string>
+  <string name="restore_from_this_device">Restaura usant aquesta còpia</string>
   <string name="restore_home_screen_apps">Restaurar des d\'una còpia del Mi Cloud</string>
   <string name="restore_task_unfinished">S\'estan restaurant les aplicacions, proveu-ho més tard</string>
   <string name="restoreing_file_tile">S\'estan restaurant %d fitxers</string>
@@ -121,6 +121,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud.»</
   <string name="settings_backup">Configuració del sistema</string>
   <string name="start_backup_to_micloud">Realitzar còpia de seguretat d\'aplicacions al Mi Cloud</string>
   <string name="start_recover">Restaura %s</string>
-  <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici encesesa</string>
-  <string name="wait_icon_download">S\'està baixant icones d\'aplicacions</string>
+  <string name="success_open_cloudbackup">Còpies d\'aplicacions de la pantalla d\'inici enceses</string>
+  <string name="wait_icon_download">S\'estan baixant les icones de les aplicacions</string>
 </resources>

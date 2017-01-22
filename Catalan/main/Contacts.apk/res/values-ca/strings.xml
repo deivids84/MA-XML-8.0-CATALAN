@@ -599,7 +599,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="meid_invalid">L\'IMEI no és vàlid</string>
   <string name="menuMoreDescription">Més</string>
   <string name="menu_accounts">Comptes</string>
-  <string name="menu_addStar">Afegir a favorits</string>
+  <string name="menu_addStar">Afegeix als favorits</string>
   <string name="menu_bar_group_add">Afegir</string>
   <string name="menu_bar_group_batch_copy">Copiar en el grup</string>
   <string name="menu_bar_group_batch_edit">Contactes múltiples</string>
@@ -648,7 +648,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="menu_sendTextMessage">Enviar missatge de text</string>
   <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
   <string name="menu_settings">Configuració</string>
-  <string name="menu_share">Compartir</string>
+  <string name="menu_share">Comparteix</string>
   <string name="menu_show_all_calls">Mostra totes les trucades</string>
   <string name="menu_show_voicemails_only">Mostra missatges de veu només</string>
   <string name="menu_splitAggregate">Separar</string>

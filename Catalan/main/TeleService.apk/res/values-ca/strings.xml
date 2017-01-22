@@ -1393,7 +1393,7 @@ Queden %d intents."</string>
   <string name="telocation_number_type_tel">Telèfon fix</string>
   <string name="telocation_setting">Configuració de localització</string>
   <string name="telocation_show_settings">Mostra la configuració</string>
-  <string name="tether_settings_title_all">Ancoratge de xarxa i punt d\'accés portàtil</string>
+  <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>

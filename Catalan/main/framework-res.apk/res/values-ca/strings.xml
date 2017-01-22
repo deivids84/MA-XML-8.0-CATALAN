@@ -177,7 +177,7 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="bugreport_title">Crea un informe d\'errors</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancel·la</string>
-  <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
+  <string name="candidates_style">candidats</string>
   <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
   <string name="capability_desc_canPerformGestures">Podeu tocar, lliscar, pessigar i realitzar altres gestos.</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">És possible que s\'instal·lin seqüències d\'ordres perquè el contingut de les aplicacions sigui més accessible.</string>
@@ -273,9 +273,9 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="create_contact_using">«Crea un contacte
 a partir de %s»</string>
   <string name="cut">Talla</string>
-  <string name="data_saver_description">Per reduir l\'ús de dades, la funció Economitzador de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estiguis fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
+  <string name="data_saver_description">Per reduir l\'ús de dades, la funció estalvi de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estigueu fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
   <string name="data_saver_enable_button">Activa</string>
-  <string name="data_saver_enable_title">Voleu activar l\' Economitzador de dades?</string>
+  <string name="data_saver_enable_title">Voleu activar l\'estalvi de dades?</string>
   <string name="data_usage_3g_limit_snoozed_title">Límit de dades 2G-3G superat</string>
   <string name="data_usage_3g_limit_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
@@ -1087,7 +1087,7 @@ per al compte %s»</string>
   <string name="permlab_readCallLog">llegeix el registre de trucades</string>
   <string name="permlab_readCellBroadcasts">llegeix els missatges de difusió mòbil</string>
   <string name="permlab_readContacts">llegeix els contactes</string>
-  <string name="permlab_readHistoryBookmarks">llegeix l\'historial i els marcadors web</string>
+  <string name="permlab_readHistoryBookmarks">llegeix l\'historial web i els marcadors</string>
   <string name="permlab_readInstallSessions">Llegeix les sessions d\'instal·lació</string>
   <string name="permlab_readNetworkUsageHistory">llegeix l\'historial d\'ús de la xarxa</string>
   <string name="permlab_readPhoneState">llegeix la identitat i l\'estat del telèfon</string>
@@ -1389,7 +1389,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="tethered_notification_multi_device_message">%1$s dispositius connectats</string>
   <string name="tethered_notification_no_device_message">Cap dispositiu connectat</string>
   <string name="tethered_notification_one_device_message">%1$s dispositius connectats</string>
-  <string name="tethered_notification_title">Ancoratge de xarxa o punt d\'accés actiu</string>
+  <string name="tethered_notification_title">Connexió compartida d\'Internet activa</string>
   <string name="textSelectionCABTitle">Selecció de text</string>
   <string name="text_copied">Text copiat al porta-retalls.</string>
   <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
@@ -1514,7 +1514,7 @@ Voleu tancar-la?»</string>
   <string name="wifi_p2p_invitation_to_connect_title">Invitació per connectar-se</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Per:</string>
-  <string name="wifi_p2p_turnon_message">Inicia Wi-Fi Direct. Es desactivarà el funcionament de la zona o del client Wi-Fi.</string>
+  <string name="wifi_p2p_turnon_message">Inicieu Wi-Fi Direct. Això desactivarà tant el Wi-Fi com el punt d\'accés Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">"No s'ha pogut establir connexió amb la xarxa Wi-Fi."</string>
   <string name="wifi_watchdog_network_disabled_detailed">" té una connexió inestable a internet."</string>

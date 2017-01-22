@@ -223,7 +223,7 @@
   <string name="miwifi_app_download_content">S\'està baixant&#8230;</string>
   <string name="miwifi_app_download_title">Mi Router</string>
   <string name="miwifi_app_update_button">Actualitzar</string>
-  <string name="miwifi_app_update_content">Actualitzar aplicació Mi Router per utilitzar aquesta funcionalitat.</string>
+  <string name="miwifi_app_update_content">Actualitzeu l\'aplicació Mi Router per utilitzar aquesta funcionalitat.</string>
   <string name="miwifi_app_update_title">Actualitzar router?</string>
   <string name="month">Mes</string>
   <string name="my_favorite">Favorits</string>
@@ -298,7 +298,7 @@
   <string name="passport_back">Torna</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya no vàlids</string>
   <string name="passport_barcode_add_account_prompt">Per vincular un compte, escanegeu el codi QR una altra vegada després d\'iniciar sessió.</string>
-  <string name="passport_change_account">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
+  <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">S\'està comprovant la contrasenya&#8230;</string>
   <string name="passport_checking_input">S\'està comprovant l\'entrada&#8230;</string>
@@ -337,7 +337,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
   <string name="passport_find_password_on_web_msg">Aneu a account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">&lt;u&gt;Contrasenya oblidada&lt;/u&gt;</string>
+  <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén codi</string>
@@ -359,7 +359,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
   <string name="passport_login_prompt">Un mateix compte Mi per a tots els serveis Mi.</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
-  <string name="passport_login_using_other_ways">&lt; u &gt;Altres maneres per iniciar la sessió &lt;/u &gt;</string>
+  <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
@@ -382,7 +382,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_reg_type_email">Utilitza l\'adreça de correu</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Utilitza número de telèfon alternatiu&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">Utilitza número de telèfon alternatiu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou utilitzant "</string>
   <string name="passport_reg_using_phone_number_prompt">Crea un compte utilitzant el número de telèfon</string>
   <string name="passport_reg_via_sms_alert">La vostra companyia podria cobrar-vos el SMS usat per activar aquest servei.</string>
@@ -390,7 +390,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">Compte verificat</string>
-  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Crea un compte utilitzant una adreça de correu</string>
   <string name="passport_register_restricted">Ja hi ha massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
@@ -477,7 +477,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="retry">Reintentar</string>
   <string name="router">Remot local</string>
   <string name="router_download_task_with">%d tasques</string>
-  <string name="router_update">Actualitzar aplicació Mi Router ara.</string>
+  <string name="router_update">Actualitza l\'aplicació Mi Router.</string>
   <string name="score">Puntuació&#160;&#160;</string>
   <string name="score_by">Puntuació: %s</string>
   <string name="score_douban">Puntuació Douban %1$s</string>

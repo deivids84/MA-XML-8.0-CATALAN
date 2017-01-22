@@ -6,12 +6,12 @@
     <item quantity="one">%d està desactivat</item>
   </plurals>
   <plurals name="items_unsynced">
-    <item quantity="other">Elements d\'espera per a sincronitzar: %d</item>
-    <item quantity="one">Element d\'espera per a sincronitzar: %d</item>
+    <item quantity="other">Elements esperant per a sincronitzar-se: %d</item>
+    <item quantity="one">Element esperant per a sincronitzar-se: %d</item>
   </plurals>
   <plurals name="items_waiting_to_sync">
-    <item quantity="other">%d elements d\'espera per a sincronitzar</item>
-    <item quantity="one">%d element d\'espera per a sincronitzar</item>
+    <item quantity="other">%d elements esperant per a sincronitzar-se</item>
+    <item quantity="one">%d element esperant per a sincronitzar-se</item>
   </plurals>
   <plurals name="dirty_contacts_count">
     <item quantity="other">%d contactes</item>

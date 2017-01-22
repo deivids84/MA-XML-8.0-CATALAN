@@ -231,7 +231,7 @@
   <string name="resource_menu_refresh">Actualitza</string>
   <string name="resource_mute">Cap</string>
   <string name="resource_my">Local</string>
-  <string name="resource_network_diagnostics">&lt;u&gt;Diagnòstic de xarxa&lt;/u&gt;</string>
+  <string name="resource_network_diagnostics">Diagnòstic de xarxa</string>
   <string name="resource_no_match_app">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
   <string name="resource_no_network_text">"No es pot connectar a la xarxa."</string>
   <string name="resource_no_result">"No s'ha trobat res"</string>

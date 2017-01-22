@@ -17,7 +17,7 @@ Si no heu sol·licitat aquesta còpia de seguretat, no permeteu aquesta operaci�
   <string name="device_encryption_restore_text">Introduïu la contrasenya de xifrat del dispositiu.</string>
   <string name="restore_confirm_text">"S\'ha sol·licitat fer una restauració completa de les dades des d\'un ordinador connectat. Ho voleu permetre?
 
-Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació, ja que reemplaçarà qualsevol dada que es trobe al dispositiu."</string>
+Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació, ja que reemplaçarà qualsevol dada que es trobi al dispositiu."</string>
   <string name="restore_confirm_title">Restauració completa</string>
   <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, introduïu la contrasenya:</string>
   <string name="toast_backup_ended">S\'ha creat la còpia de seguretat</string>

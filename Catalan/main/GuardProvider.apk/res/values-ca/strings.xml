@@ -13,7 +13,7 @@
   <string name="avast_dialog_cloudscan"></string>
   <string name="avast_dialog_dbupdate"></string>
   <string name="avast_dialog_header">"Aquesta característica xifra i carrega l'ID de dispositiu als servidors d'Avast (%s)."</string>
-  <string name="avast_dialog_policy">mostra la política de privadesa</string>
+  <string name="avast_dialog_policy">mostra la política de privacitat</string>
   <string name="avast_dialog_title">"Política de privacitat d'Avast"</string>
   <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=ca_ES</string>
   <string name="avast_virus_type_adware_description">El virus és un adware. Processa anuncis automàticament.</string>
@@ -26,15 +26,15 @@
   <string name="avast_virus_type_rootkit_description">El virus és un rootkit. És un tipus de programari dissenyat per ocultar el fet que un sistema operatiu s\'ha vist compromès. S\'utilitza per obtenir el control sobre el dispositiu en ocultar-se a l\'interior del propi sistema. Els rootkits permeten a virus i malware «ocultar-se a la vista» disfressant fitxers de tal forma que el programari antivirus ho passa per alt.</string>
   <string name="avast_virus_type_spyware_description">"El virus és un programari espia. És un programari que recopila informació de l'usuari a través de la connexió d'Internet de l'usuari sense el seu coneixement."</string>
   <string name="avast_virus_type_suspicious_description">Un tipus sospitós comú. El sistema antivirus està tractant de classificar-lo.</string>
-  <string name="avast_virus_type_tool_description">El virus és una eina potencialment dolenta similar als PUP.</string>
+  <string name="avast_virus_type_tool_description">El virus és una eina potencialment dolenta, similar als PUP.</string>
   <string name="avast_virus_type_trjan_description">"El virus és un troià. És un malware dissenyat per proporcionar un accés no autoritzat, a distància al dispositiu d'un usuari. Els troians normalment no tenen la capacitat de replicar-se a si mateixos com els virus. No obstant això, poden donar lloc a un altre tipus de malware que s'instal·la en el dispositiu, les dades siguin robades, o altres activitats malicioses."</string>
   <string name="avast_virus_type_unknown_description">Tipus d\'infecció desconeguda.</string>
-  <string name="avast_virus_type_worm_description">El virus és un cuc. És un malware independent que es replica a si mateix amb la finalitat de difondre a altres dispositius. S\'aprofita de fitxers o funcions de transferència d\'informació del seu sistema (per exemple, xarxes), pot viatjar sense cap acció humana. Els cucs gairebé sempre causen almenys alguns danys a la xarxa.</string>
+  <string name="avast_virus_type_worm_description">El virus és un cuc. És un malware independent que es replica a si mateix amb la finalitat de difondre\'s a altres dispositius. S\'aprofita de fitxers o funcions de transferència d\'informació del seu sistema (per exemple, xarxes), i pot viatjar sense cap acció humana. Els cucs gairebé sempre causen almenys alguns danys a la xarxa.</string>
   <string name="avl_dialog_cloudscan"></string>
   <string name="avl_dialog_dbupdate"></string>
   <string name="avl_dialog_header">"Aquesta funcionalitat encripta i puja l'ID del dispositiu als servidors d'AVL (%s)."</string>
-  <string name="avl_dialog_policy">mostra la Política de Privacitat</string>
-  <string name="avl_dialog_title">"Política de Privacitat d'AVL"</string>
+  <string name="avl_dialog_policy">mostra la política de privacitat</string>
+  <string name="avl_dialog_title">"política de privacitat d'AVL"</string>
   <string name="avl_dialog_url">http://sdk.avlsec.com/policy/en.html</string>
   <string name="default_sdcard_volume_path"></string>
   <string name="hello_world">Hola món!</string>

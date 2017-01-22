@@ -303,7 +303,7 @@
   <string name="message_reply_prefix">Respondre</string>
   <string name="message_reply_suffix">": "</string>
   <string name="message_title">Els meus missatges</string>
-  <string name="mi_router_label">Mi Router</string>
+  <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, pot buscar dispositius propers i enviar fitxers</string>
   <string name="midrop_send_files">Trieu fitxers a pujar</string>

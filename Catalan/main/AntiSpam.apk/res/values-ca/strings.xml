@@ -89,7 +89,7 @@
   <string name="dlg_antispam_using_mode_delete_message">"Voleu eliminar les regles que feu servir actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Voleu eliminar les regles que feu servir actualment i tornar a les regles per defecte de la llista de bloqueig?"</string>
   <string name="dlg_bl_add_manual">Afegeix el número a llista de bloqueig</string>
-  <string name="dlg_black_address_antispam_message">Afegeix aquesta ubicació a la llista de bloqueig?</string>
+  <string name="dlg_black_address_antispam_message">Voleu afegir aquesta ubicació a la llista de bloqueig?</string>
   <string name="dlg_black_antispam_hint">Llista de bloqueig</string>
   <string name="dlg_black_antispam_message">Voleu afegir aquest número a la llista de bloqueig?</string>
   <string name="dlg_clear_all_call">Voleu esborrar les trucades bloquejades?</string>
@@ -101,7 +101,7 @@
   <string name="dlg_clear_current_ok">Esborra</string>
   <string name="dlg_clear_current_sms">Voleu eliminar tots els SMS bloquejats enviats des d\'aquest número?</string>
   <string name="dlg_delete_keyword">Voleu esborrar les paraules clau seleccionades?</string>
-  <string name="dlg_edit_keyword">Edita paraules clau</string>
+  <string name="dlg_edit_keyword">Edita les paraules clau</string>
   <string name="dlg_import_blacklist">S\'està afegint&#8230;</string>
   <string name="dlg_import_whitelist">S\'està afegint&#8230;</string>
   <string name="dlg_keyword_ok">Desa</string>
@@ -153,7 +153,7 @@
   <string name="mark_fraud_time_setting">Bloqueja els números que hagin estat notificats com a frau un determinat nombre de vegades</string>
   <string name="mark_harass">Bloqueja els assetjaments notificats</string>
   <string name="mark_harass_block">Notificat com a assetjament</string>
-  <string name="mark_harass_block_large">Assetjaments </string>
+  <string name="mark_harass_block_large">Assetjaments</string>
   <string name="mark_harass_time_setting">Bloqueja els números que hagin estat notificats com a assetjaments un determinat nombre de vegades</string>
   <string name="mark_number_agent">Agència</string>
   <string name="mark_number_courier">Servei de missatgeria</string>
@@ -247,7 +247,7 @@
   <string name="st_antispam_mode_add_new">Afegeix regles</string>
   <string name="st_antispam_mode_blacklist">Números bloquejats</string>
   <string name="st_antispam_mode_blacklist_sum">"Bloqueja missatges i trucades de números afegits manualment"</string>
-  <string name="st_antispam_mode_customize_sum">Crea regles de llista de bloqueig</string>
+  <string name="st_antispam_mode_customize_sum">Crea regles de la llista de bloqueig</string>
   <string name="st_antispam_mode_denyownself_sum">Regles personalitzades</string>
   <string name="st_antispam_mode_only_all_deny">Bloqueja-ho tot</string>
   <string name="st_antispam_mode_only_all_deny_sum">Bloqueja tots els missatges i trucades</string>
@@ -299,7 +299,7 @@
   <string name="st_sms_group">Missatges</string>
   <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sub_title_whiteblack_list_group">Llista de bloqueig</string>
-  <string name="st_sum_call_wait">El missatge d\'abència també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
+  <string name="st_sum_call_wait">El missatge d\'absència també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
   <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_blacklist_numbers_international">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_keywords_blacklist">Afegiu paraules clau per bloquejar missatges</string>

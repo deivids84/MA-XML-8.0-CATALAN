@@ -500,8 +500,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="flow_rank_title">Ús de dades</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
+  <string name="forget_password_button_text">He oblidat la contrasenya</string>
+  <string name="forget_pattern">Heu oblidat el patró?</string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
   <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
@@ -1089,7 +1089,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
-  <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>

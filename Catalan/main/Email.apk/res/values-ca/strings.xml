@@ -552,7 +552,7 @@
   <string name="menu_att_mgr_order_rev_date">Ordenar per temps</string>
   <string name="menu_att_mgr_order_size">Ordenar per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
-  <string name="menu_compose">Compondre</string>
+  <string name="menu_compose">Redacta</string>
   <string name="menu_contact_edit">Edita</string>
   <string name="menu_discovery">Descobrir</string>
   <string name="menu_folder_options">Opcions de sincronització</string>
@@ -562,7 +562,7 @@
   <string name="menu_photo_share">Compartir</string>
   <string name="menu_photo_share_all">Compartir tot</string>
   <string name="menu_resend_all">Reenvia a tots</string>
-  <string name="menu_search">Cercar</string>
+  <string name="menu_search">Cerca</string>
   <string name="menu_settings">Configuració</string>
   <string name="merged_mailbox_compose_select_account">Seleccioneu un Compte</string>
   <string name="message_body_load_set_description">Mida de la càrrega de nous correus en utilitzar dades mòbils</string>
@@ -775,7 +775,7 @@
   <string name="recipient_needed_title">Advertir</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronitzar la safata d\'entrada amb menor freqüència mentre No Molestar està activat</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronitzar amb menor freqüència</string>
-  <string name="refresh">Actualitzar</string>
+  <string name="refresh">Actualitza</string>
   <string name="refreshing">Sincronització de&#8230;</string>
   <string name="refreshing_done">Sincronització completa</string>
   <string name="release_to_refresh">Deixar anar per refrescar</string>
@@ -896,7 +896,7 @@
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
   <string name="toast_bar_insufficient_memory_space">No hi ha prou espai d\'emmagatzematge</string>
   <string name="toast_bar_invalid_account">Heu d\'iniciar sessió de nou</string>
-  <string name="toast_bar_no_connection_network">"No té una connexió a internet"</string>
+  <string name="toast_bar_no_connection_network">"Sense connexió a Internet"</string>
   <string name="toast_bar_open_gmail_synchronization">Toqui per utilitzar servidor intermediari per a Gmail</string>
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>

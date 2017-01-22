@@ -142,9 +142,9 @@
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
   <string name="multi_select_title">%1$s seleccionats</string>
-  <string name="multi_user_mode_backup_message">"Desactiveu el mode de Multiusuari per poder utilitzar la còpia de seguretat."</string>
-  <string name="multi_user_mode_dialog_message">"Desactiveu el mode de Multiusuari per poder utilitzar Mi Mover."</string>
-  <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode de Multiusuari"</string>
+  <string name="multi_user_mode_backup_message">"Desactiveu el mode Multiusuari per poder utilitzar la còpia de seguretat."</string>
+  <string name="multi_user_mode_dialog_message">"Desactiveu el mode Multiusuari per poder utilitzar Mi Mover."</string>
+  <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode Multiusuari"</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
@@ -200,7 +200,7 @@
   <string name="sdcard_no_enough_space">No hi ha prou espai</string>
   <string name="sdcard_no_enough_space_message">"No hi ha prou espai a la targeta SD del telèfon."</string>
   <string name="sdcard_unmounted">Inseriu la targeta SD</string>
-  <string name="see_backup_files_on_router">Mostra les còpies de seguretat a Mi Router %s</string>
+  <string name="see_backup_files_on_router">Mostra les còpies de seguretat del Mi Router %s</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_backup_item">Selecciona elements</string>
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
@@ -295,8 +295,8 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
   <string name="trans_progress_subdescript_waiting">S\'està esperant a rebre %s</string>
   <string name="trans_receiver">"Sóc un receptor"</string>
   <string name="trans_receiver_time_remained">"%s restant.
-No apagueu la zona Wi-Fi.
-Mantingueu els dispositius propers l\'un a l\'altre."</string>
+No apagueu el punt d\'accés Wi-Fi.
+Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_receiving_completed">S\'han rebut les dades correctament</string>
   <string name="trans_restoring">S\'està restaurant&#8230;</string>
   <string name="trans_restoring_no_items">S\'estan sincronitzant elements</string>
@@ -312,12 +312,12 @@ Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
   <string name="trans_sender">"Sóc un emissor"</string>
   <string name="trans_sender_connectting">Confirma-ho en el dispositiu nou</string>
-  <string name="trans_sender_searching">S\'està cercant dispositius nous</string>
+  <string name="trans_sender_searching">S\'estan cercant dispositius nous</string>
   <string name="trans_sender_searching_ensurance">"Comproveu que el dispositiu antic està engegat
 S\'està esperant que el dispositiu antic es connecti&#8230;"</string>
   <string name="trans_sender_time_remained">"%s restant.
 No apagueu el Wi-Fi.
-Mantingueu els dispositius propers l\'un a l\'altre."</string>
+Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_sending_completed">S\'ha enviat correctament</string>
   <string name="trans_show_qr_code_label">Connecteu el dispositiu antic</string>
   <string name="trans_show_qr_code_tips">Escanegeu el codi QR amb el dispositiu antic</string>
@@ -340,7 +340,7 @@ i s\'ha activat Mi Mover"</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut connectar amb el gestor de baixades. Comproveu-ne l'estat des de l'administrador d'aplicacions."</string>
+  <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la descàrrega. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

@@ -397,7 +397,7 @@ L\'Administrador pot supervisar i administrar la configuració. També pot gesti
   <string name="backup_data_summary">Feu una còpia de seguretat de les dades de les aplicacions, contrasenyes de Wi-Fi i altres ajustos en els servidors de Google</string>
   <string name="backup_data_title">Feu una còpia de seguretat de les dades</string>
   <string name="backup_disabled">Còpia de seguretat desactivada</string>
-  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, adreces d\'interès, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
+  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, marcadors, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
   <string name="backup_erase_dialog_title"></string>
   <string name="backup_inactive_title">S\'ha deshabilitat el servei de còpies de seguretat.</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
@@ -934,7 +934,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="condition_battery_summary">El rendiment ha disminuït. Els Serveis d\'ubicació i les dades en segon pla s\'han desactivat.</string>
   <string name="condition_battery_title">Estalvi de bateria activat</string>
   <string name="condition_bg_data_summary">Les dades en segon pla només estan disponibles mitjançant una Wi-Fi. Això pot afectar aplicacions o serveis determinats quan no n\'hi hagi cap de disponible.</string>
-  <string name="condition_bg_data_title">Economitzador de dades activat</string>
+  <string name="condition_bg_data_title">L\'estalvi de dades està activat</string>
   <string name="condition_cellular_summary">Internet només és disponible per Wi-Fi</string>
   <string name="condition_cellular_title">Dades mòbils desactivades</string>
   <string name="condition_expand_hide">​​Amaga</string>
@@ -1136,7 +1136,7 @@ Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'ope
   <string name="data_usage_metered_mobile">Xarxes mòbils</string>
   <string name="data_usage_metered_title">Restriccions de la xarxa</string>
   <string name="data_usage_metered_wifi">Xarxes Wi-Fi</string>
-  <string name="data_usage_metered_wifi_disabled">Per a seleccionar punts d\'accés mòbils, activeu el Wi-Fi.</string>
+  <string name="data_usage_metered_wifi_disabled">Per seleccionar punts d\'accés mòbils, activeu el Wi-Fi.</string>
   <string name="data_usage_other_apps">Altres aplicacions que utilitzen dades</string>
   <string name="data_usage_pick_cycle_day">Dia del mes per a restablir el cicle d\'ús de dades:</string>
   <string name="data_usage_received_sent">%1$s rebuts, %2$s enviats</string>
@@ -1634,8 +1634,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_touch_enable">Habilita el 3D tàctil</string>
   <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="forget">Oblida-la</string>
-  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
+  <string name="forget_password_button_text">He oblidat la contrasenya</string>
+  <string name="forget_pattern">Heu oblidat el patró?</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
   <string name="forget_wifi_message">El telèfon no es tornarà a connectar automàticament a aquesta xarxa.</string>
@@ -2217,7 +2217,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="manage_space_text">Gestiona l\'espai</string>
   <string name="manage_trust_agents">Agents de confiança</string>
   <string name="manage_trust_agents_summary">Mostra o desactiva els agents de confiança</string>
-  <string name="manage_xiaomi_router">Configuració de Mi Router</string>
+  <string name="manage_xiaomi_router">Configuració del Mi Router</string>
   <string name="manage_zen_access_title">Accés a No molesteu</string>
   <string name="manageapplications_settings_summary">Gestiona i elimina les aplicacions instal·lades</string>
   <string name="manageapplications_settings_title">Gestiona les aplicacions</string>
@@ -2349,7 +2349,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_light">Llum de notificació</string>
   <string name="miui_allow_music">Multimèdia</string>
   <string name="miui_allow_vibrate">Vibració</string>
-  <string name="miui_data_usage_menu_metered">Punt d\'accés mòbil</string>
+  <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
@@ -3577,7 +3577,7 @@ Per fer-ho:
   <string name="search_storage_settings">Esborra</string>
   <string name="search_sync_settings">Sincronització;Auto;Només per Wi-Fi</string>
   <string name="search_system_app_settings">Aplicacions del sistema</string>
-  <string name="search_tether">Tethering i; zona Wi-Fi;Hotspot;Personal Hotspot</string>
+  <string name="search_tether">Connexió compartida d\'Internet;Punt d\'accés Wi-Fi;Zona Wi-Fi,Punt d\'accés WLAN;WLAN</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Temes</string>
@@ -3608,12 +3608,12 @@ Per fer-ho:
   <string name="search_wifi_install_credentials">Instal·la certificats</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Directe</string>
   <string name="search_wifi_menu_wps_pin">Entrada de PIN WPS</string>
-  <string name="search_wifi_more_settings">Més;Mode avió;VPN;Techering i; portable hotspot;Pantalla sense fil;Dades mòbils internacionals;NFC;Android Beam;Secure element position</string>
+  <string name="search_wifi_more_settings">Més;Sense fils;Wi-Fi</string>
   <string name="search_wifi_scan_always_available">Escaneig sempre disponible</string>
   <string name="search_wifi_setting_frequency_band_title">Banda de freqüències Wi-Fi;Freqüència WiFi;Freqüència Wi-Fi;Freqüència Wifi;banda de freqüències</string>
   <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
-  <string name="search_wifi_tether_checkbox">Zona Wi-Fi</string>
-  <string name="search_wifi_tether_configure_ap_text">Configura zona Wi-Fi</string>
+  <string name="search_wifi_tether_checkbox">Punt d\'accés mòbil;punt d\'accés;mòbil</string>
+  <string name="search_wifi_tether_configure_ap_text">Configura el punt d\'accés mòbil;Configura el punt d\'accés;afegeix un punt d\'accés</string>
   <string name="search_wifi_wapi_cert_install">Instal·la el certificat WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Desinstal·la el certificat WAPI</string>
   <string name="search_wps_connect_title">Polsador WPS</string>
@@ -4208,8 +4208,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
-  <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés a internet</string>
-  <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre la funció Economitzador de dades està activada</string>
+  <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés personal</string>
+  <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
   <string name="tether_settings_launch_title">Punt d\'accés mòbil</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Connexió compartida per Bluetooth</string>
@@ -4402,7 +4402,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
-  <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'Economitzador de dades activat</string>
+  <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'estalvi de dades activat</string>
   <string name="unrestricted_app_title">Ús de dades sense restricció</string>
   <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
   <string name="untitled_apn">Sense nom</string>
@@ -4901,11 +4901,11 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_gateway">Passarel·la</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_hotspot_checkbox_text">Punt d\'accés Wi-Fi</string>
-  <string name="wifi_hotspot_checkbox_text_summary">Utilitza la connexió mòbil per a crear una xarxa Wi‑Fi</string>
+  <string name="wifi_hotspot_checkbox_text_summary">Utilitza la connexió mòbil per crear una xarxa Wi‑Fi</string>
   <string name="wifi_hotspot_configure_ap_text">Configuració del punt d\'accés Wi-Fi</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK punt d\'accés Wi-Fi Portàtil</string>
   <string name="wifi_hotspot_connect">CONNECTA</string>
-  <string name="wifi_hotspot_message">Heu d\'iniciar la sessió abans que %1$s és connecti a la xarxa.</string>
+  <string name="wifi_hotspot_message">Heu d\'iniciar la sessió abans que %1$s es connecti a la xarxa.</string>
   <string name="wifi_hotspot_title">Voleu iniciar la sessió?</string>
   <string name="wifi_in_airplane_mode">En mode d\'avió</string>
   <string name="wifi_install_credentials">Instal·la els certificats</string>
@@ -5214,9 +5214,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="xiaomi_cloud_service">Cloud Mi</string>
   <string name="xiaomi_money_service">Credit Mi</string>
   <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
-  <string name="xiaomi_router_available_notif_title">Router Mi disponible</string>
-  <string name="xiaomi_router_notif_summary">Avisa\'m quan un Router Mi estigui disponible</string>
-  <string name="xiaomi_router_notif_title">Notificació de Router Mi</string>
+  <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>
+  <string name="xiaomi_router_notif_summary">Avisa\'m quan un Mi Router estigui disponible</string>
+  <string name="xiaomi_router_notif_title">Notificació del Mi Router</string>
   <string name="xspace">Aplicacions duals</string>
   <string name="yes">Sí</string>
   <string name="zen_access_disabled_package_warning">Ha d\'estar activat perquè l\'accés a les notificacions també ho està</string>

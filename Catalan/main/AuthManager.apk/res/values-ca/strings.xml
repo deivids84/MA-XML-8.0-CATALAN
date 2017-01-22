@@ -21,7 +21,7 @@
   <string name="Dashboard_Perm_Header_Disabled">El monitor de permisos està desactivat</string>
   <string name="Dashboard_Perm_SU">Gestiona l\'accés d\'administrador</string>
   <string name="Dashboard_Perm_SU_Desc">S\'estan monitoritzant %1$d aplicacions amb accés d\'administrador</string>
-  <string name="Dashboard_Perm_SU_Disabled">Accés d\'administrador desactivat</string>
+  <string name="Dashboard_Perm_SU_Disabled">L\'accés d\'administrador està desactivat</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">L\'accés d\'administrador no està disponible a la versió estable de MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">«En concedir accés d\'administrador a aplicacions de tercers podeu ocasionar problemes d\'inestabilitat en el sistema, pèrdua de dades d\'usuari o danyar el maquinari.
 
@@ -246,9 +246,9 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Voleu concedir a %1$s accés d\'administrador?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Concedir accés d\'administrador a les aplicacions pot tornar el dispositiu inestable.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Les vostres dades són més vulnerables als atacs d\'aplicacions amb accés d\'administrador.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">"Les aplicacions amb accés d'administrador poden danyar el maquinari del dispositiu."</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">"Les aplicacions amb accés d'administrador poden malmetre el maquinari del dispositiu."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Concediu l\'accés d\'administrador sota la vostra responsabilitat.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Voleu concediu accés root a %1$s?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Voleu concedir accés d\'administrador a %1$s?</string>
   <string name="HIPS_SecurityPrompt_Reject">Denega (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Denega-ho una vegada (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">No m\'ho tornis a preguntar</string>

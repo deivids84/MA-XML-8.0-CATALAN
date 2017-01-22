@@ -142,8 +142,8 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="one">No es permet l\'enviament des d\' %d aplicació</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
-    <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'extensió Economitzador de dades és activat</item>
+    <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
+    <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
   </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositius</item>

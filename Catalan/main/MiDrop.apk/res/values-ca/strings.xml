@@ -58,7 +58,7 @@
   <string name="receiver_insufficient_storage">No hi ha prou espai</string>
   <string name="receiver_insufficient_storage_cannot_send">"No es pot enviar: no hi ha prou espai"</string>
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>
-  <string name="receiver_interrupt_summary_v21">"No apaguis el punt Wi-Fi mentre reps fitxers"</string>
+  <string name="receiver_interrupt_summary_v21">"No apaguis el punt d'accés Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_notification_turn_on">El receptor ha d\'engegar Mi Drop</string>
   <string name="receiver_notification_turn_on_help">Engega per trobar dispositius i enviar fitxers.</string>
   <string name="receiver_pic_file_current">Rebent %2$d imatge(s) de %1$s​…</string>
@@ -66,7 +66,7 @@
   <string name="receiver_reject">Rebutjar</string>
   <string name="receiver_succeed_ok">D\'acord</string>
   <string name="receiver_succeed_view">Mostra el fitxer</string>
-  <string name="receiver_transfer_interrupt">"Transferència interrompuda, no apaguis el punt Wi-Fi durant la transferència"</string>
+  <string name="receiver_transfer_interrupt">"Transferència interrompuda, no apaguis el punt d'accés Wi-Fi durant la transferència"</string>
   <string name="receiver_video_file_current">Rebent %2$d​ vídeo(s) de %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ vídeo(s) de %1$s</string>
   <string name="runtime_permission_ungranted">"No es pot utilitzar Mi Drop per manca de permisos"</string>

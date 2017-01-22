@@ -46,7 +46,7 @@
   <string name="sst_prov_enable_desc">Activa el carrusel dels fons de pantalla a la pantalla de bloqueig. Afegiu el fons de pantalla a la carpeta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="sst_prov_enable_title">Activa el carrusel de fons de pantalla</string>
   <string name="sst_require_one_category_hint">Si us plau, almenys subscriure\'s a un element</string>
-  <string name="sst_sti_desc">\"Estableix l\'interval de temps per canviar el fons</string>
+  <string name="sst_sti_desc">Estableix l\'interval de temps per canviar el fons</string>
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">Subscriure\'s</string>
   <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>

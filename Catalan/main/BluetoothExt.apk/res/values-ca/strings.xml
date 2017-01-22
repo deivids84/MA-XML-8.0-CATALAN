@@ -9,7 +9,7 @@
   <string name="bluetooth_mas_request">Sol·licitud d\'accés als missatges</string>
   <string name="bluetooth_remember_choice">Permet sempre</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s vol accedir a la targeta SIM. Voleu donar accés a %2$s?</string>
-  <string name="bluetooth_sap_request">Sol·licitud d\'accés a SAP</string>
+  <string name="bluetooth_sap_request">Sol·licitud d\'accés al SAP</string>
   <string name="defaultname">Equip per a l\'automòbil</string>
   <string name="dun_acceptance_timeout_message">S\'ha esgotat el temps per acceptar la connexió amb %1$s</string>
   <string name="dun_notif_message">Toqueu per connectar amb «%1$s».</string>
@@ -38,5 +38,5 @@
   <string name="sap_acceptance_timeout_message">S\'ha esgotat el temps per acceptar la connexió amb %1$s</string>
   <string name="sap_notif_message">Toqueu per connectar amb «%1$s».</string>
   <string name="sap_notif_ticker">Sol·licitud d\'accés Bluetooth a la SIM</string>
-  <string name="sap_notif_title">Sol·licitud de clau d\'accés a SAP</string>
+  <string name="sap_notif_title">Sol·licitud de clau d\'accés al SAP</string>
 </resources>

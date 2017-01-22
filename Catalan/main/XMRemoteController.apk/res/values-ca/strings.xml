@@ -579,7 +579,7 @@ ap arxiu d\'instal·lació</string>
   <string name="passport_bad_authentication">Nom d\'usuari o contrasenya no vàlid</string>
   <string name="passport_btn_return">Torna</string>
   <string name="passport_button_cancel">Cancel·la</string>
-  <string name="passport_change_account">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
+  <string name="passport_change_account">Canvia de compte</string>
   <string name="passport_change_phone_number">Bescanvia números</string>
   <string name="passport_checking_account">Comprovant contrasenya&#8230;</string>
   <string name="passport_checking_input">Comprovant entrada&#8230;</string>
@@ -620,7 +620,7 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">&lt;u&gt;Contrasenya oblidada&lt;/u&gt;</string>
+  <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén codi</string>
@@ -645,7 +645,7 @@ To activate your account, follow the
   <string name="passport_login_notice">Iniciant la sessió&#8230;</string>
   <string name="passport_login_short">Inicia la sessió</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
-  <string name="passport_login_with_email_or_id">&lt; u &gt; Inicieu la sessió amb un email o amb l\'identificador del compte Mi &lt;/u &gt;</string>
+  <string name="passport_login_with_email_or_id">Inicieu la sessió amb una adreça electrònica o amb l\'identificador del compte Mi</string>
   <string name="passport_next">Següent</string>
   <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
@@ -665,7 +665,7 @@ To activate your account, follow the
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_reg_type_email">Create account using email</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Create account using other ways&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways">Utilitzeu la vostra adreça electrònica o un número alternatiu</string>
   <string name="passport_reg_type_other_ways_title">Create account using other ways</string>
   <string name="passport_reg_using_other_phone">Register using other phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Register using other phone number"</string>
@@ -675,7 +675,7 @@ To activate your account, follow the
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Go to your inbox</string>
   <string name="passport_register_account_verified_confirm">You\'ve already verified your account</string>
-  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de email&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Crea un compte utilitzant una adreça electrònica</string>
   <string name="passport_register_restricted">Ja hi ha massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_reject_recycle_account">No</string>
