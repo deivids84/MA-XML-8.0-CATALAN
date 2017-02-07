@@ -52,7 +52,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Memòria cau</string>
-  <string name="activity_title_virus">Vírus</string>
+  <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Detalls de virus</string>
   <string name="activity_title_virus_settings">Configuració</string>
   <string name="activity_title_white_list">Excepcions</string>
@@ -174,9 +174,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
-  <string name="auto_task_operation_auto_brightness">Lluentor automàtica</string>
+  <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
-  <string name="auto_task_operation_brightness">Lluentor de la pantalla</string>
+  <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
   <string name="auto_task_operation_close">Desactivat</string>
   <string name="auto_task_operation_close_string">Desactiva %s</string>
   <string name="auto_task_operation_gps">GPS</string>
@@ -595,7 +595,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="item_install_monitor">Instal·lar monitor</string>
   <string name="item_mms">Filtra missatges no desitjats</string>
   <string name="item_usb_debug">Depuració USB</string>
-  <string name="item_virus">Vírus</string>
+  <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
@@ -1471,7 +1471,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
   <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>
   <string name="text_button">D\'acord</string>
-  <string name="text_day"></string>
   <string name="text_lock_info">Dibuixa un patró de desbloqueig</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
   <string name="third_application">Third party apps</string>

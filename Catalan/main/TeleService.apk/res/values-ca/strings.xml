@@ -388,8 +388,6 @@
   <string name="card_title_outgoing_barred">Trucades sortints restringides</string>
   <string name="card_title_redialing">Tornant a marcar</string>
   <string name="card_title_unconditionalCF">Desviament incondicional de trucades activat</string>
-  <string name="carrier_settings"></string>
-  <string name="carrier_settings_menu"></string>
   <string name="carrier_settings_title">Configuració de l\'operador</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Laboral</string>
@@ -438,8 +436,6 @@
   <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
   <string name="config_default_data_sim">Configuració</string>
-  <string name="config_dialing_emergency_number_suffix"></string>
-  <string name="config_world_mode"></string>
   <string name="confirmPin2Label">Confirmar nou PIN2</string>
   <string name="confirmPinLabel">Confirmeu el PIN nou</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
@@ -531,7 +527,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dialog_alert_title">Atenció</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
   <string name="dialpad_0_letters">+</string>
-  <string name="dialpad_1_letters"></string>
   <string name="dialpad_2_letters">ABC</string>
   <string name="dialpad_3_letters">DEF</string>
   <string name="dialpad_4_letters">GHI</string>
@@ -545,10 +540,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dialpad_ghi">GHI</string>
   <string name="dialpad_jkl">JKL</string>
   <string name="dialpad_mno">MNO</string>
-  <string name="dialpad_pound_letters"></string>
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_pqrs">PQRS</string>
-  <string name="dialpad_star_letters"></string>
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_tuv">TUV</string>
   <string name="dialpad_wxyz">WXYZ</string>
@@ -937,7 +930,6 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="notification_voicemail_title">Nou missatge de veu</string>
   <string name="notification_voicemail_title_count">Nou missatge de veu (%d)</string>
   <string name="number">Número</string>
-  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="ok">D\'acord </string>

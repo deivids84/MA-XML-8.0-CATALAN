@@ -5,6 +5,12 @@
   <string name="active_xiaomi_account">Actiu</string>
   <string name="active_xiaomi_account_msg">Per activar el vostre compte Mi, aneu a https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Activació del compte Mi</string>
+  <string name="alpha_apply">Inscriure\'s al programa de proves Beta</string>
+  <string name="alpha_cancel">Cancel·la la inscripció al programa de proves Beta</string>
+  <string name="alpha_cancel_cancel">Cancel·la</string>
+  <string name="alpha_cancel_confirm">Voleu cancel·lar el registre ara?</string>
+  <string name="alpha_cancel_ok">D\'acord</string>
+  <string name="alpha_no_network">Connecteu-vos a la xarxa per inscriure-us</string>
   <string name="app_name">Actualitzador</string>
   <string name="apply_title">S\'està actualitzant (%s)</string>
   <string name="apply_update_dialog_cancel_button">Cancel·la</string>
@@ -97,6 +103,7 @@
   <string name="loading">S\'està sol·licitant&#8230;</string>
   <string name="log_share">Comparteix</string>
   <string name="menu_more_button">Menú</string>
+  <string name="menu_title_apply_for_alpha">Inscriure\'s al programa de proves Beta</string>
   <string name="menu_title_current_version_log">"Novetats"</string>
   <string name="menu_title_download_current_rom">Baixa l\'actualització</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
@@ -117,8 +124,8 @@
   <string name="new_updates_found_notification_title">Actualització disponible</string>
   <string name="next">Següent</string>
   <string name="no_log">No hi ha cap resum disponible</string>
-  <string name="no_wifi_msg">"Utilitzar les dades mòbils per baixar l'actualització incrementarà molt l'ús d'aquestes. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
-  <string name="no_wifi_title">Alerta d\'ús de dades</string>
+  <string name="no_wifi_msg">Utilitzar les dades mòbils pot comportar despeses addicionals. Connecteu-vos a una xarxa Wi-Fi per baixar les actualitzacions.</string>
+  <string name="no_wifi_title">Connecteu-vos a una xarxa Wi-Fi</string>
   <string name="not_open">No</string>
   <string name="notification_auto_reboot_seccess_title">El dispositiu s\'ha actualitzat automàticament</string>
   <string name="notification_delay_update_button">Actualitza d\'aquí 2 hores</string>
@@ -219,7 +226,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="uncrypt_title">S\'està desxifrant (%s)</string>
   <string name="unkown_error_title">"No s'ha pogut baixar"</string>
   <string name="unstable_build">Inestable</string>
-  <string name="update_comment_hint"></string>
   <string name="update_comment_title">Comentari</string>
   <string name="update_downfull_no_info_sum">Espereu un minut o dos i torneu a provar-ho.</string>
   <string name="update_downfull_no_info_title">"No es pot baixar l'actualització"</string>

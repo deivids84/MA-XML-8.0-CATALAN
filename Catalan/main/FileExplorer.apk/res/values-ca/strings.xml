@@ -9,7 +9,7 @@
   <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment&#8230;</string>
   <string name="add_one">+1</string>
-  <string name="add_private">Amagar fitxers ara</string>
+  <string name="add_private">Amaga els fitxers ara</string>
   <string name="add_private_files">Afegir fitxers</string>
   <string name="album_creator">Creat per %s</string>
   <string name="album_name">Selecció diària: %s</string>
@@ -276,9 +276,8 @@
   <string name="login_expired">Sessió expirada, connectar-se de nou</string>
   <string name="login_failed_tip">"No s'ha pogut iniciar sessió, intentar de nou"</string>
   <string name="login_success_tip">Connectat satisfactòriament</string>
-  <string name="make_private">Amagar</string>
-  <string name="make_private_msg_1">Amagar aquest fitxer?</string>
-  <string name="make_private_msg_2">Amagar aquests fitxers?</string>
+  <string name="make_private">Amaga</string>
+  <string name="make_private_msg_1">Voleu amagar aquest fitxer?</string>
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="male">Home</string>
   <string name="megabyteShort">MB</string>

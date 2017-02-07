@@ -11,7 +11,7 @@
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
   <string name="backup_fail">"No s'ha pogut fer la còpia"</string>
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
-  <string name="backup_now">Fer la còpia ara</string>
+  <string name="backup_now">Fes ara la còpia de seguretat</string>
   <string name="backup_size">Mida: %s</string>
   <string name="backup_size_summary">Mida: %1$s</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
@@ -59,7 +59,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_share_activity_title">Millorar Compte Mi</string>
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
-  <string name="cloud_backup_detail_frequence_day">Copiar cada %1$s</string>
+  <string name="cloud_backup_detail_frequence_day">Copia cada %1$s</string>
   <string name="cloud_backup_detail_manage">Administrar còpies</string>
   <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
   <string name="cloud_backup_detail_state">Còpia de seguretat del Mi Cloud</string>

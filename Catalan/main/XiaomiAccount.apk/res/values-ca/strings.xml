@@ -80,7 +80,7 @@
   <string name="confirm_delete_device_message">"Després de suprimir aquest dispositiu, haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
   <string name="confirm_phone_number_dialog_message">El codi de verificació s\'enviarà a: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirmeu el número de telèfon</string>
-  <string name="confirm_unbind">Desvincular aquest compte?</string>
+  <string name="confirm_unbind">Voleu desvincular aquest compte?</string>
   <string name="continue_action">Continua</string>
   <string name="cta_declaration_agree_and_continue">D\'acord</string>
   <string name="cta_declaration_exit">Surt</string>
@@ -391,7 +391,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="trusted_browsers">Navegadors de confiança</string>
   <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar Troba el dispositiu"</string>
-  <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la informació del compte %s per accedir al vostre compte Mi."</string>
+  <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la vostra informació del compte %s per iniciar el vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
 · Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
 · Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar Troba dispositiu Mi

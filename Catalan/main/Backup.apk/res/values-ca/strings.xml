@@ -158,9 +158,9 @@
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restauració de dades</string>
   <string name="notif_trans_receiving_completed">Dades rebudes correctament</string>
-  <string name="notif_trans_receiving_failed">"Error en rebre les dades"</string>
+  <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
-  <string name="notif_trans_sending_failed">"Error en enviar les dades"</string>
+  <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="page_loading">Un moment&#8230;</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat&#8230;</string>
   <string name="progress_restore_hint">S\'està restaurant&#8230;</string>
@@ -340,7 +340,7 @@ i s\'ha activat Mi Mover"</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la descàrrega. Comproveu que el gestor de baixades funcioni correctament."</string>
+  <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

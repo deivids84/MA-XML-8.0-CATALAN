@@ -24,7 +24,7 @@
   <string name="cancel_stop">Continuar enviant</string>
   <string name="file_not_support">"Aquest tipus de fitxer no està suportat"</string>
   <string name="hello_world">Hola món!</string>
-  <string name="help">ajuda</string>
+  <string name="help">Ajuda</string>
   <string name="i_know">Ho tinc</string>
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
@@ -32,7 +32,7 @@
   <string name="intro_page2_choose_files">Tria els fitxers i toca \"Enviar\"</string>
   <string name="intro_page2_click_to_send">Toca \"Enviar\"</string>
   <string name="intro_page3_choose_midrop">Tria \"Mi Drop\"</string>
-  <string name="intro_page3_choose_midrop2">Els fitxers s\'enviaran immediatament</string>
+  <string name="intro_page3_choose_midrop2">Els fitxers s\'enviaran immediatament!</string>
   <string name="newText">Nou text</string>
   <string name="notif_receive_cancel">%1$s fitxer(s) no transferit(s)</string>
   <string name="notif_receive_lockscreen">Tocar per veure detalls</string>
@@ -43,7 +43,7 @@
   <string name="notif_send_progress">Enviant fitxer(s) a %1$s&#8230;</string>
   <string name="notif_send_success">Enviat(s) a %1$s</string>
   <string name="notif_send_success_multi">Enviat(s) a %1$d persona(s)</string>
-  <string name="receiver_accept">D\'acord </string>
+  <string name="receiver_accept">D\'acord</string>
   <string name="receiver_apk_file_current">Rebent %2$d aplicació(ns) de %1$s</string>
   <string name="receiver_apk_file_num">%2$d​ aplicació(ns) de %1$s</string>
   <string name="receiver_audio_file_current">Rebent %2$d cançó(ns) de %1$s​​…</string>

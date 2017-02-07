@@ -4,7 +4,6 @@
   <string name="app_name">Cerca</string>
   <string name="application_desc">Aplicació</string>
   <string name="applications_search_label">Aplicacions</string>
-  <string name="apps_search_activity"></string>
   <string name="baidu_search_url_from_default">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_input">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_launcher">https://www.google.com/search?q=%s</string>

@@ -34,12 +34,12 @@
     <item quantity="one">"%d dia "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d hores i "</item>
-    <item quantity="one">"%d hora i "</item>
+    <item quantity="other">"%d h "</item>
+    <item quantity="one">"%d h "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
-    <item quantity="other">"%d minuts "</item>
-    <item quantity="one">"%d minut "</item>
+    <item quantity="other">"%d min "</item>
+    <item quantity="one">"%d min "</item>
   </plurals>
   <plurals name="deep_clean_auto_memory_clean">
     <item quantity="other">En %1$d minuts</item>

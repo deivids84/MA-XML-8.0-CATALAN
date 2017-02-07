@@ -33,14 +33,10 @@
   <string name="close">Tanca</string>
   <string name="copyright">Drets d\'autor</string>
   <string name="date_picker_dialog_title">Defineix la data</string>
-  <string name="date_picker_label_day"></string>
-  <string name="date_picker_label_month"></string>
-  <string name="date_picker_label_year"></string>
   <string name="date_time_done">Fet</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="deselect_all">Anul·la la selecció</string>
   <string name="email">Adreça electrònica</string>
-  <string name="empty"></string>
   <string name="eras_ad">a.C.</string>
   <string name="eras_bc">d.C.</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>

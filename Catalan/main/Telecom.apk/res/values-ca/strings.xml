@@ -212,7 +212,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="no_vm_number">Falta el número de la bústia de veu</string>
   <string name="no_vm_number_msg">No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="non_primary_user">Només el propietari del dispositiu pot consultar i gestionar els números bloquejats.</string>
-  <string name="notification_component"></string>
   <string name="notification_missedCallTicker">Trucada perduda de %s</string>
   <string name="notification_missedCallTitle">Trucada perduda</string>
   <string name="notification_missedCall_call_back">Torna la trucada</string>
@@ -222,7 +221,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="notification_missedCallsTitle">Trucades perdudes</string>
   <string name="notification_missedWorkCallTitle">Trucada perduda de feina</string>
   <string name="notification_pullcall">Trucades secundàries</string>
-  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
@@ -252,7 +250,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="respond_via_sms_canned_response_4">"Ara no puc parlar. Truques després?"</string>
   <string name="respond_via_sms_confirmation_format">S\'ha enviat el missatge a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta ràpida</string>
-  <string name="respond_via_sms_setting_summary"></string>
   <string name="respond_via_sms_setting_title">Respostes ràpides</string>
   <string name="respond_via_sms_setting_title_2">Edició de les respostes ràpides</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>

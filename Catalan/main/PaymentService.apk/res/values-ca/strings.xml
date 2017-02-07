@@ -263,6 +263,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_security_setting">Configuració</string>
   <string name="mibi_shurtcut_create_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="mibi_sms_code_empty">Introduïu el codi de verificació enviat al telèfon.</string>
+  <string name="mibi_sms_code_error">Error del codi de verificació del telèfon mòbil, torneu a obtenir-lo</string>
   <string name="mibi_sms_code_hint">Introduïu codi de verificació de 3 a 6 dígits</string>
   <string name="mibi_string_with_bracket">(%s)</string>
   <string name="mibi_summary_bind_phone">Per garantir la seguretat del compte, completeu el pagament després de vincular el número de telèfon.</string>

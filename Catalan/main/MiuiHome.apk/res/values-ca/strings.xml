@@ -210,7 +210,6 @@
   <string name="pref_wallpaper_scroll_type_title">Alineació del fons de pantalla</string>
   <string name="preferences_general_title">Configuració addicional</string>
   <string name="preferences_title">Configuració del llançador</string>
-  <string name="process"></string>
   <string name="recommend_apps_default_title">Buit</string>
   <string name="recommend_apps_notice">Aplicacions recomanades</string>
   <string name="recommend_apps_notice_nodata">Aplicacions recomanades (sense dades)</string>
@@ -227,7 +226,6 @@
   <string name="settings">Configuració</string>
   <string name="settings_shortcut">Configuració</string>
   <string name="share">Comparteix</string>
-  <string name="sharedUserId"></string>
   <string name="show_all">Mostra-ho tot</string>
   <string name="sort_by_abc">Ordena pel nom</string>
   <string name="sort_by_frequency">Ordena per l\'ús</string>

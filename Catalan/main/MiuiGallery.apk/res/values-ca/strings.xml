@@ -131,7 +131,6 @@
   <string name="backuping">S\'està fent la còpia de seguretat %1$d/%2$d</string>
   <string name="begin_share">S\'ha creat l\'àlbum de nadó \"%s\". Ja el podeu compartir</string>
   <string name="begin_share_toast">Voleu crear un àlbum separat per aquest nen abans de compartir-lo?</string>
-  <string name="blank_app_name"></string>
   <string name="browse_category_title">Navegació</string>
   <string name="buy_member_tip">Fer-se membre</string>
   <string name="by_email">Correu electrònic</string>

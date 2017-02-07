@@ -44,8 +44,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
 Última copia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Copia quan estigui connectat a Wi-Fi un cop cada %1$s</string>
   <string name="cloud_back_up_remove_success">Copia de seguridad eliminada</string>
-  <string name="cloud_back_up_summary">Copiar quan estigui connectat al Wi-Fi</string>
-  <string name="cloud_back_up_title">Copiar dispositiu</string>
+  <string name="cloud_back_up_summary">Copia quan estigui connectat al Wi-Fi</string>
+  <string name="cloud_back_up_title">Còpia del dispositiu</string>
   <string name="cloud_backup_dialog_title">Còpia de seguretat amb Mi Cloud</string>
   <string name="cloud_find_device">Trobar dispositiu</string>
   <string name="cloud_restore_title">Restaurar des de còpia</string>
@@ -227,8 +227,6 @@ o eliminar el dispositiu."</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
-  <string name="micloud_first_login_summary"></string>
-  <string name="micloud_first_login_title"></string>
   <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
 D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
@@ -353,7 +351,6 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
  %s usats | %s restants"</string>
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">"Has arribat al teu límit d'emmagatzematge!"</string>
-  <string name="micloud_unlogin_for_time_summary"></string>
   <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
   <string name="micloud_upgrade_member">Aconsegueix més espai d\'emmagatzematge</string>
   <string name="micloud_upgrade_space">Aconsegueix més espai d\'emmagatzematge</string>
@@ -473,7 +470,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_item_sms_title">Sincronitzar missatges</string>
   <string name="sync_item_title">S\'estan sincronitzant elements</string>
   <string name="sync_off">Apagat</string>
-  <string name="sync_on">Ences</string>
+  <string name="sync_on">Activat</string>
   <string name="sync_resend_sms_dspt_provision">" Si canvia de targetes SIM, el seu operador pot cobrar pel missatge SMS utilitzat per reactivar aquest servei."</string>
   <string name="sync_sub_1_intl_sms">S\'enviaran missatges nacionals i internacionals per vincular la targeta SIM a aquest compte. Rebrà càrrecs de la seva companyia.</string>
   <string name="sync_sub_1_sms">S\'enviarà un SMS per vincular la seva SIM a aquest compte. Se li cobraran els costos de tarifa de la seva operadora.</string>
@@ -512,5 +509,4 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xmpp_server_addr"></string>
 </resources>

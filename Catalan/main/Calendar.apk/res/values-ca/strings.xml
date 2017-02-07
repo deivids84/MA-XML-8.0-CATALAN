@@ -42,7 +42,6 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Caducat</string>
   <string name="alert_title">Notificacions del calendari</string>
-  <string name="anniversary_metric"></string>
   <string name="anniversary_term">aniversari</string>
   <string name="app_label">Calendari</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
@@ -54,19 +53,14 @@
   <string name="birthday_event_description_days_ago">Fa %1$s dies de</string>
   <string name="birthday_event_description_days_later">Falten %1$s dies per</string>
   <string name="birthday_event_description_default">"%1$s de %2$s %3$s %4$s"</string>
-  <string name="birthday_event_description_detail_leap"></string>
-  <string name="birthday_event_description_detail_smart"></string>
   <string name="birthday_event_description_special">"%1$s és el %3$s %4$s %5$s de %2$s"</string>
   <string name="birthday_event_description_today">Avui és</string>
   <string name="birthday_event_description_tomorrow">Demà és</string>
   <string name="birthday_event_description_yesterday">Ahir va ser</string>
-  <string name="birthday_metric"></string>
-  <string name="birthday_notification_age_term"></string>
   <string name="birthday_notification_text_days_later">Falten %1$s dies per %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
   <string name="birthday_notification_title_days_later">"Aviat serà el %2$s de %1$s."</string>
   <string name="birthday_notification_title_today">"%3$s de %1$s"</string>
-  <string name="birthday_notification_type_term_lunar"></string>
   <string name="birthday_term">aniversari</string>
   <string name="book_card_free">Gratis</string>
   <string name="book_card_rating_text">|   %1$s opinions</string>
@@ -224,7 +218,6 @@
   <string name="horoscope_select_activity_label">Seleccioneu l\'horòscop</string>
   <string name="huangli_bad_type">Evita</string>
   <string name="huangli_good_type">Jo</string>
-  <string name="huangli_label"></string>
   <string name="image_content">Imatge</string>
   <string name="insert_event_dialog_btn_negative">No</string>
   <string name="insert_event_dialog_btn_positive">Sí</string>
@@ -250,8 +243,6 @@
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Configuració</string>
   <string name="menu_reminder_preferences">Recordatoris</string>
-  <string name="miui_chinese_week_range_double"></string>
-  <string name="miui_chinese_week_range_single"></string>
   <string name="miui_menu_create_event">Nou</string>
   <string name="modify_all">Canvia tots els esdeveniments de la sèrie</string>
   <string name="modify_all_following">Canvia aquest i tots els esdeveniments futurs</string>
@@ -363,7 +354,6 @@
   <string name="repeat_label_frequency">Freqüència</string>
   <string name="repeat_label_interval">Cada</string>
   <string name="repeat_label_week">Setmana</string>
-  <string name="repeat_lunar_yearly"></string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Repeteix</string>
   <string name="response_maybe">Potser</string>

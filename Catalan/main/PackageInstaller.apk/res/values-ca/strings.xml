@@ -197,7 +197,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="grant_dialog_button_deny_anyway">Rebutja igualment</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
-  <string name="help_app_permissions"></string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="home">Pàgina inicial de la configuració</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
@@ -291,7 +290,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="no_apps">Cap aplicació</string>
   <string name="no_new_perms">Aquesta actualització no demana cap permís nou.</string>
   <string name="no_permissions">Cap permís</string>
-  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="ok">D\'acord</string>

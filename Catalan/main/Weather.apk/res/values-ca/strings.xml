@@ -10,14 +10,11 @@
   <string name="act_weather_find_city_net_no_good">"No es pot connectar a la xarxa."</string>
   <string name="act_weather_find_city_no_result">No s\'ha trobat res</string>
   <string name="act_weather_find_city_searching">S\'està cercant&#8230;</string>
-  <string name="activity_alert_detail_title"></string>
   <string name="activity_find_city_dialog_cancel">Cancel·la</string>
   <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
-  <string name="activity_main_alert"></string>
   <string name="activity_main_clickable">&gt;</string>
-  <string name="activity_main_one_alert"></string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
@@ -25,9 +22,6 @@
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
-  <string name="ads_extension"></string>
-  <string name="ads_install_num"></string>
-  <string name="ads_score_title"></string>
   <string name="alert_warning">Alertes meteorològiques</string>
   <string name="already_voted">Ja heu votat</string>
   <string name="already_voted_toast">"Avui ja l'heu seleccionat"</string>
@@ -67,7 +61,6 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
-  <string name="daily_forcast_temperature_connect"></string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
@@ -106,10 +99,8 @@
   <string name="indices_title_visibility">Visibilitat</string>
   <string name="information_manager_information">Informació meteorològica</string>
   <string name="information_manager_wlan">Mostra quan estigui connectat al Wifi</string>
-  <string name="information_menu_title"></string>
   <string name="information_set">Configuració de la pàgina d\'inici</string>
   <string name="information_time_source">%1$s | %2$s</string>
-  <string name="information_views"></string>
   <string name="install">Instal·la</string>
   <string name="international_detail_menu_title">Detalls</string>
   <string name="international_details_pressure_title">PRESSIÓ</string>
@@ -122,7 +113,6 @@
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_management">Ubicacions</string>
   <string name="location_tag">Ubica</string>
-  <string name="lunar_calendar"></string>
   <string name="menu_add_city">Edita les ubicacions</string>
   <string name="menu_location">Ubicacions</string>
   <string name="mi_pad2">latte</string>
@@ -172,22 +162,9 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="traffic_control_today_numbers">Avui: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Demà: %1$s</string>
   <string name="traffic_controls">Restriccions de trànsit</string>
-  <string name="tts_report_aqi"></string>
-  <string name="tts_report_city_name"></string>
-  <string name="tts_report_defautl_head"></string>
-  <string name="tts_report_split"></string>
-  <string name="tts_report_temperature_high"></string>
-  <string name="tts_report_temperature_low"></string>
-  <string name="tts_report_weather_desc"></string>
-  <string name="tts_report_wind"></string>
-  <string name="twc_logo_title"></string>
   <string name="unit">Unitats</string>
   <string name="unit_temperature">Unitats de temperatura</string>
   <string name="unit_wind">Unitats de velocitat del vent</string>
-  <string name="video_dialog_no_play"></string>
-  <string name="video_dialog_play"></string>
-  <string name="video_dialog_subtitle"></string>
-  <string name="video_dialog_title"></string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>
   <string name="view_indexes_item_tommorrow">Demà</string>

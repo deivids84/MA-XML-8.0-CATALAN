@@ -101,7 +101,7 @@
   <string name="battery_low_title">Connecteu el carregador</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
   <string name="block_notification_content_text">"%1$s notificacions no es mostraran de nou. Podeu canviar això a la configuració."</string>
-  <string name="block_notification_text">Amagar</string>
+  <string name="block_notification_text">​​Amaga</string>
   <string name="block_record_notification_more_text">Ocultant notificacions de %1$s i %2$d aplicacions.</string>
   <string name="block_record_notification_text">Ocultant notificacions de %1$s.</string>
   <string name="block_record_notification_title">Notificacions ocultes</string>
@@ -370,7 +370,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="notification_otg_unknow_in">Dispositiu OTG connectat</string>
   <string name="notification_otg_unknow_out">Dispositiu OTG desconnectat</string>
   <string name="notification_template_text">"Nova notificació. Tocar per veure."</string>
-  <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="oldman_airplane_mode_text">avió</string>
@@ -492,7 +491,6 @@ d MMMM"</string>
   <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
   <string name="status_bar_recent_guide_top">Feu lliscar amunt per tancar</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
-  <string name="status_bar_recent_memory_info2"></string>
   <string name="status_bar_recording_back">Tornar a la Gravadora</string>
   <string name="status_bar_recording_pause">Gravadora en pausa</string>
   <string name="status_bar_safepay_risk">S\'han trobat riscos de pagament</string>

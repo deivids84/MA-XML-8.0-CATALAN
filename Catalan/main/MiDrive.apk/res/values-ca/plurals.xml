@@ -26,7 +26,7 @@
     <item quantity="one">%1$d fitxer pendent de transmetre</item>
   </plurals>
   <plurals name="numSelectedFile">
-    <item quantity="other">%1$d seleccionat</item>
+    <item quantity="other">%1$d seleccionats</item>
     <item quantity="one">%1$d seleccionat</item>
   </plurals>
   <plurals name="items_file">

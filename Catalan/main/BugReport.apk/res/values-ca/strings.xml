@@ -93,7 +93,7 @@
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
-  <string name="feedback_submit_hint">En Informar-nos d\'errors cada vegada que es troba amb problemes per ajudar-nos a resoldre\'ls amb més rapidesa.</string>
+  <string name="feedback_submit_hint">Informeu d\'errors cada vegada que tingueu algun problema per ajudar a resoldre\'ls més de pressa.</string>
   <string name="feedback_submit_hint1">"Us informarem sobre el progrés de l'informe"</string>
   <string name="feedback_submit_hint2">Aneu a «Els meus informes» per veure\'n els detalls</string>
   <string name="feedback_submit_succ">S\'ha enviat correctament</string>
@@ -188,12 +188,12 @@
   <string name="module_communication">Comunicació</string>
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>
-  <string name="module_finance">Finança i Cartera Mi</string>
+  <string name="module_finance">Finances i Mi Wallet</string>
   <string name="module_item_less">​​Amaga</string>
   <string name="module_item_more">Més</string>
   <string name="module_medias">Multimèdia</string>
   <string name="module_more">Més</string>
-  <string name="module_network">Xarxa i actualitzacions</string>
+  <string name="module_network">Xarxes i actualitzacions</string>
   <string name="module_search">Cerca</string>
   <string name="module_security">Seguretat i Mi Cloud</string>
   <string name="module_system">Sistema</string>
@@ -273,8 +273,8 @@
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
-  <string name="toast_post_deleted">"En aquest tema no existeix, s'ha eliminat o editat."</string>
-  <string name="toast_problem_class_required">Seleccioneu una categoria</string>
+  <string name="toast_post_deleted">"Aquest tema no existeix, s'ha eliminat o editat."</string>
+  <string name="toast_problem_class_required">Trieu una categoria</string>
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>

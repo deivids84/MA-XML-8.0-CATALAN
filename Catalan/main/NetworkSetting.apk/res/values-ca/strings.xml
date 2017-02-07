@@ -3,8 +3,6 @@
 <resources>
   <string name="apn_settings">Noms dels punts d\'accés</string>
   <string name="available_networks">Xarxes disponibles</string>
-  <string name="carrier_settings"></string>
-  <string name="carrier_settings_menu"></string>
   <string name="carrier_settings_title">Configuració de l\'operador</string>
   <string name="cdma_activate_device">Activació del dispositiu</string>
   <string name="cdma_lte_data_service">Configuració del servei de dades</string>
@@ -15,7 +13,6 @@
   <string name="cdma_system_select_dialogtitle">Selecció del sistema</string>
   <string name="cdma_system_select_summary">Canvia el mode d\'itinerància CDMA</string>
   <string name="cdma_system_select_title">Selecció del sistema</string>
-  <string name="config_world_mode"></string>
   <string name="connect_later">"No es pot connectar a aquesta xarxa. Torneu a provar-ho més tard."</string>
   <string name="dialog_message">Si sortiu s\'aturarà la cerca. N\'esteu segur?</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>

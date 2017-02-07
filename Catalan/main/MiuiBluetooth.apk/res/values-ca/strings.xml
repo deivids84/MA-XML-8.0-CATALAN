@@ -15,8 +15,8 @@
   <string name="bluetooth_disconnecting">S\'està desvinculant&#8230;</string>
   <string name="bluetooth_preference_connected_devices">Dispositius vinculats</string>
   <string name="bluetooth_preference_found_devices">Dispositius disponibles</string>
-  <string name="bluetooth_preference_scan_title">Cerca de dispositius</string>
-  <string name="bluetooth_search_for_devices">Cerca de dispositius</string>
+  <string name="bluetooth_preference_scan_title">Cercar dispositius</string>
+  <string name="bluetooth_search_for_devices">Cercar dispositius</string>
   <string name="device_picker">Configuració del Bluetooth</string>
   <string name="disconnect">Desvincula</string>
   <string name="goto_package">Obre %1$s</string>
@@ -29,13 +29,13 @@
   <string name="mi_band_vibrate_sms_in_contacts">Missatges dels contactes</string>
   <string name="mi_band_vibrate_sms_no_contacts">Missatges dels números desconeguts</string>
   <string name="mi_key_alert_dialog_message">Premeu \"D\'acord\" per silenciar l\'alarma.</string>
-  <string name="mi_key_alert_dialog_title">Alarma de Mi Key</string>
-  <string name="mi_key_find_mikey">Troba la Mi Key</string>
+  <string name="mi_key_alert_dialog_title">Alarma de Mi-Key</string>
+  <string name="mi_key_find_mikey">Troba la Mi-Key</string>
   <string name="mi_key_find_phone">Troba el dispositiu</string>
   <string name="mi_key_open_camera">Obre la càmera</string>
-  <string name="mi_key_summary_find_phone">Manteniu premuda Mi Key per fer-lo sonar</string>
-  <string name="mi_key_summary_open_camera">Feu doble clic a la Mi Key per obrir la càmera</string>
-  <string name="mi_key_summary_take_photo">Feu clic a la Mi Key per fer una foto</string>
+  <string name="mi_key_summary_find_phone">Manteniu premuda la Mi-Key per fer-lo sonar</string>
+  <string name="mi_key_summary_open_camera">Feu doble clic a la Mi-Key per obrir la càmera</string>
+  <string name="mi_key_summary_take_photo">Feu clic a la Mi-Key per fer una foto</string>
   <string name="mi_key_take_photo">Fes una foto</string>
   <string name="notify_device_lose_connection_text">Premeu per desvincular %1$s</string>
   <string name="notify_device_lose_connection_title">S\'ha perdut la connexió amb %1$s</string>
@@ -46,5 +46,5 @@
   <string name="unbind_device_alert_cancel">Cancel·la</string>
   <string name="unbind_device_alert_content">S\'ha perdut la connexió amb %1$s. Per estalviar bateria, desvinculeu aquest dispositiu.</string>
   <string name="unbind_device_alert_ok">Desvincula</string>
-  <string name="unbind_device_alert_title">Desvincula</string>
+  <string name="unbind_device_alert_title">Desvincula el dispositiu</string>
 </resources>

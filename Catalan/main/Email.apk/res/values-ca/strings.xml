@@ -355,7 +355,6 @@
   <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
-  <string name="email_feedback_uri"></string>
   <string name="email_setting">Correu</string>
   <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
   <string name="empty_account_tip">"No es pot trobar el compte"</string>
@@ -465,7 +464,7 @@
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
   <string name="info_actionbar_normal_detail">Detalls</string>
-  <string name="info_item_hide">Amagar</string>
+  <string name="info_item_hide">Amaga</string>
   <string name="info_switch_summary">Vista superior de notícies</string>
   <string name="info_switch_title">Notícies de la safata d\'entrada</string>
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
@@ -705,7 +704,6 @@
   <string name="policy_text_truncation">Restringeix la mida del text email</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>
-  <string name="preference_imap_tips"></string>
   <string name="preference_pop_tips">Els adjunts es baixaran amb el contingut del correu ja que el protocol POP3 ho requereix obligatòriament. Aneu amb compte si feu servir les dades mòbils.</string>
   <string name="preference_sender_image_description">"Mostrar al costat del nom a la llista de conversa"</string>
   <string name="preference_sender_image_title">Imatge del remitent</string>
@@ -849,7 +847,6 @@
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
   <string name="set_network">Definir xarxa</string>
-  <string name="setting_default_lable"></string>
   <string name="settings_activity_title">Configuració</string>
   <string name="share_choose">Triar fitxer a compartir</string>
   <string name="sharing">Compartir</string>
@@ -932,10 +929,6 @@
   <string name="upload_logs">Puja els registres</string>
   <string name="uploading_logs">Un moment&#8230;</string>
   <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
-  <string name="veiled_address"></string>
-  <string name="veiled_alternate_text"></string>
-  <string name="veiled_alternate_text_unknown_person"></string>
-  <string name="veiled_summary_unknown_person"></string>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
   <string name="wait_for_manual_sync_body">\"Aquest compte no està configurat per sincronitzar automàticament. 
