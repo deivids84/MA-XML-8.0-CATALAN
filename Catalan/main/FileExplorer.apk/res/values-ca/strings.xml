@@ -278,6 +278,7 @@
   <string name="login_success_tip">Connectat satisfactòriament</string>
   <string name="make_private">Amaga</string>
   <string name="make_private_msg_1">Voleu amagar aquest fitxer?</string>
+  <string name="make_private_msg_2">Voleu amagar aquests fitxers?</string>
   <string name="make_private_msg_3">Tots els fitxers en aquesta carpeta estaran ocults.</string>
   <string name="male">Home</string>
   <string name="megabyteShort">MB</string>

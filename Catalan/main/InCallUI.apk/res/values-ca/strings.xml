@@ -61,7 +61,7 @@
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
-  <string name="card_title_hanging_up">"Penjant "</string>
+  <string name="card_title_hanging_up">"S'està penjant... "</string>
   <string name="card_title_in_call">A la trucada</string>
   <string name="card_title_in_call_short">A la trucada</string>
   <string name="card_title_incoming_call">Trucada entrant</string>

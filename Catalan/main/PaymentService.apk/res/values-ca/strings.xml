@@ -89,6 +89,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_error_recharge_process_fail">El procés de recàrrega falla.</string>
   <string name="mibi_error_recharge_result_fail">La recàrrega no ha acabat bé.</string>
   <string name="mibi_error_recharge_result_uncertain">El resultat de la recàrrega és incert.</string>
+  <string name="mibi_error_recharge_success_pay_fail">El procés de recàrrega falla.</string>
   <string name="mibi_error_server_summary">Error al servidor. Torneu-ho a provar més tard</string>
   <string name="mibi_error_user_id_mismatch_summary">Comproveu i torneu a iniciar la sessió al vostre compte</string>
   <string name="mibi_error_web_summary">Error del servidor</string>

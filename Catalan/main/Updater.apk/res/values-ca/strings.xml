@@ -8,7 +8,7 @@
   <string name="alpha_apply">Inscriure\'s al programa de proves Beta</string>
   <string name="alpha_cancel">Cancel·la la inscripció al programa de proves Beta</string>
   <string name="alpha_cancel_cancel">Cancel·la</string>
-  <string name="alpha_cancel_confirm">Voleu cancel·lar el registre ara?</string>
+  <string name="alpha_cancel_confirm">Voleu cancel·lar la inscripció?</string>
   <string name="alpha_cancel_ok">D\'acord</string>
   <string name="alpha_no_network">Connecteu-vos a la xarxa per inscriure-us</string>
   <string name="app_name">Actualitzador</string>
