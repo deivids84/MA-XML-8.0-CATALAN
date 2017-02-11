@@ -27,7 +27,7 @@
   <string name="ok_enable_network_prov">D\'acord</string>
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
-  <string name="ok_network">D\'acord i activar pantalles de bloqueig diàries</string>
+  <string name="ok_network">D\'acord, i activar pantalles de bloqueig diàries</string>
   <string name="platform_unavailable_qq">instal·leu QQ</string>
   <string name="platform_unavailable_qzone">instal·leu Qzone</string>
   <string name="platform_unavailable_wechat">instal·leu WeChat</string>
@@ -50,7 +50,7 @@
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">Subscriure\'s</string>
   <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>
-  <string name="sst_wifi_only_title">Activa descarrega d\'imatges amb la connexió mobil</string>
+  <string name="sst_wifi_only_title">Activa la descàrrega d\'imatges amb la connexió mobil</string>
   <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
   <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>
   <string name="theme_apply_failured">"No es pot aplicar la pantalla de bloqueig"</string>

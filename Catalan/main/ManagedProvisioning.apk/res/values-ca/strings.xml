@@ -79,7 +79,7 @@
   <string name="suw_more_button_label">Més</string>
   <string name="suw_next_button_label">Següent</string>
   <string name="the_following_is_your_mdm">La següent aplicació haurà d\'accedir a aquest perfil:</string>
-  <string name="the_following_is_your_mdm_for_device">La següent aplicació administrarà el dispositiu:</string>
+  <string name="the_following_is_your_mdm_for_device">La següent aplicació administrarà el vostre dispositiu:</string>
   <string name="theft_protection_disabled_warning">Si continueu, no s\'habilitaran les funcions contra robatori. Per activar la protecció contra robatori, cancel·leu ara i instal·leu això com un dispositiu personal.</string>
   <string name="user_cannot_have_work_profile">Aquest usuari no pot tenir un perfil de treball</string>
   <string name="user_consent_msg">Ho consenteixo</string>

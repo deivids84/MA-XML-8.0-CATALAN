@@ -393,6 +393,7 @@
   <string name="theme_user_agreement_remind_summary">Mostra les condicions d\'ús cada vegada que obris l\'aplicació Temes. S\'aplicarà després de reiniciar el dispositiu.</string>
   <string name="theme_user_agreement_title">Condicions d\'ús</string>
   <string name="theme_yes">Sí</string>
+  <string name="third_party_pickers_activity_title">Afegeix %1$s</string>
   <string name="title_component">Personalitza el tema</string>
   <string name="title_my_audio_resource">Els meus tons</string>
   <string name="title_my_wallpaper_resource">Els meus fons de pantalla</string>

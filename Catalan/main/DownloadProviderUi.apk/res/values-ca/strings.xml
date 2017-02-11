@@ -9,6 +9,7 @@
   <string name="Only_the_wifi">Utilitzar només Wi-Fi</string>
   <string name="about">Quant a</string>
   <string name="action_settings">Configuració</string>
+  <string name="ad_install">Instal·la</string>
   <string name="ad_mark">ANUNCI</string>
   <string name="ad_title">La gent també va baixar aquests amb %1$s</string>
   <string name="ad_title_other">Les persones que van baixar aquesta imatge també van baixar</string>
@@ -54,6 +55,8 @@
   <string name="deselect_all">Desseleccionar tot</string>
   <string name="deselect_subfile_all">Desseleccionar tot</string>
   <string name="determine">D\'acord</string>
+  <string name="dialog_btn_cancel">Cancel·la</string>
+  <string name="dialog_btn_ok">D\'acord</string>
   <string name="dialog_btn_ok_disabled_net">Configuració de xarxa</string>
   <string name="dialog_cannot_resume">Baixada interrompuda. No es pot reprendre.</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar també fitxers locals</string>
@@ -67,10 +70,12 @@
   <string name="dialog_insufficient_space_on_external">No es pot finalitzar la baixada. No hi ha prou espai en l\'emmagatzematge extern.</string>
   <string name="dialog_media_not_found">No es pot baixar. Els mitjans externs no estan disponibles.</string>
   <string name="dialog_msg_disabled_net">%1$s baixades restringides a la xarxa actual. Toqueu la Configuració de xarxa per anar a l\'aplicació de seguretat.</string>
+  <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades després de desactivar-les. Podeu seleccionar \"Carrega quan estigui connectat a Wi-Fi\" per estalviar dades mòbils."</string>
   <string name="dialog_queued_body">Aquest fitxer es posa en cua per baixar-lo més tard.</string>
   <string name="dialog_title_disabled_net">Accés a Internet</string>
   <string name="dialog_title_not_available">Baixada fallida</string>
   <string name="dialog_title_queued_body">El fitxer encara no està disponible</string>
+  <string name="dialog_title_recommend">Desactiva les fonts recomanades</string>
   <string name="disable">Desactivar</string>
   <string name="display_expire_netiv1">Aquest mes</string>
   <string name="do_not_support_url">"Aquest tipus d'URL no està suportat"</string>

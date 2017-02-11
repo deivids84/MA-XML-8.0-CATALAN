@@ -161,9 +161,9 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_text">Afegiu una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
   <string name="add_virtual_keyboard">Gestiona els teclats</string>
-  <string name="adding_profile_owner_warning">«Si continueu, l\'Administrador podrà emmagatzemar dades complementàries i personals.
+  <string name="adding_profile_owner_warning">«Si continueu, el vostre usuari serà gestionat per l\'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
-L\'Administrador pot supervisar i administrar la configuració. També pot gestionar l\'accés a les aplicacions i a les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació.»</string>
+L\'Administrador pot supervisar i administrar la configuració, els accessos, les aplicacions i les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació.»</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="additional_permissions_more">%1$d més</string>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>

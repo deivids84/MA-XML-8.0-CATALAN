@@ -128,7 +128,7 @@
   <string name="power_event_view_event_title">Disparadors</string>
   <string name="power_hide_mode_app_list_summary">Configuració d\'aplicació</string>
   <string name="power_hide_mode_summary">"Estalvia bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
-  <string name="power_hide_mode_title">"Administrar ús de bateria d'aplicacions"</string>
+  <string name="power_hide_mode_title">"Gestiona l'ús de bateria de les aplicacions"</string>
   <string name="power_keeper">Estalvi de bateria</string>
   <string name="power_mode_cpu_state_high">Rendiment</string>
   <string name="power_mode_cpu_state_high_desc">Prioritzar rendiment sobre durada de bateria</string>

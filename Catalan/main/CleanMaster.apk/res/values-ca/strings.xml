@@ -421,7 +421,7 @@
   <string name="title_of_traffic_notification">Barra d\'estadístiques de dades</string>
   <string name="title_optimizer">Termes i condicions</string>
   <string name="title_share_link">Compartir URL</string>
-  <string name="toast_add_white_list_success">" afegit a excepcions"</string>
+  <string name="toast_add_white_list_success"> afegit a excepcions</string>
   <string name="toast_app_no_residual_on_sdcard">"L'aplicació no té cap fitxer emmagatzemat en la SD"</string>
   <string name="toast_backup_is_running">La còpia de seguretat ja s\'està executant. Espereu un moment i torneu-ho a provar</string>
   <string name="toast_backup_uninstall_failed">"No s'ha pogut fer còpia de seguretat de %d aplicacions"</string>
@@ -433,7 +433,7 @@
   <string name="toast_must_select_before_restore">Escolliu fotos a restaurar</string>
   <string name="toast_network_eror">"No es pot connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació es pot connectar a internet</string>
-  <string name="toast_removed_from_white_list">" tret de les excepcions"</string>
+  <string name="toast_removed_from_white_list"> tret de les excepcions</string>
   <string name="toast_resolve_apk_error">Resoldre error d\'apk</string>
   <string name="toast_scaning_similar_image">S\'estan comprovant les fotos&#8230;</string>
   <string name="toast_select_image_need_delete">Seleccioneu fotos a eliminar</string>

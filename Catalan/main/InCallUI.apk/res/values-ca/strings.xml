@@ -38,7 +38,6 @@
   <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
   <string name="call_description_recording">S\'està enregistrant&#8230;</string>
   <string name="call_extension_conference_mode">Mode conferència</string>
-  <string name="call_record_button_label">S\'està enregistrant %s</string>
   <string name="call_record_wait_label">S\'està esperant</string>
   <string name="call_recording_deny_permission_msg">"Vau denega el permís d'enregistrament, no es pot enregistrar."</string>
   <string name="call_recording_error_low_storage">No hi ha prou espai a la targeta SD</string>

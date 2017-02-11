@@ -257,7 +257,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="expanded_confirm_disable_notification">Amaga</string>
-  <string name="expanded_notification_manager">Administrar notificacions</string>
+  <string name="expanded_notification_manager">Gestiona les notificacions</string>
   <string name="ext_media_badremoval_notification_message">Desmunta la targeta SD abans de treure-la per evitar la pèrdua de dades.</string>
   <string name="ext_media_badremoval_notification_title">Targeta SD extreta inesperadament</string>
   <string name="ext_media_checking_notification_message">Comprovar errors.</string>
@@ -351,7 +351,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
-  <string name="notification_manager">Administrar notificacions</string>
+  <string name="notification_manager">Gestiona les notificacions</string>
   <string name="notification_manager_des">Filtrar i gestionar les notificacions</string>
   <string name="notification_otg_gamestick_in">Joystick/Pad connectat</string>
   <string name="notification_otg_gamestick_out">Joystick/Pad desconnectat</string>

@@ -29,7 +29,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="activity_title_antivirus">Escaneig de virus</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
   <string name="activity_title_auto_start_manager">Inici automàtic</string>
-  <string name="activity_title_create_shortcut">Administrar accessos directes</string>
+  <string name="activity_title_create_shortcut">Gestiona les dreceres</string>
   <string name="activity_title_deep_clean">Neteja intensiva</string>
   <string name="activity_title_default_apps_manager">Aplicacions per defecte</string>
   <string name="activity_title_garbage_cleanup">Netejador</string>
@@ -64,7 +64,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adb_login_xiaomi_account">Primer inicia la sessió al seu compte Mi</string>
   <string name="add_miservice_dialog_content">"%s us requereix perquè afegiu l'estructura de serveis MIUI a la llista d'excepcions. Pot rebre notificacions de les aplicacions MIUI incorporades i altres de tercers."</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
-  <string name="add_to_whitelist_button">Administrar llista de permeses</string>
+  <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
   <string name="add_white_list">Afegir</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
