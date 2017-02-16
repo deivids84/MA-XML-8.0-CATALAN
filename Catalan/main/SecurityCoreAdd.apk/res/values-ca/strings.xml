@@ -31,7 +31,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="confirm">Correcte</string>
   <string name="confirmClose">Apagar</string>
   <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
-  <string name="confirmDelete">Esborrar</string>
+  <string name="confirmDelete">Elimina</string>
   <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
   <string name="confirm_main_space_password">Confirmeu la contrasenya del Primer espai</string>
   <string name="confirm_restore">"No mostrar"</string>
@@ -47,14 +47,14 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="creating_app_icon">Creant icona&#8230;</string>
   <string name="dataSafe">Utilitzant el Segon espai és com tenir dos dispositius.</string>
   <string name="declare_dialog_title">Quant a les aplicacions duals</string>
-  <string name="deleteAll">Esborrar tot</string>
+  <string name="deleteAll">Elimina-ho tot</string>
   <string name="deleteDataConfirm">Se suprimiran tots els elements</string>
   <string name="deleteDataDes">"No heu seleccionat elements per moure'ls. No podreu restablir elements després que hagin estat eliminats."</string>
   <string name="delete_fingerprint">Suprimeix l\'empremta</string>
   <string name="delete_fingerprint_desc">L\'empremta del Segon espai s\'esborrarà juntament amb la contrasenya</string>
   <string name="delete_phone_fingerprint">Esborrar l\'empremta del Segon espai</string>
   <string name="delete_src_file">Esborrar els arxius</string>
-  <string name="delete_src_photo">Esborrar les fotos</string>
+  <string name="delete_src_photo">Elimina les fotos</string>
   <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
   <string name="disable">Apagar</string>
   <string name="dont_import">Ara no</string>

@@ -6,7 +6,7 @@
   <string name="mibi_balance_title">Saldo</string>
   <string name="mibi_bill_delete_dialog_title">Suprimeix %1$s</string>
   <string name="mibi_bill_delete_message">Voleu suprimir \"%1$s\"?</string>
-  <string name="mibi_bill_menu_delete_item">Suprimeix</string>
+  <string name="mibi_bill_menu_delete_item">Elimina</string>
   <string name="mibi_bill_record_empty">No hi han moviments.</string>
   <string name="mibi_btn_agree">D\'acord</string>
   <string name="mibi_btn_back">Torna</string>

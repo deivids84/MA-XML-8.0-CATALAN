@@ -87,7 +87,7 @@
   <string name="cta_declaration_message">"En registrar-vos al vostre compte de Mi, necessitareu connectar a internet. S'activaran els serveis d'ubicació i la sincronització amb Mi Cloud. Per poder fer una còpia de seguretat de les vostres dades, aquest aplicació necessita accedir els vostres contactes, missatges, historial de trucades i enregistraments. No s'utilitzaran les vostres dades amb finalitats comercials ni es compartiran amb terceres parts. Després de registrar-vos al vostre compte Mi, Mi VIP i els serveis Mi es connectaran a internet."</string>
   <string name="cta_declaration_title">Termes i condicions</string>
   <string name="current_location_title">Ubicació actual</string>
-  <string name="delete_action">Esborra</string>
+  <string name="delete_action">Elimina</string>
   <string name="delete_app">Esborra aplicació</string>
   <string name="delete_bank_card_message">Per seguretat, les dades de la vostra targeta s\'esborraran després que tanqueu la sessió</string>
   <string name="delete_bank_card_title">Esborrant les dades de la vostra targeta</string>

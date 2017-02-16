@@ -111,7 +111,7 @@
 4. Aquesta característica a connexió a internet per funcionar amb normalitat.\"</string>
   <string name="declaration_content_td_custom">Aquesta característica necessita connexió a internet per funcionar normalment.</string>
   <string name="defaults">Per defecte</string>
-  <string name="delete">Eliminar</string>
+  <string name="delete">Elimina</string>
   <string name="delete_action_text">Eliminar (%d)</string>
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">Voleu eliminar aquest element?</string>

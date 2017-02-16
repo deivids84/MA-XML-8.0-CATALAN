@@ -312,7 +312,7 @@
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
   <string name="del_account_questionnair_hint">"Ens podeu dir per què esteu eliminant aquest compte?"</string>
-  <string name="delete">Eliminar</string>
+  <string name="delete">Elimina</string>
   <string name="delete_message_flow">Elimina el flux de missatges</string>
   <string name="deleted">Eliminat</string>
   <string name="device_activity_btn_str">Activar</string>

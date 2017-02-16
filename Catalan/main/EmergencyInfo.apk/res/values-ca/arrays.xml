@@ -8,11 +8,11 @@
     <item>S\'està autenticant&#8230;</item>
     <item>S\'està obtenint l\'adreça IP&#8230;</item>
     <item>Connectat</item>
-    <item>Suspès</item>
+    <item>Suspesa</item>
     <item>S\'està desconnectant&#8230;</item>
-    <item>Desconnectat</item>
-    <item>Incorrecte</item>
-    <item>Boquejat</item>
+    <item>Desconnectada</item>
+    <item>Error</item>
+    <item>Boquejada</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
@@ -22,11 +22,11 @@
     <item>S\'està autenticant amb %1$s&#8230;</item>
     <item>S\'està obtenint l\'adreça IP des de %1$s&#8230;</item>
     <item>S\'ha connectat a %1$s</item>
-    <item>Suspès</item>
+    <item>Suspesa</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
-    <item>Desconnectat</item>
-    <item>Incorrecte</item>
-    <item>Boquejat</item>
+    <item>Desconnectada</item>
+    <item>Error</item>
+    <item>Boquejada</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
   <string-array name="hdcp_checking_titles">
@@ -40,7 +40,7 @@
     <item>Utilitza sempre la comprovació HDCP</item>
   </string-array>
   <string-array name="select_logd_size_titles">
-    <item>Apagat</item>
+    <item>Desactivat</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
@@ -48,13 +48,13 @@
     <item>16M</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>Inactiu</item>
+    <item>Desactivat</item>
     <item>64K</item>
     <item>256K</item>
     <item>1M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
-    <item>Inactiu</item>
+    <item>Desactivat</item>
     <item>64K per registre de memòria</item>
     <item>256K per registre de memòria</item>
     <item>1M per registre de memòria</item>
@@ -64,7 +64,7 @@
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
-    <item>Escala d\'animació 1 x</item>
+    <item>Escala d\'animació 1x</item>
     <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
@@ -73,7 +73,7 @@
   <string-array name="transition_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
-    <item>Escala d\'animació 1 x</item>
+    <item>Escala d\'animació 1x</item>
     <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
@@ -82,7 +82,7 @@
   <string-array name="animator_duration_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
-    <item>Escala d\'animació 1 x</item>
+    <item>Escala d\'animació 1x</item>
     <item>Escala d\'animació 1,5x</item>
     <item>Escala d\'animació 2x</item>
     <item>Escala d\'animació 5x</item>
@@ -100,84 +100,88 @@
     <item>4K (segur)</item>
     <item>4K (sobredimensionat)</item>
     <item>4K (sobredimensionat, segur)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>720p, 1080p (pantalla dual)</item>
+  </string-array>
+  <string-array name="overlay_display_devices_values">
+    <item></item>
+    <item>720x480/142</item>
+    <item>720x480/142,secure</item>
+    <item>1280x720/213</item>
+    <item>1280x720/213, segur</item>
+    <item>1920x1080/320</item>
+    <item>1920x1080/320, segur</item>
+    <item>3840x2160/320</item>
+    <item>3840x2160/320, segur</item>
+    <item>1920x1080/320|3840x2160/640</item>
+    <item>1920x1080/320 | 3840x2160/640, segur</item>
+    <item>1280x720/213;1920x1080/320</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
-    <item>None</item>
+    <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
-    <item>Call stack on glGetError</item>
+    <item>Pila de crides a glGetError</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Desactivat</item>
+    <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
+    <item>Ressalta en color verd les ordres de dibuix verificades</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_values">
+    <item>hide</item>
+    <item>regió</item>
+    <item>realça</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Desactivat</item>
+    <item>A la pantalla com barres</item>
+    <item>Volcat de sistema gfxinfo a la consola adb</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Desactivat</item>
+    <item>Mostra las àrees de sobregir</item>
+    <item>Mostra les àrees per Deuteranomaly</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Límit estàndard</item>
+    <item>Sense processos en segon pla</item>
+    <item>Com a molt 1 procés</item>
+    <item>Com a molt 2 processos</item>
+    <item>Com a molt 3 processos</item>
+    <item>Com a molt 4 processos</item>
   </string-array>
   <string-array name="usb_configuration_titles">
-    <item>Càrrega</item>
-    <item>MTP (Protocol de Transferència de Multimèdia)</item>
-    <item>PTP (Protocol de Transferència d\'Imatges)</item>
+    <item>S\'està carregant</item>
+    <item>MTP (Protocol de transferència de multimèdia)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>
   <string-array name="tts_rate_entries">
-    <item>Molt lent</item>
-    <item>Lent</item>
+    <item>Molt lenta</item>
+    <item>Lenta</item>
     <item>Normal</item>
-    <item>Ràpid</item>
-    <item>Més ràpid</item>
-    <item>Molt ràpid</item>
+    <item>Ràpida</item>
+    <item>Més ràpida</item>
+    <item>Molt ràpida</item>
     <item>Vertiginós</item>
     <item>Molt vertiginós</item>
-    <item>Màxima ràpidesa</item>
+    <item>La més ràpida</item>
   </string-array>
   <string-array name="color_mode_names">
     <item>Vibrant (per defecte)</item>
     <item>Natural</item>
-    <item>Estàndard</item>
+    <item>Normal</item>
   </string-array>
   <string-array name="color_mode_descriptions">
     <item>Colors millorats</item>
     <item>Colors naturals tal com els veu l\'ull</item>
     <item>Colors optimitzats per contingut digital</item>
   </string-array>
-  <string-array name="transport_types">
-    <item>UDP</item>
-    <item>TCP</item>
-  </string-array>
-  <string-array name="preferred_network_mode_choices_world_mode">
-    <item>Global</item>
-    <item>LTE/CDMA</item>
-    <item>LTE / GSM / UMTS</item>
-  </string-array>
-  <string-array name="clir_display_values">
-    <item>Network default</item>
-    <item>Hide number</item>
-    <item>Mostra el número</item>
-  </string-array>
-  <string-array name="list_language_entries">
-    <item>Anglès</item>
-    <item>Francès</item>
-    <item>Espanyol</item>
-    <item>Japonès</item>
-    <item>Coreà</item>
-    <item>Xinès</item>
-    <item>Hebreu</item>
-  </string-array>
-  <string-array name="cdma_system_select_choices">
-    <item>Només a casa</item>
-    <item>Automàtic</item>
-  </string-array>
-  <string-array name="cdma_subscription_choices">
-    <item>RUIM/SIM</item>
-    <item>NV</item>
-  </string-array>
-  <string-array name="uplmn_prefer_network_mode_td_choices">
-    <item>GSM</item>
-    <item>TD-SCDMA</item>
-    <item>LTE</item>
-    <item>Mode triple</item>
-  </string-array>
-  <string-array name="uplmn_prefer_network_mode_w_choices">
-    <item>GSM</item>
-    <item>WCDMA</item>
-    <item>LTE</item>
-    <item>Mode triple</item>
+  <string-array name="organ_donor_values">
+    <item>Sí</item>
+    <item>No</item>
+    <item></item>
   </string-array>
 </resources>

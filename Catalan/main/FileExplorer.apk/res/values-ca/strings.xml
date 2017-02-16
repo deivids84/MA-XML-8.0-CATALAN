@@ -143,14 +143,14 @@
   <string name="decrypt_to">Desxifrar i desa a&#8230;</string>
   <string name="decrypting">Desencriptant&#8230;</string>
   <string name="default_prize_text">Això va directament al meu tresor!</string>
-  <string name="delete_dialog_button">Eliminar</string>
+  <string name="delete_dialog_button">Elimina</string>
   <string name="delete_error">"No s'han pogut eliminar els fitxers, intenta-ho de nou"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
   <string name="delete_file_error">"No s'ha pogut eliminar el fitxer"</string>
   <string name="delete_files">Vols eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
   <string name="delete_folders">Vols eliminar %1$d carpeta(s)?</string>
-  <string name="delete_video">Eliminar</string>
+  <string name="delete_video">Elimina</string>
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
   <string name="delete_video_dialog_title">Esborrar vídeo</string>
   <string name="delete_video_success">Eliminat amb èxit</string>
@@ -376,7 +376,7 @@
   <string name="operation_create_folder_message">Nom de la carpeta</string>
   <string name="operation_decompressing">Extraient&#8230;</string>
   <string name="operation_del_fav">S\'està eliminant dels preferits&#8230;</string>
-  <string name="operation_delete">Eliminar</string>
+  <string name="operation_delete">Elimina</string>
   <string name="operation_delete_confirm_message">Eliminar?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
   <string name="operation_deleting">S\'està eliminant&#8230;</string>
@@ -621,7 +621,7 @@
   <string name="ui_main_toast_favorite_added">Marcat com a favorit</string>
   <string name="ui_main_toast_favorite_removed">Desmarcat de favorits</string>
   <string name="ui_main_toast_operation_failed">"No es pot desmarcar %1$s de favorits"</string>
-  <string name="unbind">Eliminar</string>
+  <string name="unbind">Elimina</string>
   <string name="unbind_account">Eiminar %s?</string>
   <string name="unbind_fail">"No s'ha pogut eliminar"</string>
   <string name="unbind_success">S\'ha eliminat satisfactòriament</string>

@@ -3,6 +3,8 @@
 <resources>
   <string name="admin_receiver_status_disable_warning">L\'administrador dels espais de seguretat es tornarà a activar més tard, quan siga i si fora necessari.</string>
   <string name="app_name">Agent d\'espais de seguretat</string>
+  <string name="btn_title_cancel">Cancel·la</string>
+  <string name="btn_title_force">Força</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
   <string name="dialog_download_space_cancel">Cancel·la</string>

@@ -20,7 +20,7 @@
   <string name="default_first_meat_user_name">Usuari principal</string>
   <string name="default_managed_profile_name">Perfil professional</string>
   <string name="default_owned_device_username">Dispositiu professional de l\'usuari</string>
-  <string name="delete_profile">SUPRIMEIX</string>
+  <string name="delete_profile">Elimina</string>
   <string name="delete_profile_title">Voleu suprimir el perfil professional?</string>
   <string name="device_owner_cancel_cancel">CANCEL·LA</string>
   <string name="device_owner_cancel_message">"Voleu parar de configurar el dispositiu i esborrar-ne les dades?"</string>

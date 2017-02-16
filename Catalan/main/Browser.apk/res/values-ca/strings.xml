@@ -735,7 +735,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_music">Música Mi</string>
-  <string name="suggest_item_delete_text">Esborra</string>
+  <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>

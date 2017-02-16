@@ -48,8 +48,8 @@
   <string name="copy_info">S\'ha copiat al porta-retalls. Podeu compartir-lo amb els amics!</string>
   <string name="creat_task_success">Afegit a cua de baixades</string>
   <string name="create_task">Crear tasca</string>
-  <string name="delete">Eliminar</string>
-  <string name="delete_download">Eliminar</string>
+  <string name="delete">Elimina</string>
+  <string name="delete_download">Elimina</string>
   <string name="delete_downloads_records">Elimina les baixades</string>
   <string name="delete_the_downloaded_file">S\'eliminaran els fitxers baixats.</string>
   <string name="deselect_all">Desseleccionar tot</string>

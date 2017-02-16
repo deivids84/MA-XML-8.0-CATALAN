@@ -116,7 +116,6 @@
   <string name="callrecordview_menu_delete_accepted">Esborra les trucades contestades</string>
   <string name="callrecordview_menu_delete_all">Esborra el registre de trucades</string>
   <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
-  <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Esborra les trucades perdudes</string>
   <string name="callrecordview_menu_delete_new">Esborrar registres de trucades a nous contactes</string>
   <string name="callrecordview_menu_delete_one">Eliminar del registre de trucades</string>
@@ -281,7 +280,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
   <string name="delete_contact_calllog_title">Esborrar registre de trucades?</string>
-  <string name="delete_dial_input">Eliminar</string>
+  <string name="delete_dial_input">Elimina</string>
   <string name="delete_duplicate">Combinar</string>
   <string name="delete_duplicate_message">"Combinant contactes… "</string>
   <string name="delete_group_dialog_message">Suprimeix el grup \"%1$s\", els contactes dins d\'ells no seran eliminats.</string>
@@ -596,7 +595,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="menu_bar_group_batch_edit">Contactes múltiples</string>
   <string name="menu_bar_group_batch_move">Moure al grup</string>
   <string name="menu_bar_group_batch_remove">Eliminar grup</string>
-  <string name="menu_bar_group_delete">Eliminar</string>
+  <string name="menu_bar_group_delete">Elimina</string>
   <string name="menu_bar_group_rename">Canviar el nom</string>
   <string name="menu_bar_group_ringtone">To de trucada de grup</string>
   <string name="menu_bar_group_ringtone_largeui">To de trucada</string>
@@ -822,7 +821,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="openDialKeyboard">Teclat</string>
   <string name="open_contact">Veure contacte</string>
   <string name="open_dial_pad_description">Obre el marcador</string>
-  <string name="option_delete_contact">Eliminar</string>
+  <string name="option_delete_contact">Elimina</string>
   <string name="option_delete_group">Eliminar</string>
   <string name="option_edit_contact">Editar</string>
   <string name="option_not_in_group">Treure</string>

@@ -1207,10 +1207,10 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="default_sound">So predeterminat</string>
   <string name="default_spell_checker">Corrector ortogràfic predeterminat</string>
   <string name="default_usb_mode">Connexió USB</string>
-  <string name="delete">Suprimeix</string>
+  <string name="delete">Elimina</string>
   <string name="delete_fingerprint_confirm_msg">Voleu suprimir les empremtes?</string>
   <string name="delete_fingerprint_text">Suprimeix les empremtes</string>
-  <string name="delete_legacy_fingerprint">Suprimeix</string>
+  <string name="delete_legacy_fingerprint">Elimina</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Voleu suprimir aquesta empremta?</string>
   <string name="delete_saved_network">Esborra les xarxes desades</string>
   <string name="demo_mode">Mode de demostració</string>
@@ -3250,7 +3250,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="save">Desa</string>
   <string name="saved_network">Desat per %1$s</string>
   <string name="saved_wifi">Xarxes desades</string>
-  <string name="saved_wifi_delete">Esborra</string>
+  <string name="saved_wifi_delete">Elimina</string>
   <string name="scan_list_label">Resultats de l\'escaneig:</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
@@ -3599,7 +3599,7 @@ Per fer-ho:
   <string name="security_settings_billing_desc">Pot ser que aquesta aplicació comporti càrrecs:</string>
   <string name="security_settings_desc">Aquesta aplicació pot accedir a:</string>
   <string name="security_settings_desc_multi">Aquesta aplicació obtindrà els permisos següents. Per millorar rendiment i reduir l\'ús de memòria, alguns d\'aquests permisos estaran disponibles per a %1$s perquè executa la mateixa tasca que %2$s:</string>
-  <string name="security_settings_fingerprint_enroll_dialog_delete">Suprimeix</string>
+  <string name="security_settings_fingerprint_enroll_dialog_delete">Elimina</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nom</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">D\'acord</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">A més de desbloquejar el telèfon, també podeu utilitzar l\'empremta per autoritzar compres i l\'accés a les aplicacions. &lt;annotation id=\"url\"&gt;Més informació&lt;/annotation&gt;</string>
@@ -4466,7 +4466,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_credential_title">Detalls de les credencials</string>
   <string name="user_credentials">Credencials d\'usuari</string>
   <string name="user_credentials_summary">Mostra i modifica les credencials emmagatzemades</string>
-  <string name="user_delete_button">Esborra</string>
+  <string name="user_delete_button">Elimina</string>
   <string name="user_delete_user_description">Suprimeix l\'usuari</string>
   <string name="user_dict_settings_add_dialog_confirm">D\'acord</string>
   <string name="user_dict_settings_add_dialog_less_options">Menys opcions</string>
@@ -4480,7 +4480,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_dict_settings_add_word_hint">Escriu una paraula</string>
   <string name="user_dict_settings_add_word_option_name">Paraula:</string>
   <string name="user_dict_settings_all_languages">Per a tots els idiomes</string>
-  <string name="user_dict_settings_context_menu_delete_title">Suprimeix</string>
+  <string name="user_dict_settings_context_menu_delete_title">Elimina</string>
   <string name="user_dict_settings_context_menu_edit_title">Edita</string>
   <string name="user_dict_settings_edit_dialog_title">Edita la paraula</string>
   <string name="user_dict_settings_empty_text">«No hi ha cap diccionari
@@ -5182,7 +5182,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_choose_rule_type">Tria el tipus de regla</string>
   <string name="zen_mode_configure_rule">Configura una regla</string>
   <string name="zen_mode_delete_rule">Suprimeix la regla</string>
-  <string name="zen_mode_delete_rule_button">Suprimeix</string>
+  <string name="zen_mode_delete_rule_button">Elimina</string>
   <string name="zen_mode_delete_rule_confirmation">Voleu suprimir la regla “%1$s”?</string>
   <string name="zen_mode_end_time">Hora de finalització</string>
   <string name="zen_mode_end_time_next_day_summary_format">%s de l\'endemà</string>

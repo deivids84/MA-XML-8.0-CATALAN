@@ -51,9 +51,9 @@
   <string name="copy_to_sdcard_fail">"No s'ha pogut desar fitxer adjunt"</string>
   <string name="copy_to_sdcard_success">Fitxer adjunt desat com a %s</string>
   <string name="current_service_number">número actual de servei</string>
-  <string name="delete">Suprimiu</string>
-  <string name="delete_message">Suprimiu</string>
-  <string name="delete_unlocked">Suprimiu els missatges bloquejats</string>
+  <string name="delete">Elimina</string>
+  <string name="delete_message">Elimina</string>
+  <string name="delete_unlocked">Elimina els missatges bloquejats</string>
   <string name="discard_message">Descarteu</string>
   <string name="discard_message_reason">El teu missatge es descartarà perquè té alguns destinataris no vàlids.</string>
   <string name="done">Fet</string>

@@ -9,7 +9,7 @@
   <string name="action_item_add_to_favorite_playlist">Llista de reproducció favorita</string>
   <string name="action_item_add_to_new_playlist">Nova</string>
   <string name="action_item_cancel">Cancel·la</string>
-  <string name="action_item_delete">Suprimeix</string>
+  <string name="action_item_delete">Elimina</string>
   <string name="action_item_download">Baixa</string>
   <string name="action_item_favorite">Preferit</string>
   <string name="action_item_follow">Segueix</string>
@@ -108,8 +108,8 @@
   <string name="current_version">Versió actual</string>
   <string name="data_usage_warning">Ús de dades</string>
   <string name="data_usage_warning_summary">En utilitzar la connexió de dades mòbils per escoltar retransmissions de música en alta qualitat pot augmentar els càrrecs per ús de dades.</string>
-  <string name="delete">Esborra</string>
-  <string name="delete_download">Esborra</string>
+  <string name="delete">Elimina</string>
+  <string name="delete_download">Elimina</string>
   <string name="delete_downloads_records">Esborra les baixades</string>
   <string name="delete_file_as_well">Esborra permanentment aquesta cançó</string>
   <string name="delete_file_end">Esborra permanentment</string>
@@ -747,7 +747,7 @@
   <string name="tos">Condicions del servei</string>
   <string name="track_list_control_download">Baixa</string>
   <string name="track_list_control_edit_add_tracks">Afegeix cançons</string>
-  <string name="track_list_control_edit_delete_playlist">Esborra</string>
+  <string name="track_list_control_edit_delete_playlist">Elimina</string>
   <string name="track_list_control_edit_rename_playlist">Canvia el nom</string>
   <string name="track_list_control_play">Reprodueix</string>
   <string name="track_main_fragment_tab_album">Àlbums</string>

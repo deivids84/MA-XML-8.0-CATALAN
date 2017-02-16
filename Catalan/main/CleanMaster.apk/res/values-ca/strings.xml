@@ -60,7 +60,7 @@
   <string name="button_text_cancel">Cancel·lar</string>
   <string name="button_text_cleanup">Neteja</string>
   <string name="button_text_delete_from_white_list">Elimina</string>
-  <string name="button_text_delete_pic">Esborra</string>
+  <string name="button_text_delete_pic">Elimina</string>
   <string name="button_text_deselect_all_photos">Desselecciona-ho tot</string>
   <string name="button_text_group_ignore">Ignora</string>
   <string name="button_text_group_unlike">No hi ha duplicades</string>
@@ -408,7 +408,7 @@
   <string name="title_auto_cleaner">Voleu netejar-lo automàticament?</string>
   <string name="title_delete_cache">Esborrar dades en memòria cau</string>
   <string name="title_delete_clipboard">Contingut del porta-retalls</string>
-  <string name="title_delete_deepclean">Esborra</string>
+  <string name="title_delete_deepclean">Elimina</string>
   <string name="title_delete_large_file">Elimina fitxers grans</string>
   <string name="title_of_app_manage">Aplicacions</string>
   <string name="title_of_auto_launch_manage">Inici automàtic</string>

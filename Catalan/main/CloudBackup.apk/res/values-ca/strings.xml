@@ -21,7 +21,7 @@
   <string name="btn_continue">Continua</string>
   <string name="btn_skip">Omet aquest pas</string>
   <string name="button_cancel">Cancel·la</string>
-  <string name="button_delete">Esborra</string>
+  <string name="button_delete">Elimina</string>
   <string name="button_next">Següent</string>
   <string name="can_not_backup_in_lite_mode">"No es pot fer una còpia de seguretat en el mode bàsic"</string>
   <string name="can_not_restore_in_lite_mode">"No es pot restaurar en mode bàsic"</string>
@@ -60,7 +60,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
   <string name="cloud_backup_detail_frequence_day">Copia cada %1$s</string>
-  <string name="cloud_backup_detail_manage">Administrar còpies</string>
+  <string name="cloud_backup_detail_manage">Administra còpies</string>
   <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
   <string name="cloud_backup_detail_state">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i configuració del sistema</string>
@@ -90,7 +90,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
   <string name="managespace_delete_backup">Esborra còpia de seguretat</string>
   <string name="managespace_total_space">Espai total: %s</string>
-  <string name="menu_item_managespace">Administrar espai</string>
+  <string name="menu_item_managespace">Gestiona l\'espai</string>
   <string name="menu_item_sort">Ordenar per</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Mida</string>
