@@ -86,8 +86,8 @@
     <item quantity="one">%1$d fitxer de WeChat Video expirarà</item>
   </plurals>
   <plurals name="backup_message_wechat_video">
-    <item quantity="other">"%1$d fitxers temporals de WeChat Video s'eliminaran, vols fer còpia?"</item>
-    <item quantity="one">"%1$d fitxer temporal de WeChat Video s'eliminara, vols fer còpia?"</item>
+    <item quantity="other">"%1$d fitxers temporals de WeChat Video s'eliminaran, voleu fer-ne còpies?"</item>
+    <item quantity="one">"%1$d fitxer temporal de WeChat Video s'eliminara, voleu fer-ne còpia?"</item>
   </plurals>
   <plurals name="file_notify_title_wechat_sticker">
     <item quantity="other">Avui, %1$d nous adhesius de WeChat</item>

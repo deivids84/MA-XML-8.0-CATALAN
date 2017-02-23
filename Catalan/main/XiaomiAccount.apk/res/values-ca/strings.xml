@@ -155,8 +155,6 @@
   <string name="micloud_space_info">%s disponibles</string>
   <string name="mili_center">Mi Credits</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="miui_provision_find_status_text">"Aquest dispositiu està associat amb un Compte Mi existent (%1$s), introduïu la contrasenya per verificar-lo. 
-(Número de desbloqueig: %2$s) "</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi del primer espai."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"Ara mateix, totes les dades es sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"No activis la sincronització amb Mi Cloud"</string>

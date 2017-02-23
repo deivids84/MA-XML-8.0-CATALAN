@@ -34,12 +34,14 @@
   <string name="pref_desc_last_applied_policy">Darrera política aplicada al dispositiu.</string>
   <string name="pref_desc_policy_delay">Endarreriment aplicat a cada element de la política.</string>
   <string name="pref_desc_sscm_address">Adreça del servidor SSCM</string>
+  <string name="pref_desc_sscm_force_connection">Activeu el websocket d\'SSCM per tornar-se connectar</string>
   <string name="pref_desc_sscm_mailbox">ID de la bustia en SSCM</string>
   <string name="pref_desc_sss_address">Adreça del servidor SSM</string>
   <string name="pref_title_in_progress_policy">Política en progrés</string>
   <string name="pref_title_last_applied_policy">Última política aplicada</string>
   <string name="pref_title_policy_delay">Política de retard</string>
   <string name="pref_title_sscm_address">Adreça SSCM</string>
+  <string name="pref_title_sscm_force_connection">Força la connexió SSCM</string>
   <string name="pref_title_sscm_mailbox">Id. de la bústia SSCM</string>
   <string name="pref_title_sss_address">Adreça SSMS</string>
   <string name="progress_notification_text">S\'està actualitzant l\'espai&#8230;</string>

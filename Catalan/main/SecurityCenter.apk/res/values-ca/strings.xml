@@ -600,11 +600,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
   <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
-  <string name="keywords_monthreport">Informe;Informe mensual;Informe anual;Informe de seguretat</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
-  <string name="keywords_permcenter">Automàtic;Permisos;ROOT;Ubicació;Accés a contactes</string>
   <string name="keywords_powercenter">Estalvi de bateria;Sobreescalfament;Engega;Apaga;Bateria;Consum excessiu</string>
   <string name="keywords_powercenter_powerrank">Ús de bateria</string>
   <string name="keywords_securitycenter">Seguretat;Comprovar;Escannejar</string>
@@ -637,7 +635,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
   <string name="lock_screen_warning_value">Advertiment d\'ús de dades</string>
-  <string name="lock_settings_title">Pantalla de bloqueig i contrasenya</string>
+  <string name="lock_settings_title">Bloqueig de pantalla i contrasenya</string>
   <string name="lockpassword_confirm_your_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirmeu el patró</string>
   <string name="lockpattern_confirm_button_text">D\'acord</string>
@@ -901,11 +899,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
   <string name="path_cleanmaster">Aplicacions del sistema/Seguretat/Netejador</string>
-  <string name="path_monthreport">Aplicacions del sistema/Seguretat</string>
   <string name="path_networkassistant_1">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_2">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
-  <string name="path_permcenter">Aplicacions del sistema/Seguretat/Permisos</string>
   <string name="path_powercenter">Aplicacions del sistema/Seguretat/Ús de bateria</string>
   <string name="path_powercenter_powerrank">Bateria i rendiment/Ús de bateria</string>
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
@@ -933,7 +929,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="permit_running_network">Dades en segon pla</string>
   <string name="person_hotpot">Punt d\'accés mòbil</string>
   <string name="pkg_traffic">Establir límit d\'ús de dades</string>
-  <string name="please_continue_keep">Mantén</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
   <string name="pm_auto_start_by_other_app">\"Permetre a l\'aplicació iniciï altres apps</string>
   <string name="pm_auto_start_by_system">Iniciar aplicacions</string>
@@ -1175,11 +1170,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
   <string name="resource_cleanmaster">Netejador</string>
-  <string name="resource_monthreport">Informe de seguretat</string>
   <string name="resource_networkassistant_1">Ús de dades</string>
   <string name="resource_networkassistant_2">Calibrar pla de dades</string>
   <string name="resource_networkassistant_4">Prova de xarxa</string>
-  <string name="resource_permcenter">Permisos</string>
   <string name="resource_powercenter">Estalvi de bateria</string>
   <string name="resource_powercenter_powerrank">Bateria i rendiment</string>
   <string name="resource_securitycenter">Seguretat</string>

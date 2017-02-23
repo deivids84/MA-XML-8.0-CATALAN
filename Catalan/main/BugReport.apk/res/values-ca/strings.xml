@@ -14,7 +14,6 @@
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
   <string name="bugreport_dump_start_notification_summary">Tardarà diversos minuts.</string>
   <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error&#8230;</string>
-  <string name="bugreport_feedback_from">De: %s</string>
   <string name="bugreport_tool_log">Crea un informe d\'error</string>
   <string name="bugreport_tool_log_toast">Registre desat a %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error (tardarà prop d\'un minut)</string>
@@ -83,6 +82,7 @@
   <string name="feedback_status_commit_failed_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_status_commit_succ_title">Enviat</string>
   <string name="feedback_status_commit_uploading_title">S\'està enviant&#8230;</string>
+  <string name="feedback_status_forum_reply">Respon</string>
   <string name="feedback_status_jira_comment">Afegeix un comentari</string>
   <string name="feedback_status_more">Detalls</string>
   <string name="feedback_status_processing">S\'està processant&#8230;</string>
@@ -90,6 +90,7 @@
   <string name="feedback_status_replyed">Respost</string>
   <string name="feedback_status_reresolved">Resolt</string>
   <string name="feedback_status_supplement">Descriviu el problema detalladament</string>
+  <string name="feedback_status_supplement_more">Afegeix un comentari</string>
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
@@ -222,6 +223,7 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
+  <string name="permission_granted">%1$s permís concedit</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
   <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
@@ -256,7 +258,9 @@
   <string name="tab_title_chat">PMF</string>
   <string name="tab_title_my_reports">Els meus informes</string>
   <string name="tab_title_report">Informes d\'error</string>
+  <string name="time_in_justnow">Ara mateix</string>
   <string name="title_answer_feedback_main">Hem trobat respostes!</string>
+  <string name="title_bbs_feedback_main">Més informació sobre sobre telèfons Mi</string>
   <string name="title_frequent_question_feedback_main">PMF</string>
   <string name="title_mi_family">Mi Homes propers</string>
   <string name="title_nonsystem_app">Altres aplicacions</string>
@@ -270,9 +274,11 @@
   <string name="toast_feedback_submitting">S\'està enviant&#8230;</string>
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
+  <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
+  <string name="toast_pic_not_exists">S\'ha suprimit la imatge en memòria cau</string>
   <string name="toast_post_deleted">"Aquest tema no existeix, s'ha eliminat o editat."</string>
   <string name="toast_problem_class_required">Trieu una categoria</string>
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>

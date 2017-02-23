@@ -14,6 +14,7 @@
   <string name="default_directory">Contactes</string>
   <string name="edit_contact">Afegeix al contacte</string>
   <string name="local_invisible_directory">Altres</string>
+  <string name="low_memory_toast">"No es pot seguir utilitzant per falta de memòria."</string>
   <string name="pound_search_tip">Introduïu un número després de # per cercar contactes</string>
   <string name="provider_label">Contactes</string>
   <string name="read_write_all_voicemail_description">Permet a l\'aplicació emmagatzemar i recuperar tots els missatges de veu als que pot accedir aquest dispositiu.</string>

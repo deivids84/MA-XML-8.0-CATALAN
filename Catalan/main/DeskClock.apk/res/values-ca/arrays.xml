@@ -30,6 +30,24 @@
     <item>De dilluns a divendres</item>
     <item>Personalitzat</item>
   </string-array>
+  <string-array name="aqi_value">
+    <item>Bona</item>
+    <item>Satisfactòria</item>
+    <item>Contaminació moderada</item>
+    <item>Pobra</item>
+    <item>Molt pobra</item>
+    <item>Perillosa</item>
+  </string-array>
+  <string-array name="weather_tips_value">
+    <item>Reduïu les activitats a l\'exterior</item>
+    <item>Les vies tenen poca adherència</item>
+    <item>El temps és tempestuós, aneu amb compte!</item>
+    <item>L\'aire està contaminat, protegiu-vos amb una màscara!</item>
+    <item>Agafeu un paraigües si heu de sortir</item>
+    <item>Aneu amb compte a la carretera</item>
+    <item>Una tempesta de sorra s\'acosta, protegiu-vos amb una màscara!</item>
+    <item>Que tingueu un bon dia!</item>
+  </string-array>
   <string-array name="alarm_set">
     <item>L\'alarma sonarà en menys d\'1 minut.</item>
     <item>L\'alarma sonarà en %1$s.</item>
@@ -61,7 +79,7 @@
   </string-array>
   <string-array name="volume_button_setting_entries">
     <item>Desactivats</item>
-    <item>Ajornar l\'alarma</item>
-    <item>Aturar l\'alarma</item>
+    <item>Postposa</item>
+    <item>Atura</item>
   </string-array>
 </resources>

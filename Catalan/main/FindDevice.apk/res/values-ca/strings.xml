@@ -45,6 +45,8 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="passport_verify">Verifica</string>
   <string name="password">Contrasenya</string>
   <string name="phone_locked">Pot ser que aquest dispositiu estigui associat amb un compte Mi existent (%s). Inicieu sessió per activar aquest dispositiu.</string>
+  <string name="phone_locked_account_email">, correu associat: %s</string>
+  <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
   <string name="stop_on_empty_captcha">"El captcha no pot estar buit"</string>
   <string name="stop_on_empty_password">"La contrasenya no pot estar buida"</string>
   <string name="time_correction_failure">"No es va poder corregir l'hora. %s"</string>

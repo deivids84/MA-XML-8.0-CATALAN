@@ -381,7 +381,7 @@
   <string name="menu_title_settings">Configuració</string>
   <string name="message_delete_playlist">Voleu eliminar la llista de reproducció %s?</string>
   <string name="metered_alert">Alerta d\'ús de dades</string>
-  <string name="metered_alert_msg">L\'ús de la xarxa de dades mòbils per escoltar música augmentarà l\'ús de dades. Si excediu el límit de dades contractats, la seva companyia podria cobrar-li despeses addicionals.</string>
+  <string name="metered_alert_msg">"L'ús de la xarxa de dades mòbils per escoltar música augmentarà l'ús de dades. Si excediu el límit de dades contractats, la seva companyia podria cobrar-li despeses addicionals."</string>
   <string name="metered_allow">Transmetre</string>
   <string name="metered_disallow">Cancel·la</string>
   <string name="metered_play_toast">Utilitzant la connexió de dades mòbils per transmetre</string>

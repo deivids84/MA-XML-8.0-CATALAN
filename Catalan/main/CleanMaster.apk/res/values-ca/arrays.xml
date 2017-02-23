@@ -50,10 +50,10 @@
     <item>Veure a la carpeta</item>
   </string-array>
   <string-array name="long_add_menu">
-    <item>Afegeix a excepcions</item>
+    <item>Afegeix a les excepcions</item>
   </string-array>
   <string-array name="long_add_app_menu">
-    <item>Afegeix l\'aplicació a excepcions</item>
+    <item>Afegeix l\'aplicació a les excepcions</item>
   </string-array>
   <string-array name="app_clean_menu">
     <item>Desinstal·la</item>
@@ -66,5 +66,15 @@
   <string-array name="scan_engine">
     <item>Clean Master</item>
     <item>Tencent</item>
+  </string-array>
+  <string-array name="wechat_menu_delete">
+    <item>Neteja</item>
+  </string-array>
+  <string-array name="wechat_menu_delete_whitelist">
+    <item>Neteja</item>
+  </string-array>
+  <string-array name="wechat_menu_delete_whitelist_view">
+    <item>Neteja</item>
+    <item>Veure</item>
   </string-array>
 </resources>

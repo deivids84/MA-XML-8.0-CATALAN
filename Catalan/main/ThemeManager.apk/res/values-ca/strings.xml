@@ -402,7 +402,6 @@
   <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
-  <string name="wallpaper_loading_text">Un moment&#8230;</string>
   <string name="wallpaper_set_as_both">Estableix els dos</string>
   <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>

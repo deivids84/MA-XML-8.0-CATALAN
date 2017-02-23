@@ -22,7 +22,7 @@
   <string name="delete_failed">"No es pot eliminar"</string>
   <string name="delete_failed_retry">"No s'ha pogut eliminar, espereu %1$s i torneu-ho a provar"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
-  <string name="delete_files">Eliminar %1$d fitxers?</string>
+  <string name="delete_files">Voleu eliminar %1$d fitxers?</string>
   <string name="delete_folder">Voleu eliminar aquesta carpeta?</string>
   <string name="delete_folders">Voleu eliminar %1$d carpetes?</string>
   <string name="delete_success">Fitxer suprimit</string>

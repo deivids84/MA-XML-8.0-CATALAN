@@ -32,6 +32,7 @@
   <string name="first_using_dialog_message">"La brúixola necessita utilitzar la connexió a la xarxa del dispositiu, la càmera i els serveis d'ubicació per funcionar amb normalitat."</string>
   <string name="first_using_dialog_title">Permís d\'accés</string>
   <string name="guide_toast">Per calibrar, moveu el telèfon com es mostra a continuació.</string>
+  <string name="keywords_search_compass">Brúixola; Calibra la brúixola;Pressió;Altitud; Latitud;Longitud;Comprova la longitud;Comprova la latitud;Brúixola MIUI; Aplicació de brúixola; Aplicació de brúixola MIUI;On és la brúixola;Baixa la brúixola; Pressió atmosfèrica;Comprova l\'altitud; Quina és l\'altura</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
   <string name="location_enable">Permet</string>

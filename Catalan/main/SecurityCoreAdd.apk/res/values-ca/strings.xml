@@ -5,9 +5,9 @@
   <string name="PassWordGuard">Contrasenya del segon espai</string>
   <string name="PrivacyContactDes1">"Els contactes es convertiran en privats.
 Els missatges només apareixeran en el Segon espai."</string>
-  <string name="PrivacyContactDes2">"Si vau utilitzar missatges privats en el Primer espai,
+  <string name="PrivacyContactDes2">"Si heu utilitzat missatges privats en el Primer espai,
 aquesta característica s\'afegirà al Segon espai automàticament."</string>
-  <string name="add_finger_print">Afegir empremta</string>
+  <string name="add_finger_print">Afegeix empremta</string>
   <string name="appData">Aplicacions instal·lades</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Enrere</string>
@@ -119,7 +119,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="notificationTitle">Drecera en l\'àrea de notificacions</string>
   <string name="notification_recommend_title">Primeres 12 aplicacions per al Segon espai</string>
   <string name="notification_setting_second_space">Configurar el Segon espai</string>
-  <string name="notification_setting_second_space_desc">Afegir contrasenya del Segon espai i moure dades</string>
+  <string name="notification_setting_second_space_desc">Afegeix la contrasenya del Segon espai i mou dades</string>
   <string name="ok_button">Correcte</string>
   <string name="openPasswordGuard">Establiu la contrasenya del Segon espai</string>
   <string name="openSuccess">Activat</string>

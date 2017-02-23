@@ -59,7 +59,7 @@
   </plurals>
   <plurals name="empty_folder_dialog_message">
     <item quantity="other">%1$d missatges s\'eliminaran permanentment.</item>
-    <item quantity="one">%1$d mensaje s\'eliminarà permanentment.</item>
+    <item quantity="one">%1$d missatge s\'eliminarà permanentment.</item>
   </plurals>
   <plurals name="move_conversation">
     <item quantity="other">Mou %1$d converses</item>

@@ -50,7 +50,7 @@
   <string name="accessibility_recent">Aplicacions recents</string>
   <string name="accessibility_recent_task_enter">Recentment obertes, aplicacions disponibles: %d.</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
-  <string name="accessibility_recent_task_first_enter_tips">Recentment obertes, aplicacions disponibles: %d. Feu lliscar cap amunt per eliminar-la, feu lliscar cap avall per bloquejar-la.</string>
+  <string name="accessibility_recent_task_first_enter_tips">Obertes fa poc, aplicacions disponibles: %d. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</string>
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
   <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toqueu dues vegades per netejar-la.</string>
   <string name="accessibility_recent_task_unlocked">Desbloquejada</string>

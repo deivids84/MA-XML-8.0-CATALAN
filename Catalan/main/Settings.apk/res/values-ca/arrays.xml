@@ -821,10 +821,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
     <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
   </string-array>
-  <string-array name="screen_resolution_entries">
-    <item>Molt alta (2K)</item>
-    <item>Normal (720p)</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>
@@ -863,6 +859,5 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Fitxers</item>
     <item>Notes</item>
-    <item>Mode infantil</item>
   </string-array>
 </resources>

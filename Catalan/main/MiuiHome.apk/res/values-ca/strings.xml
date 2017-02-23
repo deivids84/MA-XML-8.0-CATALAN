@@ -43,10 +43,6 @@
   <string name="cant_remove_retained_app">"No es pot desinstal·lar aquesta aplicació"</string>
   <string name="cant_remove_system_app">"No es pot desinstal·lar l'aplicació del sistema"</string>
   <string name="change_wallpaper">Canvia</string>
-  <string name="children_folder_title">Infants</string>
-  <string name="children_mode_exit">Surt</string>
-  <string name="children_mode_tips_message">No hi ha cap aplicació en mode d\'infants. Seleccioneu-ne una.</string>
-  <string name="children_mode_tips_title">Seleccioneu una aplicació</string>
   <string name="choose_wallpaper">Trieu un fons de pantalla</string>
   <string name="chooser_wallpaper">Trieu un fons de pantalla nou</string>
   <string name="cloud_app_restore_title">Pendent</string>
@@ -109,7 +105,6 @@
   <string name="gadget_calendar_label">Calendari</string>
   <string name="gadget_clear_button_label">Netejador</string>
   <string name="gadget_clock_12_label">Rellotge 2x1</string>
-  <string name="gadget_clock_22_label">Rellotge 2x2</string>
   <string name="gadget_clock_24_label">Rellotge 4x2</string>
   <string name="gadget_clock_label">Rellotge</string>
   <string name="gadget_error_text">"No es pot carregar el giny"</string>

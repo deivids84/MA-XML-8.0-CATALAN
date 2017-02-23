@@ -35,10 +35,11 @@
   <string-array name="welcome_notes_content">
     <item>"Toqui per crear una nota
 "</item>
-    <item>"Per afegir una imatge o mostrar caselles de verificació, feu clic al botó de sota
-"</item>
-    <item>"Premeu i mantingui una nota per a crear xinxeta, moure-la o eliminar-la
-"</item>
+    <item>"Creació d\'una nota
+Per afegir una nota premeu el signe +."</item>
+    <item>"Seleccioneu plantilles
+Utilitzeu plantilles per canviar fons de pantalla i estils de les vostres notes.
+Premeu el botó inferior dret de la nota per seleccionar una plantilla."</item>
     <item>"I més característiques!
   - Sincronitzar amb Mi Cloud
   - Establir recordatoris

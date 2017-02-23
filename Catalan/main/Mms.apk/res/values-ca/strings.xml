@@ -15,7 +15,6 @@
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
   <string name="add_private_contact">Afegeix contacte privat</string>
-  <string name="add_redpackage">Paquet vermell</string>
   <string name="add_slide">Afegeix diapositiva (després)</string>
   <string name="add_slide_before">Afegeix diapositiva d\'introducció</string>
   <string name="add_slide_hint">Toqueu per crear una nova diapositiva</string>
@@ -76,7 +75,7 @@
   <string name="cloud_state_syncing">S\'està sincronitzant amb Mi Cloud&#8230;</string>
   <string name="compressing">Imatge massa gran. S\'està comprimint&#8230;</string>
   <string name="confirm">D\'acord</string>
-  <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la llista de bloqueig?</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Voleu afegir aquest número a la vostra llista de bloqueig?</string>
   <string name="confirm_delete_SIM_message">Voleu eliminar aquest missatge de la SIM?</string>
   <string name="confirm_delete_all_SIM_messages">Voleu eliminar tots els missatges de la SIM?</string>
   <string name="confirm_delete_all_conversations">Voleu eliminar totes les converses?</string>
@@ -85,7 +84,7 @@
   <string name="confirm_delete_locked_message">Voleu eliminar aquest missatge bloquejat?</string>
   <string name="confirm_delete_message">Voleu eliminar aquest missatge?</string>
   <string name="confirm_dialog_locked_title">Voleu eliminar el missatge bloquejat?</string>
-  <string name="confirm_dialog_title">Voleu eliminar?</string>
+  <string name="confirm_dialog_title">Voleu eliminar-lo?</string>
   <string name="confirm_dlg__msg">Avís CMCC: el servei de correu gratuït CMCC no serà proporcionat si cancel·la el servei. Esteu segur de cancel·lar-lo?</string>
   <string name="confirm_dlg_title">Administració de dispositius</string>
   <string name="confirm_export_dialog_description">Ja no s\'amagaran les converses anteriors amb aquest contacte.</string>
@@ -128,7 +127,7 @@
   <string name="delete_phrase">Elimina la resposta</string>
   <string name="delete_unlocked">Elimina els missatges bloquejats</string>
   <string name="delete_wild_sims">Elimina els números</string>
-  <string name="delete_wild_sims_confirm">Tots els missatges que pertanyen als números seleccionats s\'eliminaran d\'aquest telèfon. Podreu restaurar-los en i.mi.com.</string>
+  <string name="delete_wild_sims_confirm">Tots els missatges que pertanyen als números seleccionats s\'eliminaran d\'aquest telèfon. Podreu restaurar-los a i.mi.com.</string>
   <string name="delete_wild_sims_title">Elimina els números seleccionats</string>
   <string name="delivery_report_activity">Informe de lliurament</string>
   <string name="delivery_toast_body">Missatge rebut de %s</string>
@@ -479,7 +478,6 @@
   <string name="recipient_label">"Destinatari: "</string>
   <string name="recipients_over_size">Hi ha massa destinataris.</string>
   <string name="recording_failed">"No es pot enregistrar"</string>
-  <string name="red_package_btn">Obre\'l</string>
   <string name="refill_now">Recàrrega ara</string>
   <string name="refresh">Actualitza</string>
   <string name="refresh_failed">L\'actualització ha fallat</string>
@@ -586,7 +584,6 @@
   <string name="sms_report_success">Informe enviat</string>
   <string name="snippet_audio">[àudio]</string>
   <string name="snippet_picture">[imatge]</string>
-  <string name="snippet_red_package">[Paquet vermell]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -626,9 +623,6 @@
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
-  <string name="title_recv_red_package">Rep el Paquet vermell</string>
-  <string name="title_red_package">Tingueu un bon any!</string>
-  <string name="title_send_red_package">Envia el Paquet vermell</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>

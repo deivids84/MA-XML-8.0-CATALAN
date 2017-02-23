@@ -33,7 +33,9 @@
   <string name="callFailed_unobtainable_number">Número invàlid</string>
   <string name="callFailed_userBusy">Línia ocupada</string>
   <string name="callUnanswered_forwarded">Trucada sense contestar desviada</string>
+  <string name="call_button_conference_manager_text">Gestor de la conferència</string>
   <string name="call_button_dialer_text">Teclat</string>
+  <string name="call_button_mute_text">Silenci</string>
   <string name="call_button_tools_text">Característiques</string>
   <string name="call_contacts_deny_permission_msg">"Vau negar el permís de lectura de contactes, no es pot mostrar informació de contactes."</string>
   <string name="call_description_recording">S\'està enregistrant&#8230;</string>
@@ -63,6 +65,7 @@
   <string name="card_title_hanging_up">"S'està penjant... "</string>
   <string name="card_title_in_call">A la trucada</string>
   <string name="card_title_in_call_short">A la trucada</string>
+  <string name="card_title_in_video">Vídeo</string>
   <string name="card_title_incoming_call">Trucada entrant</string>
   <string name="card_title_incoming_conference_call">Conferència telefònica entrant</string>
   <string name="card_title_on_hold">"En espera "</string>
@@ -73,6 +76,8 @@
   <string name="card_title_upgrade_video_call_timed_out">"No s'ha pogut actualitzar el vídeo"</string>
   <string name="card_title_video_call">Videotrucada</string>
   <string name="card_title_video_call_paused">Vídeo pausat</string>
+  <string name="card_title_video_conf_call">Trucada de videoconferència</string>
+  <string name="card_video_hold_swap">Canvia</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s persones</string>
   <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>

@@ -8,7 +8,7 @@
   <string name="activation_page">No s\'ha activat</string>
   <string name="activation_page_btn_txt">Activa</string>
   <string name="activation_page_info">Informació d\'activació en account.xiaomi.com </string>
-  <string name="add_account_menu_item">Afegir compte</string>
+  <string name="add_account_menu_item">Afegeix un compte</string>
   <string name="app_name">Mi crédito</string>
   <string name="app_name_lockpattern">Patró de bloqueig</string>
   <string name="app_name_short">Autenticació</string>
@@ -17,7 +17,7 @@
 En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti ajut al Servei en línia d\'atenció al Client\"</string>
   <string name="authenticator_invalid_title">Usuari：%1$s no és vàlid</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
-  <string name="button_add_account">Afegir un compte</string>
+  <string name="button_add_account">Afegeix un compte</string>
   <string name="button_add_account_manual_entry">Afegeix manualment el compte</string>
   <string name="button_add_account_scan_barcode">Escaneja codi de barres</string>
   <string name="button_back">Enrere</string>
@@ -44,7 +44,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="enter_account_label">Introduïu el nom del compte</string>
   <string name="enter_key_hint">Introdueixi la seva clau</string>
   <string name="enter_key_illegal_char">La clau conté un caràcter no vàlid</string>
-  <string name="enter_key_page_add_button">Afegir</string>
+  <string name="enter_key_page_add_button">Afegeix</string>
   <string name="enter_key_title">Introduïu la clau</string>
   <string name="enter_key_too_short">La clau és massa curta</string>
   <string name="enter_pin">Introdueixi aquest codi de verificació si se li demana a l\'iniciar sessió:</string>
@@ -110,13 +110,13 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="privacy_preference_title">Política de privadesa</string>
   <string name="progress_loading">Procesando&#8230;</string>
   <string name="remove_Xiaomi_account_dialog_message">Si elimineu aquest compte s\'eliminarà la capacitat de generar codis, però no es desactivarà la verificació en 2 passos. Això podria impedir-vos d\'accedir al compte. Abans d\'eliminar-lo desactiveu la verificació en 2 passos per a aquest compte, o assegureu-vos de tenir un alternativa per generar codis.</string>
-  <string name="remove_account">Eliminar compte</string>
-  <string name="remove_account_dialog_message">Si elimineu aquest compte s\'eliminarà la capacitat de generar codis. Això pot podria impedir-vos d\'accedir al compte.
+  <string name="remove_account">Elimina el compte</string>
+  <string name="remove_account_dialog_message">"Si elimineu aquest compte s\'eliminarà la capacitat de generar codis. Això pot podria impedir-vos d\'accedir al compte.
 
 Abans d\'eliminar-lo:
 —Desactiveu la verificació en 2 passos per aquest compte, o
-—Assegureu-vos de tenir una alternativa per generar codis.</string>
-  <string name="remove_account_dialog_title">Eliminar %1$s?</string>
+—Assegureu-vos de tenir una alternativa per generar codis."</string>
+  <string name="remove_account_dialog_title">Voleu eliminar el compte?</string>
   <string name="rename">Reanomenar</string>
   <string name="rename_message">Reanomenar %1$s</string>
   <string name="resetbtn_patternforgotten">Restablir</string>

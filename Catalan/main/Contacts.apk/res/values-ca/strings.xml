@@ -10,25 +10,25 @@
   <string name="account_type_format">%1$s contacte</string>
   <string name="actionIncomingCall">Trucades entrants</string>
   <string name="action_menu_overflow_description">Més opcions</string>
-  <string name="activity_title_confirm_add_detail">Afegir a contactes</string>
+  <string name="activity_title_confirm_add_detail">Afegeix a un contacte</string>
   <string name="activity_title_contacts_filter">Contactes per mostrar</string>
   <string name="activity_title_settings">Configuració</string>
-  <string name="addPeopleToGroup">Per afegir-ne, editeu el grup.</string>
-  <string name="add_2sec_pause">Afegir 2 segons de pausa</string>
-  <string name="add_account">Afegir un compte</string>
+  <string name="addPeopleToGroup">Per afegir algú més, editeu el grup.</string>
+  <string name="add_2sec_pause">Afegeix 2 segons de pausa</string>
+  <string name="add_account">Afegeix un compte</string>
   <string name="add_blacklist">Bloquejar</string>
   <string name="add_blacklist_dialog_message">Bloquejar trucades i missatges des d\'aquest número?</string>
   <string name="add_blacklist_dialog_title">Bloquejar aquest número?</string>
-  <string name="add_connection_button">Afegir connexió</string>
+  <string name="add_connection_button">Afegeix connexió</string>
   <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
-  <string name="add_display_photo_entry">Afegir foto de perfil</string>
-  <string name="add_field">Afegir un altre camp</string>
-  <string name="add_incall_show_entry">Afegir vídeo</string>
-  <string name="add_new_account">Afegir un nou compte</string>
-  <string name="add_new_entry_for_section">Afegir nou</string>
-  <string name="add_organization">Afegir organització</string>
-  <string name="add_to_my_contacts">Afegir als meus contactes</string>
-  <string name="add_wait">Afegir espera</string>
+  <string name="add_display_photo_entry">Afegeix foto del perfil</string>
+  <string name="add_field">Afegeix un altre camp</string>
+  <string name="add_incall_show_entry">Afegeix vídeo</string>
+  <string name="add_new_account">Afegeix un compte nou</string>
+  <string name="add_new_entry_for_section">Afegeix nou</string>
+  <string name="add_organization">Afegeix organització</string>
+  <string name="add_to_my_contacts">Afegeix als meus contactes</string>
+  <string name="add_wait">Afegeix espera</string>
   <string name="add_xiaomi_account_dialog_btn">Utilitzar el compte Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Feu còpia de seguretat dels contactes al seu compte Mi per accedir-hi des de qualsevol lloc!</string>
   <string name="add_xiaomi_account_dialog_title">Trieu compte</string>
@@ -43,7 +43,7 @@
   <string name="auto_nickname">Automàtic</string>
   <string name="auto_set_nickname">Automàtic</string>
   <string name="back_view_description">Anar enrere</string>
-  <string name="batch_delete">Eliminar lot</string>
+  <string name="batch_delete">Elimina el lot</string>
   <string name="blacklist">Bloquejar</string>
   <string name="bluetooth_connection_failed_toast">Connexió Bluetooth interrompuda</string>
   <string name="blurbJoinContactDataWith">Seleccioneu el contacte que voleu combinar amb %s:</string>
@@ -118,7 +118,7 @@
   <string name="callrecordview_menu_delete_called">Esborra les trucades sortints</string>
   <string name="callrecordview_menu_delete_missed">Esborra les trucades perdudes</string>
   <string name="callrecordview_menu_delete_new">Esborrar registres de trucades a nous contactes</string>
-  <string name="callrecordview_menu_delete_one">Eliminar del registre de trucades</string>
+  <string name="callrecordview_menu_delete_one">Elimina del registre de trucades</string>
   <string name="callrecordview_menu_delete_sim">Esborrar %s registres de trucades</string>
   <string name="callrecordview_menu_delete_stranger">Esborrar números desconeguts</string>
   <string name="callrecordview_menu_edit_call_note">Edita nota de trucada</string>
@@ -269,13 +269,12 @@ Les targetes de contacte estan apagades"</string>
   <string name="data_left">Dades restants</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="date_picker_label">Recordar 3 dies abans i una altra en el dia de</string>
   <string name="date_time_set">Fixar</string>
   <string name="date_year_toggle">Proporcionar un any</string>
   <string name="default_ringtone">To de trucada per defecte</string>
   <string name="deleteConfirmation">Aquest contacte s\'eliminarà.</string>
-  <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Eliminar aquest contacte?</string>
+  <string name="deleteConfirmationDetail">Voleu eliminar \"%s\"?</string>
+  <string name="deleteConfirmation_title">Vols suprimir aquest contacte?</string>
   <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
@@ -284,11 +283,11 @@ Les targetes de contacte estan apagades"</string>
   <string name="delete_duplicate">Combinar</string>
   <string name="delete_duplicate_message">"Combinant contactes… "</string>
   <string name="delete_group_dialog_message">Suprimeix el grup \"%1$s\", els contactes dins d\'ells no seran eliminats.</string>
-  <string name="delete_group_dialog_title">Eliminar grup</string>
-  <string name="delete_selected_sim_entry_miui">Eliminar els contactes seleccionats</string>
+  <string name="delete_group_dialog_title">Suprimeix el grup</string>
+  <string name="delete_selected_sim_entry_miui">Elimina els contactes seleccionats</string>
   <string name="delete_sim_entries_finish">Contactes a la targeta SIM eliminats</string>
   <string name="delete_sim_entry_miui">Elimina</string>
-  <string name="delete_unknown_contact_calllog_title">Eliminar registre de trucades?</string>
+  <string name="delete_unknown_contact_calllog_title">Voleu netejar el registre de trucades?</string>
   <string name="deleting_sim_entry_miui">Esborrant contactes de la targeta SIM&#8230;</string>
   <string name="deleting_sim_entry_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="description_add_contact">Afegeix contacte</string>
@@ -334,7 +333,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="deselect_all">Desselecciona tot</string>
   <string name="details_list_group_header_other">UN ALTRE</string>
   <string name="device_bluetooth_title">Transferència de contactes</string>
-  <string name="device_brand_title">Triar una marca</string>
   <string name="device_import_account_dialog_title">Triar un compte</string>
   <string name="device_import_account_dialog_title_suffix">"
 (trobats %1$s contactes)"</string>
@@ -347,7 +345,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_import_progress_toast">%1$d contactes importats</string>
   <string name="device_import_title">Importa</string>
   <string name="device_list_title">Triar un telèfon</string>
-  <string name="device_other_guide">"Si el telèfon no apareix, feu el següent"</string>
+  <string name="device_other_guide">Si el telèfon no apareix, feu el següent</string>
   <string name="device_other_title">Un altre telèfon</string>
   <string name="device_paired_dialog_message">Combinant contactes&#8230;</string>
   <string name="device_paired_dialog_title">Combinant contactes&#8230;</string>
@@ -355,7 +353,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_pairing_dialog_title">Dispositius vinculats</string>
   <string name="device_version_header_bluetooth">Assegureu-vos que el Bluetooth està activat</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
-  <string name="device_version_title">Triar un model</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
   <string name="dialerIconLabel">Recents</string>
@@ -379,6 +376,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialog_voicemail_airplane_mode_message">Per trucar al correu de veu, primer desactivar el mode avió.</string>
   <string name="dialog_voicemail_not_ready_message">Per configurar el correu de veu, aneu a Menú &gt; configuració.</string>
   <string name="directory_search_label">Agenda</string>
+  <string name="disclaimer_title">Renúncia</string>
   <string name="display_all_contacts">Tots els contactes</string>
   <string name="display_more_groups">Més grups&#8230;</string>
   <string name="display_only_phones">Amaga números incomplets</string>
@@ -712,7 +710,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="multi_number_title">Conferència</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
   <string name="multipleContactDeleteConfirmationDetail">En eliminar \"%s\" serà eliminat de diversos comptes.</string>
-  <string name="my_phone_not_provider_bluetooth">"El meu telèfon no té Bluetooth"</string>
+  <string name="my_phone_not_provider_bluetooth">El meu telèfon no té Bluetooth</string>
   <string name="my_phone_provider_bluetooth">El meu telèfon té Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
   <string name="name_family">Cognom</string>
@@ -1010,6 +1008,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
+  <string name="report_inquiry_mms">Notifica els SMS</string>
   <string name="restore_nickname">Restaurar</string>
   <string name="ret_sign">«
 »</string>
@@ -1189,6 +1188,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
+  <string name="update_sim_contact_photo_toast">No s\'ha pogut definir la foto per als contactes SIM</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
 

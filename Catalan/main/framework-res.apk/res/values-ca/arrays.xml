@@ -69,25 +69,33 @@
     <item>%s trucades Wi-Fi</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Reservat0</item>
+    <item>Torna a provar-ho</item>
     <item></item>
     <item></item>
     <item>Col·loqueu completament el dit sobre sensor</item>
     <item></item>
-    <item>Aixequeu el dit2 i i cobriu el sensor fermament i completament</item>
-    <item>Reservat6</item>
+    <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
+    <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
     <item></item>
     <item></item>
     <item></item>
     <item></item>
-    <item>Reservat11</item>
-    <item>Reservat12</item>
-    <item>"Col·loqueu el dit3 directament en el sensor"</item>
+    <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
+    <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
+    <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta"</item>
     <item>Moveu el dit lleugerament entre escanejos</item>
-    <item>Aixequeu el dit5</item>
-    <item>Mantingueu prolongadament el dit6 al sensor</item>
+    <item>Aixequeu el dit i torneu a col·locar-lo a l\'escàner</item>
+    <item>Mantingueu el dit a l\'escàner una mica més</item>
     <item></item>
     <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>Moveu el dit una mica</item>
+    <item>Aquesta empremta ja s\'ha afegit, utilitzeu un dit diferent</item>
   </string-array>
   <string-array name="imAddressTypes">
     <item>Casa</item>

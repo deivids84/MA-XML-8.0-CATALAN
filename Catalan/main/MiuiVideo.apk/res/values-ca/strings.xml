@@ -70,7 +70,7 @@
   <string name="clarity_unknown">Desconegut</string>
   <string name="clear_cache">Esborrar memòria cau d\'imatges</string>
   <string name="clear_cache_success">Memòria cau eliminada</string>
-  <string name="clear_cache_summary">Eliminar imatges escorcollades al reproductor de vídeo</string>
+  <string name="clear_cache_summary">Elimina les imatges pre-carregades al reproductor de vídeo</string>
   <string name="clear_search_history">Esborra l\'historial de cerca</string>
   <string name="click_star_rate">Fes clic a la valoració per estrelles</string>
   <string name="click_to_login">Toca per iniciar sessió</string>
@@ -112,10 +112,10 @@
   <string name="declaration_content_td_custom">Aquesta característica necessita connexió a internet per funcionar normalment.</string>
   <string name="defaults">Per defecte</string>
   <string name="delete">Elimina</string>
-  <string name="delete_action_text">Eliminar (%d)</string>
-  <string name="delete_addon">Eliminar</string>
+  <string name="delete_action_text">Elimina (%d)</string>
+  <string name="delete_addon">Elimina</string>
   <string name="delete_addon_content">Voleu eliminar aquest element?</string>
-  <string name="delete_with">Eliminar (%d)</string>
+  <string name="delete_with">Elimina (%d)</string>
   <string name="detail">Detall</string>
   <string name="detail_comment_empty">Buit</string>
   <string name="develop_version">Actualitzacions beta</string>
@@ -652,8 +652,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="vp_retry">Reintentar</string>
   <string name="vp_scale_screen">Canviar la relació d\'aspecte</string>
   <string name="vp_screen_shot">Captura de pantalla</string>
-  <string name="vp_select_ci">Seleccionar episodi</string>
-  <string name="vp_select_ep">Seleccionar episodi</string>
+  <string name="vp_select_ci">Selecciona l\'episodi</string>
+  <string name="vp_select_ep">Selecciona l\'episodi</string>
   <string name="vp_select_function">Configuració del reproductor</string>
   <string name="vp_select_source">Seleccionar font</string>
   <string name="vp_select_tv">Canals</string>

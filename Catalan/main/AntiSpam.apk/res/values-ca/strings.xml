@@ -143,10 +143,6 @@
   <string name="mark_agent_block">Notificat com a agència</string>
   <string name="mark_agent_block_large">Agències</string>
   <string name="mark_agent_time_setting">Bloqueja els números que hagin estat notificats com agències un determinat nombre de vegades</string>
-  <string name="mark_courier">Bloqueja els serveis de missatgeria notificats</string>
-  <string name="mark_courier_block">Notificat com a servei de missatgeria</string>
-  <string name="mark_courier_block_large">Servei de missatgeria</string>
-  <string name="mark_courier_time_setting">Bloqueja els números que hagin estat notificats com a serveis de missatgeria un determinat nombre de vegades</string>
   <string name="mark_fraud">Bloqueja els fraus notificats</string>
   <string name="mark_fraud_block">Notificat com a frau</string>
   <string name="mark_fraud_block_large">Fraus</string>
@@ -156,7 +152,6 @@
   <string name="mark_harass_block_large">Assetjaments</string>
   <string name="mark_harass_time_setting">Bloqueja els números que hagin estat notificats com a assetjaments un determinat nombre de vegades</string>
   <string name="mark_number_agent">Agència</string>
-  <string name="mark_number_courier">Servei de missatgeria</string>
   <string name="mark_number_fraud">Frau</string>
   <string name="mark_number_harass">Assetjament</string>
   <string name="mark_number_info">"Tingueu en compte que de vegades aquestes trucades poden ser útils (p.e. quan realment esteu buscant un apartament). Bloquegeu només els números dels quals mai no voleu rebre trucades."</string>

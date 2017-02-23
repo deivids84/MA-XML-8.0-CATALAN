@@ -127,8 +127,6 @@
   <string name="backup_detail_page_title">Còpia de seguretat de Mi Cloud</string>
   <string name="backup_only_in_wifi">Utilitza només el Wi-Fi per fer les còpies de seguretat de fotos i vídeos</string>
   <string name="backup_only_in_wifi_summary">No s\'utilitzen mai les dades mòbils per fer les còpies de seguretat de fotos o vídeos</string>
-  <string name="backup_waiting_button_text">Fes ara la còpia de seguretat</string>
-  <string name="backuping">S\'està fent la còpia de seguretat %1$d/%2$d</string>
   <string name="begin_share">S\'ha creat l\'àlbum de nadó \"%s\". Ja el podeu compartir</string>
   <string name="begin_share_toast">Voleu crear un àlbum separat per aquest nen abans de compartir-lo?</string>
   <string name="browse_category_title">Navegació</string>
@@ -537,7 +535,6 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Captures de pantalla</string>
   <string name="cloud_settings">Còpies de seguretat de la galeria</string>
-  <string name="cloud_space_full_button_text">Obtén més emmagatzematge</string>
   <string name="cloudfolder_cannot_start_with">"El nom de l'àlbum no pot començar amb '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"El nom de l'àlbum no pot contenir '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
@@ -774,7 +771,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
   <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
   <string name="loading_video_thumbnail">S\'està baixant la portada del vídeo&#8230;</string>
-  <string name="local_space_full_button_text">Allibera espai</string>
   <string name="login_and_enable_service">Inicieu sessió amb el compte Mi</string>
   <string name="long_press_to_refocus">Toqueu i mantingueu premut per reenfocar</string>
   <string name="main_discard_confirm_message">Hi ha canvis sense desar</string>
@@ -802,7 +798,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="need_to_turn_on_sync_first">Cal que primer activeu la sincronització amb Mi Cloud</string>
   <string name="need_to_turn_on_wlan">Cal que primer us connecteu a la Wi-Fi</string>
   <string name="network_connected_rescan">"No es pot connectar a la xarxa"</string>
-  <string name="network_unsatisfied_button_text">Connecta\'t a la xarxa</string>
   <string name="new_album_invalid_char">"Els noms no poden contenir \"%s\". Introduïu una lletra o un número."</string>
   <string name="new_album_invalid_name">\"%s\" és un àlbum del sistema, escolliu un altre nom.</string>
   <string name="new_album_invalid_prefix">"No utilitzeu \".\" o \"_\" al principi del nom de l'àlbum."</string>
@@ -942,9 +937,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="secret_album_display_name">Àlbum ocult</string>
   <string name="secret_album_password_first_use_msg">S\'utilitzarà la contrasenya de protecció de privadesa. Funciona amb les fotos, les notes, les carpetes ocultes, etc.</string>
   <string name="secret_album_password_first_use_title">Contrasenya de protecció de privadesa</string>
-  <string name="secret_album_password_update_dialog_cancel">Cancel·la</string>
   <string name="secret_album_password_update_dialog_msg">La contrasenya de protecció de privadesa funciona amb les fotos, les notes, les carpetes ocultes, etc.</string>
-  <string name="secret_album_password_update_dialog_ok">D’acord</string>
   <string name="secret_album_password_update_dialog_title">Actualitza la contrasenya</string>
   <string name="secret_album_password_update_first_user_dialog_msg">La contrasenya de protecció de privadesa funciona amb les fotos, les notes, les carpetes ocultes, etc.</string>
   <string name="secret_album_password_update_first_user_dialog_title">Actualitza la contrasenya</string>
@@ -1005,7 +998,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="sync_battery_low">Bateria baixa</string>
   <string name="sync_cloud_space_full">No hi ha prou espai a Mi Cloud</string>
   <string name="sync_diabled_toast">Sincronització desactivada</string>
-  <string name="sync_off_button_text">Activa la sincronització</string>
   <string name="system_album">Àlbum de sistema</string>
   <string name="terabyteShort">TB</string>
   <string name="tip_capture_location">Ubicació:</string>

@@ -67,9 +67,9 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
   <string name="cloud_backup_have_data">S\'ha trobat una còpia al Mi Cloud</string>
   <string name="cloud_backup_select_recover">Escolliu una còpia del Mi Cloud</string>
-  <string name="cloud_restore_from_other_device">"Voleu aturar la restauració de %s i esborrar la còpia de seguretat? Aquesta acció no es podrà revertir."</string>
+  <string name="cloud_restore_from_other_device">"Voleu aturar la restauració de %s i esborrar aquesta còpia de seguretat? Aquesta acció és irreversible."</string>
   <string name="cloud_restore_task">S\'està restaurant&#8230;</string>
-  <string name="cloud_task_in_process">"Voleu aturar %s i esborrar aquesta còpia de seguretat? Aquesta acció no es podrà revertir."</string>
+  <string name="cloud_task_in_process">"Voleu aturar %s i esborrar aquesta còpia de seguretat? Aquesta acció és irreversible."</string>
   <string name="confirm_restore">Restaura</string>
   <string name="confirm_restore_summary">La pantalla d\'inici es reiniciarà i les aplicacions es baixaran automàticament quan estigueu connectat al Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
@@ -102,7 +102,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="process_whole_recovery">Restaurant «%s»</string>
   <string name="query_restore_back_view">Còpia de seguretat del Mi Cloud</string>
   <string name="query_restore_description">Restaura les aplicacions de la pantalla d\'inici i ajustos usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses a la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
-  <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com a nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>
+  <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com un nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar còpia del Mi Cloud</string>
   <string name="recover_home_settings">Restaura la configuració de la pantalla d\'inici</string>
   <string name="recover_miui_settings">Restaura la configuració del sistema</string>

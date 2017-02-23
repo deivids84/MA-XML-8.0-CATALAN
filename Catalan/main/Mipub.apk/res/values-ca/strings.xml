@@ -33,7 +33,7 @@
   <string name="confirm_dialog_title">Voleu suprimir?</string>
   <string name="confirm_export_dialog_description">Ja no s\'amagaran les converses anteriors amb aquest contacte.</string>
   <string name="confirm_rate_limit">S\'estan enviant un gran nombre de missatges multimèdia.</string>
-  <string name="context_menu_add_contact">Afegiu a un contacte existent</string>
+  <string name="context_menu_add_contact">Afegeix a un contacte existent</string>
   <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors</string>
   <string name="context_menu_browse_web">Navega</string>
   <string name="context_menu_call">Truqueu</string>

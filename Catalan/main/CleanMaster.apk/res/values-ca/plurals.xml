@@ -69,4 +69,12 @@
     <item quantity="other">%d aplicacions instal·lades</item>
     <item quantity="one">%d aplicació instal·lada</item>
   </plurals>
+  <plurals name="wechat_copy_video_failed_dialog_msg">
+    <item quantity="other">"No s'han pogut exportar %d vídeos. Allibereu espai i torneu-ho a provar."</item>
+    <item quantity="one">"No s'ha pogut exportar %d vídeo. Allibereu espai i torneu-ho a provar."</item>
+  </plurals>
+  <plurals name="wechat_empty_files">
+    <item quantity="other">（%1$d fitxers buits）%2$s</item>
+    <item quantity="one">（%1$d fitxer buit）%2$s</item>
+  </plurals>
 </resources>

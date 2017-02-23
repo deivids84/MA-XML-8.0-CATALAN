@@ -20,7 +20,7 @@
   <string name="game_more_improve">Restringiu l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_setting">Configuració del joc</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
-  <string name="gs_dialog_confirm_close_msg">L\'accés directe s\'eliminarà de la pantalla d\'inici. Vés a Seguretat &gt; Configuració per restaurar-lo.</string>
+  <string name="gs_dialog_confirm_close_msg">L\'accés directe s\'eliminarà de la pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restaurar-lo.</string>
   <string name="gs_dialog_confirm_close_title">Desactiva</string>
   <string name="gs_game_duration">Temps</string>
   <string name="gs_game_net_priority">Prioritat de connexió</string>
@@ -33,7 +33,7 @@
   <string name="install_game_count">S\'han afegit %d jocs</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="main_toolbar_purchase">Recàrrega</string>
-  <string name="man_add_application">Afegir aplicacions manualment a l\'arrencada automàtica</string>
+  <string name="man_add_application">Afegeix manualment aplicacions d\'arrencada automàtica</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartició</string>
   <string name="miuishare_wechat_timeline_title">Moments WeChat</string>

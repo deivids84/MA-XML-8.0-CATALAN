@@ -79,7 +79,7 @@
   <string name="note_alert_expired">Caducat</string>
   <string name="note_link_email">Enviar email</string>
   <string name="note_link_other">Obrir mapa</string>
-  <string name="note_link_select">Seleccionar text</string>
+  <string name="note_link_select">Selecciona text</string>
   <string name="note_link_tel">Trucada</string>
   <string name="note_link_web">Navegar per la web</string>
   <string name="note_sort_way">Seleccioneu el mode en què vol ordenar les notes</string>
@@ -89,11 +89,10 @@
   <string name="notify_alarm_title">Recordatori de nota</string>
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
   <string name="permlab_accessNote">Notes d\'accés</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">"No demanar confirmació en eliminar una nota de manera gestual"</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">"No demanis confirmació en eliminar una nota de manera gestual"</string>
   <string name="pref_title_common">Configuració addicional</string>
   <string name="pref_title_font_size">Mida de la font</string>
   <string name="pref_title_note_style">Estil de nota</string>
-  <string name="pref_title_recover_help">Recuperar notes</string>
   <string name="pref_title_show_root_folder_in_homepage">Mostra només les notes ràpides en la pàgina d\'inici</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Supressió ràpida</string>
   <string name="recover_notes_hint">Ha ocorregut un error, vés a i.mi.com per restaurar les notes.</string>
