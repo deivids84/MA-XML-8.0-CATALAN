@@ -6,8 +6,8 @@
   <string name="call_forwarding_settings">Configuració del desviament de trucades</string>
   <string name="call_waiting_settings">Configuració de trucada en espera</string>
   <string name="change_num">Actualitza</string>
-  <string name="disable">Activa</string>
-  <string name="enable">Desactiva</string>
+  <string name="disable">Desactiva</string>
+  <string name="enable">Activa</string>
   <string name="labelCF">Desviació de trucades</string>
   <string name="labelCFB">Si està ocupat</string>
   <string name="labelCFDeactAll">Desactiva-ho tot</string>

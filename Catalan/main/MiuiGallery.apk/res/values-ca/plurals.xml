@@ -97,6 +97,30 @@
     <item quantity="other">%1$d elements | %2$s</item>
     <item quantity="one">%1$d element | %2$s</item>
   </plurals>
+  <plurals name="backuping_desc_normal">
+    <item quantity="other">%1$d fotos i vídeos</item>
+    <item quantity="one">%1$d foto o vídeo</item>
+  </plurals>
+  <plurals name="backuping_desc_gprs">
+    <item quantity="other">%1$d fotos i vídeos | %2$s</item>
+    <item quantity="one">%1$d foto o vídeo | %2$s</item>
+  </plurals>
+  <plurals name="sync_error_title">
+    <item quantity="other">"No s'han copiat %d fotos i vídeos"</item>
+    <item quantity="one">"No s'ha copiat %d foto or vídeo"</item>
+  </plurals>
+  <plurals name="sync_total_count">
+    <item quantity="other">%d elements</item>
+    <item quantity="one">%d element</item>
+  </plurals>
+  <plurals name="cloud_storage_photo_num">
+    <item quantity="other">%d fotos</item>
+    <item quantity="one">%d foto</item>
+  </plurals>
+  <plurals name="cloud_storage_video_num">
+    <item quantity="other">%d vídeos</item>
+    <item quantity="one">%d vídeo</item>
+  </plurals>
   <plurals name="number_of_images_synced">
     <item quantity="other">%1$d fotos</item>
     <item quantity="one">1 foto</item>
@@ -140,5 +164,13 @@
   <plurals name="fast_share_auto_render_failed">
     <item quantity="other">"S'han omès %1$d fotos que no s'han pogut renderitzar."</item>
     <item quantity="one">"S'ha omès una foto que no s'ha pogut renderitzar."</item>
+  </plurals>
+  <plurals name="file_count_format">
+    <item quantity="other">%1$d elements en total</item>
+    <item quantity="one">%1$d element en total</item>
+  </plurals>
+  <plurals name="quickly_discovery_message_format">
+    <item quantity="other">S\'han trobat %1$d fotos noves</item>
+    <item quantity="one">S\'ha trobat una foto nova</item>
   </plurals>
 </resources>

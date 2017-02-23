@@ -45,6 +45,10 @@
   <string name="app_label">Baixades</string>
   <string name="artist">Artistes</string>
   <string name="artist_album">Àlbums</string>
+  <string name="artist_area_china">Xina</string>
+  <string name="artist_area_europe_usa">Europa/Estats Units</string>
+  <string name="artist_area_japan">Japó</string>
+  <string name="artist_area_korea">Corea</string>
   <string name="artist_favor">Destacat</string>
   <string name="artist_is_empty">El nom de l\'artista no pot estar buit.</string>
   <string name="artist_name">Artista</string>
