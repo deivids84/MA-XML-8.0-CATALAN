@@ -9,4 +9,12 @@
     <item quantity="other">"No s'han afegit %d jocs"</item>
     <item quantity="one">"No s'ha afegit %d joc"</item>
   </plurals>
+  <plurals name="found_apps_title">
+    <item quantity="other">%d aplicacions trobades</item>
+    <item quantity="one">%d aplicació trobada</item>
+  </plurals>
+  <plurals name="find_applications">
+    <item quantity="other">Cerca entre %d aplicacions</item>
+    <item quantity="one">Cerca entre %d aplicació</item>
+  </plurals>
 </resources>

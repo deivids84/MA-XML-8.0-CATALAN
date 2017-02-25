@@ -17,6 +17,7 @@
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="call_folder_name">Notes de trucada</string>
+  <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
   <string name="dlg_btn_set_password">Estableix una contrasenya</string>
@@ -90,6 +91,7 @@
   <string name="permdesc_accessNote">Les aplicacions malicioses poden usar això per accedir a la seva informació personal.</string>
   <string name="permlab_accessNote">Notes d\'accés</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"No demanis confirmació en eliminar una nota de manera gestual"</string>
+  <string name="pref_title_cloud_trash_bin">Elimina notes al Mi Cloud</string>
   <string name="pref_title_common">Configuració addicional</string>
   <string name="pref_title_font_size">Mida de la font</string>
   <string name="pref_title_note_style">Estil de nota</string>
@@ -150,6 +152,7 @@
   <string name="toast_reach_text_limit_attachment">"No es pot adjuntar documents perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>
   <string name="trash_folder_name">Paperera</string>
+  <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
   <string name="undo">Desfer</string>
   <string name="unknown_source">Font desconeguda</string>
   <string name="welcome_note_for_cm">"I més característiques!

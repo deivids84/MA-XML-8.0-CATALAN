@@ -53,6 +53,10 @@
     <item quantity="other">Voleu treure %d cançons?</item>
     <item quantity="one">Voleu treure %d cançó?</item>
   </plurals>
+  <plurals name="dialog_remove_from_cloud_descript">
+    <item quantity="other">Voleu eliminar %d cançons del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar %d cançó del Mi Cloud?</item>
+  </plurals>
   <plurals name="Ntracks_add_to_playlist">
     <item quantity="other">%d cançons afegides a la llista de reproducció</item>
     <item quantity="one">Cançó afegida a la llista de reproducció</item>
@@ -92,5 +96,29 @@
   <plurals name="reader_count">
     <item quantity="other">%d seguidors</item>
     <item quantity="one">%d seguidor</item>
+  </plurals>
+  <plurals name="Nunbackup_audios">
+    <item quantity="other">"%1$d cançons no s'han copiat (%2$.1fMB)"</item>
+    <item quantity="one">"%1$d cançó no s'ha copiat (%2$.1fMB)"</item>
+  </plurals>
+  <plurals name="Nupload_song_button">
+    <item quantity="other">Còpia de seguretat de %1$d cançons (%2$.1fMB)</item>
+    <item quantity="one">Còpia de seguretat de %1$d cançó (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nbackup_songs">
+    <item quantity="other">Còpia de seguretat de les cançons, %1$d cançons restants (%2$.1fMB)</item>
+    <item quantity="one">Còpia de seguretat de la cançó, %1$d cançó restant (%2$.1fMB)</item>
+  </plurals>
+  <plurals name="Nstop_backup_songs_message">
+    <item quantity="other">"%d cançons no s'han copiat al Mi Cloud. Voleu aturar-la?"</item>
+    <item quantity="one">"%d cançó no s'ha copiat al Mi Cloud. Voleu aturar-la?"</item>
+  </plurals>
+  <plurals name="Nsong_group_detail_subtitle">
+    <item quantity="other">Creat al %1$s | %2$d cançons en total</item>
+    <item quantity="one">Creat al %1$s | %2$d cançó en total</item>
+  </plurals>
+  <plurals name="Nalbum_total_songs">
+    <item quantity="other">%d cançons en total</item>
+    <item quantity="one">%d cançó en total</item>
   </plurals>
 </resources>

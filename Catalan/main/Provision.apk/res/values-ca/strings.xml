@@ -19,6 +19,7 @@
   <string name="input_method_category">"Seleccioneu el teclat predeterminat que s'utilitzarà per escriure correus electrònics, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
   <string name="input_method_setting">Seleccioneu el teclat predeterminat</string>
   <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
+  <string name="language_picker_other_languages_title">Més idiomes</string>
   <string name="locale_picker_title">Seleccioneu la configuració regional</string>
   <string name="miui_privacy_policy_no_network">"No hi ha connexió a internet. Vegeu la política de privadesa a %s."</string>
   <string name="miui_terms_no_network">"No hi ha connexió a internet. Vegeu els Termes del Servei a %s."</string>

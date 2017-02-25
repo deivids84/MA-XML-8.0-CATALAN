@@ -71,6 +71,13 @@
   <string name="impunity_declaration_negative_text">Tanca</string>
   <string name="impunity_declaration_positive_text">Permet</string>
   <string name="impunity_declaration_title">Condicions del servei</string>
+  <string name="keywords_search_code">Escàner;Escaneja;Codi QR;QR;Reconeixement;Codi de barres;Codis de barres;Producte;Productes;Alipay;WeChat;Com escannejar un codi QR;Com escannejar un codi de barres;Com escannejar;Escànner MIUI</string>
+  <string name="keywords_search_document">Escàner;Escaneja el document;Escaneja documents;OCR;Explora textos;Escaneja</string>
+  <string name="keywords_search_namecard">Escàner;Targeta de visita;Targetes de visita;Escaneja;Escaneja targetes;Targeta;Targetes;Contactes;Contacte</string>
+  <string name="keywords_search_settings">Escàner;Configuració de la xarxa de l\'escàner</string>
+  <string name="keywords_search_shopping">Compres;Escàner;Escaneja productes;Escaneja un producte;Consulta el preu;Productes;Taobao;Tmall;Preus;Compres en línia</string>
+  <string name="keywords_search_study">Escàner;Problemes;Resoldre problemes;Deures;L\'escola;Física;Química;Mates;Matemàtiques;Anglès;Història;Xinès</string>
+  <string name="keywords_search_translation">Escàner;Tradueix;Diccionari;Anglès;Llengua estrangera;Llengua;Llengües;Anglès a xinès;Italià;Alemany;Japonès;Coreà;Castellà;Francès;Traductor Baidu;Diccionari Youdao;Diccionari Baidu;Traductor Google</string>
   <string name="language_entry_chinese_cn">Xinès simplificat</string>
   <string name="language_entry_chinese_tw">Xinès tradicional</string>
   <string name="language_entry_danish">Danès</string>
@@ -106,6 +113,7 @@
   <string name="not_recommend_access_web_url">Anar al lloc web de totes maneres</string>
   <string name="not_tips">"Recordar preferència"</string>
   <string name="note">Notes:</string>
+  <string name="path_scanner_setting">Aplicacions del sistema/Escànner</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telèfon:</string>

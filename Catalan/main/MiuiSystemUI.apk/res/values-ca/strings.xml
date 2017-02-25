@@ -351,6 +351,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
+  <string name="notification_low_battery_action_btn">Activa</string>
+  <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el dispositiu.</string>
+  <string name="notification_low_battery_open_save_mode">Activa l\'estalvi de bateria</string>
+  <string name="notification_low_battery_title">Bateria baixa: %d%%</string>
   <string name="notification_manager">Gestiona les notificacions</string>
   <string name="notification_manager_des">Filtrar i gestionar les notificacions</string>
   <string name="notification_otg_gamestick_in">Joystick/Pad connectat</string>

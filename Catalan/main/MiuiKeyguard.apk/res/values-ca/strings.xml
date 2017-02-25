@@ -64,6 +64,12 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="open_wifi_settings">Connexió de xarxa oberta</string>
+  <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_content">"Podeu iniciar la sessió a i.mi.com amb el Compte Mi associat amb aquest dispositiu i esborrar totes les dades. Això esborrarà totes les dades personals emmagatzemades en aquest dispositiu. Després d\'això, podeu reiniciar el dispositiu i restaurar els contactes, missatges, fotografies i altres elements del Mi Cloud. No podreu fer això a menys que hagueu iniciat sessió al Compte Mi en aquest dispositiu. En cas contrari, haureu d\'instal·lar el dispositiu una altra vegada."</string>
+  <string name="phone_locked_foget_password_footer">"Passos: 
+Inicieu sessió a i.mi.com, aneu a \"Troba el dispositiu\", seleccioneu el dispositiu i premeu Neteja el dispositiu."</string>
+  <string name="phone_locked_foget_password_header">Què he de fer si he oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_ok">D\'acord</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="phone_locked_timeout_minutes_string">Torneu a provar-ho d\'aquí %s minuts</string>
   <string name="phone_locked_timeout_seconds_string">Torneu a provar-ho d\'aquí %s segons</string>

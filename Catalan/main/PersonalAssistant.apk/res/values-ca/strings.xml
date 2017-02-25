@@ -45,6 +45,7 @@
   <string name="data_error">S\'ha produït un error. Espereu uns minuts i torneu-ho a intentar</string>
   <string name="data_error_show">"La comanda s'ha completat, no es poden veure detalls"</string>
   <string name="drive">Conduir</string>
+  <string name="duokan_not_installed">"Aquesta aplicació no està instal·lada en el telèfon. No es pot utilitzar aquesta targeta."</string>
   <string name="duokan_setting_brief">Continua llegint des del lloc que heu deixat.</string>
   <string name="entrance">Dreceres de targeta</string>
   <string name="exercise_setting_brief">Mostra les estadístiques d\'activitat (permet a Mi Fit iniciar-se automàticament a Seguretat).</string>
@@ -67,6 +68,8 @@
   <string name="hold_down_adjustment_order">Mantén premut la icona de la dreta per arrossegar elements</string>
   <string name="home">Inici</string>
   <string name="home_and_company">Inici i treball</string>
+  <string name="hour12_format_en">hh:mm</string>
+  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Recomanacions</string>
   <string name="launch_app">Recomanacions de l\'aplicació</string>
   <string name="launch_change_order">Canvia l\'ordre</string>
@@ -163,6 +166,9 @@
   <string name="weibo_name">Nou article</string>
   <string name="weibo_parent">Weibo</string>
   <string name="which_transport">Com arribeu normalment al vostre destí?</string>
+  <string name="widget_fav">preferit</string>
+  <string name="widget_fav_open">Mostra la targeta dels preferits</string>
+  <string name="widget_fav_setting_brief">Visualitzeu les vostres dades preferides.</string>
   <string name="wx_aa">Reparteix la despesa</string>
   <string name="wx_collectioncode">Rep el pagament</string>
   <string name="wx_name">La meva targeta</string>
@@ -170,4 +176,5 @@
   <string name="wx_paycode">Pagament</string>
   <string name="wx_scan">Escàner</string>
   <string name="wx_timeline">Moments</string>
+  <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>

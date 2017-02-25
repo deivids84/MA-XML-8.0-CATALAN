@@ -20,8 +20,11 @@
   <string name="game_more_improve">Restringiu l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_setting">Configuració del joc</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
+  <string name="gs_auto_clean_memory">Neteja la memòria cau</string>
+  <string name="gs_auto_clean_memory_detail">Neteja la memòria cau automàticament per optimitzar els jocs</string>
   <string name="gs_dialog_confirm_close_msg">L\'accés directe s\'eliminarà de la pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restaurar-lo.</string>
   <string name="gs_dialog_confirm_close_title">Desactiva</string>
+  <string name="gs_game_disturb_msg">No molesteu</string>
   <string name="gs_game_duration">Temps</string>
   <string name="gs_game_net_priority">Prioritat de connexió</string>
   <string name="gs_game_net_priority_detail">Limita la velocitat de baixada per tenir prou ample de banda per jugar</string>
@@ -78,4 +81,6 @@
   <string name="top_game">Jocs destacats</string>
   <string name="uninstall_game_count">"No s'han afegit %d jocs"</string>
   <string name="usage_sorted_loading_text">Un moment&#8230;</string>
+  <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
+  <string name="wlan_change_protection_title">Evita els canvis de xarxes</string>
 </resources>

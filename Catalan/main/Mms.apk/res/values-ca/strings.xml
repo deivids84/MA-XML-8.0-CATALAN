@@ -350,6 +350,7 @@
   <string name="mx_online">Activat</string>
   <string name="mx_reactivate">Reactiva Missatge Mi</string>
   <string name="mx_recommend_msg">Toqueu per activar Missatge Mi.</string>
+  <string name="mx_stranger_recommend_msg">Toqueu per bloquejar Missatges Mi de números desconeguts</string>
   <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
   <string name="need_download">S\'està sincronitzant&#8230;</string>
   <string name="networking_allow_continue">D\'acord</string>
@@ -627,6 +628,7 @@
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
   <string name="title_timed_message_dialog">Estableix el missatge programat</string>
+  <string name="title_use_gsm_alphabet">Utilitza l\'abecedari GSM</string>
   <string name="to_address_label">"Per: "</string>
   <string name="to_count">%d destinataris</string>
   <string name="to_label">"Per "</string>

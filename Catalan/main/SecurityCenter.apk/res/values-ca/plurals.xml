@@ -133,6 +133,10 @@
     <item quantity="other">%d riscos trobats, arregleu-los</item>
     <item quantity="one">%d risc trobat, arregleu-lo</item>
   </plurals>
+  <plurals name="virus_clean_num">
+    <item quantity="other">Tot sembla correcte</item>
+    <item quantity="one">Tot sembla correcte</item>
+  </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>
