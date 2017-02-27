@@ -216,6 +216,7 @@
   <string name="auto_mail_window_label">Configuració automàtica de la bústia 139</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
   <string name="battery_saver">Estalvi de bateria</string>
+  <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
   <string name="bcc">Cco</string>
   <string name="bcc_heading">"Cco: "</string>
   <string name="blank_feedback_toast">Necessites escriure un comentari</string>
@@ -263,7 +264,9 @@
   <string name="config_retry">Reintenta</string>
   <string name="confirm">Confirmar</string>
   <string name="confirm_before_delete">Confirma abans d\'eliminar</string>
+  <string name="confirm_before_delete_keywords">confirmeu abans de suprimir;confirma la supressió</string>
   <string name="confirm_before_send">Confirma abans d\'enviar</string>
+  <string name="confirm_before_send_keywords">confirmeu abans d\'enviar;confirmació d\'enviament</string>
   <string name="confirm_delete_conversation_title">Esborra</string>
   <string name="confirm_discard_text">Descarta aquest missatge?</string>
   <string name="confirm_response">Enviant resposta&#8230;</string>
@@ -314,6 +317,7 @@
   <string name="conversation_quick_button_disapprove">En desacord</string>
   <string name="conversation_quick_button_received">S\'ha rebut</string>
   <string name="conversation_view">Vista de conversa</string>
+  <string name="conversation_view_keywords">vista de conversa;conversa del correu</string>
   <string name="copied">Copiat</string>
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
   <string name="copy_number">Copiar el número telefònic</string>
@@ -328,6 +332,7 @@
   <string name="del_account_questionnair_hint">"Ens podeu dir per què esteu eliminant aquest compte?"</string>
   <string name="delete">Elimina</string>
   <string name="delete_message_flow">Elimina el flux de missatges</string>
+  <string name="delete_message_flow_keywords">suprimeix el flux del missatge;suprimeix el redireccionament</string>
   <string name="deleted">Eliminat</string>
   <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activa l\'actualització completa del servei de correu i activar l\'equip de seguretat</string>

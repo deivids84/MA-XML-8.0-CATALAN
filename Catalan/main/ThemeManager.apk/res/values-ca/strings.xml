@@ -20,6 +20,8 @@
   <string name="backup_theme_name">Còpia de seguretat del tema</string>
   <string name="backup_theme_progress_message">S\'està fent la còpia de seguretat&#8230;</string>
   <string name="backup_theme_success_message">S\'ha realitzat la còpia de seguretat del tema.</string>
+  <string name="both_all_apply_failured">"No es pot aplicar el fons de pantalla"</string>
+  <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
   <string name="browser_local_resource">Recursos locals</string>
   <string name="change_host_hint">Canvia l\'amfitrió</string>
   <string name="change_wallpaper">Fons de pantalla</string>
@@ -82,14 +84,21 @@
   <string name="gift_use_confirmation_dlg_title">Voleu enviar aquest regal?</string>
   <string name="gift_use_fail_dlg_title">Alguna cosa va anar malament</string>
   <string name="gift_used">Enviat</string>
+  <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
+  <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 8. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
+  <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
   <string name="loading">Un moment...</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment&#8230;</string>
   <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
+  <string name="lockscreen_apply_failured">"No es pot aplicar el fons de la pantalla de bloqueig"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"S'ha aplicat el fons de la pantalla d'inici, però no s'ha pogut aplicar el de la pantalla de bloqueig"</string>
+  <string name="lockscreen_apply_success">S\'ha aplicat el fons de pantalla de bloqueig</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"S'ha aplicat el fons de la pantalla de bloqueig, però no s'ha pogut aplicar el de la pantalla d'inici"</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidors</string>
   <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
@@ -317,6 +326,7 @@
   <string name="search_hint_header_text">El més cercat</string>
   <string name="selected_resource_file_invalid">"No es pot utilitzar el fitxer del recurs seleccionat"</string>
   <string name="settings">Configuració</string>
+  <string name="the_picture_is_too_small">La imatge és massa petita</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarma</string>
   <string name="theme_apply_audio_dialog_item_notification">Notificació</string>
   <string name="theme_apply_audio_dialog_item_ringtone">To</string>
@@ -402,6 +412,7 @@
   <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
+  <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
   <string name="wallpaper_set_as_both">Estableix els dos</string>
   <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>

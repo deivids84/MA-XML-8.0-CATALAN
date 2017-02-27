@@ -62,8 +62,8 @@
     <item quantity="one">S\'ha trobat %d problema de bateria, solucioneu-lo</item>
   </plurals>
   <plurals name="app_check_title_text">
-    <item quantity="other">Poden optimitzar-se %d elements</item>
-    <item quantity="one">Pot optimitzar-se %d element</item>
+    <item quantity="other">Es poden optimitzar %d elements</item>
+    <item quantity="one">Es pot optimitzar %d element</item>
   </plurals>
   <plurals name="people">
     <item quantity="one">Baixat per %1$d persona</item>

@@ -34,6 +34,8 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Caducat</string>
   <string name="alert_title">Notificacions del calendari</string>
+  <string name="anniversary_card_title">Celebració</string>
+  <string name="anniversary_event_title">[Celebració]%1$s</string>
   <string name="app_label">Calendari</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
   <string name="birthday_card_title">"Aniversaris d'avui"</string>
@@ -127,6 +129,7 @@
   <string name="downloading_wallpaper">S\'està baixant el fons de pantalla</string>
   <string name="dropdown_delete_button_desc">Elimina %s dels destinataris</string>
   <string name="edit_event_all_day_label">Tot el dia</string>
+  <string name="edit_event_anniversary_name_empty_hint">Introduïu una celebració</string>
   <string name="edit_event_anniversary_name_hint">Contingut</string>
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>

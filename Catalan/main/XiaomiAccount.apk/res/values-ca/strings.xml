@@ -122,6 +122,8 @@
   <string name="find_device_error_password_recently_changed">"Ja heu canviat la vostra contrasenya en els darrers 3 dies. No es pot apagar Troba dispositiu per raons de seguretat."</string>
   <string name="find_device_interrupted">L\'acció fou interrompuda, proveu-ho més tard</string>
   <string name="find_device_io_error">"No es pot connectar a la xarxa"</string>
+  <string name="find_device_locked_account_email" formatted="false">%s,correu electrònic associat: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s,número de telèfon associat: %s</string>
   <string name="find_device_null_credential_error">"No es pot obtenir informació del dispositiu, contacteu amb el servei al client de Xiaomi"</string>
   <string name="find_device_operation_failed_error">S\'ha produït un error</string>
   <string name="find_device_operation_failed_error_unknown">S\'ha produït un error, proveu-ho més tard</string>
@@ -159,6 +161,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">"Ara mateix, totes les dades es sincronitzaran al vostre segon espai. Per evitar-ho, no activeu la sincronització amb Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"No activis la sincronització amb Mi Cloud"</string>
   <string name="my_device_title">Dispositiu actual</string>
+  <string name="my_favorite">Els meus preferits</string>
   <string name="no_network_btn">Actualitza</string>
   <string name="no_network_title">"No es pot connectar a la xarxa."</string>
   <string name="no_response_retry">No hi ha resposta, torneu-ho a provar.</string>
@@ -329,6 +332,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="phone_activated">%s activat</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
+  <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
+  <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
+  <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
   <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>

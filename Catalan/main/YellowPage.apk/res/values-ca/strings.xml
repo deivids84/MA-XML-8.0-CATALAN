@@ -377,6 +377,9 @@ Total: %3$s iuans"</string>
   <string name="remind_user_suspect_number_title">Número sospitós</string>
   <string name="rmb">Iuans</string>
   <string name="scan">Escaneja</string>
+  <string name="search_description_express">Consulta o enviament urgents ràpidament i fàcilment</string>
+  <string name="search_keywords_express">urgent;shunfeng;shentong;debang;kuaidi;danhao;</string>
+  <string name="search_title_express">Consulta o enviament urgent</string>
   <string name="select_package_before_buy">Seleccioneu un paquet</string>
   <string name="send_shortcut_failed">"No s'ha pogut enviar"</string>
   <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>

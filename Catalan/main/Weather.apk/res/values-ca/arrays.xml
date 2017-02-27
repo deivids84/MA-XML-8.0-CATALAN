@@ -26,6 +26,14 @@
     <item>Tarragona</item>
     <item>Kuala Lumpur</item>
   </string-array>
+  <string-array name="aqi_detail_title">
+    <item>Bo</item>
+    <item>Moderat</item>
+    <item>Insalubre per a grups sensibles</item>
+    <item>Insalubre</item>
+    <item>Molt insalubre</item>
+    <item>Perillós</item>
+  </string-array>
   <string-array name="weather_type">
     <item>Serè</item>
     <item>Ennuvolat</item>
@@ -75,5 +83,33 @@
     <item>Pobre</item>
     <item>Molt pobre</item>
     <item>Greu</item>
+  </string-array>
+  <string-array name="wind_unit_simple">
+    <item>Escala de Beaufort</item>
+    <item>km/h</item>
+    <item>m/s</item>
+    <item>mph</item>
+    <item>kn</item>
+  </string-array>
+  <string-array name="breeze">
+    <item>&lt;Força 2</item>
+    <item>&lt;6.0km/h</item>
+    <item>&lt;1.7m/s</item>
+    <item>&lt;3.7mph</item>
+    <item>&lt;3.2kn</item>
+  </string-array>
+  <string-array name="wind_unit_detail">
+    <item>Escala de Beaufort</item>
+    <item>Quilòmetres per hora (km/h)</item>
+    <item>Metres per segon (m/s)</item>
+    <item>Milles per hora (mph)</item>
+    <item>Nus (kn)</item>
+  </string-array>
+  <string-array name="wind_unit_replace">
+    <item>Força %1$s</item>
+    <item>%1$skm/h</item>
+    <item>%1$sm/s</item>
+    <item>%1$smph</item>
+    <item>%1$skn</item>
   </string-array>
 </resources>

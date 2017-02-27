@@ -210,8 +210,6 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="close_button_text">Tanca</string>
   <string name="common_name">Nom comú:</string>
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
-  <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
-  <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
   <string name="config_datause_iface">rmnet0</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
   <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>

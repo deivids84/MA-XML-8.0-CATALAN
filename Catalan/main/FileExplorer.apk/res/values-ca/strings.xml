@@ -462,7 +462,7 @@
   <string name="phone_storage_doc_title">Documents:&#160;</string>
   <string name="phone_storage_free_title">Disponible:&#160;</string>
   <string name="phone_storage_image_title">Imatges:&#160;</string>
-  <string name="phone_storage_info_str">%1$s of %2$s available</string>
+  <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
   <string name="phone_storage_video_title">Vídeos:&#160;</string>

@@ -129,6 +129,7 @@
   <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_battery_low_desc">Encara podeu optar por continuar copiant elements</string>
   <string name="backup_battery_low_title">Copia de seguretat pausada a causa de la bateria baixa</string>
+  <string name="backup_close">Tanca la còpia de seguretat</string>
   <string name="backup_cloud_space_low_btn_text">Obtén més</string>
   <string name="backup_cloud_space_low_desc">%1$s al Mi Cloud | Disponible %2$s</string>
   <string name="backup_cloud_space_low_title">No hi ha prou espai al Mi Cloud</string>
@@ -152,6 +153,7 @@
   <string name="backup_only_in_wifi">Utilitza només el Wi-Fi per fer les còpies de seguretat de fotos i vídeos</string>
   <string name="backup_only_in_wifi_summary">No s\'utilitzen mai les dades mòbils per fer les còpies de seguretat de fotos o vídeos</string>
   <string name="backup_pause">Pausa la còpia de seguretat</string>
+  <string name="backup_pause_title">Còpia de seguretat en %s</string>
   <string name="backup_pending">Es farà una còpia de seguretat automàticament</string>
   <string name="backup_stop">Atura la còpia de seguretat</string>
   <string name="backup_sync_error_btn_text">Torneu-ho a provar</string>
@@ -629,6 +631,8 @@
   <string name="custom_select_title_select_item">Selecciona elements</string>
   <string name="debugging_tip">S\'estan generant les dades de depuració</string>
   <string name="default_album_name">Àlbum nou</string>
+  <string name="default_relation_name">Grup nou</string>
+  <string name="define_by_user">Personalitzat</string>
   <string name="delete">Elimina</string>
   <string name="delete_album_failed">"No s'ha pogut eliminar l'àlbum"</string>
   <string name="delete_album_msg_format">Voleu eliminar \"%2$s\" àlbum %1$s%3$s?</string>
@@ -680,6 +684,7 @@
   <string name="empty_query_text_msg">"No sé que cercar…"</string>
   <string name="empty_recommend_back">Enrere</string>
   <string name="empty_recommend_face_page_view">No hi ha més recomanacions</string>
+  <string name="empty_relation">"El nom del grup no pot estar buit"</string>
   <string name="enable_auto_upload_tip">Aquest àlbum s\'eliminarà dels altres àlbums després que ho activeu.</string>
   <string name="enable_auto_upload_title">Activa la sincronització amb Mi Cloud</string>
   <string name="enable_cloud_for_sharing">És necessari activar Mi Cloud per veure les fotos compartides.</string>
@@ -795,6 +800,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="input_baby_nick_name">Introduïu un sobrenom</string>
   <string name="input_nickname_toast">"Introduïu el nom del nadó"</string>
   <string name="input_or_select_a_name">Introduïu o seleccioneu un nom</string>
+  <string name="input_relation_name">Introduïu el nom del grup</string>
   <string name="invalid_invition_url">URL d\'invitació no vàlida</string>
   <string name="invalid_recipient_message">Els noms dels destinataris introduïts no són vàlids</string>
   <string name="invite_sharer_confirm_button_text">Convida</string>
@@ -811,6 +817,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">L\'alçada ha de ser &gt; 0</string>
   <string name="limit_width">L\'amplada ha de ser &gt; 0</string>
+  <string name="load_relations">Un moment&#8230;</string>
   <string name="loading_dual_tip">S\'està carregant la foto dual&#8230;</string>
   <string name="loading_fail">"No s'ha pogut baixar"</string>
   <string name="loading_fail_sync_off">Activa la sincronització amb Mi Cloud per baixar</string>
@@ -853,6 +860,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="new_album_invalid_char">"Els noms no poden contenir \"%s\". Introduïu una lletra o un número."</string>
   <string name="new_album_invalid_name">\"%s\" és un àlbum del sistema, escolliu un altre nom.</string>
   <string name="new_album_invalid_prefix">"No utilitzeu \".\" o \"_\" al principi del nom de l'àlbum."</string>
+  <string name="new_relation_invalid_char">"Els noms de grup no poden contenir «%s». Utilitzeu lletres, números o caràcters."</string>
+  <string name="new_relation_invalid_name">El grup «%s» ja existeix, reanomeneu aquest grup.</string>
+  <string name="new_relation_invalid_prefix">"Els noms de grup no poden començar per «.» o «_»"</string>
   <string name="next">Següent</string>
   <string name="no">No</string>
   <string name="no_map_app">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
@@ -874,6 +884,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_do_delete_local_thumnail">Elimina del dispositiu</string>
   <string name="operation_download">Baixa original (%s)</string>
   <string name="operation_edit">Edita</string>
+  <string name="operation_edit_video">Edita</string>
   <string name="operation_enable_auto_upload">Activa la sincronització amb Mi Cloud</string>
   <string name="operation_enter_delete_local">Elimina les fotos i vídeos de la còpia de seguretat del dispositiu</string>
   <string name="operation_failed">"No es pot completar la operació"</string>
@@ -887,6 +898,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_remove_from_face_album">Elimina de l\'àlbum</string>
   <string name="operation_remove_from_other_albums">Mou-lo dels altres àlbums</string>
   <string name="operation_remove_secret">No amaguis</string>
+  <string name="operation_rename">Reanomena</string>
   <string name="operation_save">Desa</string>
   <string name="operation_send">Envia</string>
   <string name="operation_set_contact_photo">Estableix-la com a foto de contacte</string>
@@ -969,6 +981,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="remove_from_secret_successful">Eliminat de l\'àlbum ocult</string>
   <string name="remove_to_album_title">Fusionar-se amb</string>
   <string name="remove_to_other_album">Fusionar-se amb una persona diferent</string>
+  <string name="rename_album">Reanomena l\'àlbum</string>
+  <string name="rename_album_failed">"No s'ha pogut reanomenar"</string>
+  <string name="rename_album_succeeded">S\'ha reanomenat correctament</string>
   <string name="rename_face_album">Canvia el nom</string>
   <string name="rename_fail_msg">"No es pot canviar nom"</string>
   <string name="rename_from_contact">Agafa el nom dels contactes</string>
@@ -1079,8 +1094,10 @@ Feu més fotos als vostres amics!"</string>
   <string name="sync_battery_low">Bateria baixa</string>
   <string name="sync_cloud_space_full">No hi ha prou espai a Mi Cloud</string>
   <string name="sync_diabled_toast">Sincronització desactivada</string>
+  <string name="sync_metatata_wait_title">S\'està esperant a la sincronització del Mi Cloud</string>
   <string name="sync_off_title">Activeu la sincronització amb Mi Cloud per realitzar còpies de seguretat de fotos i vídeos automàticament</string>
   <string name="sync_pending_title">Se sincronitzarà automàticament</string>
+  <string name="sync_state_unknow">S\'està obtenint informació</string>
   <string name="synced_title">Còpia de seguretat de fotos i vídeos correcta</string>
   <string name="syncing_gprs_title">Ús de dades mòbils per realitzar còpies de seguretat d\'elements</string>
   <string name="syncing_metadata_title">Sincronització de dades del Mi Cloud</string>

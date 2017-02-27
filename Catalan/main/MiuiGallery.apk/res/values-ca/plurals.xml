@@ -105,6 +105,14 @@
     <item quantity="other">%1$d fotos i vídeos | %2$s</item>
     <item quantity="one">%1$d foto o vídeo | %2$s</item>
   </plurals>
+  <plurals name="backup_after_hours">
+    <item quantity="other">Reprèn la còpia de seguretat en %d hores</item>
+    <item quantity="one">Reprèn la còpia de seguretat en %d hora</item>
+  </plurals>
+  <plurals name="backup_pause_desc">
+    <item quantity="other">%d fotos o vídeos | Pausat</item>
+    <item quantity="one">%d foto o vídeo | Pausat</item>
+  </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">"No s'han copiat %d fotos i vídeos"</item>
     <item quantity="one">"No s'ha copiat %d foto or vídeo"</item>
@@ -156,6 +164,10 @@
   <plurals name="download_error">
     <item quantity="other">"No es poden baixar %1$d fitxers"</item>
     <item quantity="one">"No es pot baixar %1$d fitxer"</item>
+  </plurals>
+  <plurals name="download_retry_message">
+    <item quantity="other">"No s'han pogut baixar %1$d fitxers, comproveu la connexió de xarxa i torneu a intentar-ho"</item>
+    <item quantity="one">"No s'ha pogut baixar %1$d fitxer, comproveu la connexió de xarxa i torneu a intentar-ho"</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
     <item quantity="other">%d elements seleccionats</item>

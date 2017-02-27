@@ -96,7 +96,6 @@
   <string name="app_uninstall">Desinstal·la</string>
   <string name="app_update">Actualiza</string>
   <string name="app_version">Versió %1$s</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="append_ok_key_after_num">Premeu el botó de confirmació després d\'un número</string>
   <string name="application">Aplicacions</string>
   <string name="auto_tune">Sintonia automàtica</string>
@@ -112,7 +111,6 @@
   <string name="bind_stb_dlg">Emparella el descodificador per canviar els canals</string>
   <string name="bind_stb_dlg_2">Els descodificadors s\'ha de vincular</string>
   <string name="bind_stb_dlg_agree">Emparella</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Selecciona fabricant</string>
   <string name="brand_title_all">Totes</string>
@@ -345,7 +343,10 @@
   <string name="input_source">Font d\'entrada</string>
   <string name="input_speech_button">Premeu i aguanteu-ho, llavors digueu el vostre comandament</string>
   <string name="input_tip">Els codis expiren en 15 minuts</string>
+  <string name="install">Instal·la</string>
   <string name="install_failed">"No s'ha pogut instal·lar %s"</string>
+  <string name="install_peel_content">Per activar la funció de guia de televisió, instal·leu Peel per al Control Mi.</string>
+  <string name="install_peel_title">Instal·lació de Peel Mi Remote</string>
   <string name="install_succed">S\'ha instal·lat correctament %s</string>
   <string name="installing">Instal·lant&#8230;</string>
   <string name="introduction">Introducció</string>

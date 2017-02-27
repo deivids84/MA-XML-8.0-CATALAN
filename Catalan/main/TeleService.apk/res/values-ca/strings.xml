@@ -236,6 +236,7 @@
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
+  <string name="callEnded_pulled">Trucada transferida a un altre dispositiu.</string>
   <string name="callFailed_QOS_unavailable">Qualitat del servei no disponible</string>
   <string name="callFailed_access_information_discarded">S\'ha descartat l\'accés a la informació</string>
   <string name="callFailed_bearer_capability_not_authorized">Capacitat de la portadora no autoritzada</string>
@@ -248,6 +249,9 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_disabled">La trucada es va finalitzar perquè les dades mòbils estaven desactivades.</string>
+  <string name="callFailed_data_limit_reached">S\'ha superat el límit de dades. Trucada finalitzada.</string>
+  <string name="callFailed_data_limit_reached_description">La trucada es va finalitzar perquè s\'ha superat el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
   <string name="callFailed_dialToDial">La petició DIAL s\'ha transformat en una DIAL amb un altre número.</string>
   <string name="callFailed_dialToSs">La petició DIAL s\'ha modificat a petició SS.</string>
@@ -268,6 +272,7 @@
   <string name="callFailed_invalid_transaction_identifier">El valor de l\'identificador de la transacció no és vàlida</string>
   <string name="callFailed_invalid_transit_NW_selection">La selecció de xarxa de trànsit no és vàlida</string>
   <string name="callFailed_limitExceeded">S\'ha excedit el límit ACM</string>
+  <string name="callFailed_maximum_reached">Totes les línies disponibles estan en ús. Per realitzar una trucada, finalitzeu una de las trucades d\'aquest dispositiu o d\'un dels altres dispositius.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Missatge incompatible amb l\'estat de protocol</string>
   <string name="callFailed_message_type_non_implemented">Tipus de missatge inexistent o no implementat</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Tipus de missatge incompatible amb l\'estat de protocol</string>
@@ -466,6 +471,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
+  <string name="crescendo_ringer_summary">El to de trucada augmentarà gradualment fins al nivell que hàgiu establert</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -1307,8 +1313,10 @@ Queden %d intents."</string>
   <string name="sip_edit_title">Detalls del compte SIP</string>
   <string name="sip_menu_discard">Descarta</string>
   <string name="sip_menu_save">Desa</string>
+  <string name="sip_profile_create_error">no es pot crear el nou perfil SIP</string>
   <string name="sip_receive_calls">Accepta trucades entrants</string>
   <string name="sip_receive_calls_summary">Redueix l\'autonomia de la bateria</string>
+  <string name="sip_save_register_error">no es pot desar i registrar el nou perfil SIP</string>
   <string name="sip_settings">Configuració SIP</string>
   <string name="sip_system_decide">Automàtic</string>
   <string name="smart_divert_summary">Configuració CFNRc</string>

@@ -8,6 +8,8 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="PrivacyContactDes2">"Si heu utilitzat missatges privats en el Primer espai,
 aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="add_finger_print">Afegeix empremta</string>
+  <string name="air_space_created">S\'ha creat l\'espai de treball correctament</string>
+  <string name="air_space_deleted">S\'ha eliminat l\'espai de treball correctament</string>
   <string name="appData">Aplicacions instal·lades</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Enrere</string>
@@ -33,6 +35,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="confirmDelete">Elimina</string>
   <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
+  <string name="confirm_airspace_password">Confirmeu la contrasenya de l\'espai de treball</string>
   <string name="confirm_main_space_password">Confirmeu la contrasenya del Primer espai</string>
   <string name="confirm_restore">"No mostrar"</string>
   <string name="contactData">Contactes</string>
@@ -44,6 +47,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="create_app_icon_failed">"No s'ha pogut crear la icona"</string>
   <string name="create_app_icon_success">Icona creada amb èxit</string>
   <string name="create_space_loading">Creant el Segon espai&#8230;</string>
+  <string name="create_work_space">Crea un espai nou</string>
   <string name="creating_app_icon">Creant icona&#8230;</string>
   <string name="dataSafe">Utilitzant el Segon espai és com tenir dos dispositius.</string>
   <string name="declare_dialog_title">Quant a les aplicacions duals</string>
@@ -58,7 +62,9 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
   <string name="disable">Apagar</string>
   <string name="dont_import">Ara no</string>
+  <string name="downloading_space">S\'està baixant&#8230;</string>
   <string name="enable">Engega</string>
+  <string name="enter_air_space">Vés a l\'espai de treball</string>
   <string name="err_copy_contacts">"No s'han pogut copiar els contactes"</string>
   <string name="err_copy_files">"No s'han pogut copiar els fitxers"</string>
   <string name="err_copy_photos">"No s'han pogut copiar les fotos"</string>
@@ -96,6 +102,9 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="import_photo">Importar fotos</string>
   <string name="import_photo_desc">Veure els elements compartits en el Segon espai</string>
   <string name="import_photo_suc">Fotos importades</string>
+  <string name="invalid_qr_code">Codi QR no vàlid</string>
+  <string name="keywords_sspace">Segon espai;Dos espais;2 espais;Amaga aplicacions;Amaga fitxers;Amaga fotos;Bloqueja la pantalla;Contrasenya de la pantalla de bloqueig;Privacitat;Mode privacitat;Mode privat;Privat;Mode convidat;Sessió de convidat;Accés convidat;Compte convidat;Convidat</string>
+  <string name="keywords_xspace">Aplicació dual;Aplicacions duals;Aplicació doble;Aplicacions dobles;Clona l\'aplicació;Clona aplicacions;Clon d\'aplicació;Clon d\'aplicacions;Dos comptes;2 comptes</string>
   <string name="list_empty_text">Buit</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
   <string name="loading_space">Un moment&#8230;</string>
@@ -106,6 +115,8 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="msg_switch_photo">Voleu esborrar aquestes fotos del Primer espai després que s\'hagin mogut?</string>
   <string name="needSetKeyguardFirst">Establiu la contrasenya del Primer espai</string>
   <string name="needSetKeyguardFirstDes">Establiu la contrasenya del Primer espai abans de la del Segon espai</string>
+  <string name="need_network_when_create">Connecteu a la xarxa abans de crear l\'espai de treball</string>
+  <string name="need_reset_passwd">Restableix la contrasenya de l\'espai de treball abans d\'entrar a l\'espai de treball</string>
   <string name="need_set_second_space_desc">Afegiu la contrasenya del Segon espai abans d\'afegir-hi l\'empremta</string>
   <string name="need_set_second_space_pwd_first">Establiu primer la contrasenya del Segon espai</string>
   <string name="newSecondSpace">Activar el Segon espai</string>
@@ -127,6 +138,8 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="otherSettings">Altres configuracions</string>
   <string name="passWordGuardSummary">Entreu al Segon espai des de la pantalla de bloqueig utilitzant una contrasenya</string>
   <string name="passwordProtect">Contrasenya</string>
+  <string name="path_sspace">Configuració/Segon espai</string>
+  <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="please_diff_finger_print">"Assegureu-vos que s\'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig."</string>
   <string name="privacyContactsSummary">Mostrar els elements privats en el Segon espai</string>
   <string name="privacyContactsTitle">Missatges privats i contactes</string>
@@ -138,6 +151,9 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="removingSpace">S\'està suprimint&#8230;</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
+  <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
+  <string name="resource_sspace">Segon espai</string>
+  <string name="resource_xspace">Aplicacions duals</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
   <string name="restore_show_desc">"No mostrar els missatges privats en el Segon espai. Encara estaran disponibles en el Primer espai."</string>
   <string name="restore_show_toast">No es mostren els missatges privats</string>
@@ -182,6 +198,8 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="show_private_msg">Mostrar els missatges privats</string>
   <string name="show_private_msg_summary">Mostrar els missatges privats en el Segon espai</string>
   <string name="spaceSetting">Configuració</string>
+  <string name="space_des_default">Espai aïllat amb dades xifrades</string>
+  <string name="space_name_default">Espai de treball</string>
   <string name="startSet">Aplicar</string>
   <string name="startTransfer">Moure</string>
   <string name="start_input_finger_print">Afegir empremta</string>
@@ -194,6 +212,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="switch_apps_settings">Configuració de l\'aplicació</string>
   <string name="switch_data_app">Moure elements al Segon espai</string>
   <string name="switch_data_settings">Moure dades</string>
+  <string name="switch_download_space">Canvia l\'espai de treball</string>
   <string name="switch_failed">"No s'han pogut moure"</string>
   <string name="switch_file_success">Arxius moguts satisfactòriament</string>
   <string name="switch_in_contacts">Importar contactes</string>
@@ -228,9 +247,12 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment&#8230;</string>
+  <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
   <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
+  <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
+  <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
   <string name="xspace_header">Aplicacions duals</string>
   <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
   <string name="xspace_install_failed">"No s'ha pogut crear"</string>

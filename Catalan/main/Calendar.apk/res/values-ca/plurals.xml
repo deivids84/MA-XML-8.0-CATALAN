@@ -41,6 +41,14 @@
     <item quantity="other">Fa %d setmanes</item>
     <item quantity="one">Fa una setmana</item>
   </plurals>
+  <plurals name="anniversary_notify_title">
+    <item quantity="other">[Celebració]%2$d anys de %1$s</item>
+    <item quantity="one">[Celebració]%2$d any de %1$s</item>
+  </plurals>
+  <plurals name="anniversary_notify_before_3_day_title">
+    <item quantity="other">[Celebració]%2$d anys de %1$s en 3 dies</item>
+    <item quantity="one">[Celebració]%2$d any de %1$s en 3 dies</item>
+  </plurals>
   <plurals name="anniversary_year">
     <item quantity="other">anys</item>
     <item quantity="one">any</item>
