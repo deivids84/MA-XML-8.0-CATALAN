@@ -53,6 +53,18 @@
     <item quantity="other">%1$d marcats com a spam</item>
     <item quantity="one">%1$d marcat com a spam</item>
   </plurals>
+  <plurals name="day">
+    <item quantity="other">%d dies</item>
+    <item quantity="one">%d dia</item>
+  </plurals>
+  <plurals name="day_after">
+    <item quantity="other">En %d dies</item>
+    <item quantity="one">En %d dia</item>
+  </plurals>
+  <plurals name="day_before">
+    <item quantity="other">Fa %d dies</item>
+    <item quantity="one">Fa %d dia</item>
+  </plurals>
   <plurals name="draft">
     <item quantity="other">Esborranys</item>
     <item quantity="one">Esborrany</item>
@@ -60,6 +72,10 @@
   <plurals name="empty_folder_dialog_message">
     <item quantity="other">%1$d missatges s\'eliminaran permanentment.</item>
     <item quantity="one">%1$d missatge s\'eliminarà permanentment.</item>
+  </plurals>
+  <plurals name="month">
+    <item quantity="other">%d mesos</item>
+    <item quantity="one">%d mes</item>
   </plurals>
   <plurals name="move_conversation">
     <item quantity="other">Mou %1$d converses</item>

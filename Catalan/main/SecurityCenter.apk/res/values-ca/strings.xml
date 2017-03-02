@@ -862,6 +862,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="optimize_result_ads_close_text">Anunci</string>
   <string name="optimize_result_button_cloudspace">Afegeix emmagatzematge al núvol</string>
   <string name="optimize_result_button_consume_power_analysis">Analitza la bateria</string>
   <string name="optimize_result_button_cooldown_now">Refreda</string>

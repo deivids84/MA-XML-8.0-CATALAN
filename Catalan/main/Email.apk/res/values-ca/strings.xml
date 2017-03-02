@@ -214,11 +214,24 @@
   <string name="auto_mail_title_note">Trobeu la opció «Configuració automàtica de la bustia 139», feu clic per iniciar.</string>
   <string name="auto_mail_window_description">Configuració automàtica del servei de correu 139</string>
   <string name="auto_mail_window_label">Configuració automàtica de la bústia 139</string>
+  <string name="auto_remind_bind">Afegeix</string>
+  <string name="auto_remind_discribe_text">Activeu-ho per rebre recordatoris automàtics</string>
+  <string name="auto_remind_text">Recordatoris automàtics</string>
+  <string name="auto_remind_unbind">Atura</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
+  <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
+  <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
   <string name="bcc">Cco</string>
   <string name="bcc_heading">"Cco: "</string>
+  <string name="bill_center_setting">Configuració de la facturació</string>
+  <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
+  <string name="bill_cycle_text">Cicle de facturació</string>
+  <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+  <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+  <string name="bill_remind">Recordatori d\'amortització</string>
+  <string name="bill_remind_due">S\'ha de pagar una amortització a %s, toqueu per veureu-ho</string>
   <string name="blank_feedback_toast">Necessites escriure un comentari</string>
   <string name="body_forward_email_text">[Reenvia]</string>
   <string name="body_hint">Escriure un correu electrònic</string>
@@ -322,6 +335,8 @@
   <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
   <string name="copy_number">Copiar el número telefònic</string>
   <string name="create_action">Nou</string>
+  <string name="credit_limit_text">Límit de crèdit</string>
+  <string name="cur_debt">Saldo del compte</string>
   <string name="custom_from_account_label">Envia el missatge com:</string>
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
@@ -370,9 +385,13 @@
   <string name="download_confirm_message">Voleu baixar %1$s adjunts?</string>
   <string name="download_confirm_title">Baixa els adjunts</string>
   <string name="download_message_failed_for_too_large">El missatge és massa gran per baixar-lo.</string>
+  <string name="drawer_bank_bill">Extractes bancaris</string>
+  <string name="drawer_bill_title">Factures</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
+  <string name="due">Venciment</string>
+  <string name="due_date_text">Amortització final</string>
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
   <string name="email_address">Adreça de correu</string>
   <string name="email_setting">Correu</string>
@@ -401,6 +420,7 @@
   <string name="feedback_sent">Gràcies pels seus comentaris. Seguirem millorant per a vostè</string>
   <string name="feedback_user_edit_hint">Descriu el problema aquí. Li enviarem un correu electrònic després que ens fixem en ell.</string>
   <string name="feedback_user_edit_tag">De MIUI&#160;</string>
+  <string name="fetch_bank_sender_list_failure">"No s'ha pogut obtenir la informació"</string>
   <string name="fetching_attachment">Afegint adjunt</string>
   <string name="file_deleted_success">Fitxer eliminat</string>
   <string name="file_not_found">"No s'ha trobat el fitxer"</string>
@@ -454,6 +474,7 @@
   <string name="forward_download_failed_ticker">"No s'ha pogut reenviar un o més fitxers adjunts."</string>
   <string name="forward_download_failed_title">Fitxer adjunt no reenviat</string>
   <string name="forward_subject_label">Fwd:</string>
+  <string name="free_period_text">Període sense interessos</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar abans d\'eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
@@ -487,12 +508,15 @@
   <string name="hint_quick_reply_all">Respondre a tots</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
+  <string name="import_button_text">Importa</string>
+  <string name="import_from_other_account">Importa d\'altres comptes</string>
   <string name="info_actionbar_normal_detail">Detalls</string>
   <string name="info_item_hide">Amaga</string>
   <string name="info_switch_summary">Vista superior de notícies</string>
   <string name="info_switch_title">Notícies de la safata d\'entrada</string>
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
   <string name="input_password_prompt">Introduïu la contrasenya</string>
+  <string name="interact_with_server_error">"No s'ha pogut connectar amb el servidor"</string>
   <string name="invalid_recipient">La direcció %s no és vàlida.</string>
   <string name="invalid_recipient_title">Error amb destinatari</string>
   <string name="kilobytes">%s KB</string>
@@ -513,6 +537,7 @@
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
   <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
+  <string name="mailbox_name_display_circular">Notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
   <string name="mailbox_name_display_junk">No desitjat</string>
@@ -606,6 +631,7 @@
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analitza declaracions email</string>
+  <string name="min_payment_text">Pagament mínim</string>
   <string name="more_atts_remaining">%1$d més falten</string>
   <string name="more_context">Més</string>
   <string name="more_string">+ %1$s</string>
@@ -613,6 +639,7 @@
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
   <string name="network_error">No hi ha connexió</string>
+  <string name="network_invaild">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
   <string name="network_tip">L\'autenticació ha fallat, comproveu la connexió de xarxa</string>
   <string name="network_try_again">Comprovar la connexió de xarxa i torna a intentar</string>
@@ -624,9 +651,12 @@
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
+  <string name="no_bill_discribe">"No s\'ha pogut trobar cap factura.
+Proveu a canviar a un compte de correu diferent."</string>
   <string name="no_contacts">Buit</string>
   <string name="no_content_in_body">[Sense tema]</string>
   <string name="no_conversations">No hi ha missatges</string>
+  <string name="no_filtrable_email_account">No hi ha comptes per filtrar</string>
   <string name="no_mails">Buit</string>
   <string name="no_matched_attachment">Res coincideix amb la seva recerca</string>
   <string name="no_remind">No ho recordis</string>
@@ -670,11 +700,13 @@
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
+  <string name="over_due">Vençudes</string>
   <string name="overlays_fail_tip">La seva bústia no té una configuració correcta, obriu els permisos flotants de Windows i torneu-ho a provar</string>
   <string name="overlays_ok">Obre els permisos</string>
   <string name="overlays_tip">Obriu els permisos flotants de Windows i gaudiu immediatament de la bustia 139 per configurar automàticament la experiència extrema.</string>
   <string name="overlays_title">Obre els permisos de Windows flotants</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
+  <string name="parse_bill_discribe">S\'estan processant les factures de la targeta de crèdit&#8230;</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
@@ -708,6 +740,7 @@
   <string name="photo_load_failed">"No s'ha pogut carregar la imatge"</string>
   <string name="photo_view_count" formatted="false">%d de %d</string>
   <string name="please_fill_in_your_mailbox_information2">Ompliu la informació relacionada amb la bústia:</string>
+  <string name="pls_parse_bill_discribe">"Analitza factures i informació de viatge al vostre correu per rebre recordatoris de pagaments i viatges"</string>
   <string name="policy_app_blacklist">Denegar aplicacions especificades</string>
   <string name="policy_app_whitelist">Permet només aplicacions especificades</string>
   <string name="policy_bluetooth_restricted">Restringir l\'ús de Bluetooth</string>
@@ -752,6 +785,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Toqueu la bora superior dreta per anar a la configuració una vegada accepteu</string>
   <string name="pull_to_refresh">Tiri cap avall per actualitzar</string>
   <string name="push_wps_better_confirm_download">Baixa</string>
   <string name="push_wps_better_confirm_exit">Ara no</string>
@@ -766,13 +800,13 @@
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
   <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
-  <string name="qq_login_get_auth">No s\'ha pogut enviar l\'SMS de verificació? Autentiqueu-vos a través de las preguntes de protecció de contrasenya</string>
+  <string name="qq_login_get_auth">"No s'ha pogut enviar l'SMS de verificació? Autentiqueu-vos a través de las preguntes de protecció de contrasenya"</string>
   <string name="qq_login_open_imap">Feu clic a «Permetre» per activar «IMAP/SMTP»</string>
   <string name="qq_login_origin_setting">Introduïu el nom d\'usuari i la contrasenya per iniciar sessió &gt;</string>
   <string name="qq_login_send_message">Feu clic a «Envia un SMS» per obtenir un codi d\'autorització</string>
   <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
-  <string name="qq_uthentication_failed">Error d\'autenticació, inicieu sessió una altra vegada</string>
+  <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
   <string name="qq_webview_loading">S\'està ometen, espereu...</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
@@ -892,6 +926,8 @@
   <string name="ser_resp_err_map_pserr">Nom d\'usuari o contrasenya incorrecta</string>
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;\"He llegit i estic d\'acord amb l\'acord de servei de correu WPS \"&lt;/u&gt;</string>
+  <string name="service_protocol_title">Acord de servei</string>
   <string name="set_network">Definir xarxa</string>
   <string name="settings_activity_title">Configuració</string>
   <string name="share_choose">Triar fitxer a compartir</string>
@@ -942,6 +978,7 @@
   <string name="toast_bar_invalid_account">Heu d\'iniciar sessió de nou</string>
   <string name="toast_bar_no_connection_network">"Sense connexió a Internet"</string>
   <string name="toast_bar_open_gmail_synchronization">Toqui per utilitzar servidor intermediari per a Gmail</string>
+  <string name="today_text">Avui</string>
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
@@ -961,7 +998,10 @@
 	entre el teu %1$s, els seus altres dispositius i el web."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica?</string>
+  <string name="unbind_dialog_text">"No podrà rebre recordatoris després de deixar d\'analitzar les factures.
+Voleu aturar-ho?"</string>
   <string name="undo">Desfer</string>
+  <string name="unknow">Desconegut</string>
   <string name="unread_string">conversa no llegida</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
@@ -983,7 +1023,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="wait_help_context">espereu</string>
   <string name="webview_logout">Realment voleu deixar d\'iniciar sessió? Va home, torneu-ho a provar!</string>
-  <string name="webview_logout_cancel">"No ho tornaré a provar"</string>
+  <string name="webview_logout_cancel">No ho tornaré a provar</string>
   <string name="webview_logout_sure">Prova-ho una vegada més</string>
   <string name="webview_sslerror_handle_cancel">Cancel·la</string>
   <string name="webview_sslerror_handle_continue">Continua</string>

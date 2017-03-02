@@ -128,8 +128,8 @@
   <string name="cloud_space_full_message">Sense espai a Mi Cloud per afegir més cançons. Per obtenir més espai, actualitzeu el vostre Compte Mi.</string>
   <string name="cloud_state_cloud_space_full">No hi ha prou espai al Mi Cloud, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_state_low_power">Connecteu el carregador per reprendre la còpia de seguretat</string>
-  <string name="cloud_state_network_data">No s\'ha pogut trobar una xarxa Wi-Fi, s\'ha pausat la còpia de seguretat</string>
-  <string name="cloud_state_network_unavailable">No s\'ha pogut connectar a la xarxa, s\'ha pausat la còpia de seguretat</string>
+  <string name="cloud_state_network_data">"No s'ha pogut trobar una xarxa Wi-Fi, s'ha pausat la còpia de seguretat"</string>
+  <string name="cloud_state_network_unavailable">"No s'ha pogut connectar a la xarxa, s'ha pausat la còpia de seguretat"</string>
   <string name="cloud_state_storage_full">No hi ha prou espai al telèfon, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_welcome_message">Còpia de seguretat de les cançons</string>
   <string name="cloud_welcome_summary">Feu una còpia de seguretat de les cançons al Mi Cloud i escolteu-les en altres dispositius</string>
@@ -694,7 +694,7 @@
   <string name="root_downloads">Baixades</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
   <string name="search_album">Cerca àlbums</string>
-  <string name="search_empty">Sense resultats. Proveu amb altres paraules</string>
+  <string name="search_empty">"Sense resultats. Proveu amb altres paraules"</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Cerca</string>

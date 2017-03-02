@@ -132,7 +132,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="other">Altres</string>
   <string name="pressure_connect">%1$s mbar</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
-  <string name="realtime_cityname_default">Ubicació de la ciutat</string>
   <string name="realtime_humidity_title">Humitat relativa</string>
   <string name="realtime_temperature_no_data">N/D</string>
   <string name="realtime_wind_default_title">Vent</string>

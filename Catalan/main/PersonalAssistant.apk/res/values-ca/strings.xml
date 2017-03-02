@@ -164,6 +164,9 @@
   <string name="transit_subway">Transport públic</string>
   <string name="try_again">Torneu-ho a provar</string>
   <string name="understandassistant">Quant l\'Assistent intel·ligent</string>
+  <string name="unusual_weather">Alertes meteorològiques</string>
+  <string name="unusual_weather_open">Activa les alertes meteorològiques</string>
+  <string name="unusual_weather_setting_tip">Les ciutats utilitzades per emetre alertes es poden canviar a l\'aplicació El temps.</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="walk">A peu</string>
   <string name="weibo_name">Nou article</string>

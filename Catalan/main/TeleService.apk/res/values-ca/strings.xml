@@ -472,6 +472,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
   <string name="crescendo_ringer_summary">El to de trucada augmentarà gradualment fins al nivell que hàgiu establert</string>
+  <string name="crescendo_ringer_title">Incrementa el volum del to de trucada</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -1008,6 +1009,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_caller_id_title">Aplicacions de sistema/Telèfon/Configuració avançada/Identificació trucada entrant</string>
   <string name="path_cloud_antispam_title">Aplicacions de sistema/Telèfon/Identifica números desconeguts</string>
   <string name="path_connect_disconnect_vibrate_title">Aplicacions de sistema/Telèfon/Configuració avançada/Vibra quan despengin</string>
+  <string name="path_crescendo_ringer_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Incrementa el volum del to de trucada</string>
   <string name="path_dtmf_tones_title">Aplicacions de sistema/Telèfon/Configuració avançada/Marcació per tons</string>
   <string name="path_enable_antispam_strange_title">Telèfon/Paràmetres de trucades entrants/Silencia després del primer ring</string>
   <string name="path_enable_proximity_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants/Sensor de proximitat</string>
@@ -1026,7 +1028,6 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_telocation_enable_title">Aplicacions del sistema/Telèfon/Ubicació/Mostra ubicació</string>
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
-  <string name="path_voip_setting">Aplicacions de sistema/Telèfon/Veu Mi</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Enviant tons
 "</string>

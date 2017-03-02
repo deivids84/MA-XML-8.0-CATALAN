@@ -9,5 +9,6 @@
   <string-array name="screenrecorder_settings_sound">
     <item>Sense so</item>
     <item>So del micròfon</item>
+    <item>Altaveu</item>
   </string-array>
 </resources>

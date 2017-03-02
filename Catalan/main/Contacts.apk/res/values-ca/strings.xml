@@ -1193,7 +1193,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
-  <string name="update_sim_contact_photo_toast">No s\'ha pogut definir la foto per als contactes SIM</string>
+  <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
 
@@ -1249,6 +1249,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowPageNavigationIconLabel">Pàgines grogues</string>
   <string name="yellowPageNavigationLabel">Pàgines grogues</string>
   <string name="yellowpage_fc_toast">"No es pot continuar utilitzant des que Pàgines grogues s'ha espatllat."</string>
+  <string name="yellowpage_mi_family">Mi Home</string>
   <string name="yellowpage_navigation_ad_hint">Anunci</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no es van poder verificar, torneu-ho a provar més tard."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo i les dades han estat verificats</string>

@@ -515,7 +515,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
-  <string name="binded_xiaomi_summary">Compte actual: %s</string>
   <string name="ble_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden detectar els dispositius Bluetooth. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
@@ -885,6 +884,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_gesture">Tanca amb un gest</string>
+  <string name="close_install_and_connect">No, gràcies</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
@@ -947,6 +947,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_erase">Esborra</string>
   <string name="confirm_fingerprint_icon_content_description">Utilitza l\'empremta per a continuar.</string>
   <string name="confirm_fingerprint_msg">Recolza el dit a l\'escàner d\'empremtes</string>
+  <string name="confirm_install_and_connect">Instal·la i connecta</string>
   <string name="confirm_new_backup_pw_prompt">Torneu a escriure la nova contrasenya de la còpia de seguretat completa</string>
   <string name="confirm_privacy_password">Introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
@@ -1276,6 +1277,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_service_message">Fent clic \"D\'acord\" aturarà %1$s.</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
+  <string name="disable_wifi_master_key_service">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
@@ -1441,6 +1443,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
+  <string name="enable_wifi_master_key_service">Activa la clau mestra de la Wi-Fi</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="encrypt_dont_require_password">No, gràcies</string>
   <string name="encrypt_dont_require_pattern">No, gràcies</string>
@@ -1783,6 +1786,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_all_warning">El telèfon i les dades personals són més vulnerables a atacs per part d\'aplicacions d\'orígens desconeguts. L\'usuari accepta ser l\'únic responsable de qualsevol dany que es produeixi al telèfon o de la pèrdua de dades que puguin resultar de l\'ús d\'aquestes aplicacions.</string>
   <string name="install_applications">Orígens desconeguts</string>
   <string name="install_applications_title">Permet tots els orígens de les aplicacions</string>
+  <string name="install_master_key_and_connect">Podeu connectar-vos a aquesta xarxa Wi-Fi utilitzant la clau mestra. Voleu instal·lar aquesta eina?</string>
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
   <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
@@ -2828,19 +2832,25 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_mode_enable_title">Mode convidat</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Contrasenya de privacitat</string>
+  <string name="privacy_password_add_account">Afegeix</string>
+  <string name="privacy_password_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
+  <string name="privacy_password_add_account_setting">Compte i privadesa</string>
   <string name="privacy_password_bind_account">Afegeix un compte Mi</string>
   <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
   <string name="privacy_password_enter_privacy">Introduïu la contrasenya de privadesa</string>
+  <string name="privacy_password_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
   <string name="privacy_password_fingerprint_confirm_failed">"No s'ha pogut comprovar l'empremta"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Comprovació correcta</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"No s'ha pogut escanejar l'empremta, torneu-ho a provar"</string>
   <string name="privacy_password_fingerprint_dialog_message">Recolzeu el dit al sensor</string>
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta</string>
+  <string name="privacy_password_login_and_add_account">Inicia la sessió i afegeix</string>
   <string name="privacy_password_never_remind">"No m'ho tornis a preguntar"</string>
+  <string name="privacy_password_not_add_account">Ara no</string>
+  <string name="privacy_password_not_login_account">"No heu iniciat sessió"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
-  <string name="privacy_password_remind_bindaccont_message">Fes que el compte Mi (%s) pugui restablir la contrasenya.</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
@@ -3590,6 +3600,8 @@ Per fer-ho:
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
+  <string name="show_wifi_master_key_summary">Connectar-se a xarxes Wi-Fi compartides utilitzant la clau mestra de la Wi-Fi</string>
+  <string name="show_wifi_master_key_title">Detecta les xarxes Wi-Fi compartides</string>
   <string name="shut_down_find_device_failure_confirm">D\'acord</string>
   <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
@@ -3990,6 +4002,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
+  <string name="system_apps_updater">Actualitzador d\'aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_default_app">(Opció predeterminada del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
@@ -4129,6 +4142,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
   <string name="uninstall_text">Desinstal·la</string>
+  <string name="uninstall_wifi_master_key">Desinstal·la la clau mestra de la Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
@@ -4288,6 +4302,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
+  <string name="use_wifi_master_key_summary">Connecta utilitzant la clau mestra de la Wi-Fi</string>
   <string name="user_account_title">Compte per al contingut</string>
   <string name="user_add_max_count">Podeu afegir fins a %1$d usaris</string>
   <string name="user_add_on_lockscreen_menu">Afegeix usuaris quan el dispositiu és bloquejat</string>
@@ -4715,6 +4730,12 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_ip_settings_menu_cancel">Cancel·la</string>
   <string name="wifi_ip_settings_menu_save">Desa</string>
   <string name="wifi_limit_optimizations_summary">Limita la bateria utilitzada pel Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_master_key">Clau mestra de la Wi-Fi</string>
+  <string name="wifi_master_key_dialog_content_password">Contrasenya</string>
+  <string name="wifi_master_key_dialog_title">Connecta mitjançant</string>
+  <string name="wifi_master_key_name">Clau mestra de la Wi-Fi</string>
+  <string name="wifi_master_key_service_dialog_content">"La clau mestra de la Wi-Fi és un servei gratuït que proporciona les contrasenyes de les xarxes Wi-Fi compartides. La clau mestra Wi-Fi no compartirà la contrasenya de la xarxa."</string>
+  <string name="wifi_master_key_service_dialog_title">Xarxes Wi-Fi compartides</string>
   <string name="wifi_menu_advanced">Avançat</string>
   <string name="wifi_menu_configure">Configuració</string>
   <string name="wifi_menu_connect">Connecta a la xarxa</string>
@@ -4993,6 +5014,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="work_profile_confirm_remove_title">Voleu suprimir el perfil professional?</string>
   <string name="work_profile_usage_access_warning">Encara que es desactivi l\'accés a l\'ús d\'aquesta aplicació, l\'administrador podrà continuar fent el seguiment de les aplicacions del perfil professional.</string>
   <string name="work_sim_title">SIM professional</string>
+  <string name="work_space_delete">Elimina l\'espai de treball</string>
+  <string name="work_space_delete_confirm">Confirma la supressió</string>
+  <string name="work_space_delete_description">"No podreu entrar a 'espai de treball després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Comproveu que el router s\'ha activat i és compatible amb WPS</string>
   <string name="wps_connect_title">Connexió WPS</string>

@@ -33,7 +33,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="corpus_selection_heading">Cerca</string>
   <string name="cta_declaration">"Aquesta característica requereix connexió a Internet, accés a la ubicació del seu dispositiu i veure el registre de trucades i contactes per funcionar normalment."</string>
   <string name="cta_declaration_ignore">"No mostrar de nou"</string>
-  <string name="cta_declaration_negative_text">Sortir</string>
+  <string name="cta_declaration_negative_text">"Sortir"</string>
   <string name="cta_declaration_positive_text">Permetre</string>
   <string name="cta_declaration_title">Termes del Servei</string>
   <string name="default_hint">Cerca aplicacions, música, vídeos, llibres\u2026</string>

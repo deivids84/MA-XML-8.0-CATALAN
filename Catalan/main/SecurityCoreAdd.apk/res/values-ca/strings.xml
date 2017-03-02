@@ -10,6 +10,9 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="add_finger_print">Afegeix empremta</string>
   <string name="air_space_created">S\'ha creat l\'espai de treball correctament</string>
   <string name="air_space_deleted">S\'ha eliminat l\'espai de treball correctament</string>
+  <string name="air_space_exit">Tanca l\'espai</string>
+  <string name="air_space_setting">Configuració de l\'espai</string>
+  <string name="airspace_users_full">"No es poden crear més espais de treball"</string>
   <string name="appData">Aplicacions instal·lades</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">Enrere</string>
@@ -41,6 +44,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="contactData">Contactes</string>
   <string name="contact_sub_titile_text">Les dades dels missatges estaran compartides entre els dos espais</string>
   <string name="contact_titile_text">"Mostreu els missatges privats en el Segon espai per poder veure\'ls en qualsevol moment"</string>
+  <string name="contact_us">Contacteu-nos</string>
   <string name="continueButton">Continuar</string>
   <string name="createANewSpace">Crear un espai separat al telèfon.</string>
   <string name="createUserFail">"No s'ha pogut crear"</string>
@@ -106,6 +110,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="keywords_sspace">Segon espai;Dos espais;2 espais;Amaga aplicacions;Amaga fitxers;Amaga fotos;Bloqueja la pantalla;Contrasenya de la pantalla de bloqueig;Privacitat;Mode privacitat;Mode privat;Privat;Mode convidat;Sessió de convidat;Accés convidat;Compte convidat;Convidat</string>
   <string name="keywords_xspace">Aplicació dual;Aplicacions duals;Aplicació doble;Aplicacions dobles;Clona l\'aplicació;Clona aplicacions;Clon d\'aplicació;Clon d\'aplicacions;Dos comptes;2 comptes</string>
   <string name="list_empty_text">Buit</string>
+  <string name="loading">Un moment&#8230;</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
   <string name="loading_space">Un moment&#8230;</string>
   <string name="loading_success">S\'ha carregat amb èxit</string>
@@ -123,6 +128,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="next_setp">Següent</string>
   <string name="no_match_repate_scanner">"No s'ha trobat una empremta que correspongui. Escanegeu una altra vegada"</string>
   <string name="normal_app">Primer espai</string>
+  <string name="not_support_air_space">"Aquesta característica no està disponible al vostre telèfon"</string>
   <string name="not_support_multiple_users">"No s'admeten múltiples espais"</string>
   <string name="notificationSetPassword">Establir contrasenya</string>
   <string name="notificationSetPasswordDes">Protegir les dades de Segon l\'espai</string>
@@ -135,6 +141,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="openPasswordGuard">Establiu la contrasenya del Segon espai</string>
   <string name="openSuccess">Activat</string>
   <string name="opened">Activat</string>
+  <string name="other">Altres</string>
   <string name="otherSettings">Altres configuracions</string>
   <string name="passWordGuardSummary">Entreu al Segon espai des de la pantalla de bloqueig utilitzant una contrasenya</string>
   <string name="passwordProtect">Contrasenya</string>
@@ -159,6 +166,10 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="restore_show_toast">No es mostren els missatges privats</string>
   <string name="retain_src_file">Mantenir arxius</string>
   <string name="retain_src_photo">Mantenir fotos</string>
+  <string name="same_qr_code_create_space">Crea un altre</string>
+  <string name="same_qr_code_des">Sembla que aquest espai de treball ja existeix. Podeu utilitzar la pantalla d\'inici i les dreceres de la barra d\'estat per anar-hi. Voleu anar-hi ara?</string>
+  <string name="same_qr_code_enter_space">Vés a l\'espai de treball</string>
+  <string name="same_qr_code_title">%s ja existeix</string>
   <string name="scanner_fingerprint">S\'està escanejant l\'empremta&#8230;</string>
   <string name="scanner_fingerprint_enter_second">"Escanegeu l\'empremta del Segon espai per entrar-hi des de la pantalla de bloqueig"</string>
   <string name="scanner_fingerprint_error_tips_desc">"No es troba una empremta que correspongui. Voleu afegir una empremta del Segon espai?"</string>

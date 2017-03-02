@@ -165,6 +165,7 @@
   <string name="exceed_message_text_limitation">Mida màxima de missatge de text assolit.</string>
   <string name="expire_on">Caduca: %s</string>
   <string name="exporting_progress_private_message">S\'està exportant&#8230;</string>
+  <string name="fail_to_add_attachment">"No s'ha pogut afegir el fitxer adjunt"</string>
   <string name="failed_to_add_media">"No pot afegir aquest %1$s al missatge."</string>
   <string name="failed_to_resize_image">Foto no redimensionada.</string>
   <string name="fake_cell_alert_hint">Sembla que aquest missatge va ser enviat des d\'un número de telèfon que és diferent del que es mostra. Aneu amb compte amb els SMS que contenen peticions financeres.</string>

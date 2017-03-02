@@ -4,6 +4,8 @@
   <string name="account_info">El meu compte</string>
   <string name="account_name_not_login">Inicia la sessió</string>
   <string name="account_unactivated">Compte no activat</string>
+  <string name="ad_app_download_start">S\'està iniciant la baixada&#8230;</string>
+  <string name="ad_app_is_downloading">S\'està baixant&#8230;</string>
   <string name="add_resource_detail_fail">"El recurs no es pot afegir"</string>
   <string name="all_resources">Tot</string>
   <string name="app_name">Temes</string>
@@ -410,6 +412,7 @@
   <string name="title_system_audio_resource">Tons del sistema</string>
   <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
   <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
+  <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
@@ -417,4 +420,8 @@
   <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
   <string name="wallpaper_settings">Configuració del fons de pantalla</string>
+  <string name="wallpaper_settings_change_wallpaper">Canvia</string>
+  <string name="wallpaper_settings_desktop_text">Pantalla d\'inici</string>
+  <string name="wallpaper_settings_lockscreen_text">Pantalla de bloqueig</string>
+  <string name="wallpaper_settings_page_title">fons de pantalla</string>
 </resources>

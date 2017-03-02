@@ -549,7 +549,7 @@
   <string name="select_dest_folder">Seleccionar carpeta</string>
   <string name="select_image">Triar fotos</string>
   <string name="select_interest_str">Seleccioneu els temes que li agraden</string>
-  <string name="select_interest_tip">Hi ha molt per descobrir!</string>
+  <string name="select_interest_tip">"Hi ha molt per descobrir!"</string>
   <string name="select_music">Triar cançons</string>
   <string name="select_video">Triar vídeos</string>
   <string name="select_volume">Seleccioneu volum</string>
