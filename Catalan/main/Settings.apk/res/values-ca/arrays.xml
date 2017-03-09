@@ -809,18 +809,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>2 minuts</item>
     <item>5 minuts</item>
   </string-array>
-  <string-array name="fluency_mode_entries">
-    <item>Amaga les animacions del sistema</item>
-    <item>Mostra les animacions del sistema</item>
-  </string-array>
-  <string-array name="fluency_mode_summaries">
-    <item>"Accelera el rendiment del dispositiu"</item>
-    <item>"Pot alentir el rendiment del dispositiu"</item>
-  </string-array>
-  <string-array name="fluency_mode_confirms">
-    <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
-    <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
-  </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>
     <item>Mode d\'infants</item>

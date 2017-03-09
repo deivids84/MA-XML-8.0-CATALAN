@@ -5,9 +5,9 @@
   <string name="Disconnect">Desconnectar</string>
   <string name="Register">registrar</string>
   <string name="Start">Inicia</string>
-  <string name="StartScan">Inicia l\'escaneig</string>
+  <string name="StartScan">Inicia l\'anàlisi</string>
   <string name="Stop">Aturar</string>
-  <string name="StopScan">Aturar escaneig</string>
+  <string name="StopScan">Atura l\'anàlisi</string>
   <string name="TestBonjour">Testar Bonjour</string>
   <string name="TestP2pGc">Testar P2pGroupClient</string>
   <string name="TestP2pGo">Testar P2pGroupOwner</string>

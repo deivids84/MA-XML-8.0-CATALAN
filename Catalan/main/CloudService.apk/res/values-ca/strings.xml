@@ -307,6 +307,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_content_battery_low">Bateria massa baixa.</string>
   <string name="micloud_notif_content_clipboard_push">Es pot enganxar a qualsevol lloc.</string>
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
+  <string name="micloud_notif_content_dirty_data">Detalls</string>
   <string name="micloud_notif_content_master_depend_wifi">Connectar a Wi-Fi primer.</string>
   <string name="micloud_notif_content_memory_low">No hi ha prou espai.</string>
   <string name="micloud_notif_content_multi_user_error">Vostè ha iniciat sessió amb el mateix compte que en el primer espai.</string>
@@ -315,6 +316,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_content_sync_with_off">Tocar per sincronitzar ara.</string>
   <string name="micloud_notif_title_battery_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Contingut copiat al porta-retalls</string>
+  <string name="micloud_notif_title_dirty_data">Teniu dades sense sincronitzar-se</string>
   <string name="micloud_notif_title_master_depend_wifi">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"No es pot sincronitzar amb Mi Cloud"</string>

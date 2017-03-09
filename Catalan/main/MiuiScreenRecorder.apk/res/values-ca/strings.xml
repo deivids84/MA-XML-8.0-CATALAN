@@ -15,9 +15,6 @@
   <string name="button_goon_recorder">Reprèn</string>
   <string name="cancel_edit">Cancel·la</string>
   <string name="cannot_change_parames">"No es poden canviar els paràmetres mentre s'enregistra"</string>
-  <string name="delete_confirm_text">Voleu eliminar aquest enregistrament de pantalla?</string>
-  <string name="delete_confirm_text_multi1">Elimina</string>
-  <string name="delete_confirm_text_multi2">enregistraments de pantalla?</string>
   <string name="deselect_all">Anul·la tota la selecció</string>
   <string name="error_open_file_failed_no_app_found">"No s'ha pogut trobar una aplicació per obrir aquest fitxer"</string>
   <string name="frames">Taxa de fotogrames</string>

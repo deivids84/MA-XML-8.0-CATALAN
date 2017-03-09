@@ -259,7 +259,7 @@
   <string name="uninstall_xspace_dialog_message">Si desinstal·leu l\'aplicació duplicada s\'eliminaran totes les dades d\'aplicació.</string>
   <string name="uninstall_xspace_dialog_title_format">Desinstal·lació de l\'aplicació duplicada \"%s\"</string>
   <string name="unknown_artist_name">Artista desconegut</string>
-  <string name="unnamed_folder_name">Carpeta sense nom</string>
+  <string name="unnamed_folder_name">Carpeta</string>
   <string name="wallpaper">Fons de pantalla</string>
   <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>

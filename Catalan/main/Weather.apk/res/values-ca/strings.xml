@@ -100,6 +100,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="indices_title_sport">Esport</string>
   <string name="indices_title_uv">Índex UV</string>
   <string name="indices_title_visibility">Visibilitat</string>
+  <string name="information_manager_default_weather_bg">Fons del temps per defecte</string>
   <string name="information_manager_extension">Extensió del temps</string>
   <string name="information_manager_information">Informació meteorològica</string>
   <string name="information_manager_wlan">Mostra quan estigui connectat al Wifi</string>

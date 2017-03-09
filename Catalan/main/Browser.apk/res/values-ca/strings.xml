@@ -332,7 +332,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
-  <string name="history_saved_webpage">Desa la pàgina</string>
+  <string name="history_saved_webpage">Pàgines desades</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Elimina</string>
   <string name="homepage_get_location">Obtén la localització</string>

@@ -83,7 +83,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
   <string name="conference_caller_info_name">"Trucada de conferència de %1$s"</string>
   <string name="conference_caller_name_me">Jo</string>
-  <string name="conference_callers_exceeded">S\'ha excedit el número de participants</string>
+  <string name="conference_callers_exceeded">"S'ha excedit el número de participants"</string>
   <string name="contacts_icon_label">Contactes</string>
   <string name="default_area_code_setting">Codi d\'àrea per defecte</string>
   <string name="description_image_button_answer">Feu lliscar amunt per respondre</string>

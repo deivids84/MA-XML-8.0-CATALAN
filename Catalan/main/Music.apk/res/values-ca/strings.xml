@@ -439,7 +439,7 @@
   <string name="local_page_artist">Artistes als que seguiu</string>
   <string name="local_page_custom_subtitle">Noves cançons cada dia</string>
   <string name="local_page_custom_title">Per a vós</string>
-  <string name="local_page_playlist">Les meves llistes de reproducció</string>
+  <string name="local_page_playlist">Llistes de reproducció</string>
   <string name="local_page_song_all">Totes les cançons</string>
   <string name="local_page_song_download">Cançons locals</string>
   <string name="local_page_song_download_history">Baixades</string>
@@ -630,7 +630,7 @@
   <string name="playlist_type_artist">Artista</string>
   <string name="playlist_type_billboard">Llistes</string>
   <string name="playlist_type_fm">FM</string>
-  <string name="playlist_type_my">Les meves llistes de reproducció</string>
+  <string name="playlist_type_my">Llistes de reproducció</string>
   <string name="playlist_type_recommend">Llistes de reproducció destacades</string>
   <string name="playlist_unavailable">"La llista de reproducció no està disponible. Per eliminar-la, premeu i manteniu, després trieu eliminar."</string>
   <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>

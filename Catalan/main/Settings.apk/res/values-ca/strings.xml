@@ -120,7 +120,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_wifi_two_bars">Senyal de Wi-Fi moderat.</string>
   <string name="accessibility_work_account_title">Compte de la feina - %s</string>
   <string name="account_add">Afegeix</string>
-  <string name="account_autostar_label">Engegada automàtica</string>
+  <string name="account_autostar_label">Inici automàtic</string>
   <string name="account_list">Altres comptes</string>
   <string name="account_settings">Comptes</string>
   <string name="account_settings_menu_auto_sync">Sincronització automàtica de dades</string>
@@ -144,7 +144,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="add_a_language">Afegeix un idioma</string>
   <string name="add_account_label">Afegiu un compte</string>
-  <string name="add_auto_startup_application">Afegiu aplicacions d\'engegada automàtica</string>
+  <string name="add_auto_startup_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="add_device_admin">Activa</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_fingerprint_done_msg">Desbloqueja el dispositiu amb l\'empremta.</string>
@@ -1041,6 +1041,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="current_use_ese_wallet">"Mi Wallet permet pagar amb Mi Pay i amb targetes de transport NFC."</string>
   <string name="current_use_hce_wallet">"Esteu utilitzant el Mi Wallet"</string>
   <string name="current_use_uicc_se">S\'està utilitzant un element segur a la targeta SIM</string>
+  <string name="current_use_uicc_wallet">"Esteu utilitzant el SIM%1$s Wallet"</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromatisme</string>
@@ -1570,8 +1571,6 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="firmware_version">Versió d\'Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
-  <string name="fluency_mode">Animacions del sistema</string>
-  <string name="fluency_mode_confirm_and_reboot">Reinicia</string>
   <string name="font_size_exhuge">Extra grossa</string>
   <string name="font_size_huge">Molt grossa</string>
   <string name="font_size_large">Grossa</string>
@@ -1695,7 +1694,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="global_locale_change_title">Canvia d\'idioma</string>
   <string name="go_back_button_label">Torna enrere</string>
   <string name="google_backup_enable">Activa la còpia de seguretat</string>
-  <string name="google_backup_section_title">Restaura la còpia de seguretat de Google</string>
+  <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
   <string name="got_it">D\'acord</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
@@ -2173,7 +2172,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="main_netcheck_summary">Connexió de prova per problemes de xarxa</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
   <string name="make_sure_cancel_update">Voleu cancel·lar l\'actualització?</string>
-  <string name="man_add_application">Afegiu aplicacions d\'engegada automàtica</string>
+  <string name="man_add_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
   <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
@@ -3174,7 +3173,7 @@ Per fer-ho:
   <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pattern">Demana el patró de desbloqueig per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pin">Demana el codi PIN per anul·lar el fixat</string>
-  <string name="screen_recorder">Enregistra la pantalla</string>
+  <string name="screen_recorder">Enregistrador de pantalla</string>
   <string name="screen_resolution_dialog_title">Canvia la resolució</string>
   <string name="screen_resolution_high_format">Alta (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -3251,6 +3250,7 @@ Per fer-ho:
   <string name="se_route_uicc">Element segur a la targeta SIM</string>
   <string name="se_wallet_ese">Mi Wallet permet pagar amb Mi Pay i sistemes NFC.</string>
   <string name="se_wallet_hce">Utilitza HCE Wallet</string>
+  <string name="se_wallet_uicc">Utilitza el SIM%1$s Wallet</string>
   <string name="search_about_settings">Quant al telèfon;Número de model;Versió d\'Android;Versió MIUI;CPU;Memòria RAM;Memòria interna;Versió de banda base;Versió del nucli;Número de compilació</string>
   <string name="search_accelerometer_title">Orientació automàtica de la pantalla;Orientació de la pantalla;Orientació:Retrat;Apaïsada</string>
   <string name="search_access_control">Configuració de privadesa;Seguretat de la privadesa;Convidat;Mode de convidat</string>

@@ -5,7 +5,6 @@
   <string name="action_mode_deselect_all">Anul·la tota la selecció</string>
   <string name="action_mode_select_all">Seleccionar tot</string>
   <string name="activity_parse_video_title">Enganxar URL</string>
-  <string name="activity_rule">Regles</string>
   <string name="ad_download">Baixada</string>
   <string name="ad_downloading">Un moment&#8230;</string>
   <string name="add_follow">Segueix</string>
@@ -109,6 +108,10 @@
   <string name="comment_added_tip">"Esteu afegint molts comentaris. Voleu seguir a aquesta persona?"</string>
   <string name="comment_delete_message">El comentari se suprimirà permanentment.</string>
   <string name="comment_delete_title">Elimina el comentari</string>
+  <string name="comment_fail">"No s'ha pogut publicar el comentari, torneu-ho a provar"</string>
+  <string name="comment_fail_banned_forever">"Heu estat expulsat de forma permanent per els comentaris inapropiats. Poseu-vos en contacte amb el nostre grup de QQ (374463568) per obtenir més informació."</string>
+  <string name="comment_fail_banned_forever_positive">D\'acord</string>
+  <string name="comment_fail_banned_temporary">"Heu estat expulsat de forma permanent per els comentaris inapropiats"</string>
   <string name="comment_hint">Afegir comentari</string>
   <string name="comment_reply">Resposta %1$s:&#160;</string>
   <string name="compress_fail">"No s'ha pogut comprimir. Ja existeix un fitxer amb el mateix nom."</string>
@@ -314,7 +317,6 @@
   <string name="message_praise_video">" m'ha agradat aquest vídeo"</string>
   <string name="message_reply_prefix">Respondre</string>
   <string name="message_reply_suffix">": "</string>
-  <string name="message_title">Els meus missatges</string>
   <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
   <string name="midrop_msg_2">Quan Mi Drop estigui actiu, pot buscar dispositius propers i enviar fitxers</string>
@@ -421,14 +423,10 @@
   <string name="original_user_signal">Equip de talent</string>
   <string name="original_user_title">Enhorabona! Heu esdevingut membre de l\'equip de Talent.</string>
   <string name="original_user_verify">• Gràcies per quedar-vos!</string>
-  <string name="other_user_fans_tab">Fans</string>
   <string name="other_user_follow_tab">Seguint</string>
   <string name="other_user_liked_topic_tip">No hi ha temes</string>
-  <string name="other_user_liked_video_tab">Preferits</string>
   <string name="other_user_no_follow_tip">"No heu seguit ningú encara."</string>
   <string name="other_user_no_liked_video_tip">No hi ha vídeos que hagin agradat.</string>
-  <string name="other_user_topic_tab">Temes</string>
-  <string name="other_user_video_tab">Pujades</string>
   <string name="partial_cancel_successful">"No s'han pogut treure alguns fitxers. La resta van ser moguts a %s."</string>
   <string name="partial_delete_failure">"No s'han pogut eliminar alguns fitxers, intenta de nou"</string>
   <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
@@ -554,7 +552,6 @@
   <string name="select_video">Triar vídeos</string>
   <string name="select_volume">Seleccioneu volum</string>
   <string name="send_comment">Enviar</string>
-  <string name="send_error">"No es pot afegir comentari"</string>
   <string name="send_sticker">Enviar adhesiu</string>
   <string name="send_to_qq">Enviar a QQ</string>
   <string name="send_to_weixin">Enviar a WeChat</string>
@@ -586,10 +583,6 @@
   <string name="share_to">Compartir per&#8230;</string>
   <string name="share_topic_desc">Pugeu vídeos per obtenir premis</string>
   <string name="share_topic_title">"Estic veient #%1$s#, feu una ullada!"</string>
-  <string name="share_youliao1">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao2">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao3">Actualitzeu per veure més capítols.</string>
-  <string name="share_youliao4">Actualitzeu per veure més capítols.</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_str">Compartits per fans de Mi</string>
@@ -649,7 +642,6 @@
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
   <string name="topic_message">%1$s: %2$s</string>
-  <string name="topic_winners">Guanyadors previs</string>
   <string name="transfer_done">Fitxers moguts correctament.</string>
   <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>
   <string name="type_not_support">"Aquest format de fitxer no està suportat. Descomprimeix aquest fitxer i torna a provar."</string>
@@ -665,7 +657,6 @@
   <string name="unlogin">Inicieu primer la sessió</string>
   <string name="unmount_inform_text">Desmuntar l\'emmagatzematge USB?</string>
   <string name="unreviewed_video_cannot_share">Els vídeos han de ser ressenyats abans de ser compartits</string>
-  <string name="update">Actualitza</string>
   <string name="update_failed">"No s'ha pogut desar, intenteu-ho de nou"</string>
   <string name="update_loading">S\'està desant&#8230;</string>
   <string name="upload_avatar_camera">Càmera</string>
@@ -705,12 +696,10 @@
   <string name="user_icon">Foto del perfil</string>
   <string name="user_id_tip">ID:</string>
   <string name="user_info_setting">Editar la informació</string>
-  <string name="user_like_text">M\'agrada</string>
   <string name="user_liked_video_title">Vídeos que m\'agraden</string>
   <string name="user_login_dialog_cancle">Cancel·lar</string>
   <string name="user_login_dialog_tip">Connecta\'t per compartir vídeos, participar en rànquings, i guanyar premis</string>
   <string name="user_login_dialog_title">Iniciar sessió</string>
-  <string name="user_message_text">Missatges</string>
   <string name="user_nickname">Àlies</string>
   <string name="user_nickname_limit">L\'àlies ha de tenir de 4 a 20 caràcters</string>
   <string name="user_no_fans_tip">Sense seguidors</string>
@@ -743,7 +732,6 @@
   <string name="user_sex">Sexe</string>
   <string name="user_sign">Signatura</string>
   <string name="user_topic_text">Els meus temes</string>
-  <string name="user_upload_text">Pujades</string>
   <string name="user_video_text">Els meus vídeos</string>
   <string name="utf8_summary">Codificació per defecte del sistema FTP</string>
   <string name="utf8_title">UTF-8</string>
@@ -810,9 +798,6 @@
   <string name="weibo_str">Weibo</string>
   <string name="weixin_not_installed">"WeChat no està instal·lat"</string>
   <string name="weixin_sticker_tag_str">Adhesius de WeChat</string>
-  <string name="welcome_to_my_page">Benvinguts a la meva pàgina inicial</string>
-  <string name="welcome_to_my_page_1">Seguiu-me!</string>
-  <string name="welcome_to_my_page_2">Segueix-me!</string>
   <string name="wifi_state">Xarxa Wi-Fi</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_btn_bind">Compte Mi</string>
@@ -831,9 +816,5 @@
 Formeu part dels 170 milions de Mi Fans!"</string>
   <string name="youliao_ad_title">S\'han actualitzat els vídeos populars!</string>
   <string name="youliao_ad_update">Actualitza</string>
-  <string name="youliao_dialog_msg">"Els vídeos populars van ser substituïts per «Youliao»
-és tracta d\'una aplicació dedicada a portar més diversió!"</string>
-  <string name="youliao_dialog_title">No trobeu vídeos interessants?</string>
   <string name="youliao_master_rank">Top de Youliao</string>
-  <string name="zero">0</string>
 </resources>

@@ -117,10 +117,6 @@
     <item quantity="other">seguidors</item>
     <item quantity="one">seguidor</item>
   </plurals>
-  <plurals name="user_upload_items">
-    <item quantity="other">vídeos</item>
-    <item quantity="one">vídeo</item>
-  </plurals>
   <plurals name="video_count">
     <item quantity="other">%1$s vídeos</item>
     <item quantity="one">%1$s vídeo</item>

@@ -1536,7 +1536,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_mms_yes">Filtre de missatges activat</string>
   <string name="title_network_switch">Connexió de xarxa</string>
   <string name="title_of_app_manage">Aplicacions</string>
-  <string name="title_of_auto_launch_manage">Engegada automàtica</string>
+  <string name="title_of_auto_launch_manage">Inici automàtic</string>
   <string name="title_of_operators_set">Configuració de l\'operador</string>
   <string name="title_of_package_set">Configuració del pla de dades</string>
   <string name="title_payment_risk">Riscos en el pagament</string>
@@ -1669,6 +1669,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
+  <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>

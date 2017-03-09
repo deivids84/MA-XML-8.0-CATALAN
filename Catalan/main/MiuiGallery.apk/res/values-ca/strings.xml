@@ -84,7 +84,7 @@
   <string name="all_items_synced">S\'han copiat tots els àlbums a Mi Cloud</string>
   <string name="all_video_album_display_name">Tots els vídeos</string>
   <string name="already_create_baby_album">L\'àlbum de nadó ja existeix a Mi Cloud.</string>
-  <string name="and">i</string>
+  <string name="and">&#160;i&#160;</string>
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Veure fotos</string>
   <string name="app_name_view_video">Reproducció de vídeos</string>
@@ -135,6 +135,7 @@
   <string name="backup_cloud_space_low_title">No hi ha prou espai al Mi Cloud</string>
   <string name="backup_cta_not_allow">"No es pot accedir a la xarxa"</string>
   <string name="backup_cta_not_allow_btn_text">Permet</string>
+  <string name="backup_detail_page_empty">Sense fotos o vídeos esperant la còpia de seguretat</string>
   <string name="backup_detail_page_title">Còpia de seguretat de Mi Cloud</string>
   <string name="backup_device_space_low_btn_text">Neteja</string>
   <string name="backup_device_space_low_desc">Allibereu espai per continuar copiant elements</string>
@@ -851,7 +852,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="more_face_album_name">Més persones</string>
   <string name="move_to_other_albums_tip">La sincronització d\'aquest àlbum amb Mi Cloud es desactivarà si el moveu a altres àlbums. Esteu segur de voler moure\'l?</string>
   <string name="must_pick_file">Seleccioneu una foto</string>
-  <string name="name_split">,</string>
+  <string name="name_split">,&#160;</string>
   <string name="need_to_turn_on_network">"El dispositiu no està connectat a Internet"</string>
   <string name="need_to_turn_on_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="need_to_turn_on_sync_first">Cal que primer activeu la sincronització amb Mi Cloud</string>

@@ -322,6 +322,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_prx_drx_start_test">Inicia la prova</string>
   <string name="cit_tool_prx_drx_stop_test">Atura la prova</string>
   <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_radio_infor">Informació del terminal ràdio</string>
+  <string name="cit_tool_radio_infor_voiceNetworkTech">Informació del terminal ràdio</string>
   <string name="cit_tool_rf_ant">Eines d\'RF/antena</string>
   <string name="cit_tool_wifi">Eina de prova Wi-Fi</string>
   <string name="cit_tool_wifi_chain_1">1</string>

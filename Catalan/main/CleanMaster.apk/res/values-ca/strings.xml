@@ -16,7 +16,7 @@
   <string name="activity_title_news">Notícies</string>
   <string name="activity_title_privacy_cache">Memòria cau privada</string>
   <string name="activity_title_residual">Residuals</string>
-  <string name="activity_title_scanfinish">S\'ha completat l\'exploració</string>
+  <string name="activity_title_scanfinish">S\'ha completat l\'anàlisi</string>
   <string name="activity_title_screenshot">Captures de pantalla</string>
   <string name="activity_title_settings">Configuració</string>
   <string name="activity_title_similar_image">Fotos duplicades</string>
@@ -164,7 +164,7 @@
   <string name="dialog_title_delete_image">Esborrar les imatges seleccionades</string>
   <string name="dialog_title_esc_cleanmaster">Sortir del netejador</string>
   <string name="dialog_title_load_cleanup_engine_error">Quelcom ha fallat</string>
-  <string name="dialog_title_stop_scan">Aturar l\'escaneig</string>
+  <string name="dialog_title_stop_scan">Atura l\'anàlisi</string>
   <string name="dialog_title_uninstall_apps">Desinstal·lar</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
@@ -206,7 +206,7 @@
   <string name="hints_deepclean_scanning">S\'està escanejant %s</string>
   <string name="hints_finish_quick_cleanup">Fet</string>
   <string name="hints_finish_quick_cleanup_title">Acabada neteja %s residuals</string>
-  <string name="hints_finish_quick_scan">Escaneig finalitzat</string>
+  <string name="hints_finish_quick_scan">Anàlisi finalitzat</string>
   <string name="hints_garbage_cleanup_result_danger">Neteja l\'emmagatzematge intern</string>
   <string name="hints_garbage_cleanup_result_risk">Neteja l\'emmagatzematge intern</string>
   <string name="hints_garbage_cleanup_result_safe">Tot sembla correcte</string>
@@ -266,7 +266,7 @@
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
-  <string name="last_check_canceled">L\'escaneig anterior va ser cancel·lat</string>
+  <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
   <string name="load_only_under_wlan">Carregar notícies quan es connecta al Wi-Fi</string>
   <string name="location_not_found">"No es pot trobar el fitxer"</string>
   <string name="login_immediately">Inicia la sessió</string>
@@ -318,7 +318,7 @@
   <string name="pref_category_title_auto_clean_settings">Neteja automàtica</string>
   <string name="pref_category_title_auto_update_cleanup_db">Configuració addicional</string>
   <string name="pref_category_title_cleanup_white_list">Excepcions</string>
-  <string name="pref_category_title_engine_settings">Configuració de les definicions d\'escaneig</string>
+  <string name="pref_category_title_engine_settings">Configuració de les definicions d\'anàlisi</string>
   <string name="pref_category_title_garbage_cleanup_check">Notificacions</string>
   <string name="pref_category_title_other_clean_settings">Configuració addicional</string>
   <string name="pref_content_cleanup_white_list_none">Cap</string>
@@ -404,7 +404,7 @@
   <string name="tips_of_auto_launch_manage">Eviteu que les aplicacions que no feu servir gairebé mai s\'iniciïn automàticament</string>
   <string name="tips_of_cloud_service">Inicieu sessió amb el vostre Compte Mi per utilitzar més serveis Mi</string>
   <string name="tips_of_connect">Connecteu-vos a internet per utilitzar totes les funcionalitats de Seguretat</string>
-  <string name="tips_of_garbage_cloud_scan">Trobeu brossa oculta amb l\'escaneig en el núvol</string>
+  <string name="tips_of_garbage_cloud_scan">Trobeu brossa oculta amb l\'anàñisi al núvol</string>
   <string name="tips_of_garbage_data_set">Actualitzeu la base de dades del Netejador per trobar més brossa en el dispositiu</string>
   <string name="tips_of_network_speed_set">Mostra la velocitat de la xarxa a la barra d\'estat</string>
   <string name="tips_of_operators_set">Ajusteu automàticament les estadístiques d\'ús de dades</string>
@@ -420,7 +420,7 @@
   <string name="title_of_app_manage">Aplicacions</string>
   <string name="title_of_auto_launch_manage">Inici automàtic</string>
   <string name="title_of_cloud_service">Serveis en el núvol</string>
-  <string name="title_of_garbage_cloud_scan">Escaneig en el núvol</string>
+  <string name="title_of_garbage_cloud_scan">Anàlisi al núvol</string>
   <string name="title_of_garbage_data_set">Actualitzacions de base de dades del Netejador</string>
   <string name="title_of_network_speed_set">Mostrar velocitat de xarxa en la barra d\'estat</string>
   <string name="title_of_operators_set">Configuració de l\'operador</string>
@@ -451,7 +451,7 @@
   <string name="total_clean_text">Netejat</string>
   <string name="traffic_top">Les 5 aplicacions que més dades consumeixen</string>
   <string name="update_date_format">dd/MM/yyyy</string>
-  <string name="virus_scan">Escaneig de virus</string>
+  <string name="virus_scan">Anàlisi de virus</string>
   <string name="wechat_add_to_cleanlist">S\'ha netejat amb èxit</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
   <string name="wechat_chat_clean_done">Tot sembla correcte</string>
@@ -469,9 +469,9 @@
   <string name="wechat_clean_downloads">Fitxers rebuts</string>
   <string name="wechat_clean_downloads_desc">Fitxers rebuts al WeChat</string>
   <string name="wechat_clean_exit_confirm">Voleu sortir?</string>
-  <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'escaneig i sortir?</string>
-  <string name="wechat_clean_stop_confirm">Voleu aturar l\'escaneig?</string>
-  <string name="wechat_clean_stop_confirm_msg">Voleu aturar l\'escaneig?</string>
+  <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
+  <string name="wechat_clean_stop_confirm">Voleu aturar l\'anàlisi?</string>
+  <string name="wechat_clean_stop_confirm_msg">Voleu aturar l\'anàlisi?</string>
   <string name="wechat_content_bad_pic_file">L\'arxiu està malmès</string>
   <string name="wechat_content_empty">No hi ha arrxius per exportar</string>
   <string name="wechat_copy_to_gallery">Exporta-ho a la galeria</string>

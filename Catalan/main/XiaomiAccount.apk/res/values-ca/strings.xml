@@ -116,7 +116,7 @@
   <string name="find_device_access_denied">"No es pot obtenir l'estat, no es permet l'accés"</string>
   <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
   <string name="find_device_activate_account">Activa el compte</string>
-  <string name="find_device_bad_response_error">"No es pot obtenir l'estat per un error de servidor, proveu-ho més tard"</string>
+  <string name="find_device_bad_response_error">No es pot obtenir l\'estat per un error de servidor, proveu-ho més tard</string>
   <string name="find_device_display_id">Número de desbloqueig: %s</string>
   <string name="find_device_error_password_not_confirmed">"No es pot aturar Troba dispositiu. Introduïu la contrasenya del compte MI un altre cop."</string>
   <string name="find_device_error_password_recently_changed">"Ja heu canviat la vostra contrasenya en els darrers 3 dies. No es pot apagar Troba dispositiu per raons de seguretat."</string>
@@ -128,7 +128,7 @@
   <string name="find_device_operation_failed_error">S\'ha produït un error</string>
   <string name="find_device_operation_failed_error_unknown">S\'ha produït un error, proveu-ho més tard</string>
   <string name="find_device_remote_exception">Error RPC</string>
-  <string name="find_device_request_error">"No es pot sol·licitar informació de l'estat, intenteu-ho més tard"</string>
+  <string name="find_device_request_error">No es pot sol·licitar informació de l\'estat, intenteu-ho més tard</string>
   <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
