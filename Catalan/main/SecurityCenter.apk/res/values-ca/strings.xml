@@ -976,8 +976,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_consume_rank_hardware">Maquinari</string>
   <string name="power_consume_rank_software">Aplicacions</string>
   <string name="power_consume_rank_title">Ús de bateria</string>
-  <string name="power_consume_total_hardware">Maquinari: %1$d%%</string>
-  <string name="power_consume_total_software">Aplicacions: %1$d%%</string>
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
