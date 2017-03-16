@@ -288,7 +288,7 @@
   <string name="confirm_save_message_yes">Sí</string>
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l'assumpte del missatge."</string>
-  <string name="confirm_send_title">Enviar missatge?</string>
+  <string name="confirm_send_title">Voleu enviar el missatge?</string>
   <string name="contact_edit_set_black_list_from">Mou tots els emails d\'aquest remitent a les escombraries</string>
   <string name="contact_edit_set_black_list_receive">Moure emails amb aquest destinatari a les escombraries (només nous)</string>
   <string name="contact_edit_set_black_list_receive_summary">Esborrar correus electrònics que incloguin aquest destinatari en els camps Per o Cc</string>
@@ -313,12 +313,12 @@
   <string name="contextmenu_create">Crea un nou contacte</string>
   <string name="contextmenu_dial_dot">Marca&#8230;</string>
   <string name="contextmenu_edit">Editar contacte</string>
-  <string name="contextmenu_feedback">Enviar comentaris</string>
+  <string name="contextmenu_feedback">Envia els comentaris</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
   <string name="contextmenu_open">Obrir</string>
   <string name="contextmenu_openlink">Obrir al navegador</string>
-  <string name="contextmenu_send_mail">Enviar email</string>
+  <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
   <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
@@ -332,8 +332,8 @@
   <string name="conversation_view">Vista de conversa</string>
   <string name="conversation_view_keywords">vista de conversa;conversa del correu</string>
   <string name="copied">Copiat</string>
-  <string name="copy_email">Copiar l\'adreça de correu electrònic</string>
-  <string name="copy_number">Copiar el número telefònic</string>
+  <string name="copy_email">Copia l\'adreça del correu electrònic</string>
+  <string name="copy_number">Copia el número telefònic</string>
   <string name="create_action">Nou</string>
   <string name="credit_limit_text">Límit de crèdit</string>
   <string name="cur_debt">Saldo del compte</string>
@@ -372,7 +372,7 @@
   <string name="donot_disturb_starttime_title">De</string>
   <string name="donot_disturb_summary">Les notificacions dels correus electrònics que arriben seran silenciades</string>
   <string name="donot_disturb_title">No molestar</string>
-  <string name="downlaod_cancel_confirm_download">Cancel·lar la descàrrega</string>
+  <string name="downlaod_cancel_confirm_download">Atura</string>
   <string name="downlaod_cancel_continue_download">"Cancel·la"</string>
   <string name="downlaod_confirm_download">Baixa</string>
   <string name="downlaod_nonWifi_confirm_message">Voleu utilitzar la connexió de dades per descarregar aquest adjunt?</string>
@@ -415,7 +415,7 @@
   <string name="failed_read_phone_state_permission">"Permet l'accés a l'estat del dispositiu"</string>
   <string name="failed_read_write_calendar_permission">Permet l\'accés al Calendari</string>
   <string name="failed_read_write_contacts_permission">Permet l\'accés als Contactes</string>
-  <string name="feedback">Enviar comentaris</string>
+  <string name="feedback">Envia els comentaris</string>
   <string name="feedback_body">Comentaris</string>
   <string name="feedback_sent">Gràcies pels seus comentaris. Seguirem millorant per a vostè</string>
   <string name="feedback_user_edit_hint">Descriu el problema aquí. Li enviarem un correu electrònic després que ens fixem en ell.</string>
@@ -625,7 +625,7 @@
   <string name="message_invite_tentative">Potser</string>
   <string name="message_invite_title">Convida al calendari</string>
   <string name="message_saved">Missatge guardat com a esborrany.</string>
-  <string name="message_view_attachment_background_load">Els adjunts del missatge reenviat es descarregaran abans d\'enviar-los.</string>
+  <string name="message_view_attachment_background_load">Els adjunts del missatge reenviat es baixaran abans d\'enviar-los.</string>
   <string name="mibill_privacy_policy_button1">Més tard</string>
   <string name="mibill_privacy_policy_button2">D\'acord</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
@@ -693,7 +693,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="outbox_alert_description_reject_by_server">Rebutjat per %s</string>
   <string name="outbox_alert_description_sent_failed">"La mida del fitxer adjunt supera el límit del servidor."</string>
   <string name="outbox_alert_duplicate_click">Enviant ara&#8230;</string>
-  <string name="outbox_alert_edit_resend">Editar i enviar de nou</string>
+  <string name="outbox_alert_edit_resend">Edita i envia de nou</string>
   <string name="outbox_alert_failed_edit_resend">"No s'ha pogut enviar. Editeu i torneu a provar.\""</string>
   <string name="outbox_alert_mailbox_not_found">Direcció de correu electrònic no trobada</string>
   <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
@@ -902,7 +902,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
-  <string name="send">Enviar</string>
+  <string name="send">Envia</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="send_feed_back">Envia els suggeriments</string>
   <string name="send_feed_back_keywords">envia suggeriments</string>
@@ -1009,7 +1009,7 @@ Voleu aturar-ho?"</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
-  <string name="upload_log_no">Cancel·lar</string>
+  <string name="upload_log_no">Cancel·la</string>
   <string name="upload_log_success">"Els registres s'han pujat correctament"</string>
   <string name="upload_log_title">Pujar els registres ara?</string>
   <string name="upload_log_yes">Pujar</string>

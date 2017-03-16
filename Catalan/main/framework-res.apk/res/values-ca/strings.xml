@@ -965,7 +965,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgroupdesc_microphone">enregistra l\'àudio</string>
   <string name="permgroupdesc_phone">fer i gestionar trucades telefòniques</string>
   <string name="permgroupdesc_sensors">accedir a les dades del sensor sobre els signes vitals</string>
-  <string name="permgroupdesc_sms">enviar i llegir missatges SMS</string>
+  <string name="permgroupdesc_sms">SMS</string>
   <string name="permgroupdesc_storage">accedir a fotos, contingut multimèdia i fitxers del dispositiu</string>
   <string name="permgrouplab_calendar">Calendari</string>
   <string name="permgrouplab_camera">Càmera</string>

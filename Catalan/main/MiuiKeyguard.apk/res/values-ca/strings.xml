@@ -31,6 +31,7 @@
   <string name="incorrect_pukcode">Codi PUK incorrecte</string>
   <string name="incorrect_pukcode_remaining_attempts">Codi PUK incorrecte, queden %d intents</string>
   <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la contrasenya</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Cal que accediu al primer espai després de reiniciar el dispositiu</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="input_pattern_hint_text">Traceu el patró de desbloqueig</string>
   <string name="input_pin_code">PIN?</string>

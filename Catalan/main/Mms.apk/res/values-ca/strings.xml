@@ -80,7 +80,7 @@
   <string name="confirm_delete_all_SIM_messages">Voleu eliminar tots els missatges de la SIM?</string>
   <string name="confirm_delete_all_conversations">Voleu eliminar totes les converses?</string>
   <string name="confirm_delete_conversation">Voleu suprimir aquest fil sencer?</string>
-  <string name="confirm_delete_group_message">Voleu suprimir els missatges de grup?</string>
+  <string name="confirm_delete_group_message">Voleu eliminar els missatges de grup?</string>
   <string name="confirm_delete_locked_message">Voleu eliminar aquest missatge bloquejat?</string>
   <string name="confirm_delete_message">Voleu eliminar aquest missatge?</string>
   <string name="confirm_dialog_locked_title">Voleu eliminar el missatge bloquejat?</string>
@@ -105,7 +105,7 @@
   <string name="context_menu_call">Trucada</string>
   <string name="context_menu_contact">Contacte: %1$s</string>
   <string name="context_menu_copy">Copia</string>
-  <string name="context_menu_copy_notice">Copiat al porta-retalls</string>
+  <string name="context_menu_copy_notice">S\'ha copiat al porta-retalls</string>
   <string name="context_menu_new_contact">Crea un nou contacte</string>
   <string name="context_menu_send_mail">Envia un correu</string>
   <string name="context_menu_send_sms">Envia el missatge</string>
@@ -322,7 +322,7 @@
   <string name="mx_and_voip_enable_popup_msg2">Política de privacitat</string>
   <string name="mx_auto_resend_mms">Envia com a MMS</string>
   <string name="mx_auto_resend_mms_summary">"S'enviaran els missatges multimèdia com a MMS a través de la connexió de dades mòbils quan no estigueu connectat a Wi-Fi. Això provocarà els càrrecs corresponents del vostre operador."</string>
-  <string name="mx_auto_resend_sms">Envia com MMS</string>
+  <string name="mx_auto_resend_sms">Envia com a SMS</string>
   <string name="mx_auto_resend_sms_summary">"Envieu missatges com a SMS a través de la connexió de dades mòbil quan no estigueu connectats a la Wi-Fi. S'incorrerà en càrrecs regulars de l'operador."</string>
   <string name="mx_b2c_message_desc">Notificacions de xarxa</string>
   <string name="mx_b2c_message_resend_not_online">"No es pot reenviar el missatge. Missatge Mi està fora de línia."</string>

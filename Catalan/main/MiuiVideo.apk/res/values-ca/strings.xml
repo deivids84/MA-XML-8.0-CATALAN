@@ -60,7 +60,7 @@
   <string name="buffering">Carregant memòria intermèdia&#8230;</string>
   <string name="buffering_video_netplay_label_v5">Carregant memòria intermèdia&#8230;</string>
   <string name="buy_vip">compra vip</string>
-  <string name="cancel">Cancel·lar</string>
+  <string name="cancel">Cancel·la</string>
   <string name="cancel_favorite_success">Desmarcat de favorits</string>
   <string name="check_app_version">Comprovant l\'última versió...</string>
   <string name="check_network">"No es pot connectar a la xarxa."</string>
@@ -96,7 +96,7 @@
   <string name="data_buffering">Carregant memòria intermèdia</string>
   <string name="datastream_alert_download">Utilitza la connexió de dades mòbils per baixar vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_hint">Podeu desactivar les notificacions d\'ús de dades a Configuració</string>
-  <string name="datastream_alert_negative_button">Cancel·lar</string>
+  <string name="datastream_alert_negative_button">Cancel·la</string>
   <string name="datastream_alert_play">Utilitzar la connexió de dades mòbils per veure vídeos incrementarà l\'ús de les seves dades. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals.</string>
   <string name="datastream_alert_positive_button">Continuar</string>
   <string name="datastream_alert_title">Alerta d\'ús de dades</string>
@@ -250,7 +250,7 @@
   <string name="notification_ticker_text">S\'ha completat la baixada del vídeo local</string>
   <string name="notification_title">«%1$s» baixades completades</string>
   <string name="nowifi_alert_dialog_continue">D\'acord</string>
-  <string name="nowifi_alert_dialog_exit">Cancel·lar</string>
+  <string name="nowifi_alert_dialog_exit">Cancel·la</string>
   <string name="nowifi_alert_dialog_message">"Utilitza la teva connexió de dades mòbils per descarregar vídeos en streaming pot incrementar el consum de dades. Excedir el límit del teu pla de dades pot comportar despeses extra."</string>
   <string name="nowifi_alert_dialog_title">Alerta d\'ús de dades</string>
   <string name="offline">Descarregar</string>
@@ -335,7 +335,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar al servidor"</string>
   <string name="passport_error_unknown">"No es pot iniciar la sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
-  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
+  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Aneu a account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
@@ -493,7 +493,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="see_all_count_comment">%d comentaris més</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_count_xiang">%d seleccionats</string>
-  <string name="select_none">Desseleccionar tot</string>
+  <string name="select_none">Anul·la la selecció</string>
   <string name="select_tv">Seleccionar canal</string>
   <string name="select_tv_empty_hint">No hi ha canals.</string>
   <string name="select_tvs">Seleccionar canals</string>
@@ -587,13 +587,13 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="vp_auto_select">Selecció automàtica</string>
   <string name="vp_back">Enrere</string>
   <string name="vp_brightness">Brillantor</string>
-  <string name="vp_cancel">Cancel·lar</string>
+  <string name="vp_cancel">Cancel·la</string>
   <string name="vp_client_message">Instal·lar client %1$s?</string>
   <string name="vp_closedialog">D\'acord</string>
   <string name="vp_confirm">D\'acord</string>
   <string name="vp_content_description">Descripció</string>
   <string name="vp_datastream_alert_hint">Podeu desactivar les notificacions d\'ús de dades mòbils a Configuració</string>
-  <string name="vp_datastream_alert_negative_button">Cancel·lar</string>
+  <string name="vp_datastream_alert_negative_button">Cancel·la</string>
   <string name="vp_datastream_alert_play">Va a utilitzar la connexió de dades mòbils per a reproduir vídeos. Si sobrepassa el límit del seu pla de dades, la seva companyia podria cobrar despeses addicionals</string>
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Alerta d\'ús de dades</string>
@@ -621,7 +621,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="vp_media_type_unsported">Aquest tipus de mitjà no pot ser suportat</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Emetre a pantalla</string>
-  <string name="vp_mobile_network_using_negative">Cancel·lar</string>
+  <string name="vp_mobile_network_using_negative">Cancel·la</string>
   <string name="vp_mobile_network_using_positive">Continuar</string>
   <string name="vp_mobile_network_using_warning">Utilitzar la teva connexió de dades mòbils per veure vídeos incrementarà el teu ús de dades. Si et passes del límit del teu pla, el proveïdor pot carregar despeses extra.</string>
   <string name="vp_mobile_network_using_warning_line_1">Utilitza la teva connexió de dades mòbils per veure vídeos incrementarà el teu ús de dades.</string>

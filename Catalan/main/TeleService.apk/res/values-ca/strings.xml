@@ -169,6 +169,7 @@
   <string name="badPuk2">El PUK2 no és correcte. Torneu a provar-ho.</string>
   <string name="bad_pin">El PIN que heu introduït no és correcte.</string>
   <string name="bad_pin2">L\'antic PIN2 que heu introduït no és correcte.</string>
+  <string name="bad_pin2_old">L\'antic PIN2 que heu introduït no és correcte.</string>
   <string name="bad_puk">El PUK que heu introduït no és correcte.</string>
   <string name="bad_puk2">El PUK2 que heu introduït no és correcte.</string>
   <string name="battery_info_status_charging">S\'està carregant</string>

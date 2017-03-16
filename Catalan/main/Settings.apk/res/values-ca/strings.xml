@@ -877,7 +877,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_adb_keys">Revoca les autoritzacions de depuració USB</string>
   <string name="clear_cache_btn_text">Esborra la memòria cau</string>
   <string name="clear_data_dlg_text">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
-  <string name="clear_data_dlg_title">Vols suprimir les dades de l\'aplicació?</string>
+  <string name="clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
   <string name="clear_data_failed">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_text">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_title">Suprimeix les dades</string>
@@ -1073,9 +1073,9 @@ Podeu trobar un control per a l\'ús de dades més apropiat en els paràmetres d
   <string name="data_usage_app_summary_title">Ús de dades de l\'aplicació</string>
   <string name="data_usage_auto_sync_off_dialog">S\'allargarà la durada de la bateria, però haureu de sincronitzar cada compte manualment per a obtenir informació recent. No rebreu les notificacions que es produeixin.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Voleu desactivar la sincronització de dades automàtica?</string>
-  <string name="data_usage_auto_sync_on_dialog">«Qualsevol modificació que feu en els comptes des del web, es copiaran automàticament en el telèfon.
+  <string name="data_usage_auto_sync_on_dialog">"Qualsevol modificació que feu en els comptes des del web, es copiaran automàticament en el telèfon.
 
-Alguns comptes també poden copiar automàticament els canvis que feu des del telèfon a la web. Els comptes Google funcionen així.»</string>
+Alguns comptes també poden copiar automàticament els canvis que feu des del telèfon a la web. Els comptes Google funcionen així."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Voleu activar la sincronització de dades automàtica?</string>
   <string name="data_usage_background_label">Segon pla:</string>
   <string name="data_usage_cellular_data">Dades mòbils</string>
@@ -1250,6 +1250,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_name">Nom del dispositiu</string>
   <string name="device_name_input_error">"No s'ha pogut desar el nom del dispositiu"</string>
   <string name="device_name_input_hint">Introduïu el nom</string>
+  <string name="device_name_input_overlength">Més enllà del límit de les paraules</string>
   <string name="device_name_usage_point">Altres dispositius propers poden veure aquest nom</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
   <string name="device_rear_camera">Càmera posterior</string>
@@ -1279,6 +1280,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
   <string name="disable_wifi_master_key_service">Desactiva</string>
+  <string name="disable_wifi_master_key_service_first">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
@@ -1445,6 +1447,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
   <string name="enable_wifi_master_key_service">Activa la clau mestra de la Wi-Fi</string>
+  <string name="enable_wifi_master_key_service_first">Activa</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="encrypt_dont_require_password">No, gràcies</string>
   <string name="encrypt_dont_require_pattern">No, gràcies</string>
@@ -1571,6 +1574,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="firmware_version">Versió d\'Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
+  <string name="fluency_mode">Animacions del sistema</string>
+  <string name="fluency_mode_confirm_and_reboot">Reinicia ara</string>
   <string name="font_size_exhuge">Extra grossa</string>
   <string name="font_size_huge">Molt grossa</string>
   <string name="font_size_large">Grossa</string>
@@ -2202,7 +2207,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
 
 Heu iniciat la sessió als següents comptes:
 »</string>
-  <string name="master_clear_all">"Voleu esborrar totes les dades de l'emmagatzematge intern del telèfon? No podreu recuperar-los!"</string>
+  <string name="master_clear_all">"Voleu eliminar totes les dades de l'emmagatzematge intern del telèfon? No podreu recuperar-los!"</string>
   <string name="master_clear_button_text">Restableix el telèfon</string>
   <string name="master_clear_confirm_title">Voleu reinicialitzar-lo?</string>
   <string name="master_clear_desc">S\'esborraran totes les dades de &lt;b&gt;emmagatzematge intern&lt;/b&gt;\" del telèfon, incloent-hi:
@@ -2217,15 +2222,15 @@ Heu iniciat la sessió als següents comptes:
   <string name="master_clear_erase_application_progress">S\'estan suprimint aplicacions&#8230;</string>
   <string name="master_clear_failed">No s\'ha restablert perquè el servei d\'esborrament del sistema no està disponible.</string>
   <string name="master_clear_final_button_text">Esborra-ho tot</string>
-  <string name="master_clear_final_desc">Voleu suprimir tota la informació personal i les aplicacions baixades? No podreu recuperar-ho!</string>
+  <string name="master_clear_final_desc">Voleu eliminar tota la informació personal i les aplicacions baixades? No podreu recuperar-ho!</string>
   <string name="master_clear_not_available">Aquest usuari no pot restaurar-ho a configuració de fàbrica</string>
   <string name="master_clear_other_users_present">«
 
 Hi ha altres usuaris presents en aquest dispositiu.
 »</string>
-  <string name="master_clear_personal_data">"Voleu suprimir tota la informació personal? No podreu recuperar-ho!"</string>
-  <string name="master_clear_personal_data_application">"Voleu suprimir tota la informació personal i les aplicacions baixades? No podreu recuperar-ho!"</string>
-  <string name="master_clear_personal_data_sdcard">"Voleu suprimir el contingut i les aplicacions baixades? No podreu recuperar-ho!"</string>
+  <string name="master_clear_personal_data">"Voleu eliminar tota la informació personal? No podreu recuperar-ho!"</string>
+  <string name="master_clear_personal_data_application">"Voleu eliminar tota la informació personal i les aplicacions baixades? No podreu recuperar-ho!"</string>
+  <string name="master_clear_personal_data_sdcard">"Voleu eliminar el contingut i les aplicacions baixades? No podreu recuperar-ho!"</string>
   <string name="master_clear_progress_text">Espereu-vos...</string>
   <string name="master_clear_progress_title">S\'està esborrant</string>
   <string name="master_clear_summary">Suprimeix totes les dades del telèfon</string>

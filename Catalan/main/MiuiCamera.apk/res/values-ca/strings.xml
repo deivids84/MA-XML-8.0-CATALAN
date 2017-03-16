@@ -407,7 +407,7 @@
   <string name="simple_mode_button_text_stereo_mode">Apagar Estèreo</string>
   <string name="simple_mode_button_text_tilt_shift">Tancar efecte diorama</string>
   <string name="simple_mode_button_text_ubifocus">Tancar mode de reenfocament</string>
-  <string name="snap_cancel">Cancel·lar</string>
+  <string name="snap_cancel">Cancel·la</string>
   <string name="snap_confirmed">Confirma</string>
   <string name="spaceIsLow_content_external_storage_priority">La targeta SD s\'està quedant sense espai disponible</string>
   <string name="spaceIsLow_content_primary_storage_priority">L\'emmagatzematge USB s\'està quedant sense espai disponible</string>

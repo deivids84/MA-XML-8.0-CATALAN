@@ -74,6 +74,7 @@
   <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
   <string name="memory_clear_result">%1$sB netejats | %2$sB disponibles</string>
   <string name="miui">miui</string>
+  <string name="miui_upgrading_notification_title">S\'està actualitzant el sistema, es podrien limitar algunes característiques</string>
   <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
   <string name="package_delete_confirm_step_2">En eliminar aquesta aplicació, el sistema pot tornar-se inestable.</string>
   <string name="package_delete_confirm_step_3">"No podreu obrir aquesta aplicació després d'eliminar-la."</string>

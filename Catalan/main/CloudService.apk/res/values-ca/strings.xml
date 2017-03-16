@@ -21,7 +21,7 @@
   <string name="apple_cloud_price">Aprox. 9 EUR a l\'any</string>
   <string name="bad_authentication">Contrasenya o nom d\'usuari no vàlids</string>
   <string name="btn_return">Enrere</string>
-  <string name="button_cancel">Cancel·lar</string>
+  <string name="button_cancel">Cancel·la</string>
   <string name="buy_more_space_b_class">"Entra a mi.com/micloud per obtenir més espai d\'emmagatzematge.
 Necessita una targeta bancària de la Xina continental per comprar espai d\'emmagatzematge addicional."</string>
   <string name="buy_more_space_c_class">"Aquesta funció requereix una targeta bancària de la Xina continental.
@@ -157,7 +157,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_alert_negative">Més tard</string>
   <string name="micloud_confusion_alert_positive">Detalls</string>
   <string name="micloud_confusion_alert_title">Un altre dispositiu està modificant el teu compte</string>
-  <string name="micloud_confusion_cancel">Cancel·lar</string>
+  <string name="micloud_confusion_cancel">Cancel·la</string>
   <string name="micloud_confusion_check_account_title">Reactivar Mi Cloud</string>
   <string name="micloud_confusion_entrance_hint">"Per mantenir el teu núvol segur, no accedeixis a les dades que has emmagatzemat a Mi Cloud des de dispositius compartits."</string>
   <string name="micloud_confusion_entrance_notify_text">Tocar per veure detalls.</string>

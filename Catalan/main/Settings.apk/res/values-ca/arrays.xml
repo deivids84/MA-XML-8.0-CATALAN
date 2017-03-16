@@ -429,7 +429,7 @@
     <item>Obtenció d\'estadístiques d\'ús</item>
     <item>Silencia/activa el micròfon</item>
     <item>Projecta contingut multimèdia</item>
-    <item>Activació d\'una VPN</item>
+    <item>Projecta contingut multimèdia</item>
     <item>Fons de pantalla d\'escriptura</item>
     <item>Estructura d\'assistència</item>
     <item>Captura de pantalla assistida</item>
@@ -629,7 +629,7 @@
     <item>Mostra el menú</item>
   </string-array>
   <string-array name="screen_key_long_press_action">
-    <item>Res</item>
+    <item>Cap</item>
     <item>Mostra la safata d\'aplicacions recents</item>
     <item>Obre l\'auxiliar</item>
     <item>Obre Google now</item>
@@ -808,6 +808,18 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>1 minut</item>
     <item>2 minuts</item>
     <item>5 minuts</item>
+  </string-array>
+  <string-array name="fluency_mode_entries">
+    <item>Amaga les animacions del sistema</item>
+    <item>Mostra les animacions del sistema</item>
+  </string-array>
+  <string-array name="fluency_mode_summaries">
+    <item>"Accelera el rendiment del dispositiu"</item>
+    <item>"Pot alentir el rendiment del dispositiu"</item>
+  </string-array>
+  <string-array name="fluency_mode_confirms">
+    <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
+    <item>Voleu reiniciar el dispositiu per aplicar els canvis?</item>
   </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>

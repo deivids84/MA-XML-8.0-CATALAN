@@ -347,7 +347,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar amb el servidor"</string>
   <string name="passport_error_unknown">"No es pot iniciar la sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït és incorrecte.</string>
-  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
+  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Aneu a account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>

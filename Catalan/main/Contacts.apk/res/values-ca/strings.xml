@@ -141,9 +141,9 @@
   <string name="callrecordview_menu_voip">Mi Voice</string>
   <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Descarteu els canvis?</string>
-  <string name="cancel_confirmation_dialog_title">Cancel·lar</string>
-  <string name="cancel_export_confirmation_message">Cancel·lar l\'exportació de %s?</string>
-  <string name="cancel_import_confirmation_message">Cancel·lar l\'importació de %s?</string>
+  <string name="cancel_confirmation_dialog_title">Cancel·la</string>
+  <string name="cancel_export_confirmation_message">Voleu cancel·lar l\'exportació de %s?</string>
+  <string name="cancel_import_confirmation_message">Voleu cancel·lar l\'importació de %s?</string>
   <string name="cancel_import_dialog_message">Deixar d\'importar contactes?</string>
   <string name="cancel_import_dialog_title">Aturar</string>
   <string name="cancel_vcard_import_or_export_failed">"No va poder cancel·lar la importació/exportació de vCard"</string>
@@ -254,8 +254,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
   <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
   <string name="convenient_service">Serveis</string>
-  <string name="copy_number">Copiar</string>
-  <string name="copy_text">Copiar al portapapers</string>
+  <string name="copy_number">Copia</string>
+  <string name="copy_text">Copia al porta-retalls</string>
   <string name="createContactShortcutSuccessful">Accés directe de contacte afegit a la pantalla d\'inici</string>
   <string name="create_group_dialog_title">Crea un nou grup</string>
   <string name="create_group_item_label">Crea un nou grup</string>
@@ -274,7 +274,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="default_ringtone">To de trucada per defecte</string>
   <string name="deleteConfirmation">Aquest contacte s\'eliminarà.</string>
   <string name="deleteConfirmationDetail">Voleu eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Vols suprimir aquest contacte?</string>
+  <string name="deleteConfirmation_title">Voleu eliminar aquest contacte?</string>
   <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
   <string name="delete_call_log_title">Seleccionar registre de trucades</string>
@@ -324,8 +324,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="description_plus_button">Més</string>
   <string name="description_quick_contact_for">Contacte ràpid per %1$s</string>
   <string name="description_search_button">Cerca</string>
-  <string name="description_send_message">Enviar missatge a %1$s</string>
-  <string name="description_send_text_message">Enviar missatge de text a %1$s</string>
+  <string name="description_send_message">Envia el missatge a %1$s</string>
+  <string name="description_send_text_message">Envia el missatge de text a %1$s</string>
   <string name="description_star">favorit</string>
   <string name="description_view_contact">Veure contacte %1$s</string>
   <string name="description_view_contact_detail">Veure contacte</string>
@@ -404,11 +404,11 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="edit_contact_photo">Edita foto del contacte</string>
   <string name="email">Correu electrònic</string>
   <string name="emailLabelsGroup">Correu electrònic</string>
-  <string name="email_custom">Enviar email a %s</string>
-  <string name="email_home">Enviar email a casa</string>
-  <string name="email_mobile">Enviar email al mòbil</string>
+  <string name="email_custom">Envia el correu a %s</string>
+  <string name="email_home">Envia un correu a casa</string>
+  <string name="email_mobile">Envia un correu al mòbil</string>
   <string name="email_other">Correu electrònic</string>
-  <string name="email_work">Enviar email a la feina</string>
+  <string name="email_work">Envia un correu a la feina</string>
   <string name="emergency_number_label">Número d\'emergència</string>
   <string name="emptyGroup">Grup sense contactes</string>
   <string name="enter_contact_name">"Nom del contacte"</string>
@@ -594,7 +594,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_accounts">Comptes</string>
   <string name="menu_addStar">Afegeix als favorits</string>
   <string name="menu_bar_group_add">Afegir</string>
-  <string name="menu_bar_group_batch_copy">Copiar en el grup</string>
+  <string name="menu_bar_group_batch_copy">Copia al grup</string>
   <string name="menu_bar_group_batch_edit">Contactes múltiples</string>
   <string name="menu_bar_group_batch_move">Moure al grup</string>
   <string name="menu_bar_group_batch_remove">Eliminar grup</string>
@@ -609,7 +609,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_clear_frequents">Esborra freqüents</string>
   <string name="menu_contacts_filter">Contactes per mostrar</string>
   <string name="menu_copy">Copia</string>
-  <string name="menu_copyContact">Copiar als meus contactes</string>
+  <string name="menu_copyContact">Copia als meus contactes</string>
   <string name="menu_create_contact_shortcut">Posar a la pantalla d\'inici</string>
   <string name="menu_deleteContact">Suprimeix el contacte</string>
   <string name="menu_deleteGroup">Elimina</string>
@@ -636,9 +636,9 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_removeStar">Elimina de favorits</string>
   <string name="menu_search">Cerca</string>
   <string name="menu_select_all">Selecciona-ho tot</string>
-  <string name="menu_select_none">Desselecciona tot</string>
+  <string name="menu_select_none">Anul·la la selecció</string>
   <string name="menu_sendSMS">Contacte de text</string>
-  <string name="menu_sendTextMessage">Enviar missatge de text</string>
+  <string name="menu_sendTextMessage">Envia el missatge de text</string>
   <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
@@ -972,7 +972,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="qrcode_editor_flash_failed">"No es pot actualitzar el codi QR"</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
-  <string name="quit_dialog_confirm_title">Cancel·lar la fusió de contactes</string>
+  <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
   <string name="rcs_account_type_title">Compte Fetion</string>
   <string name="rcs_contact_detail_profile_binded_label">Compte Fetion actual</string>
   <string name="rcs_fetion_not_exist">"No es pot trobar el connector Feiton"</string>
@@ -1063,7 +1063,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="select_show_contacts">Llista de contactes</string>
   <string name="select_vcard_title">Seleccioneu una vCard</string>
   <string name="send_contact_shortcut_todesktop_success">Afegit a la pantalla d\'inici</string>
-  <string name="send_to_voicemail_checkbox">Enviar trucades directament al correu de veu</string>
+  <string name="send_to_voicemail_checkbox">Envia trucades directament al correu de veu</string>
   <string name="separatorJoinAggregateAll">Tots els contactes</string>
   <string name="separatorJoinAggregateSuggestions">Contactes suggerits</string>
   <string name="service_more">Més</string>

@@ -293,7 +293,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_relogin_notice">Necessiteu iniciar sessió de nou</string>
   <string name="passport_remove_confirm">Tanca sessió</string>
   <string name="passport_remove_unactivated_account_notice">"El vostre compte no ha estat activat."</string>
-  <string name="passport_resend_active_email">Torna a enviar email</string>
+  <string name="passport_resend_active_email">Reenvia el correu</string>
   <string name="passport_reset_fail_title">"No s'ha pogut restablir"</string>
   <string name="passport_reset_password_prompt">La contrasenya és incorrecta</string>
   <string name="passport_reset_password_title">Restableix contrasenya</string>
@@ -344,7 +344,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="replace_binded_phone">Substitueix el telèfon</string>
   <string name="resend_active_email">Reenvia</string>
   <string name="resend_email_reach_limit_message">"Heu demanat masses cops un email de comprovació. Assegureu-vos que aquest email de verificació no estigui a la vostra carpeta de Spam."</string>
-  <string name="resend_email_reach_limit_title">"No es pot enviar email"</string>
+  <string name="resend_email_reach_limit_title">"No es pot enviar el correu"</string>
   <string name="resend_email_success">S\'ha re-enviat email</string>
   <string name="reset_security_question_message">Cal verificar la vostra identitat abans de canviar les preguntes de seguretat</string>
   <string name="reset_security_question_title">Reinicialitza les preguntes de seguretat</string>

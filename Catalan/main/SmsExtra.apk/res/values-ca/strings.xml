@@ -20,8 +20,14 @@
   <string name="menu_unlock">Elimina dels favorits</string>
   <string name="message_details_title">Detalls del missatge</string>
   <string name="message_type_label">"Escriviu: "</string>
+  <string name="messaging">Missatges</string>
   <string name="received_label">"Rebut: "</string>
+  <string name="repayment_network_error">Alguna cosa va anar malament amb la xarxa</string>
+  <string name="repayment_title">Reemborsament</string>
+  <string name="repayment_way">Mètode de reemborsament</string>
   <string name="sent_label">"Enviat: "</string>
+  <string name="smart_messages_network_allow_message">Mi Message necessita connectar-se a Internet perquè els seus serveis funcionin normalment. Voleu permetre-ho?</string>
+  <string name="smart_messages_network_allow_title">Es necessita una connexió a Internet</string>
   <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="text_message">Missatge de text</string>

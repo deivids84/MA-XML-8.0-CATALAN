@@ -8,6 +8,7 @@
   <string name="Settings_title_garbage_cleanup">Configuració de netejador</string>
   <string name="Settings_title_network_assistants">Configuració d\'ús de dades</string>
   <string name="Settings_title_power_center">Configuració de bateria</string>
+  <string name="about_autostart">Quant a l\'inici automàtic</string>
   <string name="ac_enable_title">Activa el bloquejador d\'aplicacions</string>
   <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
@@ -314,7 +315,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="cancal_to_setting_fingerprint">Cancel·la</string>
   <string name="cancel">Cancel·la</string>
-  <string name="cancel_button">Cancel·lar</string>
+  <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
   <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
@@ -450,6 +451,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="disable_air_mode">Desactivar mode avió</string>
   <string name="dns_exception_summary">"Comproveu la configuració DNS del seu router"</string>
   <string name="dns_exception_title">Comprovar ajustos DNS</string>
+  <string name="domestic_roaming_setting">Itinerància nacional</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -531,6 +533,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hide_mode_app_background_setting_text">App d\'estalvi de bateria</string>
   <string name="hide_mode_summary_text">"Gestionar l'activitat de fons d'apps per estalviar bateria"</string>
   <string name="hide_mode_title_text">Mode ocult</string>
+  <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_auto_start_warning_info">"Si es restringeix l'inici automàtic, algunes aplicacions i serveis no podran rebre notificacions."</string>
   <string name="hints_cleanning_done">Escanejat amb èxit</string>
   <string name="hints_cleanning_text">Netejant&#8230;</string>
@@ -830,6 +833,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_exit_power_save_mode">Apagar estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
+  <string name="notification_mask_summary">"Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions"</string>
+  <string name="notification_mask_title">Amaga el contingut</string>
   <string name="notification_quick_charging_title">Càrrega ràpida</string>
   <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
@@ -976,6 +981,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_consume_rank_hardware">Maquinari</string>
   <string name="power_consume_rank_software">Aplicacions</string>
   <string name="power_consume_rank_title">Ús de bateria</string>
+  <string name="power_consume_total_hardware">Maquinari: %s</string>
+  <string name="power_consume_total_software">Aplicacions: %s</string>
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
@@ -1037,7 +1044,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_connect_settings_enable_background">Permet dades en segon pla</string>
   <string name="pref_connect_settings_enable_background_hint">"Permet a les aplicacions utilitzar dades mòbils quan no les utilitzeu"</string>
   <string name="pref_connect_settings_exceed_limit">Restringeix ús de dades després del límit</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Tallar la connexió de dades quan l\'ús de dades arriba el seu límit</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Desactiva la connexió de dades quan l\'ús de dades arriba el seu límit</string>
   <string name="pref_content_virus_white_list_none">Cap element</string>
   <string name="pref_daily_adjust">Establir límit de dades en hora punta</string>
   <string name="pref_daily_traffic">Límit de dades en hora punta</string>
@@ -1287,6 +1294,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="settings_title_payment_security">Configuració de la seguretat de pagament</string>
   <string name="settings_title_permission">Configuració de Permisos</string>
   <string name="share">Comparteix</string>
+  <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="show_traffic_dialog_message">La seva informació d\'ús de dades es mostrarà en l\'àrea de notificacions. Podeu activar o desactivar aquesta funció en qualsevol moment a Ús de Dades &gt; Configuració</string>
   <string name="show_traffic_dialog_title">Mostra ús a l\'àrea de notificacions</string>
   <string name="showpattern">Mostra patró</string>
@@ -1448,7 +1456,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_diagnostic_upload_no_network">Gràcies pels seus comentaris! L\'informe es presentarà quan es connecti a la xarxa.</string>
   <string name="tc_diagnostic_upload_success">Gràcies pels vostres comentaris!</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
-  <string name="tc_sms_report_do_report">Enviar</string>
+  <string name="tc_sms_report_do_report">Envia</string>
   <string name="tc_sms_report_get_default">"No incorrerà en càrrecs per missatges SMS que s'utilitzen per obtenir el saldo d'utilització de les dades del seu operador."</string>
   <string name="tc_sms_report_get_sms">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
@@ -1618,7 +1626,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
-  <string name="traffic_setting_fragment_button1_text">Cancel·lar</string>
+  <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desar</string>
   <string name="traffic_setting_fragment_get_template_falure">"L'actualització falla. Comproveu la connexió de dades i torneu a provar."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>

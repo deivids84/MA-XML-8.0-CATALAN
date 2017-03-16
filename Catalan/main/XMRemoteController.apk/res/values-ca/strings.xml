@@ -619,7 +619,7 @@ To activate your account, follow the
   <string name="passport_error_ssl_hand_shake">"Error with server connection. Try set your system date-time to current time."</string>
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">Invalid username</string>
-  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el email d'activació"</string>
+  <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>

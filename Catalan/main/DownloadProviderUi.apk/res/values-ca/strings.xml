@@ -34,9 +34,9 @@
   <string name="bt_xunlei_open_info">Utilitza motor Xunlei per obrir aquests enllaços?</string>
   <string name="button_sort_by_date">Ordenar per data</string>
   <string name="button_sort_by_size">Ordenar per mida</string>
-  <string name="cancel">Cancel·lar</string>
-  <string name="cancel_running_download">Cancel·lar</string>
-  <string name="cancle">Cancel·lar</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="cancel_running_download">Cancel·la</string>
+  <string name="cancle">Cancel·la</string>
   <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
   <string name="clear_data">Esborra</string>
   <string name="complete_time">Completat:</string>
@@ -99,7 +99,7 @@
   <string name="download_list_get_hightspeed_flow_sucess_tail">Gaudiu de velocitats de baixada més ràpides gràcies a Xunlei</string>
   <string name="download_list_intoAuth">Verifica el seu compte</string>
   <string name="download_list_intoAuthAlert">Carregant</string>
-  <string name="download_list_open_xl_cancel">Cancel·lar</string>
+  <string name="download_list_open_xl_cancel">Cancel·la</string>
   <string name="download_list_open_xl_message">L\'accelerador Xunlei li permetrà augmentar la velocitat de les baixades.</string>
   <string name="download_list_open_xl_ok">D\'acord</string>
   <string name="download_list_open_xl_title">Accelerador de baixades Xunlei</string>
@@ -244,7 +244,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="pref_summary_no_limit_popup">Il·limitat</string>
   <string name="pref_title_enable_max_bytes_popup">Mostra advertència d\'ús de dades</string>
   <string name="preferences_title">Configuració</string>
-  <string name="privacy_tip_cancel">Cancel·lar</string>
+  <string name="privacy_tip_cancel">Cancel·la</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de baixada? La URL del host de baixades es pujarà al servidor de Xunlei. Els detalls del Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
   <string name="privacy_tip_title">Utilitzar accelerador Xunlei?</string>
@@ -375,7 +375,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>
   <string name="task_fail">Ha fallat</string>
   <string name="text_showmore_infoflow">Mostra més fonts</string>
-  <string name="third_web_cancel">Cancel·lar</string>
+  <string name="third_web_cancel">Cancel·la</string>
   <string name="third_web_confirm">D\'acord</string>
   <string name="third_web_default">Recordar aquesta localització</string>
   <string name="third_web_filename_hint">Nom</string>
@@ -408,7 +408,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="vip_show_info">"5 milions de membres.
  Accelera les baixades a tots els vostres dispositius."</string>
   <string name="vip_speedup">Augment de velocitat:</string>
-  <string name="web_dialog_cancel">Cancel·lar</string>
+  <string name="web_dialog_cancel">Cancel·la</string>
   <string name="web_dialog_confirm">D\'acord</string>
   <string name="xiaomi_account_not_exist_message">"Aquest compte Mi no existeix"</string>
   <string name="xl_annual_vip_open">Subscripció anual (%1$s Crèdits Mi o %2$s mensuals)</string>

@@ -26,8 +26,8 @@
   <string name="find_device_noise_title">Alarma de trobar dispositiu</string>
   <string name="find_device_notice_p1">Vés a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">«per localitzar, bloquejar, o restaurar el vostre telèfon.
-Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per reactivar aquesta funció.»</string>
+  <string name="find_device_notice_p3">"per localitzar, bloquejar, o restaurar el vostre telèfon.
+Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per reactivar aquesta funció."</string>
   <string name="find_device_stop_noise">Premeu d\'acord per silenciar</string>
   <string name="find_device_storage_corrupted">L\'emmagatzematge de Troba dispositiu està malmès. Ara mateix el vostre dispositiu no és segur.</string>
   <string name="find_device_success_title">Trobar dispositiu</string>

@@ -174,7 +174,7 @@
   <string name="pref_title_ringtone_repeat">Número de sons de notificació</string>
   <string name="pref_title_show_recent_contacts">Mostra els contactes recents</string>
   <string name="pref_title_vcard">Envia a través de vCard</string>
-  <string name="prepare_send">Preparant per enviar&#8230;</string>
+  <string name="prepare_send">S\'està preparant per enviar&#8230;</string>
   <string name="press_recording">Premeu i mantingui la icona del micròfon per gravar</string>
   <string name="preview">Visualització prèvia</string>
   <string name="private_new_notification">Notificacions de missatges</string>

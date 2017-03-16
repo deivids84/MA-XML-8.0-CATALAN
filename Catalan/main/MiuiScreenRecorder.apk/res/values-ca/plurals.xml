@@ -5,4 +5,8 @@
     <item quantity="other">%1$d elements seleccionats</item>
     <item quantity="one">%1$d element seleccionat</item>
   </plurals>
+  <plurals name="delete_confirm_text">
+    <item quantity="other">Voleu eliminar %1$d enregistraments de pantalla?</item>
+    <item quantity="one">Voleu eliminar aquest enregistrament de pantalla?</item>
+  </plurals>
 </resources>

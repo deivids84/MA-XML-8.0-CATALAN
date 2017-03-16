@@ -29,7 +29,7 @@
   <string name="sst_favor_desc">Comproveu els fons de pantalla favorits</string>
   <string name="sst_favor_title">Favorits</string>
   <string name="sst_grid_view_select_all">Selecciona-ho tot</string>
-  <string name="sst_grid_view_unselect_all">Cancel·lar tot</string>
+  <string name="sst_grid_view_unselect_all">Anul·la la selecció</string>
   <string name="sst_no_favor_wallpaper_hint">Sense fons de pantalla favorit</string>
   <string name="sst_prov_enable_desc">Activa el carrusel dels fons de pantalla a la pantalla de bloqueig. Afegiu el fons de pantalla a la carpeta Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="sst_prov_enable_title">Activa el carrusel de fons de pantalla</string>

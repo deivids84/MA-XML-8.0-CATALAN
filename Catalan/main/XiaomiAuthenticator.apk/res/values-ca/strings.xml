@@ -25,7 +25,7 @@ En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti 
   <string name="button_how_it_works">Veure com funciona</string>
   <string name="button_next">Siguiente</string>
   <string name="button_uninstall_old_app">Desinstal·la</string>
-  <string name="cancel">Cancelar</string>
+  <string name="cancel">Cancel·la</string>
   <string name="change_security_lock">Más pantallas de bloqueo</string>
   <string name="check_code">PPer comprovar que Vè. té la clau correcta per %1$s verifiqui que el valor coincideix amb el valor de revisió d\'integritat proporcionat pel servidor:</string>
   <string name="check_code_menu_item">Comproveu la clau</string>
@@ -87,7 +87,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Inténtelo de nuevo en %d segundos.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos fallidos!</string>
-  <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
+  <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_close_label">Tancar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockpattern_tutorial_jump_label">Anar a</string>
