@@ -79,6 +79,7 @@ Inicieu sessió a i.mi.com, aneu a \"Troba el dispositiu\", seleccioneu el dispo
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
+  <string name="unlockscreen_quick_charging_message">Càrrega ràpida %d%%</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">S\'està carregant %d%%</string>
   <string name="wrong_password">Contrasenya incorrecta</string>

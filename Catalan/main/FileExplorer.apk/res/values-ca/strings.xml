@@ -326,7 +326,7 @@
   <string name="mobile_network_dialog_tip">"Utilitzar la connexió de dades per veure aquesta pàgina? La seva companyia podria cobrar despeses addicions."</string>
   <string name="mobile_network_dialog_title">Alerta d\'ús de dades</string>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">"No es pot tallar"</string>
+  <string name="move_failed">"No es pot retallar"</string>
   <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici per administrar els fitxers més eficaçment.</string>
   <string name="move_icon_to_desktop_success">Accés directe afegit a la pantalla d\'inici.</string>
   <string name="move_to">Mou a&#8230;</string>
@@ -403,7 +403,7 @@
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>
   <string name="operation_like">Destaca</string>
-  <string name="operation_move">Talla</string>
+  <string name="operation_move">Retalla</string>
   <string name="operation_moving">Movent&#8230;</string>
   <string name="operation_other_apps">Obre en una altra aplicació</string>
   <string name="operation_paste">Enganxar</string>

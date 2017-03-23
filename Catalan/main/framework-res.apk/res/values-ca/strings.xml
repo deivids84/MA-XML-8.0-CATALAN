@@ -233,7 +233,7 @@ Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està ca
   <string name="country_selection_title">Preferència de regió</string>
   <string name="create_contact_using">«Crea un contacte
 a partir de %s»</string>
-  <string name="cut">Talla</string>
+  <string name="cut">Retalla</string>
   <string name="data_saver_description">Per reduir l\'ús de dades, la funció estalvi de dades evita que determinades aplicacions enviïn o rebin dades en segon pla. L\'aplicació que estigueu fent servir podrà accedir a dades, però potser ho farà menys sovint. Això vol dir, per exemple, que les imatges no es mostraran fins que no les toqueu.</string>
   <string name="data_saver_enable_button">Activa</string>
   <string name="data_saver_enable_title">Voleu activar l\'estalvi de dades?</string>

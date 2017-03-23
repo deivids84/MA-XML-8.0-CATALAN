@@ -186,7 +186,6 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_password_forget">l\'heu oblidat?</string>
   <string name="mibi_password_hint">Introduïu la contrasenya del compte</string>
   <string name="mibi_password_prompt">Per donar seguretat a les vostres despeses, verifiqueu el vostre compte Mi</string>
-  <string name="mibi_pay_notification">S\'estan pagant %1$s crèdits Mi</string>
   <string name="mibi_payment_recharge_group_title">Selecció de l\'opció de recàrrega</string>
   <string name="mibi_payment_success_label">"Heu pagat %1$s Mi Credit"</string>
   <string name="mibi_payment_success_title">Pagament rebut</string>
@@ -253,7 +252,6 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Seleccioneu una quantitat</string>
   <string name="mibi_recharge_grid_money_picker_hint">Seleccioneu la quantitat</string>
   <string name="mibi_recharge_mibi_title">Mi Credit</string>
-  <string name="mibi_recharge_notification">S\'estan recarregant: %1$s Mi Credits</string>
   <string name="mibi_recharge_novalid_method">Opció de recàrrega no vàlida.</string>
   <string name="mibi_recharge_other">Mostra altres mètodes</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>

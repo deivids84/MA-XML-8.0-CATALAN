@@ -854,7 +854,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronitzar la safata d\'entrada amb menor freqüència mentre No Molestar està activat</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronitzar amb menor freqüència</string>
   <string name="refresh">Actualitza</string>
-  <string name="refreshing">Sincronització de&#8230;</string>
+  <string name="refreshing">S\'està actualitzant&#8230;</string>
   <string name="refreshing_done">Sincronització completa</string>
   <string name="release_to_refresh">Deixar anar per refrescar</string>
   <string name="remind_attachment_size_limit">Els correus haurien de ser inferiors a %s MB</string>

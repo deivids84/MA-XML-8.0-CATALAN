@@ -1458,7 +1458,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Configuració de l\'idioma predeterminat</string>
-  <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
@@ -1494,10 +1493,8 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="voicemail_abbreviated">BV:</string>
   <string name="voicemail_default">El vostre operador</string>
-  <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
-  <string name="voicemail_notification_vibrate_key">voicemail_notification_vibrate_key</string>
   <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
@@ -1507,7 +1504,6 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_settings_number_label">Número de bústia de veu</string>
   <string name="voicemail_settings_number_title">Número de bústia de veu</string>
   <string name="voicemail_settings_with_label">Bústia de veu (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Bústia de veu visual</string>
   <string name="voip_setting">Configuració VoIP</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
@@ -1523,7 +1519,6 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_allow_scan_with_traffic_summary">Activeu/Desactiveu les cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
   <string name="wifi_auth_password_wrong">La contrasenya podria ser incorrecta</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wifi_connected_no_internet">S\'ha connectat, no hi ha Internet</string>
   <string name="wifi_disabled_generic">Desactivada</string>
   <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>

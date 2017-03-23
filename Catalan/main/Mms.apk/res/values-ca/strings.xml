@@ -421,6 +421,7 @@
   <string name="pref_summary_send_delivery_reports">Envia missatge de confirmació de lliurament al remitent quan rebi un missatge multimèdia</string>
   <string name="pref_summary_show_recent_contacts">Mostra els contactes recents en crear un nou missatge</string>
   <string name="pref_summary_wake_up_screen">Activa la pantalla cada vegada que es rep un nou missatge</string>
+  <string name="pref_switch_sdk_setting">Canvia al sistema sms inteligent</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"No està suportat en la mida de font actual"</string>
   <string name="pref_time_auto_group_summary">Agrupa els missatges rebuts en menys d\'un minut dins el mateix fil</string>

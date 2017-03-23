@@ -58,8 +58,8 @@
   <string name="login_reg_title">Utilitzeu Mi Drive des de qualsevol lloc.</string>
   <string name="megabyteShort">MB</string>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">"No es pot tallar"</string>
-  <string name="move_failed_retry">"No s'ha pogut tallar, espereu %1$s i torneu-ho a provar"</string>
+  <string name="move_failed">"No es pot retallar"</string>
+  <string name="move_failed_retry">"No s'ha pogut retallar, espereu %1$s i torneu-ho a provar"</string>
   <string name="need_get_accounts_permission">Mi Drive requereix de permisos per accedir al compte per funcionar normalment.</string>
   <string name="never_notify">"No tornis a mostrar-ho"</string>
   <string name="no_app_found_to_open_file">No s\'ha trobat cap aplicació per processar aquesta acció.</string>
@@ -85,7 +85,7 @@
   <string name="operation_deleting">S\'està eliminant&#8230;</string>
   <string name="operation_deleting_detail">S\'està eliminant (%1$d/%2$d)</string>
   <string name="operation_download">Baixa</string>
-  <string name="operation_move">Talla</string>
+  <string name="operation_move">Retalla</string>
   <string name="operation_moving">S\'està movent&#8230;</string>
   <string name="operation_moving_detail">S\'està movent (%1$d/%2$d)</string>
   <string name="operation_paste">Enganxa</string>

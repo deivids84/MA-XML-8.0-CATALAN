@@ -31,7 +31,7 @@
   <string name="cancel_action">Cancel·la</string>
   <string name="configure_input_methods">Configura els mètodes d\'entrada</string>
   <string name="copy">Copia</string>
-  <string name="cut">Talla</string>
+  <string name="cut">Retalla</string>
   <string name="default_name">Per defecte</string>
   <string name="enable_livetalk_summary">Estalvieu fins a un 70% en les trucades</string>
   <string name="enable_livetalk_title">Activa el paquet de recàrrega</string>

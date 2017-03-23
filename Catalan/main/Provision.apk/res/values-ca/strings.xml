@@ -5,6 +5,8 @@
   <string name="agree_terms">"He llegit i accepto les condicions d'ús de la política de privacitat."</string>
   <string name="app_name">Provisions</string>
   <string name="back">Enrere</string>
+  <string name="cm_terms_content">"Per millorar els serveis que li oferim, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
+  <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
   <string name="congratulation_label">"Gaudiu del nou telèfon :)"</string>
   <string name="congratulation_title">S\'ha completat la configuració</string>
   <string name="content_description_complete">Completada</string>
@@ -14,6 +16,9 @@
   <string name="desc_fingerprint">Utilitzeu la empremta per desbloquejar el dispositiu, comprovar les transaccions de Mi Pay o per connectar-vos a aplicacions i serveis.</string>
   <string name="desc_international_fingerprint">Utilitzeu l\'empremta per desbloquejar el dispositiu o per iniciar sessió en aplicacions i serveis.</string>
   <string name="disagree">Cancel·la</string>
+  <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
+  <string name="enable_accessibility_dialog_positive_btn">Confirma</string>
   <string name="ime_privacy_policy">Política de Privadesa del teclat seleccionat</string>
   <string name="ime_privacy_policy_no_network">Sense connexió de xarxa. Vegeu la política de privadesa d\'aquest teclat a %s.</string>
   <string name="input_method_category">"Seleccioneu el teclat predeterminat que s'utilitzarà per escriure correus electrònics, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>

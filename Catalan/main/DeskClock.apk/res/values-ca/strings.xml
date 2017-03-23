@@ -79,8 +79,9 @@
   <string name="life_post_wake_up_item_acumu_day_title">Recompte diari</string>
   <string name="life_post_wake_up_item_percentage_title">Usuaris Mi rere vostre</string>
   <string name="life_post_wake_up_item_time_title">Hora de llevar-se</string>
-  <string name="life_post_wake_up_percentage_title">Usuaris Mi rere vostre</string>
+  <string name="life_post_wake_up_percentage_title">Usuaris Mi darrere teu</string>
   <string name="life_post_wake_up_time_title">Hora de llevar-se</string>
+  <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_invalid">"No s'ha pogut obtenir informació meteorològica, premeu per provar-ho un altre cop"</string>
   <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>

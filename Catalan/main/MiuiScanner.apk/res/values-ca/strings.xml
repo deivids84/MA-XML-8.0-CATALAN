@@ -37,7 +37,6 @@
   <string name="document_grayscale">Escala de grisos</string>
   <string name="document_grayscale_tip_msg">S\'està convertint a escala de grisos&#8230;</string>
   <string name="document_ocr">ROC</string>
-  <string name="document_ocr_language_key">pref_document_ocr_language</string>
   <string name="document_ocr_result_copy">Copia el text</string>
   <string name="document_ocr_result_save">Desa a Notes</string>
   <string name="document_ocr_result_title">Foto del document</string>
@@ -95,6 +94,7 @@
   <string name="language_entry_russian">Rus</string>
   <string name="language_entry_spanish">Espanyol</string>
   <string name="language_entry_swedish">Suec</string>
+  <string name="low_version_tip">L\'escàner no funciona en el sistema actual, si us plau actualitza a la última MIUI</string>
   <string name="module_title_code">Codi QR</string>
   <string name="module_title_document">Document</string>
   <string name="module_title_namecard">Targeta de visita</string>

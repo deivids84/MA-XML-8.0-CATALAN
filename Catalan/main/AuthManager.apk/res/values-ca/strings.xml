@@ -223,6 +223,8 @@
   <string name="HIPS_Perm_background_start_activity_Desc">iniciar en segon pla</string>
   <string name="HIPS_Perm_get_accounts">Accedir als comptes del dispositiu</string>
   <string name="HIPS_Perm_get_accounts_Desc">accedir a tots els comptes emmagatzemats al dispositiu</string>
+  <string name="HIPS_Perm_get_installed_apps">Obtenir informació de les aplicacions instal·lades</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">obtenir informació de les aplicacions instal·lades en aquest dispositiu</string>
   <string name="HIPS_Perm_get_tasks">Obtenir tasques</string>
   <string name="HIPS_Perm_get_tasks_Desc">obtenir tasques</string>
   <string name="HIPS_Perm_install_shortcut">Dreceres a la pantalla d\'inici</string>
@@ -233,6 +235,8 @@
   <string name="HIPS_Perm_process_outgoing_calls_Desc">monitoritzar i finalitzar trucades</string>
   <string name="HIPS_Perm_read_notification_sms">Servei SMS</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">llegir SMS de servei</string>
+  <string name="HIPS_Perm_service_foreground">servei en primer pla</string>
+  <string name="HIPS_Perm_service_foreground_Desc">servei en primer pla</string>
   <string name="HIPS_Perm_show_when_locked">Mostrar a la pantalla de bloqueig</string>
   <string name="HIPS_Perm_show_when_locked_Desc">mostrar-se a la pantalla de bloqueig</string>
   <string name="HIPS_Perm_use_sip">Serveis de vídeo</string>
