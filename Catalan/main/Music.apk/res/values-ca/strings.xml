@@ -133,8 +133,6 @@
   <string name="cloud_state_storage_full">No hi ha prou espai al telèfon, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_welcome_message">Còpia de seguretat de les cançons</string>
   <string name="cloud_welcome_summary">Feu una còpia de seguretat de les cançons al Mi Cloud i escolteu-les en altres dispositius</string>
-  <string name="confirm_delete_downloads_message">%d baixades seran eliminades.</string>
-  <string name="confirm_delete_the_download_item_message">Voleu suprimir aquestes baixades?</string>
   <string name="confirm_download">Baixa</string>
   <string name="confirm_to_renew">Renova</string>
   <string name="continue_backup">Continua</string>
@@ -175,8 +173,6 @@
   <string name="dialog_button_scan_tracks">Cerca música en aquest dispositiu</string>
   <string name="dialog_cannot_resume">"Baixada interrompuda. No es pot reprendre."</string>
   <string name="dialog_confirm_delete_checkbox_message">Suprimeix també els arxius locals</string>
-  <string name="dialog_confirm_delete_downloads_message">Voleu suprimir %d elements?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Voleu suprimir aquests elements?</string>
   <string name="dialog_failed_body">Proveu-ho a baixar-lo més tard o elimina el fitxer de la cua?</string>
   <string name="dialog_file_already_exists">"No es pot baixar. Aquest fitxer ja existeix."</string>
   <string name="dialog_file_missing_body">"No s'ha pogut trobar el fitxer descarregat."</string>
@@ -241,7 +237,6 @@
   <string name="download_fail_to_fetch_info">"No s'ha pogut baixar, torneu-ho a provar"</string>
   <string name="download_filesize_unknown">Desconegut</string>
   <string name="download_in_process">S\'ESTÀ BAIXANT</string>
-  <string name="download_info_count_deleted_tasks">%s baixades eliminades</string>
   <string name="download_info_start_deleted_tasks">Suprimeix les baixades</string>
   <string name="download_list_get_free_vip">Prova de Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">L\'accelerador de baixades Xunlei està activat</string>

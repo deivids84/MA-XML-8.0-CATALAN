@@ -214,8 +214,9 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="android_beam_witch_label">Transmissió Android</string>
   <string name="animator_duration_scale_title">Durada de l\'animació</string>
   <string name="another_migration_already_in_progress">Ja hi ha una migració en curs.</string>
-  <string name="anr_record_interval_title">Gravació d\'intervals ANR</string>
   <string name="anti_spam">Llista de bloqueig</string>
+  <string name="aod_mode_summary">Amb la pantalla apagada mostra sempre l\'hora, data i missatges.</string>
+  <string name="aod_mode_title">Sempre engegat</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipus d\'autenticació</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -326,6 +327,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apply_now_button_text">Actualitza</string>
   <string name="apply_password_to_category_title">Cal una contrasenya</string>
   <string name="apply_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="approve_title">Verificació</string>
   <string name="apps_storage">Magatzem d\'aplicacions</string>
   <string name="apps_summary">%1$d aplicacions instal·lades</string>
   <string name="apps_summary_example">24 aplicacions instal·lades</string>
@@ -776,9 +778,12 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="button_light_timeout">Durada de la llum dels botons</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
+  <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_login">Inicia la sessió</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent pas (%d)</string>
+  <string name="button_text_ok">D’acord</string>
+  <string name="button_text_ok_timer">D\'acord(%d)</string>
   <string name="button_text_reboot_now">Reinicia</string>
   <string name="button_text_reject">Rebutja</string>
   <string name="cache_header_label">Memòria cau</string>
@@ -1042,6 +1047,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="current_use_hce_wallet">"Esteu utilitzant el Mi Wallet"</string>
   <string name="current_use_uicc_se">S\'està utilitzant un element segur a la targeta SIM</string>
   <string name="current_use_uicc_wallet">"Esteu utilitzant el SIM%1$s Wallet"</string>
+  <string name="current_zone">(actual)</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromatisme</string>
@@ -1103,7 +1109,7 @@ Alguns comptes també poden copiar automàticament els canvis que feu des del te
 
 Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'operador són diferents, recomanem que utilitzeu el límit de dades més conservador.»</string>
   <string name="data_usage_limit_dialog_title">S\'està limitant l\'ús de dades</string>
-  <string name="data_usage_limit_editor_title">Estableix un límit d\'ús de dades</string>
+  <string name="data_usage_limit_editor_title">Estableix límit d\'ús de dades</string>
   <string name="data_usage_list_mobile">Mòbil</string>
   <string name="data_usage_list_none">Cap</string>
   <string name="data_usage_menu_allow_background">Permet dades en segon pla</string>
@@ -2208,6 +2214,9 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
 Heu iniciat la sessió als següents comptes:
 »</string>
   <string name="master_clear_all">"Voleu eliminar totes les dades de l'emmagatzematge intern del telèfon? No podreu recuperar-los!"</string>
+  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;El restabliment de fàbrica&amp;#8221; esborrarà totes les dades del telèfon&lt;/b&gt;, incloent fotos, cançons, notes i altres dades personals. Assegureu-vos de fer còpies de seguretat de tots els elements importants a l\'ordinador.</string>
+  <string name="master_clear_apply_step_2">Assegureu-vos que tots els elements importants es copien a l\'ordinador. Totes les dades sobre aquest dispositiu s\'esborraran durant el restabliment. &lt;b&gt;No podreu restaurar els elements si no existeix una còpia de seguretat.&lt;/b&gt;</string>
+  <string name="master_clear_apply_title">Atenció</string>
   <string name="master_clear_button_text">Restableix el telèfon</string>
   <string name="master_clear_confirm_title">Voleu reinicialitzar-lo?</string>
   <string name="master_clear_desc">S\'esborraran totes les dades de &lt;b&gt;emmagatzematge intern&lt;/b&gt;\" del telèfon, incloent-hi:
@@ -2347,7 +2356,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="move_app_to_sdcard">Desplaça-ho a l\'emmagatzematge USB</string>
   <string name="move_error_device_admin">No es poden instal·lar administradors de dispositius en suports externs.</string>
   <string name="moving">S\'està desplaçant</string>
-  <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Baixa el controlador</string>
   <string name="msd_driver_download_mac">OSX: Baixeu el controlador i instal·leu AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Baixeu els controladors des d\'http://www.android.com/filetransfer/</string>
@@ -2431,6 +2439,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
   <string name="my_device">El meu dispositiu</string>
+  <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
@@ -2596,7 +2605,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
   <string name="onscreen_keyboard_settings_summary">Configuració del teclat de pantalla</string>
-  <string name="open_anr_debug">Activa la depuració ANR</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
@@ -2857,7 +2865,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_remind_bind_notlogin_account">Fes que el compte Mi pugui restablir la contrasenya.</string>
   <string name="privacy_password_remind_bindaccount_title">Afegeix un compte Mi</string>
   <string name="privacy_password_settings">Utilitza la contrasenya de privacitat</string>
+  <string name="privacy_password_settings_next">Següent</string>
   <string name="privacy_password_settings_titles">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
+  <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
+  <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
   <string name="privacy_password_visible_pattern">Mostra el patró</string>
   <string name="privacy_protect_title">Protecció de privacitat</string>
@@ -3002,7 +3013,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recommend_item_4">Auriculars</string>
   <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
-  <string name="record_anr_in_background">Registra l\'ANR en segon pla</string>
   <string name="regulatory_information">Informació de regulació</string>
   <string name="remaining_length_format">Resten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
@@ -4537,6 +4547,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_save_login">Desa la informació del compte</string>
   <string name="vpn_search_domains">Dominis de cerca DNS</string>
   <string name="vpn_server">Adreça del servidor</string>
+  <string name="vpn_set_screen_lock_content">Estableix una contrasenya de bloqueig de pantalla per desar la configuració VPN</string>
+  <string name="vpn_set_screen_lock_title">Estableix una contrasenya de bloqueig de pantalla</string>
   <string name="vpn_settings_not_available">Configuració de VPN no està disponible per aquest usuari</string>
   <string name="vpn_settings_password">Afegeix una contrasenya per a la VPN</string>
   <string name="vpn_settings_summary">Protegeix la configuració VPN amb la contrasenya del bloqueig de pantalla</string>

@@ -27,7 +27,6 @@
   <string name="get_activated_qcver_fail">No s\'ha pogut activar mbn versió QC</string>
   <string name="get_qcver_fail">No s\'ha pogut obtenir la versió QC</string>
   <string name="loaded">Carregat:</string>
-  <string name="localized_name">localized_name</string>
   <string name="location_configuration">Configuració d\'ubicació</string>
   <string name="location_hint">Ubicació actual:</string>
   <string name="mbn_file_load">Càrrega de fitxer MBN</string>

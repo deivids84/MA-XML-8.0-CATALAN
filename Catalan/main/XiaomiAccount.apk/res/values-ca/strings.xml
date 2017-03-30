@@ -15,6 +15,7 @@
   <string name="account_crop_user_avatar">Escapça foto</string>
   <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Mi</string>
   <string name="account_error_all_space_user_name">"El nom no pot contenir només espais"</string>
+  <string name="account_error_invalid_user_name">"El nom no pot contenir &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">"El nom no pot superar els 20 caràcters"</string>
   <string name="account_error_shorter_user_name">El nom ha de tenir més de 2 caràcters</string>
   <string name="account_error_user_birthday">L\'aniversari que heu introduït no és vàlid</string>

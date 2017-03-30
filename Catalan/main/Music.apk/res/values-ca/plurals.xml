@@ -9,6 +9,14 @@
     <item quantity="other">&lt;font color==\"red\"&gt;%d cançons&lt;/font&gt; s\'estan baixant</item>
     <item quantity="one">&lt;font color==\"red\"&gt;%d cançó&lt;/font&gt; s\'està baixant</item>
   </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">Voleu eliminar %d elements?</item>
+    <item quantity="one">Voleu eliminar %d element?</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">S\'han eliminat %d baixades</item>
+    <item quantity="one">S\'ha eliminat %d baixada</item>
+  </plurals>
   <plurals name="Ntracks_search_result">
     <item quantity="other">%d cançons trobades</item>
     <item quantity="one">%d cançó trobada</item>
@@ -17,17 +25,13 @@
     <item quantity="other">%d dies restants</item>
     <item quantity="one">%d dia restant</item>
   </plurals>
-  <plurals name="NTrackstoDownload">
-    <item quantity="other">Es baixaran %d cançons</item>
-    <item quantity="one">Es baixarà 1 cançó</item>
-  </plurals>
   <plurals name="NPlaylist_delete_confirm">
     <item quantity="other">Voleu eliminar %d llistes de reproducció?</item>
     <item quantity="one">Voleu eliminar %d llista de reproducció?</item>
   </plurals>
   <plurals name="Nnew_tracks_count">
-    <item quantity="other">%d noves</item>
     <item quantity="one">1 nova</item>
+    <item quantity="other">%d noves</item>
   </plurals>
   <plurals name="Ntracks_count">
     <item quantity="other">%d cançons</item>

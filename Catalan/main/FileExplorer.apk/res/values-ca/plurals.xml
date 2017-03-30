@@ -17,10 +17,6 @@
     <item quantity="other">%1$d seleccionats</item>
     <item quantity="one">%1$d seleccionat</item>
   </plurals>
-  <plurals name="items_file">
-    <item quantity="other">&#160;(%1$d elements)</item>
-    <item quantity="one">&#160;(%1$d element)</item>
-  </plurals>
   <plurals name="items_picture">
     <item quantity="other">&#160;(%1$d elements)</item>
     <item quantity="one">&#160;(%1$d element)</item>
@@ -109,14 +105,6 @@
     <item quantity="other">%1$s vistes</item>
     <item quantity="one">%1$s vista</item>
   </plurals>
-  <plurals name="video_num">
-    <item quantity="other">%1$s vídeos</item>
-    <item quantity="one">%1$s vídeo</item>
-  </plurals>
-  <plurals name="follower_num">
-    <item quantity="other">seguidors</item>
-    <item quantity="one">seguidor</item>
-  </plurals>
   <plurals name="video_count">
     <item quantity="other">%1$s vídeos</item>
     <item quantity="one">%1$s vídeo</item>
@@ -168,5 +156,25 @@
   <plurals name="more_gems">
     <item quantity="other">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gemes més per participar en sorteig</item>
     <item quantity="one">Recolliu &amp;lt;font color=#fc7050&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; gema més per participar en el sorteig</item>
+  </plurals>
+  <plurals name="clockin_days">
+    <item quantity="other">%1$s dies</item>
+    <item quantity="one">%1$s dia</item>
+  </plurals>
+  <plurals name="clockin_new_chip">
+    <item quantity="other">Teniu &amp;lt;font color=#faea47&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; punts</item>
+    <item quantity="one">Teniu &amp;lt;font color=#faea47&gt;&amp;lt;b&gt;%d&amp;lt;/b&gt;&amp;lt;/font&gt; punt</item>
+  </plurals>
+  <plurals name="clockin_day_count">
+    <item quantity="other">S\'ha comprovat en %1$s dies consecutius, continueu així!</item>
+    <item quantity="one">S\'ha comprovat en %1$s dia consecutiu, continueu així!</item>
+  </plurals>
+  <plurals name="total_topic_num">
+    <item quantity="other">%1$s temes</item>
+    <item quantity="one">%1$s tema</item>
+  </plurals>
+  <plurals name="total_user_num">
+    <item quantity="other">%1$s persones</item>
+    <item quantity="one">%1$s persona</item>
   </plurals>
 </resources>

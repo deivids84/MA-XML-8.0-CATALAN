@@ -81,6 +81,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Ara</string>
   <string name="hourly_forecast_title">Previsió per hores</string>
+  <string name="index_item_experience_now">Instal·la-ho ara</string>
   <string name="index_item_install_now">Instal·la-ho ara</string>
   <string name="index_item_installing">S\'està instal·lant</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
@@ -131,6 +132,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
   <string name="open_browser">Obre al navegador</string>
+  <string name="open_now">Obre\'l ara</string>
   <string name="other">Altres</string>
   <string name="pressure_connect">%1$s mbar</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>

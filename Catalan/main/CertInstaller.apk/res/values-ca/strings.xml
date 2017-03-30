@@ -25,6 +25,8 @@
   <string name="one_cacrt">un certificat CA</string>
   <string name="one_usercrt">un certificat d\'usuari</string>
   <string name="one_userkey">una clau d\'usuari</string>
+  <string name="one_wapi_ascrt">un certificat WAPI AS</string>
+  <string name="one_wapi_usercrt">un certificat d\'usuari WAPI</string>
   <string name="only_primary_user_allowed">Només el propietari d\'aquest dispositiu pot instal·lar certificats.</string>
   <string name="p12_description">Certificats al magatzem de claus PKCS12.</string>
   <string name="password_empty_error">Introduïu la contrasenya.</string>

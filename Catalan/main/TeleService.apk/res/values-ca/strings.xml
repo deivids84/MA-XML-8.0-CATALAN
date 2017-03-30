@@ -1506,6 +1506,9 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_settings_with_label">Bústia de veu (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">Bústia de veu visual</string>
   <string name="voip_setting">Configuració VoIP</string>
+  <string name="volte_provision_notification_activate">Activat</string>
+  <string name="volte_provision_text">Detecta si el VoLTE de la Sim no està aprovisionat, voleu activar-lo?</string>
+  <string name="volte_provision_title">Aprovisionament VoLTE</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
   <string name="volte_switch_title">Activa VoLTE</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>

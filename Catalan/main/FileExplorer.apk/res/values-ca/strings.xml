@@ -104,6 +104,9 @@
   <string name="click_to_refresh">Premeu aquí per actualitzar</string>
   <string name="click_to_switch_volume">Toqui per canviar entre l\'emmagatzematge intern i la targeta SD</string>
   <string name="click_to_switch_volume_pad">Toqueu per canviar entre l\'emmagatzematge intern i la targeta SD</string>
+  <string name="clockin_failed">"No s'ha pogut comprovar, torneu-ho a provar"</string>
+  <string name="clockin_success">S\'ha comprovat amb èxit</string>
+  <string name="clockin_use">Obtén un premi</string>
   <string name="comment_added">S\'ha afegit correctament</string>
   <string name="comment_added_tip">"Esteu afegint molts comentaris. Voleu seguir a aquesta persona?"</string>
   <string name="comment_delete_message">El comentari se suprimirà permanentment.</string>
@@ -123,12 +126,14 @@
   <string name="confirm_know">D\'acord</string>
   <string name="connecting">Connectant&#8230;</string>
   <string name="connection_error">"No s'ha pogut connectar"</string>
+  <string name="contain_sensitive_words">Elimineu les paraules inapropiades i torneu-ho a provar</string>
   <string name="copied">Copiat</string>
   <string name="copy_failed">"No s'ha pogut copiar, sembla que l'emmagatzematge és ple"</string>
   <string name="copy_text">Copia el text</string>
   <string name="copy_to">Copia a&#8230;</string>
   <string name="count_down">Compte enrere: %1$s</string>
   <string name="create_shortcut_success">S\'ha afegit una drecera</string>
+  <string name="daily_clockin">Comprova</string>
   <string name="data_consumption_cancel">Sortir</string>
   <string name="data_consumption_checkbox_hint">"No mostrar de nou"</string>
   <string name="data_consumption_confirm">D\'acord</string>
@@ -359,6 +364,7 @@
   <string name="no_message">Cap missatge</string>
   <string name="no_new_content_tip">Tots els articles estan actualitzats</string>
   <string name="no_recent_files">No hi ha fitxers recents</string>
+  <string name="no_search_content">"No s'ha pogut trobar resultats"</string>
   <string name="no_topic">No hi ha temes</string>
   <string name="no_videos">Res aquí. Feu un cop d\'ull als següents!</string>
   <string name="no_wifi">No hi ha cap xarxa detectada</string>
@@ -517,6 +523,11 @@
   <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
+  <string name="save">Desa</string>
+  <string name="save_desc_success">S\'ha canviat amb èxit</string>
+  <string name="save_failed">"No s'ha pogut desar, torneu-ho a provar"</string>
+  <string name="save_failed_for_length">La signatura és massa llarga, proveu una més curta</string>
+  <string name="save_name_success">S\'ha canviat amb èxit</string>
   <string name="save_to_local">Baixa</string>
   <string name="search_app">Font</string>
   <string name="search_app_more">Més</string>
@@ -534,6 +545,7 @@
   <string name="search_hot_video">Vídeos populars;Puja vídeos;Pujar vídeo;Vídeo curt;Vídeos curts;Vídeo petit;Vídeos petits</string>
   <string name="search_keyword">Etiquetes</string>
   <string name="search_kuai_chuan">Mi Drop;Transferència</string>
+  <string name="search_popup_tip">Podeu cercar persones i temes</string>
   <string name="search_recent_file">Explorador d\'arxius;Explorador;Arxiu;Arxius;Gestiona arxius;Gestor d\'arxius</string>
   <string name="search_result">Resultats</string>
   <string name="search_result_more">Més</string>
@@ -544,6 +556,10 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Cerca</string>
   <string name="search_title_hint">Cerca</string>
+  <string name="search_topic">Cerca temes</string>
+  <string name="search_user">Cerca persones</string>
+  <string name="see_more_topic">Més temes</string>
+  <string name="see_more_user">Més usuaris</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
   <string name="select_image">Triar fotos</string>
   <string name="select_interest_str">Seleccioneu els temes que li agraden</string>
@@ -642,6 +658,7 @@
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
   <string name="topic_message">%1$s: %2$s</string>
+  <string name="topic_title">Temes</string>
   <string name="transfer_done">Fitxers moguts correctament.</string>
   <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>
   <string name="type_not_support">"Aquest format de fitxer no està suportat. Descomprimeix aquest fitxer i torna a provar."</string>
@@ -686,6 +703,7 @@
   <string name="uploading_video">Pujant vídeo&#8230;</string>
   <string name="usb_label">USB</string>
   <string name="used">Usat </string>
+  <string name="user">Usuaris</string>
   <string name="user_cancel">Cancel·lat</string>
   <string name="user_center_title">Inici</string>
   <string name="user_desc_default_tip">Inicieu sessió per acumular punts i guanyar premis.</string>

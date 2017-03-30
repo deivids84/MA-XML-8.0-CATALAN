@@ -78,6 +78,8 @@
   <string name="card_title_video_call_paused">Vídeo pausat</string>
   <string name="card_title_video_conf_call">Trucada de videoconferència</string>
   <string name="card_video_hold_swap">Canvia</string>
+  <string name="close_camera_failed">"No s'ha pogut tancar la càmera"</string>
+  <string name="close_camera_requesting">S\'està sol·licitant tancar la càmera</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. Total %s</string>
   <string name="conference_call_number">%s persones</string>
   <string name="conference_call_single_description" formatted="false">%s etc. Total %s</string>
@@ -153,7 +155,6 @@
   <string name="keep_wait_call_back">Segueix esperant</string>
   <string name="livetalk_dial">Utilitza paquet de recàrrega</string>
   <string name="livetalk_hangup">Penja</string>
-  <string name="livetalk_left_minute">%s mins restants</string>
   <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
   <string name="miprofile_stranger_card">Desconeguda</string>
   <string name="modify_call_failure_str">"Petició de modificació de trucada fallida

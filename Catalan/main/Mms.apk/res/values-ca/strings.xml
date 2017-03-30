@@ -244,7 +244,7 @@
   <string name="menu_contact">Mostra la informació del contacte</string>
   <string name="menu_delete_messages">Elimina els missatges</string>
   <string name="menu_edit">Edita</string>
-  <string name="menu_forward">Endavant</string>
+  <string name="menu_forward">Reenvia</string>
   <string name="menu_lock">Favorit</string>
   <string name="menu_mark">Marca</string>
   <string name="menu_more">Més</string>
@@ -394,7 +394,7 @@
   <string name="pref_collapse_sp_messages_summary">Agrupa automàticament les notificacions d\'SMS</string>
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
-  <string name="pref_forward_title">Endavant</string>
+  <string name="pref_forward_title">Reenvia</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Missatges esborrats recentment</string>
