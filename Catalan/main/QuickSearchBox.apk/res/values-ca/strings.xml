@@ -13,6 +13,12 @@
   <string name="baidu_search_url_from_minus_one">https://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">https://www.google.com/search?q=%s</string>
   <string name="baidu_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="barcode_install_back">Enrera</string>
+  <string name="barcode_install_cancel">Cancel·la</string>
+  <string name="barcode_install_confirm">Instal·la</string>
+  <string name="barcode_system_unmatch">Actualitzeu MIUI abans d\'instal·lar l\'escànner</string>
+  <string name="barcode_to_install">Instal·leu l\'escànner per continuar</string>
+  <string name="barcode_uninstalled">Es va suprimir l\'escànner</string>
   <string name="choose_search_engine">Trieu el motor de cerca web per defecte</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_shortcuts">Esborrar les dreceres</string>
@@ -55,6 +61,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="local_setting">Configuració</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Configuració de cerca</string>
+  <string name="mina_name">Aplicacions directes</string>
   <string name="network_unavailable">"Sense connexió a internet"</string>
   <string name="permission_prompt_detail">Cerca de pel·lícules, llibres, música i molt més.</string>
   <string name="permission_prompt_start">Permet</string>
@@ -94,6 +101,9 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="search_videos">Cerca vídeos</string>
   <string name="search_widget">Cerca</string>
   <string name="send_secret_code">Enviar codi</string>
+  <string name="setting_other">Altres</string>
+  <string name="setting_version">Versió de la aplicació</string>
+  <string name="setting_version_title">Versió de la aplicació</string>
   <string name="settings_description">Noms de les aplicacions instal·lades</string>
   <string name="show_more">Mostra més</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>

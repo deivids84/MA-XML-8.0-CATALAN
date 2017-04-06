@@ -62,6 +62,10 @@
     <item>Sincronitza tots els missatges</item>
     <item>Sincronitza els missatges de les targetes SIM seleccionades</item>
   </string-array>
+  <string-array name="switch_sdk">
+    <item>Xiao mi SMS inteligent</item>
+    <item>CMCC SMS inteligent</item>
+  </string-array>
   <string-array name="select_dialog_items">
     <item>1 segon</item>
     <item>2 segons</item>

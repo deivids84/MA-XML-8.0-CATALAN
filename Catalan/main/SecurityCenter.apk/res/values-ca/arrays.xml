@@ -57,7 +57,7 @@
   </string-array>
   <string-array name="traffic_setting_sms_template">
     <item>Recuperar automàticament</item>
-    <item>Establir manualment</item>
+    <item>Estableix manualment</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Mostrar advertència</item>
