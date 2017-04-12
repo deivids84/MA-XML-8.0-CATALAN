@@ -80,6 +80,14 @@
   <string-array name="long_add_menu">
     <item>Afegeix a excepcions</item>
   </string-array>
+  <string-array name="sort_type">
+    <item>Ordena pel nom</item>
+    <item>Ordena per la mida</item>
+  </string-array>
+  <string-array name="sms_report_type">
+    <item>Ús de dades</item>
+    <item>Saldo del telèfon</item>
+  </string-array>
   <string-array name="power_dialog_auto_clean_memory_items">
     <item>Després de 1 minut</item>
     <item>Després de 5 minuts</item>

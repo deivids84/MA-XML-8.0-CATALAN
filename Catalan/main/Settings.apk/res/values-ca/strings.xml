@@ -16,7 +16,7 @@
   <string name="abc_action_bar_home_description">Torna a la pàgina d\'inici</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Mou cap a dalt</string>
+  <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet!</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-les totes</string>
@@ -122,6 +122,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="account_add">Afegeix</string>
   <string name="account_autostar_label">Inici automàtic</string>
   <string name="account_list">Altres comptes</string>
+  <string name="account_other">Altres</string>
   <string name="account_settings">Comptes</string>
   <string name="account_settings_menu_auto_sync">Sincronització automàtica de dades</string>
   <string name="account_settings_menu_auto_sync_personal">Sincronització automàtica de dades personals</string>
@@ -1763,6 +1764,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="home_key">Pàgina d\'inici</string>
   <string name="home_settings">Pàgina d\'inici</string>
   <string name="home_work_profile_not_supported">No admet el perfil de feina</string>
+  <string name="http_invoke_app">Aplicacions web</string>
+  <string name="http_invoke_app_summary">Obriu aplicacions més ràpidament sense instal·lar-les</string>
   <string name="ignore_optimizations_off">Optimitza</string>
   <string name="ignore_optimizations_off_desc">Es recomana per allargar la bateria</string>
   <string name="ignore_optimizations_on">No ho optimitzis</string>
@@ -4144,8 +4147,9 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Voleu desactivar la contrasenya de la pantalla de bloqueig?</string>
+  <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
@@ -5049,6 +5053,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">Cloud Mi</string>
+  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes i fotos, fa una còpia de seguretat de les aplicacions i configuracions i li ajuda a trobar el telèfon amb Cerca el dispositiu.</string>
+  <string name="xiaomi_cloud_service_disabled">Desactivat</string>
+  <string name="xiaomi_cloud_service_unknown">Desconegut</string>
   <string name="xiaomi_money_service">Credit Mi</string>
   <string name="xiaomi_router_available_notif_summary">Toqueu per veure més informació.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router disponible</string>

@@ -394,6 +394,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_summary">Elimineu fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
+  <string name="card_main_deepclean_wechat_action">Esborra</string>
+  <string name="card_main_deepclean_wechat_summary">Esborrar la memòria cau del WeChat per alliberar espai</string>
+  <string name="card_main_deepclean_wechat_title">Memòria cau del WeChat</string>
   <string name="card_main_gamebooster_summary">Accelera la velocitat i millora l\'experiència de joc</string>
   <string name="card_main_gamebooster_title">Accelerador de velocitat dels jocs</string>
   <string name="card_main_hbassistant_summary">Utilitzeu aquesta eina per agafar els sobres més ràpid</string>
@@ -1545,9 +1548,8 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="tc_sms_report_tips_dialog_message">L\'ús de dades utilitza un SMS especialment formatat per obtenir del seu operador seus números d\'ús de dades més recents. Si aquesta característica no funciona correctament intenti actualitzar el format SMS d\'ús de dades. El nou format actualitzat serà llavors enviat als nostres servidors.</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
-  <string name="tc_sms_report_title_bill">Error en l\'informe d\'ús de dades</string>
-  <string name="tc_sms_report_title_calltime">Error en l\'informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
+  <string name="tc_sms_report_type">Tipus d\'informe</string>
   <string name="tc_sms_report_upload_success">"Informe SMS d'ús de dades remès. Ens posem amb això!"</string>
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
   <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>

@@ -6,7 +6,7 @@
   <string name="ab_negative">A B negatiu</string>
   <string name="ab_positive">A B positiu</string>
   <string name="abc_action_bar_home_description">Vés a l\'inici</string>
-  <string name="abc_action_bar_up_description">Mou cap a dalt</string>
+  <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>

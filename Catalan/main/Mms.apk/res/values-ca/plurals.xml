@@ -21,6 +21,10 @@
     <item quantity="other">%1$s persones</item>
     <item quantity="one">%1$s persona</item>
   </plurals>
+  <plurals name="batch_delete_confirm_dialog_message">
+    <item quantity="other">Voleu eliminar %1$s missatges?</item>
+    <item quantity="one">Voleu eliminar %1$s missatge?</item>
+  </plurals>
   <plurals name="cloud_sms_count">
     <item quantity="other">%d missatges</item>
     <item quantity="one">1 missatge</item>
@@ -34,7 +38,7 @@
     <item quantity="one">%1$s missatge</item>
   </plurals>
   <plurals name="custom_select_title_items_selected">
-    <item quantity="one">%d seleccionat</item>
     <item quantity="other">%d seleccionats</item>
+    <item quantity="one">%d seleccionat</item>
   </plurals>
 </resources>

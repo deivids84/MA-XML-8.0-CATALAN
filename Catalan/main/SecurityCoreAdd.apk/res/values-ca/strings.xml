@@ -107,8 +107,6 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="import_photo_desc">Veure els elements compartits en el Segon espai</string>
   <string name="import_photo_suc">Fotos importades</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
-  <string name="keywords_sspace">Segon espai;Dos espais;2 espais;Amaga aplicacions;Amaga fitxers;Amaga fotos;Bloqueja la pantalla;Contrasenya de la pantalla de bloqueig;Privacitat;Mode privacitat;Mode privat;Privat;Mode convidat;Sessió de convidat;Accés convidat;Compte convidat;Convidat</string>
-  <string name="keywords_xspace">Aplicació dual;Aplicacions duals;Aplicació doble;Aplicacions dobles;Clona l\'aplicació;Clona aplicacions;Clon d\'aplicació;Clon d\'aplicacions;Dos comptes;2 comptes</string>
   <string name="list_empty_text">Buit</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
@@ -145,8 +143,6 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="otherSettings">Altres configuracions</string>
   <string name="passWordGuardSummary">Entreu al Segon espai des de la pantalla de bloqueig utilitzant una contrasenya</string>
   <string name="passwordProtect">Contrasenya</string>
-  <string name="path_sspace">Configuració/Segon espai</string>
-  <string name="path_xspace">Configuració/Aplicacions duals</string>
   <string name="please_diff_finger_print">"Assegureu-vos que s\'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig."</string>
   <string name="privacyContactsSummary">Mostrar els elements privats en el Segon espai</string>
   <string name="privacyContactsTitle">Missatges privats i contactes</string>
@@ -159,8 +155,6 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="removingSpace">S\'està suprimint&#8230;</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
-  <string name="resource_sspace">Segon espai</string>
-  <string name="resource_xspace">Aplicacions duals</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
   <string name="restore_show_desc">"No mostrar els missatges privats en el Segon espai. Encara estaran disponibles en el Primer espai."</string>
   <string name="restore_show_toast">No es mostren els missatges privats</string>
@@ -209,6 +203,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="show_private_msg">Mostrar els missatges privats</string>
   <string name="show_private_msg_summary">Mostrar els missatges privats en el Segon espai</string>
   <string name="spaceSetting">Configuració</string>
+  <string name="space_deleted">Aquest espai s\'ha suprimit</string>
   <string name="space_des_default">Espai aïllat amb dades xifrades</string>
   <string name="space_name_default">Espai de treball</string>
   <string name="startSet">Aplicar</string>

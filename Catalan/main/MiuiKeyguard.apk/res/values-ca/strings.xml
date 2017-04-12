@@ -20,10 +20,12 @@
   <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremta digital. Afegiu altre cop la vostra empremta.</string>
   <string name="fingerprint_add_title">Afegeix una empremta digital</string>
   <string name="fingerprint_enter_second_psw_msg">Per poder utilitzar el reconeixement d\'empremta, Introduïu la contrasenya del segon espai després de reiniciar el dispositiu</string>
+  <string name="fingerprint_enter_second_psw_msg_oldman">"No es pot accedir al segon espai mentre esteu en el mode bàsic"</string>
   <string name="fingerprint_enter_second_psw_title">Introduïu la contrasenya del segon espai</string>
   <string name="fingerprint_lockout_msg">Espereu un minut i torneu a provar de desbloquejar amb l\'empremta</string>
-  <string name="fingerprint_not_identified_msg">Per desbloquejar el dispositiu, introduïu la contrasenya.</string>
+  <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
   <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
+  <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
   <string name="fingerprint_try_again_text">Torneu a provar-ho</string>
   <string name="forget_password_string">He oblidat la contrasenya</string>
   <string name="incorrect_pincode">Codi PIN incorrecte</string>

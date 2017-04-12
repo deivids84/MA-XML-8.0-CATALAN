@@ -45,7 +45,6 @@
   <string name="audio_sim_card_mismatching">No hi ha connexió de xarxa o s\'ha instal·lat la SIM incorrecta. Instal·leu la targeta SIM des de la qual es va enviar el missatge i connecteu-vos a la xarxa.</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
-  <string name="batch_delete_confirm_dialog_message">Voleu eliminar %1$s missatges?</string>
   <string name="batch_deleting_message_progress_message">S\'està eliminant&#8230;</string>
   <string name="batch_deleting_progress_message">S\'està eliminant&#8230;</string>
   <string name="bcc_label">"C/o: "</string>
@@ -395,6 +394,7 @@
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
   <string name="pref_forward_title">Reenvia</string>
+  <string name="pref_hide_verification_code_summary">Amaga automàticament les contrasenyes úniques en les notificacions de missatges a la pantalla de bloqueig protegida</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
   <string name="pref_msg_trash_bin_title">Missatges esborrats recentment</string>
@@ -626,6 +626,7 @@
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
+  <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>

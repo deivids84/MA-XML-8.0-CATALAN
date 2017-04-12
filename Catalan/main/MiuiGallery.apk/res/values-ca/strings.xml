@@ -823,6 +823,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="loading_fail">"No s'ha pogut baixar"</string>
   <string name="loading_fail_sync_off">Activa la sincronització amb Mi Cloud per baixar</string>
   <string name="loading_fail_sync_off_message">"No s'han pogut carregar les fotos. La sincronització amb Mi Cloud està desactivada."</string>
+  <string name="loading_fail_sync_without_network">Connecteu-vos a la xarxa per baixar les metadades</string>
+  <string name="loading_fail_syncing">Espereu fins que les metadades s\'hagin baixat i torneu-ho a provar</string>
   <string name="loading_gif">S\'està baixant el GIF&#8230;</string>
   <string name="loading_gif_thumbnail">S\'està baixant la miniatura del GIF&#8230;</string>
   <string name="loading_image">S\'està baixant la imatge&#8230;</string>
@@ -830,6 +832,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="loading_members">S\'està carregant members026</string>
   <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
   <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
+  <string name="loading_video_fail_sync_without_network">Connecteu-vos a la xarxa per baixar les metadades</string>
+  <string name="loading_video_fail_syncing">Espereu fins que les metadades s\'hagin baixat i torneu-ho a provar</string>
   <string name="loading_video_thumbnail">S\'està baixant la portada del vídeo&#8230;</string>
   <string name="login_and_enable_service">Inicieu sessió amb el compte Mi</string>
   <string name="long_press_to_refocus">Toqueu i mantingueu premut per reenfocar</string>
@@ -1059,6 +1063,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="set_face_group_toast_title_old_user">Les persones es poden organitzar en grups</string>
   <string name="set_face_image">Estableix una nova foto de perfil</string>
   <string name="set_group">Estableix un grup</string>
+  <string name="set_wallpaper_get_image_failed">"No s'ha pogut baixar la imatge, torneu-ho a provar més tard"</string>
   <string name="share">Comparteix</string>
   <string name="share_album">Comparteix l\'àlbum</string>
   <string name="share_album_needs_auto_upload_tip">"No es poden desactivar les còpies de seguretat per als àlbums compartits"</string>

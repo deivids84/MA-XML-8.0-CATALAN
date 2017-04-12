@@ -33,7 +33,7 @@
   <string name="game_improve_title">Optimització del rendiment</string>
   <string name="game_more_improve">Restringiu l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
   <string name="game_net_text1">En limitar la velocitat de baixada de fons, redueix el retard de la xarxa</string>
-  <string name="game_net_text2">Accelera la xarxa del joc i limita la velocitat de baixada de fons, redueix el retard de la xarxa</string>
+  <string name="game_net_text2">"Accelera la xarxa del joc i limita la velocitat de baixada de fons, redueix el retard de la xarxa"</string>
   <string name="game_net_title">Protecció de xarxa</string>
   <string name="game_setting">Configuració del joc</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'augment de velocitat del joc?</string>
@@ -84,7 +84,7 @@
   <string name="month_report_warning_dialog_title">Informe de seguretat mensual</string>
   <string name="net_delay_title">Retard</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
-  <string name="no_game">No s\'ha trobat cap joc</string>
+  <string name="no_game">"No s'ha trobat cap joc"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="ok_button">D\'acord</string>
   <string name="open_browser">Obre al navegador</string>
@@ -95,7 +95,7 @@
   <string name="privacy_declare_dialog_title">Condicions del servei</string>
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="release_memory">Neteja la memòria cau</string>
-  <string name="save_energy_text">Prohibeix a las aplicacions de fons iniciar-se automàticament i sincronitzar dades, controlar la memòria d\'operació i reduir el consum d\'energia que no sigui de jocs</string>
+  <string name="save_energy_text">"Prohibeix a las aplicacions de fons iniciar-se automàticament i sincronitzar dades, controlar la memòria d'operació i reduir el consum d'energia que no sigui de jocs"</string>
   <string name="save_energy_title">Optimització de l\'energia</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats&#8230;</string>
   <string name="setting">Configuració</string>

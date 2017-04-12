@@ -328,7 +328,7 @@
   <string name="search_hint_header_text">El més cercat</string>
   <string name="selected_resource_file_invalid">"No es pot utilitzar el fitxer del recurs seleccionat"</string>
   <string name="settings">Configuració</string>
-  <string name="the_picture_is_not_support">la imatge no està suportada</string>
+  <string name="the_picture_is_not_support">"la imatge no està suportada"</string>
   <string name="the_picture_is_too_small">La imatge és massa petita</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarma</string>
   <string name="theme_apply_audio_dialog_item_notification">Notificació</string>

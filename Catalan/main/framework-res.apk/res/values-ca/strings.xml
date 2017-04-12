@@ -45,7 +45,7 @@
   <string name="action_bar_home_description">Vés a l\'inici</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>
   <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="action_bar_up_description">Amunt</string>
+  <string name="action_bar_up_description">Vés amunt</string>
   <string name="action_menu_overflow_description">Més opcions</string>
   <string name="action_mode_done">Fet</string>
   <string name="activity_chooser_view_dialog_title_default">Trieu una activitat</string>
