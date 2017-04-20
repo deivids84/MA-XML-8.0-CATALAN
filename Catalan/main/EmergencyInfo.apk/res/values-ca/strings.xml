@@ -279,7 +279,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="tab_title_contacts">Contactes</string>
   <string name="tab_title_info">Informació</string>

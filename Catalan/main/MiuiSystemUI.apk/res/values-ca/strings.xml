@@ -200,7 +200,7 @@ Premeu \'Esborra i converteix&#8230;\' per continuar"</string>
 Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</string>
   <string name="data_usage_disabled_dialog_3g_title">Dades 2G-3G desactivades</string>
   <string name="data_usage_disabled_dialog_4g_title">Dades 4G desactivades</string>
-  <string name="data_usage_disabled_dialog_enable">Reactivar dades</string>
+  <string name="data_usage_disabled_dialog_enable">Reactiva les dades</string>
   <string name="data_usage_disabled_dialog_mobile_title">Dades mòbils desactivades</string>
   <string name="data_usage_disabled_dialog_title">Dades desactivades</string>
   <string name="data_usage_uninstalled_apps">Aplicacions eliminades</string>
@@ -216,7 +216,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
-  <string name="debug_monitoring_category">S\'està fent un seguiment</string>
+  <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
@@ -507,7 +507,7 @@ d MMMM"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connectat</string>
   <string name="status_bar_style_settings">Notificacions</string>
   <string name="status_bar_volte_label">HD</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="task_access_locked_app_msg">Contingut de l\'aplicació ocult</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>

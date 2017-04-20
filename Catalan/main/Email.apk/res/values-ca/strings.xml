@@ -49,7 +49,7 @@
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
-  <string name="account_settings_retry_summary">Toqui aquí per sincronitzar el compte</string>
+  <string name="account_settings_retry_summary">Premeu per sincronitzar el compte</string>
   <string name="account_settings_ringtone">Escollir el to de trucada</string>
   <string name="account_settings_servers">Configuració del servidor</string>
   <string name="account_settings_summary">Freqüència de sincronització, notificacions, etc.</string>
@@ -764,7 +764,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="policy_password_expiration">Exigir que les contrasenyes caduquin</string>
   <string name="policy_password_history">Restringeix la reutilització de contrasenyes recents</string>
   <string name="policy_require_encryption">Requerir xifrat de dispositiu</string>
-  <string name="policy_require_manual_sync_roaming">Només permet sincronització manual en itinerància</string>
+  <string name="policy_require_manual_sync_roaming">Permet només la sincronització manual en itinerància</string>
   <string name="policy_require_password">Requerir contrasenya del dispositiu</string>
   <string name="policy_require_sd_encryption">Requerir xifrat de targeta SD</string>
   <string name="policy_require_smime">Requerir missatges SMIME</string>

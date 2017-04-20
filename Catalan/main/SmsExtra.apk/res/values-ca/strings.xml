@@ -4,9 +4,9 @@
   <string name="activity_not_found">No s\'ha trobat cap aplicació per processar aquesta acció</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="confirm_delete_all_conversations">Voleu eliminar totes les converses?</string>
-  <string name="confirm_delete_conversation">Voleu suprimir aquest fil sencer?</string>
-  <string name="confirm_delete_group_message">Voleu suprimir els missatges de grup?</string>
-  <string name="confirm_delete_locked_message">Voleu suprimir el missatge bloquejat?</string>
+  <string name="confirm_delete_conversation">Voleu eliminar aquest fil sencer?</string>
+  <string name="confirm_delete_group_message">Voleu eliminar els missatges de grup?</string>
+  <string name="confirm_delete_locked_message">Voleu eliminar el missatge bloquejat?</string>
   <string name="confirm_delete_message">Voleu eliminar aquest missatge?</string>
   <string name="confirm_dialog_locked_title">Voleu eliminar el missatge bloquejat?</string>
   <string name="confirm_dialog_title">Voleu eliminar-lo?</string>

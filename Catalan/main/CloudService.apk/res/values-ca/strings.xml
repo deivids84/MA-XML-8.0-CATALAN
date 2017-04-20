@@ -35,7 +35,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="buy_space_sulotion_renew_title">Seleccioneu el mode de renovació</string>
   <string name="buy_space_sulotion_title">Comprar espai d\'emmagatzematge</string>
   <string name="calendar_sync">Calendari</string>
-  <string name="click_to_enabled">Toqui per sincronitzar.</string>
+  <string name="click_to_enabled">Premeu per sincronitzar.</string>
   <string name="cloud_back_up_button_ok">Forçar aturada</string>
   <string name="cloud_back_up_close_info">Premi per realitzar còpia de seguretat. </string>
   <string name="cloud_back_up_dialog_content">"Aturar còpia de seguretat en curs? Si ho atura ara, no podrà utilitzar aquesta còpia de seguretat per restaurar aplicacions."</string>
@@ -49,7 +49,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="cloud_backup_dialog_title">Còpia de seguretat amb Mi Cloud</string>
   <string name="cloud_find_device">Trobar dispositiu</string>
   <string name="cloud_restore_title">Restaurar des de còpia</string>
-  <string name="cloud_space_upgrade_message">Toqui per obtenir %s GB d\'espai gratuït aquest mes</string>
+  <string name="cloud_space_upgrade_message">Premeu per obtenir %s GB d\'espai gratuït aquest mes</string>
   <string name="cloud_space_upgrade_no_quota_info">"Data errònia, si us plau inentar de nou"</string>
   <string name="cloud_space_upgrade_title">Més espai per a Mi Cloud</string>
   <string name="cloud_storage_full">Emmagatzematge al núvol</string>

@@ -29,7 +29,7 @@
   <string name="lte_4g_settings_title">Activa/desactiva 4G</string>
   <string name="managed_roaming_dialog_content">S\'ha trobat una xarxa amb servei limitat. Voleu iniciar una cerca de xarxes?</string>
   <string name="managed_roaming_title">Gestió d\'itinerància</string>
-  <string name="managed_roaming_title_sub">Gestió d\'itinerància (SUB %d)</string>
+  <string name="managed_roaming_title_sub">Gestió d\'itinerància (SUB%d)</string>
   <string name="mobile_network_settings_not_available">La configuració de la xarxa mòbil no està disponible per a aquest usuari</string>
   <string name="mobile_networks">Configuració de la xarxa mòbil</string>
   <string name="network_1x">1x</string>
@@ -81,7 +81,7 @@
   <string name="register_automatically">Registre automàtic&#8230;</string>
   <string name="register_on_network">S\'està registrant a %1$s&#8230;</string>
   <string name="registration_done">Registrat a la xarxa.</string>
-  <string name="roaming">Dades en itinerància</string>
+  <string name="roaming">Itinerància de dades</string>
   <string name="roaming_alert_title">Voleu permetre la itinerància de dades?</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_enable">Connecta a serveis de dades en itinerància</string>

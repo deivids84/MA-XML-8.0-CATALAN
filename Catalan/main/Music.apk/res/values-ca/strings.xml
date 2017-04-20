@@ -113,7 +113,7 @@
   <string name="chinese_male">Artistes masculins (Xina)</string>
   <string name="choose_download_quality">Trieu la qualitat de baixada</string>
   <string name="choose_stream_quality">Trieu la qualitat de la transmissió</string>
-  <string name="click_modify">Toqueu per editar la lletra.</string>
+  <string name="click_modify">Premeu per editar la lletra.</string>
   <string name="click_to_shuffle">Toqueu per barrejar-les totes</string>
   <string name="click_to_view_new_local_audios">Toqueu per veure els detalls.</string>
   <string name="close_music_time">"Temps restant: "</string>

@@ -60,8 +60,8 @@
     <item>Estableix manualment</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
-    <item>Mostrar advertència</item>
-    <item>Advertir i apagar dades mòbils</item>
+    <item>Mostra una advertència</item>
+    <item>Adverteix i desactiva les dades mòbils</item>
   </string-array>
   <string-array name="roaming_apps_sorted_type">
     <item>Freqüentment usades</item>

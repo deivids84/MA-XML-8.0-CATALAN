@@ -245,7 +245,7 @@
   <string name="callFailed_bearer_service_not_implemented">No s\'ha implementat el servei de la portadora</string>
   <string name="callFailed_call_rejected">Trucada rebutjada</string>
   <string name="callFailed_cb_enabled">"No es pot trucar si la restricció de trucades està activada."</string>
-  <string name="callFailed_cdma_activation">"Una targeta SIM ha activat i n'ha actualitzat la capacitat del vostre servei d'itinerància del vostre telèfon."</string>
+  <string name="callFailed_cdma_activation">"Una targeta SIM ha activat el servei i ha actualitzat la capacitat d'itinerància del vostre telèfon."</string>
   <string name="callFailed_cdma_call_limit">Hi ha massa trucades actives. Finalitzeu-ne alguna o combineu-les abans de fer-ne una de nova.</string>
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
@@ -399,7 +399,7 @@
   <string name="category_work">Laboral</string>
   <string name="cb_sms_settings">Configuració de difusió mòbil d\'SMS</string>
   <string name="cdma_activate_device">Activa dispositiu</string>
-  <string name="cdma_alert_message">"Si seleccioneu una altra targeta com la predeterminada per dades mòbils, no podreu utilitzar la vostra targeta de UIM Telecom Xina (excepte en itinerància)."</string>
+  <string name="cdma_alert_message">"Si seleccioneu una altra targeta com a predeterminada per les dades mòbils no podreu utilitzar la vostra targeta de UIM Telecom Xina (excepte en itinerància)."</string>
   <string name="cdma_alert_title">La targeta UIM ha de ser la predeterminada</string>
   <string name="cdma_display_precise_call_state_message">"Si el vostre operador no inclou aquesta funció, l'estat de la trucada pot ser inexacte."</string>
   <string name="cdma_display_precise_call_state_summary">Confirmeu que el vostre operador admet aquesta funció</string>
@@ -1226,12 +1226,12 @@ Queden %d intents."</string>
   <string name="ringtone_silent">Cap</string>
   <string name="ringtone_unknown">So de trucada desconegut</string>
   <string name="roaming">Itinerància de dades</string>
-  <string name="roaming_alert_title">Permeteu la itinerància de dades?</string>
+  <string name="roaming_alert_title">Voleu permetre la itinerància de dades?</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_enable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_notification_content">Podeu afegir el codi de país automàticament per millorar el marcatge.</string>
   <string name="roaming_notification_title">Sembla que la itinerància està activada</string>
-  <string name="roaming_reenable_message">"Heu perdut la connectivitat de dades perquè heu sortit de la vostra xarxa nadiua amb la itinerància de dades desactivada."</string>
+  <string name="roaming_reenable_message">"Heu perdut la connectivitat de dades perquè heu sortit de la vostra xarxa d'origen amb la itinerància de dades desactivada."</string>
   <string name="roaming_warning">És possible que us facturin càrrecs elevats.</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
@@ -1333,7 +1333,7 @@ Queden %d intents."</string>
   <string name="stk_cc_ss_to_ussd_error">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
   <string name="stock_quotes_disable">Cotitzacions de borsa desactivades</string>
   <string name="stock_quotes_enable">Cotitzacions de borsa activades</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
   <string name="sum_cdma_call_settings">Configuració addicional de trucades només per CDMA</string>

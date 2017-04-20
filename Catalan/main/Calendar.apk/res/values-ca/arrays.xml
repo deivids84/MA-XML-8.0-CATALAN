@@ -236,4 +236,64 @@
     <item>Mensualment</item>
     <item>Anualment</item>
   </string-array>
+  <string-array name="aries_info">
+    <item>àries</item>
+    <item>Àries</item>
+    <item>3/21 - 4/19</item>
+  </string-array>
+  <string-array name="taurus_info">
+    <item>taure</item>
+    <item>Taure</item>
+    <item>4/20 - 5/20</item>
+  </string-array>
+  <string-array name="gemini_info">
+    <item>gèminis</item>
+    <item>Gèminis</item>
+    <item>5/21 - 6/21</item>
+  </string-array>
+  <string-array name="cancer_info">
+    <item>càncer</item>
+    <item>Càncer</item>
+    <item>6/22 - 7/22</item>
+  </string-array>
+  <string-array name="leo_info">
+    <item>lleó</item>
+    <item>Lleó</item>
+    <item>7/23 - 8/22</item>
+  </string-array>
+  <string-array name="virgo_info">
+    <item>verge</item>
+    <item>Verge</item>
+    <item>8/23 - 9/22</item>
+  </string-array>
+  <string-array name="libra_info">
+    <item>balança</item>
+    <item>Balança</item>
+    <item>9/23 - 10/23</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item>escorpió</item>
+    <item>Escorpió</item>
+    <item>10/24 - 11/22</item>
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item>sagitari</item>
+    <item>Sagitari</item>
+    <item>11/23 - 12/21</item>
+  </string-array>
+  <string-array name="capricorn_info">
+    <item>capricorn</item>
+    <item>Capricorn</item>
+    <item>12/22 - 1/19</item>
+  </string-array>
+  <string-array name="aquarius_info">
+    <item>aquari</item>
+    <item>Aquari</item>
+    <item>1/20 - 2/18</item>
+  </string-array>
+  <string-array name="pisces_info">
+    <item>pisces</item>
+    <item>Pisces</item>
+    <item>2/19 - 3/20</item>
+  </string-array>
 </resources>

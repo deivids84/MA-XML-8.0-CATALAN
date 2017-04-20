@@ -100,6 +100,7 @@
   <string name="claim_video_success">S\'ha reclamat amb èxit</string>
   <string name="claim_video_unlogin">Inicieu sessió per reclamar vídeos</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
+  <string name="clear_record">Neteja l\'historial</string>
   <string name="click_login_str">Inicia la sessió</string>
   <string name="click_to_refresh">Premeu aquí per actualitzar</string>
   <string name="click_to_switch_volume">Toqui per canviar entre l\'emmagatzematge intern i la targeta SD</string>
@@ -520,7 +521,7 @@
   <string name="rlv_loading_more">Un moment&#8230;</string>
   <string name="rlv_pull_to_close">Llisca avall per tancar</string>
   <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
-  <string name="rlv_refreshing">Escanejant fitxers&#8230;</string>
+  <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
   <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
   <string name="save">Desa</string>
@@ -541,6 +542,7 @@
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
   <string name="search_hint">Cerca</string>
+  <string name="search_history">Historial de cerca</string>
   <string name="search_hot_sticker">Adhesius; Baixa adhesius</string>
   <string name="search_hot_video">Vídeos populars;Puja vídeos;Pujar vídeo;Vídeo curt;Vídeos curts;Vídeo petit;Vídeos petits</string>
   <string name="search_keyword">Etiquetes</string>

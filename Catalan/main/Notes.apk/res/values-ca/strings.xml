@@ -45,7 +45,7 @@
   <string name="error_note_not_exist">"La nota no existeix"</string>
   <string name="error_send_empty_note">"No es pot enviar una nota buida"</string>
   <string name="error_send_empty_note_to_weibo">"No es pot enviar una nota buida a Weibo"</string>
-  <string name="error_unsupport_content">Aquesta nota inclou contingut no suportat, toqui aquí per actualitzar l\'aplicació requerida</string>
+  <string name="error_unsupport_content">Aquesta nota inclou contingut incompatible, premeu aquí per actualitzar l\'aplicació</string>
   <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja està a la pantalla d\'inici</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
   <string name="force_touch_menu_add">Afegeix nota</string>

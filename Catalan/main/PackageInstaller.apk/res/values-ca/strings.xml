@@ -363,7 +363,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
   <string name="tether_settings_title_all">Ancoratge de xarxa i punt d\'accés portàtil</string>

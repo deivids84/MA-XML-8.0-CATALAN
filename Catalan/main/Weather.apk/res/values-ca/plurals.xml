@@ -17,4 +17,16 @@
     <item quantity="other">Serè</item>
     <item quantity="one">Serè</item>
   </plurals>
+  <plurals name="total_voted_num_text">
+    <item quantity="other">"&amp;lt;font color='#20a7ff'&gt;%1$s&amp;lt;/font&gt; la gent ha votat"</item>
+    <item quantity="one">"&amp;lt;font color='#20a7ff'&gt;%1$s&amp;lt;/font&gt; persona ha votat"</item>
+  </plurals>
+  <plurals name="yes_vote_num">
+    <item quantity="other">| %1$s gent</item>
+    <item quantity="one">| %1$s persona</item>
+  </plurals>
+  <plurals name="no_vote_num">
+    <item quantity="other">%1$s gent |</item>
+    <item quantity="one">%1$s persona |</item>
+  </plurals>
 </resources>

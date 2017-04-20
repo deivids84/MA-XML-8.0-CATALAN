@@ -785,7 +785,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Alt</item>
   </string-array>
   <string-array name="agps_network_entries">
-    <item>Xarxa domèstica</item>
+    <item>Xarxa d\'origen</item>
     <item>Totes les xarxes</item>
   </string-array>
   <string-array name="agps_si_mode_entries">
@@ -843,6 +843,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Feu clic en ajusta - Doble clic en el disparador</item>
     <item>Ajust lliscant - Disparador lliscant</item>
     <item>Feu clic a ajusta - Feu clic en el disparador</item>
+    <item>Feu clic en ajusta - Clic perllongat en el disparador</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>

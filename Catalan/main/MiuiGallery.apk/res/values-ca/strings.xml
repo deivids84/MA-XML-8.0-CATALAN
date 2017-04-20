@@ -768,6 +768,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="get_album_info_in_process">"S'estan obtenint els detalls de l'àlbum compartit…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
+  <string name="grant_permission_go_and_set">Defineix</string>
+  <string name="grant_permission_text">"La Galeria necessita accés a %s per funcionar normalment, premeu Estableix per anar als Permisos."</string>
+  <string name="grant_permission_title">Permet l\'accés</string>
   <string name="has_invalid_recipient">Destinataris no vàlids: %1$s</string>
   <string name="have_known">Ho entenc</string>
   <string name="hidden_album_display_name">Àlbum ocult</string>
@@ -941,7 +944,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_full_format">Podeu seleccionar fins a %d fotos</string>
   <string name="picker_image_need_download">"%d de les fotos seleccionades no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_image_will_download">"%d de les fotos seleccionades no són al dispositiu. Es baixaran."</string>
-  <string name="picker_mobile_data_video">"No es poden baixar vídeos utilitzant les dades mòbils. S'ha omès %d."</string>
   <string name="picker_no_network_message">Connecteu a la xarxa per baixar</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$dMB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_title_format">Podeu seleccionar %d fotos</string>

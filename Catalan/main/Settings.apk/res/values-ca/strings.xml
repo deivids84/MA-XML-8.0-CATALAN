@@ -181,10 +181,10 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració avançada</string>
   <string name="advanced_settings_summary">Habilita més opcions avançades</string>
-  <string name="agps_roaming">A-GPS quan és en itinerància</string>
-  <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si passeu del límit contractat podria ser que l'operadora ho cobri apart."</string>
-  <string name="agps_roaming_dia_title">Utilitzeu l\'A-GPS en itinerància</string>
-  <string name="agps_roaming_summary">Utilitza dades mòbils quan el GPS és en itinerància</string>
+  <string name="agps_roaming">A-GPS en itinerància</string>
+  <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si excediu el límit contractat, el vostre operador us pot cobrar càrrecs addicionals."</string>
+  <string name="agps_roaming_dia_title">Ús de l\'A-GPS en itinerància</string>
+  <string name="agps_roaming_summary">Utilitza dades mòbils per ajudar al GPS quan esteu en itinerància</string>
   <string name="airplane_mode">Mode avió</string>
   <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
@@ -1069,7 +1069,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="data_usage_app_info_label">INFORMACIÓ DE L\'APLICACIÓ</string>
   <string name="data_usage_app_items_header_text">Ús de l\'aplicació</string>
   <string name="data_usage_app_restrict_background">Restringeix l\'ús de dades en segon pla</string>
-  <string name="data_usage_app_restrict_background_summary">Desactiva les dades en segon pla per a xarxes mòbils.</string>
+  <string name="data_usage_app_restrict_background_summary">Activa l\'ús de les dades mòbils en segon pla</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Per restringir l\'ús de dades en segon pla d\'aquesta aplicació, primer heu de configurar-ne el límit.</string>
   <string name="data_usage_app_restrict_dialog">«Aquesta característica pot fer que una aplicació que depengui de l\'ús de dades en segon pla deixi de funcionar quan només hi ha disponibles xarxes de dades mòbils.
 
@@ -1187,7 +1187,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="debug_intent_sender_label">Depura els intents d\'enviament</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
-  <string name="debug_monitoring_category">S\'està fent un seguiment</string>
+  <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="decline_remote_bugreport_action">Rebutja-ho</string>
@@ -1904,7 +1904,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, trucada, trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
-  <string name="label_global_roaming_settings">Configuració de l\'itinerància</string>
+  <string name="label_global_roaming_settings">Configuració d\'itinerància</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma i introducció de text</string>
@@ -1987,7 +1987,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_reset_type">Tipus de reinici</string>
   <string name="location_agps_reset_type_choose_dialog_title">Tipus de reinici</string>
   <string name="location_agps_reset_type_summary">Tria el tipus de reinici preferit</string>
-  <string name="location_agps_roaming_help">"Escollint totes les xarxes pot augmentar l'ús de dades en itinerància. Si us passeu del límit d'ús dels plans de dades, l'operadora pot cobrar despeses addicionals."</string>
+  <string name="location_agps_roaming_help">"Si escolliu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs adicionals."</string>
   <string name="location_agps_si_mode">Mode AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Mètode AGPS</string>
   <string name="location_agps_si_mode_summary">Tria el mètode preferit per a l\'AGPS</string>
@@ -2438,6 +2438,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
+  <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
@@ -2685,6 +2686,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_small_title">Molt petita</string>
   <string name="page_layout_page2_title">Previsualització</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
@@ -2960,7 +2962,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radioInfo_phone_idle">Inactiu</string>
   <string name="radioInfo_phone_offhook">Trucada en curs</string>
   <string name="radioInfo_phone_ringing">S\'està trucant</string>
-  <string name="radioInfo_roaming_in">Itinerància</string>
+  <string name="radioInfo_roaming_in">En itinerància</string>
   <string name="radioInfo_roaming_not">No és en itinerància</string>
   <string name="radioInfo_service_emergency">Només trucades d\'emergència</string>
   <string name="radioInfo_service_in">En servei</string>
@@ -3088,7 +3090,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="roaming_reenable_message">S\'ha perdut la connexió de dades perquè heu deixat la xarxa d\'origen amb la itinerància de dades desactivada.</string>
   <string name="roaming_reenable_title">Voleu permetre l\'ús de dades en itinerància?</string>
   <string name="roaming_turn_it_on_button">Activa-la</string>
-  <string name="roaming_warning">Si permeteu la itinerància de dades, és possible que us facturin càrrecs d\'itinerància elevats!</string>
+  <string name="roaming_warning">És possible que us facturin càrrecs elevats.</string>
   <string name="roaming_warning_multiuser">«Si permeteu la itinerància de dades, és possible que us facturin càrrecs d\'itinerància elevats!
 
 Aquesta configuració afecta tots els usuaris del telèfon.»</string>
@@ -3396,7 +3398,7 @@ Per fer-ho:
   <string name="search_settings">Cerca</string>
   <string name="search_settings_summary">Gestiona la configuració i l\'historial de cerca</string>
   <string name="search_silent_mode_title">Mode en silenci;silenci;silenci;mut</string>
-  <string name="search_sim_management_title">Xarxes mòbils;Dades mòbils;Dades mòbils;Dades;Itinerància a l\'estranger;Itinerància;Recepció de MMS;Xarxes mòbils;</string>
+  <string name="search_sim_management_title">Xarxes mòbils;Dades mòbils;Dades mòbils;Dades;Itinerància en ultramar;Itinerància;Recepció de MMS;Xarxes mòbils;</string>
   <string name="search_sim_status_title">Estat de la SIM;SIM</string>
   <string name="search_slot_status_title">Informació de l\'IMEI</string>
   <string name="search_sms_delivered_sound_title">Missatge lliurat</string>
@@ -3429,7 +3431,7 @@ Per fer-ho:
   <string name="search_vibrate_in_silent_title">Vibra en silenci</string>
   <string name="search_vibrate_on_touch_title">Vibra en prèmer</string>
   <string name="search_vibrate_when_ringing_title">Vibra també per a les trucades</string>
-  <string name="search_virtual_sim">Dades mòbils internacionals</string>
+  <string name="search_virtual_sim">Dades mòbils internacionals;Itinerància de dades;Itinerància de dades mòbils</string>
   <string name="search_vpn_enable">VPN</string>
   <string name="search_vpn_settings_password">Contrasenya VPN</string>
   <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
@@ -3919,6 +3921,7 @@ Un cop formatat, aquest ^1 només funcionarà en aquest dispositiu.
 
 \"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
   <string name="storage_wizard_format_confirm_public_title">Formatació com a emmagatzematge extraïble</string>
+  <string name="storage_wizard_format_confirm_third_body">La ^1 is serà formatada</string>
   <string name="storage_wizard_format_confirm_title">Formatació com a emmagatzematge intern</string>
   <string name="storage_wizard_format_progress_body">No traieu ^1 mentre s\'està formatant.</string>
   <string name="storage_wizard_format_progress_title">S\'està formatant ^1&#8230;</string>
@@ -3962,7 +3965,7 @@ Podeu continuar, però les aplicacions aniran a batzegades i les transferències
 Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</string>
   <string name="storageuse_settings_summary">Mostra l\'emmagatzematge que utilitzen les aplicacions</string>
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
-  <string name="strict_mode">S\'ha activat el mode estricte</string>
+  <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
@@ -3978,6 +3981,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
+  <string name="suspend_gesture_enabled">Gira la pantalla</string>
   <string name="suspension_ball_enable">Drecera d\'inici ràpid</string>
   <string name="suspension_ball_enable_desc">Activa o desactiva el Quick ball des de la drecera</string>
   <string name="suw_back_button_label">Enrere</string>

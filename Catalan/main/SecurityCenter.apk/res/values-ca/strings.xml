@@ -473,17 +473,17 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_correction_timeout_body">Toqui per actualitzar manualment.</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
   <string name="data_usage_disabled_dialog">Ha arribat al límit d\'ús de dades. L\'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals</string>
-  <string name="data_usage_disabled_dialog_enable">Activar dades</string>
+  <string name="data_usage_disabled_dialog_enable">Activa les dades</string>
   <string name="data_usage_leisure_warning_body">Toqui per veure detalls de l\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
-  <string name="data_usage_limit_body">Toqui per activar xarxa de dades mòbils.</string>
+  <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
   <string name="data_usage_limit_snoozed_body">Ha excedit el límit d\'ús de dades per aquest mes.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit d\'ús de dades excedit</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
-  <string name="data_usage_restricted_body">Toqui per activar dades en segon pla</string>
+  <string name="data_usage_restricted_body">Premeu per activar les dades en segon pla.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
   <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
   <string name="data_usage_warning_body_notify">Toqueu per veure els detalls</string>
@@ -509,7 +509,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="descx_quick_scan_cancel">Escaneig cancel·lat</string>
   <string name="descx_quick_scan_done">Escaneig finalitzat</string>
   <string name="descx_quick_scan_preparation">Un moment&#8230;</string>
-  <string name="descx_scanning_item">Escanejant %s</string>
+  <string name="descx_scanning_item">S\'està escanejant %s</string>
   <string name="descx_start_cleanup_cache">S\'està iniciant l\'optimització de la memòria cau</string>
   <string name="descx_start_cleanup_memory">S\'està iniciant l\'optimització de la memòria</string>
   <string name="descx_start_cleanup_system">S\'està iniciant l\'optimització de la protecció del sistema</string>
@@ -519,14 +519,14 @@ o introdueixi la seva contrasenya"</string>
   <string name="detail_app_button">Info de l\'aplicació</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
-  <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància internacional, només les aplicacions que ha afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
-  <string name="dialog_app_roaming_title">"Itinerància internacional no s'ha activat per %1$s"</string>
+  <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància en ultramar, només les aplicacions que heu afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
+  <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_paysafety_scan">Voleu aturar la comprovació de seguretat del pagament?</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
-  <string name="dialog_roaming_apps_sorted_title">Ordenar per</string>
-  <string name="dialog_roaming_message">Permet a aquesta aplicació usar dades mòbils en itinerància internacional?</string>
-  <string name="dialog_roaming_title">Itinerància internacional</string>
+  <string name="dialog_roaming_apps_sorted_title">Ordena per</string>
+  <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
+  <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
   <string name="dialog_title_stop_paysafety_scan">Atura</string>
@@ -537,8 +537,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="domestic_roaming_setting">Itinerància nacional</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="dual_setting_simcard1">SIM 1</string>
-  <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_setting_simcard1">SIM 1 </string>
+  <string name="dual_setting_simcard2">SIM 2 </string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
   <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
@@ -560,7 +560,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
-  <string name="fingerprint_identify_msg">Escanejant empremta…</string>
+  <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
   <string name="fingerprint_not_remind">"No preguntar de nou"</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
@@ -584,7 +584,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
-  <string name="firewall_rule_group_title_roaming">Itinerància internacional</string>
+  <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s està restringit per utilitzar %2$s xarxes</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
@@ -660,7 +660,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_scan_result_safe">Segur</string>
   <string name="hints_scan_result_virus">Virus detectats</string>
   <string name="hints_scanning">S\'està escanejant&#8230;</string>
-  <string name="hints_scanning_text">Escanejant&#8230;</string>
+  <string name="hints_scanning_text">S\'està escanejant&#8230;</string>
   <string name="hints_scanning_virus_by_cloud">Escaneig del núvol en curs&#8230;</string>
   <string name="hints_unknown_virus_name">Desconegut</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
@@ -684,7 +684,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installed">S\'ha instal·lat</string>
   <string name="installing">S\'està instal·lant</string>
-  <string name="international_roaming_setting">Itinerància internacional</string>
+  <string name="international_roaming_setting">Itinerància en ultramar</string>
   <string name="international_roaming_whitelist_count">%d aplicacions poden utilitzar dades mòbils en itinerància</string>
   <string name="ip_address_exception_summary">No s\'ha pogut obtenir l\'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica.</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
@@ -850,7 +850,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_framework">Estructura de Mi Service</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
-  <string name="mian_page_primary_txt">Itinerància internacional</string>
+  <string name="mian_page_primary_txt">Itinerància en ultramar</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
@@ -874,7 +874,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_operator_exception_summary">No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s\'ha activat el seu pla mòbil per la vostra companyia.</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
-  <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigui connectat en itinerància a la xarxa."</string>
+  <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigueu connectat en itinerància a la xarxa."</string>
   <string name="network_route_exception_detail">"Hi pot haver un problema amb l\'encaminador que esteu connectat a:
 
  \"&lt;b&gt;\"1. Problemes amb la xarxa Wi-Fi pública
@@ -1039,7 +1039,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pm_auto_start_by_other_app">\"Permetre a l\'aplicació iniciï altres apps</string>
   <string name="pm_auto_start_by_system">Iniciar aplicacions</string>
   <string name="pm_auto_start_by_system_event">Permetre a apps iniciar automàticament</string>
-  <string name="pm_auto_start_proc_is_running">Executar</string>
+  <string name="pm_auto_start_proc_is_running">En execució</string>
   <string name="pm_remember_choice">Recordar la meva selecció</string>
   <string name="pm_root_success_notification_infomation">Cal que conegueu els riscos relacionats amb l\'accés a l\'arrel</string>
   <string name="pm_root_success_notification_title">Accés root habilitat</string>
@@ -1114,8 +1114,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_adjust_data_usage_summary">Després de canviar la plantilla de calibratge, MIUI la farà servir per obtenir estadístiques d\'ús de dades del vostre operador</string>
   <string name="pref_adjust_data_usage_value">Modifica</string>
   <string name="pref_adjust_traffic_data">Establir ús de dades</string>
-  <string name="pref_allow_connect_network_title">Dades en itinerància internacional</string>
-  <string name="pref_allow_connect_network_whitelist_title">Utilitzar dades mòbils a permeses</string>
+  <string name="pref_allow_connect_network_title">Dades en itinerància en ultramar</string>
+  <string name="pref_allow_connect_network_whitelist_title">Permet a les excepcions utilitzar les dades mòbils en itinerància</string>
   <string name="pref_app_traffic_managent">Restricció d\'ús de dades per aplicacions</string>
   <string name="pref_auto_adjust_settings">Configuració d\'estadístiques d\'ús de dades per Auto-sincronitzar</string>
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
@@ -1177,9 +1177,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_package_traffic_overlay">%1$s | Addicional: %2$s</string>
   <string name="pref_package_traffic_settings">Límit de dades mòbils</string>
   <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>
-  <string name="pref_roaming_daily_limit_setting">Límit de dades diari en itinerància internacional</string>
+  <string name="pref_roaming_daily_limit_setting">Establiu el límit de dades diari en itinerància</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
-  <string name="pref_roaming_setting_gategory">Itinerància internacional</string>
+  <string name="pref_roaming_setting_gategory">Configuració</string>
   <string name="pref_setting_operators_message">Edita el missatge que el seu dispositiu envia al seu operador per sincronitzar les seves estadístiques d\'ús de dades</string>
   <string name="pref_show_mobile_traffic">Quan desbloqueja el telèfon, mostrar estadístiques d\'ús de dades durant el període en què el seu dispositiu ha estat bloquejat (ha de ser major de 5 minuts)</string>
   <string name="pref_special_package_setting">Pla de dades personalitzat</string>
@@ -1203,7 +1203,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_traffic_manage_title">Ús de dades</string>
   <string name="pref_version">Versió %s</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
-  <string name="pref_whitelist_setting">Administrar llista de permeses</string>
+  <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Càmera</string>
@@ -1278,15 +1278,15 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="result_virus_header">S\'han trobat %d virus i apps insegures</string>
   <string name="result_wifi_header">Riscos Wi-Fi detectats</string>
   <string name="right_precent">100%</string>
-  <string name="roaming_allow_network_dialog_title">Permet itinerància de dades mòbils?</string>
-  <string name="roaming_limit_dialog_message">Assolit el limit diari de dades roaming</string>
-  <string name="roaming_limit_network_notification_body">Premi per veure les xarxes de dades disponibles</string>
-  <string name="roaming_limit_notification_title">Assolit el limit diari de dades roaming</string>
-  <string name="roaming_limit_warning_notification_body">Premi per veure l\'ús de dades.</string>
-  <string name="roaming_not_start_body">Aplicacions a la llista de permeses podran utilitzar dades mòbils en itinerància internacional..</string>
-  <string name="roaming_not_start_title">Itinerància internacional</string>
-  <string name="roaming_start_body">Les aplicacions estan utilitzant les dades mòbils.</string>
-  <string name="roaming_start_title">Itinerància internacional</string>
+  <string name="roaming_allow_network_dialog_title">Voleu permetre la itinerància de dades mòbils?</string>
+  <string name="roaming_limit_dialog_message">S\'ha assolit el límit diari de dades en itinerància.</string>
+  <string name="roaming_limit_network_notification_body">Premeu per veure les xarxes de dades disponibles</string>
+  <string name="roaming_limit_notification_title">S\'ha assolit el límit diari de dades en itinerància</string>
+  <string name="roaming_limit_warning_notification_body">Premeu per veure l\'ús de dades.</string>
+  <string name="roaming_not_start_body">Premeu per veure els paràmetres d\'itinerància de dades.</string>
+  <string name="roaming_not_start_title">Itinerància en ultramar</string>
+  <string name="roaming_start_body">Premeu per veure les excepcions d\'itinerància de dades.</string>
+  <string name="roaming_start_title">Itinerància en ultramar</string>
   <string name="root">Accés root</string>
   <string name="root_apply_step_1">Concedir accés root a %s?</string>
   <string name="root_apply_step_2">Concedir accés root a les aplicacions podria causar que el dispositiu es tornés inestable.</string>
@@ -1324,11 +1324,11 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
-  <string name="scanning_bar_cache_title">Escanejant paperera&#8230;</string>
-  <string name="scanning_bar_memory_title">Escanejant la memòria cau&#8230;</string>
+  <string name="scanning_bar_cache_title">S\'està escanejant la brossa&#8230;</string>
+  <string name="scanning_bar_memory_title">S\'està escanejant la memòria cau&#8230;</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="scanning_bar_system_text">Permisos d\'aplicacions</string>
-  <string name="scanning_bar_system_title">Escanejant sistema&#8230;</string>
+  <string name="scanning_bar_system_title">S\'està escanejant el sistema&#8230;</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
@@ -1386,7 +1386,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
   <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>
   <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
-  <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa</string>
+  <string name="sp_background_risk_type_virus">S\'està executant una aplicació maliciosa en segon pla</string>
   <string name="sp_background_risk_type_wifi">La Wi-Fi a la que esteu connectats és perillosa</string>
   <string name="sp_button_text_ignore_alert_title">Voleu ignorar la comprovació d\'aquest element?</string>
   <string name="sp_empty_title_sign_exception">Un únic clic en l\'aplicació en la pàgina de resultats per afegir-la a excepcions</string>
@@ -1628,7 +1628,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció del virus ja existeix</string>
   <string name="toast_add_virus_white_list_success">S\'ha afegit a excepcions. Mostra els elements a la configuració.</string>
   <string name="toast_auto_traffic_correct">L\'ús de dades s\'ajusta automàticament</string>
-  <string name="toast_cleaner_cloudscan">Netejador farà servir definicions en línia</string>
+  <string name="toast_cleaner_cloudscan">El netejador farà servir definicions en línia</string>
   <string name="toast_default_app">"%1$s establert com a %2$s per defecte del sistema"</string>
   <string name="toast_flow_notification">Activades les notificacions d\'ús de dades</string>
   <string name="toast_garbage_lib">Activades les actualitzacions automàtiques de Netejador</string>

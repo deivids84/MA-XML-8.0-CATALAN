@@ -152,9 +152,9 @@
   <string name="dialog_msg_add_white_list_error">"El fitxer no es pot afegir a les excepcions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Voleu fer còpia de seguretat i després desinstal·lar les aplicacions seleccionades?</string>
   <string name="dialog_msg_check_all">Confirmar la selecció %1$s que conté %2$d entrades</string>
-  <string name="dialog_msg_esc_cleanmaster">Aturar l\'exploració de neteja en curs?</string>
+  <string name="dialog_msg_esc_cleanmaster">Voleu aturar l\'exploració de neteja en curs?</string>
   <string name="dialog_msg_load_cleanup_engine_error">El motor de neteja s\'ha malmès.</string>
-  <string name="dialog_msg_stop_scan">Aturar l\'exploració de neteja en curs?</string>
+  <string name="dialog_msg_stop_scan">Voleu aturar l\'exploració de neteja en curs?</string>
   <string name="dialog_msg_uninstall_apps">Voleu desinstal·lar aquestes aplicacions?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Voleu desinstal·lar aquests aplicacions? (incloent les aplicacions duals)?</string>
   <string name="dialog_ok_add_white_list_error">D\'acord</string>
@@ -162,7 +162,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Còpia de seguretat i desinstal·lació</string>
   <string name="dialog_title_check_all">Selecciona-ho tot</string>
   <string name="dialog_title_delete_image">Esborrar les imatges seleccionades</string>
-  <string name="dialog_title_esc_cleanmaster">Sortir del netejador</string>
+  <string name="dialog_title_esc_cleanmaster">Sortida del netejador</string>
   <string name="dialog_title_load_cleanup_engine_error">Quelcom ha fallat</string>
   <string name="dialog_title_stop_scan">Atura l\'anàlisi</string>
   <string name="dialog_title_uninstall_apps">Desinstal·lar</string>

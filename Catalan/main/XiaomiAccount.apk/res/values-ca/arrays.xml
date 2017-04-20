@@ -51,41 +51,4 @@
     <item>8001 ~ 12000</item>
     <item>&gt; 12000</item>
   </string-array>
-  <string-array name="question_no1">
-    <item>Família</item>
-    <item>"Nom de l'àvia materna"</item>
-    <item>"Nom de l'avi matern"</item>
-    <item>"Nom de l'avi patern"</item>
-    <item>"Nom de l'àvia paterna"</item>
-    <item>"Aniversari del pare"</item>
-    <item>"Aniversari de la mare"</item>
-    <item>"Quina és la diferència d'edat entre els vostres pares (anys i mesos)?"</item>
-  </string-array>
-  <string-array name="question_no2">
-    <item>Alma mater</item>
-    <item>Quin era el nom del vostre delegat de classe a secundària?</item>
-    <item>Quin era el nom del vostre delegat de classe a primària?</item>
-    <item>El vostre número d\'estudiant a la Universitat</item>
-    <item>"Quin és el nom del vostre company d'habitació a la Universitat?"</item>
-    <item>"Quin és el nom del vostre tutor a la Universitat?"</item>
-  </string-array>
-  <string-array name="question_no3">
-    <item>Informació personal</item>
-    <item>Com us anomenen els vostres pares?</item>
-    <item>Darrers 6 dígits del vostre número de passaport</item>
-    <item>A quin hospital vareu néixer?</item>
-    <item>"Quin és el nom del vostre millor amic?"</item>
-  </string-array>
-  <string-array name="question_no4">
-    <item>Primeres vegades</item>
-    <item>"Quin era el nom de la vostra primera mascota?"</item>
-    <item>"Quin és el nom de la vostra primera parella?"</item>
-    <item>"Quin és el nom de l'empresa on vareu tenir la primera feina?"</item>
-  </string-array>
-  <string-array name="question_no5">
-    <item>Matrimoni</item>
-    <item>Quan us vareu casar?</item>
-    <item>"El nom del vostre cònjuge"</item>
-    <item>"L'aniversari del vostre cònjuge"</item>
-  </string-array>
 </resources>

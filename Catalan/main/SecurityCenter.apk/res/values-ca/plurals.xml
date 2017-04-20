@@ -18,12 +18,12 @@
     <item quantity="one">Cerca %d aplicació</item>
   </plurals>
   <plurals name="hints_roaming_enable_title">
-    <item quantity="other">%d aplicacions poden utilitzar dades mòbils</item>
-    <item quantity="one">%d aplicació pot utilitzar dades mòbils</item>
+    <item quantity="other">%d aplicacions poden utilitzar dades mòbils en itinerància</item>
+    <item quantity="one">%d aplicació pot utilitzar dades mòbils en itinerància</item>
   </plurals>
   <plurals name="hints_roaming_disable_title">
-    <item quantity="other">"%d aplicacions no poden utilitzar dades mòbils"</item>
-    <item quantity="one">"%d aplicació no pot utilitzar dades mòbils"</item>
+    <item quantity="other">"%d aplicacions no poden utilitzar dades mòbils en itinerància"</item>
+    <item quantity="one">"%d aplicació no pot utilitzar dades mòbils en itinerància"</item>
   </plurals>
   <plurals name="hints_roaming_found_app_count_title">
     <item quantity="other">%d aplicacions trobades</item>

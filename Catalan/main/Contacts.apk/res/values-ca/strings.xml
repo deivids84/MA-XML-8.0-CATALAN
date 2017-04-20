@@ -1162,9 +1162,9 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_pinyin_title2">Exemple, ingressi 2 i 3 per buscar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
+  <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per buscar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
   <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_zhuyin_title2">Exemple, ingressi 5 i 6 per buscar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
+  <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per buscar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
   <string name="telecom_fraud_insurance">Segur de frau de telecomunicacions</string>

@@ -17,7 +17,7 @@
   <string name="add_private_contact">Afegeix contacte privat</string>
   <string name="add_slide">Afegeix diapositiva (després)</string>
   <string name="add_slide_before">Afegeix diapositiva d\'introducció</string>
-  <string name="add_slide_hint">Toqueu per crear una nova diapositiva</string>
+  <string name="add_slide_hint">Premeu per crear una nova diapositiva</string>
   <string name="add_smiley">Emoticona</string>
   <string name="add_timing">Programat</string>
   <string name="add_to_browser_favorite_failed">"No s'ha pogut afegir"</string>
@@ -78,7 +78,7 @@
   <string name="confirm_delete_SIM_message">Voleu eliminar aquest missatge de la SIM?</string>
   <string name="confirm_delete_all_SIM_messages">Voleu eliminar tots els missatges de la SIM?</string>
   <string name="confirm_delete_all_conversations">Voleu eliminar totes les converses?</string>
-  <string name="confirm_delete_conversation">Voleu suprimir aquest fil sencer?</string>
+  <string name="confirm_delete_conversation">Voleu eliminar aquest fil sencer?</string>
   <string name="confirm_delete_group_message">Voleu eliminar els missatges de grup?</string>
   <string name="confirm_delete_locked_message">Voleu eliminar aquest missatge bloquejat?</string>
   <string name="confirm_delete_message">Voleu eliminar aquest missatge?</string>
@@ -100,7 +100,7 @@
   <string name="context_menu_add_calendar">Afegeix al Calendari</string>
   <string name="context_menu_add_contact">Afegeix als Contactes</string>
   <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors del navegador</string>
-  <string name="context_menu_browse_web">Examina</string>
+  <string name="context_menu_browse_web">Obre l\'enllaç</string>
   <string name="context_menu_call">Trucada</string>
   <string name="context_menu_contact">Contacte: %1$s</string>
   <string name="context_menu_copy">Copia</string>
@@ -243,7 +243,7 @@
   <string name="menu_contact">Mostra la informació del contacte</string>
   <string name="menu_delete_messages">Elimina els missatges</string>
   <string name="menu_edit">Edita</string>
-  <string name="menu_forward">Reenvia</string>
+  <string name="menu_forward">Reenvia\'l</string>
   <string name="menu_lock">Favorit</string>
   <string name="menu_mark">Marca</string>
   <string name="menu_more">Més</string>
@@ -309,6 +309,7 @@
   <string name="mx_activate_int_hint_malformed_info">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_server">El vostre operador pot aplicar despeses extra per missatge internacional usat per reactivar Missatge Mi.</string>
   <string name="mx_activate_int_hint_sim_change">"Sembla que heu canviat les targetes SIM. El vostre operador pot cobrar per missatge de reactivació de Missatge Mi."</string>
+  <string name="mx_activate_network_allow_notice">Aquest servei farà servir la xarxa.</string>
   <string name="mx_activate_status_desc_activating_now">S\'està activant&#8230;</string>
   <string name="mx_activate_status_desc_check_net_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="mx_activate_status_desc_fail">"No s'ha pogut activar Missatge Mi"</string>
@@ -393,11 +394,11 @@
   <string name="pref_collapse_sp_messages_summary">Agrupa automàticament les notificacions d\'SMS</string>
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>
-  <string name="pref_forward_title">Reenvia</string>
+  <string name="pref_forward_title">Reenviament</string>
   <string name="pref_hide_verification_code_summary">Amaga automàticament les contrasenyes úniques en les notificacions de missatges a la pantalla de bloqueig protegida</string>
   <string name="pref_messages_to_save">Estableix el número de missatges que es desaran</string>
   <string name="pref_mms_settings_title">Missatges multimèdia (MMS)</string>
-  <string name="pref_msg_trash_bin_title">Missatges esborrats recentment</string>
+  <string name="pref_msg_trash_bin_title">Missatges eliminats recentment</string>
   <string name="pref_notification_settings_title">Notificacions</string>
   <string name="pref_other_title">Configuració addicional</string>
   <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
@@ -413,7 +414,7 @@
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Baixa automàticament les fotos i vídeos en els missatges en itinerància</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Baixa automàticament fotos i vídeos dels missatges en itinerància</string>
   <string name="pref_summary_notification_body_enabled">Mostra missatges a la pantalla de bloqueig i en l\'àrea de notificacions</string>
   <string name="pref_summary_notification_body_enabled_when_secure">"No podeu previsualitzar missatges en el mode convidat"</string>
   <string name="pref_summary_off_system_mms_priority">Utilitza una aplicació de tercers per a enviar i rebre MMS</string>
@@ -438,14 +439,14 @@
   <string name="pref_title_mms_auto_retrieval">Baixa automaticament el contingut de l\'MMS</string>
   <string name="pref_title_mms_delete">Límit de missatge multimèdia</string>
   <string name="pref_title_mms_read_reports">Llegir informes</string>
-  <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut de l\'MMS en itinerància</string>
+  <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut dels MMS en itinerància</string>
   <string name="pref_title_mms_validity_period">Caducitat de l\'MMS</string>
   <string name="pref_title_notification_body_enabled">Mostra missatges a la pantalla de bloqueig</string>
   <string name="pref_title_ringtone_repeat">So de notificació</string>
   <string name="pref_title_ringtone_repeat_summary">Reprodueix un so d\'avís en rebre un missatge mentre la pantalla està apagada</string>
   <string name="pref_title_send_delivery_reports">Envia missatges de lliurament</string>
   <string name="pref_title_show_recent_contacts">Mostra els contactes recents</string>
-  <string name="pref_title_sms_delete">Límit del missatge de text</string>
+  <string name="pref_title_sms_delete">Límit de missatge de text</string>
   <string name="pref_title_sms_validity_period">Caducitat de l\'SMS</string>
   <string name="pref_title_storage_status">Estat d\'emmagatzematge de missatges</string>
   <string name="pref_title_system_mms_priority">Estableix com a predeterminat</string>
@@ -568,7 +569,7 @@
   <string name="sim_copy_to_phone_memory">Copia a la memòria del telèfon</string>
   <string name="sim_delete">Elimina</string>
   <string name="sim_empty">No hi ha missatges a la targeta SIM</string>
-  <string name="sim_full_body">Esborra alguns missatges per tenir espai.</string>
+  <string name="sim_full_body">Elimina alguns missatges perquè n\'hi càpiguen més.</string>
   <string name="sim_full_title">Targeta SIM plena</string>
   <string name="sim_manage_messages_title">SMS a la targeta SIM</string>
   <string name="sim_view">Mostra</string>

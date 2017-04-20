@@ -116,6 +116,7 @@
   <string name="rename">Canvia el nom</string>
   <string name="rename_dialog_title">Canvi de nom de la gravació</string>
   <string name="rename_duplicate">Ja existeix una gravació amb aquest nom.</string>
+  <string name="rename_fail_tip">"No s'ha pogut canviar el nom. Ja existeix un element amb el mateix nom."</string>
   <string name="rename_no_more_tip">"No ho tornis a mostrar"</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="runtime_permission_ungranted">"No es pot utilitzar la gravadora per manca de permisos"</string>

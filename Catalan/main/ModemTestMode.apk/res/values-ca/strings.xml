@@ -16,7 +16,7 @@
   <string name="confirm">Confirma</string>
   <string name="cur_value">Act:</string>
   <string name="current_config">Configuració MBN actual</string>
-  <string name="data_roaming">Roaming de dades: desactivat</string>
+  <string name="data_roaming">Itinerància de dades: desactivada</string>
   <string name="device_type">Tipus de dispositiu:</string>
   <string name="exit">Surt</string>
   <string name="exit_mbnfileload">Surt de MbnFileLoad</string>

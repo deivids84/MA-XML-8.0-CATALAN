@@ -33,7 +33,7 @@
     <item>Enorme</item>
   </string-array>
   <string-array name="welcome_notes_content">
-    <item>"Toqui per crear una nota
+    <item>"Benvingut a Notes
 "</item>
     <item>"Creació d\'una nota
 Per afegir una nota premeu el signe +."</item>

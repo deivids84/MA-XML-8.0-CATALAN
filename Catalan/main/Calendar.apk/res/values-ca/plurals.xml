@@ -21,14 +21,6 @@
     <item quantity="other">+%d</item>
     <item quantity="one">+1</item>
   </plurals>
-  <plurals name="Nevents">
-    <item quantity="other">%d esdeveniments</item>
-    <item quantity="one">1 esdeveniment</item>
-  </plurals>
-  <plurals name="N_remaining_events">
-    <item quantity="other">+%d esdeveniments</item>
-    <item quantity="one">+1 esdeveniment</item>
-  </plurals>
   <plurals name="Ndays_ago_at">
     <item quantity="other">Fa %1$d dies a les %2$s</item>
     <item quantity="one">Fa %1$d dia a les %2$s</item>
