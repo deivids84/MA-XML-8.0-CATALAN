@@ -180,7 +180,6 @@
   <string name="byteShort">B</string>
   <string name="camera_360_description">Amb tecnologia de Camera360</string>
   <string name="camera_needs_auto_backup_tip">Cal fer una còpia de seguretat de les fotos de la càmera</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Voleu restablir el fons de pantalla de bloqueig per defecte?</string>
   <string name="cancel_hint">Operació cancel·lada</string>

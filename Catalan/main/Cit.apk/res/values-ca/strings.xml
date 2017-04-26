@@ -161,6 +161,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Els valors per a les coordenades X, Y, Z, s\'han d\'introduir a continuació</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscopi</string>
+  <string name="cit_hardware_info_summary">S\'està processant la informació del maquinari d\'aquest dispositiu</string>
+  <string name="cit_hardware_info_title">Informació del maquinari</string>
   <string name="cit_headset_button_check_summary">Quan els auriculars estiguin connectats, premeu els botons en els auriculars remots (sovint situats en el cable). El text corresponent a la pantalla ha de canviar a verd.</string>
   <string name="cit_headset_button_check_title">Botons dels auriculars</string>
   <string name="cit_headset_button_click">Premeu els botons en els auriculars</string>

@@ -18,6 +18,7 @@
   <string name="app_widget">Notes</string>
   <string name="call_folder_name">Notes de trucada</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
+  <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
   <string name="dlg_btn_set_password">Estableix una contrasenya</string>

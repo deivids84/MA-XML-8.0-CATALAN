@@ -842,7 +842,12 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_license_manager">Permisos</string>
   <string name="menu_text_networkassistants">Ús de dades</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
+  <string name="menu_text_networkassistants_unit_b">B</string>
+  <string name="menu_text_networkassistants_unit_gb">GB</string>
+  <string name="menu_text_networkassistants_unit_kb">KB</string>
+  <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>

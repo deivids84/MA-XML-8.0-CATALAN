@@ -113,6 +113,19 @@
     <item>男</item>
     <item>女</item>
   </string-array>
+  <string-array name="fortune_random_birthday">
+    <item>01-01-1992</item>
+    <item>04-02-2013</item>
+    <item>05-04-1995</item>
+    <item>06-08-1999</item>
+    <item>21-06-1996</item>
+    <item>18-01-2014</item>
+    <item>23-01-2006</item>
+    <item>13-01-2012</item>
+    <item>17-01-1993</item>
+    <item>08-01-1980</item>
+    <item>10-01-1982</item>
+  </string-array>
   <string-array name="widget_style_list">
     <item>Transparent</item>
     <item>Fons blanc</item>
@@ -239,61 +252,65 @@
   <string-array name="aries_info">
     <item>àries</item>
     <item>Àries</item>
-    <item>3/21 - 4/19</item>
+    <item>21/3 - 19/4</item>
   </string-array>
   <string-array name="taurus_info">
     <item>taure</item>
     <item>Taure</item>
-    <item>4/20 - 5/20</item>
+    <item>20/4 - 20/5</item>
   </string-array>
   <string-array name="gemini_info">
     <item>gèminis</item>
     <item>Gèminis</item>
-    <item>5/21 - 6/21</item>
+    <item>21/5 - 21/6</item>
   </string-array>
   <string-array name="cancer_info">
     <item>càncer</item>
     <item>Càncer</item>
-    <item>6/22 - 7/22</item>
+    <item>22/6 - 22/7</item>
   </string-array>
   <string-array name="leo_info">
     <item>lleó</item>
     <item>Lleó</item>
-    <item>7/23 - 8/22</item>
+    <item>23/7 - 22/8</item>
   </string-array>
   <string-array name="virgo_info">
     <item>verge</item>
     <item>Verge</item>
-    <item>8/23 - 9/22</item>
+    <item>23/8 - 22/9</item>
   </string-array>
   <string-array name="libra_info">
     <item>balança</item>
     <item>Balança</item>
-    <item>9/23 - 10/23</item>
+    <item>23/9 - 23/10</item>
   </string-array>
   <string-array name="scorpio_info">
     <item>escorpió</item>
     <item>Escorpió</item>
-    <item>10/24 - 11/22</item>
+    <item>24/10 - 22/11</item>
   </string-array>
   <string-array name="sagittarius_info">
     <item>sagitari</item>
     <item>Sagitari</item>
-    <item>11/23 - 12/21</item>
+    <item>23/11 - 21/12</item>
   </string-array>
   <string-array name="capricorn_info">
     <item>capricorn</item>
     <item>Capricorn</item>
-    <item>12/22 - 1/19</item>
+    <item>22/12 - 19/1</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>aquari</item>
     <item>Aquari</item>
-    <item>1/20 - 2/18</item>
+    <item>20/1 - 18/2</item>
   </string-array>
   <string-array name="pisces_info">
     <item>pisces</item>
     <item>Pisces</item>
-    <item>2/19 - 3/20</item>
+    <item>19/2 - 20/3</item>
+  </string-array>
+  <string-array name="date_calculate_spinner">
+    <item>Cap endavant</item>
+    <item>Cap enrere</item>
   </string-array>
 </resources>

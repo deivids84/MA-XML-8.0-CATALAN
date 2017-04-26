@@ -69,6 +69,7 @@
   <string name="add_shortcut_success">S\'ha afegit la drecera</string>
   <string name="add_to_bookmark">Marcadors</string>
   <string name="add_to_desk">Posa-ho a la pantalla d\'inici</string>
+  <string name="add_to_desk_lite_mode_toast">"No s'ha pogut afegir a la pantalla d'inici en el mode bàsic"</string>
   <string name="add_to_desk_success">S\'ha posat a la pantalla d\'inici</string>
   <string name="add_to_quicklink">Pàgina d\'inici</string>
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
@@ -93,6 +94,7 @@
   <string name="autologin_bar_login_text">Inicia la sessió</string>
   <string name="autologin_bar_text">Inicia la sessió com a</string>
   <string name="back_button_label">Enrere</string>
+  <string name="back_description">Enrere</string>
   <string name="block">Bloqueja</string>
   <string name="block_ads_choice_block">Bloqueja</string>
   <string name="block_ads_choice_continue">Continua</string>
@@ -163,6 +165,7 @@
   <string name="color_picker_hue">Tonalitat</string>
   <string name="color_picker_saturation">Saturació</string>
   <string name="comment_app_menu">Comentari</string>
+  <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
   <string name="comment_menu">Comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
@@ -315,6 +318,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
+  <string name="forward_description">Endavant</string>
   <string name="geolocation_permissions_prompt_dont_share">Rebutja</string>
   <string name="geolocation_permissions_prompt_message">%s vol saber la vostra ubicació</string>
   <string name="geolocation_permissions_prompt_remember">Recorda la preferència</string>
@@ -334,6 +338,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history_saved_webpage">Pàgines desades</string>
+  <string name="home_description">Inici</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Elimina</string>
   <string name="homepage_get_location">Obtén la localització</string>
@@ -457,6 +462,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
   <string name="month_picker_dialog_title">Estableix el mes</string>
+  <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
@@ -725,6 +731,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
   <string name="storage_internal">Emmagatzematge intern</string>
+  <string name="storage_permission_request_toast">Baixades necessita permís d\'emmagatzematge, obriu-lo</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="suggest_access_appstore">Botiga d\'aplicacions Mi</string>
@@ -745,6 +752,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="tab_hotpage">Servei de notícies</string>
   <string name="tab_quicklinks">Pàgina d\'inici</string>
   <string name="tab_yellowpage">Enllaços</string>
+  <string name="tabs_description">Pestanyes</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>

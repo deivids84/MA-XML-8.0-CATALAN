@@ -19,11 +19,11 @@
   </plurals>
   <plurals name="listFoundAllContacts">
     <item quantity="other">S\'han trobat %d</item>
-    <item quantity="one">S\'ha trobat 1</item>
+    <item quantity="one">Se n\'ha trobat 1</item>
   </plurals>
   <plurals name="searchFoundContacts">
     <item quantity="other">S\'han trobat %d</item>
-    <item quantity="one">S\'ha trobat 1</item>
+    <item quantity="one">Se n\'ha trobat 1</item>
   </plurals>
   <plurals name="merge_info">
     <item quantity="other">s\'ha combinat de %0$d fonts</item>
@@ -47,23 +47,23 @@
   </plurals>
   <plurals name="notification_voicemail_title">
     <item quantity="other">%1$d missatges de veu</item>
-    <item quantity="one">%1$d missatge de veu</item>
+    <item quantity="one">Missatge de veu</item>
   </plurals>
   <plurals name="export_sim_contacts_dialog_message">
-    <item quantity="other">La targeta SIM pot emmagatzemar %d contactes.</item>
-    <item quantity="one">La targeta SIM pot emmagatzemar %d contacte.</item>
+    <item quantity="other">La targeta SIM pot emmagatzemar %1$d contactes.</item>
+    <item quantity="one">La targeta SIM pot emmagatzemar %1$d contacte.</item>
   </plurals>
   <plurals name="confirm_delete_sim_entry_miui">
-    <item quantity="other">Voleu eliminar %d contactes de la targeta SIM?</item>
-    <item quantity="one">Voleu eliminar %d contacte de la targeta SIM?</item>
+    <item quantity="other">Voleu eliminar %1$d contactes de la targeta SIM?</item>
+    <item quantity="one">Voleu eliminar %1$d contacte de la targeta SIM?</item>
   </plurals>
   <plurals name="number_of_items_selected">
     <item quantity="other">%1$d seleccionats</item>
     <item quantity="one">%1$d seleccionat</item>
   </plurals>
   <plurals name="number_of_items_available">
-    <item quantity="other">%1$d restants</item>
-    <item quantity="one">%1$d restant</item>
+    <item quantity="other">%1$d elements restants</item>
+    <item quantity="one">%1$d element restant</item>
   </plurals>
   <plurals name="pick_favorites_list_title">
     <item quantity="other">%1$d preferits</item>
@@ -102,12 +102,12 @@
     <item quantity="one">%1$d contacte afegit</item>
   </plurals>
   <plurals name="btn_delete_multi_contacts">
-    <item quantity="other">Elimina %d contactes</item>
-    <item quantity="one">Elimina %d contacte</item>
+    <item quantity="other">Elimina %1$d contactes</item>
+    <item quantity="one">Elimina %1$d contacte</item>
   </plurals>
   <plurals name="smart_group_member_count">
-    <item quantity="other">%d persones</item>
-    <item quantity="one">%d persona</item>
+    <item quantity="other">%1$d persones</item>
+    <item quantity="one">%1$d persona</item>
   </plurals>
   <plurals name="device_import_done_toast">
     <item quantity="other">%1$d contactes importats</item>

@@ -413,6 +413,9 @@
   <string name="title_system_audio_resource">Tons del sistema</string>
   <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>
   <string name="to_activate_the_account">Activeu el vostre Compte Mi ara</string>
+  <string name="uid_change_dialog_message">"Heu suprimit les actualitzacions. Reinicieu el dispositiu per poder utilitzar els temes."</string>
+  <string name="uid_change_dialog_ok">Entesos</string>
+  <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
   <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>

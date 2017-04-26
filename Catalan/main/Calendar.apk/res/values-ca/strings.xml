@@ -26,6 +26,9 @@
   <string name="ad_card_installing">S\'està instal·lant</string>
   <string name="ad_card_network_error">No hi ha connexió a la xarxa, torneu a provar-ho més tard</string>
   <string name="ad_card_spread">Divulgació</string>
+  <string name="add_anniversary">Afegeix commemoració</string>
+  <string name="add_countdown">Afegeix compte enrere</string>
+  <string name="add_event">Afegeix esdeveniment</string>
   <string name="agenda_today">AVUI, %1$s</string>
   <string name="agenda_tomorrow">DEMÀ, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -63,6 +66,7 @@
   <string name="button_day">Dia</string>
   <string name="button_month">Mes</string>
   <string name="button_week">Setmana</string>
+  <string name="calculate_result">Resultat</string>
   <string name="calendar_network_error">Error de xarxa</string>
   <string name="calendar_refresh">Actualitza</string>
   <string name="can_not_create_long_event">El contingut de l\'esdeveniment és massa llarg</string>
@@ -110,8 +114,22 @@
   <string name="credit_event_delete_successfully">S\'ha eliminat correctament l\'esdeveniment de pagament de targeta</string>
   <string name="credit_event_title">Factura de la targeta de crèdit</string>
   <string name="daily">Diàriament</string>
+  <string name="date_calculate">Calcula la data</string>
+  <string name="date_calculate_days">Introduïu el número de dies</string>
+  <string name="date_calculate_description">Coneixeu quina data és abans o després d\'un cert dia</string>
+  <string name="date_calculate_direction">Direcció</string>
+  <string name="date_calculate_result">Resultat</string>
+  <string name="date_calculate_tab">Calcula la data</string>
+  <string name="date_calculate_today">0 dies</string>
+  <string name="date_calculate_when">Inici</string>
+  <string name="date_interval_description">Coneixeu quants dies hi ha entre 2 dates</string>
+  <string name="date_interval_end">A</string>
+  <string name="date_interval_start">Des de</string>
+  <string name="date_interval_tab">Interval</string>
+  <string name="date_interval_text_to">A %1$s</string>
   <string name="date_pattern_mm_dd">d-M</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="date_today">(avui)</string>
   <string name="day_view_new_event_hint">Nou esdeveniment</string>
   <string name="default_reminder_mode">Recordatoris</string>
   <string name="delete_calendar">Anul·la la subscripció</string>
@@ -130,6 +148,10 @@
   <string name="downloading">S\'està baixant</string>
   <string name="downloading_wallpaper">S\'està baixant el fons de pantalla</string>
   <string name="dropdown_delete_button_desc">Elimina %s dels destinataris</string>
+  <string name="edit_date_calculate_days_backward_error_hint">"No es pot calcular cap endavant"</string>
+  <string name="edit_date_calculate_days_empty_hint">Introduïu el número de dies</string>
+  <string name="edit_date_calculate_days_error_hint">Introduïu els dies en %1$d</string>
+  <string name="edit_date_calculate_days_forward_error_hint">"No es pot calcular cap enrere"</string>
   <string name="edit_event_all_day_label">Tot el dia</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduïu una celebració</string>
   <string name="edit_event_anniversary_name_hint">Contingut</string>
@@ -311,7 +333,6 @@
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">添加中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
-  <string name="recommend_card_from">De la subscripció:</string>
   <string name="refresh">Actualitza</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
@@ -364,6 +385,7 @@
   <string name="show_newer_events">Toqueu per veure els esdeveniments posteriors a %1$s</string>
   <string name="show_older_events">Toqueu per veure els esdeveniments anteriors a %1$s</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
+  <string name="start_date_calculate">Calcula</string>
   <string name="subscribe_card">立即订阅</string>
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
   <string name="subscribing_card">Subscripcions</string>
@@ -423,6 +445,7 @@
   <string name="view_event_calendar_label">Calendari:</string>
   <string name="view_event_organizer_label">Organitzador:</string>
   <string name="view_event_response_label">Hi assistireu?</string>
+  <string name="view_in_month_view">Vista mensual</string>
   <string name="week_view_today_toast">"Esteu veient aquesta setmana"</string>
   <string name="weekly">Setmanalment (cada %s)</string>
   <string name="when_label">Quan</string>

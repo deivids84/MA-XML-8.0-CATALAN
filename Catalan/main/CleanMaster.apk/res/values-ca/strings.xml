@@ -37,6 +37,8 @@
   <string name="app_install_tips_go_to">Obre</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="app_usage_never">No utilitzada recentment</string>
+  <string name="app_usage_recently">Utilitzada recentment</string>
   <string name="apps_sort_type_item_size">Mida</string>
   <string name="apps_sort_type_item_time">Usats sovint</string>
   <string name="apps_sort_type_title">Ordena</string>
@@ -279,10 +281,15 @@
   <string name="low_memory_warning_dialog_msg">No queda espai en els dispositius, en primer lloc, heu d\'alliberar espai</string>
   <string name="low_memory_warning_dialog_ok_button">Esborra</string>
   <string name="low_memory_warning_dialog_title">Disc sense espai</string>
+  <string name="main_title_filesize">%1$s brossa</string>
   <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
+  <string name="menu_add_to_white_list">Afegeix a excepcions</string>
+  <string name="menu_clear">Neteja</string>
+  <string name="menu_install">Instal·la aquesta aplicació</string>
+  <string name="menu_view">Veure a la carpeta</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">S\'estan cercant actualitzacions&#8230;</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualització desconeguda</string>
