@@ -87,6 +87,7 @@
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_pure">Excel·lent</string>
   <string name="aqi_quality_index_unhealthy">Perjudicial</string>
+  <string name="autoSwithcingSearchEngineTips">Ha canviat el motor de cerca pel seu hàbit</string>
   <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles</string>
   <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent amb emplenament automàtic</string>
   <string name="autologin_bar_error">"No s'ha pogut iniciar la sessió"</string>
@@ -314,6 +315,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="find_on_page_next">Següent</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
+  <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
   <string name="fling_on_border_gesture_hint">Podeu escollir la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
@@ -514,6 +516,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_adblock_counts">%d bloquejats</string>
   <string name="pref_adblock_title">Bloquejador d\'anuncis</string>
   <string name="pref_auto_update_under_wifi">Actualitza amb Wi-Fi</string>
+  <string name="pref_automatic_matching_searchengines_title">Motors de cerca automàtics per hàbits de recerca</string>
   <string name="pref_category_hint">Categoria</string>
   <string name="pref_check_security_url_summary">"Envia l'URL del lloc web als servidors Mi per validar si és segura"</string>
   <string name="pref_check_security_url_title">Comprova la seguretat de l\'URL</string>
@@ -615,6 +618,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
+  <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
+  <string name="quicklink_folder_text">Aplicacions més importants</string>
   <string name="quicklink_not_saved">"No s'ha pogut afegir a la pàgina d'inici"</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
   <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
@@ -747,6 +752,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
   <string name="tab_hotpage">Servei de notícies</string>
@@ -760,6 +766,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
+  <string name="unSwitchText">NO</string>
+  <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
   <string name="unsecurity_url_toast">"Aquesta web no és segura"</string>
   <string name="up_to_loading_tips">Allibereu per actualitzar</string>

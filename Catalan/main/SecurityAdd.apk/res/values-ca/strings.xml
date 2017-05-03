@@ -22,7 +22,7 @@
   <string name="dialog_text">es crearà una icona a l\'escriptori per un inici ràpid</string>
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
   <string name="dont_bore_text">S\'està rotegint els recordatoris de missatges i els botons per assegurar que el procés del joc no s\'altera</string>
-  <string name="dont_bore_title">Reducció de soroll ambiental</string>
+  <string name="dont_bore_title">Mode no molesteu</string>
   <string name="function_close">Desactivat</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>

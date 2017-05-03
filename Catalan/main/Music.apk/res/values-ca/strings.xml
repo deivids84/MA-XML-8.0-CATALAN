@@ -60,6 +60,7 @@
   <string name="artist_gender_female">Femení</string>
   <string name="artist_gender_group">Grup</string>
   <string name="artist_gender_male">Masculí</string>
+  <string name="artist_home_search_hint">Cerca d\'artistes</string>
   <string name="artist_is_empty">El nom de l\'artista no pot estar buit.</string>
   <string name="artist_name">Artista</string>
   <string name="artist_news">Notícies</string>
@@ -107,6 +108,7 @@
   <string name="can_not_find_resource">"No s'ha trobat el recurs"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
+  <string name="change_download_quality">Canvia la qualitat de baixada</string>
   <string name="channel_list_fragment_title">Ràdio</string>
   <string name="chinese_female">Artistes femenines (Xina)</string>
   <string name="chinese_group">Bandes (Xina)</string>
@@ -209,6 +211,7 @@
   <string name="doc_filter">Documents</string>
   <string name="done">Fet</string>
   <string name="download">Baixa</string>
+  <string name="download_added_to_list">Afegit a la llista de baixades</string>
   <string name="download_all_song">Baixa-ho tot</string>
   <string name="download_apk_desktop_installing">S\'està instal·lant</string>
   <string name="download_apk_desktop_pause">Aturat</string>
@@ -263,10 +266,20 @@
   <string name="download_success">Completat</string>
   <string name="download_title_sorted_by_date">Baixades - Ordenades per data</string>
   <string name="download_title_sorted_by_size">Baixades - Ordenades per mida</string>
+  <string name="download_toast">Utilitzant les dades mòbils per baixar cançons</string>
+  <string name="download_toast_with_beyond_data">Utilitzant les dades mòbils per baixar cançons. S\'ha excedit el límit per %s</string>
+  <string name="download_toast_with_data">Utilitzant les dades mòbils per baixar cançons, %s restants</string>
   <string name="download_traffic_dialog_buy_package">Compreu un pla de dades de música</string>
   <string name="download_traffic_dialog_msg">L\'ús de les seves dades mòbils per baixar cançons pot augmentar els seus càrrecs per dades mòbils</string>
+  <string name="download_traffic_dialog_msg_beyond">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per baixar cançons?"</string>
+  <string name="download_traffic_dialog_msg_serious">Només li queden %s de dades mòbils. Voleu utilitzar dades per baixar cançons?</string>
+  <string name="download_traffic_dialog_msg_without_data">"Esteu utilitzant dades mòbils per baixar cançons. ¿Voleu baixar-la de totes maneres?"</string>
   <string name="download_traffic_dialog_negative_button">A l\'espera de Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Encara s\'està baixant</string>
+  <string name="download_traffic_dialog_position_button_serious">Encara s\'està baixant</string>
+  <string name="download_traffic_dialog_title">Avís d\'ús de dades</string>
+  <string name="download_traffic_dialog_title_beyond">Límit d\'ús de dades excedit</string>
+  <string name="download_traffic_dialog_title_serious">Resten molt poques dades mòbils</string>
   <string name="download_unknown_title">&lt;Sense títol&gt;</string>
   <string name="download_wait_connect">S\'està esperant la connexió</string>
   <string name="download_when_network_connected">Baixa quan es connecti a internet</string>
@@ -462,6 +475,7 @@
   <string name="metered_alert_msg">"L'ús de la xarxa de dades mòbils per escoltar música augmentarà l'ús de dades. Si excediu el límit de dades contractats, la seva companyia podria cobrar-li despeses addicionals."</string>
   <string name="metered_alert_msg_with_data">Li queden %s de dades mòbils. Voleu utilitzar dades per reproduir cançons?</string>
   <string name="metered_allow">Transmetre</string>
+  <string name="metered_beyond_alert">Límit d\'ús de dades excedit</string>
   <string name="metered_disallow">Cancel·la</string>
   <string name="metered_play_toast">Utilitzant la connexió de dades mòbils per transmetre</string>
   <string name="metered_play_toast_with_beyond_data">S\'estan utilitzant les dades mòbils per reproduir cançons. S\'ha excedit el límit per %s</string>
@@ -693,6 +707,7 @@
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Cerca</string>
+  <string name="search_hint_not_support_online">Cerca per artistes, cançons i àlbums</string>
   <string name="search_history_clear_all">Neteja</string>
   <string name="search_instant_online_music">En línia</string>
   <string name="search_lyric">Cerca lletres</string>
@@ -823,6 +838,7 @@
   <string name="title_online_artist">Artistes de moda</string>
   <string name="title_online_billboard">Llistes</string>
   <string name="title_online_fm">Ràdio</string>
+  <string name="title_online_fm_recommend">FM recomanats</string>
   <string name="title_online_recommend">Llistes de reproducció recomanades</string>
   <string name="title_online_release">Nous àlbums</string>
   <string name="title_online_song">Cançons populars</string>

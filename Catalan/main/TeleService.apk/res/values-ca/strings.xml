@@ -1346,6 +1346,7 @@ Queden %d intents."</string>
   <string name="sum_cfu_disabled">Desactivat</string>
   <string name="sum_cfu_enabled">S\'està desviant totes les trucades a {0}</string>
   <string name="sum_cfu_enabled_indicator">S\'està desviant totes les trucades</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">Totes les trucades a la SIM %s es reenviaran</string>
   <string name="sum_cfu_enabled_no_number">El número no està disponible</string>
   <string name="sum_cw_disabled">Durant una trucada, notifiqueu-me les trucades entrants</string>
   <string name="sum_cw_enabled">Durant una trucada, notifiqueu-me les trucades entrants</string>
@@ -1425,6 +1426,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="time_start">Des de</string>
   <string name="time_start_hour">hora límit inicial</string>
   <string name="time_start_minute">minut límit inicial</string>
+  <string name="title_cfu_enabled">Desviació de trucades activat</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>

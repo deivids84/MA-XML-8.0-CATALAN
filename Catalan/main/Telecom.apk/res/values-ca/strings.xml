@@ -212,6 +212,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="no_vm_number">Falta el número de la bústia de veu</string>
   <string name="no_vm_number_msg">No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="non_primary_user">Només el propietari del dispositiu pot consultar i gestionar els números bloquejats.</string>
+  <string name="notification_AllMissedCallTitle">Totes les trucades perdudes</string>
   <string name="notification_missedCallTicker">Trucada perduda de %s</string>
   <string name="notification_missedCallTitle">Trucada perduda</string>
   <string name="notification_missedCall_call_back">Torna la trucada</string>

@@ -110,6 +110,7 @@
   <string name="exchange_account">Canvia de compte</string>
   <string name="fail">S\'ha produït un error</string>
   <string name="feature_title_account">Compte Mi</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Registre de trucades</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">S\'està pujant&#8230;</string>

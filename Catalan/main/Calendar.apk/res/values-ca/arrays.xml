@@ -126,6 +126,12 @@
     <item>08-01-1980</item>
     <item>10-01-1982</item>
   </string-array>
+  <string-array name="global_criket_match">
+    <item>IPL</item>
+    <item>Internacional</item>
+    <item>Nacional</item>
+    <item>Lligues T20</item>
+  </string-array>
   <string-array name="widget_style_list">
     <item>Transparent</item>
     <item>Fons blanc</item>
@@ -164,12 +170,6 @@
     <item>setmana</item>
     <item>mes</item>
     <item>any</item>
-  </string-array>
-  <string-array name="repeat_frequency_spinner_plural">
-    <item>dies</item>
-    <item>setmanes</item>
-    <item>mesos</item>
-    <item>anys</item>
   </string-array>
   <string-array name="repeat_choose_day">
     <item>1</item>

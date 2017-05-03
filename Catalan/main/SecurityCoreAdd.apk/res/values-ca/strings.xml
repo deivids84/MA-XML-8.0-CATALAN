@@ -53,6 +53,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="create_space_loading">Creant el Segon espai&#8230;</string>
   <string name="create_work_space">Crea un espai nou</string>
   <string name="creating_app_icon">Creant icona&#8230;</string>
+  <string name="current_space">Espai actual</string>
   <string name="dataSafe">Utilitzant el Segon espai és com tenir dos dispositius.</string>
   <string name="declare_dialog_title">Quant a les aplicacions duals</string>
   <string name="deleteAll">Elimina-ho tot</string>
@@ -85,6 +86,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="finger_print_num">Empremta %d</string>
   <string name="finger_print_of_use">Utilitzar l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut eliminar l'empremta"</string>
+  <string name="function_not_support">No és compatible amb aquest espai</string>
   <string name="goToSecondSpacce">Anar al Segon espai</string>
   <string name="go_on_import">Mantenir la importació</string>
   <string name="guide_contact_sub_title_desc">"Els contactes afegits al Segon espai seran privats.

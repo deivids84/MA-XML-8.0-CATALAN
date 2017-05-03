@@ -661,7 +661,7 @@
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Informació detallada</string>
-  <string name="disable_auto_upload_tip">"Les fotos noves i les eliminades no se sincronitzaran amb Mi Cloud. Aquest àlbum es mourà a altres àlbums."</string>
+  <string name="disable_auto_upload_tip">Les fotos noves i les eliminades no se sincronitzaran amb Mi Cloud. Aquest àlbum es mourà a altres àlbums.</string>
   <string name="disable_auto_upload_title">Desactiva la sincronització amb Mi Cloud</string>
   <string name="do_not_remind_me">"No ho tornis a mostrar"</string>
   <string name="doodle">Gargot</string>
@@ -980,7 +980,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="remove_from_album_message">Aquesta foto ja no es mostra aquí</string>
   <string name="remove_from_album_title">Eliminar d\'aquest àlbum</string>
   <string name="remove_from_current_album">Eliminar d\'aquest àlbum</string>
-  <string name="remove_from_other_albums_tip">Activeu la sincronització amb Mi Cloud per moure elements d\'altres àlbums. Voleu moure\'l ara?</string>
+  <string name="remove_from_other_albums_tip">Haureu d\'activar la sincronització amb Mi Cloud d\'aquest àlbum si el traieu de la llista d\'altres àlbums. Voleu treure\'l ara?</string>
   <string name="remove_from_secret_fail">"No es pot eliminar de l'àlbum ocult"</string>
   <string name="remove_from_secret_failed_with_reason">"No es pot eliminar de l'àlbum ocult. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elements no es poden eliminar de l'àlbum ocult. %1$s."</string>
@@ -1075,6 +1075,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="share_with_family">Comparteix-lo amb la família</string>
   <string name="sharer_quota_fulfiled">"Ja has compartit aquest àlbum amb el nombre màxim de persones"</string>
   <string name="show_hidden_album_title">Mostra els àlbums ocults</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">S\'ha mogut correctament, aneu a Altres àlbums per veure-ho</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">S\'ha mogut correctament, aneu a Àlbums per veure-ho</string>
   <string name="slideshow_interval_dialog_title">Introduïu l\'interval</string>
   <string name="slideshow_interval_invalid">L\'interval entre diapositives ha d\'estar entre 3 i 3600 segons</string>
   <string name="slideshow_interval_title">Mostra cada diapositiva durant</string>

@@ -16,7 +16,6 @@
   <string name="alter_message_switch_mode_message">Quan canvieu els modes, la vostra configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
   <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Selecciona aplicacions</string>
-  <string name="app_list_total">%d aplicacions</string>
   <string name="app_name">Estalvi de bateria</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
   <string name="config_description">"MIUI pot identificar aplicacions amb processos en segon pla específics (p. ex. aplicacions de missatgeria i navegació, reproductors multimèdia), i aplicar l'estalvi de bateria de manera que no pertorbi gaire la seva activitat en segon pla."</string>
@@ -160,7 +159,6 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="screen_off">Pantalla apagada</string>
   <string name="screen_off_10_min">Pantalla apagada durant 10 minuts</string>
   <string name="screen_on">Pantalla encesa</string>
-  <string name="select_items">%d seleccionat(s)</string>
   <string name="set_brightness">Màxim brillantor de pantalla</string>
   <string name="set_cpu_powermode">Ús de CPU</string>
   <string name="set_cpufreq_max">Màxima freqüència de la CPU</string>

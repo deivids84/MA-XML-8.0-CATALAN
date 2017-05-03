@@ -9,6 +9,7 @@
   <string name="allow_check_website_security">Comprova la seguretat del lloc web</string>
   <string name="app_details">Detalls de l\'aplicació:</string>
   <string name="app_name">Escàner</string>
+  <string name="back">Enrere</string>
   <string name="barcode_into_rectangle">Centreu el codi dins del marc</string>
   <string name="birthday">Aniversari:</string>
   <string name="camera_error_title">Error de la càmera</string>
@@ -184,6 +185,7 @@
   <string name="view_study_report">Veure l\'informe</string>
   <string name="web">Lloc web:</string>
   <string name="website_details">Detalls del lloc web:</string>
+  <string name="weixin_code_tip">Utilitzeu el WeChat per escanejar aquest codi QR</string>
   <string name="wifi_details">Detalls de la xarxa Wi-Fi:</string>
   <string name="wifi_open_fail">"No s'ha pogut obrir la xarxa Wi-Fi"</string>
   <string name="wifi_pwd">Contrasenya:</string>

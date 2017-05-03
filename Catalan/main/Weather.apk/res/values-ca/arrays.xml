@@ -132,4 +132,9 @@
     <item>%1$smph</item>
     <item>%1$skn</item>
   </string-array>
+  <string-array name="minute_rain_array">
+    <item>Intensa</item>
+    <item>Moderada</item>
+    <item>Lleugera</item>
+  </string-array>
 </resources>

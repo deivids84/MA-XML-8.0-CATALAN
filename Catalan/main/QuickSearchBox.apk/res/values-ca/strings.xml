@@ -112,6 +112,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="switch_application">Aplicacions</string>
   <string name="switch_browser">Navegador</string>
   <string name="switch_contacts">Contactes</string>
+  <string name="switch_email">Correu</string>
   <string name="switch_file">Fitxers</string>
   <string name="switch_mms">Missatges</string>
   <string name="switch_notes">Notes</string>

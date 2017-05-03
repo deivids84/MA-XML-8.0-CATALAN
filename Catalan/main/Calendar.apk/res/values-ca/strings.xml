@@ -53,8 +53,6 @@
   <string name="birthday_event_description_today">Avui és</string>
   <string name="birthday_event_description_tomorrow">Demà és</string>
   <string name="birthday_event_description_yesterday">Ahir va ser</string>
-  <string name="birthday_metric">anys</string>
-  <string name="birthday_notification_age_term">%1$s%2$s</string>
   <string name="birthday_notification_text_days_later">Falten %1$s dies per %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
   <string name="birthday_notification_title_days_later">"Aviat serà el %2$s de %1$s."</string>
@@ -227,6 +225,8 @@
   <string name="gadget_no_events">No hi ha esdeveniments de calendari pròxims </string>
   <string name="gadget_title">Calendari</string>
   <string name="global_action_text_card_manager">Un calendari més interessant</string>
+  <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
+  <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Toqueu per obrir Mi Cloud</string>
   <string name="hint_attendees">Convidats</string>
   <string name="hint_description">Descripció</string>
@@ -265,6 +265,7 @@
   <string name="match_ed">已结束</string>
   <string name="match_ing">进行中</string>
   <string name="match_not_started">未开始</string>
+  <string name="match_select_activity_label">Seleccioneu els partits</string>
   <string name="menu_general_preferences">General</string>
   <string name="menu_preferences">Configuració</string>
   <string name="menu_reminder_preferences">Recordatoris</string>
@@ -345,7 +346,10 @@
   <string name="repeat_end_label">Es deixa de repetir després de</string>
   <string name="repeat_end_times_unit">" vegades"</string>
   <string name="repeat_interval_dialog_title">Cada %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$s</string>
+  <string name="repeat_interval_frequency_day_single">dia</string>
+  <string name="repeat_interval_frequency_month_single">mes</string>
+  <string name="repeat_interval_frequency_week_single">setmana</string>
+  <string name="repeat_interval_frequency_year_single">any</string>
   <string name="repeat_label_choose_day">Trieu el dia</string>
   <string name="repeat_label_choose_month">Trieu el mes</string>
   <string name="repeat_label_choose_time">Trieu l\'hora per al recordatori</string>

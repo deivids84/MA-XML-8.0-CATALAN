@@ -29,6 +29,7 @@
   <string name="account_settings_action">Configuració del compte</string>
   <string name="account_settings_background_attachments_label">Baixa els fitxers adjunts</string>
   <string name="account_settings_background_attachments_summary">Baixa els arxius adjunts amb Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary_inter">Baixa els arxius adjunts amb Wi-Fi</string>
   <string name="account_settings_data_usage">Ús de dades</string>
   <string name="account_settings_description_label">Nom del compte</string>
   <string name="account_settings_edit_quick_responses_label">Respostes ràpides</string>
@@ -507,6 +508,7 @@
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Respondre a tots</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
   <string name="import_button_text">Importa</string>
   <string name="import_from_other_account">Importa d\'altres comptes</string>
@@ -759,6 +761,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="policy_dont_allow_unsigned_installers">"\"No permetre instal·ladors d'aplicacions 
         sense signar\""</string>
   <string name="policy_dont_allow_wifi">"No permetis Wi-Fi"</string>
+  <string name="policy_dont_allow_wifi_inter">"No permetis Wi-Fi"</string>
   <string name="policy_email_age">Limitar el número de missatges de correu electrònic sincronitzats</string>
   <string name="policy_html_truncation">Limitar mida de correus HTML</string>
   <string name="policy_password_expiration">Exigir que les contrasenyes caduquin</string>
