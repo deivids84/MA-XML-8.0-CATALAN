@@ -722,6 +722,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Desa per una lectura fora de línia</string>
+  <string name="ssl_bad_clock_date_settings">Configuració de data</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
   <string name="ssl_certificate">Certificat de Seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
   <string name="ssl_continue">Continua</string>

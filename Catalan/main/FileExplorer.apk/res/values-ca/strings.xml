@@ -434,6 +434,7 @@
   <string name="other_user_liked_topic_tip">No hi ha temes</string>
   <string name="other_user_no_follow_tip">"No heu seguit ningú encara."</string>
   <string name="other_user_no_liked_video_tip">No hi ha vídeos que hagin agradat.</string>
+  <string name="overwrite_msg">«%s» ja existeix. Premeu per reemplaçar-lo pel nou arxiu.</string>
   <string name="partial_cancel_successful">"No s'han pogut treure alguns fitxers. La resta van ser moguts a %s."</string>
   <string name="partial_delete_failure">"No s'han pogut eliminar alguns fitxers, intenta de nou"</string>
   <string name="partial_encrypt_success">"No s'han pogut amagar alguns fitxers, intenta de nou"</string>
@@ -612,6 +613,7 @@
   <string name="shortcut_exists">La drecera ja existeix</string>
   <string name="shortcut_hotvideos">Vídeos populars</string>
   <string name="shortcut_msg">Afegeix una drecera a la pantalla d\'inici per als vídeos populars</string>
+  <string name="skip_file">Omet</string>
   <string name="smb_loading">Un moment&#8230;</string>
   <string name="sort_size_asc">De petit a gran</string>
   <string name="sort_size_desc">De gran a petit</string>

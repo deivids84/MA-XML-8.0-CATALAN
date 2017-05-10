@@ -21,6 +21,9 @@
   <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
+  <string name="dialog_share_as_pic">Compartir la nota com a imatge</string>
+  <string name="dialog_share_as_text">Compartir la nota com a text</string>
+  <string name="dialog_share_title">Compartir nota</string>
   <string name="dlg_btn_set_password">Estableix una contrasenya</string>
   <string name="dlg_check_reminder">"No tornis a mostrar-ho"</string>
   <string name="dlg_delete_message">S\'està eliminant&#8230;</string>
@@ -37,6 +40,7 @@
   <string name="dlg_title_set_password">Estableix una contrasenya</string>
   <string name="dlg_title_use_privacy_password">Utilitza la contrasenya de privacitat</string>
   <string name="dlg_unhide_message">S\'està mostrant&#8230;</string>
+  <string name="done">Fet</string>
   <string name="enable_sync">Sincronització</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
@@ -50,6 +54,8 @@
   <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja està a la pantalla d\'inici</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
   <string name="force_touch_menu_add">Afegeix nota</string>
+  <string name="format_move_note_out_folder">Moguda</string>
+  <string name="format_move_note_to_folder">Moguda a %1$s</string>
   <string name="format_move_notes_out_folder">%1$s mogudes fora</string>
   <string name="format_move_notes_to_folder">Mogudes %1$s a %2$s</string>
   <string name="hidden_notes_fragment_title">Notes ocultes</string>
@@ -58,6 +64,7 @@
   <string name="info_note_enter_desktop">Afegit a la pantalla d\'inici</string>
   <string name="loading_text">Un moment&#8230;</string>
   <string name="login_sync">Entrar i sincronitzar</string>
+  <string name="menu_add_folder">Afegeix a la carpeta</string>
   <string name="menu_create_folder">Carpeta nova</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_delete_forever">Elimina per sempre</string>

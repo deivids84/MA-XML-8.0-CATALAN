@@ -41,6 +41,7 @@
   <string name="anniversary_event_title">[Celebració]%1$s</string>
   <string name="app_label">Calendari</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
+  <string name="birthday_card_other_day_title">Aniversari</string>
   <string name="birthday_card_title">"Aniversaris d'avui"</string>
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
@@ -233,6 +234,7 @@
   <string name="hint_what">Nom de l\'esdeveniment</string>
   <string name="hint_where">Ubicació</string>
   <string name="holiday_card_title">Festiu</string>
+  <string name="holiday_detail_read_more">Més</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">Integral：</string>
   <string name="horoscope_card_financial">Financer：</string>

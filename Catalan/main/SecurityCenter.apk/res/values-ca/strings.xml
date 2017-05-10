@@ -159,10 +159,12 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
+  <string name="app_manager_go_to_manger_app">Gestiona</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_more_times">Va accedir 100000+ vegades</string>
   <string name="app_manager_my_app">Les meves aplicacions</string>
-  <string name="app_manager_not_record">No hi ha elements aquí</string>
+  <string name="app_manager_not_record">"No hi ha elements aquí"</string>
+  <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_perm_monitor_make_calls">Fer trucades telefòniques</string>
   <string name="app_manager_perm_monitor_read_call_history">Llegir el registre de trucades</string>
   <string name="app_manager_perm_monitor_read_contacts">Llegir els contactes</string>
@@ -181,7 +183,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_permission_send_mms_over">Va enviar SMS 100000+ vegades</string>
   <string name="app_manager_permission_startself_summary">Les aplicacions que s\'inicien automàticament ocupen RAM i drenen la bateria més ràpidament</string>
   <string name="app_manager_permission_startself_title">Inici automàtic</string>
-  <string name="app_manager_power">Permisos</string>
   <string name="app_manager_rebide_wakepath">Limita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimitza l\'inici de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
@@ -200,6 +201,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="app_manager_unstall_application">Desinstal·la</string>
   <string name="app_manager_update_label_text">Nou</string>
+  <string name="app_manager_usage_record_title">Ús de l\'aplicació</string>
   <string name="app_manager_wake_path_card_title">Historial d\'inici de la cadena (2 dies)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Entesos</string>
   <string name="app_manager_wakepath_dialog_summary">L\'inici de la cadena succeïx quan una aplicació inicia un altre aplicació de fons. Pot drenar la bateria i baixar el rendiment del sistema. MIUI normalment bloquejaria l\'inici de la cadena.</string>
@@ -210,8 +212,19 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_name_na">Ús de dades</string>
   <string name="app_name_securitycenter">Seguretat</string>
   <string name="app_not_installed_toast">"L'aplicació no està instal·lada al dispositiu."</string>
+  <string name="app_usage_never">No utilitzada recentment</string>
+  <string name="app_usage_recently">Utilitzada recentment</string>
   <string name="app_version">Versió</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="applock_add_account">Afegeix</string>
+  <string name="applock_add_account_info">"Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit"</string>
+  <string name="applock_add_account_setting">Compte i privadesa</string>
+  <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
+  <string name="applock_close_dialog_title">Voleu desactivar el Bloqueig d\'aplicacions?</string>
+  <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
+  <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
+  <string name="applock_not_add_account">Ara no</string>
+  <string name="applock_not_login_account">"No heu iniciat sessió"</string>
   <string name="apps_item_sign_dialog_content">"\"%s\"signatura és diferent de la versió de l'App Store. Eliminar aquesta aplicació i instal·lar la versió oficial? Nota: la instal·lació d'una aplicació amb una signatura en conflicte pot conduir a la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
@@ -514,10 +527,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Ha superat el límit de dades diàri."</string>
   <string name="daily_pkg_traffic">Límit màxim de dades</string>
-  <string name="daily_sim_over_limit_dialog_message">"Ja heu fet servir %s del límit de dades diàries.
-
-Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</string>
-  <string name="daily_sim_over_limit_notify_title">"Ja heu fet servir %s del límit de dades diàries."</string>
   <string name="data_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="data_usage_correction_timeout_body">Toqui per actualitzar manualment.</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
@@ -526,8 +535,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <string name="data_usage_leisure_warning_body">Toqui per veure detalls de l\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
-  <string name="data_usage_limit_snoozed_body">Ha excedit el límit d\'ús de dades per aquest mes.</string>
-  <string name="data_usage_mobile_limit_snoozed_title">Límit d\'ús de dades excedit</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
@@ -538,7 +545,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <string name="data_usage_warning_body_notify">Toqueu per veure els detalls</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
-  <string name="datausage_ignore_app_list_count">"Ignorant %d ús de dades d'aplicacions"</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
@@ -583,8 +589,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <string name="disable_air_mode">Desactivar mode avió</string>
   <string name="dlg_add_blacklist">Voleu bloquejar aquest número?</string>
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
-  <string name="dlg_add_blacklist_warn_conflict_content">%1$s i %2$s altres contactes ja són a la llista d\'excepcions.</string>
-  <string name="dlg_add_blacklist_warn_conflict_title">Conflicte d\'excepcions</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
   <string name="dlg_antispam_mode_delete_message">"No es poden recuperar les regles després d'haver-les eliminat."</string>
   <string name="dlg_antispam_mode_delete_title">Voleu eliminar les regles?</string>
@@ -700,7 +704,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <string name="goto_set">Estableix</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
-  <string name="guide_primary_text">"Activeu l\'assistent de xarxa per gestionar l\'ús de les dades mòbils"</string>
   <string name="guide_quck_open">Activa</string>
   <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que ha superat el límit de dades, es desconnectarà de la xarxa i li notificarà."</string>
   <string name="guide_wait_setting">Ara no</string>
@@ -788,7 +791,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <string name="installed">S\'ha instal·lat</string>
   <string name="installing">S\'està instal·lant</string>
   <string name="international_roaming_setting">Itinerància en ultramar</string>
-  <string name="international_roaming_whitelist_count">%d aplicacions poden utilitzar dades mòbils en itinerància</string>
   <string name="ip_address_exception_summary">No s\'ha pogut obtenir l\'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica.</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
   <string name="item_dev_mode">Opcions de desenvolupament</string>
@@ -860,7 +862,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_recording_intro_header">Connectar almenys 4 punts per crear un patró</string>
   <string name="lockpattern_retry_button_text">Dibuixar novament</string>
   <string name="lockpattern_settings_help_how_to_record">Com dibuixar un patró</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Espera %d segons i torneu a provar."</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_continue_label">Següent</string>
@@ -878,7 +879,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
   <string name="main_activity_content_summary_update">Actualitzar sistema</string>
   <string name="main_activity_content_title_scanning">S\'està escanejant&#8230;</string>
-  <string name="main_alert_message_month_limit_error">El límit de dades que s\'ha establert és incorrecte</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_no_mobile_package">Establir límit de dades</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
@@ -945,7 +945,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mark_sell_time_setting">Bloqueja els números que hagin estat notificats com a telemàrquetings un determinat nombre de vegades</string>
   <string name="mark_time_setting_dialog_title">Notifica aquest número</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_others">"%d altres usuaris l'han marcat com a "</string>
   <string name="marked_by_user">"l'heu marcat com a "</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
@@ -1016,8 +1015,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="msg_update_error_code_success">Fet</string>
   <string name="msg_update_up">​​Amaga</string>
   <string name="name">Nom</string>
-  <string name="network_assistant_upgraded_body">Toqui per veure els detalls.</string>
-  <string name="network_assistant_upgraded_title">Actualització acabada</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comprovar xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
@@ -1278,7 +1275,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_settings_title">Configuració</string>
   <string name="power_settings_top">Barra superior</string>
   <string name="power_wifi">Wi-Fi</string>
-  <string name="pref_about">Quant a</string>
   <string name="pref_about_traffic_title">Configuració d\'ús de dades</string>
   <string name="pref_add_traffic_pkg">Dades addicionals comprades</string>
   <string name="pref_adjust_data_usage">Plantilla de missatge d\'operador</string>
@@ -1302,7 +1298,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Actualització automàtica de definicions</string>
   <string name="pref_category_title_virus_white_list">Excepcions</string>
-  <string name="pref_check_network_diagnostics">"Comproveu si la vostra connexió de dades està funcionant normalment"</string>
   <string name="pref_confirm_operator_setting">Assegureu-vos que la informació que heu introduït es correcte</string>
   <string name="pref_connect_settings_enable_background">Permet dades en segon pla</string>
   <string name="pref_connect_settings_enable_background_hint">"Permet a les aplicacions utilitzar dades mòbils quan no les utilitzeu"</string>
@@ -1326,16 +1321,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_key_daily_package_switch">Pla de dades diari</string>
   <string name="pref_key_daily_package_value">Pla de dades diari</string>
   <string name="pref_key_direction_traffic">Dades mòbils designades</string>
-  <string name="pref_key_extra_package_switch">Paquet de recàrrega mensual</string>
   <string name="pref_key_extra_package_value">Mida del paquet</string>
   <string name="pref_key_half_year_package_start">Data d\'inici</string>
   <string name="pref_key_half_year_package_switch">Paquet de dades semestral</string>
   <string name="pref_key_half_year_package_value">Mida del paquet</string>
-  <string name="pref_leisure_no_overlay">Activat</string>
-  <string name="pref_leisure_not_opened">Desactivat</string>
   <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
-  <string name="pref_month_begin_date">Restablir la data d\'ús</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_settings">Configuració avançada</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
@@ -1343,7 +1334,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
   <string name="pref_over_traffic_limit">Quan reviseu el pla de dades</string>
-  <string name="pref_package_traffic_leisure">%1$s | Hora vall: %2$s</string>
   <string name="pref_package_traffic_normal">Hora punta: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Addicional: %2$s</string>
   <string name="pref_package_traffic_settings">Límit de dades mòbils</string>
@@ -1366,14 +1356,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="pref_title_lock_screen_memory_clean">Neteja quan la pantalla estigui bloquejada</string>
   <string name="pref_title_manual_check_virus_db_update">Cerca actualitzacions</string>
   <string name="pref_title_mobile_traffic">Mostra l\'ús de dades mentre estava bloquejat</string>
-  <string name="pref_title_network_diagnostics">Diagnosticar la xarxa</string>
   <string name="pref_title_over_traffic_limit_warning">Quan se superi</string>
   <string name="pref_title_traffic_limit_number">Mida</string>
   <string name="pref_title_traffic_speed_state">Mostra la velocitat de la xarxa</string>
   <string name="pref_title_update_notification">Notificacions d\'ús de dades</string>
   <string name="pref_title_virus_white_list">Excepcions</string>
   <string name="pref_traffic_manage_title">Ús de dades</string>
-  <string name="pref_version">Versió %s</string>
   <string name="pref_warning_values">Nivell d\'avís d\'ús de dades</string>
   <string name="pref_whitelist_setting">Excepcions d\'itinerància de dades</string>
   <string name="preference_category_information_setting">category_information_setting</string>
@@ -1385,12 +1373,10 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="preferred_app_entries_launcher">Llançador</string>
   <string name="preferred_app_entries_messaging">Missatgeria</string>
   <string name="preferred_app_entries_music">Música</string>
-  <string name="privacy_declare_dialog_message">"En utilitzar aquest servei, accepta els &lt;a href=%s&gt; Termes de Servei&lt;/a&gt; d'Opera."</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
   <string name="privacy_mode_dialog_title">Mode convidat</string>
   <string name="privacy_prompt_tc_sms_report_message">El seu número de telèfon i detalls de l\'operador s\'han d\'encriptar i pujaran als servidors de Xiaomi per tal d\'actualitzar la informació de la seva utilització de les dades.</string>
   <string name="privacy_prompt_traffic_adjust_message">Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l\'operador als servidors Mi amb la finalitat d\'obtenir estadístiques d\'ús de les dades del seu operador.</string>
-  <string name="privacy_prompt_traffic_purchase_message">Tu número de teléfono y detalles del operador serán encriptados y subidos a los servidores de Mi para obtener más información de las opciones de compra de datos.</string>
   <string name="privacy_prompt_upload">Pujar</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Servidor de mitjans</string>
@@ -1858,9 +1844,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_h_m">%1$dh %2$dm</string>
   <string name="timeshow_m">%dm</string>
-  <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
   <string name="tips_message">"Si no té clars els detalls del seu pla de dades pot veure'ls trucant al %2$s (%1$s)."</string>
@@ -1981,7 +1965,6 @@ Dades extres en ús"</string>
   <string name="traffic_over_purchase_title">Límit de dades excedit</string>
   <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
   <string name="traffic_purchse_suggestion">Límit de dades excedit</string>
-  <string name="traffic_setting_app_count">%d aplicacions</string>
   <string name="traffic_setting_fragment_area">Local</string>
   <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>

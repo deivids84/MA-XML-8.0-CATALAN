@@ -523,6 +523,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="block_list_diaglog_cancle">Cancel·la</string>
   <string name="block_list_diaglog_ok">D\'acord</string>
   <string name="block_list_dialog_content">Aquesta acció desconnectarà a «%s» d\'aquest dispositiu i el afegirà a la llista de bloqueig</string>
+  <string name="block_list_dialog_title">Voleu desconnectar?</string>
   <string name="block_list_no_device">No hi ha dispositius connectats a la llista de bloqueig</string>
   <string name="block_list_remove_dialog_content">Aquest dispositiu «%s» serà capaç de connectar-se a aquest punt d\'accés</string>
   <string name="block_list_remove_dialog_title">Elimina a «%s» de la llista de bloqueig</string>
@@ -2712,7 +2713,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Gran àrea coberta fora de la pantalla</string>
   <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
-  <string name="paper_mode_auto_twilight_title">Mode penombra</string>
+  <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
@@ -2907,6 +2908,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_settings_titles_elder_mode">La contrasenya de privacitat protegeix les vostres fotos, fitxers i notes.</string>
   <string name="privacy_password_settings_titles_second_space">La contrasenya de privacitat protegeix els vostres missatges, fotos, fitxers i notes.</string>
   <string name="privacy_password_title">Contrasenya de privacitat</string>
+  <string name="privacy_password_use_finger_dialog_mess">També podeu utilitzar l\'empremta conjuntament amb la contrasenya de protecció.</string>
+  <string name="privacy_password_use_finger_dialog_open">Configuració</string>
+  <string name="privacy_password_use_finger_dialog_title">Desblocatge amb empremta</string>
+  <string name="privacy_password_use_finger_success">Activat</string>
   <string name="privacy_password_visible_pattern">Mostra el patró</string>
   <string name="privacy_protect_title">Protecció de privacitat</string>
   <string name="privacy_relative">Privadesa</string>
@@ -3044,6 +3049,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
+  <string name="recents_config_title">Configuració del panell de tasques recents</string>
   <string name="recommend_item_1">Funda per al mòbil</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Bateria externa</string>
@@ -3640,6 +3646,7 @@ Per fer-ho:
   <string name="show_ime">Mostra el teclat virtual</string>
   <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
+  <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="show_password">Mostra les contrasenyes</string>
@@ -4445,6 +4452,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_restrictions_controlled_by">Controlat per %1$s</string>
   <string name="user_restrictions_title">Accés a contingut i a aplicacions</string>
   <string name="user_set_lock_button">Configura el bloqueig</string>
+  <string name="user_settings_forbidden">"No es pot canviar la configuració de l'administrador en l'espai actual. Torneu al primer espai."</string>
   <string name="user_settings_title">Usuaris</string>
   <string name="user_setup_button_setup_later">Més tard</string>
   <string name="user_setup_button_setup_now">Configura\'l ara</string>

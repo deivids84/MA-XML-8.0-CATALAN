@@ -8,10 +8,7 @@
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
   <string name="add_contact">vCard</string>
-  <string name="add_festival">Salutacions</string>
   <string name="add_music">Afegeix música</string>
-  <string name="add_nickname">Sobrenom</string>
-  <string name="add_nickname_title">Edita el sobrenom</string>
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
   <string name="add_private_contact">Afegeix contacte privat</string>
@@ -65,7 +62,6 @@
   <string name="card_insert_to_contact">Importa el contacte</string>
   <string name="change_duration_activity">Canvia la durada</string>
   <string name="check_all">Selecciona-ho tot</string>
-  <string name="chenghu_disable_mms">"No podeu utilitzar sobrenoms en MMS"</string>
   <string name="class_0_message_activity">Missatge de classe 0</string>
   <string name="close">Tanca</string>
   <string name="cloud_recommend_msg">Toqueu per sincronitzar els missatges amb Mi Cloud.</string>
@@ -119,7 +115,6 @@
   <string name="copy_to_sdcard">Desa el fitxer adjunt</string>
   <string name="copy_to_sdcard_fail">"No s'ha pogut desar el fitxer adjunt"</string>
   <string name="copy_to_sdcard_success">Fitxer adjunt desat com a %s</string>
-  <string name="database_corruption">S\'està reparant&#8230;</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Treu dels destacats</string>
   <string name="delete_message">Elimina</string>
@@ -146,8 +141,6 @@
   <string name="duration_selector_title">"Durada de la presentació "</string>
   <string name="duration_zero">La durada ha de ser més gran que 0 segons</string>
   <string name="edit">Edita</string>
-  <string name="edit_nickname_for_nocontact">Cal afegir a un destinatari primer</string>
-  <string name="edit_nickname_for_nocontact_by_robot">Cal afegir un destinatari primer</string>
   <string name="edit_phrase">Edita les respostes ràpides</string>
   <string name="edit_slide_activity">Edita la diapositiva</string>
   <string name="edit_slideshow_activity">Edita la presentació</string>
@@ -173,16 +166,9 @@
   <string name="fake_cell_safe_hint">Aquest missatge és segur</string>
   <string name="fake_cell_timeout_hint">"No s'ha pogut comprovar la seguretat"</string>
   <string name="fdn_check_failure">Només podeu enviar missatges als números de marcatge fix.</string>
-  <string name="festival">Salutacions</string>
-  <string name="festival_continue">D\'acord</string>
-  <string name="festival_networking_desc">Aquesta funció necessita connectar-se a Internet per funcionar amb normalitat.</string>
-  <string name="festival_networking_title">Avís</string>
-  <string name="festival_never_remind">"No mostrar de nou."</string>
-  <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">S\'està carregant&#8230;</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Creat:</string>
-  <string name="file_share_message_description">Vull compartir alguns fitxers amb tu.</string>
   <string name="file_size">Mida:</string>
   <string name="file_title">Nom:</string>
   <string name="file_width_height">Mida:</string>
@@ -362,7 +348,6 @@
   <string name="new_message_arrived">Teniu un missatge nou</string>
   <string name="new_phrase">Afegeix resposta</string>
   <string name="new_phrase_hint">Introduïu la nova resposta</string>
-  <string name="nickname_placeholder">Sobrenom</string>
   <string name="no">Cancel·la</string>
   <string name="no_block_button_msg">Desbloqueja</string>
   <string name="no_conversations">No hi ha converses</string>
@@ -410,7 +395,6 @@
   <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
   <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
   <string name="pref_summary_delivery_ringtone">Rep notificacions de so per al missatge enviat.</string>
-  <string name="pref_summary_hide_festival">Amaga les característiques en xinès quan el sistema està definit per una llengua no xinesa</string>
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
@@ -431,9 +415,7 @@
   <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
   <string name="pref_title_card_format">Format de targeta compartida</string>
   <string name="pref_title_delivery_reports">Estat de lliurament</string>
-  <string name="pref_title_festival_networking">Notificació de connexió</string>
   <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
-  <string name="pref_title_hide_festival">Amaga les característiques de la llengua xinesa</string>
   <string name="pref_title_manage_sim_messages">Emmagatzematge de la targeta SIM</string>
   <string name="pref_title_miui_card">Envia a través de targeta</string>
   <string name="pref_title_mms_auto_retrieval">Baixa automaticament el contingut de l\'MMS</string>
@@ -483,8 +465,6 @@
   <string name="recipients_over_size">Hi ha massa destinataris.</string>
   <string name="recording_failed">"No es pot enregistrar"</string>
   <string name="refill_now">Recàrrega ara</string>
-  <string name="refresh">Actualitza</string>
-  <string name="refresh_failed">L\'actualització ha fallat</string>
   <string name="refreshing">S\'està actualitzant&#8230;</string>
   <string name="release_cancel">Deixeu anar per cancel·lar</string>
   <string name="remove">Treu</string>

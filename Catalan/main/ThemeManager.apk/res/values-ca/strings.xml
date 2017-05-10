@@ -409,6 +409,7 @@
   <string name="third_party_pickers_activity_title">Afegeix %1$s</string>
   <string name="title_component">Personalitza el tema</string>
   <string name="title_my_audio_resource">Els meus tons</string>
+  <string name="title_my_miwallpaper_resource">Els meus fons de pantalla animats</string>
   <string name="title_my_wallpaper_resource">Els meus fons de pantalla</string>
   <string name="title_system_audio_resource">Tons del sistema</string>
   <string name="title_system_wallpaper_resource">Fons de pantalla del sistema</string>

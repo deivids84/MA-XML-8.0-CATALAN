@@ -125,4 +125,8 @@
     <item quantity="other">%d cançons en total</item>
     <item quantity="one">%d cançó en total</item>
   </plurals>
+  <plurals name="skipped_online_songs_tips">
+    <item quantity="other">S\'han omès %d cançons. Activeu els serveis en línia a la configuració per escoltar-les.</item>
+    <item quantity="one">S\'ha omès %d cançó. Activeu els serveis en línia a la configuració per escoltar-la.</item>
+  </plurals>
 </resources>

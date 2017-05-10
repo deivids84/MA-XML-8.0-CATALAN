@@ -9,6 +9,10 @@
     <item quantity="other">%d SMS</item>
     <item quantity="one">1 SMS</item>
   </plurals>
+  <plurals name="marked_by_others">
+    <item quantity="other">%d altres usuaris l\'han marcat com a</item>
+    <item quantity="one">%d altre usuari l\'ha marcat com a</item>
+  </plurals>
   <plurals name="hints_traffic_enable_title">
     <item quantity="other">Sense rastreig d\'us de dades a %d aplicacions</item>
     <item quantity="one">Sense rastreig d\'us de dades a %d aplicació</item>
@@ -16,6 +20,22 @@
   <plurals name="hints_traffic_disable_title">
     <item quantity="other">Rastreig d\'us de dades a %d aplicacions</item>
     <item quantity="one">Rastreig d\'us de dades a %d aplicació</item>
+  </plurals>
+  <plurals name="traffic_setting_app_count">
+    <item quantity="other">%d aplicacions</item>
+    <item quantity="one">%d aplicació</item>
+  </plurals>
+  <plurals name="daily_sim_over_limit_notify_title">
+    <item quantity="other">"Ja heu fet servir %s del límit de dades diàries."</item>
+    <item quantity="one">"Ja heu fet servir %s del límit de dades diàries."</item>
+  </plurals>
+  <plurals name="daily_sim_over_limit_dialog_message">
+    <item quantity="other">"Ja heu fet servir %s del límit de dades diàries.
+
+Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
+    <item quantity="one">"Ja heu fet servir %s del límit de dades diàries.
+
+Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
   </plurals>
   <plurals name="hints_install_apps_interval">
     <item quantity="other">Usat fa %d dies</item>
@@ -149,29 +169,9 @@
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>
   </plurals>
-  <plurals name="lockpassword_password_requires_letters">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres.</item>
-    <item quantity="one">"La contrasenya ha de tenir almenys 1 lletra."</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_lowercase">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres minúscules.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 lletra minúscula.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_uppercase">
-    <item quantity="other">La contrasenya ha de contenir almenys %d lletres en majúscules.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 lletra majúscula.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_numeric">
-    <item quantity="other">La contrasenya ha de contenir almenys %d números.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 número.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_symbols">
-    <item quantity="other">La contrasenya ha de contenir almenys %d símbols especials.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 símbol especial.</item>
-  </plurals>
-  <plurals name="lockpassword_password_requires_nonletter">
-    <item quantity="other">La contrasenya ha de contenir almenys %d caràcters que no siguin lletres.</item>
-    <item quantity="one">La contrasenya ha de contenir almenys 1 caràcter que no sigui cap lletra.</item>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+    <item quantity="other">"Espera %d segons i torneu-ho a provar."</item>
+    <item quantity="one">"Espereu %d segon i torneu-ho a provar. "</item>
   </plurals>
   <plurals name="number_locked">
     <item quantity="other">%d aplicacions bloquejades</item>
@@ -264,5 +264,17 @@
   <plurals name="app_manager_reject_count">
     <item quantity="other">Bloquejat %d vegades</item>
     <item quantity="one">Bloquejat %d vegada</item>
+  </plurals>
+  <plurals name="app_usage_day">
+    <item quantity="other">"No ho heu fet servir durant %d dies"</item>
+    <item quantity="one">"No ho heu fet servir durant %d dia"</item>
+  </plurals>
+  <plurals name="app_usage_month">
+    <item quantity="other">"No ho ha fet servir durant %d mes"</item>
+    <item quantity="one">"No ho ha fet servir durant %d mes"</item>
+  </plurals>
+  <plurals name="app_usage_year">
+    <item quantity="other">"No ho ha fet servir durant %d anys"</item>
+    <item quantity="one">"No ho ha fet servir durant %d any"</item>
   </plurals>
 </resources>

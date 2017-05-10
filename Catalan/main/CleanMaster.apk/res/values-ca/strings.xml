@@ -42,7 +42,6 @@
   <string name="apps_sort_type_item_size">Mida</string>
   <string name="apps_sort_type_item_time">Usats sovint</string>
   <string name="apps_sort_type_title">Ordena</string>
-  <string name="authorize_detail">%d aplicacions bloquejades</string>
   <string name="auto_clean_switch_off">Apaga</string>
   <string name="auto_clean_switch_on">Encén</string>
   <string name="auto_cleaner_open">Activa</string>
@@ -110,7 +109,6 @@
   <string name="connecting">S\'està connectant&#8230;</string>
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
-  <string name="deep_clean_normal_clean_progress_desc">S\'han netejat %1$s fitxers</string>
   <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat correctament</string>
   <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
@@ -187,13 +185,11 @@
   <string name="flow_rank_title">Ús de dades</string>
   <string name="function_app_lock_title">%d aplicacions contenen riscos de privacitat</string>
   <string name="garbage_clean_detail">Detalls</string>
-  <string name="garbage_cleanup_detail">%1$d vegades, netejat %2$s</string>
   <string name="garbage_month">Netejat %s aquest mes</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Continua</string>
   <string name="goto_set">Aplica</string>
   <string name="grabage_rank_title">Netejat avui</string>
-  <string name="harass_detail">%1$d SMS bloquejats i %2$d trucades</string>
   <string name="header_optimizer">En utilitzar aquesta funció, vostè està d\'acord amb %s.</string>
   <string name="hint_clean_select_items">S\'estan esborrant les duplicitats&#8230;</string>
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
@@ -301,8 +297,6 @@
   <string name="name_debuglog_dir">Registre de depuració Bsp</string>
   <string name="name_optimizer">Política de Privacitat</string>
   <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
-  <string name="net_assistant_detail">Utilitzats %1$s, estalviats %2$s</string>
-  <string name="net_assistant_title">Utilitzats %s de dades mòbils aquest mes</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="news_change">Canvia</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
@@ -370,8 +364,8 @@
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommend_the_following">Prengueu les següents accions per obtenir el màxim profit del seu dispositiu</string>
   <string name="recommended">Recomanat</string>
-  <string name="safety_check_detail">%1$d vegades, guanyats %2$d punts</string>
-  <string name="safety_rank">Per davant de %d%% usuaris de MIUI en termes de seguretat</string>
+  <string name="resutl_function_deep_clean_summary">" \"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; es poden esborrar més arxius. Allibera més espai.&lt;/Data&gt;\" "</string>
+  <string name="resutl_function_wechat_clean_summary">" \"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de memòria cau del WeChat. Allibera més espai.&lt;/Data&gt;\" "</string>
   <string name="sc_allow_network_dialog_button">Permet</string>
   <string name="sc_allow_network_dialog_message">Permet que aquesta aplicació es connecti a internet per rebre actualitzacions?</string>
   <string name="scanning">S\'està escanejant&#8230;</string>
@@ -446,10 +440,8 @@
   <string name="toast_uninstall_success">Desinstal·lació completa</string>
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
-  <string name="traffic_top">Les 5 aplicacions que més dades consumeixen</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Anàlisi de virus</string>
-  <string name="wechat_add_to_cleanlist">S\'ha netejat amb èxit</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
   <string name="wechat_chat_clean_done">Tot sembla correcte</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
