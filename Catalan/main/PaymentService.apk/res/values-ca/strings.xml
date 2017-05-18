@@ -131,26 +131,6 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_license_message_span">Acord d\'usuari de Mi Credit</string>
   <string name="mibi_license_title">Termes i condicions</string>
   <string name="mibi_list_item_bottom_hint">"Heu arribat al final d'aquesta llista"</string>
-  <string name="mibi_lockpassword_choose_your_pattern_header">Seleccioneu el vostre patró contrasenya</string>
-  <string name="mibi_lockpassword_confirm_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
-  <string name="mibi_lockpassword_input_your_pattern_header">Confirmeu el vostre patró contrasenya</string>
-  <string name="mibi_lockpattern_confirm_button_text">Confirma</string>
-  <string name="mibi_lockpattern_continue_button_text">Continua</string>
-  <string name="mibi_lockpattern_need_to_confirm">Torneu a traçar el vostre patró contrasenya per confirmar-lo:</string>
-  <string name="mibi_lockpattern_need_to_confirm_wrong">"Els patrons contrasenya no coincideixen. Torneu-ho a provar:"</string>
-  <string name="mibi_lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Contrasenya incorrecta, podeu intentar-ho %d vegades més&lt;/font&gt;</string>
-  <string name="mibi_lockpattern_pattern_confirmed_header">El vostre nou patró contrasenya de desbloqueig:</string>
-  <string name="mibi_lockpattern_pattern_entered_header">S\'ha desat el patró contrasenya.</string>
-  <string name="mibi_lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu a intentar-ho:</string>
-  <string name="mibi_lockpattern_recording_inprogress">Aixequeu el dit quan hàgiu acabat.</string>
-  <string name="mibi_lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
-  <string name="mibi_lockpattern_retry_text">Restableix la contrasenya del patró</string>
-  <string name="mibi_lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
-  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Intenteu-ho de nou en %d segons.</string>
-  <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Massa intents fallits!&lt;/font&gt;</string>
-  <string name="mibi_lockpattern_tutorial_cancel_label">Cancel·la</string>
-  <string name="mibi_lockpattern_tutorial_continue_label">Següent</string>
-  <string name="mibi_lockscreen_forgot_pattern_button_text">He oblidat la contrasenya del patró</string>
   <string name="mibi_login">Inicia sessió</string>
   <string name="mibi_memu_refresh">Recarrega</string>
   <string name="mibi_menu_lock">Patró de bloqueig</string>
@@ -267,23 +247,18 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_string_with_bracket">(%s)</string>
   <string name="mibi_summary_bind_phone">Per garantir la seguretat del compte, completeu el pagament després de vincular el número de telèfon.</string>
   <string name="mibi_summary_custom_service_phone">Tel:</string>
-  <string name="mibi_summary_lockpattern">Necessita un patró de bloqueig únic per Mi Credit</string>
   <string name="mibi_summary_sms_code">Introduïu el codi de verificació enviat a %1$s i després, finalitzi el pagament</string>
   <string name="mibi_tianyi_create_order">China Unicom SMS</string>
   <string name="mibi_title_bill_record">Historial de pagaments</string>
   <string name="mibi_title_bind_phone">S\'està vinculant amb el número de telèfon</string>
-  <string name="mibi_title_change_lockpattern">Configura el patró de bloqueig</string>
   <string name="mibi_title_custom_service_phone">Contacta amb atenció al client</string>
   <string name="mibi_title_discounts">Descomptes</string>
-  <string name="mibi_title_gesture">Patró de bloqueig</string>
-  <string name="mibi_title_lockpattern">Necessita un patró de bloqueig</string>
   <string name="mibi_title_mili_center">Crèdits Mi</string>
   <string name="mibi_title_nopassword">"No és necessari en petits pagaments"</string>
   <string name="mibi_title_nopassword_dialog">Límit diari</string>
   <string name="mibi_title_password">Contraseya</string>
   <string name="mibi_title_password_threshold">Límit diari = %1$s€</string>
   <string name="mibi_title_sms_code">Introduïu el codi de verificació del telèfon mòbil</string>
-  <string name="mibi_title_visible_pattern">Fes el patró visible</string>
   <string name="mibi_unit">Mi Credit</string>
   <string name="mibi_unit_value">%1$s Mi Credit</string>
   <string name="mibi_voucher_card_text">Traieu-vos l\'abric</string>

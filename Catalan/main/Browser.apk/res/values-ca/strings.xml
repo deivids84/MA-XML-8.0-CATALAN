@@ -68,9 +68,9 @@
   <string name="add_shortcut">Afegeix una drecera</string>
   <string name="add_shortcut_success">S\'ha afegit la drecera</string>
   <string name="add_to_bookmark">Marcadors</string>
-  <string name="add_to_desk">Posa-ho a la pantalla d\'inici</string>
+  <string name="add_to_desk">Afegeix-ho a la pantalla d\'inici</string>
   <string name="add_to_desk_lite_mode_toast">"No s'ha pogut afegir a la pantalla d'inici en el mode bàsic"</string>
-  <string name="add_to_desk_success">S\'ha posat a la pantalla d\'inici</string>
+  <string name="add_to_desk_success">Afegeix-ho a la pantalla d\'inici</string>
   <string name="add_to_quicklink">Pàgina d\'inici</string>
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
   <string name="adjust_text_zoom_toast">Si es canvia la mida del text algunes pàgines poden visualitzar-se incorrectament</string>
@@ -107,8 +107,8 @@
   <string name="bookmark_cannot_save_url">"Aquest URL no es pot afegir als marcadors."</string>
   <string name="bookmark_folder_needs_title">Introduïu un nom de grup</string>
   <string name="bookmark_group_lable">Grup</string>
-  <string name="bookmark_needs_title">El marcador ha de tenir un nom.</string>
-  <string name="bookmark_needs_url">El marcador ha de contenir un URL.</string>
+  <string name="bookmark_needs_title">El marcador ha de tenir un nom</string>
+  <string name="bookmark_needs_url">El marcador ha de contenir un URL</string>
   <string name="bookmark_not_saved">"No s'ha pogut desar el marcador"</string>
   <string name="bookmark_rename_group">Canvia el nom del grup</string>
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
@@ -118,7 +118,7 @@
   <string name="bookmark_url_already_exisit">"Ja heu desat als marcadors aquest URL"</string>
   <string name="bookmark_url_can_not_null">Introduïu l\'adreça.</string>
   <string name="bookmark_url_lable">URL</string>
-  <string name="bookmark_url_not_valid">"Aquest URL no és vàlid."</string>
+  <string name="bookmark_url_not_valid">"Aquest URL no és vàlid"</string>
   <string name="bookmarks_content_is_null">Sense marcadors</string>
   <string name="bookmarks_management">Marcadors</string>
   <string name="bookmarks_root_folder">Carpeta arrel</string>
@@ -131,6 +131,8 @@
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
+  <string name="check_permission_of_current_location">Informació d\'ubicació actual</string>
+  <string name="check_permission_of_current_url">URL dels llocs web que visiteu</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
@@ -193,6 +195,7 @@
   <string name="contextmenu_savelink">Desa l\'enllaç</string>
   <string name="contextmenu_send_mail">Envia un correu electrònic</string>
   <string name="contextmenu_set_wallpaper">Estableix com a fons de pantalla</string>
+  <string name="contextmenu_share_image">Comparteix la imatge</string>
   <string name="contextmenu_sharelink">Comparteix l\'enllaç</string>
   <string name="contextmenu_view_image">Mostra la imatge</string>
   <string name="contextmenu_webpage_capture">Desa com a captura de pantalla</string>
@@ -291,7 +294,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="empty_bookmark">Buit</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
-  <string name="enable_geolocation_confirm_message">Si apagueu aquesta característica podríeu provocar que alguns llocs web funcionin malament.</string>
+  <string name="enable_geolocation_confirm_message">Si desactiveu els serveis de localització es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
   <string name="error_console_eval_button_text">Avalua</string>
@@ -492,6 +495,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="older">Més antic</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
+  <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="opening_file_error">No es pot obrir el fitxer seleccionat</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
@@ -519,7 +523,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_automatic_matching_searchengines_title">Motors de cerca automàtics per hàbits de recerca</string>
   <string name="pref_category_hint">Categoria</string>
   <string name="pref_check_security_url_summary">"Envia l'URL del lloc web als servidors Mi per validar si és segura"</string>
+  <string name="pref_check_security_url_summary_international">Per proporcionar un millor servei de referència, permeteu que el navegador obtingui la seva URL d\'accés</string>
   <string name="pref_check_security_url_title">Comprova la seguretat de l\'URL</string>
+  <string name="pref_check_security_url_title_international">Obtén la URL</string>
   <string name="pref_clear_adblock_statistics">Neteja l\'historial del bloquejador d\'anuncis</string>
   <string name="pref_clear_adblock_statistics_dlg">Voleu posar a zero el recompte d\'anuncis bloquejats?</string>
   <string name="pref_clear_all_data_dlg">Voleu esborrar totes les dades desades a dalt?</string>
@@ -606,8 +612,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_ua_string">Cadena d\'agent d\'usuari</string>
   <string name="pref_version_info">Informació de la versió</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
-  <string name="pref_weather_location_summary">"Ho utilitza el connector metereològic del navegador"</string>
-  <string name="pref_weather_location_title">Localització metereològica</string>
   <string name="private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
   <string name="profiler_error_toast">No s\'ha pogut iniciar el gestor de perfils</string>
   <string name="profiler_no_storage_toast">"No es pot iniciar el gestor de perfils perquè l'emmagatzematge extern no està a punt"</string>
@@ -680,6 +684,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="save_to_camera">Desa a càmera</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
+  <string name="scanner_uninstalled_text">Per fer-lo servir, instal·leu l\'escàner</string>
+  <string name="scanner_uninstalled_title">L\'escàner s\'ha desinstal·lat</string>
   <string name="sdcard_error">Comproveu la vostra targeta SD</string>
   <string name="search">Cerca</string>
   <string name="search_baidu">Baidu</string>
@@ -713,10 +719,12 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="send_comment_title">Comentari</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
+  <string name="share_image_text">"Estic gaudint d'una imatge molt meravellosa"</string>
   <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"L'URL d'aquest web s'enviarà als servidors de Xiaomi per verificar la seva seguretat. Podeu desactivar aquesta funció en qualsevol moment a Configuració."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Per rebre recomanacions pertinents, permeteu al navegador accedir a aquests elements:</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Els serveis meteorològics necessiten la vostra ubicació per donar-vos informació del temps actualitzada al navegador. Podeu desactivar aquesta característica a Configuració.</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Per qüestions de seguretat local i per proporcionar informació basada en la ubicació en els serveis de referència i meteorològics, el navegador necessita accés a la informació següent:</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -738,7 +746,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
   <string name="storage_internal">Emmagatzematge intern</string>
-  <string name="storage_permission_request_toast">Baixades necessita permís d\'emmagatzematge, obriu-lo</string>
+  <string name="storage_permission_request_toast">"Baixades necessita permís d'emmagatzematge, obriu-lo"</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="suggest_access_appstore">Botiga d\'aplicacions Mi</string>
@@ -855,6 +863,11 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_unknown_duration">Durada desconeguda</string>
   <string name="view_certificate">Mostra el certificat</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
+  <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
+  <string name="voice_connect_network">No es pot connectar a la xarxa</string>
+  <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
+  <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
+  <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
   <string name="voice_sub_title">"No sabeu que dir? Intenteu Obre mi.com!"</string>
   <string name="voice_title">Digueu les vostres ordres&#8230;</string>
   <string name="voice_title_distinguish">En procés&#8230;</string>

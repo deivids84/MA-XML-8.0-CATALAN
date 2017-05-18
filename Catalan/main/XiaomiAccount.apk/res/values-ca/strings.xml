@@ -42,7 +42,6 @@
   <string name="account_user_gender">Sexe</string>
   <string name="account_user_id">Identificador de compte de Mi</string>
   <string name="account_user_income">Ingressos</string>
-  <string name="account_user_info">Informació de l\'usuari</string>
   <string name="account_user_location">Ubicació</string>
   <string name="account_user_location_title">Selecciona la ubicació actual</string>
   <string name="account_user_name">Nom</string>
@@ -351,10 +350,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="search_account_security_key_words">Canvia el telèfon,Canvia el correu electrònic,Protecció del comptes,Comptes,Sina Weibo,QQ,Autorització,Dispositius</string>
   <string name="search_account_security_path">Configuració/Compte Mi/Configuració del compte</string>
   <string name="search_app_name">Compte Mi</string>
-  <string name="search_logout_account">Tanca la sessió</string>
-  <string name="search_logout_account_desc">Compte Mi</string>
-  <string name="search_logout_account_key_words">Tanca la sessió</string>
-  <string name="search_logout_account_path">Compte Mi,Configuració/Compte Mi</string>
   <string name="search_mi_account">Compte Mi</string>
   <string name="search_mi_account_desc">Compte Mi</string>
   <string name="search_mi_account_key_words">Compte Mi,inicia la sessió,crea compte,Mi Cloud,Mi Credits,Mi Wallet,Mi Pass,Mi Insurance,Configuració del compte,Administració del compte</string>

@@ -969,6 +969,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_item_app_permissions_control">Gestor de permisos</string>
   <string name="menu_item_control_app_permissions">Se sol·licita el seu permís abans de permetre a les aplicacions llegir els seus contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos</string>
   <string name="menu_item_force_stop">Forçar aturada</string>
+  <string name="menu_item_install_debug_package">instal·la el paquet de depuració</string>
   <string name="menu_item_notification_antispam_text_avail">Llista de bloqueig</string>
   <string name="menu_item_notification_antispam_text_normal">Llista de bloqueig</string>
   <string name="menu_item_notification_garbage_text">%s</string>

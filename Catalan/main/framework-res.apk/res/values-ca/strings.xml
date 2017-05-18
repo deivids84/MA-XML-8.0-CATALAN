@@ -1082,7 +1082,7 @@ per al compte %s»</string>
   <string name="permlab_writeSettings">modifica la configuració del sistema</string>
   <string name="permlab_writeSyncSettings">activa i desactiva la sincronització</string>
   <string name="perms_description_app">Proporcionat per %1$s</string>
-  <string name="perms_new_perm_prefix">&lt;font size=\"12\" fgcolor=\"#ff33b5e5\"&gt;NOU:&lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">NOU:</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistent</string>
   <string name="phoneTypeCallback">Devolució de trucada</string>

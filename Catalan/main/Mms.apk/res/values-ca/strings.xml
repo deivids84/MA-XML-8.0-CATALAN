@@ -193,8 +193,6 @@
   <string name="has_invalid_recipient">Destinataris no vàlids: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Adreça d\'emissor oculta</string>
   <string name="hint_search_sms">%d missatges</string>
-  <string name="hms_add_image_progress_message">S\'està treballant&#8230;</string>
-  <string name="hms_first_use_tips">Per rebre missatges de servei, necessiteu estar connectat a una xarxa Wi-Fi</string>
   <string name="hms_uri_param_err">"La URL no pot estar buida"</string>
   <string name="hold_to_talk">Mantingueu premut per parlar</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
@@ -240,7 +238,6 @@
   <string name="menu_send_as_common">Envia com SMS</string>
   <string name="menu_unlock">Elimina dels favorits</string>
   <string name="menu_view_contact">Mostra el contacte</string>
-  <string name="menu_yellowpage">Mostra %s</string>
   <string name="message_class_label">"Classe de missatge: "</string>
   <string name="message_contact">Contacte:</string>
   <string name="message_details_title">Detalls del missatge</string>
@@ -263,15 +260,12 @@
   <string name="message_too_big_for_video">Missatge massa gran per inserir un vídeo.</string>
   <string name="message_type_label">"Escriviu: "</string>
   <string name="messagelist_sender_self">Jo</string>
-  <string name="mipub_messaging_entry_title">Missatge Mi</string>
   <string name="mms">MMS</string>
   <string name="move_down">Baixa</string>
   <string name="move_up">Puja</string>
   <string name="msg_type_hint_mms">Missatge multimèdia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Missatge Mi</string>
-  <string name="msg_type_hint_mx_b2c">Notificació de xarxa</string>
-  <string name="msg_type_hint_mx_b2c_omit">Notificació de xarxa</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Missatge de text</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -310,9 +304,6 @@
   <string name="mx_auto_resend_mms_summary">"S'enviaran els missatges multimèdia com a MMS a través de la connexió de dades mòbils quan no estigueu connectat a Wi-Fi. Això provocarà els càrrecs corresponents del vostre operador."</string>
   <string name="mx_auto_resend_sms">Envia com a SMS</string>
   <string name="mx_auto_resend_sms_summary">"Envieu missatges com a SMS a través de la connexió de dades mòbil quan no estigueu connectats a la Wi-Fi. S'incorrerà en càrrecs regulars de l'operador."</string>
-  <string name="mx_b2c_message_desc">Notificacions de xarxa</string>
-  <string name="mx_b2c_message_resend_not_online">"No es pot reenviar el missatge. Missatge Mi està fora de línia."</string>
-  <string name="mx_b2c_message_server">Servidor</string>
   <string name="mx_btn_enable">Activa</string>
   <string name="mx_btn_enable_now">Activa</string>
   <string name="mx_count_dspt">"Heu enviat %1$d SMS i %2$d MMS de franc"</string>
@@ -387,6 +378,7 @@
   <string name="pref_notification_settings_title">Notificacions</string>
   <string name="pref_other_title">Configuració addicional</string>
   <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
+  <string name="pref_show_list_avatar_summary">Mostra imatges i altra informació de contacte a la vista de llista</string>
   <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
   <string name="pref_smart_messages_settings">Missatges intel·ligents</string>
@@ -483,7 +475,6 @@
   <string name="restore_blocked_message">Restaura</string>
   <string name="restore_to_phone_memory_failed">"No s'ha pogut restaurar"</string>
   <string name="restored_to_phone_memory">S\'ha restaurat</string>
-  <string name="retrive_hms_tips">S\'està recuperant&#8230;</string>
   <string name="save">Desa</string>
   <string name="save_ringtone">Desa com a to de trucada</string>
   <string name="save_to_sim">Desa a la targeta SIM</string>
@@ -521,7 +512,6 @@
   <string name="select_recipient">Seleccioneu els destinataris</string>
   <string name="select_top_text">Text en la part superior</string>
   <string name="send">Envia</string>
-  <string name="send_hms_editor_hints">Missatge Mi</string>
   <string name="send_message_dlg_check_hint">"No mostrar de nou"</string>
   <string name="send_message_dlg_mgs">Avís CMCC: hem de registrar la vostra plataforma d\'administració de dispositius per proporcionar el servei gratuït de servei postal (el servei postal és una plataforma CMCC que permet administrar els terminals. Li ofereix el servei de configuració remota i actualització de l\'aplicació). S\'enviarà un missatge gratis d\'informació dels dispositius de registre. El missatge serà enviat una vegada i no cal les dades personals (no enviar de Hong Kong, Macau, Taiwan i itinerància internacional). Seleccioneu «D\'acord» si esteu d\'acord amb registrar i utilitzar el servei. Seleccioneu «Cancel·la» per tornar i no es proporcionarà cap servei CMCC.</string>
   <string name="send_message_dlg_title">Administració de dispositius</string>
@@ -609,6 +599,7 @@
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
   <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
+  <string name="title_show_list_avatar">Mostra fotos i informació</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
   <string name="title_timed_message_dialog">Estableix el missatge programat</string>
@@ -652,8 +643,6 @@ Intents realitzats: %s"</string>
   <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>
-  <string name="view_hms_attachment_fail">"No s'ha pogut baixar la imatge"</string>
-  <string name="view_hms_details">Detalls</string>
   <string name="view_message_details">Mostra els detalls</string>
   <string name="voip_enable">Missatges i Veu Mi</string>
   <string name="voip_enable_popup_msg">"Feu trucades a altres usuaris de MIUI sense incórrer en despeses amb el vostre proveïdor. El servei VoIP està suportat per Weihui. Mostra la Política de privacitat de Weihui."</string>
@@ -662,7 +651,6 @@ Intents realitzats: %s"</string>
   <string name="warning_show">Envia a %ds</string>
   <string name="wild_msg_processing">S\'està treballant&#8230;</string>
   <string name="wild_msg_title">Trieu els números de telèfon per sincronitzar-los</string>
-  <string name="xiaomi_service_number">Número de servei</string>
   <string name="yellowpage_recommend_msg">"Proveu les característiques noves dels missatges MIUI"</string>
   <string name="yes">D\'acord</string>
 </resources>

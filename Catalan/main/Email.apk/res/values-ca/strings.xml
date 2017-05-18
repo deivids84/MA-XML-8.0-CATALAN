@@ -220,6 +220,7 @@
   <string name="auto_remind_text">Recordatoris automàtics</string>
   <string name="auto_remind_unbind">Atura</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
+  <string name="automatic_remind_text">recordatori</string>
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Estalvi de bateria</string>
@@ -245,6 +246,7 @@
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
+  <string name="cancel_pop3_attchemt_downloading">La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3.</string>
   <string name="cant_move_or_change_labels">"\"No es pot moure perquè la selecció conté diversos 
          comptes.\""</string>
   <string name="cc">Cc</string>
@@ -387,7 +389,7 @@
   <string name="download_confirm_title">Baixa els adjunts</string>
   <string name="download_message_failed_for_too_large">El missatge és massa gran per baixar-lo.</string>
   <string name="drawer_bank_bill">Extractes bancaris</string>
-  <string name="drawer_bill_title">Factures</string>
+  <string name="drawer_classification">Classificació intel·ligent</string>
   <string name="drawer_close">Tancar el calaix de navegació</string>
   <string name="drawer_contacts">Contactes</string>
   <string name="drawer_open">Obre calaix de navegació</string>
@@ -661,6 +663,8 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="no_filtrable_email_account">No hi ha comptes per filtrar</string>
   <string name="no_mails">Buit</string>
   <string name="no_matched_attachment">Res coincideix amb la seva recerca</string>
+  <string name="no_recognize_describe">"No s\'han pogut trobar correus electrònics que continguin entrades o reserves. 
+Proveu una safata d\'entrada diferent."</string>
   <string name="no_remind">No ho recordis</string>
   <string name="not_subject">(Sense assumpte)</string>
   <string name="not_synced_title">Compte no sincronitzat</string>
@@ -709,6 +713,7 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="overlays_title">Obre els permisos de Windows flotants</string>
   <string name="parase_setup_data">Obtenint dades&#8230;</string>
   <string name="parse_bill_discribe">S\'estan processant les factures de la targeta de crèdit&#8230;</string>
+  <string name="parse_recognize_describe">S\'està analitzant el correu&#8230;</string>
   <string name="password_expire_warning_content_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expire_warning_dialog_content_fmt">Heu de canviar el PIN o contrasenya de la pantalla de bloqueig aviat, o les dades de %s s\'eliminaran. Voleu canviar-ho ara?</string>
   <string name="password_expire_warning_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
@@ -854,6 +859,30 @@ Proveu a canviar a un compte de correu diferent."</string>
   <string name="read_string">conversa llegir</string>
   <string name="recipient_needed">Afegeix a almenys un destinatari.</string>
   <string name="recipient_needed_title">Advertir</string>
+  <string name="recognize_hotel_check_in_date">Hora d\'entrada</string>
+  <string name="recognize_hotel_hotel_money">Preu %1$s</string>
+  <string name="recognize_hotel_notification_content">Gaudiu de l\'estada!</string>
+  <string name="recognize_hotel_notification_title">Vau reservar una habitació a %1$s a partir de %2$s/%3$s. Comproveu la reserva abans d\'arribar-hi.</string>
+  <string name="recognize_hotel_order_money">Total</string>
+  <string name="recognize_hotel_other_money">Altres despeses %1$s</string>
+  <string name="recognize_hotel_reverse_date">Entrada abans %1$s:%2$s %3$s</string>
+  <string name="recognize_hotel_room_type">Habitació</string>
+  <string name="recognize_hotel_title">Reserva</string>
+  <string name="recognize_hotel_user_names">Convidat</string>
+  <string name="recognize_setting_title">Configuració del viatge</string>
+  <string name="recognize_ticket_air_notification_content">Gaudiu del vol!</string>
+  <string name="recognize_ticket_air_notification_title">El vol %3$s (%1$s/%2$s) s\'enlairarà aviat. Verifiqueu la informació del vol.</string>
+  <string name="recognize_ticket_air_state_stopover">Escala</string>
+  <string name="recognize_ticket_air_state_transfer">Transfereix</string>
+  <string name="recognize_ticket_air_user_name">Passatger:</string>
+  <string name="recognize_ticket_title">Bitllets d\'avió i tren</string>
+  <string name="recognize_ticket_train_alter">Canviat</string>
+  <string name="recognize_ticket_train_depart_date">Surt a %3$s:%4$s en %1$s/%2$s</string>
+  <string name="recognize_ticket_train_notification_content">Bon viatge!</string>
+  <string name="recognize_ticket_train_notification_title">El tren %3$s (%1$s/%2$s) sortirà aviat. Comproveu el bitllet.</string>
+  <string name="recognize_ticket_train_return">Retornat</string>
+  <string name="recognize_ticket_train_user_name">Passatger: %1$s</string>
+  <string name="recognize_title">Informació del viatge</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronitzar la safata d\'entrada amb menor freqüència mentre No Molestar està activat</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronitzar amb menor freqüència</string>
   <string name="refresh">Actualitza</string>

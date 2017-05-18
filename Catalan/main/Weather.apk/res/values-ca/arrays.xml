@@ -103,6 +103,7 @@
     <item>Pobre</item>
     <item>Molt pobre</item>
     <item>Greu</item>
+    <item>Més enllà de l\'índex</item>
   </string-array>
   <string-array name="wind_unit_simple">
     <item>Escala de Beaufort</item>
@@ -136,5 +137,14 @@
     <item>Intensa</item>
     <item>Moderada</item>
     <item>Lleugera</item>
+  </string-array>
+  <string-array name="pollution_level_desc_arr">
+    <item>Excel·lent</item>
+    <item>Bo</item>
+    <item>Lleugerament contaminat</item>
+    <item>Moderadament contaminat</item>
+    <item>Molt contaminat</item>
+    <item>Extremadament contaminat</item>
+    <item>Més enllà de l\'índex</item>
   </string-array>
 </resources>

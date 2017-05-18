@@ -272,6 +272,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_sync_exception">Error de sincronització</string>
   <string name="micloud_main_sync_init">Obtenint informació</string>
   <string name="micloud_main_sync_need_charge">S\'està esperant la càrrega</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Carregueu el dispositiu i desactiveu la pantalla</string>
   <string name="micloud_main_sync_now">Sincronitza ara</string>
   <string name="micloud_main_sync_on">Sincronitzar</string>
   <string name="micloud_main_sync_on_wifi">Esperant Wi-Fi</string>

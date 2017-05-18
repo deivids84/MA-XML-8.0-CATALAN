@@ -27,7 +27,6 @@
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_title">Accelera</string>
-  <string name="game_booster_total">Accelerada la velocitat %1$s vegades, afegits %2$s de temps de joc</string>
   <string name="game_improve_text1">Neteja el fons de forma automàtica, augmenta la memòria del joc en execució</string>
   <string name="game_improve_text2">Neteja el fons automàticament, augmenta el joc que funciona en memòria; Millora el rendiment del processador, augmenta la fluïdesa del joc</string>
   <string name="game_improve_title">Optimització del rendiment</string>
@@ -56,7 +55,6 @@
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
   <string name="i_know">Ho sé</string>
-  <string name="install_game_count">S\'han afegit %d jocs</string>
   <string name="intro_improve">Basat en el nivell de sistema per millorar la totalitat de l\'experiència de joc</string>
   <string name="intro_skip">omet</string>
   <string name="loading">Un moment&#8230;</string>
@@ -112,7 +110,6 @@
   <string name="top_game">Jocs destacats</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
   <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
-  <string name="uninstall_game_count">"No s'han afegit %d jocs"</string>
   <string name="usage_sorted_loading_text">Un moment&#8230;</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
   <string name="wlan_change_protection_title">Evita els canvis de xarxes</string>
