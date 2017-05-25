@@ -958,6 +958,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="preview_incall_show_entry">Previsualitzar vídeo</string>
   <string name="previous">Anterior</string>
   <string name="private_num">Número privat</string>
+  <string name="profileSavedErrorToast">"No s'han pogut desar els canvis del meu perfil"</string>
+  <string name="profileSavedToast">El meu perfil desat</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Configura meu perfil</string>
   <string name="profile_name">El meu perfil</string>

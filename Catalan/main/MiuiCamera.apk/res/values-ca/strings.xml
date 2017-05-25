@@ -175,7 +175,7 @@
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Apagat</string>
   <string name="pref_camera_flashmode_entry_on">Activat</string>
-  <string name="pref_camera_flashmode_entry_torch">Continu</string>
+  <string name="pref_camera_flashmode_entry_torch">Fix</string>
   <string name="pref_camera_flashmode_title">Mode de flaix</string>
   <string name="pref_camera_focusmode_entry_auto">Automàtic</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>

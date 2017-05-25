@@ -13,4 +13,8 @@
     <item quantity="other">"L'acció seleccionada no està disponible mentre estigueu en mode Trucada d'emergència. El telèfon romandrà en aquest mode durant %s minuts. Voleu sortir ara?"</item>
     <item quantity="one">"L'acció seleccionada no està disponible mentre estigeu en mode Trucada d'emergència. El telèfon romandrà en aquest mode durant %s minut. Voleu sortir ara?"</item>
   </plurals>
+  <plurals name="call_record_add_white_list_over_reminder">
+    <item quantity="other">Podeu afegir fins a %s persones, seleccioneu-ho de nou.</item>
+    <item quantity="one">Podeu afegir fins a %s persona, seleccioneu-ho de nou.</item>
+  </plurals>
 </resources>

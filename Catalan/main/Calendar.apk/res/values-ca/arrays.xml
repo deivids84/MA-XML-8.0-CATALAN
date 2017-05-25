@@ -313,4 +313,13 @@
     <item>Cap endavant</item>
     <item>Cap enrere</item>
   </string-array>
+  <string-array name="week_header_name">
+    <item> dg.</item>
+    <item> dl.</item>
+    <item> dt.</item>
+    <item> dc.</item>
+    <item>dj.</item>
+    <item>dv.</item>
+    <item>ds.</item>
+  </string-array>
 </resources>

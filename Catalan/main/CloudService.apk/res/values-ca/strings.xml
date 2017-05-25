@@ -188,7 +188,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_force_sync">sincronitzar ara</string>
   <string name="micloud_detail_lastest">S\'ha sincronitzat</string>
   <string name="micloud_detail_lastest_with_off">S\'ha sincronitzat</string>
-  <string name="micloud_detail_need_charge">Cal càrrega per sincronitzar</string>
+  <string name="micloud_detail_need_charge_or_sleep">Connecteu el carregador i apagueu la pantalla per reprendre la sincronització</string>
   <string name="micloud_detail_not_sync">%d esperant per sincronitzar</string>
   <string name="micloud_detail_not_synced">No sincronitzat</string>
   <string name="micloud_detail_ok">D\'acord</string>

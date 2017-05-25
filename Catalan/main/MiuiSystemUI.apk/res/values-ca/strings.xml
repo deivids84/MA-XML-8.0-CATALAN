@@ -411,6 +411,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">S\'està netejant, espereu una mica</string>
   <string name="recent_task_lock_text">Bloquejar</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_launch_error_message">%s no s\'ha pogut iniciar.</string>

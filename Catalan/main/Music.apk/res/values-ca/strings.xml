@@ -135,6 +135,7 @@
   <string name="cloud_state_storage_full">No hi ha prou espai al telèfon, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_welcome_message">Còpia de seguretat de les cançons</string>
   <string name="cloud_welcome_summary">Feu una còpia de seguretat de les cançons al Mi Cloud i escolteu-les en altres dispositius</string>
+  <string name="confirm">D\'acord</string>
   <string name="confirm_download">Baixa</string>
   <string name="confirm_to_renew">Renova</string>
   <string name="continue_backup">Continua</string>
@@ -604,10 +605,18 @@
   <string name="online_music_enabled_summary">Escolteu i baixeu les vostres cançons preferides. Consulteu les millors cançons i llistes de reproducció recomanades sigueu on sigueu!</string>
   <string name="online_music_enabled_title">La transmissió gratuït està aquí</string>
   <string name="online_my">Meu</string>
+  <string name="online_play_tips">Aquesta cançó només està disponible en línia. Activeu els serveis en línia a la configuració per escoltar-la.</string>
   <string name="online_playlist_is_empty">Llista de reproducció buida</string>
   <string name="online_recommend">Llista de reproducció</string>
+  <string name="online_service_open_tip">Serveis de música en línia</string>
+  <string name="online_service_title">Serveis en línia</string>
   <string name="online_special">Especial</string>
+  <string name="online_switch">Serveis de contingut en línia</string>
+  <string name="online_switch_message">La desactivació dels serveis en línia afectarà els serveis VIP i les recomanacions. Voleu desactivar-ho de totes maneres?</string>
+  <string name="online_switch_setting">Configuració del contingut en línia</string>
   <string name="open_download">Obre</string>
+  <string name="open_online_service">Cal activar els serveis en línia per utilitzar aquesta funció. Voleu activar-los?</string>
+  <string name="open_service">Activa</string>
   <string name="order_pending">S\'està esperant la confirmació</string>
   <string name="order_process_fail">"No s'ha pogut autoritzar el vostre compte. Espereu uns minuts i torne-ho a provar."</string>
   <string name="other_filter">Altres</string>

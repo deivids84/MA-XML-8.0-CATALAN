@@ -13,6 +13,14 @@
     <item quantity="other">%d altres usuaris l\'han marcat com a</item>
     <item quantity="one">%d altre usuari l\'ha marcat com a</item>
   </plurals>
+  <plurals name="st_show_num_keyword">
+    <item quantity="other">%d paraules clau</item>
+    <item quantity="one">%d paraula clau</item>
+  </plurals>
+  <plurals name="st_show_num_number">
+    <item quantity="other">%d números</item>
+    <item quantity="one">%d número</item>
+  </plurals>
   <plurals name="hints_traffic_enable_title">
     <item quantity="other">Sense rastreig d\'us de dades a %d aplicacions</item>
     <item quantity="one">Sense rastreig d\'us de dades a %d aplicació</item>
@@ -36,10 +44,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="one">"Ja heu fet servir %s del límit de dades diàries.
 
 Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li per les dades addicionals."</item>
-  </plurals>
-  <plurals name="hints_install_apps_interval">
-    <item quantity="other">Usat fa %d dies</item>
-    <item quantity="one">Usat ahir</item>
   </plurals>
   <plurals name="search_app_count_txt_na">
     <item quantity="other">Cerca %d aplicacions</item>
@@ -253,9 +257,13 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">Va accedir %d vegades</item>
     <item quantity="one">Va accedir %d vegada</item>
   </plurals>
-  <plurals name="app_manager_permission_manager_summary">
-    <item quantity="other">Va donar %d permisos</item>
-    <item quantity="one">Va donar %d permís</item>
+  <plurals name="app_manager_permission_summary_accept">
+    <item quantity="other">%d permisos permesos</item>
+    <item quantity="one">%d permís permès</item>
+  </plurals>
+  <plurals name="app_manager_permission_summary_ask">
+    <item quantity="other">Sol·licitant %d permisos</item>
+    <item quantity="one">Sol·licitant %d permís</item>
   </plurals>
   <plurals name="app_manager_start_count">
     <item quantity="other">%d vegades</item>

@@ -55,17 +55,9 @@
     <item>"Ús de dades mòbils "</item>
     <item>"ús Wi-Fi "</item>
   </string-array>
-  <string-array name="traffic_setting_sms_template">
-    <item>Recuperar automàticament</item>
-    <item>Estableix manualment</item>
-  </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Mostra una advertència</item>
     <item>Adverteix i desactiva les dades mòbils</item>
-  </string-array>
-  <string-array name="roaming_apps_sorted_type">
-    <item>Freqüentment usades</item>
-    <item>Nom</item>
   </string-array>
   <string-array name="roaming_network_type">
     <item>Sempre</item>

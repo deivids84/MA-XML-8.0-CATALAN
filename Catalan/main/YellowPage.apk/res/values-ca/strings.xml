@@ -87,6 +87,7 @@
   <string name="express_addressee_name">Nom del destinatari</string>
   <string name="express_addressee_region">"Regió del destinatari"</string>
   <string name="express_banner_header">%1$s / Número de seguiment</string>
+  <string name="express_cainiao_banner">Detall proporcionat per Cainiao.</string>
   <string name="express_cancel_order">Cancel·la</string>
   <string name="express_company_list_empty">No hi ha cap empresa</string>
   <string name="express_company_phone_prefix">"Contacte:"</string>
@@ -104,6 +105,7 @@
   <string name="express_detailed_address">Adreça</string>
   <string name="express_field_empty">Buit</string>
   <string name="express_go_back">Enrere</string>
+  <string name="express_goods_detail">Detall de mercaderies</string>
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Companyia de lliurament</string>
   <string name="express_inquiry">Seguiment</string>
@@ -146,7 +148,12 @@ Comproveu el número de seguiment."</string>
   <string name="express_inquiry_trace_user_notice_content">"Us avisarem quan l'estat de la vostra comanda canviï."</string>
   <string name="express_inquiry_untrace">"No facis cap seguiment"</string>
   <string name="express_inquiry_untrace_success">S\'ha aturat el seguiment</string>
+  <string name="express_install_cainiao_description_1">La comprovació del detall de les mercaderies necessita descarregar l\'aplicació Cainiao, voleu baixar-la?</string>
+  <string name="express_install_cainiao_description_3">Hi ha més serveis necessiten baixar l\'aplicació Cainiao, voleu baixar-la?</string>
+  <string name="express_install_cainiao_ok">Baixa</string>
+  <string name="express_install_cainiao_title">Instal·la l\'aplicació Cainiao</string>
   <string name="express_location_failed">"No se us ha pogut ubicar. Introduïu la vostra adreça."</string>
+  <string name="express_more_service">Més serveis</string>
   <string name="express_no_address">Buit</string>
   <string name="express_no_order">No hi ha cap comanda</string>
   <string name="express_no_order_info">No hi ha informació de la comanda</string>
@@ -185,6 +192,11 @@ Comproveu el número de seguiment."</string>
   <string name="express_sender_info">Informació del remitent</string>
   <string name="express_sender_name">Nom del remitent</string>
   <string name="express_sender_region">"Regió del remitent"</string>
+  <string name="express_setting_authorized_number">Número autoritzat</string>
+  <string name="express_setting_authorized_number_add">Afegeix</string>
+  <string name="express_setting_authorized_number_delete">Elimina</string>
+  <string name="express_setting_authorized_number_description">Política de privacitat: el número de telèfon autoritzat només s\'utilitza per al seguiment exprés de Cainiao, no per a altres finalitats.</string>
+  <string name="express_setting_authorized_number_empty">Cap número autoritzat</string>
   <string name="express_shortcut_name">Consulta o enviament exprés</string>
   <string name="express_show_all_inquiry_history">Mostra tot l\'historial de consultes</string>
   <string name="express_submit_order">Confirma</string>
@@ -272,7 +284,7 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_account_need_activate">El vostre compte Weibo s\'hauria de vincular amb el vostre compte MI per poder compartir. Activeu primer el vostre compte Mi.</string>
   <string name="miuishare_account_need_login">El vostre compte Weibo s\'hauria de vincular amb el vostre compte MI per poder compartir. Inicieu primer el vostre compte Mi.</string>
   <string name="miuishare_app_name">MIUI Share</string>
-  <string name="miuishare_no_network">No s\'ha pogut connectar a la xarxa</string>
+  <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">S\'ha enviat correctament</string>

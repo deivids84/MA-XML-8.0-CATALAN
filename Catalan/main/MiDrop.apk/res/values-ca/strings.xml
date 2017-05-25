@@ -54,7 +54,7 @@
   <string name="receiver_succeed_ok">D\'acord</string>
   <string name="receiver_succeed_view">Mostra el fitxer</string>
   <string name="receiver_transfer_interrupt">"Transferència interrompuda, no apaguis el punt d'accés Wi-Fi durant la transferència"</string>
-  <string name="runtime_permission_ungranted">"No es pot utilitzar Mi Drop per manca de permisos"</string>
+  <string name="runtime_permission_ungranted">No es pot utilitzar Mi Drop per manca de permisos</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"No enviar"</string>

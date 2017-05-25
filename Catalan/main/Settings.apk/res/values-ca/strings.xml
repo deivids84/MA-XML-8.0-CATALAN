@@ -3061,6 +3061,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
   <string name="remove_account_label">Suprimeix el compte</string>
   <string name="remove_and_uninstall_device_admin">Desactiva i desinstal·la</string>
+  <string name="remove_continue">Desinstal·la</string>
   <string name="remove_device_admin">Desactiva</string>
   <string name="remove_from_frequently_fragment">Voleu esborrar %s de la configuració ràpida?</string>
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
@@ -3232,7 +3233,6 @@ Per fer-ho:
   <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pattern">Demana el patró de desbloqueig per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pin">Demana el codi PIN per anul·lar el fixat</string>
-  <string name="screen_recorder">Enregistrador de pantalla</string>
   <string name="screen_resolution_dialog_title">Canvia la resolució</string>
   <string name="screen_resolution_high_format">Alta (%1$s)</string>
   <string name="screen_resolution_normal_format">Normal (%1$s)</string>
@@ -4205,6 +4205,8 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="uninstall_device_admin">Desinstal·la l\'aplicació</string>
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dlg_title">Voleu desinstal·lar-ho?</string>
+  <string name="uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema pot impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
+  <string name="uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="uninstall_text">Desinstal·la</string>
   <string name="uninstall_wifi_master_key">Desinstal·la la clau mestra de la Wi-Fi</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>

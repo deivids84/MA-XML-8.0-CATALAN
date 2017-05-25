@@ -23,6 +23,7 @@
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
+  <string name="alert_detail_title">Detalls de l\'alerta</string>
   <string name="alert_warning">Alertes meteorològiques</string>
   <string name="already_voted">Ja heu votat</string>
   <string name="already_voted_toast">"Avui ja l'heu seleccionat"</string>
@@ -70,6 +71,7 @@
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
+  <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
   <string name="commercial">Publicitat</string>
   <string name="common_loading_text">Un moment&#8230;</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
