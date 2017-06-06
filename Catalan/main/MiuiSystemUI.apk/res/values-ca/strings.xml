@@ -352,7 +352,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_low_battery_action_btn">Activa</string>
-  <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el dispositiu.</string>
+  <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el vostre dispositiu.</string>
   <string name="notification_low_battery_open_save_mode">Activa l\'estalvi de bateria</string>
   <string name="notification_low_battery_title">Bateria baixa: %d%%</string>
   <string name="notification_manager">Gestiona les notificacions</string>
@@ -595,7 +595,7 @@ d MMMM"</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vpn_text">Toqui per veure ajustos.</string>
-  <string name="vpn_text_long">Connectat a %s. Premi per veure detalls.</string>
+  <string name="vpn_text_long">Connectat a %s. Premeu per veure els detalls.</string>
   <string name="vpn_title">VPN activat</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
@@ -608,9 +608,9 @@ d MMMM"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permet/No permetis cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
   <string name="wifi_disabled_generic">Desactivat</string>
-  <string name="wifi_disabled_network_failure">Ha fallat la configuració d\'IP</string>
+  <string name="wifi_disabled_network_failure">"Ha fallat la configuració d'IP"</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
+  <string name="wifi_disabled_wifi_failure">"Error de connexió WiFi"</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>

@@ -34,7 +34,7 @@
   <string name="intro_page3_choose_midrop">Tria \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Els fitxers s\'enviaran immediatament!</string>
   <string name="newText">Nou text</string>
-  <string name="notif_receive_lockscreen">Tocar per veure detalls</string>
+  <string name="notif_receive_lockscreen">Premeu per veure els detalls.</string>
   <string name="notif_send_cancel">Transferència a %1$s interrompuda</string>
   <string name="notif_send_progress">Enviant fitxer(s) a %1$s&#8230;</string>
   <string name="notif_send_success">Enviat(s) a %1$s</string>

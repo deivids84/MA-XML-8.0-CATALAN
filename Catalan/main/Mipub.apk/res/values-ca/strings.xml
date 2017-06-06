@@ -239,7 +239,7 @@
   <string name="view_hms_attachment_fail">"No s'ha pogut baixar la imatge"</string>
   <string name="view_hms_details">Detalls</string>
   <string name="view_hms_details_download">Baixa</string>
-  <string name="view_message_details">Veure els detalls</string>
+  <string name="view_message_details">Mostra els detalls</string>
   <string name="xiaomi_service_number">Número de servei</string>
   <string name="yes">D’acord</string>
 </resources>

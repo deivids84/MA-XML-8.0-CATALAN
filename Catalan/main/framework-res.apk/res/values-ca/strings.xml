@@ -161,9 +161,9 @@ Voleu tancar-lo?»"</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
   <string name="badPuk">"El codi PUK que heu introduït no és correcte."</string>
-  <string name="battery_saver_description">«Per ajudar a millorar la vida de la bateria, l\'economitzador de bateria redueix el rendiment del dispositiu i limita les vibracions, els serveis de localització, i la majoria de les dades de fons. Correu electrònic, missatgeria i altres aplicacions que es basen en la sincronització no es pot actualitzar a menys que les obriu.
+  <string name="battery_saver_description">«Per ajudar a ampliar la durada de la bateria, l\'estalvi de bateria redueix el funcionament del dispositiu i limita la vibració, el servei de localització i la majoria de les dades de fons. El correu electrònic, la missatgeria i les altres aplicacions que utilitzen la sincronització podrien no actualitzar-se fins que les obriu.
 
-Economitzador de bateria s\'apaga automàticament quan el dispositiu s\'està carregant.»</string>
+L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carregant.»</string>
   <string name="beforeOneMonthDurationPast">Fa més d\'un mes</string>
   <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
   <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del vostre dispositiu i s\'enviarà per correu. Passaran uns minuts des que comenci a generar-se l\'informe d\'errors fins que s\'enviï, per la qual cosa et recomanem que tingueu paciència.</string>

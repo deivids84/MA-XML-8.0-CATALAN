@@ -719,8 +719,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="send_comment_title">Comentari</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
-  <string name="share_image_text">"Estic gaudint d'una imatge molt meravellosa"</string>
-  <string name="share_page_text">"Estic gaudint 【%1$s】 | %2$s"</string>
+  <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
+  <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Per rebre recomanacions pertinents, permeteu al navegador accedir a aquests elements:</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
@@ -864,7 +864,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="view_certificate">Mostra el certificat</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
   <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
-  <string name="voice_connect_network">No es pot connectar a la xarxa</string>
+  <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>

@@ -45,12 +45,12 @@
   <string name="keyguard_charging_info_could_use_min_time_text">Resten %dmin</string>
   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Resten %dh %dmin</string>
   <string name="keyguard_charging_info_current_now_text">Monitor en temps real</string>
-  <string name="keyguard_charging_info_drained_power_percent_text">Drenat</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
   <string name="keyguard_charging_info_finished_charging_text">Càrrega completa</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Avui %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Ahir %s</string>
-  <string name="keyguard_charging_info_last_charged_time_text">Última càrrega</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Darrera càrrega</string>
   <string name="keyguard_charging_info_tip_text1">Mantengueu el dispositiu com a mínim un 10% carregat tot el temps per perllongar la durada de la bateria.</string>
   <string name="keyguard_charging_info_tip_text2">"No sobrecarregueu el dispositiu. Múltiples càrregues breus són millors que una càrrega durant la nit."</string>
   <string name="keyguard_charging_info_tip_text3">Eviteu carregar el dispositiu quan la temperatura ambient és inferior a 0 ℃.</string>
@@ -95,7 +95,6 @@ Inicieu sessió a i.mi.com, aneu a \"Troba el dispositiu\", seleccioneu el dispo
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
-  <string name="unlockscreen_quick_charging_message">Càrrega ràpida %d%%</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">S\'està carregant %d%%</string>
   <string name="wrong_password">Contrasenya incorrecta</string>

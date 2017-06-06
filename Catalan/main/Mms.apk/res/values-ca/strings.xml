@@ -193,7 +193,6 @@
   <string name="has_invalid_recipient">Destinataris no vàlids: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Adreça d\'emissor oculta</string>
   <string name="hint_search_sms">%d missatges</string>
-  <string name="hms_uri_param_err">"La URL no pot estar buida"</string>
   <string name="hold_to_talk">Mantingueu premut per parlar</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
   <string name="hybrid_data_error">S\'ha produït un error</string>

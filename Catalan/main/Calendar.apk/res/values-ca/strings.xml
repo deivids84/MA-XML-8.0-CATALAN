@@ -77,7 +77,7 @@
   <string name="card_detail_dialog_positive">立即订阅</string>
   <string name="card_detail_dialog_title">是否订阅</string>
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
-  <string name="card_detail_title">Detalls de la subscripció</string>
+  <string name="card_detail_title">Detalls</string>
   <string name="card_manager">Administrador de targeta</string>
   <string name="card_title_change">Canvia el títol de la targeta</string>
   <string name="change_response_title">Canvia la resposta</string>

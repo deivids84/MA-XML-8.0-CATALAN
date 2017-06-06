@@ -10,8 +10,8 @@
     <item quantity="one">%d coincidència</item>
   </plurals>
   <plurals name="last_num_days">
-    <item quantity="one">Darrer dia</item>
     <item quantity="other">Darrers %d dies</item>
+    <item quantity="one">Darrer dia</item>
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d de %2$d</item>

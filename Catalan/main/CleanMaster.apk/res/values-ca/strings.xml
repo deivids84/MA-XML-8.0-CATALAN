@@ -211,12 +211,6 @@
   <string name="hints_garbage_handle_item_content">%1$d elements, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Buit</string>
   <string name="hints_header_left">%d</string>
-  <string name="hints_install_apps_else">Utilitzat %s</string>
-  <string name="hints_install_apps_interval">Utilitzat fa %d dies</string>
-  <string name="hints_install_apps_new">Mai s\'ha obert</string>
-  <string name="hints_install_apps_risk">S\'ha detectat un risc</string>
-  <string name="hints_install_apps_today">Utilitzat avui</string>
-  <string name="hints_install_apps_virus">Virus detectat</string>
   <string name="hints_installed_app_fewer">Poc usada</string>
   <string name="hints_installed_app_near">Utilitzada recentment</string>
   <string name="hints_installed_app_never">No s\'ha utilitzat mai</string>

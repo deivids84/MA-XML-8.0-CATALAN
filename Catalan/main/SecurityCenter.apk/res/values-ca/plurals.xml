@@ -113,6 +113,26 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%1$d vistes</item>
     <item quantity="one">%1$d vista</item>
   </plurals>
+  <plurals name="sp_settings_exception_count">
+    <item quantity="other">%d elements</item>
+    <item quantity="one">Un element</item>
+  </plurals>
+  <plurals name="sp_back_title_text">
+    <item quantity="other">%s riscos de pagament</item>
+    <item quantity="one">%s risc de pagament</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_count">
+    <item quantity="other">%s aplicacions de pagament estan protegides</item>
+    <item quantity="one">%s aplicació de pagament està protegida</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_enable">
+    <item quantity="other">%s aplicacions estan protegides</item>
+    <item quantity="one">%s aplicació està protegida</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_disable">
+    <item quantity="other">"%s aplicacions no estan protegides"</item>
+    <item quantity="one">"%s aplicació no està protegida"</item>
+  </plurals>
   <plurals name="system_check_content">
     <item quantity="other">%1$d elements segurs</item>
     <item quantity="one">%1$d element segur</item>
@@ -192,26 +212,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="found_apps_title">
     <item quantity="other">%d aplicacions trobades</item>
     <item quantity="one">%d aplicació trobada</item>
-  </plurals>
-  <plurals name="sp_settings_exception_count">
-    <item quantity="other">%d elements</item>
-    <item quantity="one">Un element</item>
-  </plurals>
-  <plurals name="sp_back_title_text">
-    <item quantity="other">%s riscos de pagament</item>
-    <item quantity="one">%s risc de pagament</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_count">
-    <item quantity="other">%s aplicacions de pagament estan protegides</item>
-    <item quantity="one">%s aplicació de pagament està protegida</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_list_group_enable">
-    <item quantity="other">%s aplicacions estan protegides</item>
-    <item quantity="one">%s aplicació està protegida</item>
-  </plurals>
-  <plurals name="sp_monitored_apps_list_group_disable">
-    <item quantity="other">"%s aplicacions no estan protegides"</item>
-    <item quantity="one">"%s aplicació no està protegida"</item>
   </plurals>
   <plurals name="section_clear_acc_item_right_tips">
     <item quantity="other">S\'esperen %d aplicacions bloquejades per ser netejades</item>

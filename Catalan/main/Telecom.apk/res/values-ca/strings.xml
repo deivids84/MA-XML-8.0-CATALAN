@@ -189,7 +189,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
-  <string name="incoming_call_failed_low_battery">A causa de la bateria baixa ha fallat la trucada entrant.</string>
+  <string name="incoming_call_failed_low_battery">La trucada entrant ha fallat pel baix nivell de la bateria.</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
   <string name="launch_defaults_none">No s\'han establert els predeterminats</string>

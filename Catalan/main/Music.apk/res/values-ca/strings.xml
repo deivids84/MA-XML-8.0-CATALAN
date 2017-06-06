@@ -117,7 +117,7 @@
   <string name="choose_stream_quality">Trieu la qualitat de la transmissió</string>
   <string name="click_modify">Premeu per editar la lletra.</string>
   <string name="click_to_shuffle">Toqueu per barrejar-les totes</string>
-  <string name="click_to_view_new_local_audios">Toqueu per veure els detalls.</string>
+  <string name="click_to_view_new_local_audios">Premeu per veure els detalls.</string>
   <string name="close_music_time">"Temps restant: "</string>
   <string name="cloud_empty_local_empty_button">No hi ha cançons en aquest dispositiu</string>
   <string name="cloud_empty_message">No hi ha cançons al Mi Cloud</string>
@@ -667,7 +667,7 @@
   <string name="price">"Preu: "</string>
   <string name="priority_storage">Utilitza la targeta SD externa</string>
   <string name="priority_storage_summary">Baixa automàticament a la targeta SD externa si està disponible</string>
-  <string name="privacy_notif_content">Toqueu per veure els detalls.</string>
+  <string name="privacy_notif_content">Premeu per veure els detalls.</string>
   <string name="privacy_notif_title">L\'accelerador de baixades Xunlei està activat</string>
   <string name="privacy_tip_cancel">Cancel·la</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'Accelerador Xunlei per augmentar la velocitat de descàrrega? La URL del node de baixada es pujarà al servidor de Xunlei. Els detalls del vostre Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>

@@ -201,7 +201,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="share_update">Comparteix la informació de l\'actualització</string>
   <string name="share_update_content_sign">"He actualitzat MIUI a %1$s! He estat la %2$s persona en actualitzar. Per veure el registre de canvis aneu a %3$s"</string>
   <string name="share_update_content_unsign">"He actualitzat MIUI a %1$s! Per veure el registre de canvis detallat aneu a %2$s"</string>
-  <string name="sina_share_fail">No s\'ha pogut enviar</string>
+  <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No s'ha pogut compartir, el contingut ja existeix…"</string>
   <string name="sina_share_pendding">S\'està enviant&#8230;</string>
   <string name="sina_share_success">S\'ha enviat</string>
@@ -219,7 +219,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="submit_progress">S\'està enviant&#8230;</string>
   <string name="submit_success">S\'ha enviat</string>
   <string name="test">Prova</string>
-  <string name="timer_title">El dispositiu es reiniciarà d\'aquí %d segons.</string>
   <string name="title_toast_auto">Les actualitzacions es baixaran automàticament</string>
   <string name="toast_delay_update_tonight">El dispositiu s\'actualitzarà entre les 2:00 i les 5:00 de la matinada</string>
   <string name="top_secret_build">Alt secret</string>

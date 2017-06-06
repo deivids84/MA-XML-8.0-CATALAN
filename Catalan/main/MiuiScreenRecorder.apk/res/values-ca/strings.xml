@@ -5,7 +5,7 @@
   <string name="app_name">Enregistrador de pantalla</string>
   <string name="app_notification_title">Enregistrador de pantalla</string>
   <string name="auto_stop_title">El vídeo s\'ha desat correctament</string>
-  <string name="battery_not_allowed" formatted="false">"No podeu enregistrar la pantalla quan la bateria restant és menys del 3%%, es recomana carregar-la més del 20%%."</string>
+  <string name="battery_not_allowed" formatted="false">"No es poden fer enregistraments quan queda menys del 3%% de la bateria. Carregueu-la un mínim del 20%%."</string>
   <string name="bit_rate">Qualitat del vídeo</string>
   <string name="bit_rate_summary">Una major qualitat significa un fitxer més gran</string>
   <string name="bubble_text">Toqueu per iniciar l\'enregistrament</string>
@@ -31,7 +31,7 @@
   <string name="loopback_sound">So de bucle invertit</string>
   <string name="low_battery">Carregueu el telèfon abans d\'iniciar l\'enregistrament</string>
   <string name="low_battery_title">Bateria baixa</string>
-  <string name="low_battery_warning">Resta molt poca bateria. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
+  <string name="low_battery_warning">La bateria està casi buida. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
   <string name="low_memory">Us resten menys de 200 Mb d\'emmagatzematge disponible. Podeu enregistrar fins a 5 minuts.</string>
   <string name="low_memory_title">No hi ha prou espai</string>
   <string name="low_momery_warning">No hi ha prou espai. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>

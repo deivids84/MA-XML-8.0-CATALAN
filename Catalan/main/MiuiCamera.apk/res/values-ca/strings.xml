@@ -385,7 +385,7 @@
   <string name="preparing_sd">Preparant emmagatzematge intern&#8230;</string>
   <string name="record_back_pressed_hint">Toqui una altra vegada per aturar la gravació </string>
   <string name="search_settings">Configuració de la càmera;Qualitat;Qualitat d\'imatge;Ubicació de la imatge;Ubicació de la fotografia;Detecció de cares;So de la càmera</string>
-  <string name="see_qrcode_detals">Mostra els detalls</string>
+  <string name="see_qrcode_detals">Mostra els detalls del codi QR</string>
   <string name="simple_mode_button_asd_flash">Tanca la captura flash</string>
   <string name="simple_mode_button_asd_hdr">Tancar captura HDR</string>
   <string name="simple_mode_button_text_audio_capture">Desactiva el disparador per veu</string>

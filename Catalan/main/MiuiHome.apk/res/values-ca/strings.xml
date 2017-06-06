@@ -61,7 +61,6 @@
   <string name="delete">Elimina</string>
   <string name="delete_screen">Elimina la pantalla</string>
   <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
-  <string name="delete_wallpapers_message">Voleu eliminar %1$d fons de pantalla?</string>
   <string name="deselect_all">Anul·la tota la selecció</string>
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
@@ -71,7 +70,6 @@
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
   <string name="editing_add_widget_tips">Editeu els ginys</string>
   <string name="editing_mode_enter_tip_text">Pessigueu per editar la pantalla d\'inici</string>
-  <string name="editing_mode_title">%1$d seleccionat</string>
   <string name="editing_mode_title_empty">0 seleccionats</string>
   <string name="editing_set_screen_layout_cells">Seleccioneu la presentació de l\'estructura de la pantalla</string>
   <string name="editing_set_transition_effect_tips">Trieu l\'efecte de transició de pantalla</string>
@@ -214,7 +212,6 @@
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
   <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>
   <string name="screen_number">Pantalla %d</string>
-  <string name="scroll_tip_format_when_announce_accessibility">pàgina %1$d, %2$d aplicacions</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_frame">Marc</string>
   <string name="select_photo">Foto</string>
@@ -249,12 +246,8 @@
   <string name="uninstall">Desinstal·la</string>
   <string name="uninstall_dialog_message">S\'eliminaran totes les dades de l\'aplicació.</string>
   <string name="uninstall_dialog_title_format">Voleu desinstal·lar %s?</string>
-  <string name="uninstall_dialog_title_multi_format" formatted="false">Voleu desinstal·lar %s i les altres %d aplicacions?</string>
   <string name="uninstall_result_failed">"No es pot desinstal·lar %s"</string>
-  <string name="uninstall_result_multi_succeeded">%1$d aplicacions desinstal·lades</string>
-  <string name="uninstall_result_other_failed" formatted="false">"No es pot desinstal·lar %s ni les altres %d aplicacions"</string>
   <string name="uninstall_result_succeeded">Aplicació desinstal·lada</string>
-  <string name="uninstall_result_two_failed">"No es pot desinstal·lar %s ni una altra aplicació"</string>
   <string name="uninstall_with_xspace_dialog_message">S\'eliminaran les aplicacions duplicades corresponents juntament amb les dades d\'aplicació.</string>
   <string name="uninstall_xspace_dialog_message">Si desinstal·leu l\'aplicació duplicada s\'eliminaran totes les dades d\'aplicació.</string>
   <string name="uninstall_xspace_dialog_title_format">Desinstal·lació de l\'aplicació duplicada \"%s\"</string>

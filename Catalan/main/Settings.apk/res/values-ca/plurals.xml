@@ -145,9 +145,29 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
     <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
   </plurals>
+  <plurals name="virus_scan_app_find_risk">
+    <item quantity="other">S\'han trobat %d riscos</item>
+    <item quantity="one">S\'ha trobat %d risc</item>
+  </plurals>
+  <plurals name="auto_startup_count">
+    <item quantity="other">%d aplicacions tenen autorització d\'inici automàtic</item>
+    <item quantity="one">%d aplicació te autorització d\'inici automàtic</item>
+  </plurals>
+  <plurals name="lockpassword_pin_fixed_length">
+    <item quantity="other">El PIN ha de tenir %d dígits</item>
+    <item quantity="one">El PIN ha de tenir %d dígit</item>
+  </plurals>
+  <plurals name="wifi_share_count">
+    <item quantity="other">S\'han compartit %d xarxes</item>
+    <item quantity="one">S\'ha compartit %d xarxa</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositius</item>
     <item quantity="one">%d dispositiu</item>
+  </plurals>
+  <plurals name="free_wifi_connected_count">
+    <item quantity="other">%1$d usuaris connectats</item>
+    <item quantity="one">%1$d usuari connectat</item>
   </plurals>
   <plurals name="show_pho_countdown">
     <item quantity="other">"Sou a %1$d passos d'entrar a la informació del telèfon."</item>

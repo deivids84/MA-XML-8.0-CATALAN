@@ -42,7 +42,6 @@
   <string name="adjust_saturation">Saturació</string>
   <string name="adjust_sharpen">Nitidesa</string>
   <string name="adjust_vignette">Vinyeta</string>
-  <string name="album_already_exists">Ja existeix un àlbum amb el mateix nom</string>
   <string name="album_already_forced_top">Ja està fixat</string>
   <string name="album_camera_name">Càmera</string>
   <string name="album_detail_clear_local_page_empty">No hi ha còpies de seguretat de fotos o vídeos per eliminar</string>
@@ -129,7 +128,7 @@
   <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu buscar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
   <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_battery_low_desc">Encara podeu optar por continuar copiant elements</string>
-  <string name="backup_battery_low_title">Copia de seguretat pausada a causa de la bateria baixa</string>
+  <string name="backup_battery_low_title">Còpia de seguretat pausada pel baix nivell de la bateria</string>
   <string name="backup_close">Tanca la còpia de seguretat</string>
   <string name="backup_cloud_space_low_btn_text">Obtén més</string>
   <string name="backup_cloud_space_low_desc">%1$s al Mi Cloud | Disponible %2$s</string>
@@ -954,7 +953,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_full_format">Podeu seleccionar fins a %d fotos</string>
   <string name="picker_image_need_download">"%d de les fotos seleccionades no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_image_will_download">"%d de les fotos seleccionades no són al dispositiu. Es baixaran."</string>
-  <string name="picker_mobile_data_video">"No es poden baixar vídeos utilitzant les dades mòbils. S'ha omès %d."</string>
   <string name="picker_no_network_message">Connecteu a la xarxa per baixar</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$dMB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_title_format">Podeu seleccionar %d fotos</string>

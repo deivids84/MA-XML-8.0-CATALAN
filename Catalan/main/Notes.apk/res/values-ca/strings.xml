@@ -116,7 +116,7 @@
   <string name="search_path_notes">Aplicacions del sistema/Notes</string>
   <string name="search_setting_description">Escrigui les seves notes</string>
   <string name="select_account_prompt">Sincronitzar notes</string>
-  <string name="sina_share_fail">No s\'ha pogut enviar</string>
+  <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No s'ha pogut compartir. El contingut ja existeix…\""</string>
   <string name="sina_share_pendding">Enviant&#8230;</string>
   <string name="sina_share_success">Enviada</string>

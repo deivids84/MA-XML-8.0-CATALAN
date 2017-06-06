@@ -255,8 +255,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arribi al %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quan la bateria es carregui fins al %s</string>
   <string name="auto_handle_title">GENERAL</string>
-  <string name="auto_task_condition_choose_battery_level_down">Quan la bateria arribi a un cert nivell</string>
-  <string name="auto_task_condition_choose_battery_level_up">Quan la bateria es carrega fins a un cert nivell</string>
+  <string name="auto_task_condition_choose_battery_level_down">Quan la bateria assoleixi un nivell determinat</string>
+  <string name="auto_task_condition_choose_battery_level_up">Quan la bateria estigui carregada a un nivell determinat</string>
   <string name="auto_task_condition_choose_end_time">Hora de finalització</string>
   <string name="auto_task_condition_choose_ontime">Temporitzador</string>
   <string name="auto_task_condition_choose_start_time">Hora d\'inici</string>
@@ -322,21 +322,21 @@ o introdueixi la seva contrasenya"</string>
   <string name="battery_charge_estimating">Calculant&#8230;</string>
   <string name="battery_charge_full">Carregat</string>
   <string name="battery_charging_prompt">S\'està carregant </string>
-  <string name="battery_desc_apps">Bateria usada per aplicacions</string>
-  <string name="battery_desc_bluetooth">Bateria usada per Bluetooth</string>
-  <string name="battery_desc_display">Bateria usada per pantalla i retroiluminació </string>
+  <string name="battery_desc_apps">Bateria utilitzada per les aplicacions</string>
+  <string name="battery_desc_bluetooth">Bateria utilitzada pel Bluetooth</string>
+  <string name="battery_desc_display">Bateria utilitzada per la pantalla i la retroil·luminació</string>
   <string name="battery_desc_other_apps">Energia consumida per altres aplicacions</string>
-  <string name="battery_desc_radio">Bateria usada pel telèfon</string>
-  <string name="battery_desc_standby">Bateria usada per telèfon inactiu</string>
-  <string name="battery_desc_voice">Bateria usada per trucades de veu</string>
-  <string name="battery_desc_wifi">Bateria usada per Wi-Fi</string>
+  <string name="battery_desc_radio">Bateria utilitzada per la ràdio</string>
+  <string name="battery_desc_standby">Bateria utilitzada quan el telèfon està inactiu</string>
+  <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
+  <string name="battery_desc_wifi">Bateria utilitzada pel Wi-Fi</string>
   <string name="battery_estimate_charge_time_title">Temps de càrrega</string>
   <string name="battery_estimate_usage_time_title">Temps d\'ús</string>
   <string name="battery_health_left_battery_text">Bateria restant</string>
   <string name="battery_health_status_text">Estat de la bateria</string>
   <string name="battery_health_temperature_text">Temperatura de la bateria</string>
   <string name="battery_health_title_text">Estat de la bateria</string>
-  <string name="battery_health_voltage_text">Tensió de la bateria</string>
+  <string name="battery_health_voltage_text">Voltatge de la bateria</string>
   <string name="battery_history_activity_title">Historial</string>
   <string name="battery_history_column_percent">Càrrega dinàmica</string>
   <string name="battery_history_column_time">Temps</string>
@@ -350,7 +350,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_stats_charging_label">Endollat</string>
   <string name="battery_stats_gps_on_label">GPS actiu</string>
-  <string name="battery_stats_on_battery">%1$s de bateria</string>
+  <string name="battery_stats_on_battery">Bateria al %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla encesa</string>
   <string name="battery_stats_wake_lock_label">Despertar</string>
@@ -441,7 +441,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="buy_immediately">Compra</string>
   <string name="buy_traffic_pack">Compra més dades</string>
   <string name="byteShort">B</string>
-  <string name="cache_header_title">Elimina %1$d fitxers escorcollats per alliberar %2$s d\'espai</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
   <string name="call_delete_title">Elimina la trucada</string>
@@ -542,7 +541,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
   <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
   <string name="data_usage_disabled_dialog_enable">Activa les dades</string>
-  <string name="data_usage_leisure_warning_body">Toqui per veure detalls de l\'ús de dades.</string>
+  <string name="data_usage_leisure_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
@@ -551,8 +550,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
   <string name="data_usage_restricted_body">Premeu per activar les dades en segon pla.</string>
   <string name="data_usage_restricted_title">Dades en segon pla restringides</string>
-  <string name="data_usage_warning_body">Toqui per veure detalls sobre ús de dades.</string>
-  <string name="data_usage_warning_body_notify">Toqueu per veure els detalls</string>
+  <string name="data_usage_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
+  <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title">Alerta d\'ús de dades</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
@@ -656,10 +655,8 @@ o introdueixi la seva contrasenya"</string>
   <string name="enable_network">Activa xarxa primer</string>
   <string name="every_day">Cada dia</string>
   <string name="examination_score_100">Tot sembla correcte!</string>
-  <string name="examination_score_100_with_recommend">%d elements es poden optimitzar</string>
   <string name="examination_score_60_0">Analitza-ho ara</string>
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
-  <string name="examination_score_80_100_with_recommend">%d elements es poden optimitzar</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
@@ -829,8 +826,6 @@ o introdueixi la seva contrasenya"</string>
   <string name="last_check_date_today">"Escanejat avui "</string>
   <string name="last_check_date_yesterday">"Escanejat ahir "</string>
   <string name="last_check_never_checked">Escanejar ara</string>
-  <string name="last_checked_date2">Escanejat fa %d dies</string>
-  <string name="last_checked_default">Escanejat fa %d dies</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
@@ -930,7 +925,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="manual_input_traffic">Establir ús de dades</string>
   <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
   <string name="manual_item_white_list_title">Excepcions</string>
-  <string name="manual_white_list_header">%d excepcions</string>
   <string name="mark_agent">Bloqueja les agències notificades</string>
   <string name="mark_agent_block">Notificat com a agència</string>
   <string name="mark_agent_block_large">Agències</string>
@@ -1089,8 +1083,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="note_keyword_none">Sense paraules clau</string>
   <string name="note_list_none">La llista és buida</string>
   <string name="note_sms_none">Sense missatges</string>
-  <string name="notification_battery_consume_abnormal_summary">S\'ha consumit un %2$s de la bateria en els últims %1$d minuts</string>
-  <string name="notification_battery_consume_abnormal_title">La bateria està sent drenada massa ràpid</string>
+  <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
+  <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
   <string name="notification_battery_over_heat_summary">Trobeu què causa el sobreescalfament i refredeu el dispositiu.</string>
   <string name="notification_battery_over_heat_title">La temperatura actual és de %d℃</string>
   <string name="notification_charging_title">"S'està carregant "</string>
@@ -1101,10 +1095,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_mask_title">Amaga el contingut</string>
   <string name="notification_quick_charging_title">Càrrega ràpida</string>
   <string name="notification_subtitle">Tocar per activar</string>
-  <string name="notification_summary_cmcc_app_check">Toqui per veure els detalls.</string>
+  <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
   <string name="notification_sysapp_cracked_text">S\'ha modificat la versió actual de MIUI</string>
   <string name="notification_sysapp_cracked_title">S\'ha detectat un risc per a la seguretat</string>
-  <string name="notification_title_cmcc_app_check">%d dies des de l\'última comprovació</string>
   <string name="notification_title_firewall_blocked">Bloquejada</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
   <string name="notify_daily_limit_body">Tocar per establir el límit de dades.</string>
@@ -1533,7 +1526,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="seton_immediately">Activa</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
-  <string name="settings_battery_consume_abnormal_summary">Rebreu notificacions quan el consum de bateria sigui més alt que l\'habitual</string>
+  <string name="settings_battery_consume_abnormal_summary">Rep notificacions quan la bateria es descarregui ràpidament</string>
   <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
   <string name="settings_battery_over_heat_summary">Rebreu notificacions quan el dispositiu se sobreescalfi més del normal</string>
   <string name="settings_battery_over_heat_title">Notificacions de sobreescalfament</string>
@@ -1737,7 +1730,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
   <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Comprar dades per mantenir-se connectat."</string>
   <string name="summary_flow_purchase_beyond">"Ha excedit el límit mensual del seu pla de dades en %sMB"</string>
-  <string name="summary_flow_verify">"No s'han sincronitzat les estadístiques d'ús de dades amb el proveïdor de telefonia des de fa %d dies"</string>
   <string name="summary_flow_verify_failed">Ajust automàtic d\'ús de dades per evitar càrrecs addicionals</string>
   <string name="summary_garbage_clean">Esborra la memòria cau per alliberar espai</string>
   <string name="summary_garbage_lib">Utilitza les definicions més recents per eliminar spyware, adware i un altre programari no sol·licitat</string>
@@ -1772,7 +1764,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
   <string name="system_check_content_none">Segur</string>
-  <string name="system_header_title">Elimina %1$d processos per alliberar %2$s de memòria</string>
   <string name="system_info_remind">Afegeix bloquejos per evitar l\'accés no autoritzat a les seves aplicacions</string>
   <string name="tab_blacklist">Llista de bloqueig</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
@@ -1862,7 +1853,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="timeshow_m">%dm</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
-  <string name="tips_message">"Si no té clars els detalls del seu pla de dades pot veure'ls trucant al %2$s (%1$s)."</string>
+  <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
   <string name="tips_of_auto_launch_manage">Evita que aplicacions que es fan servir poc s\'iniciïn automàticament</string>
   <string name="tips_of_operators_set">Ajusteu automàticament les estadístiques d\'ús de dades</string>
@@ -1878,7 +1869,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_cloud_space_almost_full">Emmagatzematge en el núvol gairebé ple, pot ser que no es puguin sincronitzar alguns elements</string>
   <string name="title_cloud_space_full">Emmagatzematge en el núvol ple, no es poden sincronitzar les fotos</string>
   <string name="title_cmcc_app_check">"La verificació no ha estat completada"</string>
-  <string name="title_consume_power">Problemes de la bateria trobats</string>
   <string name="title_consume_power_rank">Ús de la bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_default_app">"%s MIUI no s'ha establert per defecte"</string>
@@ -1970,12 +1960,12 @@ Dades extres en ús"</string>
   <string name="traffic_correction_start_correction">"Connectant amb els servidors de l'operador…"</string>
   <string name="traffic_correction_start_correction_failed">"Ha fallat la sol·licitud, siusplau comproveu els paràmetres de l'operador"</string>
   <string name="traffic_correction_success">Ús de dades actualitzat</string>
-  <string name="traffic_correction_success_notify_message">Toca per veure els detalls.</string>
+  <string name="traffic_correction_success_notify_message">Premeu per veure els detalls.</string>
   <string name="traffic_limit_error_alert_body">La comptabilitat de la seva companyia mostra que vostè té %1$s restants aquest mes. Això és més dels %2$s límit que ha configurat manualment.</string>
   <string name="traffic_limit_error_alert_package">Dades restants inclouen dades que s\'han passat del mes anterior.</string>
   <string name="traffic_limit_error_alert_title">Recordatori límit de dades %s</string>
   <string name="traffic_none">Cap</string>
-  <string name="traffic_over_purchase_body">Toqui per veure els detalls.</string>
+  <string name="traffic_over_purchase_body">Premeu per veure els detalls.</string>
   <string name="traffic_over_purchase_link">"Ha arribat al límit d'ús del pla de dades mòbils.&lt;br/&gt;Si sobrepassa el límit d'ús del pla de dades mòbils, el seu operador podria cobrar despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Premi per recarregar el seu saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_over_purchase_title">Límit de dades excedit</string>
   <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
