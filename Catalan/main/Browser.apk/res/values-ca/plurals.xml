@@ -38,7 +38,7 @@
     <item quantity="one">Voleu eliminar un element de l\'historial?</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
-    <item quantity="other">Falten %d minuts</item>
-    <item quantity="one">Falta 1 minut</item>
+    <item quantity="other">Resten %d minuts</item>
+    <item quantity="one">Resta 1 minut</item>
   </plurals>
 </resources>

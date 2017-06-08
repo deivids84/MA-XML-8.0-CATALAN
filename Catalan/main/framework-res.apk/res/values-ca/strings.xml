@@ -342,7 +342,7 @@ amb %s»</string>
   <string name="ext_media_init_action">Configura</string>
   <string name="ext_media_missing_message">Torneu a inserir aquest dispositiu</string>
   <string name="ext_media_missing_title">%s falta</string>
-  <string name="ext_media_move_failure_message">Falten dades a la ubicació original</string>
+  <string name="ext_media_move_failure_message">Dades perdudes a la ubicació original</string>
   <string name="ext_media_move_failure_title">"No s'han pogut moure les dades"</string>
   <string name="ext_media_move_specific_title">S\'està movent %s</string>
   <string name="ext_media_move_success_message">Les dades es van moure a %s</string>

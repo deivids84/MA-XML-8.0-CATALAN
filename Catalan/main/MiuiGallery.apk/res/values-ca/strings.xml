@@ -42,6 +42,8 @@
   <string name="adjust_saturation">Saturació</string>
   <string name="adjust_sharpen">Nitidesa</string>
   <string name="adjust_vignette">Vinyeta</string>
+  <string name="album_already_exists_check">Comprova</string>
+  <string name="album_already_exists_msg">L\'àlbum \"%s\" ja existeix</string>
   <string name="album_already_forced_top">Ja està fixat</string>
   <string name="album_camera_name">Càmera</string>
   <string name="album_detail_clear_local_page_empty">No hi ha còpies de seguretat de fotos o vídeos per eliminar</string>

@@ -48,13 +48,13 @@
   <string name="birthday_event_description_day_after_tomorrow">Demà passat és</string>
   <string name="birthday_event_description_day_before_yesterday">Abans d\'ahir era</string>
   <string name="birthday_event_description_days_ago">Fa %1$s dies de</string>
-  <string name="birthday_event_description_days_later">Falten %1$s dies per</string>
+  <string name="birthday_event_description_days_later">Resten %1$d dies per</string>
   <string name="birthday_event_description_default">"%1$s de %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s és el %3$s %4$s %5$s de %2$s"</string>
   <string name="birthday_event_description_today">Avui és</string>
   <string name="birthday_event_description_tomorrow">Demà és</string>
   <string name="birthday_event_description_yesterday">Ahir va ser</string>
-  <string name="birthday_notification_text_days_later">Falten %1$s dies per %4$s (%5$s)</string>
+  <string name="birthday_notification_text_days_later">Resten %1$s dies per %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"No us oblideu de felicitar-lo."</string>
   <string name="birthday_notification_title_days_later">"Aviat serà el %2$s de %1$s."</string>
   <string name="birthday_notification_title_today">"%3$s de %1$s"</string>

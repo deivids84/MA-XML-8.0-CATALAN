@@ -6,7 +6,7 @@
     <item quantity="one">1 trucada enregistrada.</item>
   </plurals>
   <plurals name="livetalk_left_minute">
-    <item quantity="other">%d minuts restants</item>
-    <item quantity="one">%d minut restant</item>
+    <item quantity="other">Resten %d minuts</item>
+    <item quantity="one">Resta %d minut</item>
   </plurals>
 </resources>

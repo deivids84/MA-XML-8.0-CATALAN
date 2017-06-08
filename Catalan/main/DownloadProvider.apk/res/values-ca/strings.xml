@@ -19,7 +19,7 @@
   <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">A la cua</string>
-  <string name="download_remaining">En falten %s</string>
+  <string name="download_remaining">Resta %s</string>
   <string name="download_running">En progrés</string>
   <string name="download_running_percent">En progrés, %d%%</string>
   <string name="download_unknown_title">&lt;Sense títol&gt;</string>

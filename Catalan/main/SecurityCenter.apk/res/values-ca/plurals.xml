@@ -165,6 +165,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">"%d aplicacions no tenen accés root"</item>
     <item quantity="one">"%d aplicació no té accés root"</item>
   </plurals>
+  <plurals name="manual_white_list_header">
+    <item quantity="other">%d excepcions</item>
+    <item quantity="one">%d excepció</item>
+  </plurals>
   <plurals name="summary_app_update">
     <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
     <item quantity="one">Actualització disponible per %d aplicació.</item>

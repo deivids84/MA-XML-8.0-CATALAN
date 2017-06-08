@@ -13,6 +13,14 @@
     <item>Avi matern</item>
     <item>Àvia materna</item>
   </string-array>
+  <string-array name="sharer_relation_addressive">
+    <item>Pare</item>
+    <item>Mare</item>
+    <item>Avi patern</item>
+    <item>Àvia paterna</item>
+    <item>Avi matern</item>
+    <item>Àvia materna</item>
+  </string-array>
   <string-array name="relation_with_me">
     <item>Jo</item>
     <item>Fills</item>

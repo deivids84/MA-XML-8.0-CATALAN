@@ -7,7 +7,7 @@
   <string name="copy_failure_alert_content">"Aquests fitxers no s'han copiat: %1$s"</string>
   <string name="copy_notification_title">S\'estan copiant els fitxers</string>
   <string name="copy_preparing">S\'està preparant per copiar&#8230;</string>
-  <string name="copy_remaining">En falten %s</string>
+  <string name="copy_remaining">Falten %s</string>
   <string name="create_error">No s\'ha pogut crear la carpeta</string>
   <string name="drawer_close">Amaga l\'arbre de directoris</string>
   <string name="drawer_open">Mostra l\'arbre de carpetes</string>
