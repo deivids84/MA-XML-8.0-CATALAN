@@ -133,6 +133,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">"%s aplicacions no estan protegides"</item>
     <item quantity="one">"%s aplicació no està protegida"</item>
   </plurals>
+  <plurals name="scan_result_description">
+    <item quantity="other">resultat de l\'exploració: s\'han trobat %d riscos de pagament</item>
+    <item quantity="one">resultat de l\'exploració: s\'ha trobat %d risc de pagament</item>
+  </plurals>
   <plurals name="system_check_content">
     <item quantity="other">%1$d elements segurs</item>
     <item quantity="one">%1$d element segur</item>
@@ -169,9 +173,17 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%d excepcions</item>
     <item quantity="one">%d excepció</item>
   </plurals>
+  <plurals name="summary_flow_verify">
+    <item quantity="other">"No s'han sincronitzat les estadístiques d'ús de dades amb l'operadora des de fa %d dies"</item>
+    <item quantity="one">"No s'han sincronitzat les estadístiques d'ús de dades amb l'operadora des de fa %d dia"</item>
+  </plurals>
   <plurals name="summary_app_update">
     <item quantity="other">Actualitzacions disponibles per %d aplicacions.</item>
     <item quantity="one">Actualització disponible per %d aplicació.</item>
+  </plurals>
+  <plurals name="notification_title_cmcc_app_check">
+    <item quantity="other">%d dies des de l\'última comprovació</item>
+    <item quantity="one">%d dia des de l\'última comprovació</item>
   </plurals>
   <plurals name="hints_handle_item_text_risk_number">
     <item quantity="other">%d riscos,</item>

@@ -47,6 +47,7 @@
   <string name="dlg_unhide_message">S\'està mostrant&#8230;</string>
   <string name="done">Fet</string>
   <string name="edit_header_done_description">Fet</string>
+  <string name="edit_header_home_description">Enrere</string>
   <string name="enable_sync">Sincronització</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
@@ -70,7 +71,9 @@
   <string name="info_note_enter_desktop">Afegit a la pantalla d\'inici</string>
   <string name="loading_text">Un moment&#8230;</string>
   <string name="login_sync">Entrar i sincronitzar</string>
+  <string name="menu_add_description">Afegeix nota</string>
   <string name="menu_add_folder">Afegeix a la carpeta</string>
+  <string name="menu_add_folder_description">Afegeix carpeta</string>
   <string name="menu_create_folder">Carpeta nova</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_delete_forever">Elimina per sempre</string>
@@ -122,6 +125,7 @@
   <string name="search_path_notes">Aplicacions del sistema/Notes</string>
   <string name="search_setting_description">Escrigui les seves notes</string>
   <string name="select_account_prompt">Sincronitzar notes</string>
+  <string name="set_alarm_description">Estableix alarma</string>
   <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No s'ha pogut compartir. El contingut ja existeix…\""</string>
   <string name="sina_share_pendding">Enviant&#8230;</string>
@@ -146,6 +150,9 @@
   <string name="sns_toast_empty">"No es pot enviar un missatge buit"</string>
   <string name="sns_toast_over_limit">Enviat com a imatge (excedeix el límit com a text)</string>
   <string name="sync_tips">Toqueu per sincronitzar les notes amb Mi Cloud.</string>
+  <string name="theme_blue_description">Blau</string>
+  <string name="theme_green_description">Verd</string>
+  <string name="theme_red_description">Vermell</string>
   <string name="theme_title_antique">Tardor</string>
   <string name="theme_title_arty">Floral</string>
   <string name="theme_title_blue">Blau</string>
@@ -157,6 +164,8 @@
   <string name="theme_title_red">Vermell</string>
   <string name="theme_title_star">Estrelles</string>
   <string name="theme_title_yellow">Groc</string>
+  <string name="theme_white_description">Blanc</string>
+  <string name="theme_yellow_description">Groc</string>
   <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
   <string name="toast_notes_delete_success">S\'ha eliminat amb èxit</string>
   <string name="toast_notes_hidden">S\'ha ocultat amb èxit</string>
@@ -165,6 +174,14 @@
   <string name="toast_notes_unhidden_count">%1$s s\'ha mostrat amb èxit</string>
   <string name="toast_reach_text_limit_attachment">"No es pot adjuntar documents perquè la nota és massa llarga"</string>
   <string name="toast_reach_text_limit_truncate">Aquesta nota és massa llarga. S\'ha retallat text del final perquè hi càpiga.</string>
+  <string name="toolbar_check_description">Afegeix casella de selecció</string>
+  <string name="toolbar_delete_description">Elimina aquesta nota</string>
+  <string name="toolbar_gallery_description">Afegeix imatge</string>
+  <string name="toolbar_more_description">Més</string>
+  <string name="toolbar_redo_description">Refés</string>
+  <string name="toolbar_share_description">Comparteix aquesta nota</string>
+  <string name="toolbar_theme_description">Trieu un tema</string>
+  <string name="toolbar_undo_description">Desfés</string>
   <string name="trash_folder_name">Paperera</string>
   <string name="trash_folder_reminder">Les notes esborrades s\'eliminaran permanentment en 30 dies.</string>
   <string name="undo">Desfer</string>

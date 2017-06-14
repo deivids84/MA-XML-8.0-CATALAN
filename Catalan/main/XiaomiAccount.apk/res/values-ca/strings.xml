@@ -77,12 +77,14 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
   <string name="confirm_delete_app_message">"Després d'esborrar aquesta aplicació, si la torneu a instal·lar haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
   <string name="confirm_delete_browser_message">"Després de suprimir aquest navegador, si el torneu a instal·lar haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
   <string name="confirm_delete_device_message">"Després de suprimir aquest dispositiu, haureu de verificar el vostre número de telèfon el primer cop que hi inicieu la sessió al vostre compte de Mi."</string>
   <string name="confirm_phone_number_dialog_message">El codi de verificació s\'enviarà a: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirmeu el número de telèfon</string>
   <string name="confirm_unbind">Voleu desvincular aquest compte?</string>
+  <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està enllaçat al compte %2$s, Continua treballant amb %3$s desenllaçat. Voleu continuar?</string>
   <string name="continue_action">Continua</string>
   <string name="cta_declaration_agree_and_continue">D\'acord</string>
   <string name="cta_declaration_exit">Surt</string>
@@ -131,6 +133,7 @@
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
+  <string name="get_phone_bind_exceed_limit">El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
   <string name="input_email_address_notice">"Utilitzarem aquest e-mail per verificar el vostre compte"</string>

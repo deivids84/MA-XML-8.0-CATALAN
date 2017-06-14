@@ -280,11 +280,15 @@
   <string name="pref_camera_show_gender_age_entry_alias">Mostra l\'edat amb l\'embellidor activat</string>
   <string name="pref_camera_show_gender_age_entry_off">Apagat</string>
   <string name="pref_camera_show_gender_age_entry_on">Mostra l\'edat i el gènere amb l\'embellidor activat</string>
+  <string name="pref_camera_show_gender_age_label_alias">Edat</string>
+  <string name="pref_camera_show_gender_age_label_on">Edat i gènere</string>
   <string name="pref_camera_show_gender_age_title">Edat i gènere</string>
   <string name="pref_camera_snap_enable_title">Mode disparar ràpid</string>
   <string name="pref_camera_snap_entry_off">Desactivat</string>
   <string name="pref_camera_snap_entry_take_movie">Dispara vídeo</string>
   <string name="pref_camera_snap_entry_take_picture">Dispara foto</string>
+  <string name="pref_camera_snap_label_take_movie">Vídeo</string>
+  <string name="pref_camera_snap_label_take_picture">Foto</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode disparar ràpid mentre \"Activa amb els botons de volum\" estigui actiu."</string>
   <string name="pref_camera_snap_value_take_movie">Pel·lícula</string>
   <string name="pref_camera_snap_value_take_picture">Foto</string>
@@ -332,6 +336,7 @@
   <string name="pref_front_mirror_entry_auto">Quan es detecti la cara</string>
   <string name="pref_front_mirror_entry_off">Apagat</string>
   <string name="pref_front_mirror_entry_on">Activat</string>
+  <string name="pref_front_mirror_label_auto">Automàtic</string>
   <string name="pref_front_mirror_title">Càmera frontal mirall</string>
   <string name="pref_groupshot_with_primitive_title">Desa també les fotos originals</string>
   <string name="pref_manual_exposure_title">Temps d\'exposició</string>

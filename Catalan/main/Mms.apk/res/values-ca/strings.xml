@@ -192,7 +192,6 @@
   <string name="guild_msim_switcher">Toqueu per intercanviar les targetes SIM</string>
   <string name="has_invalid_recipient">Destinataris no vàlids: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Adreça d\'emissor oculta</string>
-  <string name="hint_search_sms">%d missatges</string>
   <string name="hold_to_talk">Mantingueu premut per parlar</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
   <string name="hybrid_data_error">S\'ha produït un error</string>
@@ -509,6 +508,7 @@
   <string name="select_local_video">Seleccioneu un vídeo</string>
   <string name="select_message_send_sim">Trieu la targeta SIM</string>
   <string name="select_recipient">Seleccioneu els destinataris</string>
+  <string name="select_sim">Seleccioneu una targeta SIM</string>
   <string name="select_top_text">Text en la part superior</string>
   <string name="send">Envia</string>
   <string name="send_message_dlg_check_hint">"No mostrar de nou"</string>
@@ -551,8 +551,11 @@
   <string name="sms_content">Contingut:</string>
   <string name="sms_full_body">"Missatge entrant rebutjat: no hi ha prou espai en aquest dispositiu."</string>
   <string name="sms_full_title">Memòria de missatges de text completa</string>
-  <string name="sms_rejected_body">Missatge entrant rebutjat.</string>
+  <string name="sms_rejected_body">Un missatge entrant s\'ha rebutjat.</string>
   <string name="sms_rejected_title">Missatge de text rebutjat</string>
+  <string name="sms_report_dialog_content">"No s'ha pogut enviar l'informe, torna-ho a provar."</string>
+  <string name="sms_report_dialog_retry">Torna-ho a provar</string>
+  <string name="sms_report_dialog_title">Torna-ho a provar</string>
   <string name="sms_report_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="sms_report_success">Informe enviat</string>
   <string name="snippet_audio">[àudio]</string>
@@ -588,6 +591,8 @@
   <string name="storage_unavailable">No hi ha espai disponible</string>
   <string name="subject_hint">Assumpte</string>
   <string name="subject_label">"Assumpte: "</string>
+  <string name="switch_to_editor">Mode d\'edició</string>
+  <string name="switch_to_menu">Mode de menú</string>
   <string name="text_in_popup_saved_to_clipboard">Copiat al porta-retalls</string>
   <string name="text_message">Missatge de text</string>
   <string name="timed_message_expired_title">"%d missatges programats no van ser enviats"</string>

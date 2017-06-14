@@ -17,4 +17,12 @@
     <item quantity="other">"No es pot desinstal·lar %1$d aplicacions"</item>
     <item quantity="one">"No es pot desinstal·lar %1$d aplicació"</item>
   </plurals>
+  <plurals name="scroll_tip_format_when_announce_accessibility">
+    <item quantity="other">pàgina %1$d, %2$d aplicacions</item>
+    <item quantity="one">pàgina %1$d, %2$d aplicació</item>
+  </plurals>
+  <plurals name="delete_wallpapers_message">
+    <item quantity="other">Voleu eliminar %1$d fons de pantalla?</item>
+    <item quantity="one">Voleu eliminar %1$d fons de pantalla?</item>
+  </plurals>
 </resources>

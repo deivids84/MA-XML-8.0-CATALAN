@@ -74,6 +74,7 @@
   <string name="add_to_quicklink">Pàgina d\'inici</string>
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
   <string name="adjust_text_zoom_toast">Si es canvia la mida del text algunes pàgines poden visualitzar-se incorrectament</string>
+  <string name="agree">D\'acord</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
   <string name="allow">Permet</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
@@ -131,8 +132,6 @@
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
-  <string name="check_permission_of_current_location">Informació d\'ubicació actual</string>
-  <string name="check_permission_of_current_url">URL dels llocs web que visiteu</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
@@ -305,6 +304,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
+  <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
@@ -825,7 +825,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_download_error">Error</string>
   <string name="video_download_error_http_gone">"No s'ha trobat el fitxer"</string>
   <string name="video_download_exists">La baixada ja existeix.</string>
-  <string name="video_download_fail">S\'ha produït un error</string>
+  <string name="video_download_fail">"S'ha produït un error"</string>
   <string name="video_download_failed">"No s'ha pogut baixar"</string>
   <string name="video_download_finding_address">S\'està obtenint l\'URL de baixada</string>
   <string name="video_download_pause">En pausa</string>

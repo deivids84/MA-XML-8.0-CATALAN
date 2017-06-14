@@ -628,6 +628,7 @@
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="storage_warning">"No es pot utilitzar emmagatzematge extern"</string>
+  <string name="support_mtp">L\'MTP aviat serà compatible</string>
   <string name="swap_tip_1">Llisqueu a l\'esquerra o a la dreta</string>
   <string name="swap_tip_2">per veure altres vídeos</string>
   <string name="sys_size_enable">" disponible"</string>

@@ -594,11 +594,6 @@
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
   <string name="cloudfolder_name_reserved">El nom de l\'àlbum està reservat</string>
   <string name="collaps_people">Amaga</string>
-  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">Zona QQ</string>
-  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
-  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_download_video_message">Cal que acabeu de baixar aquest vídeo per començar-lo a veure. La baixada continuarà quan el Wi-Fi estigui disponible.</string>
   <string name="confirm_download_video_title">Baixa el vídeo</string>

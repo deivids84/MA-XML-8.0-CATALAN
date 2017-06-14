@@ -92,7 +92,7 @@
   <string name="menu_item_sort_by_name">Ordena per nom</string>
   <string name="minute">1 minut</string>
   <string name="minutes">%s minuts</string>
-  <string name="more_settings">Més paràmetres</string>
+  <string name="more_settings">Configuració</string>
   <string name="never">Un cop</string>
   <string name="oneshot_alarm">Elimina-la en aturar-la</string>
   <string name="pause">Pausa</string>

@@ -319,8 +319,8 @@
   <string name="contextmenu_feedback">Envia els comentaris</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
-  <string name="contextmenu_open">Obrir</string>
-  <string name="contextmenu_openlink">Obrir al navegador</string>
+  <string name="contextmenu_open">Obre</string>
+  <string name="contextmenu_openlink">Obre al navegador</string>
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
@@ -546,7 +546,7 @@
   <string name="mailbox_name_display_inbox">Entrada</string>
   <string name="mailbox_name_display_junk">No desitjat</string>
   <string name="mailbox_name_display_outbox">Sortida</string>
-  <string name="mailbox_name_display_sent">Enviats</string>
+  <string name="mailbox_name_display_sent">Enviat</string>
   <string name="mailbox_name_display_starred">Destacats</string>
   <string name="mailbox_name_display_trash">Paperera</string>
   <string name="mailbox_name_display_unread">No llegits</string>

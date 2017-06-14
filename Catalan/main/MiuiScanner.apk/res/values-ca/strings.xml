@@ -21,8 +21,8 @@
   <string name="company">Empresa:</string>
   <string name="connect_wifi">Connecta a aquesta xarxa</string>
   <string name="contact_details">Dades de contacte:</string>
-  <string name="continue_access_web_url">Anar al lloc web</string>
-  <string name="continue_to_website">Anar al lloc web</string>
+  <string name="continue_access_web_url">Vés al lloc web</string>
+  <string name="continue_to_website">Vés al lloc web</string>
   <string name="copy">Copia</string>
   <string name="copy_text">Copia el text</string>
   <string name="copy_text_success">Text copiat</string>
@@ -112,7 +112,7 @@
   <string name="no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="no_storage">Sense emmagatzematge intern</string>
   <string name="not_insert_contact">"No es pot afegir el contacte"</string>
-  <string name="not_recommend_access_web_url">Anar al lloc web de totes maneres</string>
+  <string name="not_recommend_access_web_url">Vés de totes maneres</string>
   <string name="not_tips">"Recordar preferència"</string>
   <string name="note">Notes:</string>
   <string name="path_scanner_setting">Aplicacions del sistema/Escànner</string>
@@ -141,7 +141,7 @@
   <string name="scan_fail">"No s'ha pogut escanejar el codi"</string>
   <string name="scan_result">Codi QR escanejat</string>
   <string name="sdk_not_ready">S\'està Preparant l\'SDK. Torneu-ho a provar més tard.</string>
-  <string name="secure_access_web_url">Anar al lloc web</string>
+  <string name="secure_access_web_url">Vés al lloc web</string>
   <string name="see_app_details">Mostra els detalls de l\'aplicació</string>
   <string name="settings">Configuració</string>
   <string name="shopping_searching">S\'està cercant&#8230;</string>

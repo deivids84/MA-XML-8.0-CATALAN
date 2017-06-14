@@ -12,7 +12,7 @@
   <string name="debug_tool_email_body">Adjunto la meva base de dades del Calendari amb totes les meves cites i dades personals. Utilitzeu-la amb cura.</string>
   <string name="debug_tool_email_sender_picker">Trieu una aplicació per enviar el fitxer</string>
   <string name="debug_tool_email_subject">Eina de depuració del calendari adjuntada</string>
-  <string name="debug_tool_message">"Esteu a punt de fer una còpia de la base de dades del calendari a l'emmagatzematge USB/targeta SD, i qualsevol aplicació podrà llegir-la o enviar-la per correu. Recordeu-vos d'eliminar la còpia tan aviat com l'hagueu copiada o quan lliureu el correu."</string>
+  <string name="debug_tool_message">"Esteu a punt de fer una còpia de la base de dades del calendari a l'emmagatzematge USB/targeta SD, que qualsevol aplicació pot llegir, i enviar-la per correu. Recordeu-vos d'eliminar-la tan aviat com l'hàgiu copiada o quan s'hagi rebut el correu que enviàveu."</string>
   <string name="debug_tool_start_button">Inicia</string>
   <string name="holiday_data_no_network">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
   <string name="holiday_data_update_failed">"No s'ha pogut actualitzar. Comproveu la connexió de dades i torneu-ho a provar."</string>

@@ -148,6 +148,7 @@
   <string name="current_version">Versió actual</string>
   <string name="data_usage_warning">Ús de dades</string>
   <string name="data_usage_warning_summary">En utilitzar la connexió de dades mòbils per escoltar retransmissions de música en alta qualitat pot augmentar els càrrecs per ús de dades.</string>
+  <string name="date_format_str">dd-MM-yyyy</string>
   <string name="delete">Elimina</string>
   <string name="delete_download">Elimina</string>
   <string name="delete_downloads_records">Esborra les baixades</string>
@@ -797,6 +798,7 @@
   <string name="sort_by_time">Data</string>
   <string name="source_from">Font: %1$s</string>
   <string name="start_download_music">S\'estan baixant actualitzacions per a la Música.</string>
+  <string name="start_shuffle">Inicia la reproducció aleatòria...</string>
   <string name="start_to_download">S\'està baixant&#8230;</string>
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>

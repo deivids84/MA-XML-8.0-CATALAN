@@ -98,6 +98,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
   <string name="after_the_lock_screen">"L'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d'aplicacions."</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
+  <string name="antispam_mode_details">Detalls de llista de bloqueig</string>
   <string name="antispam_notificaiton_type_show_all">Tots els números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejats</string>
   <string name="antispam_notificaiton_type_show_none">Mai</string>
@@ -164,6 +165,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
   <string name="app_manager_go_to_manger_app">Gestiona</string>
+  <string name="app_manager_instruction">Instrucció</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
@@ -199,6 +201,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
   <string name="app_manager_reject_count_over">Bloquejat 100000+ vegades</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
+  <string name="app_manager_sort">Ordena per</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_start_count_over">100000+ vegades</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Voleu desinstal·lar %s per restringir l\'inici de la cadena?</string>
@@ -282,6 +285,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_main_title">Tasques automatitzades</string>
   <string name="auto_task_mamange_activity_title">Configuració</string>
   <string name="auto_task_manage_delete_prompt">Voleu eliminar les tasques seleccionades?</string>
+  <string name="auto_task_manage_new_task">Nova tasca automatitzada</string>
   <string name="auto_task_manager_group_title">Tasques automatitzades</string>
   <string name="auto_task_notify_do_task_title">Tasques automatitzades iniciades</string>
   <string name="auto_task_notify_exit_task_title">Tasques automatitzades finalitzades</string>
@@ -381,6 +385,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="brand_diagnostic">Diagnòstics de l\'operador</string>
   <string name="brightness_auto_adjust_off">La brillantor de la pantalla romandrà constant en tots els entorns</string>
   <string name="brightness_auto_adjust_on">La brillantor de la pantalla variarà depenent de les condicions d\'il·luminació</string>
+  <string name="btn_back">Enrere</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
   <string name="btn_jump">Saltar</string>
   <string name="btn_lock">Afegir bloqueig</string>
@@ -659,6 +664,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
+  <string name="exit">Surt</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
@@ -671,22 +677,31 @@ o introdueixi la seva contrasenya"</string>
   <string name="fingerprint_verify_succeed">Comprovació correcta</string>
   <string name="fingerprint_verify_try_agin">"No s'ha pogut escanejar,tornar a provar"</string>
   <string name="firewall_activity_lable">Restringir l\'ús de dades per a l\'aplicació</string>
+  <string name="firewall_allow_all">Permet que totes les aplicacions es connectin utilitzant el següent mètode</string>
+  <string name="firewall_allow_data">Permet l\'ús de dades mòbils</string>
   <string name="firewall_allow_network">Permès</string>
+  <string name="firewall_allow_wlan">Permet l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_applist">Aplicacions</string>
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
   <string name="firewall_fragment_sys_listempty">Buit</string>
   <string name="firewall_fragment_tab_title_nonsys">Instal·lat</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
+  <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
   <string name="firewall_network_restrict_notify_title">"%1$s no pot utilitzar %2$s."</string>
+  <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
+  <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
+  <string name="firewall_restrict_data">Restringeix ús de dades mòbils</string>
+  <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
   <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s està restringit per utilitzar %2$s xarxes</string>
+  <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="flow_rank_title">Ús de dades</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
@@ -895,6 +910,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
   <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
+  <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
   <string name="main_daily_package">Pla de dades diari</string>
   <string name="main_leisure_remained">Dades restants en horari vall</string>
@@ -1019,6 +1035,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
   <string name="modifypassword">Canvia la contrasenya</string>
+  <string name="monitor_app_add">afegeix</string>
+  <string name="monitor_app_more">més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="month_report_month_report_switch">Mostra informe mensual</string>
   <string name="msg_update_error_code_success">Fet</string>
@@ -1167,11 +1185,15 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="package_setted_error_notification_titile">"No s'ha pogut establir el pla de dades"</string>
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="passwordIncorrect">Usuari o contrasenya incorrecta</string>
+  <string name="password_forget_pattern_confirm">Còpia de seguretat de les dades</string>
+  <string name="password_forget_pattern_message">"Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d'això, podreu canviar la contrasenya."</string>
+  <string name="password_forget_pattern_title">Còpia de seguretat de les dades</string>
   <string name="password_promotion_button_text">D\'acord</string>
   <string name="password_promotion_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la.</string>
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
+  <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
   <string name="path_app_permissions">Aplicacions del sistema/Seguretat/Permisos/Permisos de l\'aplicació</string>
@@ -2049,5 +2071,4 @@ Dades extres en ús"</string>
   <string name="wifi_item_title_fake">Detectada Wi-Fi falsa</string>
   <string name="wifi_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="wl_no_whitelist">No hi ha excepcions.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

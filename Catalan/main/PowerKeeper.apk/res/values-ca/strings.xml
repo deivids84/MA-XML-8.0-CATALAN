@@ -164,6 +164,11 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="set_cpufreq_max">Màxima freqüència de la CPU</string>
   <string name="set_lcd_mode">Mode de pantalla</string>
   <string name="settings_safetylegal_activity_loading">Un moment&#8230;</string>
+  <string name="sleep_config_disable_description">"MIUI no millorarà l'estalvi de bateria a la nit"</string>
+  <string name="sleep_config_disable_title">Desactivat</string>
+  <string name="sleep_config_enhance_description">MIUI millorarà l\'espera nocturna</string>
+  <string name="sleep_config_enhance_title">Activat</string>
+  <string name="sleep_config_mode_title">Modes d\'estalvi de son</string>
   <string name="still">Imatge</string>
   <string name="ui">Estándard</string>
   <string name="user_define_mode">Nom</string>

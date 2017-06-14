@@ -152,5 +152,4 @@
   <string name="toast_uninstall_fileexplorer">"L'apli «Explorador» no està instal·lada"</string>
   <string name="wifi_recommended_body" formatted="false">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer (%s) augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals. Toqueu %s per iniciar aquesta baixada quan estigueu connectat a una xarxa Wi-Fi.</string>
   <string name="wifi_recommended_title">Alerta d\'ús de dades</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

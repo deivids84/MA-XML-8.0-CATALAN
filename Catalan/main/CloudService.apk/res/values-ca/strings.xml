@@ -142,6 +142,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="micloud_battery_low_notification_message">Connectar el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member">Compte</string>
+  <string name="micloud_buy_member_safe">Compra subscripció Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
 amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
@@ -359,6 +360,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_sync_alert_dialog_positive">D\'acord</string>
   <string name="micloud_sync_alert_dialog_title">Utilitza Mi Cloud</string>
   <string name="micloud_sync_off">La sincronització amb Mi Cloud està desactivada</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronitza només en contactes, calendari i notes, per sincronitzar més elements, aneu a la configuració del Mi Cloud.</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s usats | %s restants"</string>
   <string name="micloud_title_dspt_remain">%s restants</string>

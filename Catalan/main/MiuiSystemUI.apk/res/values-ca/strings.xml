@@ -406,7 +406,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
   <string name="quick_settings_done">Fet</string>
-  <string name="quick_settings_more_settings">Més ajustos</string>
+  <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>

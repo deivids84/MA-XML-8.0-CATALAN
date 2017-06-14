@@ -79,6 +79,7 @@
   <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
   <string name="card_detail_title">Detalls</string>
   <string name="card_manager">Administrador de targeta</string>
+  <string name="card_manager_no_data">Sense subscripcions</string>
   <string name="card_title_change">Canvia el títol de la targeta</string>
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
@@ -395,6 +396,18 @@
   <string name="start_date_calculate">Calcula</string>
   <string name="subscribe_card">立即订阅</string>
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
+  <string name="subscribe_card_success_for_homepage">S\'ha subscrit amb èxit a «%1$s»</string>
+  <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
+  <string name="subscribe_channel_click_hint">Cal subscripció</string>
+  <string name="subscribe_channel_footer_button">Gestiona les subscripcions</string>
+  <string name="subscribe_channel_footer_desc">Reviseu les subscripcions o cancel·leu-la</string>
+  <string name="subscribe_channel_footer_title">Subscrit</string>
+  <string name="subscribe_channel_footer_view">Comprova</string>
+  <string name="subscribe_channel_hint">"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d\'inici.
+També podeu afegir recordatoris perquè no us perdeu res important. "</string>
+  <string name="subscribe_channel_subscribe">Subscriure\'s</string>
+  <string name="subscribe_channel_subscribing">Suscribir-se</string>
+  <string name="subscribe_channel_title">Canal</string>
   <string name="subscribing_card">Subscripcions</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="synced">sincronitzat</string>
