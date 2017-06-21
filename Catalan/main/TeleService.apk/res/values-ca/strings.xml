@@ -1075,10 +1075,10 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
   <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
-  <string name="power_discharging_duration">%1$s - aprox. resten %2$s</string>
-  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
-  <string name="power_remaining_duration_only">Resten uns %1$s</string>
-  <string name="power_remaining_duration_only_short">Resten %1$s</string>
+  <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
+  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
+  <string name="power_remaining_duration_only">Falten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
   <string name="preference_category_ringtone">So i vibració</string>
   <string name="preference_data_usage_summary">Definiu el vostre pla de dades per controlar l\'ús de les dades mòbils</string>
@@ -1197,7 +1197,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="reject_via_sms">Respostes ràpides</string>
   <string name="reject_via_sms_summary">Edita missatges predefinits</string>
   <string name="reject_via_sms_title">Respostes ràpides</string>
-  <string name="remaining_length_format">Resten %1$s</string>
+  <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove">Treu</string>
   <string name="remove_sip_account">Elimina el compte</string>
   <string name="removing_account">S\'està esborrant el compte&#8230;</string>

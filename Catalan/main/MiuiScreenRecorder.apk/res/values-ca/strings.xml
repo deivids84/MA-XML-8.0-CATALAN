@@ -32,7 +32,7 @@
   <string name="low_battery">Carregueu el telèfon abans d\'iniciar l\'enregistrament</string>
   <string name="low_battery_title">Bateria baixa</string>
   <string name="low_battery_warning">La bateria està casi buida. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
-  <string name="low_memory">Us resten menys de 200 Mb d\'emmagatzematge disponible. Podeu enregistrar fins a 5 minuts.</string>
+  <string name="low_memory">Teniu menys de 200 Mb d\'emmagatzematge disponible. Podeu enregistrar fins a 5 minuts.</string>
   <string name="low_memory_title">No hi ha prou espai</string>
   <string name="low_momery_warning">No hi ha prou espai. S\'ha aturat l\'enregistrament i s\'ha desat el vídeo.</string>
   <string name="memory_not_allowed">L\'espai restant és massa baix per enregistrar la pantalla. Allibereu espai i torneu-ho a provar.</string>

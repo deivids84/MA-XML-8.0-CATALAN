@@ -234,5 +234,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="wind_direction_no_data">Vent</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
+  <string name="xiaomi_weather_description_content">"El temps li proporciona informació meteorològica exacta. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d'aquestes funcions abans de desinstal·lar l'aplicació."</string>
+  <string name="xiaomi_weather_description_title">Quant al temps</string>
   <string name="yes_vote_ratio">pros %1$s%%</string>
 </resources>

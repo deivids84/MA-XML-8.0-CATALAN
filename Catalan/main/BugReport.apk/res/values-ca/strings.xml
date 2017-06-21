@@ -28,7 +28,7 @@
   <string name="dialog_ask_quit">Tanca</string>
   <string name="discard_draft_dialog_button_cancel">Roman aquí</string>
   <string name="discard_draft_dialog_button_discard">Descarta</string>
-  <string name="discard_draft_dialog_content">"Qualsevol canvi que hagueu fet en aquest document es perdrà."</string>
+  <string name="discard_draft_dialog_content">"Qualsevol canvi que hàgiu fet en aquest informe es perdrà."</string>
   <string name="discard_draft_dialog_title">Voleu descartar l\'esborrany?</string>
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
@@ -179,7 +179,7 @@
   <string name="michat_type_list_null">"No s'ha pogut obtenir la informació, torneu-ho a provar més tard"</string>
   <string name="michat_type_picture">Imatge</string>
   <string name="michat_user_quit">Heu sortit del xat</string>
-  <string name="michat_wait_for_a_moment">Un moment, de seguit us ajudem!</string>
+  <string name="michat_wait_for_a_moment">Un moment, de seguida us ajudem!</string>
   <string name="michat_webview_title">Mostra els detalls</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
   <string name="modem_tool_log">Recupera els registres del mòdem</string>

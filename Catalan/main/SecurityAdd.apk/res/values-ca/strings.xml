@@ -4,7 +4,7 @@
   <string name="add_done">S\'afegit amb èxit</string>
   <string name="add_game">Afegiu un joc</string>
   <string name="add_whitelist">Afegeix a excepcions</string>
-  <string name="anim_gamebooster_text">Només un segon&#8230;</string>
+  <string name="anim_gamebooster_text">Un moment&#8230;</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="app_name">Connector del servei de seguretat</string>

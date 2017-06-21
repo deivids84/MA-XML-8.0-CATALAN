@@ -314,7 +314,7 @@
   <string name="get_backup_succeed">S\'ha completat la còpia de seguretat, %1$d elements en total, %2$d han quedat igual,%3$d són nous,</string>
   <string name="get_data_fail_tips">"No s'ha pogut obtenir dades, intenteu-ho de nou"</string>
   <string name="get_info_failed">"No s'ha pogut obtenir informació"</string>
-  <string name="get_location_fail_tip">"No s'ha pogut determinar la localització, escolliu una ciutat"</string>
+  <string name="get_location_fail_tip">"No s'ha pogut determinar la localització, seleccioneu una ciutat"</string>
   <string name="guid_one">· Connecta a la mateixa xarxa Wi-Fi que la del dispositiu de destinació</string>
   <string name="guid_three">"· Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android"</string>
   <string name="guid_two">· Turn off router AP Isolation</string>
@@ -482,7 +482,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_tv_name_ch_inc">Canal +</string>
   <string name="match_tv_name_source">Entrada</string>
   <string name="match_tv_name_volume">Volum +</string>
-  <string name="match_type_selection_des">Escolliu el dispositiu per emparellar</string>
+  <string name="match_type_selection_des">Seleccioneu el dispositiu per emparellar</string>
   <string name="match_type_selection_title">Tipus</string>
   <string name="match_voh_intro_open">Allibereu quan s\'engegui el projector</string>
   <string name="match_vol_dec">El volum ha disminuït?</string>
@@ -848,7 +848,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="search_video_app_hint">Cerca</string>
   <string name="seconds">秒</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="select_area">Escolliu la localització</string>
+  <string name="select_area">Seleccioneu la localització</string>
   <string name="select_brand">Seleccioneu %s</string>
   <string name="select_controller">Seleccioneu comandament</string>
   <string name="select_done">Fet</string>

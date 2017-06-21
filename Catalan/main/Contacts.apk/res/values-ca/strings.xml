@@ -17,9 +17,9 @@
   <string name="addPeopleToGroup">Per afegir algú més, editeu el grup.</string>
   <string name="add_2sec_pause">Afegeix 2 segons de pausa</string>
   <string name="add_account">Afegeix un compte</string>
-  <string name="add_blacklist">Bloquejar</string>
-  <string name="add_blacklist_dialog_message">Bloquejar trucades i missatges des d\'aquest número?</string>
-  <string name="add_blacklist_dialog_title">Bloquejar aquest número?</string>
+  <string name="add_blacklist">Bloca</string>
+  <string name="add_blacklist_dialog_message">Voleu blocar trucades i missatges des d\'aquest número?</string>
+  <string name="add_blacklist_dialog_title">Voleu blocar aquest número de telèfon?</string>
   <string name="add_connection_button">Afegeix connexió</string>
   <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
@@ -45,10 +45,10 @@
   <string name="auto_set_nickname">Automàtic</string>
   <string name="back_view_description">Anar enrere</string>
   <string name="batch_delete">Elimina el lot</string>
-  <string name="blacklist">Bloquejar</string>
+  <string name="blacklist">Bloca</string>
   <string name="bluetooth_connection_failed_toast">Connexió Bluetooth interrompuda</string>
   <string name="blurbJoinContactDataWith">Seleccioneu el contacte que voleu combinar amb %s:</string>
-  <string name="btn_rotation">Girar</string>
+  <string name="btn_rotation">Gira</string>
   <string name="btn_split_contact">Separar</string>
   <string name="button_cancel_scan">Aturar</string>
   <string name="button_join_service_number">Voleu afegir el número de servei</string>
@@ -67,7 +67,7 @@
   <string name="call_charge">Recàrrega</string>
   <string name="call_company_main">Truca al telèfon principal de l\'empresa</string>
   <string name="call_custom">Trucar %s</string>
-  <string name="call_disambig_title">Escolliu el número</string>
+  <string name="call_disambig_title">Seleccioneu el número</string>
   <string name="call_fax_home">Trucada al fax de casa</string>
   <string name="call_fax_work">Trucada al fax de la feina</string>
   <string name="call_home">Trucada a casa</string>
@@ -98,7 +98,7 @@
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
   <string name="call_work_pager">Trucar al cercapersones de la feina</string>
-  <string name="calllog_menu_blacklist">Bloquejar</string>
+  <string name="calllog_menu_blacklist">Bloca</string>
   <string name="calllog_menu_edit_before_call">Edita</string>
   <string name="calllog_menu_send_sms">Enviar un missatge</string>
   <string name="callrecordview_item_newcontact">Nou contacte</string>
@@ -128,7 +128,7 @@
   <string name="callrecordview_menu_livetalk">Paquet de recàrrega</string>
   <string name="callrecordview_menu_misim">SIM Mi</string>
   <string name="callrecordview_menu_mobiledata">Dades de compra</string>
-  <string name="callrecordview_menu_paste">Enganxar</string>
+  <string name="callrecordview_menu_paste">Enganxa</string>
   <string name="callrecordview_menu_recharge">Recarregar</string>
   <string name="callrecordview_menu_save_to_group">Desar el registre de trucades al grup</string>
   <string name="callrecordview_menu_settings">Configuració</string>
@@ -221,7 +221,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_save">Tocar per obtenir targeta de contacte</string>
   <string name="contact_detail_miprofile_save_fail_toast">"No s'ha pogut obtenir la targeta de contacte"</string>
   <string name="contact_detail_miprofile_save_success_toast">Targeta de contacte rebuda</string>
-  <string name="contact_detail_miprofile_settings_header">AJUSTOS ADDICIONALS</string>
+  <string name="contact_detail_miprofile_settings_header">AJUSTAMENTS ADDICIONALS</string>
   <string name="contact_detail_miprofile_subtitle">Ja s\'han intercanviat les targetes </string>
   <string name="contact_detail_profile_switch_fail_network_toast">"No s'ha pogut connectar a la xarxa"</string>
   <string name="contact_detail_profile_switch_fail_toast">Alguna cosa va anar malament amb el nostre servidor</string>
@@ -917,8 +917,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="pref_key_sim_manage">Configura la targeta SIM</string>
   <string name="pref_key_sim_manage1">Configura SIM 1</string>
   <string name="pref_key_sim_manage2">Configura SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">Còpia de seguretat &amp; Ajustos de recuperació</string>
-  <string name="pref_rcs_fetion_entry_title">Ajustos Fetion</string>
+  <string name="pref_rcs_backup_restore_title">Còpia de seguretat &amp; Ajustaments de recuperació</string>
+  <string name="pref_rcs_fetion_entry_title">Ajustaments Fetion</string>
   <string name="pref_summary_import_from_account">Transferència de contactes des de comptes de Google i Exchange al meu compte Mi</string>
   <string name="pref_title_account_import">Importa contactes</string>
   <string name="pref_title_import_from_account">Importa a compte Mi</string>
@@ -1019,9 +1019,9 @@ Per afegir un contacte a la llista de favorits:
   <string name="refresh">Actualitza</string>
   <string name="relationLabelsGroup">Relació</string>
   <string name="removePhoto">Eliminar foto</string>
-  <string name="remove_blacklist">Desbloquejar</string>
-  <string name="remove_blacklist_dialog_message">Desbloquejar aquest número?</string>
-  <string name="remove_blacklist_dialog_title">Desbloquejar</string>
+  <string name="remove_blacklist">Desbloca</string>
+  <string name="remove_blacklist_dialog_message">Voleu mostrar trucades i missatges des d\'aquest número?</string>
+  <string name="remove_blacklist_dialog_title">Voleu desblocar aquest número de telèfon?</string>
   <string name="remove_duplicate">"MIUI t\'ajudarà a trobar i combinar contactes duplicats.
   
   Per començar, toqueu la icona de fusió en la part inferior de la pantalla."</string>
@@ -1141,7 +1141,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="sms_car">Auto text</string>
   <string name="sms_company_main">Empresa principal de text</string>
   <string name="sms_custom">Text %s</string>
-  <string name="sms_disambig_title">Escolliu el nombre</string>
+  <string name="sms_disambig_title">Seleccioneu el número</string>
   <string name="sms_fax_home">Text del fax de casa</string>
   <string name="sms_fax_work">Text del fax de treball</string>
   <string name="sms_home">Text de casa</string>
@@ -1274,7 +1274,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_search_history">Historial</string>
   <string name="yellowpage_navigation_search_offline_hint">"Sense connexió"</string>
   <string name="yellowpage_navigation_search_result_average_price">Mitjana %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou.</string>
+  <string name="yellowpage_navigation_search_result_network_error">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_search_result_no_more">No hi ha més resultats</string>
   <string name="yellowpage_navigation_search_result_service_error">Servei no disponible</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Error desconegut</string>

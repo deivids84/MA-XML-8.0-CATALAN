@@ -51,7 +51,7 @@
   <string name="account_settings_policies">Polítiques de seguretat</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
   <string name="account_settings_retry_summary">Premeu per sincronitzar el compte</string>
-  <string name="account_settings_ringtone">Escollir el to de trucada</string>
+  <string name="account_settings_ringtone">Triar el to de trucada</string>
   <string name="account_settings_servers">Configuració del servidor</string>
   <string name="account_settings_summary">Freqüència de sincronització, notificacions, etc.</string>
   <string name="account_settings_sync_calendar_enable">Sincronitza calendari</string>
@@ -90,7 +90,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"\"No s'ha pogut iniciar la sessió. Aquest compte ha estat bloquejat.\"​"</string>
+  <string name="account_setup_failed_dlg_device_locked">"\"No s'ha pogut iniciar la sessió. Aquest compte ha estat blocat.\"​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
   <string name="account_setup_failed_dlg_error_code">Codi d\'error: %s</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
@@ -636,7 +636,7 @@
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analitza declaracions email</string>
   <string name="min_payment_text">Pagament mínim</string>
-  <string name="more_atts_remaining">Resten %1$d més</string>
+  <string name="more_atts_remaining">Falten %1$d més</string>
   <string name="more_context">Més</string>
   <string name="more_string">+ %1$s</string>
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
@@ -720,7 +720,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="password_expire_warning_ticker_fmt">"\"%s\" requereix que canviïs el teu PIN de pantalla de 
             bloqueig o contrasenya."</string>
   <string name="password_expired_content_title">Contrasenya de pantalla de bloqueig expirada</string>
-  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-lo ara?</string>
+  <string name="password_expired_dialog_content_fmt">Les dades de %s s\'estan esborrant del dispositiu. Podeu restaurar-les en canviar el vostre PIN o contrasenya de bloqueig de pantalla. Voleu fer-ho ara?</string>
   <string name="password_expired_dialog_title">Contrasenya de pantalla de bloqueig expirada</string>
   <string name="password_expired_ticker">El PIN de la pantalla de bloqueig o contrasenya ha expirat.</string>
   <string name="path_about_account_setting">Correu/Configuració/Comptes</string>
@@ -776,7 +776,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="policy_require_password">Requerir contrasenya del dispositiu</string>
   <string name="policy_require_sd_encryption">Requerir xifrat de targeta SD</string>
   <string name="policy_require_smime">Requerir missatges SMIME</string>
-  <string name="policy_screen_timeout">Bloquejar la pantalla del dispositiu quan estigui inactiu</string>
+  <string name="policy_screen_timeout">Espera que el dispositiu estigui inactiu per blocar la pantalla</string>
   <string name="policy_text_truncation">Restringeix la mida del text email</string>
   <string name="pop3_name">POP3</string>
   <string name="preference_eas_tips">La següent pàgina d\'activació és requerida pel servidor de correus, si us plau, permeti que s\'activi.</string>

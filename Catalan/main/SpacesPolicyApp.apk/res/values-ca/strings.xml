@@ -7,9 +7,7 @@
   <string name="btn_title_force">Força</string>
   <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
-  <string name="dialog_download_space_cancel">Cancel·la</string>
-  <string name="dialog_download_space_create">D’acord</string>
-  <string name="dialog_download_space_title">Voleu baixar l\'espai?</string>
+  <string name="default_space_name">Espai sense nom</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>
   <string name="dialog_password_expired_message">La vostra contrasenya ha caducat o ja no és vàlida en les condicions actuals. Actualitzeu-la.</string>
   <string name="dialog_password_expired_title">Contrasenya caducada</string>
@@ -60,6 +58,7 @@
   <string name="sscm_registration_summary">Baixeu les notificacions per mostrar els detalls</string>
   <string name="title_sscm_registration">Recordatori del servei d\'espais segurs</string>
   <string name="toast_space_creation_failed">No s\'ha pogut crear l\'espai</string>
+  <string name="unknown">(Desconegut)</string>
   <string name="uri_invalid">L\'URI o el codi QR no descriuen un espai segur</string>
   <string name="uri_invalid_server_url">URL del servidor no vàlida en el registre URI</string>
   <string name="uri_missing_registration_token">Testimoni de registre buit o mancant en el registre URI</string>

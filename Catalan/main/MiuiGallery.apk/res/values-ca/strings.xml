@@ -29,7 +29,6 @@
   <string name="add_to_secret_fail">"No s'ha pogut afegir a l'àlbum ocult"</string>
   <string name="add_to_secret_failed_with_reason">"No es pot afegir a l'àlbum ocult. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s elements no es poden afegir a l'àlbum ocult. %1$s."</string>
-  <string name="add_to_secret_successful">Afegida a l\'àlbum ocult</string>
   <string name="add_to_share_album_not_delete">"No es pot eliminar la foto de l'àlbum compartit"</string>
   <string name="adding">S\'està afegint&#8230;</string>
   <string name="adding_recipients">S\'estan afegint els destinataris&#8230;</string>
@@ -589,11 +588,14 @@
   <string name="cloud_storage_video_title">Vídeos</string>
   <string name="cloud_storage_warn_desc">Compreu el núvol VIP per emmagatzematge addicional</string>
   <string name="cloud_storage_warn_title">No hi ha prou espai al Mi Cloud</string>
+  <string name="cloud_sync_card_description">Sincronitzeu les fotos i vídeos al Mi Cloud per accedir-hi des de múltiples dispositius</string>
+  <string name="cloud_sync_card_title">Activa la sincronització amb Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"El nom de l'àlbum no pot començar amb '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"El nom de l'àlbum no pot contenir '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
   <string name="cloudfolder_name_reserved">El nom de l\'àlbum està reservat</string>
   <string name="collaps_people">Amaga</string>
+  <string name="comma_separator">,</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_download_video_message">Cal que acabeu de baixar aquest vídeo per començar-lo a veure. La baixada continuarà quan el Wi-Fi estigui disponible.</string>
   <string name="confirm_download_video_title">Baixa el vídeo</string>
@@ -1045,6 +1047,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_title_people">Persones</string>
   <string name="search_title_recommend">Recomanat</string>
   <string name="search_title_tag">Objectes</string>
+  <string name="secret_album_card_description">El millor lloc per a tots els petits secrets</string>
+  <string name="secret_album_card_title">Proveu els àlbums privats</string>
   <string name="secret_album_display_name">Àlbum ocult</string>
   <string name="secret_album_password_first_use_msg">S\'utilitzarà la contrasenya de protecció de privadesa. Funciona amb les fotos, les notes, les carpetes ocultes, etc.</string>
   <string name="secret_album_password_first_use_title">Contrasenya de protecció de privadesa</string>
@@ -1143,6 +1147,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="to_enable_sync_dialog_message">Cal que primer activeu la sincronització</string>
   <string name="to_enable_sync_dialog_positive_button_text">Vés a «Configuració»</string>
   <string name="to_enable_sync_dialog_title">Sincronització</string>
+  <string name="today">Avui</string>
   <string name="too_many_recipients">"No es poden afegir més de %2$s destinataris (N'heu afegit %1$s)."</string>
   <string name="trash_bin">Paperera</string>
   <string name="trash_bin_summary">Navegueu per les fotos copiades que s\'han eliminat recentment</string>
@@ -1231,5 +1236,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="who_is_this">Qui és?</string>
   <string name="xiaomi_account_not_exists_toast">"El compte Mi no existeix"</string>
   <string name="yes">Sí</string>
+  <string name="yesterday">Ahir</string>
   <string name="you_are">"Sou el nadó de"</string>
 </resources>

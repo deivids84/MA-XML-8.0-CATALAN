@@ -95,6 +95,8 @@
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ara no</string>
   <string name="note_alert_expired">Caducat</string>
+  <string name="note_description_content">L\'aplicació Notes és una gran eina per a registrar les vostres idees. Inclou recordatoris i sincronitza els elements amb el Mi Cloud perquè pugueu accedir-hi en qualsevol lloc i en qualsevol moment. Assegureu-vos que podeu prescindir d\'aquestes funcions abans d\'eliminar l\'aplicació.</string>
+  <string name="note_description_title">Quant a Notes</string>
   <string name="note_link_email">Enviar email</string>
   <string name="note_link_other">Obrir mapa</string>
   <string name="note_link_select">Selecciona text</string>

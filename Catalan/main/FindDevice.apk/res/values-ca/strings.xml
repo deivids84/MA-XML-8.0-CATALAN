@@ -5,10 +5,10 @@
   <string name="adding_or_updating_account">S\'està actualitzant el compte&#8230;</string>
   <string name="app_name">Trobar dispositiu</string>
   <string name="captcha">Codi de seguretat</string>
-  <string name="change_find_device_status_failed">"No es pot desbloquejar. %s."</string>
+  <string name="change_find_device_status_failed">"No es pot desblocar. %s."</string>
   <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
   <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
-  <string name="device_locked">Aquest dispositiu està bloquejat</string>
+  <string name="device_locked">Aquest dispositiu està blocat</string>
   <string name="device_lost">Aquest dispositiu s\'ha perdut</string>
   <string name="disable_find_device_error">"No es pot desactivar la recerca del dispositiu. %1$s"</string>
   <string name="disable_find_device_success">Troba dispositiu està desactivat</string>

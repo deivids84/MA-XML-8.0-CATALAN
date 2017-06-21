@@ -392,10 +392,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
   <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
-  <string name="power_discharging_duration">%1$s - aprox. resten %2$s</string>
-  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
-  <string name="power_remaining_duration_only">Resten uns %1$s</string>
-  <string name="power_remaining_duration_only_short">Resten %1$s</string>
+  <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
+  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
+  <string name="power_remaining_duration_only">Falten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="process_kernel_label">SO Android</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
@@ -416,7 +416,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_launch_error_message">%s no s\'ha pogut iniciar.</string>
   <string name="reject_call">Rebutjar trucada</string>
-  <string name="remaining_length_format">Resten %1$s</string>
+  <string name="remaining_length_format">Falten %1$s</string>
   <string name="return_to_incall_screen">Tornar a la trucada</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
@@ -594,7 +594,7 @@ d MMMM"</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
-  <string name="vpn_text">Toqui per veure ajustos.</string>
+  <string name="vpn_text">Toqui per veure els ajustaments.</string>
   <string name="vpn_text_long">Connectat a %s. Premeu per veure els detalls.</string>
   <string name="vpn_title">VPN activat</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>

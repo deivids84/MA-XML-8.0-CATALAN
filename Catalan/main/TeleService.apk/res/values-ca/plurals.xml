@@ -30,9 +30,7 @@
     <item quantity="one">retard: %s segon</item>
   </plurals>
   <plurals name="pin_attempts">
-    <item quantity="other">"
-Resten %d intents."</item>
-    <item quantity="one">"
-Resta %d intent."</item>
+    <item quantity="other">"Falten %d intents."</item>
+    <item quantity="one">"Falta %d intent."</item>
   </plurals>
 </resources>

@@ -319,7 +319,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
   <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
-  <string name="fling_on_border_gesture_hint">Podeu escollir la funció d\'aquest gest a la Configuració</string>
+  <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
   <string name="force_touch_infoflow_title">Notícies</string>
@@ -856,7 +856,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_push_multi_message">Hi ha %1$d actualitzacions</string>
   <string name="video_push_multi_title">Hi ha actualitzacions</string>
   <string name="video_push_single_message">Premeu per actualitzar a %1$d.</string>
-  <string name="video_subtitle_last_message1">Resta menys d\'un minut</string>
+  <string name="video_subtitle_last_message1">Falta menys d\'un minut</string>
   <string name="video_subtitle_prefix1">Vist</string>
   <string name="video_subtitle_prefix2">"Vist "</string>
   <string name="video_title_prefix_message">"Offline:"</string>

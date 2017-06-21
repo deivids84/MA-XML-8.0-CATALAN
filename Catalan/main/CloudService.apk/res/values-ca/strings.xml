@@ -6,7 +6,7 @@
   <string name="account_related">El dispositiu està associat a un compte existent de Mi (%s). Connectar-se a la xarxa per verificar el dispositiu.</string>
   <string name="activate">Activar</string>
   <string name="activate_finddevice">Connectar-se a la xarxa per activar el dispositiu</string>
-  <string name="activate_number_change_dialog_message">Escolliu el número màxim que necessita activar, quan les trucades VoIP, el grup de trucada veurà aquest número</string>
+  <string name="activate_number_change_dialog_message">Trieu el número que serà visible als altres dispositius quan truqueu amb VoIP.</string>
   <string name="activating">Activant&#8230;</string>
   <string name="add_cloud_storage">Afegeix emmagatzematge
 </string>
@@ -81,7 +81,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
   <string name="error_unknown">"No es pot iniciar sessió"</string>
   <string name="find_device">Trobar dispositiu activat</string>
-  <string name="find_device_disabled_notice">"Pots activar o desactivar aquesta funció en els ajustos de Mi Cloud"</string>
+  <string name="find_device_disabled_notice">"Pots activar o desactivar aquesta funció en els ajustaments de Mi Cloud."</string>
   <string name="find_device_disabled_title">Trobar Dispositiu desactivat</string>
   <string name="find_device_disabling">Apagant&#8230;</string>
   <string name="find_device_dspt">Localitza, bloqueja o esborra el vostre dispositiu de forma remota</string>
@@ -89,7 +89,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   </string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">Pots activar o desactivar aquesta funció en els ajustos</string>
+  <string name="find_device_dspt_provision_3">Pots activar o desactivar aquesta funció en els ajustaments.</string>
   <string name="find_device_dspt_provision_4">Si canvia de targetes SIM, s\'enviarà automàticament un missatge SMS per reactivar aquesta funció.</string>
   <string name="find_device_enabling">S\'està engegant&#8230;</string>
   <string name="find_device_error_network">Comproveu la connexió de dades i torneu a provar.</string>
@@ -119,7 +119,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Aprox. 25 EUR a l\'any</string>
   <string name="header_cloud_backup_settings">Copia i recuperació</string>
-  <string name="header_cloud_restore_summary">Reinstal·lar aplicacions i recuperar pantalla d\'inici i ajustos de sistema des d\'una còpia de Mi Cloud</string>
+  <string name="header_cloud_restore_summary">Reinstal·lar aplicacions i recuperar pantalla d\'inici i ajustaments de sistema des d\'una còpia de Mi Cloud</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="header_find_device_settings">Trobar dispositiu</string>
   <string name="i_know">D\'acord</string>
@@ -307,7 +307,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_member_webload_fail_toast_5xx">Error del servidor</string>
   <string name="micloud_more">Saber més</string>
   <string name="micloud_notif_content_battery_low">La bateria està massa buida.</string>
-  <string name="micloud_notif_content_clipboard_push">Es pot enganxar a qualsevol lloc.</string>
+  <string name="micloud_notif_content_clipboard_push">Ho podeu enganxar a qualsevol lloc.</string>
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
   <string name="micloud_notif_content_dirty_data">Detalls</string>
   <string name="micloud_notif_content_master_depend_wifi">Connectar a Wi-Fi primer.</string>

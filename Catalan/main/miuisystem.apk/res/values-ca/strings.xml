@@ -25,7 +25,7 @@
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="frequent_phrases_des">Introdueix frases freqüents amb només uns tocs mentre edites text</string>
   <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Elimineu les frases menys usades per afegir-ne més.</string>
-  <string name="menu_add_frequent_phrases">Afegeix</string>
+  <string name="menu_add_frequent_phrases">Afegiu</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_edit">Edita</string>
   <string name="miclassic">MiClassic</string>

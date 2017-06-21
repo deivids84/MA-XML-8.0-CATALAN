@@ -96,7 +96,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="search_path_quicksearchbox">Configuració/Aplicacions instal·lades/Cerca</string>
   <string name="search_settings">Configuració de la cerca</string>
   <string name="search_sources">Elements que es poden cercar</string>
-  <string name="search_sources_summary">Escolliu què cercar al telèfon</string>
+  <string name="search_sources_summary">Trieu què cercar al telèfon</string>
   <string name="search_suggestion">Consells</string>
   <string name="search_videos">Cerca vídeos</string>
   <string name="search_widget">Cerca</string>

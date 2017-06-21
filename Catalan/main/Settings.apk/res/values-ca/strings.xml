@@ -514,10 +514,12 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="billing_cycle">Cicle de facturació</string>
   <string name="billing_cycle_fragment_summary">Mensualment, començant el %1$s</string>
   <string name="billing_cycle_summary">El cicle de facturació mensual comença el %1$s</string>
-  <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegeix</string>
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
+  <string name="biometric_weak_improve_matching_title">Millora el reconeixement facial</string>
+  <string name="biometric_weak_liveliness_summary">Requereix parpelleig dels ulls en desbloquejar</string>
+  <string name="biometric_weak_liveliness_title">Comprovació de vida</string>
   <string name="ble_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden detectar els dispositius Bluetooth. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="block_list_connected_devices">Dispositius connectats</string>
   <string name="block_list_diaglog_cancle">Cancel·la</string>
@@ -1712,6 +1714,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gesture_wakeup_title">Doble toc a la pantalla per a activar-la</string>
   <string name="getConfiguredNetworks">xarxes configurades</string>
   <string name="getConnectionInfo">informació de la connexió</string>
+  <string name="giga_hertz">GHz</string>
   <string name="global_change_warning">Aquesta configuració afecta tots els usuaris del telèfon.</string>
   <string name="global_locale_change_title">Canvi d\'idioma</string>
   <string name="go_back_button_label">Torna enrere</string>
@@ -2009,7 +2012,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_reset_type">Tipus de reinici</string>
   <string name="location_agps_reset_type_choose_dialog_title">Tipus de reinici</string>
   <string name="location_agps_reset_type_summary">Tria el tipus de reinici preferit</string>
-  <string name="location_agps_roaming_help">"Si escolliu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs adicionals."</string>
+  <string name="location_agps_roaming_help">"Si trieu totes les xarxes l'ús de dades en itinerància pot augmentar. Si excediu el límit d'ús del vostre pla de dades l'operadora us pot cobrar càrrecs addicionals."</string>
   <string name="location_agps_si_mode">Mode AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Mètode AGPS</string>
   <string name="location_agps_si_mode_summary">Tria el mètode preferit per a l\'AGPS</string>
@@ -2594,6 +2597,10 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_log_no_title">(cap)</string>
   <string name="notification_log_title">Registre de notificacions</string>
   <string name="notification_pulse_title">Llum de notificació</string>
+  <string name="notification_reboot_btn">Reinicia</string>
+  <string name="notification_reboot_summary_hm">Toqueu per reiniciar el dispositiu.</string>
+  <string name="notification_reboot_title">Reinicieu per aplicar l\'actualització</string>
+  <string name="notification_reboot_title_hm">Reinicieu per aplicar l\'actualització</string>
   <string name="notification_ringtone_title">So de notificació predeterminat</string>
   <string name="notification_sound_dialog_title">So de notificació predeterminat</string>
   <string name="notification_sound_title">So de notificació predeterminat</string>
@@ -2601,6 +2608,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_suggestion_title">Controla notificacions de pantalla bloq.</string>
   <string name="notification_summary_level">Nivell %d</string>
   <string name="notification_summary_none">Totes les aplicacions poden enviar notificacions</string>
+  <string name="notification_update_new_version">Hi ha una actualització disponible</string>
+  <string name="notification_update_now">Actualitza ara</string>
   <string name="notification_volume_option_title">Volum de les notificacions</string>
   <string name="notification_volume_title">Notificació</string>
   <string name="notifications_disabled">Bloqueja</string>
@@ -2782,7 +2791,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_checker">Comprovador d\'energia</string>
   <string name="power_discharge_remaining">%1$d restants</string>
   <string name="power_discharging_duration">%1$s - aprox. queda %2$s</string>
-  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
+  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_flashlight">Llanterna</string>
   <string name="power_hide_mode_summary">"Estalvieu bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Administra l\'ús de bateria de les aplicacions</string>
@@ -2793,8 +2802,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="power_optimize">Estalvi de bateria</string>
   <string name="power_overcounted">Comptabilitzada més d\'una vegada</string>
   <string name="power_phone">Trucades de veu</string>
-  <string name="power_remaining_duration_only">Resten uns %1$s</string>
-  <string name="power_remaining_duration_only_short">Resten %1$s</string>
+  <string name="power_remaining_duration_only">Falten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_title">Rendiment del sistema</string>
   <string name="power_unaccounted">Miscel·lània</string>
@@ -2873,6 +2882,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
   <string name="privacy_applock">Bloquejador d\'aplicacions</string>
+  <string name="privacy_delete_space_dlg_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
+  <string name="privacy_dlg_button_cancel">Cancel·la</string>
+  <string name="privacy_factory_reset_dlg_button_text">Còpia de seguretat de les dades</string>
+  <string name="privacy_factory_reset_dlg_message">"Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d'això, podreu canviar la contrasenya."</string>
+  <string name="privacy_factory_reset_dlg_title">Còpia de seguretat de les dades</string>
   <string name="privacy_file">Fitxers</string>
   <string name="privacy_gallery">Fotos</string>
   <string name="privacy_mms">Missatges</string>
@@ -3057,7 +3071,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
   <string name="regulatory_information">Informació de regulació</string>
-  <string name="remaining_length_format">Resten %1$s</string>
+  <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove_account_failed">L\'administrador no permet aquest canvi</string>
   <string name="remove_account_label">Suprimeix el compte</string>
   <string name="remove_and_uninstall_device_admin">Desactiva i desinstal·la</string>
@@ -4147,6 +4161,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="trackball_settings">Punter</string>
   <string name="trackball_wake_title">Activació amb el punter</string>
+  <string name="traffic_balance">Estratègia de trànsit intel·ligent</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
   <string name="translation_contributors_title">Col·laboradors en la traducció</string>
   <string name="trusted_credentials">Certificats de confiança</string>
@@ -4257,6 +4272,8 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_do_later_title">Ara no</string>
   <string name="unlock_set_enter_system">Omet la pantalla de bloqueig</string>
   <string name="unlock_set_enter_system_summary">En sortir de repòs vés a la pàgina d\'inici</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Seguretat baixa, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Desbloqueig facial</string>
   <string name="unlock_set_unlock_disabled_summary">S\'ha desactivat per l\'administrador, política d\'encriptació o emmagatzematge de certificats</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Canvia o desactiva el patró, PIN o contrasenya</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Canvi de la pantalla de bloqueig</string>
@@ -4284,6 +4301,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unrestricted_app_title">Ús de dades sense restricció</string>
   <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
   <string name="untitled_apn">Sense nom</string>
+  <string name="update_new_version">Hi ha una actualització disponible</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
   <string name="upload_debug_log_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
   <string name="upload_debug_log_title">Envia les dades de diagnòstic automàticament</string>

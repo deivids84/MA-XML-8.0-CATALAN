@@ -527,7 +527,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="continue_install">Instal·lar</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
-  <string name="correction_attention_dialog_message">S\'estan aplicant els ajustos. Espereu fins que acabi el procés i torneu a provar.</string>
+  <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
   <string name="cta_button_text_agree">D\'acord</string>
   <string name="cta_button_text_cancel">Cancel·la</string>
   <string name="cta_checkbox_title">"No mostrar de nou"</string>
@@ -690,12 +690,12 @@ o introdueixi la seva contrasenya"</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
   <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s no pot utilitzar %2$s."</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firewall_restrict_data">Restringeix ús de dades mòbils</string>
+  <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_mobile">Mòbil</string>
   <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
@@ -1719,7 +1719,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_title_man_head_addblacklist">Afegeix un prefix de número de telèfon a la llista de bloqueig</string>
   <string name="st_title_man_head_addwhitelist">Afegeix un prefix de número de telèfon a les excepcions</string>
   <string name="st_title_markednumber_group">Bloqueja els números notificats</string>
-  <string name="st_title_mode_choose_group">Escollir perfil</string>
+  <string name="st_title_mode_choose_group">Triar perfil</string>
   <string name="st_title_not_sim">Buit</string>
   <string name="st_title_open_antispam">Llista de bloqueig</string>
   <string name="st_title_other_group">Altres</string>
@@ -1750,7 +1750,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
-  <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Comprar dades per mantenir-se connectat."</string>
+  <string name="summary_flow_purchase">"Sembla que no queden gaires dades. Compreu dades per mantenir-vos connectat."</string>
   <string name="summary_flow_purchase_beyond">"Ha excedit el límit mensual del seu pla de dades en %sMB"</string>
   <string name="summary_flow_verify_failed">Ajust automàtic d\'ús de dades per evitar càrrecs addicionals</string>
   <string name="summary_garbage_clean">Esborra la memòria cau per alliberar espai</string>

@@ -379,7 +379,7 @@
   <string name="summary_auto_cleaner">Voleu netejar el sistema automàticament cada 3 dies?</string>
   <string name="summary_delete_apk">Voleu esborrar les APK seleccionades permanentment?</string>
   <string name="summary_delete_cache">Voleu esborrar la memòria cau de les aplicacions seleccionades?</string>
-  <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionades permanentment?</string>
+  <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionats permanentment?</string>
   <string name="summary_delete_video">&gt;Voleu eliminar els vídeos seleccionats de forma permanent?</string>
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
   <string name="terabyteShort">TB</string>
@@ -422,7 +422,7 @@
   <string name="toast_delete_select_image_succeed">Esborrada</string>
   <string name="toast_garbage_cleanup_success">Neteja correcta</string>
   <string name="toast_garbage_list_empty">Tot sembla correcte!</string>
-  <string name="toast_must_select_before_restore">Escolliu fotos a restaurar</string>
+  <string name="toast_must_select_before_restore">Seleccioneu fotos a restaurar</string>
   <string name="toast_network_eror">"No es pot connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació es pot connectar a internet</string>
   <string name="toast_removed_from_white_list"> tret de les excepcions</string>

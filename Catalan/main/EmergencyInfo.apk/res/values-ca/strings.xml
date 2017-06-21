@@ -149,6 +149,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de la GPU</string>
+  <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
   <string name="debug_monitoring_category">Monitoratge</string>
@@ -237,12 +238,12 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
   <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
-  <string name="power_discharging_duration">%1$s - aprox. resten %2$s</string>
-  <string name="power_discharging_duration_short">Resten %1$s - %2$s</string>
-  <string name="power_remaining_duration_only">Resten uns %1$s</string>
-  <string name="power_remaining_duration_only_short">Resten %1$s</string>
+  <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
+  <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
+  <string name="power_remaining_duration_only">Falten uns %1$s</string>
+  <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="process_kernel_label">SO Android</string>
-  <string name="remaining_length_format">Resten %1$s</string>
+  <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove">Esborra</string>
   <string name="remove_contact">Voleu esborrar a %1$s dels contactes d\'emergència?</string>
   <string name="remove_contact_icon_text">Esborra el contacte</string>

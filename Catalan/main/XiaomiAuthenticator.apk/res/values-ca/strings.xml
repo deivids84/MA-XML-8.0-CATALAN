@@ -124,7 +124,7 @@ Abans d\'eliminar-lo:
   <string name="scan_barcode">Escanejar MiID</string>
   <string name="scan_barcode_info">Col·loqui i escanegi un codi de barres MiID dins d\'aquest visor.</string>
   <string name="secret_saved">Secret guardat</string>
-  <string name="security_setting">Ajustes de seguridad</string>
+  <string name="security_setting">Configuració de seguretat</string>
   <string name="settings_menu_item">Configuració</string>
   <string name="submit">Desar</string>
   <string name="success_copy_to_clipboard">S\'ha copiat al porta-retalls</string>

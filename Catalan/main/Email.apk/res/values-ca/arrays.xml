@@ -21,7 +21,7 @@
     <item>Cap de setmana</item>
     <item>Propera setmana</item>
     <item>Proper mes</item>
-    <item>Escollir data</item>
+    <item>Triar data</item>
   </string-array>
   <string-array name="compose_modes">
     <item>Respondre</item>

@@ -129,6 +129,10 @@
     <item quantity="other">%d vídeos</item>
     <item quantity="one">%d vídeo</item>
   </plurals>
+  <plurals name="add_to_secret_successful">
+    <item quantity="other">S\'han afegit %1$d fotos a l\'àlbum ocult</item>
+    <item quantity="one">S\'ha afegit 1 foto a l\'àlbum ocult</item>
+  </plurals>
   <plurals name="number_of_images_synced">
     <item quantity="other">%1$d fotos</item>
     <item quantity="one">1 foto</item>

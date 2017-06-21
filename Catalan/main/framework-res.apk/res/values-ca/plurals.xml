@@ -3,7 +3,7 @@
 <resources>
   <plurals name="pinpuk_attempts">
     <item quantity="other">Resten %d intents per bloquejar la targeta SIM.</item>
-    <item quantity="one">Resta %d intent per bloquejar la targeta SIM.</item>
+    <item quantity="one">Et queda %d intent per bloquejar la targeta SIM.</item>
   </plurals>
   <plurals name="ssl_ca_cert_warning">
     <item quantity="other">Autoritats de certificació instal·lades</item>
