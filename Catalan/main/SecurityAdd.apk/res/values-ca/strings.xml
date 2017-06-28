@@ -64,6 +64,7 @@
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
   <string name="i_know">Ho sé</string>
+  <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="intro_improve">Basat en el nivell de sistema per millorar la totalitat de l\'experiència de joc</string>
   <string name="intro_skip">omet</string>
   <string name="loading">Un moment&#8230;</string>
@@ -90,12 +91,14 @@
   <string name="month_report_warning_dialog_description">"Per veure l'informe mensual, activeu aquesta característica a la configuració de l'aplicació de seguretat."</string>
   <string name="month_report_warning_dialog_positive">Activa</string>
   <string name="month_report_warning_dialog_title">Informe de seguretat mensual</string>
+  <string name="more_game">Més jocs</string>
   <string name="net_delay_title">Retard</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="no_game">"No s'ha trobat cap joc"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="ok_button">D\'acord</string>
   <string name="open_browser">Obre al navegador</string>
+  <string name="open_game">Obre</string>
   <string name="other">Altres paràmetres</string>
   <string name="pc_activity_title">Optimització de la bateria</string>
   <string name="pm_lable_name">Quant a l\'accés d\'administrador</string>
@@ -119,6 +122,7 @@
   <string name="top_game">Jocs destacats</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
   <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
+  <string name="try_game">Prova-ho</string>
   <string name="usage_sorted_loading_text">Un moment&#8230;</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
   <string name="wlan_change_protection_title">Evita els canvis de xarxes</string>

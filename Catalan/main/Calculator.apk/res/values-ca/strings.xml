@@ -33,6 +33,8 @@
   <string name="day">dia</string>
   <string name="del">DEL</string>
   <string name="deleteDesc">elimina</string>
+  <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'imposts. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+  <string name="description_title">Quant a la Calculadora</string>
   <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>

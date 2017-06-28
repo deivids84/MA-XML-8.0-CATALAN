@@ -60,8 +60,8 @@
     <item>Recentment</item>
   </string-array>
   <string-array name="power_checker_running_group_titles">
-    <item>S\'està bloquejant el mode suspensió profunda</item>
-    <item>S\'està bloquejant el mode suspensió</item>
+    <item>S\'està bloquejant el mode d\'espera profund</item>
+    <item>S\'està bloquejant el mode d\'espera</item>
     <item>S\'està cercant una Wi-Fi</item>
     <item>S\'està utilitzant el GPS</item>
     <item>S\'està ocupant la CPU</item>

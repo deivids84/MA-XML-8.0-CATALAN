@@ -969,10 +969,10 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="confirm_new_backup_pw_prompt">Torneu a escriure la nova contrasenya de la còpia de seguretat completa</string>
   <string name="confirm_privacy_password">Introduïu la contrasenya de privacitat</string>
   <string name="confirm_privacy_password_fingerprint">Escanegeu l\'empremta o introduïu la contrasenya de privacitat</string>
-  <string name="confirm_privacy_password_instruction">Aquesta contrasenya protegeix aplicacions, missatges, fotos i contactes.</string>
   <string name="confirm_reset_aaid">D\'acord</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Voleu restablir els comptadors de limitació de velocitat de ShortcutManager?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Voleu restablir la limitació de velocitat de ShortcutManager?</string>
+  <string name="connect_mode">mode de connexió</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'auxiliar de Wi‑Fi</string>
@@ -1538,7 +1538,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="failed_to_shut_down_find_device_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
-  <string name="file_privacy_password_role_instruction">Els fitxers privats es desaran aquí.</string>
+  <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
   <string name="filter">Filtres</string>
   <string name="filter_all_apps">Totes les aplicacions</string>
   <string name="filter_apps_all">Totes</string>
@@ -1563,7 +1563,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
   <string name="fingerprint_apply_to_privacy_password">Contrasenya de protecció de privadesa</string>
-  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els missatges, fotos, fitxers, notes i aplicacions.</string>
+  <string name="fingerprint_apply_to_privacy_password_scenarios">La contrasenya de privadesa protegeix els vostres missatges, fotos, fitxers, notes i aplicacions.</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
@@ -1829,12 +1829,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="intent_sender_resource_label">Recursos:</string>
   <string name="intent_sender_sendbroadcast_text">Envia una difusió</string>
   <string name="intent_sender_startactivity_text">Comença una activitat</string>
-  <string name="internal_format">Esborra l\'emmagatzematge intern</string>
-  <string name="internal_format_summary">"Esborra totes les dades de l'emmagatzematge intern"</string>
-  <string name="internal_media_format_button_text">Esborra l\'emmagatzematge intern</string>
-  <string name="internal_media_format_desc">Voleu esborrar l\'emmagatzematge intern? &lt;b&gt;Tots&lt;/b&gt; s\'esborraran. El telèfon es reiniciarà després d\'esborrar l\'emmagatzematge intern.</string>
-  <string name="internal_media_format_final_desc">"Voleu esborrar l'emmagatzematge intern? No podreu recuperar-lo. El telèfon es reiniciarà després d'esborrar l'emmagatzematge intern."</string>
-  <string name="internal_media_format_title">Esborra l\'emmagatzematge intern</string>
   <string name="internal_memory">Emmagatzematge intern</string>
   <string name="internal_storage">Emmagatzematge intern</string>
   <string name="internal_storage_sentence">emmagatzematge intern</string>
@@ -1848,7 +1842,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="join_two_unrelated_items">%1$s, %2$s</string>
   <string name="keep_legacy_fingerprint">Manté</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kernel_version">Versió del Kernel</string>
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
@@ -2881,7 +2875,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
-  <string name="privacy_applock">Bloquejador d\'aplicacions</string>
   <string name="privacy_delete_space_dlg_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="privacy_dlg_button_cancel">Cancel·la</string>
   <string name="privacy_factory_reset_dlg_button_text">Còpia de seguretat de les dades</string>
@@ -3057,6 +3050,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_voice_network_type_label">Tipus de xarxa de veu:</string>
   <string name="rank_title">Classificacions</string>
   <string name="rarely_running">S\'executa poques vegades (%s)</string>
+  <string name="reading_data">S\'està obtenint informació&#8230;</string>
   <string name="really_remove_account_message">Si suprimiu el compte se n\'esborraran tots els missatges, contactes i altres dades del telèfon!</string>
   <string name="really_remove_account_title">Voleu suprimir el compte?</string>
   <string name="rebootiing_for_updates">S\'està reiniciant&#8230;</string>
@@ -3257,7 +3251,7 @@ Per fer-ho:
   <string name="screen_saturation">Saturació de color</string>
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
-  <string name="screen_timeout_title">Mode en repòs</string>
+  <string name="screen_timeout_title">Mode d\'espera</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
@@ -4035,6 +4029,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
+  <string name="sure_sync_now">Voleu sincronitzar els elements?</string>
   <string name="suspend_gesture_enabled">Gira la pantalla</string>
   <string name="suspension_ball_enable">Drecera d\'inici ràpid</string>
   <string name="suspension_ball_enable_desc">Activa o desactiva el Quick ball des de la drecera</string>
@@ -4061,6 +4056,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
   <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
+  <string name="sync_now">Sincronitza</string>
   <string name="sync_one_time_sync">«Toqueu per a sincronitzar ara
 %1$s»</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Benvingut/da a la sincronització de Google!</font>\"
@@ -4783,7 +4779,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
   <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar la xarxa."</string>
   <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activa el Wi-Fi</string>
-  <string name="wifi_empty_list_wifi_on">S\'està cercant xarxes Wi-Fi&#8230;</string>
+  <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi&#8230;</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Canvia entre dades i Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Si la connexió Wi-Fi no és gaire bona, manté les dades i el Wi-Fi activats.</string>
@@ -4926,6 +4922,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
   <string name="wifi_setting_category">Xarxes disponibles</string>
   <string name="wifi_setting_connect_type_error">Hi ha hagut un problema en establir el tipus de connexió.</string>
   <string name="wifi_setting_frequency_band_error">S\'ha produït un problema en definir la banda de freqüència.</string>
+  <string name="wifi_setting_frequency_band_summary">Especifiqueu l\'interval de freqüències de l\'operació</string>
   <string name="wifi_setting_frequency_band_title">Banda de freqüència Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activa en repòs</string>
   <string name="wifi_setting_sleep_policy_error">S\'ha produït un problema en canviar la configuració</string>

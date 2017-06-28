@@ -296,7 +296,7 @@ amb %s»</string>
   <string name="double_tap_toast">Consell: toqueu dues vegades per ampliar o reduir el contingut.</string>
   <string name="dump_heap_notification">%1$s ha superat el límit de la memòria</string>
   <string name="dump_heap_notification_detail">S\'ha creat un informe; premeu per compartir-lo</string>
-  <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. Un bolcat de pila està disponible per a que el compartiu amb el seu creador. Aneu amb compte: aquest bolcat de pila pot contenir qualsevol de la seva informació personal que l\'aplicació hi té accés.</string>
+  <string name="dump_heap_text">El procés %1$s ha superat el seu límit de memòria de %2$s. Hi ha un abocament de pila disponible per a què el compartiu amb el seu creador. Aneu amb compte: aquest abocament de pila pot contenir qualsevol de la seva informació personal que l\'aplicació hi tengui accés.</string>
   <string name="dump_heap_title">Voleu compartir l\'informe?</string>
   <string name="durationDayHour">%1$d dia %2$d h</string>
   <string name="durationDayHours">%1$d dia %2$d hrs</string>
@@ -676,7 +676,7 @@ Torneu-ho a provar en %2$d segons.»</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
-  <string name="lockscreen_transport_ffw_description">Avanç ràpid</string>
+  <string name="lockscreen_transport_ffw_description">Avançament ràpid</string>
   <string name="lockscreen_transport_next_description">Següent cançó</string>
   <string name="lockscreen_transport_pause_description">Pausa</string>
   <string name="lockscreen_transport_play_description">Reprodueix</string>
@@ -950,7 +950,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_useFingerprint">Permet que l\'aplicació faci servir el maquinari d\'empremtes per a l\'autenticació</string>
   <string name="permdesc_use_sip">Permet que l\'aplicació pugui fer i rebre trucades SIP.</string>
   <string name="permdesc_vibrate">Permet que l\'aplicació controli la funció de vibració.</string>
-  <string name="permdesc_wakeLock">Permet que l\'aplicació impedeixi que el telèfon entri en mode de suspensió.</string>
+  <string name="permdesc_wakeLock">Permet que l\'aplicació impedeixi que el telèfon entri en mode d\'espera.</string>
   <string name="permdesc_writeCalendar">"Permet que l'aplicació afegeixi, elimini i canviï esdeveniments que es poden modificar al telèfon, inclosos els d'amics o companys de treball. L'aplicació pot utilitzar aquest permís per enviar missatges que semblin procedir de propietaris d'un calendari o per modificar esdeveniments sense coneixement dels propietaris."</string>
   <string name="permdesc_writeCallLog">"Permet que l'aplicació modifiqui el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Les aplicacions malicioses poden utilitzar aquest permís per eliminar o modificar el registre de trucades."</string>
   <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades dels contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un e-mail o t'has posat en contacte amb ells d'una altra manera. Les aplicacions poden utilitzar aquest permís per eliminar dades de contactes."</string>
@@ -1073,7 +1073,7 @@ per al compte %s»</string>
   <string name="permlab_useFingerprint">utilitza el maquinari d\'empremta</string>
   <string name="permlab_use_sip">realitza/rebre trucades SIP</string>
   <string name="permlab_vibrate">controla la vibració</string>
-  <string name="permlab_wakeLock">impedeix que el telèfon entri en mode de suspensió</string>
+  <string name="permlab_wakeLock">impedeix que el telèfon entri en mode d\'espera</string>
   <string name="permlab_writeCalendar">"afegeix o modifica els esdeveniments del calendari i envia correus electrònics als clients sense el coneixement dels propietaris"</string>
   <string name="permlab_writeCallLog">escriu al registre de trucades</string>
   <string name="permlab_writeContacts">modifica els contactes</string>

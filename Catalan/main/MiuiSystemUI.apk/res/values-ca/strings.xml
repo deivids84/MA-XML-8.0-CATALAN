@@ -286,7 +286,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="gps_notification_found_text">Localització establerta per GPS</string>
-  <string name="gps_notification_searching_text">Buscant GPS</string>
+  <string name="gps_notification_searching_text">Cercant GPS</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant HDCP</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -299,13 +299,14 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="invalid_charger">"Càrrega USB no suportada.
 Utilitza únicament el carregador subministrat."</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
   <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="list_delimeter">", "</string>
+  <string name="loading_desktop">Un moment&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
@@ -615,7 +616,7 @@ d MMMM"</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"No es poden buscar xarxes"</string>
+  <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>

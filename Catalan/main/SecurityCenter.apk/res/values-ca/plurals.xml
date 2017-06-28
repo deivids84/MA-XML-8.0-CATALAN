@@ -205,6 +205,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">Tot sembla correcte</item>
     <item quantity="one">Tot sembla correcte</item>
   </plurals>
+  <plurals name="white_list_risk_app_header">
+    <item quantity="other">Aplicacions perilloses: %d</item>
+    <item quantity="one">Aplicació perillosa: %d</item>
+  </plurals>
+  <plurals name="white_list_trojan_header">
+    <item quantity="other">Troians: %d</item>
+    <item quantity="one">Troià: %d</item>
+  </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d aplicacions contenen riscos de privacitat</item>
     <item quantity="one">%d aplicació conté riscos de privacitat</item>

@@ -191,7 +191,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
   <string name="incoming_call_failed_low_battery">La trucada entrant ha fallat pel baix nivell de la bateria.</string>
   <string name="keep_screen_on">Mantén-la activa</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
   <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
   <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>

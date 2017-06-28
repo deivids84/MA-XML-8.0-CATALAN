@@ -276,6 +276,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_web_login_app_description">Inicia sessió amb %1$s</string>
   <string name="mibi_web_login_description">Inici de sessió</string>
   <string name="mibi_web_login_waiting">Espereu si us plau&#8230;</string>
+  <string name="mibi_web_sso_login_fail">Us cal iniciar la sessió de nou</string>
   <string name="passport_access_denied">S\'ha denegat l\'accés</string>
   <string name="passport_account_hint_text">Adreça de correu o identificador del compte Mi</string>
   <string name="passport_account_identity_title">Verificació de la vostra identitat</string>

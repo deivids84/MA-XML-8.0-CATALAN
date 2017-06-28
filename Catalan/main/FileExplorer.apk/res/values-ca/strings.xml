@@ -164,7 +164,7 @@
   <string name="delete_file_error">"No s'ha pogut eliminar el fitxer"</string>
   <string name="delete_files">Voleu eliminar %1$d fitxer(s)?</string>
   <string name="delete_folder">Eliminar aquesta carpeta?</string>
-  <string name="delete_folders">Voleu eliminar %1$d carpeta(es)?</string>
+  <string name="delete_folders">Voleu eliminar %1$d carpetes?</string>
   <string name="delete_video">Elimina</string>
   <string name="delete_video_dialog_tip">"No podràs restablir el vídeo després d'haver-ho eliminat."</string>
   <string name="delete_video_dialog_title">Eliminar vídeo</string>
@@ -325,7 +325,7 @@
   <string name="message_reply_suffix">": "</string>
   <string name="mi_router_label">Router</string>
   <string name="midrop_msg_1">Activeu Mi Drop en un altre dispositiu</string>
-  <string name="midrop_msg_2">Quan Mi Drop estigui actiu, pot buscar dispositius propers i enviar fitxers</string>
+  <string name="midrop_msg_2">Quan Mi Drop estigui actiu, podeu cercar dispositius propers i enviar fitxers</string>
   <string name="midrop_send_files">Trieu fitxers a pujar</string>
   <string name="mobile_network_dialog_cancle">Cancel·la</string>
   <string name="mobile_network_dialog_confirm">D\'acord</string>
@@ -536,7 +536,7 @@
   <string name="search_description">Cerca tots els fitxers al dispositiu</string>
   <string name="search_download">Baixades;Baixades recents</string>
   <string name="search_empty_view_hint">"No hi ha resultats"</string>
-  <string name="search_error_hint">Introduir paraules clau per buscar</string>
+  <string name="search_error_hint">Introduir paraules clau per cercar</string>
   <string name="search_file_type_apk">Apk</string>
   <string name="search_file_type_doc">Doc</string>
   <string name="search_file_type_music">Música</string>

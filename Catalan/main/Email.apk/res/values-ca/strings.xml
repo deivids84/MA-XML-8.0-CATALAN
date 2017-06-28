@@ -9,6 +9,7 @@
   <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
+  <string name="account_failure">Error del compte</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
   <string name="account_options_sync_title">Configuració de sincronització</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
@@ -256,6 +257,7 @@
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Comproveu el codi de verificació %s i torneu a iniciar sessió</string>
   <string name="chat_item_msg_people_unit">persones</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="check_setup_data">"Validant la configuració del servidor…"</string>
@@ -358,12 +360,13 @@
   <string name="device_admin_label">Correu electrònic</string>
   <string name="device_not_activiey_lint1">L\'administrador de dispositius no està activat</string>
   <string name="device_not_activiey_lint2">Servei de correu no funciona correctament exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"No es poden rebre nous missatges. La sincronització està apagada."</string>
-  <string name="dialog_auto_sync_setting_no_open">"No es poden rebre nous missatges. La sincronització està apagada."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">No es poden rebre nous missatges. La sincronització està apagada.</string>
   <string name="dialog_change_sync_lookback">Els correus rebuts fa %s s\'eliminaran automàticament. Premeu per canviar-ho.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de baixar. No hi ha prou espai d'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">No hi ha prou espai en l\'emmagatzematge intern.</string>
+  <string name="dialog_system_auto_sync_account_no_open">La sincronització de compte no està activada i els missatges no es poden sincronitzar automàticament</string>
+  <string name="dialog_system_auto_sync_master_no_open">La sincronització del sistema no està activada i els missatges no es poden sincronitzar automàticament</string>
   <string name="disable_admin_warning">"ATENCIÓ: Si desactiveu els permisos de l'aplicació Email per administrar el dispositiu, s'eliminaran tots els comptes de correu que els necessiten, així com els seus missatges, contactes, esdeveniments de calendari i altres dades."</string>
   <string name="discard">Descarta</string>
   <string name="discard_drafts">Descarta projecte</string>
@@ -528,7 +531,7 @@
   <string name="load_more">Carregar més</string>
   <string name="loading_conversation">Carregant&#8230;</string>
   <string name="loading_conversations">Carregant&#8230;</string>
-  <string name="loading_from_remote">Buscant al servidor&#8230;</string>
+  <string name="loading_from_remote">Cercant al servidor&#8230;</string>
   <string name="local_search">Recerca local</string>
   <string name="local_search_result">%s correus trobats en els correus locals</string>
   <string name="login">Inici de sessió</string>
@@ -538,6 +541,8 @@
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
+  <string name="mail_description_content">El correu és un client de correu que pot administrar diverses bústies, admet enviar i rebre, etiquetar correu i proporcionar serveis com a mode de sessió, correu de facturació, classificació de correu i altres serveis. Després de desinstal·lar el correu, les dades de correu s\'eliminaran.</string>
+  <string name="mail_description_title">Introducció al correu</string>
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
   <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
@@ -992,6 +997,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="subject_hint">Assumpte</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
+  <string name="syncing_wait_restart">Feu clic a reintenta</string>
+  <string name="syncing_wait_restart_title">"La connexió del servidor ha caducat 
+  No es pot carregar el missatge"</string>
   <string name="system_account_create_failed">"No s'ha pogut crear el compte. Tornar a provar."</string>
   <string name="system_folders_sent_dlg">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
   <string name="system_folders_sent_summary">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
@@ -1000,6 +1008,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="system_folders_trash_dlg">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_summary">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_title">Paperera</string>
+  <string name="system_setup_open_error">"No es pot activar la sincronització del compte, activeu el sistema \"a la configuració\" en el compte de correu de sincronització"</string>
   <string name="tablet">tauleta tàctil</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>

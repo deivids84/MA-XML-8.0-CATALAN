@@ -220,7 +220,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="install_failed_msg">"%1$s no s'ha pogut instal·lar."</string>
   <string name="installing">S\'està instal·lant&#8230;</string>
   <string name="keep_screen_on">Mantén-la activa</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="launch">Obre</string>
   <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
   <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
@@ -234,8 +234,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="lb_onboarding_get_started">COMENÇA</string>
   <string name="lb_playback_controls_closed_captioning_disable">Desactiva els subtítols</string>
   <string name="lb_playback_controls_closed_captioning_enable">Activa els subtítols</string>
-  <string name="lb_playback_controls_fast_forward">Avanç ràpid</string>
-  <string name="lb_playback_controls_fast_forward_multiplier">Avanç ràpid %1$dx</string>
+  <string name="lb_playback_controls_fast_forward">Avança ràpidament</string>
+  <string name="lb_playback_controls_fast_forward_multiplier">Avança ràpidament %1$dx</string>
   <string name="lb_playback_controls_high_quality_disable">Desactiva la qualitat alta</string>
   <string name="lb_playback_controls_high_quality_enable">Activa la qualitat alta</string>
   <string name="lb_playback_controls_more_actions">Més accions</string>

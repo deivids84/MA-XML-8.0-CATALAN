@@ -84,7 +84,7 @@
   <string name="call_operator_init">Establir l\'operador</string>
   <string name="call_other">Trucada</string>
   <string name="call_other_fax">Trucada de fax</string>
-  <string name="call_pager">Trucada a buscapersones</string>
+  <string name="call_pager">Trucada a cercapersones</string>
   <string name="call_problem_report">Notifica un error</string>
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
@@ -130,7 +130,6 @@
   <string name="callrecordview_menu_mobiledata">Dades de compra</string>
   <string name="callrecordview_menu_paste">Enganxa</string>
   <string name="callrecordview_menu_recharge">Recarregar</string>
-  <string name="callrecordview_menu_save_to_group">Desar el registre de trucades al grup</string>
   <string name="callrecordview_menu_settings">Configuració</string>
   <string name="callrecordview_menu_show">Filtrar</string>
   <string name="callrecordview_menu_show_accepted">Trucades contestades</string>
@@ -141,8 +140,6 @@
   <string name="callrecordview_menu_show_sim">%s trucades</string>
   <string name="callrecordview_menu_show_stranger">Trucades de números desconeguts</string>
   <string name="callrecordview_menu_show_title">Pantalla del registre de trucades</string>
-  <string name="callrecordview_menu_voip">Mi Voice</string>
-  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Descarteu els canvis?</string>
   <string name="cancel_confirmation_dialog_title">Cancel·la</string>
   <string name="cancel_export_confirmation_message">Voleu cancel·lar l\'exportació de %s?</string>
@@ -265,7 +262,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="create_group_dialog_title">Crea un nou grup</string>
   <string name="create_group_item_label">Crea un nou grup</string>
   <string name="create_qrcode_fail_message">"Creació de codi QR fallida"</string>
-  <string name="create_voip_shortcut_success">Drecera creada</string>
   <string name="customLabelPickerTitle">Nom de l\'etiqueta personalitzada</string>
   <string name="custom_list_filter">Definir una vista personalitzada</string>
   <string name="custom_nickname_hint">Introduïu una sobrenom</string>
@@ -474,18 +470,15 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="groupSavedErrorToast">"No pot guardar canvis de grup"</string>
   <string name="groupSavedToast">Grup guardat</string>
   <string name="group_add_fail_toast">"No es pot afegir contactes"</string>
-  <string name="group_copy_fail_toast">"No s'ha pogut copiar els contactes"</string>
   <string name="group_create_fail_toast">"No s'ha pogut crear grup"</string>
   <string name="group_create_success_toast">Grup creat</string>
   <string name="group_delete_success_toast">Grup eliminat</string>
   <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
   <string name="group_member_remove_toast">Eliminat del grup</string>
-  <string name="group_move_fail_toast">"No es pot moure els contactes"</string>
   <string name="group_name">Els meus grups</string>
   <string name="group_name_hint">"Nom del grup"</string>
   <string name="group_read_only">No es pot modificar en aquest dispositiu.</string>
-  <string name="group_remove_success_toast">Contactes moguts amb èxit</string>
   <string name="group_rename_dialog_title">Canviar el nom de grup</string>
   <string name="group_rename_fail_toast">"No va poder canviar el nom del grup"</string>
   <string name="group_rename_success_toast">Grup reanomenat</string>
@@ -549,8 +542,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="insertContactDescription">Crea contacte</string>
   <string name="insertGroupDescription">Crea un grup</string>
   <string name="invalidContactMessage">"No existeix el contacte"</string>
-  <string name="invalid_contacts_excluded_to_save_to_group">Només es desaran al grup les entrades amb contactes</string>
-  <string name="invalid_contacts_to_save_to_group">"No es poden desar numeros desconeguts"</string>
   <string name="keep_local">"Mantenir local"</string>
   <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
   <string name="label_custom_type">Personalitzat</string>
@@ -602,10 +593,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_accounts">Comptes</string>
   <string name="menu_addStar">Afegeix als favorits</string>
   <string name="menu_bar_group_add">Afegir</string>
-  <string name="menu_bar_group_batch_copy">Copia al grup</string>
-  <string name="menu_bar_group_batch_edit">Contactes múltiples</string>
-  <string name="menu_bar_group_batch_move">Moure al grup</string>
-  <string name="menu_bar_group_batch_remove">Eliminar grup</string>
   <string name="menu_bar_group_delete">Elimina</string>
   <string name="menu_bar_group_rename">Canviar el nom</string>
   <string name="menu_bar_group_ringtone">To de trucada de grup</string>
@@ -821,7 +808,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="no_contacts_dialog_title">"No es poden trobar contactes"</string>
   <string name="no_contacts_selected">No hi ha contactes seleccionats.</string>
   <string name="no_sdcard_message">Emmagatzematge no va ser trobat.</string>
-  <string name="no_voip_contacts">Cap contacte de Mi Voice</string>
   <string name="non_phone_add_to_contacts">Afegeix a contactes</string>
   <string name="non_phone_caption">Número de telèfon</string>
   <string name="non_phone_close">Tancar</string>
@@ -875,14 +861,11 @@ Per afegir un contacte a la llista de favorits:
   <string name="percent_sign">%</string>
   <string name="percentage">%s %%</string>
   <string name="phoneLabelsGroup">Telèfon</string>
-  <string name="phone_call_type_livetalk">Paquet de recàrrega</string>
-  <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Número massa llarg</string>
   <string name="phone_primary">Primària</string>
   <string name="photoPickerNotFoundText">No hi ha imatges disponibles al telèfon.</string>
   <string name="photo_fragment">Foto</string>
-  <string name="photo_labels_group">Foto de perfil</string>
   <string name="photo_load_failed">"No s'ha pogut carregar la foto"</string>
   <string name="pick_new_photo">Seleccioneu Nova foto de la galeria</string>
   <string name="pick_photo">Triar foto de la galeria</string>
@@ -917,8 +900,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="pref_key_sim_manage">Configura la targeta SIM</string>
   <string name="pref_key_sim_manage1">Configura SIM 1</string>
   <string name="pref_key_sim_manage2">Configura SIM 2</string>
-  <string name="pref_rcs_backup_restore_title">Còpia de seguretat &amp; Ajustaments de recuperació</string>
-  <string name="pref_rcs_fetion_entry_title">Ajustaments Fetion</string>
   <string name="pref_summary_import_from_account">Transferència de contactes des de comptes de Google i Exchange al meu compte Mi</string>
   <string name="pref_title_account_import">Importa contactes</string>
   <string name="pref_title_import_from_account">Importa a compte Mi</string>
@@ -972,28 +953,14 @@ Per afegir un contacte a la llista de favorits:
   <string name="profile_display_name">Configura meu perfil</string>
   <string name="profile_name">El meu perfil</string>
   <string name="profile_name_photo">Foto</string>
-  <string name="public_account_name">Compte públic</string>
   <string name="pull_to_refresh_pull_label">Arrossegueu per refrescar…</string>
   <string name="pull_to_refresh_refreshing_label">Un moment&#8230;</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per refrescar…</string>
   <string name="qr_card_card">Codi QR</string>
   <string name="qrcode_card_title">Targeta en codi QR</string>
-  <string name="qrcode_detail_menu_edit">Edita codi QR</string>
-  <string name="qrcode_detail_menu_scan">Escaneja</string>
-  <string name="qrcode_editor_flash">Codi QR actualizat</string>
-  <string name="qrcode_editor_flash_failed">"No es pot actualitzar el codi QR"</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
   <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
-  <string name="rcs_account_type_title">Compte Fetion</string>
-  <string name="rcs_contact_detail_profile_binded_label">Compte Fetion actual</string>
-  <string name="rcs_fetion_not_exist">"No es pot trobar el connector Feiton"</string>
-  <string name="rcs_group_chat_name">Xat de grup</string>
-  <string name="rcs_profile_name">La meva targeta Fetion</string>
-  <string name="rcs_profile_name_photo">Jo</string>
-  <string name="rcs_recipient_type_contact">Envia a contacte</string>
-  <string name="rcs_recipient_type_group">Envia-ho al grup</string>
-  <string name="rcs_send_vcard">Envia vCard</string>
   <string name="readOnlyContactDeleteConfirmation">Aquest contacte conté informació de diversos comptes. Aquesta informació és de només lectura i s\'ocultarà en la seva llista de contactes, però no s\'eliminarà.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" conté informació de diversos comptes. Qualsevol informació que no es pugui eliminar s'ocultarà de la vostra llista de contactes."</string>
   <string name="readOnlyContactWarning">"No pots eliminar contactes de comptes de només lectura, però pots ocultar-los de les teves llistes de contactes."</string>
@@ -1036,7 +1003,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="savingDisplayGroups">Guardant opcions de visualització&#8230;</string>
   <string name="scan">Escanejar</string>
   <string name="scan_duplicate_message">%1$d contactes amb informació idèntica</string>
-  <string name="scan_merge">Buscant contactes duplicats&#8230;</string>
+  <string name="scan_merge">Cercant contactes duplicats&#8230;</string>
   <string name="scan_qrcode_card_hint1">Escaneja el codi QR de dalt</string>
   <string name="scanning_sdcard_failed_message">Motiu: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"L'emmagatzematge no va poder ser escanejat"</string>
@@ -1060,14 +1027,14 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_key_sim_manage">Organize;Contacts</string>
   <string name="search_preference_contacts_filter">Contacts;Display</string>
   <string name="search_remove_duplicate">Organize;Contacts</string>
-  <string name="search_results_searching">Buscant&#8230;</string>
+  <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
   <string name="search_share_visible_contacts">Contacts;Share;visible</string>
   <string name="search_sim_capacity">Contactes</string>
   <string name="search_simple_mode">Display;info;photos;Contacts</string>
   <string name="search_smart_group_title">Contacts;Display</string>
   <string name="search_wipe_data">Organize;Contacts</string>
-  <string name="searching_vcard_message">Buscant vCard a l\'emmagatzematge&#8230;</string>
+  <string name="searching_vcard_message">Cercant vCard a l\'emmagatzematge&#8230;</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_done">No hi ha més per seleccionar</string>
   <string name="select_groups">Grups seleccionats</string>
@@ -1172,9 +1139,9 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per buscar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
+  <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per cercar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
   <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
-  <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per buscar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
+  <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
   <string name="telecom_fraud_insurance">Segur de frau de telecomunicacions</string>
@@ -1225,7 +1192,6 @@ Trieu una de les següents opcions: "</string>
   <string name="vcard_import_request_rejected_message">Exportació de vCard va ser rebutjada. Intenta-ho més tard.</string>
   <string name="vcard_import_will_start_message">%s s\'importaran aviat.</string>
   <string name="vcard_import_will_start_message_with_default_name">El fitxer s\'importarà d\'aquí a poc.</string>
-  <string name="vcard_info_send_error">"No es pot enviar a causa d'un error en la vCard"</string>
   <string name="vcard_unknown_filename">Contacte</string>
   <string name="video_call">Vídeotrucada</string>
   <string name="video_chat">Vídeoxat</string>
@@ -1249,12 +1215,6 @@ Trieu una de les següents opcions: "</string>
   <string name="voicemail_status_messages_waiting">"No es pot connectar al servidor de correu de veu. S'esperen nous missatges."</string>
   <string name="voicemail_status_voicemail_not_available">"No es pot connectar al servidor de correu de veu."</string>
   <string name="voip_audio_description">Trucada VoIP</string>
-  <string name="voip_contact_label">Veu Mi</string>
-  <string name="voip_contacts_entry">Veu Mi</string>
-  <string name="voip_loading_contact">Un moment&#8230;</string>
-  <string name="voip_name">Veu Mi</string>
-  <string name="voip_recommend_msg">Tocar per utilitzar Mi Voice</string>
-  <string name="voip_shortcut_name">Veu Mi</string>
   <string name="voip_video_description">Videotrucada VoIP</string>
   <string name="websiteLabelsGroup">Pàgina web</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -1282,7 +1242,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">S\'està baixant&#8230;</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"No es pot connectar a la xarxa. Comprova la teva connexió de dades i intenta de nou."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Afegit a la pantalla d\'inici</string>
-  <string name="yellowpage_search_the_yellowpage">Buscar en les pàgines grogues</string>
+  <string name="yellowpage_search_the_yellowpage">Cerca en les pàgines grogues</string>
   <string name="yellowpage_user_profile">Perfil</string>
   <string name="yesterday">Ahir</string>
   <string name="zero_items_selected">Seleccionar elements</string>

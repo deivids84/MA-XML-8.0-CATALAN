@@ -82,6 +82,7 @@
   <string name="register_on_network">S\'està registrant a %1$s&#8230;</string>
   <string name="registration_done">Registrat a la xarxa.</string>
   <string name="roaming">Itinerància de dades</string>
+  <string name="roamingTextSearching">S\'està cercant el servei</string>
   <string name="roaming_alert_title">Voleu permetre la itinerància de dades?</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_enable">Connecta a serveis de dades en itinerància</string>

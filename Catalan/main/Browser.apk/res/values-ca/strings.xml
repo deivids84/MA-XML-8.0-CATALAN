@@ -669,7 +669,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="same_folder_name_warning">Ja existeix un grup amb el mateix nom</string>
   <string name="save_button_text">Desa</string>
   <string name="save_dialog_title">Desa</string>
-  <string name="save_file">Desa %s fitxers</string>
+  <string name="save_file">Desa l\'arxiu %s</string>
   <string name="save_file_already_exist_alert_message">Ja existeix un fitxer amb el mateix nom, el voleu substituir?</string>
   <string name="save_file_already_exist_alert_title">Voleu substituir el fitxer?</string>
   <string name="save_form_data_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>

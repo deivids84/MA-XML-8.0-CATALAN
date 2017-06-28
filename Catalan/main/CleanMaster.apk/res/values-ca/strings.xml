@@ -34,6 +34,8 @@
   <string name="apk_status_installed_old">Versió antiga</string>
   <string name="apk_status_uninstalled">Sense instal·lar</string>
   <string name="apk_title_alipay_plugin">支付宝插件</string>
+  <string name="app_description_content">El netejador troba la brossa del dispositiu i allibera espai d\'emmagatzematge. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+  <string name="app_description_title">Quan al Netejador</string>
   <string name="app_install_tips_go_to">Obre</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>

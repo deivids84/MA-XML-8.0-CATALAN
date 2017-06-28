@@ -159,7 +159,7 @@
   <string name="desc_online_personal_radio">Només per a vós</string>
   <string name="deselect_all">Anul·la tota la selecció</string>
   <string name="desktop_lyric_button_close">Tanca</string>
-  <string name="desktop_lyric_button_lock">Bloqueja</string>
+  <string name="desktop_lyric_button_lock">Bloca</string>
   <string name="desktop_lyric_color">Color</string>
   <string name="desktop_lyric_dialog_msg">Activeu o desactiveu les lletres a la pàgina d\'inici a Música &gt; Configuració &gt; Configuració avançada</string>
   <string name="desktop_lyric_dialog_positive_button">Proveu-ho ara</string>
@@ -509,7 +509,7 @@
   <string name="mobile_recommended_title">Ús de dades mòbils</string>
   <string name="modify_lyric">Edita la lletra</string>
   <string name="modify_progress">Canvia la velocitat de desplaçament de la lletra</string>
-  <string name="modify_progress_helper">Feu lliscar amunt o avall per ajustar l\'avanç de la lletra.</string>
+  <string name="modify_progress_helper">Feu lliscar amunt o avall per ajustar l\'avançament de la lletra.</string>
   <string name="modify_song_info">Edita la informació de la cançó</string>
   <string name="monthly_price">Crèdits Mi</string>
   <string name="more">Més</string>
@@ -785,7 +785,7 @@
   <string name="similar_songs">Cançons similars</string>
   <string name="sleep_mode">Temporitzador</string>
   <string name="sleep_mode_canceled">Temporitzador apagat</string>
-  <string name="sleep_mode_summary">Aturar el reproductor després d\'un determinat temps</string>
+  <string name="sleep_mode_summary">Atura el reproductor passat un determinat temps</string>
   <string name="sleep_mode_title">Temporitzador</string>
   <string name="song_exist_in_playlist">Aquesta cançó ja està a la llista de reproducció</string>
   <string name="song_is_empty">El nom de la cançó no pot estar buit.</string>

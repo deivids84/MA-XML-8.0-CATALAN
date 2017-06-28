@@ -133,7 +133,7 @@
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
-  <string name="get_phone_bind_exceed_limit">El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte</string>
+  <string name="get_phone_bind_exceed_limit">"El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte"</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
   <string name="input_email_address_notice">"Utilitzarem aquest e-mail per verificar el vostre compte"</string>

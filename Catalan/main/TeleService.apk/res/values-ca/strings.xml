@@ -755,7 +755,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="ivr_type_settings">Configuració del pla de dades</string>
   <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
   <string name="keep_screen_on">Mantén-la activa</string>
-  <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
+  <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="labelCDMAMore">Configuració de trucades CDMA</string>
   <string name="labelCF">Desviament de trucades</string>
   <string name="labelCFB">Ocupat</string>
@@ -791,7 +791,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="list_language_summary">Seleccioneu l\'idioma de les notícies</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_setting">Paquet de recàrrega</string>
-  <string name="load_networks_progress">Buscant&#8230;</string>
+  <string name="load_networks_progress">S\'està cercant&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya de la còpia de segurerat de l\'escriptori</string>
@@ -894,7 +894,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="network_settings_auto_select_title">Voleu seleccionar manualment la xarxa?</string>
   <string name="network_settings_automatically_option">Selecciona automàticament la xarxa preferida (%s)</string>
   <string name="network_settings_confirm_message">El vostre dispositiu es desconnectarà de la xarxa mentre cerca les xarxes disponibles.</string>
-  <string name="network_settings_data_connected_change">Les dades mòbils es desconnectaran automàticament mentre el vostre dispositiu estigui buscant xarxes disponibles.</string>
+  <string name="network_settings_data_connected_change">Les dades mòbils es desconnectaran automàticament mentre el vostre dispositiu cerqui xarxes disponibles.</string>
   <string name="network_settings_duringcall">"Operació no permesa durant una trucada"</string>
   <string name="network_settings_forbidden">%s (prohibida)</string>
   <string name="network_settings_information">Voleu desactivar les dades mòbils?</string>

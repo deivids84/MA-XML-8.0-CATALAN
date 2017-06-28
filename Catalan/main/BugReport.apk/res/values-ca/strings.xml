@@ -184,9 +184,9 @@
   <string name="min_error">%1$s ha de ser més llarg.</string>
   <string name="modem_tool_log">Recupera els registres del mòdem</string>
   <string name="modem_tool_log_start">Inicia</string>
-  <string name="modem_tool_log_start_toast">Comença a bolcar els registres del mòdem a %s</string>
+  <string name="modem_tool_log_start_toast">Comença a abocar els registres del mòdem a %s</string>
   <string name="modem_tool_log_stop">Atura</string>
-  <string name="modem_tool_log_stop_toast">Atura el bolcat dels registres del mòdem de %s</string>
+  <string name="modem_tool_log_stop_toast">Atura l\'abocament dels registres del mòdem de %s</string>
   <string name="module_communication">Comunicació</string>
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>

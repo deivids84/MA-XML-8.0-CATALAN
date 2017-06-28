@@ -3,7 +3,7 @@
 <resources>
   <string name="ACaddnumcontent">Introduïu el codi d\'àrea</string>
   <string name="ACaddnumtitle">Afegiu el prefix de número de telèfon a les excepcions</string>
-  <string name="AD_ALLOW">Permet anuncis</string>
+  <string name="AD_ALLOW">Permeteu anuncis</string>
   <string name="AD_APPInfo">Informació de l\'aplicació</string>
   <string name="AD_AntiSpam">Bloquejador d\'anuncis</string>
   <string name="AD_BLOCK">Bloquejador d\'anuncis</string>
@@ -118,7 +118,7 @@
   <string name="dlg_remove_whitelist_title">Elimina</string>
   <string name="dlg_retore">Voleu restaurar el missatge a la safata d\'entrada?</string>
   <string name="dlg_retore_ok">Restaura</string>
-  <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
+  <string name="dlg_title_not_open_stranger_identify">Identifiqueu els desconeguts</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
   <string name="dlg_white_antispam_hint">Excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
@@ -154,7 +154,7 @@
   <string name="mark_number_agent">Agència</string>
   <string name="mark_number_fraud">Frau</string>
   <string name="mark_number_harass">Assetjament</string>
-  <string name="mark_number_info">"Tingueu en compte que de vegades aquestes trucades poden ser útils (p.e. quan realment esteu buscant un apartament). Bloquegeu només els números dels quals mai no voleu rebre trucades."</string>
+  <string name="mark_number_info">"Tingueu en compte que de vegades aquestes trucades poden ser útils (p.e. quan realment cerqueu un apartament). Bloquegeu només els números dels quals mai no voleu rebre trucades."</string>
   <string name="mark_number_sell">Telemàrqueting</string>
   <string name="mark_number_setting_guide_content1">Voleu bloquejar les trucades dels números notificats?</string>
   <string name="mark_number_setting_guide_content2">Bloqueja automàticament les trucades dels números notificats per altres usuaris</string>
@@ -350,6 +350,6 @@
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="user_define_title">Afegeix regles</string>
   <string name="website">Lloc web</string>
-  <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
+  <string name="whitelist_prefix_add_hint">Afegiu tots els números amb prefix a les excepcions</string>
   <string name="wl_no_whitelist">No hi ha excepcions.</string>
 </resources>

@@ -99,7 +99,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_bluetooth_scan_retry">Explora de nou</string>
   <string name="cit_bluetooth_scanning">S\'està cercant dispositius propers (podria portar al voltant de 4 segons)&#8230;</string>
   <string name="cit_bluetooth_scanning_bluetooth_done">"Fet. No s'ha trobat cap dispositiu Bluetooth proper."</string>
-  <string name="cit_bluetooth_scanning_bluetooth_error">S\'ha produït un error mentre es buscaven dispositius Bluetooth.</string>
+  <string name="cit_bluetooth_scanning_bluetooth_error">S\'ha produït un error mentre se cercaven dispositius Bluetooth.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">S\'està obrint el dispositiu Bluetooth&#8230;</string>
   <string name="cit_build_finger_failed">HA FALLAT la creació de l\'empremta</string>
   <string name="cit_build_finger_passed">Creació de l\'empremta CORRECTA</string>
@@ -167,7 +167,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_headset_button_check_title">Botons dels auriculars</string>
   <string name="cit_headset_button_click">Premeu els botons en els auriculars</string>
   <string name="cit_headset_button_current">Botó actual: %s</string>
-  <string name="cit_headset_button_fast_forward">Avanç ràpid</string>
+  <string name="cit_headset_button_fast_forward">Avança ràpidament</string>
   <string name="cit_headset_button_next">Següent</string>
   <string name="cit_headset_button_pass">Passada</string>
   <string name="cit_headset_button_play_pause">Reprodueix/pausa</string>
@@ -395,7 +395,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_wifi_ap_scan_check_title">Escaneig Wi-Fi AP</string>
   <string name="cit_wifi_ap_scan_retry">S\'està escanejant una altra vegada&#8230;</string>
   <string name="cit_wifi_ap_scanning">S\'està escanejant&#8230;</string>
-  <string name="cit_wifi_fail_to_scan">"No s'ha pogut escanejar xarxes"</string>
+  <string name="cit_wifi_fail_to_scan">"No s'han pogut escanejar les xarxes"</string>
   <string name="cit_wifi_state_refresh">Actualitza</string>
   <string name="cit_yellow_torch_on">Activa el LED groc</string>
   <string name="error_app_internal">Error intern de l\'aplicació</string>

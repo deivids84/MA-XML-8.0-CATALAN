@@ -171,15 +171,26 @@
   <string name="pm_root_success_title">S\'ha activat l\'accés root</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">S\'estan cercant actualitzacions&#8230;</string>
+  <string name="provision_activate_device">S\'està activant el dispositiu&#8230;</string>
+  <string name="provision_check_sim">Detecta la targeta SIM</string>
+  <string name="provision_connect_wifi">Connecta a la Wi-Fi</string>
+  <string name="provision_have_sim">S\'ha inserit una targeta SIM</string>
+  <string name="provision_no_network_extra">Connecteu-vos a la Wi-Fi, o inseriu la targeta SIM i feu servir dades mòbils per activar el dispositiu. No podeu activar el dispositiu sense connectar-vos a la xarxa.</string>
+  <string name="provision_no_network_title">Connecta a la xarxa</string>
+  <string name="provision_retry">Torna-ho a provar</string>
+  <string name="provision_toast_no_network">Cal que primer us connecteu a la xarxa</string>
+  <string name="provision_toast_server_error">No s\'ha pogut connectar al servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+  <string name="provision_toast_timeout">Temps de connexió esgotat. Comproveu la configuració de xarxa.</string>
   <string name="reboot">Reinicia</string>
   <string name="recovery_failed_button">D\'acord</string>
   <string name="recovery_failed_msg">"El dispositiu no té prou memòria per entrar al mode de recuperació i actualitzar el sistema. Proveu d\'utilitzar la Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"No es pot entrar al mode de recuperació"</string>
   <string name="recovery_failed_title">Utilitzeu la Mi PC Suite per a actualitzar el sistema</string>
+  <string name="recovery_power_need_plugged">Connecteu el carregador per actualitzar</string>
   <string name="recovery_power_not_enough_msg">Connecteu el carregador per a poder actualitzar si queda menys del 30% de bateria</string>
-  <string name="recovery_power_not_enough_msg_plugged">Ha de quedar més del 30% de bateria per a poder actualitzar el dispositiu</string>
   <string name="recovery_power_not_enough_title">Bateria baixa</string>
+  <string name="recovery_power_plugged_warning">Assegureu-vos que està connectat el carregador al dispositiu durant l\'actualització</string>
   <string name="repeat">Intenta-ho de nou</string>
   <string name="root_acquired">Permet l\'accés root</string>
   <string name="root_agree_check_box_title">Entenc els riscos de l\'accés d\'administrador</string>

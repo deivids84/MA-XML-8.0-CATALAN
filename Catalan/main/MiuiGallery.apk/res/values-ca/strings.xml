@@ -10,10 +10,10 @@
 "</string>
   <string name="__leak_canary_leak_list_title">Pèrdues de memòria a %s</string>
   <string name="__leak_canary_notification_message">Feu clic per a més detalls</string>
-  <string name="__leak_canary_share_heap_dump">Comparteix el bolcat de memòria</string>
+  <string name="__leak_canary_share_heap_dump">Comparteix l\'abocament de memòria</string>
   <string name="__leak_canary_share_leak">Comparteix la informació</string>
   <string name="__leak_canary_share_with">Comparteix amb&#8230;</string>
-  <string name="__leak_canary_toast_heap_dump">En el bolcat de memòria l\'aplicació es congelarà.</string>
+  <string name="__leak_canary_toast_heap_dump">En l\'abocament de memòria l\'aplicació es congelarà.</string>
   <string name="accept">D\'acord</string>
   <string name="accept_or_deny">%1$s us ha compartit l\'àlbum %2$s.</string>
   <string name="add_automatically_alert_msg">Voleu afegir fotos de \"%1$s\" a aquest àlbum automàticament?</string>
@@ -126,7 +126,7 @@
   <string name="baby_nick_name">Sobrenom</string>
   <string name="baby_sexy">Gènere</string>
   <string name="baby_suffix">nadó</string>
-  <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu buscar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
+  <string name="backup_automatically_summary">Feu una còpia de seguretat de les fotos i vídeos de tots els dispositius a Mi Cloud. D\'aquesta manera podeu cercar, classificar, editar i compartir fotos i vídeos a tots els vostres dispositius.</string>
   <string name="backup_automatically_title">Còpia de seguretat automàtica</string>
   <string name="backup_battery_low_desc">Encara podeu optar por continuar copiant elements</string>
   <string name="backup_battery_low_title">Còpia de seguretat pausada pel baix nivell de la bateria</string>
@@ -826,7 +826,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="load_complete">No hi ha més elements aquí</string>
   <string name="load_failed">"No s'ha pogut carregar la infirmació, toqueu per tornar-ho a provar"</string>
   <string name="load_relations">Un moment&#8230;</string>
-  <string name="loading">Un moment</string>
+  <string name="loading">Un moment...</string>
   <string name="loading_dots">Un moment&#8230;</string>
   <string name="loading_dual_tip">S\'està carregant la foto dual&#8230;</string>
   <string name="loading_fail">"No s'ha pogut baixar"</string>

@@ -63,6 +63,8 @@
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
   <string name="card_title_hanging_up">"S'està penjant... "</string>
+  <string name="card_title_hanging_up_restart">"No es pot finalitzar la trucada. Reinicieu el dispositiu."</string>
+  <string name="card_title_hanging_up_weak_signal">Senyal de xarxa mòbil feble. Trucada finalitzada</string>
   <string name="card_title_in_call">A la trucada</string>
   <string name="card_title_in_call_short">A la trucada</string>
   <string name="card_title_in_video">Vídeo</string>
@@ -214,9 +216,9 @@
   <string name="onscreen_close_preview_camera">Tanca la càmera</string>
   <string name="onscreen_hold_text">Reten</string>
   <string name="onscreen_merge_calls_text">Combina les trucades</string>
+  <string name="onscreen_message_text">Missatges</string>
   <string name="onscreen_mute_text">Silenci</string>
   <string name="onscreen_note_calls_text">Nota</string>
-  <string name="onscreen_rcs_text">Missatges</string>
   <string name="onscreen_swap_calls_text">Alterna</string>
   <string name="onscreen_switch_camera">Canvia la càmera</string>
   <string name="pause_prompt_no">No</string>

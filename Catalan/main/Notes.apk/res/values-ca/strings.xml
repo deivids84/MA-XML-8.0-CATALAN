@@ -123,7 +123,7 @@
   <string name="search">Notes</string>
   <string name="search_hint">Cercar notes</string>
   <string name="search_keyword_notes">Notes;Anotació</string>
-  <string name="search_label">Buscant notes</string>
+  <string name="search_label">S\'està cercant...</string>
   <string name="search_path_notes">Aplicacions del sistema/Notes</string>
   <string name="search_setting_description">Escrigui les seves notes</string>
   <string name="select_account_prompt">Sincronitzar notes</string>

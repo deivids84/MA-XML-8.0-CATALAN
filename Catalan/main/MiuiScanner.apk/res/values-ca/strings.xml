@@ -15,6 +15,17 @@
   <string name="camera_error_title">Error de la càmera</string>
   <string name="cancel">Cancel·la</string>
   <string name="choose_picture">Seleccioneu una imatge amb codi QR</string>
+  <string name="com_taobao_tae_sdk_alert_message">Heu estat fora molt temps. Torneu a provar-ho.</string>
+  <string name="com_taobao_tae_sdk_authorize_title">Autorització d\'inici de sessió</string>
+  <string name="com_taobao_tae_sdk_back_message">Enrera</string>
+  <string name="com_taobao_tae_sdk_cart_title">Carret de la compra</string>
+  <string name="com_taobao_tae_sdk_close_message">Enrera</string>
+  <string name="com_taobao_tae_sdk_loading_progress_message">S\'està carregant</string>
+  <string name="com_taobao_tae_sdk_login_progress_message">Aterratge</string>
+  <string name="com_taobao_tae_sdk_logout_fail_message">El tancament de la sessió ha fallat</string>
+  <string name="com_taobao_tae_sdk_network_not_available_message">La xarxa no pot connectar-se</string>
+  <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Confirmació de la compra</string>
+  <string name="com_taobao_tae_sdk_trade_title">Confirma la comanda</string>
   <string name="common_retake_picture">Repeteix</string>
   <string name="common_retry">Reintenta</string>
   <string name="common_save">Desa</string>

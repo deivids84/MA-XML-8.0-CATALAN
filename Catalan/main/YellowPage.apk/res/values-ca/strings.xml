@@ -290,11 +290,9 @@ Comproveu el número de seguiment."</string>
   <string name="menu_delete_call_log">Elimina el registre de trucades</string>
   <string name="menu_delete_one">Elimina del registre de trucades</string>
   <string name="menu_enroll_in_yellow_page">Utilitzeu la identitat de trucada</string>
-  <string name="menu_follow_yellow_page">Segueix</string>
   <string name="menu_remove_black_list">Treu de la llista de bloqueig</string>
   <string name="menu_remove_from_favorite">Elimina dels favorits</string>
   <string name="menu_save_contact">Desa el número als contactes</string>
-  <string name="menu_unfollow_yellow_page">Deixa de seguir</string>
   <string name="minimum_price">Des de %d iuans</string>
   <string name="mishop_web_payment_title">Comprovació Mi Store</string>
   <string name="miuishare_account_activate_confirmation">Activa</string>

@@ -6,6 +6,8 @@
   <string name="app_name">Trobar dispositiu</string>
   <string name="captcha">Codi de seguretat</string>
   <string name="change_find_device_status_failed">"No es pot desblocar. %s."</string>
+  <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d\'un pagament endarrerit.
+Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="default_lock_msg_words">Aquest dispositiu està associat amb un Compte Mi existent. Per raons de seguretat, necessiteu introduir la vostra contrasenya de nou per verificar el dispositiu.</string>
   <string name="default_lock_msg_words_with_phone">Hola! Vaig perdre el meu telèfon. Podríeu posar-vos en contacte amb mi? Gràcies!</string>
   <string name="device_locked">Aquest dispositiu està blocat</string>

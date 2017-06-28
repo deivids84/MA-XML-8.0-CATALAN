@@ -8,10 +8,10 @@
   <string name="location_warning_message">"Permeteu que el servei d'ubicació AutoNavi recopili dades d'ubicació anònimes. Algunes dades podran emmagatzemar-se en el dispositiu, i la recopilació podrà fer-se encara que no hi hagi aplicacions executant-se."</string>
   <string name="location_warning_title">Consentiment d\'ubicació</string>
   <string name="persmission_close">TANCA</string>
-  <string name="persmission_message">Perquè funcioni correctament, aquest servei requereix permisos especials. Doneu-li\'ls quan vos els demanin.</string>
-  <string name="persmission_message2">Perquè funcioni correctament, aquest servei requereix accedir a l\'emmagatzematge. Doneu-li permisos quan vos els demanin.</string>
-  <string name="persmission_message3">Perquè funcioni correctament, aquest servei requereix accedir a la ubicació. Doneu-li permisos quan vos els demanin.</string>
-  <string name="persmission_message4">Perquè funcioni correctament, aquest servei requereix accedir al telèfon. Doneu-li permisos quan vos els demanin.</string>
+  <string name="persmission_message">Perquè funcioni correctament, aquest servei requereix permisos especials. Doneu-li\'ls quan us els demanin.</string>
+  <string name="persmission_message2">Perquè funcioni correctament, aquest servei requereix accedir a l\'emmagatzematge. Doneu-li permisos quan us els demanin.</string>
+  <string name="persmission_message3">Perquè funcioni correctament, aquest servei requereix accedir a la ubicació. Doneu-li permisos quan us els demanin.</string>
+  <string name="persmission_message4">Perquè funcioni correctament, aquest servei requereix accedir al telèfon. Doneu-li permisos quan us els demanin.</string>
   <string name="persmission_message5">"Perquè funcioni correctament, aquest servei requereix permisos especials. Podeu administrar els permisos de localització de xarxa a la Configuració"</string>
   <string name="persmission_message6">"Perquè funcioni correctament, aquest servei requereix accedir a la ubicació. Podeu administrar els permisos d'ubicació de xarxa a la Configuració."</string>
   <string name="persmission_message7">"Perquè funcioni correctament, aquest servei requereix accedir al telèfon. Podeu administrar els permisos d'ubicació de xarxa a la Configuració."</string>

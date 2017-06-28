@@ -106,9 +106,11 @@
   <string name="permdesc_bluetoothAvrcpDataManager">Permet que l\'aplicació accedeixi al gestor de dades AVRCP del Bluetooth i l\'utilitzi per mostrar-les a la interfície d\'usuari.</string>
   <string name="permdesc_bluetoothShareManager">Permet que l\'aplicació accedeixi al gestor de Compartició per Bluetooth i l\'utilitzi per transferir fitxers.</string>
   <string name="permdesc_bluetoothWhitelist">Permet que l\'aplicació posi temporalment un dispositiu Bluetooth a la llista blanca, acceptant-ne així els fitxers que aquest enviï sense la confirmació de l\'usuari.</string>
+  <string name="permdesc_handoverStatus">Permet rebre informació de l\'estat de transferència Bluetooth.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Accés a les dades AVRCP.</string>
   <string name="permlab_bluetoothShareManager">Accés al gestor de baixades.</string>
   <string name="permlab_bluetoothWhitelist">Accés a la llista blanca de dispositius Bluetooth.</string>
+  <string name="permlab_handoverStatus">Rep transmissions BT.</string>
   <string name="start_server">Inicia el servidor TCP</string>
   <string name="status_canceled">L\'usuari ha cancel·lat la transferència.</string>
   <string name="status_connection_error">Connexió incorrecta.</string>
