@@ -240,6 +240,7 @@
   <string name="unknown">Desconegut</string>
   <string name="unlock_phone">Desbloqueja el dispositiu</string>
   <string name="upgrade_vt_prompt">Voleu canviar la trucada a trucada de vídeo?</string>
+  <string name="user_locked_prompt">Desbloquegeu el dispositiu per accedir als contactes.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desactiveu el mode TTY primer</string>
   <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
   <string name="video_switch_to_voice_call_prompt">Canvia la trucada de veu</string>

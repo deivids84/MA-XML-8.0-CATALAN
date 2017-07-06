@@ -26,6 +26,7 @@
   <string name="add_anniversary">Afegeix commemoració</string>
   <string name="add_countdown">Afegeix compte enrere</string>
   <string name="add_event">Afegeix esdeveniment</string>
+  <string name="agenda_month_empty_hint">Cap esdeveniment per avui</string>
   <string name="agenda_today">AVUI, %1$s</string>
   <string name="agenda_tomorrow">DEMÀ, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -255,6 +256,7 @@
   <string name="jump_date_full">Vés a la data</string>
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
+  <string name="load_more_hint">Actualitza els esdeveniments de %1$d</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="local_calendar_display_name">Calendari local</string>
   <string name="local_owner_account_name">Desat en aquest dispositiu</string>
@@ -293,6 +295,7 @@
   <string name="new_event_dialog_label">Nou esdeveniment</string>
   <string name="new_event_dialog_option">Nou esdeveniment</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
+  <string name="no_events_hint">Cap esdeveniment</string>
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
   <string name="no_network_btn">Torneu-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
@@ -350,10 +353,12 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">La setmana comença el</string>
   <string name="preferences_week_start_day_title">La setmana comença el</string>
+  <string name="pull_to_refresh_hint">Estireu per actualitzar els esdeveniments de %1$d</string>
   <string name="recommend_card_add">立即订阅</string>
   <string name="recommend_card_adding">添加中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
   <string name="refresh">Actualitza</string>
+  <string name="refreshing_hint">S\'està actualitzant</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
   <string name="repeat_custom_prompt">cada %1$s els %2$s</string>

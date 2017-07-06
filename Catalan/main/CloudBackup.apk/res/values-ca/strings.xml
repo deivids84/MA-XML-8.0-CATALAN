@@ -91,7 +91,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="managespace_delete_backup">Esborra còpia de seguretat</string>
   <string name="managespace_total_space">Espai total: %s</string>
   <string name="menu_item_managespace">Gestiona l\'espai</string>
-  <string name="menu_item_sort">Ordenar per</string>
+  <string name="menu_item_sort">Ordena per</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Mida</string>
   <string name="miui_device_name">Android</string>

@@ -1500,6 +1500,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">«A més d\'utilitzar l\'empremta per a desbloquejar el dispositiu, encara podeu protegir més aquest dispositiu fent que demani el PIN abans que s\'engegui. Fins que el dispositiu no es posa en marxa, no pot rebre trucades, missatges, o notificacions, incloses les alarmes.
 
 Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
+  <string name="encryption_progress_summary">"S'està xifrant, no reinicieu el dispositiu."</string>
   <string name="enhanced_4g_lte_mode_summary">Permet fer servir dades de LTE per millorar la veu i les comunicacions (opció recomanada)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
   <string name="enter_password">Introduïu la contrasenya per a desxifrar el dispositiu un cop reiniciat</string>
@@ -2194,7 +2195,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
-  <string name="long_press_volume_down">Mantén premut per baixar el volum</string>
+  <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
   <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
   <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
   <string name="lte_4g_settings_disable">Mode d\'avió o la targeta SIM no està preparada</string>
@@ -2406,6 +2407,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="mtp_ptp_mode_summary">La funció MTP o PTP està activa</string>
   <string name="multi_touch_points_category_title">Punts Multi-toc</string>
   <string name="multi_touch_points_preference">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu</string>
+  <string name="music_app_unavailable">Segons l\'aplicació música, assegureu-vos que estigui disponible</string>
   <string name="music_audio_effect_optimize">Configuració d\'àudio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, auriculars i altres configuracions d\'àudio</string>
@@ -2444,8 +2446,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_headset_calibrate_next_track">Següent cançó</string>
   <string name="music_headset_calibrate_prev_track">Cançó anterior</string>
   <string name="music_headset_calibrate_success">S\'ha actualitzat la configuració</string>
-  <string name="music_headset_calibrate_volume_down">Baixa el volum</string>
-  <string name="music_headset_calibrate_volume_up">Puja el volum</string>
+  <string name="music_headset_calibrate_volume_down">Abaixa el volum</string>
+  <string name="music_headset_calibrate_volume_up">Apuja el volum</string>
   <string name="music_headset_calibrate_wrong_key">"T'has equivocat de botó!"</string>
   <string name="music_headset_mode_music">Control de reproducció de música</string>
   <string name="music_headset_mode_settings">Botons del control remot d\'auriculars</string>
@@ -2456,9 +2458,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_hifi_title">Àudio Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
-  <string name="music_notification_headset_custom">Descarta</string>
-  <string name="music_notification_headset_info">Premeu per veure la configuració.</string>
-  <string name="music_notification_headset_settings">Auriculars connectats</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
@@ -2663,6 +2662,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Cap</string>
   <string name="owner_info_settings_title">Informació del propietari</string>
+  <string name="owner_space">Primer espai</string>
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="page_layout_1">Diumenge, 16 d\'Agost</string>
   <string name="page_layout_10">Configuració</string>
@@ -2813,7 +2813,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
   <string name="pref_title_lang_selection">Preferències d\'idioma</string>
-  <string name="pref_volume_launch_camera_summary">Per obrir la càmera, pitgeu dos cops baixar el volum</string>
+  <string name="pref_volume_launch_camera_summary">Per obrir la càmera, premeu dos cops abaixa el volum</string>
   <string name="pref_volume_launch_camera_title">Obre la càmera</string>
   <string name="pref_volume_wake_summary">El dispositiu s\'engega prement les tecles de volum</string>
   <string name="pref_volume_wake_title">Engega\'l amb les tecles de volum</string>
@@ -3713,6 +3713,7 @@ Per fer-ho:
   <string name="sim_lock_settings_category">Configura el bloqueig de la targeta SIM</string>
   <string name="sim_lock_settings_title">Bloqueig de la targeta SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
+  <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
   <string name="sim_multi_sims_summary">Trieu la SIM per a les dades mòbils.</string>
   <string name="sim_multi_sims_title">S\'han detectat diverses SIM</string>
   <string name="sim_name_hint">Introduïu el nom de la SIM</string>

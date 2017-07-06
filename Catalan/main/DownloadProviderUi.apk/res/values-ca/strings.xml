@@ -32,8 +32,8 @@
   <string name="bt_restart_dialog_message">Voleu reiniciar totes les baixades de la carpeta BT?</string>
   <string name="bt_restart_dialog_title">Reinicia totes les baixades</string>
   <string name="bt_xunlei_open_info">Utilitza motor Xunlei per obrir aquests enllaços?</string>
-  <string name="button_sort_by_date">Ordenar per data</string>
-  <string name="button_sort_by_size">Ordenar per mida</string>
+  <string name="button_sort_by_date">Ordena per data</string>
+  <string name="button_sort_by_size">Ordena per mida</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
   <string name="cancle">Cancel·la</string>
@@ -141,7 +141,7 @@
   <string name="durationMinutes">%1$d mins</string>
   <string name="durationSecond">%1$d seg</string>
   <string name="durationSeconds">%1$d segs</string>
-  <string name="edit_hint">&#160;Introduir http, torrent, o direcció d\'eMule</string>
+  <string name="edit_hint">Introdueix http, torrent, o adreça d\'eMule</string>
   <string name="editmode_menu_delete">Elimina</string>
   <string name="editmode_menu_share">Compartir</string>
   <string name="engine_open">Obre\'l</string>

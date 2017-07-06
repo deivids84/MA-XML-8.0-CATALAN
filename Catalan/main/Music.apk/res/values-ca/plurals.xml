@@ -81,10 +81,6 @@
     <item quantity="other">%d cançons</item>
     <item quantity="one">1 cançó</item>
   </plurals>
-  <plurals name="Nnew_local_audios">
-    <item quantity="other">%d cançons afegides</item>
-    <item quantity="one">%d cançó afegida</item>
-  </plurals>
   <plurals name="multichoice_title">
     <item quantity="other">%d elements seleccionats</item>
     <item quantity="one">%d element seleccionat</item>

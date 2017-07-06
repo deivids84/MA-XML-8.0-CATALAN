@@ -163,6 +163,7 @@
   <string name="expire_on">Caduca: %s</string>
   <string name="exporting_progress_private_message">S\'està exportant&#8230;</string>
   <string name="fail_to_add_attachment">"No s'ha pogut afegir el fitxer adjunt"</string>
+  <string name="fail_to_view_attachment">l\'adjunt no està disponible</string>
   <string name="failed_to_add_media">"No pot afegir aquest %1$s al missatge."</string>
   <string name="failed_to_resize_image">Foto no redimensionada.</string>
   <string name="fake_cell_alert_hint">Sembla que aquest missatge va ser enviat des d\'un número de telèfon que és diferent del que es mostra. Aneu amb compte amb els SMS que contenen peticions financeres.</string>
@@ -191,7 +192,6 @@
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Des de l\'aplicació:</string>
   <string name="group_message">Missatge de grup</string>
-  <string name="group_message_failed_title">"No es pot enviar a %d contactes"</string>
   <string name="group_resend_message">Reenvia (%d)</string>
   <string name="group_verification_codes_summary">Agrupa automàticament les contrasenyes úniques</string>
   <string name="group_verification_codes_title">Grup de missatges OTP</string>
@@ -526,7 +526,6 @@
   <string name="send_signature_confirm_dialog_title">Envia el missatge</string>
   <string name="send_sms">Envia el missatge</string>
   <string name="send_to">Per:</string>
-  <string name="send_to_count">Enviats %1$s missatges</string>
   <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Enviat a les %1s</string>
   <string name="sent_label">"Enviat: "</string>
@@ -598,9 +597,7 @@
   <string name="switch_to_menu">Mode de menú</string>
   <string name="text_in_popup_saved_to_clipboard">Copiat al porta-retalls</string>
   <string name="text_message">Missatge de text</string>
-  <string name="timed_message_expired_title">"%d missatges programats no van ser enviats"</string>
   <string name="timed_message_expired_title_2">Voleu enviar-los ara?</string>
-  <string name="timed_message_in_total">(%d missatges)</string>
   <string name="timed_message_to">per</string>
   <string name="title_allow_network_access">Actualitza la informació automàticament</string>
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
@@ -612,7 +609,6 @@
   <string name="title_timed_message_dialog">Estableix el missatge programat</string>
   <string name="title_use_gsm_alphabet">Utilitza l\'abecedari GSM</string>
   <string name="to_address_label">"Per: "</string>
-  <string name="to_count">%d destinataris</string>
   <string name="to_label">"Per "</string>
   <string name="to_send_wrapper">Seran enviats a %s</string>
   <string name="today">Avui</string>

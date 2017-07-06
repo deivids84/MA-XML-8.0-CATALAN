@@ -9,6 +9,8 @@
   <string name="altitude_uncalibrate_refresh">Torna a provar-ho</string>
   <string name="altitude_uncalibrate_tip">"No es pot calibrar l'altitud"</string>
   <string name="altitude_unit">M</string>
+  <string name="app_description_content">La brúixola s\'utilitza per a la navegació i l\'orientació i li mostra la direcció. Assegureu-vos que pot prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+  <string name="app_description_title">Quant a la brúixola</string>
   <string name="app_label">Brúixola</string>
   <string name="calibrate_failed">Ha fallat el calibratge d\'altitud</string>
   <string name="calibrate_failed_no_location">"No es pot calibrar"</string>

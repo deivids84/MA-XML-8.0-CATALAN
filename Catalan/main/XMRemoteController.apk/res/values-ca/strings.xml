@@ -486,7 +486,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_type_selection_title">Tipus</string>
   <string name="match_voh_intro_open">Allibereu quan s\'engegui el projector</string>
   <string name="match_vol_dec">El volum ha disminuït?</string>
-  <string name="match_vol_inc">El volum ha pujat?</string>
+  <string name="match_vol_inc">El volum ha apujat?</string>
   <string name="max_enter">No es pot excedir els %d caràcters</string>
   <string name="maybe_is">Assegureu-vos que:</string>
   <string name="menu">Menú</string>
@@ -568,7 +568,7 @@ ap arxiu d\'instal·lació</string>
   <string name="outdoor_temp_unknown">Desconeguda</string>
   <string name="partner">Suport</string>
   <string name="passport_access_denied">Accés denegat</string>
-  <string name="passport_account_hint_text">Email or phone number</string>
+  <string name="passport_account_hint_text">Adreça de correu o identificador de compte MI</string>
   <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -588,19 +588,19 @@ ap arxiu d\'instal·lació</string>
   <string name="passport_checking_input">Comprovant entrada&#8230;</string>
   <string name="passport_click_email_to_valid">"
 
-To activate your account, follow the 
- link in the message we\'ve sent to your inbox."</string>
+Per activar el vostre compte, seguiu l\'enllaç
+ que li hem enviat a la safata d\'entrada."</string>
   <string name="passport_completed">Finalitzat</string>
   <string name="passport_confirm_recycle_account">Sí</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
   <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
   <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
-  <string name="passport_email">Adreça email</string>
-  <string name="passport_email_or_id_hint_text">Adreça email o identificador del compte Mi</string>
+  <string name="passport_email">Adreça de correu electrònic</string>
+  <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador del compte Mi</string>
   <string name="passport_email_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
-  <string name="passport_error_dup_email">This email is already associated with another account</string>
+  <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
   <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu electrònic</string>
@@ -640,7 +640,7 @@ To activate your account, follow the
   <string name="passport_login">Inicieu la sessió a un compte existent</string>
   <string name="passport_login_failed">"No es pot obrir sessió"</string>
   <string name="passport_login_instead_reg">Utilitza aquest número</string>
-  <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
+  <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_prompt">Un únic compte Mi. Tots els serveis Mi.</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">&lt;u&gt;Altres maneres d\'iniciar la sessió &lt;/u&gt;</string>
@@ -665,16 +665,16 @@ To activate your account, follow the
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
-  <string name="passport_reg_type_email">Create account using email</string>
+  <string name="passport_reg_type_email">Uitilitza una adreça de correu</string>
   <string name="passport_reg_using_other_phone">Register using other phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Register using other phone number"</string>
   <string name="passport_reg_using_phone_number_prompt">Register with phone number</string>
   <string name="passport_reg_via_sms_alert">La vostra companyia podria cobrar el missatge SMS usat per activar aquest servei.</string>
   <string name="passport_reging">Creant compte&#8230;</string>
   <string name="passport_register">Crea un compte</string>
-  <string name="passport_register_account_goto_email">Go to your inbox</string>
+  <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">You\'ve already verified your account</string>
-  <string name="passport_register_by_email">Crea un compte utilitzant una adreça electrònica</string>
+  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
   <string name="passport_register_restricted">Ja hi ha massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_user_ID">ID d\'usuari: %s</string>
@@ -684,7 +684,7 @@ To activate your account, follow the
   <string name="passport_relogin_notice">Us cal iniciar sessió de nou</string>
   <string name="passport_remove_confirm">Tanca sessió</string>
   <string name="passport_remove_unactivated_account_notice">"El vostre compte no s'ha activat."</string>
-  <string name="passport_resend_active_email">Resend activation email</string>
+  <string name="passport_resend_active_email">Reenvia el correu</string>
   <string name="passport_reset_fail_title">"No s'ha pogut restablir"</string>
   <string name="passport_reset_password_prompt">La contrasenya és incorrecta</string>
   <string name="passport_reset_password_title">Restableix contrasenya</string>

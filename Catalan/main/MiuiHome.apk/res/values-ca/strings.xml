@@ -241,7 +241,7 @@
   <string name="transformation_type_cube">Cub</string>
   <string name="transformation_type_falldown">Caiguda</string>
   <string name="transformation_type_leftpage">Pàgina</string>
-  <string name="transformation_type_rotate">Rotar</string>
+  <string name="transformation_type_rotate">Gira</string>
   <string name="transformation_type_stack">Cascada</string>
   <string name="uninstall">Desinstal·la</string>
   <string name="uninstall_dialog_message">S\'eliminaran totes les dades de l\'aplicació.</string>

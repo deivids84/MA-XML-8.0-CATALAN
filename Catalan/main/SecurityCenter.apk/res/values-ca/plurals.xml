@@ -113,6 +113,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%1$d vistes</item>
     <item quantity="one">%1$d vista</item>
   </plurals>
+  <plurals name="result_virus_header">
+    <item quantity="other">S\'han trobat %d virus i aplicacions insegures</item>
+    <item quantity="one">S\'ha trobat una aplicació maliciosa</item>
+  </plurals>
+  <plurals name="result_sign_header">
+    <item quantity="other">S\'han trobat %d apps no oficials</item>
+    <item quantity="one">S\'ha trobat una aplicació no oficial</item>
+  </plurals>
   <plurals name="sp_settings_exception_count">
     <item quantity="other">%d elements</item>
     <item quantity="one">Un element</item>

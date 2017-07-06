@@ -79,7 +79,7 @@
   </string-array>
   <string-array name="volume_button_setting_entries">
     <item>Desactivats</item>
-    <item>Postposa</item>
+    <item>Repetició</item>
     <item>Atura</item>
   </string-array>
 </resources>

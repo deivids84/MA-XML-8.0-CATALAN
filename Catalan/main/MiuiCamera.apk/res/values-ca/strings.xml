@@ -253,6 +253,8 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estàndard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
+  <string name="pref_camera_proximity_lock_summary">Bloqueja el telèfon automàticament al ficar-lo a la butxaca</string>
+  <string name="pref_camera_proximity_lock_title">Mode butxaca</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Apagat</string>
   <string name="pref_camera_recordlocation_entry_on">Activat</string>

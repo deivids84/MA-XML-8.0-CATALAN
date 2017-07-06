@@ -388,9 +388,9 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_vibrator_play_touch_pattern">Vibració</string>
   <string name="cit_vibrator_short">Vibració curta</string>
   <string name="cit_vibrator_show_advanced">Mostra les opcions avançades</string>
-  <string name="cit_wifi_address_check_summary">A baix es mostra la direcció de la xarxa Wi-Fi a la qual el telèfon està connectat actualment. Confirmeu que és correcta la informació ressaltada en verd.</string>
+  <string name="cit_wifi_address_check_summary">A baix es mostra l\'adreça de la xarxa Wi-Fi a la qual el telèfon està connectat actualment. Confirmeu que és correcta la informació ressaltada en verd.</string>
   <string name="cit_wifi_address_check_title">Adreça Wi-Fi</string>
-  <string name="cit_wifi_address_error">"No va poder rebre una adreça Wi-Fi. Assegureu-vos que està activada la senyal Wi-Fi."</string>
+  <string name="cit_wifi_address_error">"No s'ha pogut rebre una adreça Wi-Fi. Assegureu-vos que està activat el senyal Wi-Fi."</string>
   <string name="cit_wifi_ap_scan_check_summary">A baix es troba la informació dels dispositius a l\'àrea que es van detectar l\'AP Wi-Fi. Confirmeu que és correcta la informació ressaltada en verd.</string>
   <string name="cit_wifi_ap_scan_check_title">Escaneig Wi-Fi AP</string>
   <string name="cit_wifi_ap_scan_retry">S\'està escanejant una altra vegada&#8230;</string>

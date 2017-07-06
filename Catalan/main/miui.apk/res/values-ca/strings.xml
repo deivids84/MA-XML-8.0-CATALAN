@@ -99,6 +99,7 @@
   <string name="friday_shortest">Dv.</string>
   <string name="hybrid_provider">Proporcionat per %1$s</string>
   <string name="im">Xat</string>
+  <string name="immersion_button_close_description">tanca</string>
   <string name="instruction">Instruccions</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -162,6 +163,7 @@
   <string name="saturday">Dissabte</string>
   <string name="saturday_short">Ds.</string>
   <string name="saturday_shortest">Ds.</string>
+  <string name="search_input_description">cerca</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>

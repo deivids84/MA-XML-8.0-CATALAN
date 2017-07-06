@@ -87,7 +87,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="add_miservice_dialog_title">Estructura de serveis MIUI</string>
   <string name="add_to_whitelist_button">Excepcions en les dades en itinerància</string>
   <string name="add_white_list">Afegir</string>
-  <string name="address">Direcció</string>
+  <string name="address">Adreça</string>
   <string name="address_choose_hint">%1$s, %2$s i %3$d altres ubicacions</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualitzat fa un mes</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Actualitzat fa una setmana</string>
@@ -655,7 +655,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="downloading">S\'està baixant</string>
   <string name="dual_setting_simcard1">SIM 1 </string>
   <string name="dual_setting_simcard2">SIM 2 </string>
-  <string name="email">Correu</string>
+  <string name="email">Correu electrònic</string>
   <string name="empty_app">No hi ha aplicacions</string>
   <string name="empty_title_auto_start_list">No hi ha aplicacions amb inici automàtic</string>
   <string name="empty_title_garbage_virus_white_list">Mantingueu els resultats a la llista per ometre\'ls durant el següent anàlisi</string>
@@ -1055,7 +1055,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
 
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
- 3. La senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
+ 3. El senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
@@ -1266,8 +1266,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_consume_rank_hardware">Maquinari</string>
   <string name="power_consume_rank_software">Aplicacions</string>
   <string name="power_consume_rank_title">Ús de bateria</string>
-  <string name="power_consume_total_hardware">Maquinari: %s</string>
-  <string name="power_consume_total_software">Aplicacions: %s</string>
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
@@ -1467,13 +1465,11 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="resource_usb_install">Instal·lació a través d\'USB</string>
   <string name="result_autoscan_header">Monitorització del Pagament</string>
   <string name="result_autoscan_info">Monitoritzar automàticament l\'entorn del sistema quan s\'inicien les aplicacions de pagament</string>
-  <string name="result_sign_header">S\'han trobat %d apps no oficials</string>
   <string name="result_sms_header">Riscos detectats a missatgeria</string>
   <string name="result_sms_info_antispam">Obrir Antispam per prevenir les URL malicioses</string>
   <string name="result_sms_info_auth">Si us plau, restringir l\'accés d\'aplicacions de tercers per codis de verificació.</string>
   <string name="result_sms_title_antispam">Amenaçat per URLs delictius a sms</string>
   <string name="result_sms_title_auth">Hi ha el risc de fuites de SMS financera</string>
-  <string name="result_virus_header">S\'han trobat %d virus i apps insegures</string>
   <string name="result_wifi_header">Riscos Wi-Fi detectats</string>
   <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Voleu permetre la itinerància de dades mòbils?</string>
@@ -1583,7 +1579,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
   <string name="sms_delete_title">Elimineu el missatge</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
-  <string name="sorted_dialog_title">Ordenar per</string>
+  <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_back_title_text_zero">Segur</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
@@ -1755,7 +1751,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_garbage_clean">Esborra la memòria cau per alliberar espai</string>
   <string name="summary_garbage_lib">Utilitza les definicions més recents per eliminar spyware, adware i un altre programari no sol·licitat</string>
   <string name="summary_install_virus">Analitzeu les aplicacions per si contenen virus abans d\'instal·lar-les</string>
-  <string name="summary_live_talk_purchase">Només ¥ 0,05 per minut per a trucades nacionals.</string>
   <string name="summary_mifi_insurance">Obtén un pla de reemplaçament d\'un any que funcioni per als casos de danys en el maquinari</string>
   <string name="summary_miui_update">Actualització disponible per a %s.</string>
   <string name="summary_mms">Bloquejar spam de SMS automàticament</string>
@@ -1906,7 +1901,6 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_install_virus_no">Monitor d\'instal·lació desactivat</string>
   <string name="title_install_virus_yes">Monitor d\'instal·lació activat</string>
   <string name="title_limit_traffic_per_day">Límit d\'ús de dades diari</string>
-  <string name="title_live_talk_purchase">Torna a carregar ara</string>
   <string name="title_mifi_insurance">Garantia estesa</string>
   <string name="title_miui_update">Actualització disponible</string>
   <string name="title_mms_no">Filtre de missatges desactivat</string>

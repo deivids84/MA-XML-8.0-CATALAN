@@ -242,7 +242,7 @@ a partir de %s»</string>
   <string name="data_usage_4g_limit_snoozed_title">Límit de dades 4G superat</string>
   <string name="data_usage_4g_limit_title">Dades 4G desactivades</string>
   <string name="data_usage_limit_body">Dades aturades per la resta del cicle</string>
-  <string name="data_usage_limit_snoozed_body">Límit superat a %s</string>
+  <string name="data_usage_limit_snoozed_body">Límit indicat superat en %s.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Límit de dades mòbils superat</string>
   <string name="data_usage_mobile_limit_title">Dades mòbils desactivades</string>
   <string name="data_usage_restricted_body">Toqueu per eliminar la restricció.</string>
@@ -913,7 +913,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_readCalendar">Permet que l\'aplicació consulti tots els esdeveniments de calendari emmagatzemats al telèfon, inclosos els d\'amics i companys de treball. L\'aplicació pot utilitzar aquest permís per compartir o guardar dades del calendari de l\'usuari sense tenir en compte si són privats o confidencials.</string>
   <string name="permdesc_readCallLog">"Permet que l'aplicació consulteu el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Aquest permís permet desar les dades del registre de trucades, i les aplicacions malicioses poden utilitzar-ho per compartir dades del registre de trucades sense consentiment."</string>
   <string name="permdesc_readCellBroadcasts">Permet que l\'aplicació llegeixi missatges de difusió mòbil que hagi rebut el dispositiu. Les alertes de difusió mòbil s\'envien en algunes ubicacions per avisar de situacions d\'emergència. És possible que les aplicacions malicioses interfereixin en el rendiment o en el funcionament del dispositiu si es rep un avís de difusió mòbil d\'emergència.</string>
-  <string name="permdesc_readContacts">"Permet que l'aplicació consulti informació sobre contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un e-mail o t'has posat en contacte amb ells d'una altra manera. Aquest permís permet guardar les dades dels contactes, i les aplicacions malicioses poden utilitzar-ho per compartir dades de contactes de l'usuari sense el seu consentiment."</string>
+  <string name="permdesc_readContacts">"Permet que l'aplicació consulti informació sobre contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un correu o t'has posat en contacte amb ells d'una altra manera. Aquest permís permet guardar les dades dels contactes, i les aplicacions malicioses poden utilitzar-ho per compartir dades de contactes de l'usuari sense el seu consentiment."</string>
   <string name="permdesc_readHistoryBookmarks">"Permet que l'aplicació consulti l'historial de tots els URL visitades pel navegador i tots els seus marcadors. Nota: aquest permís no poden utilitzar-navegadors externs ni altres aplicacions que tinguin funcions de navegació per internet."</string>
   <string name="permdesc_readInstallSessions">Permet que una aplicació llegeixi les sessions d\'instal·lació i això permet veure detalls sobre les instal·lacions de paquet actives.</string>
   <string name="permdesc_readNetworkUsageHistory">Permet que l\'aplicació consulti l\'ús de xarxa històric de xarxes i d\'aplicacions específiques.</string>
@@ -953,7 +953,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_wakeLock">Permet que l\'aplicació impedeixi que el telèfon entri en mode d\'espera.</string>
   <string name="permdesc_writeCalendar">"Permet que l'aplicació afegeixi, elimini i canviï esdeveniments que es poden modificar al telèfon, inclosos els d'amics o companys de treball. L'aplicació pot utilitzar aquest permís per enviar missatges que semblin procedir de propietaris d'un calendari o per modificar esdeveniments sense coneixement dels propietaris."</string>
   <string name="permdesc_writeCallLog">"Permet que l'aplicació modifiqui el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Les aplicacions malicioses poden utilitzar aquest permís per eliminar o modificar el registre de trucades."</string>
-  <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades dels contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un e-mail o t'has posat en contacte amb ells d'una altra manera. Les aplicacions poden utilitzar aquest permís per eliminar dades de contactes."</string>
+  <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades dels contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un correu o t'has posat en contacte amb ells d'una altra manera. Les aplicacions poden utilitzar aquest permís per eliminar dades de contactes."</string>
   <string name="permdesc_writeGeolocationPermissions">"Permet que l'aplicació modifiqui els permisos d'ubicació geogràfica del navegador. Les aplicacions malicioses poden utilitzar aquest permís per autoritzar l'enviament d'informació sobre la ubicació a llocs web arbitraris."</string>
   <string name="permdesc_writeHistoryBookmarks">"Permet que l'aplicació modifiqui l'historial o els marcadors del navegador emmagatzemats al telèfon. L'aplicació pot utilitzar aquest permís per eliminar o modificar dades del navegador. Nota: aquest permís no pot utilitzar navegadors externs ni altres aplicacions que tinguin funcions de navegació per internet."</string>
   <string name="permdesc_writeSettings">"Permet que l'aplicació modifiqui les dades de configuració del sistema. Les aplicacions malicioses poden malmetre la configuració del sistema."</string>
@@ -1211,8 +1211,8 @@ per al compte %s»</string>
   <string name="roamingText9">Itinerància - funcionalitat de servei completa</string>
   <string name="roamingTextSearching">S\'està cercant el servei</string>
   <string name="safeMode">Mode segur</string>
-  <string name="safe_media_volume_warning">«Voleu pujar el volum per sobre del nivell recomanat?
-Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les orelles.»</string>
+  <string name="safe_media_volume_warning">«Voleu apujar el volum per sobre del nivell recomanat?
+Si escolteu sons a un volum alt durant llargs períodes de temps es podrien danyar les orelles.»</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirma</string>
   <string name="save_password_message">Voleu que el navegador recordi aquesta contrasenya?</string>

@@ -36,14 +36,14 @@
   <string name="keyguard_charging_info_battery_temperature_text">Temperatura de la bateria</string>
   <string name="keyguard_charging_info_battery_used_time_text">Amb bateria</string>
   <string name="keyguard_charging_info_charging_full_need_hour_time__text">Falten %dh per carregar-se</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Falten %dmin per carregar-se</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Falten %dh %dmin per carregar-se</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Falten %d min per carregar-se</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Falten %d h %d min per carregar-se</string>
   <string name="keyguard_charging_info_charging_text">S\'està carregant</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltatge</string>
   <string name="keyguard_charging_info_click_to_detail">Mostra els detalls</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Falten %dh</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Falten %dmin</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Falten %dh %dmin</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Falten %d h</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Falten %d min</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Falten %d h %d min</string>
   <string name="keyguard_charging_info_current_now_text">Monitor en temps real</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
   <string name="keyguard_charging_info_finished_charging_text">Càrrega completa</string>

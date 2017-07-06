@@ -91,7 +91,7 @@
   <string name="resource_select">Selecciona</string>
   <string name="screen_button_notification_text">Per activar-los premeu Inici i el botó d\'encesa simultàniament.</string>
   <string name="screen_button_notification_title">Els botons de navegació estan desactivats</string>
-  <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó de pujar volum simultàniament.</string>
+  <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu Enrere i el botó d\'apujar el volum simultàniament.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Per desactivar aquesta funció, premeu el botó d\'apujar el volum.</string>
   <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea taronja de la pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>

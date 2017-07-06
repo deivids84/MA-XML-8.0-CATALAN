@@ -70,7 +70,7 @@
     <item>MSN:</item>
   </string-array>
   <string-array name="signature_normal_string_array_next">
-    <item>Direcció:</item>
+    <item>Adreça:</item>
     <item>Tel:</item>
     <item>Nom:</item>
     <item>Correu electrònic:</item>
@@ -81,7 +81,7 @@
   </string-array>
   <string-array name="signature_special_string_array">
     <item>Renúncia:</item>
-    <item>Renúncia email</item>
+    <item>Avís legal de correu electrònic</item>
     <item>Enviat via WPSMail</item>
     <item>Enviat des de</item>
     <item>Enviat amb</item>

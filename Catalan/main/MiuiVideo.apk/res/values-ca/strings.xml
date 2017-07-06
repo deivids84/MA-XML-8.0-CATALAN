@@ -312,7 +312,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
   <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
-  <string name="passport_email">Adreça email</string>
+  <string name="passport_email">Adreça de correu electrònic</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu o ID del Compte Mi</string>
   <string name="passport_email_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
@@ -356,7 +356,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login">Inicia la sessió</string>
   <string name="passport_login_failed">"No es pot iniciar la sessió"</string>
   <string name="passport_login_instead_reg">Utilitza aquest número</string>
-  <string name="passport_login_instead_reg_with_email">Utilitza aquest email</string>
+  <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_prompt">Un mateix compte Mi per a tots els serveis Mi.</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
@@ -464,7 +464,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="rank_title_movie">Pel·lícula</string>
   <string name="receive_develop_summary">Rep actualitzacions de l\'aplicació quan estigui disponible una nova versió beta</string>
   <string name="receive_follow">Notificacions de nous episodis</string>
-  <string name="receive_follow_summary">Rebre notificacions quan un nou episodio estigui disponible</string>
+  <string name="receive_follow_summary">Rebeu notificacions quan un nou episodi estigui disponible</string>
   <string name="receive_mipush">Notificacions de Mi</string>
   <string name="receive_mipush_summary">Rebre notificacions quan hi hagi nou contingut disponible</string>
   <string name="recentplay">Reproduït recentment</string>

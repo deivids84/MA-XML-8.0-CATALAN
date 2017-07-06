@@ -24,6 +24,8 @@
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
+  <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
+  <string name="db_downgrade_clear_date_reminder">"Canviar a una versió diferent de MIUI requereix esborrar les dades de l'aplicació Notes. Abans de fer això, assegureu-vos que heu copiat les notes al Mi Cloud."</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
   <string name="dialog_share_as_pic">Compartir la nota com a imatge</string>
@@ -58,7 +60,7 @@
   <string name="error_send_empty_note">"No es pot enviar una nota buida"</string>
   <string name="error_send_empty_note_to_weibo">"No es pot enviar una nota buida a Weibo"</string>
   <string name="error_unsupport_content">Aquesta nota inclou contingut incompatible, premeu aquí per actualitzar l\'aplicació</string>
-  <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja està a la pantalla d\'inici</string>
+  <string name="error_widget_exist_for_send_to_desktop">Aquesta nota ja és a la pantalla d\'inici</string>
   <string name="folder_exist">Ja existeix una carpeta amb el mateix nom</string>
   <string name="force_touch_menu_add">Afegeix nota</string>
   <string name="format_move_note_out_folder">Moguda</string>
@@ -88,7 +90,7 @@
   <string name="menu_send_to_desktop">Posar a la pantalla d\'inici</string>
   <string name="menu_send_weibo">Enviar a Weibo</string>
   <string name="menu_source">De: %1$s</string>
-  <string name="menu_stick">Ancorar</string>
+  <string name="menu_stick">Fixa</string>
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Alliberar</string>
@@ -97,7 +99,7 @@
   <string name="note_alert_expired">Caducat</string>
   <string name="note_description_content">L\'aplicació Notes és una gran eina per a registrar les vostres idees. Inclou recordatoris i sincronitza els elements amb el Mi Cloud perquè pugueu accedir-hi en qualsevol lloc i en qualsevol moment. Assegureu-vos que podeu prescindir d\'aquestes funcions abans d\'eliminar l\'aplicació.</string>
   <string name="note_description_title">Quant a Notes</string>
-  <string name="note_link_email">Enviar email</string>
+  <string name="note_link_email">Escriu un correu</string>
   <string name="note_link_other">Obrir mapa</string>
   <string name="note_link_select">Selecciona text</string>
   <string name="note_link_tel">Trucada</string>

@@ -70,7 +70,7 @@
   <string name="account_setup_address_label">Correu electrònic</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Problema amb la configuració del compte"</string>
-  <string name="account_setup_basics_email_label">Direcció de correu electrònic</string>
+  <string name="account_setup_basics_email_label">Adreça de correu electrònic</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_password_label">Contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
@@ -102,8 +102,7 @@
   <string name="account_setup_failed_dlg_todo2">Establir compte, com es mostra a continuació</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Error desconegut.</string>
   <string name="account_setup_failed_ioerror">"No s'ha pogut obrir la connexió al servidor."</string>
-  <string name="account_setup_failed_protocol_unsupported">"\"   S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no
-         és compatible amb Email\""</string>
+  <string name="account_setup_failed_protocol_unsupported">"S'ha escrit una adreça de servidor incorrecta o el servidor necessita una versió de protocol que no és compatible amb el correu."</string>
   <string name="account_setup_failed_security">"No s'ha pogut obrir la connexió amb el servidor a causa d'un error de seguretat."</string>
   <string name="account_setup_failed_security_policies_unsupported">"\"Aquest servidor requereix característiques de seguretat que no suporta el dispositiu Android,
          incloent: %s\""</string>
@@ -524,7 +523,7 @@
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
   <string name="input_password_prompt">Introduïu la contrasenya</string>
   <string name="interact_with_server_error">"No s'ha pogut connectar amb el servidor"</string>
-  <string name="invalid_recipient">La direcció %s no és vàlida.</string>
+  <string name="invalid_recipient">L\'adreça %s no és vàlida.</string>
   <string name="invalid_recipient_title">Error amb destinatari</string>
   <string name="kilobytes">%s KB</string>
   <string name="load_from_remote">Continua la recerca al servidor</string>
@@ -605,10 +604,10 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
-  <string name="menu_att_mgr_order_mime">Ordenar per format</string>
-  <string name="menu_att_mgr_order_name">Ordenar per nom</string>
-  <string name="menu_att_mgr_order_rev_date">Ordenar per temps</string>
-  <string name="menu_att_mgr_order_size">Ordenar per mida</string>
+  <string name="menu_att_mgr_order_mime">Ordena per format</string>
+  <string name="menu_att_mgr_order_name">Ordena per nom</string>
+  <string name="menu_att_mgr_order_rev_date">Ordena per temps</string>
+  <string name="menu_att_mgr_order_size">Ordena per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Redacta</string>
   <string name="menu_contact_edit">Edita</string>
@@ -639,7 +638,7 @@
   <string name="mibill_privacy_policy_button2">D\'acord</string>
   <string name="mibill_privacy_policy_description">Mi Wallet analitzarà totes les declaracions de correu rebudes en la seva aplicació de correu i administrarà tots els seus comptes de targetes de crèdit per a vostè. Aquest servei es desactiva per defecte a la bústia de correu de l\'empresa.</string>
   <string name="mibill_privacy_policy_link">D\'acord &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Acord Servei Usuari de Comptes de Targetes de Crèdit&lt;/a&gt;</string>
-  <string name="mibill_privacy_policy_title">Mi Wallet analitza declaracions email</string>
+  <string name="mibill_privacy_policy_title">Gestiona declaracions de correu electrònic</string>
   <string name="min_payment_text">Pagament mínim</string>
   <string name="more_atts_remaining">Falten %1$d més</string>
   <string name="more_context">Més</string>
@@ -706,7 +705,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_duplicate_click">Enviant ara&#8230;</string>
   <string name="outbox_alert_edit_resend">Edita i envia de nou</string>
   <string name="outbox_alert_failed_edit_resend">"No s'ha pogut enviar. Editeu i torneu a provar.\""</string>
-  <string name="outbox_alert_mailbox_not_found">Direcció de correu electrònic no trobada</string>
+  <string name="outbox_alert_mailbox_not_found">Adreça de correu electrònic no trobada</string>
   <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
@@ -979,7 +978,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">L\'autenticació ha fallit, comproveu si l\'antivirus intercepta l\'SMS</string>
   <string name="smtp_password_error">Contrasenya del servidor de correu sortint és incorrecta</string>
-  <string name="sort_attachment">Ordenar per</string>
+  <string name="sort_attachment">Ordena per</string>
   <string name="special_text_1">Va escriure:</string>
   <string name="special_text_2">Va escriure:</string>
   <string name="special_text_3">Va escriure:</string>

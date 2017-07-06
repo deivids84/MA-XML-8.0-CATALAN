@@ -212,8 +212,8 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_find_device_finish">Fet</string>
   <string name="micloud_find_device_guide_button">Activar Trobar dispositiu</string>
-  <string name="micloud_find_device_guide_content">"Quan canviïs la targeta SIM, se\'t enviarà un missatge automàticament 
-per reactivar aquesta funcionalitat."</string>
+  <string name="micloud_find_device_guide_content">\"Quan canviïs la targeta SIM, se\'t enviarà un missatge automàticament 
+per reactivar aquesta funcionalitat.\"</string>
   <string name="micloud_find_device_guide_fail_reopen">Activar Trobar dispositiu a Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connexió expirada. Intenta-ho més tard.</string>
@@ -228,8 +228,8 @@ per reactivar aquesta funcionalitat."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomana que activi la funció Trobar dispositiu</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomana que activi la funció Trobar dispositiu</string>
   <string name="micloud_find_device_guide_progress">Activant la funció Trobar dispositiu&#8230;</string>
-  <string name="micloud_find_device_guide_title">"Inicia sessió a %s per trobar, bloquejar,
-o esborrar el vostre dispositiu."</string>
+  <string name="micloud_find_device_guide_title">\"Inicia sessió a %s per trobar, bloquejar,
+o esborrar el vostre dispositiu.\"</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
