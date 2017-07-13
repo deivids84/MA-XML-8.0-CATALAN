@@ -316,7 +316,7 @@
   <string name="callUnanswered_forwarded">Trucada no contestada i desviada</string>
   <string name="call_advanced_setting_title">Configuració avançada</string>
   <string name="call_background_default">Per defecte</string>
-  <string name="call_background_lock_wallpaper">Fons de pantalla si bloqueig</string>
+  <string name="call_background_lock_wallpaper">Bloca el fons de pantalla</string>
   <string name="call_background_setting">Fons de la trucada</string>
   <string name="call_barring">Restricció de trucades</string>
   <string name="call_barring_sum">Configuració de restricció de trucades de veu</string>
@@ -438,7 +438,7 @@
   <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
   <string name="config_default_data_sim">Configuració</string>
-  <string name="confirmPin2Label">Confirmar nou PIN2</string>
+  <string name="confirmPin2Label">Confirmeu el PIN2 nou</string>
   <string name="confirmPinLabel">Confirmeu el PIN nou</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
@@ -916,7 +916,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="new_pin2_label">Nou PIN2</string>
   <string name="new_pin_label">Nou PIN</string>
   <string name="no_application">Cap</string>
-  <string name="no_change">No es van realitzar canvis.</string>
+  <string name="no_change">No s\'han realitzat canvis.</string>
   <string name="no_checked_network">"No podreu connectar-vos a la xarxa mòbil i fer trucades. Voleu seleccioneu una altra xarxa?"</string>
   <string name="no_internet_available">Per establir una trucada per internet, primer comproveu la connexió a Internet.</string>
   <string name="no_mobile_data">Les dades mòbils no estan disponibles</string>

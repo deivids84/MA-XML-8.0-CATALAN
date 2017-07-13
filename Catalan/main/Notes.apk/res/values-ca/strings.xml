@@ -55,7 +55,7 @@
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
   <string name="error_hide_empty_note">"No es pot ocultar una nota buida"</string>
   <string name="error_note_empty_for_clock">"No es pot establir el temps de recordatori per a una nota buida"</string>
-  <string name="error_note_empty_for_send_to_desktop">"Notes buides no es poden posar a la pantalla d'inici"</string>
+  <string name="error_note_empty_for_send_to_desktop">"Les notes buides no es poden afegir a la pantalla d'inici"</string>
   <string name="error_note_not_exist">"La nota no existeix"</string>
   <string name="error_send_empty_note">"No es pot enviar una nota buida"</string>
   <string name="error_send_empty_note_to_weibo">"No es pot enviar una nota buida a Weibo"</string>
@@ -87,7 +87,7 @@
   <string name="menu_restore">Restaura</string>
   <string name="menu_send_as_image">Envia com a imatge</string>
   <string name="menu_send_as_text">Envia com a text</string>
-  <string name="menu_send_to_desktop">Posar a la pantalla d\'inici</string>
+  <string name="menu_send_to_desktop">Afegeix a la pantalla d\'inici</string>
   <string name="menu_send_weibo">Enviar a Weibo</string>
   <string name="menu_source">De: %1$s</string>
   <string name="menu_stick">Fixa</string>

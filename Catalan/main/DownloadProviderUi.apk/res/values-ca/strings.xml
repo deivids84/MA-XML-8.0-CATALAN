@@ -174,7 +174,7 @@
   <string name="info_flow_setting">Configuració</string>
   <string name="info_flow_show">Fonts recomanades</string>
   <string name="input_valid_address">Introdueix ruta de fitxer</string>
-  <string name="install">Instal·lar</string>
+  <string name="install">Instal·la</string>
   <string name="install_failed">"%1$s no s'ha pogut instal·lar"</string>
   <string name="installing">Instal·lant&#8230;</string>
   <string name="insufficient_space">No hi ha prou espai</string>
@@ -215,7 +215,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
   <string name="one_month">1 mes</string>
   <string name="only_support_torrent">Només estan suportats els fitxers torrent</string>
-  <string name="open">Oberta</string>
+  <string name="open">Obre</string>
   <string name="open_download">Obre</string>
   <string name="open_folder">Obre la carpeta</string>
   <string name="open_vip_hint">Tocar per fer-te membre de Xunlei</string>
@@ -257,7 +257,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="rebind_btn">Afegir de nou</string>
   <string name="recommend_downloading">S\'està baixant&#8230;</string>
   <string name="recommend_failed">Ha fallat</string>
-  <string name="recommend_install">Instal·lar</string>
+  <string name="recommend_install">Instal·la</string>
   <string name="recommend_installing">Instal·lant</string>
   <string name="recommend_loading">Carregant&#8230;</string>
   <string name="recommend_open">Obre\'l</string>
@@ -335,7 +335,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_result_num_website_suffix">llocs web</string>
   <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; elements | Font: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Mida: %1$s</string>
-  <string name="sniff_search_install">Instal·lar</string>
+  <string name="sniff_search_install">Instal·la</string>
   <string name="sniff_shortcut_cloudconfig_btn">D\'acord</string>
   <string name="sniff_shortcut_cloudconfig_context">S\'està actualitzant la font&#8230;</string>
   <string name="sniff_shortcut_cloudconfig_title">Un moment&#8230;</string>

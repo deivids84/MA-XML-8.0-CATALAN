@@ -158,7 +158,7 @@
   <string name="menu_customize">Configuració</string>
   <string name="menu_edit">Edita la pantalla d\'inici</string>
   <string name="menu_exit_scene">Surt del Mi Space</string>
-  <string name="menu_item_add_item">Posa a la pantalla d\'inici</string>
+  <string name="menu_item_add_item">Afegeix a la pantalla d\'inici</string>
   <string name="menu_launcher_setting">Configuració del llançador</string>
   <string name="menu_picktheme">Trieu un tema</string>
   <string name="menu_reset_scene">Restableix a disposició per defecte</string>

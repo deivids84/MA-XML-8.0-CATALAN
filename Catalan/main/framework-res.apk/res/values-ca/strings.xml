@@ -345,7 +345,7 @@ amb %s»</string>
   <string name="ext_media_move_failure_message">Dades perdudes a la ubicació original</string>
   <string name="ext_media_move_failure_title">"No s'han pogut moure les dades"</string>
   <string name="ext_media_move_specific_title">S\'està movent %s</string>
-  <string name="ext_media_move_success_message">Les dades es van moure a %s</string>
+  <string name="ext_media_move_success_message">Les dades s\'han mogut a %s</string>
   <string name="ext_media_move_success_title">Moviment completat</string>
   <string name="ext_media_move_title">S\'estan movent dades</string>
   <string name="ext_media_new_notification_message">Nou %s detectat</string>

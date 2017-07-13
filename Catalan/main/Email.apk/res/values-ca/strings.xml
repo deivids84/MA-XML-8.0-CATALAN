@@ -279,7 +279,7 @@
   <string name="config">Configuració del número de telèfon de la bústia 139</string>
   <string name="config_cancel">Cancel·la</string>
   <string name="config_retry">Reintenta</string>
-  <string name="confirm">Confirmar</string>
+  <string name="confirm">D\'acord</string>
   <string name="confirm_before_delete">Confirma abans d\'eliminar</string>
   <string name="confirm_before_delete_keywords">confirmeu abans de suprimir;confirma la supressió</string>
   <string name="confirm_before_send">Confirma abans d\'enviar</string>
@@ -445,7 +445,7 @@
   <string name="folder_junk_name_cn0">No desitjat</string>
   <string name="folder_junk_name_cn1">Paperera</string>
   <string name="folder_junk_name_cn2">[Gmail]/Correu brossa</string>
-  <string name="folder_junk_name_en0">No desitjat</string>
+  <string name="folder_junk_name_en0">Correu brossa</string>
   <string name="folder_junk_name_en1">Correu massiu</string>
   <string name="folder_junk_name_en2">Correu brossa</string>
   <string name="folder_junk_name_en3">Correu brossa</string>
@@ -481,8 +481,8 @@
   <string name="forward_subject_label">Fwd:</string>
   <string name="free_period_text">Període sense interessos</string>
   <string name="from_heading">"De: "</string>
-  <string name="general_preference_confirm_delete_label">Confirmar abans d\'eliminar</string>
-  <string name="general_preference_confirm_send_label">Confirmar abans d\'enviar </string>
+  <string name="general_preference_confirm_delete_label">Confirmeu abans d\'eliminar</string>
+  <string name="general_preference_confirm_send_label">Confirmeu abans d\'enviar</string>
   <string name="general_preference_str_auto_translation">Traducció ràpida</string>
   <string name="general_preference_str_auto_translation_prompt">Copieu el contingut corresponent per veure\'n el resultat de la traducció</string>
   <string name="general_preference_text_zoom_dialog_title">Mida de text del missatge</string>
@@ -548,7 +548,7 @@
   <string name="mailbox_name_display_circular">Notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
-  <string name="mailbox_name_display_junk">No desitjat</string>
+  <string name="mailbox_name_display_junk">Correu brossa</string>
   <string name="mailbox_name_display_outbox">Sortida</string>
   <string name="mailbox_name_display_sent">Enviat</string>
   <string name="mailbox_name_display_starred">Destacats</string>

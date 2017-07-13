@@ -262,7 +262,7 @@
   <string name="tuesday">Dimarts</string>
   <string name="tuesday_short">Dt.</string>
   <string name="tuesday_shortest">Dt.</string>
-  <string name="user_agreement">Condicions d\'Ús</string>
+  <string name="user_agreement">Condicions d\'ús</string>
   <string name="user_manual">Guia de l\'usuari</string>
   <string name="web_sso_login_fail">Ha d\'iniciar la sessió de nou</string>
   <string name="web_sso_login_message">Iniciant sessió&#8230;</string>

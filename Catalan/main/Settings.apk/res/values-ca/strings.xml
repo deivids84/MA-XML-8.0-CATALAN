@@ -3268,7 +3268,7 @@ Per fer-ho:
   <string name="screen_zoom_preview_title">Previsualització</string>
   <string name="screen_zoom_short_summary">Amplia o redueix els elements de la pantalla</string>
   <string name="screen_zoom_summary">Amplia o redueix els elements de la pantalla. És possible que algunes aplicacions de la pantalla canviïn de posició.</string>
-  <string name="screen_zoom_summary_custom">Personalitzada (%d)</string>
+  <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>
   <string name="screen_zoom_summary_default">Predeterminada</string>
   <string name="screen_zoom_summary_extremely_large">La més grossa</string>
   <string name="screen_zoom_summary_large">Grossa</string>

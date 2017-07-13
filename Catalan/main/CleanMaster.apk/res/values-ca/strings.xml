@@ -165,7 +165,7 @@
   <string name="dialog_title_esc_cleanmaster">Sortida del netejador</string>
   <string name="dialog_title_load_cleanup_engine_error">Quelcom ha fallat</string>
   <string name="dialog_title_stop_scan">Atura l\'anàlisi</string>
-  <string name="dialog_title_uninstall_apps">Desinstal·lar</string>
+  <string name="dialog_title_uninstall_apps">Desinstal·la</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
   <string name="empty_content_no_ignore_image">Buit</string>
@@ -467,7 +467,7 @@
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
   <string name="wechat_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
-  <string name="white_list_apk_header">Instal·lar paquets: %d</string>
+  <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
   <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
   <string name="white_list_residual_header">Residuals: %d</string>

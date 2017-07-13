@@ -119,7 +119,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Aprox. 25 EUR a l\'any</string>
   <string name="header_cloud_backup_settings">Copia i recuperació</string>
-  <string name="header_cloud_restore_summary">Reinstal·lar aplicacions i recuperar pantalla d\'inici i ajustaments de sistema des d\'una còpia de Mi Cloud</string>
+  <string name="header_cloud_restore_summary">Reinstal·la les aplicacions i recupera la pantalla d\'inici i els ajustaments de sistema des d\'una còpia de Mi Cloud</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="header_find_device_settings">Trobar dispositiu</string>
   <string name="i_know">D\'acord</string>
@@ -295,7 +295,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_member_buy_content" formatted="false">"Vàlid fins al %s-%s-%s
 
 %s Mi Credits"</string>
-  <string name="micloud_member_buy_title">Confirmar comanda</string>
+  <string name="micloud_member_buy_title">Confirmeu la comanda</string>
   <string name="micloud_member_net_error_alert_message">"No té una connexió a Internet."</string>
   <string name="micloud_member_net_error_alert_title">"No es pot connectar a la xarxa"</string>
   <string name="micloud_member_pay_fail_toast">"No s'ha pogut completar el pagament"</string>
@@ -517,7 +517,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="virtual_sim_desc">Activeu Mi SIM per localitzar el dispositiu sense una targeta SIM</string>
   <string name="voip_choose_sim">Trieu el número de telèfon per activar Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
-  <string name="wipe_data_dialog_msg">"%s no es van sincronitzar i seguiran al telèfon."</string>
+  <string name="wipe_data_dialog_msg">"%s no s'han sincronitzat i seguiran al telèfon."</string>
   <string name="wipe_data_dialog_msg_and_on">i d\'altres elements</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>

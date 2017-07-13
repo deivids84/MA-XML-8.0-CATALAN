@@ -205,7 +205,7 @@
   <string name="contact_detail_calllog_empty">No hi ha historial</string>
   <string name="contact_detail_menu_delete_miprofile">Esborra la targeta</string>
   <string name="contact_detail_miprofile_accept">Intercanviar targetes de contacte</string>
-  <string name="contact_detail_miprofile_accept_fail_toast">"No es van poder intercanviar les targetes de contacte"</string>
+  <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Targetes de contacte intercanviades</string>
   <string name="contact_detail_miprofile_binded_label">Verificada</string>
   <string name="contact_detail_miprofile_exchange_closed">"No hi ha cap número de telèfon associat amb aquest compte Mi
@@ -605,7 +605,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_contacts_filter">Contactes per mostrar</string>
   <string name="menu_copy">Copia</string>
   <string name="menu_copyContact">Copia als meus contactes</string>
-  <string name="menu_create_contact_shortcut">Posar a la pantalla d\'inici</string>
+  <string name="menu_create_contact_shortcut">Afegeix a la pantalla d\'inici</string>
   <string name="menu_deleteContact">Suprimeix el contacte</string>
   <string name="menu_deleteGroup">Elimina</string>
   <string name="menu_dial_ip_number">Marca per trucada IP</string>
@@ -825,7 +825,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="option_not_in_group">Treure</string>
   <string name="option_not_star">Eliminar de favorits</string>
   <string name="option_rename_group">Canviar el nom</string>
-  <string name="option_send_to_desktop">Posar a la pantalla d\'inici</string>
+  <string name="option_send_to_desktop">Afegeix a la pantalla d\'inici</string>
   <string name="option_send_to_others">Reenvia</string>
   <string name="option_view_contact">Veure</string>
   <string name="option_view_group">Veure</string>
@@ -1227,7 +1227,7 @@ Trieu una de les següents opcions: "</string>
   <string name="yellowpage_fc_toast">"No es pot continuar utilitzant des que Pàgines grogues s'ha espatllat."</string>
   <string name="yellowpage_mi_family">Mi Home</string>
   <string name="yellowpage_navigation_ad_hint">Anunci</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no es van poder verificar, torneu-ho a provar més tard."</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"El saldo i les dades no s'han pogut verificar, torneu-ho a provar més tard."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">El saldo i les dades han estat verificats</string>
   <string name="yellowpage_navigation_clear_search_history">Borrar historial</string>
   <string name="yellowpage_navigation_more_items">Més</string>

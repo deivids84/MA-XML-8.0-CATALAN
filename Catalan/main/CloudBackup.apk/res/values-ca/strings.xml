@@ -46,7 +46,7 @@
 *\u0009\u0009\u0009\u0009Configuracions de les notificacions
 *\u0009\u0009\u0009\u0009Configuracions de MIUI i del sistema
 Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</string>
-  <string name="cloud_back_up_frequence_choice_title">Programar còpia</string>
+  <string name="cloud_back_up_frequence_choice_title">Programeu còpia</string>
   <string name="cloud_back_up_frequence_long">Cada 7 dies</string>
   <string name="cloud_back_up_frequence_short">Cada dia</string>
   <string name="cloud_back_up_interval_long">7 dies</string>

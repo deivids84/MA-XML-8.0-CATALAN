@@ -91,7 +91,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_batterylight_rgb">Llum de bateria</string>
   <string name="cit_blue_tooth_address_check_summary">L\'adreça Bluetooth d\'aquest dispositiu ha d\'aparèixer a sota.</string>
   <string name="cit_blue_tooth_address_check_title">Aconsegueix l\'adreça Bluetooth</string>
-  <string name="cit_blue_tooth_scan_check_summary">A continuació es mostra la informació dels dispositius Bluetooth que es van detectar a prop.</string>
+  <string name="cit_blue_tooth_scan_check_summary">A continuació es mostra la informació dels dispositius Bluetooth que s\'han detectat a prop.</string>
   <string name="cit_blue_tooth_scan_check_title">Exploració Bluetooth</string>
   <string name="cit_blue_torch_on">Activa el LED blau</string>
   <string name="cit_bluetooth_address_open_error">"No s'ha pogut obtenir l'adreça de Bluetooth. S'ha produït un error en obrir el dispositiu Bluetooth."</string>
@@ -391,7 +391,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_wifi_address_check_summary">A baix es mostra l\'adreça de la xarxa Wi-Fi a la qual el telèfon està connectat actualment. Confirmeu que és correcta la informació ressaltada en verd.</string>
   <string name="cit_wifi_address_check_title">Adreça Wi-Fi</string>
   <string name="cit_wifi_address_error">"No s'ha pogut rebre una adreça Wi-Fi. Assegureu-vos que està activat el senyal Wi-Fi."</string>
-  <string name="cit_wifi_ap_scan_check_summary">A baix es troba la informació dels dispositius a l\'àrea que es van detectar l\'AP Wi-Fi. Confirmeu que és correcta la informació ressaltada en verd.</string>
+  <string name="cit_wifi_ap_scan_check_summary">Abaix es troba la informació AP Wi-Fi dels dispositius a l\'àrea que s\'han detectat. Confirmeu que la informació ressaltada en verd és correcta.</string>
   <string name="cit_wifi_ap_scan_check_title">Escaneig Wi-Fi AP</string>
   <string name="cit_wifi_ap_scan_retry">S\'està escanejant una altra vegada&#8230;</string>
   <string name="cit_wifi_ap_scanning">S\'està escanejant&#8230;</string>

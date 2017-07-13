@@ -3,7 +3,7 @@
 <resources>
   <string name="ad_service">Afegeix un servei</string>
   <string name="app_label">Lector d\'HTML</string>
-  <string name="app_name_which_call">Aplicació:%s</string>
+  <string name="app_name_which_call">Aplicació: %s</string>
   <string name="app_version_which_call">Versió de l\'aplicació:%s</string>
   <string name="ime_privacy_policy">Trieu un teclat</string>
   <string name="license_host_unreachable">«No s\'ha pogut connectar a la xarxa. Per veure aquesta informació,

@@ -65,7 +65,7 @@
   <string name="error_camera_disabled">L\'accés a la Càmera s\'ha negat per raons de seguretat</string>
   <string name="error_cannot_connect_camera">"No es pot accedir a la Càmera"</string>
   <string name="error_day_limit">Massa intents en 1 dia</string>
-  <string name="error_empty_result">"No es van trobar resultats"</string>
+  <string name="error_empty_result">"No s'han pogut trobar resultats"</string>
   <string name="error_hour_limit">Massa intents en 1 hora</string>
   <string name="error_image_error">"No pot reconèixer aquesta foto"</string>
   <string name="error_invalid_request">Error d\'autenticació</string>

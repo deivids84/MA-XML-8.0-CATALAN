@@ -310,6 +310,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
+  <string name="auto_task_notify_task_exit_task">Surt de la tasca</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -401,7 +402,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
   <string name="btn_jump">Saltar</string>
   <string name="btn_lock">Afegir bloqueig</string>
-  <string name="btn_start_diagnostic">Prova la xarxa</string>
+  <string name="btn_start_diagnostic">Comproveu l\'estat de la xarxa</string>
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_cleanup_all">Neteja</string>
@@ -532,11 +533,11 @@ o introdueixi la seva contrasenya"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegir compte Mi</string>
   <string name="confirm_fingerprint_msg">Col·loqui el dit en el lector d\'empremtes</string>
   <string name="confirm_reject_all_permission">Restringir aquest permís a totes les aplicacions?</string>
-  <string name="connect_internet_by_mobiledata">Connectar a internet usant la xarxa de dades mòbils</string>
-  <string name="connect_internet_by_usbshare">Connectar a internet usant USB</string>
-  <string name="connect_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
+  <string name="connect_internet_by_mobiledata">Connecta a internet usant la xarxa de dades mòbils</string>
+  <string name="connect_internet_by_usbshare">Connecta a internet usant USB</string>
+  <string name="connect_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="connecting">S\'està connectant&#8230;</string>
-  <string name="continue_install">Instal·lar</string>
+  <string name="continue_install">Instal·la</string>
   <string name="convenient_mode">Desbloqueja totes les aplicacions alhora</string>
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
   <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
@@ -746,6 +747,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="handle_text_cache">Memòria cau</string>
   <string name="handle_text_memory">Memòria</string>
   <string name="handle_text_system">Sistema</string>
+  <string name="handle_title_network">Seguretat del Wi-Fi</string>
+  <string name="handle_title_pay_env">Entorn de pagament</string>
+  <string name="handle_title_privacy">Seguretat de la privadesa</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Ajuda</string>
   <string name="hide_mode_app_background_setting_text">App d\'estalvi de bateria</string>
@@ -761,6 +765,15 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
   <string name="hints_last_virus_scan_none">Mai s\'ha escanejat abans</string>
+  <string name="hints_last_virus_scan_risk">Analitzat fa %d dies: Sospitós</string>
+  <string name="hints_last_virus_scan_safe">Analitzat fa %d dies: Segur</string>
+  <string name="hints_last_virus_scan_today_risk">Analitzat avui: Sospitós</string>
+  <string name="hints_last_virus_scan_today_safe">Analitzat avui: Segur</string>
+  <string name="hints_last_virus_scan_today_virus">Analitzat avui: Perillós</string>
+  <string name="hints_last_virus_scan_virus">Analitzat fa %d dies: Perillós</string>
+  <string name="hints_last_virus_scan_yesterday_risk">Analitzat ahir: Sospitós</string>
+  <string name="hints_last_virus_scan_yesterday_safe">Analitzat ahir: Segur</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Analitzat ahir: Perillós</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_need_quick_clean">Cercar i eliminar fitxers perillosos</string>
   <string name="hints_need_quick_scan">Es recomana escaneig ràpid</string>
@@ -771,7 +784,9 @@ o introdueixi la seva contrasenya"</string>
   <string name="hints_risk_app_list_item_summary">Risc (app)</string>
   <string name="hints_risk_descx_title">Descripció:</string>
   <string name="hints_risk_name_title">Risc:</string>
+  <string name="hints_scan_danger_result">trobat un risc, corretgiu-lo ara</string>
   <string name="hints_scan_progress">S\'ha completat: %d</string>
+  <string name="hints_scan_result_no_finish">L\'anàlisi no està acabada. Cliqueu per reiniciar.</string>
   <string name="hints_scan_result_phone_safe">Tot sembla correcte</string>
   <string name="hints_scan_result_risk">Risc detectat</string>
   <string name="hints_scan_result_safe">Segur</string>
@@ -814,7 +829,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="ip_address_exception_summary">"No s'ha pogut obtenir l'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica."</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
   <string name="item_dev_mode">Opcions de desenvolupament</string>
-  <string name="item_install_monitor">Instal·lar monitor</string>
+  <string name="item_install_monitor">Instal·la monitor</string>
   <string name="item_mms">Filtra missatges no desitjats</string>
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus">Virus</string>
@@ -934,7 +949,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-  <string name="main_toolbar_internet_by_wifi">Connectar a internet usant Wi-Fi</string>
+  <string name="main_toolbar_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
   <string name="manual_handle_title">CARACTERÍSTIQUES DISPONIBLES</string>
@@ -1044,11 +1059,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="msg_update_up">​​Amaga</string>
   <string name="name">Nom</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
-  <string name="network_blocked_notification_summary">Comprovar xarxa</string>
+  <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
-  <string name="network_connected_exception_title">Comprovar xarxa</string>
+  <string name="network_connected_exception_title">Comproveu l\'estat de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
-  <string name="network_diagnostics">Comprovar xarxa</string>
+  <string name="network_diagnostics">Comproveu l\'estat de la xarxa</string>
   <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
 
  1. Assegureu-vos que no he superat el límit de dades mòbils del pla del seu operador.
@@ -1262,10 +1277,12 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
   <string name="power_center_title">Energia</string>
+  <string name="power_consume_hardware_total_format">Maquinari: %s</string>
   <string name="power_consume_other">Un altre</string>
   <string name="power_consume_rank_hardware">Maquinari</string>
   <string name="power_consume_rank_software">Aplicacions</string>
   <string name="power_consume_rank_title">Ús de bateria</string>
+  <string name="power_consume_software_total_format">Aplicacions: %s</string>
   <string name="power_customize_giveup_change">Voleu descartar els canvis?</string>
   <string name="power_dialog_cancel">Cancel·la</string>
   <string name="power_dialog_ok">D\'acord</string>
@@ -1731,6 +1748,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">riscos</string>
   <string name="suggest_app_tolock">Suggeriments</string>
+  <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
@@ -1925,7 +1943,7 @@ De qualsevol manera si no ha modificat MIUI, assegureu-vos que sap d\'on ve aque
   <string name="title_virus_no">Virus detectats</string>
   <string name="title_virus_update_no">Actualització automàtica de la definició de virus desactivada</string>
   <string name="title_virus_update_yes">Actualització automàtica de la definició de virus activada</string>
-  <string name="title_virus_yes">No es van detectar virus</string>
+  <string name="title_virus_yes">No s\'han detectat virus</string>
   <string name="title_xiaomi_roaming">Itinerància Mi</string>
   <string name="toast_add_virus_white_list_no_need_repeat">L\'excepció del virus ja existeix</string>
   <string name="toast_add_virus_white_list_success">S\'ha afegit a excepcions. Mostra els elements a la configuració.</string>
@@ -2033,12 +2051,13 @@ Dades extres en ús"</string>
   <string name="usb_adb_input_apply_step_3">Assegureu-vos que comprèn els riscos relacionats abans de permetre. Permetre ara?</string>
   <string name="usb_install_desc">Voleu instal·lar aquesta aplicació a través d\'USB?</string>
   <string name="usbsharenet_exception_summary">"No es pot comprovar la xarxa si està sent compartida per Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Comprovar xarxa compartida per USB</string>
+  <string name="usbsharenet_exception_title">Comproveu la xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
   <string name="user_define_title">Afegeix regles</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_already_update">Les definicions estan actualitzades</string>
+  <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_dp_update_title">Actualitzacions de les definicions</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_process_pre">%</string>
@@ -2052,7 +2071,7 @@ Dades extres en ús"</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
-  <string name="wifi_exception_title">Comprovar xarxa Wi-Fi</string>
+  <string name="wifi_exception_title">Comproveu l\'estat de la xarxa Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No connectat</string>
   <string name="wifi_item_status_connection_yes">Connectat</string>
   <string name="wifi_item_title_arp_attack">Atacs ARP</string>

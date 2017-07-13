@@ -21,7 +21,7 @@
   <string name="create_shortcut">es crearà una icona a l\'escriptori per un inici ràpid</string>
   <string name="dialog_text">es crearà una icona a l\'escriptori per un inici ràpid</string>
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
-  <string name="dont_bore_text">S\'està rotegint els recordatoris de missatges i els botons per assegurar que el procés del joc no s\'altera</string>
+  <string name="dont_bore_text">Silencia les notificacions i desactiva els botons per eliminar les distraccions</string>
   <string name="dont_bore_title">Mode no molesteu</string>
   <string name="fastboot_locked_answer_1">Fastboot és el mètode tradicional per flashejar dispositius Mi. Quan el dispositiu està en mode Fastboot, totes les dades emmagatzemades en ell poden ser accesibles i esborrades directament. Hem bloquejat Fastboot per fer segures les seves dades en cas que perdeu el dispositiu, així com garantir la fiabilitat de les característiques de Troba el dispositiu.</string>
   <string name="fastboot_locked_answer_2">"En cas de perdre el dispositiu, Fastboot garanteix la seguretat dels ítems emmagatzemats en ell. Si desbloqueja Fastboot, no serà capaç de bloquejar el dispositiu remotament o esborrar les dades usant Troba el dispositiu. És per això que no recomanem desbloquejar Fastboot al dispositiu."</string>

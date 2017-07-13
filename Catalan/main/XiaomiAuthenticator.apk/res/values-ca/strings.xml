@@ -63,7 +63,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="howitworks_page_enter_password_title">"Per iniciar sessió, introduïu la contrasenya."</string>
   <string name="howitworks_page_verify_device_details">"També pot triar recordar l'ordinador i Xiaomi no li demanarà el codi de nou."</string>
   <string name="howitworks_page_verify_device_title">"Vè. ha iniciat sessió."</string>
-  <string name="install_button">Instal·lar</string>
+  <string name="install_button">Instal·la</string>
   <string name="install_dialog_message">Per escanejar codis de barres que contenen claus, heu d\'instal·lar l\'escàner de codi de barres ZXing.</string>
   <string name="install_dialog_title">Instal·lar escàner de codi de barres?</string>
   <string name="jump_createpattern_tip">Per defecte se li demanarà que estableixi una contrasenya de seguretat. Es recomana que no triï Saltar, </string>
@@ -72,9 +72,9 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpassword_choose_your_pattern_header">Elija su patrón</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirme su patrón</string>
   <string name="lockpassword_input_your_pattern_header">Confirme su patrón</string>
-  <string name="lockpattern_confirm_button_text">Confirmar</string>
+  <string name="lockpattern_confirm_button_text">Confirma</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Dibuje de nuevo su patrón para confirmar:</string>
+  <string name="lockpattern_need_to_confirm">Dibuixeu de nou el patró per confirmar:</string>
   <string name="lockpattern_need_to_confirm_wrong">Los patrones no coinciden. Inténtelo de nuevo:</string>
   <string name="lockpattern_need_to_unlock_wrong">Contraseña errónea, le quedan %d intentos más</string>
   <string name="lockpattern_pattern_confirmed_header">Su nuevo patrón de desbloqueo:</string>
