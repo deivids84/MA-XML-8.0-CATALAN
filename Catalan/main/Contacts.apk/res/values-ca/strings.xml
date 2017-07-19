@@ -819,6 +819,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="openDialKeyboard">Teclat</string>
   <string name="open_contact">Veure contacte</string>
   <string name="open_dial_pad_description">Obre el marcador</string>
+  <string name="option_delete_batch_contacts">Elimina el lot</string>
   <string name="option_delete_contact">Elimina</string>
   <string name="option_delete_group">Eliminar</string>
   <string name="option_edit_contact">Editar</string>

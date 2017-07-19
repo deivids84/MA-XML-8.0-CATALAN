@@ -20,6 +20,7 @@
   <string name="error_open_file_failed_no_app_found">"No s'ha pogut trobar una aplicació per obrir aquest fitxer"</string>
   <string name="frames">Taxa de fotogrames</string>
   <string name="frames_summary">Les taxes de fotogrames més altes redueixen la difuminació del moviment</string>
+  <string name="frequently_click_toast">El servei s\'està inicialitzant, espereu un moment</string>
   <string name="gleam_led_while_recording">Llum LED mentre s\'enregistra</string>
   <string name="hint_back">Enrera</string>
   <string name="hint_home">Inici</string>

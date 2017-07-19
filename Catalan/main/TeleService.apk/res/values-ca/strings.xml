@@ -1226,7 +1226,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="roaming_enable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_notification_content">Podeu afegir el codi de país automàticament per millorar el marcatge.</string>
   <string name="roaming_notification_title">Sembla que la itinerància està activada</string>
-  <string name="roaming_reenable_message">"Heu perdut la connectivitat de dades perquè heu sortit de la vostra xarxa d'origen amb la itinerància de dades desactivada."</string>
+  <string name="roaming_reenable_message">Heu perdut la connectivitat de dades perquè heu sortit de la vostra xarxa d\'origen amb la itinerància de dades desactivada.</string>
   <string name="roaming_warning">És possible que us facturin càrrecs elevats.</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>

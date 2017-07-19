@@ -162,7 +162,7 @@
   <string name="call_status_dialing">Marcant</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
-  <string name="camera_key_action_category_title">Utilitza si no està oberta l\'aplicació càmera</string>
+  <string name="camera_key_action_category_title">Utilitzeu si no està oberta l\'aplicació Càmera</string>
   <string name="camera_key_action_none_title">Cap acció</string>
   <string name="camera_key_action_setting_title">Botó Mi</string>
   <string name="camera_key_action_shortcut_call">Trucar</string>

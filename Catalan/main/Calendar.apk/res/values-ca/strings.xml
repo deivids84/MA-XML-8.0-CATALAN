@@ -342,7 +342,6 @@
   <string name="preferences_default_allday_reminder_title">Hora predeterminada de recordatori per tot el dia</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
-  <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Fus horari propi</string>
   <string name="preferences_import_credit_repayment">Pagaments amb targeta de crèdit</string>
   <string name="preferences_import_travel">机票火车票</string>

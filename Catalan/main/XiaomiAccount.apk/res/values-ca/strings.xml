@@ -86,10 +86,6 @@
   <string name="confirm_unbind">Voleu desvincular aquest compte?</string>
   <string name="confirm_unbundled_phone_dialog_message">El número de telèfon %1$s està enllaçat al compte %2$s, Continua treballant amb %3$s desenllaçat. Voleu continuar?</string>
   <string name="continue_action">Continua</string>
-  <string name="cta_declaration_agree_and_continue">D\'acord</string>
-  <string name="cta_declaration_exit">Surt</string>
-  <string name="cta_declaration_message">"En registrar-vos al vostre compte de Mi, necessitareu connectar a internet. S'activaran els serveis d'ubicació i la sincronització amb Mi Cloud. Per poder fer una còpia de seguretat de les vostres dades, aquest aplicació necessita accedir els vostres contactes, missatges, historial de trucades i enregistraments. No s'utilitzaran les vostres dades amb finalitats comercials ni es compartiran amb terceres parts. Després de registrar-vos al vostre compte Mi, Mi VIP i els serveis Mi es connectaran a internet."</string>
-  <string name="cta_declaration_title">Termes i condicions</string>
   <string name="current_location_title">Ubicació actual</string>
   <string name="delete_action">Elimina</string>
   <string name="delete_app">Esborra aplicació</string>

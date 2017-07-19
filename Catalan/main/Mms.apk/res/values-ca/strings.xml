@@ -385,6 +385,7 @@
   <string name="pref_other_title">Configuració addicional</string>
   <string name="pref_show_blocked_messages_summary">Mostra els SMS bloquejats a la llista de converses</string>
   <string name="pref_show_list_avatar_summary">Mostra imatges i altra informació de contacte a la vista de llista</string>
+  <string name="pref_show_photo_word_summary">Assigna automàticament una imatge als contactes sense</string>
   <string name="pref_show_sms_template_entry_summary">Detecta les contrasenyes úniques als SMS</string>
   <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
@@ -604,6 +605,7 @@
   <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
   <string name="title_show_list_avatar">Mostra fotos i informació</string>
+  <string name="title_show_photo_word">Assigna fotos al contacte</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
   <string name="title_timed_message_dialog">Estableix el missatge programat</string>
@@ -634,7 +636,6 @@ Intents realitzats: %s"</string>
   <string name="unsticked_conversation">Conversa alliberada</string>
   <string name="unsupported_media_format">El format %1$s no està suportat.</string>
   <string name="url_fraud_dangerous_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Possiblement podria malmetre el dispositiu i les dades. Voleu accedir a %s de totes maneres?"</string>
-  <string name="url_fraud_insurance">Segur de frau</string>
   <string name="url_fraud_risky_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Voleu accedir a %s de totes maneres?"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>

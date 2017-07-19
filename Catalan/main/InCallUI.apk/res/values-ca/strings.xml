@@ -59,10 +59,13 @@
   <string name="can_not_call_oneself">"No es pot trucar a aquest número"</string>
   <string name="can_not_use">"No es pot fer servir"</string>
   <string name="cancel">Cancel·la</string>
+  <string name="card_title_answering">Responent la trucada</string>
+  <string name="card_title_answering_fail">"No s'ha pogut respondre la trucada, torneu-ho a provar."</string>
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
   <string name="card_title_hanging_up">"S'està penjant... "</string>
+  <string name="card_title_hanging_up_fail">"No s'ha pogut finalitzar la trucada, torneu-ho a provar."</string>
   <string name="card_title_hanging_up_restart">"No es pot finalitzar la trucada. Reinicieu el dispositiu."</string>
   <string name="card_title_hanging_up_weak_signal">Senyal de xarxa mòbil feble. Trucada finalitzada</string>
   <string name="card_title_in_call">A la trucada</string>
@@ -125,9 +128,6 @@
   <string name="do_not_ask">No mostrar de nou</string>
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
-  <string name="fraud_call_answer">Respondre</string>
-  <string name="fraud_call_decline">Rebutja</string>
-  <string name="fraud_call_waring">Aneu amb compte: Comproveu abans sempre la identitat del contacte per telèfon o vídeo abans de respondre a qualsevol missatge que inclogui la seva informació personal.</string>
   <string name="inCallLabel">InCallUI</string>
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
   <string name="incall_error_supp_service_conference">"No es poden realitzar trucades de conferència."</string>
@@ -198,10 +198,6 @@
   <string name="notification_ongoing_call">Trucada en curs</string>
   <string name="notification_requesting_video_call">Petició de vídeo entrant</string>
   <string name="ok">D\'acord</string>
-  <string name="online_check_provider_info">Identificat per %s</string>
-  <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Sempre verifiqueu la identitat de la persona amb la que parla per telèfon o vídeo abans de respondre a qualsevol missatge relacionat amb les seves finances personals."</string>
-  <string name="online_check_warning_type_by_cmb">Brossa</string>
   <string name="onscreenEndCallText">Final</string>
   <string name="onscreen_add_call_text">Afegeix trucada</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>

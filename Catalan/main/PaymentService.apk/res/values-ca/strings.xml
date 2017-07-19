@@ -39,7 +39,6 @@
   <string name="mibi_cancel">Cancel·la</string>
   <string name="mibi_change_security_lock">Més bloquejos de pantalla</string>
   <string name="mibi_deduct_goods_name">Article</string>
-  <string name="mibi_deduct_open">Engega</string>
   <string name="mibi_deduct_open_prompt">%1$s us podrà carregar automàticament utilitzant %2$s sense verificació. Podeu aturar aquesta funció en %1$s</string>
   <string name="mibi_deduct_order_price">Preu</string>
   <string name="mibi_deduct_pay_group_title">Seleccioneu el tipus de descompte</string>
@@ -66,7 +65,6 @@
   <string name="mibi_detail_recharge_order">Ordre de recàrrega núm.</string>
   <string name="mibi_detail_recharge_time">Temps</string>
   <string name="mibi_detail_recharge_title">Registres de recàrrega</string>
-  <string name="mibi_direct_pay_group_title">Selecció de la forma de pagament</string>
   <string name="mibi_direct_pay_novalid_method">Opció de pagament no vàlida.</string>
   <string name="mibi_direct_payment_title">Informació de la comanda</string>
   <string name="mibi_enter_failed">Ha fallat l\'apertura</string>
@@ -165,6 +163,14 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">S\'ha notificat al vostre proveïdor de xarxa!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">En breu rebreu una confirmació de text.</string>
   <string name="mibi_msg_telecom_sending">S\'està contactant amb el proveïdor de xarxa&#8230;</string>
+  <string name="mibi_order_balance_lable">Crèdits Mi</string>
+  <string name="mibi_order_balance_lable_append">Crèdits Mi + cupó</string>
+  <string name="mibi_order_balance_title">Els meus Crèdits Mi</string>
+  <string name="mibi_order_no_use_balance">Sense ús</string>
+  <string name="mibi_order_pay_back">Confirmar</string>
+  <string name="mibi_order_pay_type">Forma de pagament</string>
+  <string name="mibi_order_pay_type_title">Seleccioneu el mètode de pagament</string>
+  <string name="mibi_order_title">Pagament</string>
   <string name="mibi_other_denomiantion">Seleccioneu la quantitat</string>
   <string name="mibi_partner_giftcard_payment_with_append">Aplica %1$s</string>
   <string name="mibi_password_error">Contrasenya incorrecta.</string>

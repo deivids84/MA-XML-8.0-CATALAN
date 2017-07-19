@@ -29,20 +29,6 @@
     <item>Wi-Fi avui</item>
     <item>Wi-Fi aquest mes</item>
   </string-array>
-  <string-array name="date_of_app">
-    <item>Ahir (dades)</item>
-    <item>Avui (dades)</item>
-    <item>Aquest mes (dades)</item>
-  </string-array>
-  <string-array name="network_speed_update_internals">
-    <item>3 segs</item>
-    <item>4 segs</item>
-    <item>5 segs</item>
-    <item>6 segs</item>
-    <item>7 segs</item>
-    <item>8 segs</item>
-    <item>9 segs</item>
-  </string-array>
   <string-array name="traffic_type">
     <item>"Ús mòbil "</item>
     <item>"Ús Wi-Fi "</item>
@@ -50,10 +36,6 @@
   <string-array name="mi_service_traffic_type">
     <item>"Ús mòbil "</item>
     <item>"Ús Wi-Fi "</item>
-  </string-array>
-  <string-array name="traffic_sort_type">
-    <item>"Ús de dades mòbils "</item>
-    <item>"ús Wi-Fi "</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
     <item>Mostra una advertència</item>
@@ -69,23 +51,25 @@
     <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>
     <item>Quan el dispositiu està bloquejat o un minut després de sortir de l\'aplicació</item>
   </string-array>
-  <string-array name="long_add_menu">
-    <item>Afegeix a excepcions</item>
-  </string-array>
   <string-array name="sort_type">
     <item>Ordena pel nom</item>
     <item>Ordena per la mida</item>
+    <item>Freqüència d\'ús</item>
+    <item>Emmagatzematge utilitzat</item>
+    <item>Ús de dades</item>
+    <item>Ús de bateria</item>
+  </string-array>
+  <string-array name="sort_title">
+    <item>Ordena per estat</item>
+    <item>Ordena pel nom de l\'aplicació</item>
+    <item>Ordenar per freqüència d\'ús</item>
+    <item>Ordena per emmagatzematge d\'ús</item>
+    <item>Ordena per l\'ús de dades</item>
+    <item>Ordena per l\'ús de la bateria</item>
   </string-array>
   <string-array name="sms_report_type">
     <item>Ús de dades</item>
     <item>Saldo del telèfon</item>
-  </string-array>
-  <string-array name="power_dialog_auto_clean_memory_items">
-    <item>Després de 1 minut</item>
-    <item>Després de 5 minuts</item>
-    <item>Després de 10 minuts</item>
-    <item>Mai</item>
-    <item>Mai</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Un cop</item>

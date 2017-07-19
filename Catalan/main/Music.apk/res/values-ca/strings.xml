@@ -440,6 +440,7 @@
   <string name="load_shuffle">S\'està carregant&#8230;</string>
   <string name="loadercontainer_loading">Un moment&#8230;</string>
   <string name="loading_hint">Un moment&#8230;</string>
+  <string name="local_header_title">Música local</string>
   <string name="local_music">Local</string>
   <string name="local_music_empty">La llista de reproducció està buida</string>
   <string name="local_music_empty_goto_online">No s\'han trobat cançons</string>

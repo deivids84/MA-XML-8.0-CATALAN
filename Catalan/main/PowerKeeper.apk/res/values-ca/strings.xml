@@ -165,6 +165,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="reading">Mode lectura</string>
   <string name="scenario_policies_summary">Estalvi d\'energia segons l\'escenari</string>
   <string name="scenario_policies_title">Polítiques d\'estalvi d\'energia d\'escenari</string>
+  <string name="scenario_policies_warmcontrol">Control de temperatura</string>
   <string name="screen_off">Pantalla apagada</string>
   <string name="screen_off_10_min">Pantalla apagada durant 10 minuts</string>
   <string name="screen_on">Pantalla encesa</string>
@@ -183,4 +184,5 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="vip_feedback_apply">Envia sol·licitud de comentaris VIP</string>
   <string name="vip_feedback_apply_msg">Contacteu amb vip-feedback-system@xiaomi.com per sol·licitar els comentaris VIP</string>
   <string name="vip_feedback_enable">Activa els comentaris automàtics VIP</string>
+  <string name="warm_configure">Configuració del control de temperatura</string>
 </resources>

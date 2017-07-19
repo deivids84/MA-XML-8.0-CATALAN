@@ -98,8 +98,8 @@
     <item quantity="one">Xarxa Wi-Fi disponible</item>
   </plurals>
   <plurals name="wifi_available_detailed">
-    <item quantity="other">Xarxes Wi-Fi obertes disponibles</item>
-    <item quantity="one">Xarxa Wi-Fi oberta disponible</item>
+    <item quantity="other">Hi ha disponible una xarxa Wi-Fi oberta</item>
+    <item quantity="one">Hi ha disponible una xarxa Wi-Fi oberta</item>
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d de %2$d</item>

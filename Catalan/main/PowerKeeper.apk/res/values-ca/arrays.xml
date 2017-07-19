@@ -84,4 +84,12 @@
     <item>seleccionat</item>
     <item>no seleccionat</item>
   </string-array>
+  <string-array name="thermal_entries">
+    <item>Mode de control de temperatura per defecte</item>
+    <item>Primer mode de rendiment</item>
+  </string-array>
+  <string-array name="thermal_summaries">
+    <item>El mode actual de control de temperatura, la temperatura d\'experiència és preferida</item>
+    <item>Es prefereix el model de rendiment actual, l\'experiència de rendiment, les temperatures podrien augmentar</item>
+  </string-array>
 </resources>

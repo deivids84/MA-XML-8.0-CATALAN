@@ -180,6 +180,7 @@
   <string name="empty_title_photos">No s\'ha trobat cap foto</string>
   <string name="empty_title_residual">No s\'han trobat fitxers residuals</string>
   <string name="empty_title_video">No hi ha vídeos a suprimir</string>
+  <string name="engine_init">S\'està inicialitzant...</string>
   <string name="file">Fitxers</string>
   <string name="file_not_found">No s\'ha trobat l\'arxiu</string>
   <string name="flow_rank_title">Ús de dades</string>

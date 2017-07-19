@@ -123,7 +123,7 @@
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
   <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
-  <string name="account_setup_need_password_verification">El vostre compte ha estat oberta amb una contrasenya secundària d\'autenticació, cal tornar a autenticar</string>
+  <string name="account_setup_need_password_verification">El vostre compte té autenticació amb contrasenya secundària. Cal la autenticació completa.</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minuts</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 hores</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Cada hora</string>

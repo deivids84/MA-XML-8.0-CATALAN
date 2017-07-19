@@ -102,6 +102,7 @@
   <string name="block_ads_choice_continue">Continua</string>
   <string name="block_ads_message">Voleu bloquejar els missatges d\'aquest web?</string>
   <string name="block_ads_title">El contingut pot incloure publicitat</string>
+  <string name="bookmark">Marcador</string>
   <string name="bookmark_add_to">Afegeix a</string>
   <string name="bookmark_btn_select_all">Selecciona-ho tot</string>
   <string name="bookmark_btn_select_none">Desselecciona-ho tot</string>
@@ -342,7 +343,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
-  <string name="history_saved_webpage">Pàgines desades</string>
+  <string name="history">Historial</string>
   <string name="home_description">Inici</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Elimina</string>
@@ -479,7 +480,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connecta a aquesta xarxa</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Hi ha una xarxa Wi-Fi oberta disponible</string>
-  <string name="new_folder_name_lable">Nom del grup</string>
   <string name="next_button_label">Següent</string>
   <string name="no_app_open_document">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="no_matches">No hi ha coincidències</string>
@@ -728,6 +728,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Desa per una lectura fora de línia</string>
   <string name="ssl_bad_clock_date_settings">Configuració de data</string>
@@ -875,8 +876,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="voice_title_please">Comenceu a parlar&#8230;</string>
   <string name="voice_title_speech_again">"No se us pogut entendre"</string>
   <string name="weather_location_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
-  <string name="webpage_bookmark_title">Marcadors</string>
-  <string name="webpage_history_title">Historial</string>
   <string name="webpage_title">Marcadors i historial</string>
   <string name="webview_find_on_page">Cerca a la pàgina</string>
   <string name="webviewchromium_private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>

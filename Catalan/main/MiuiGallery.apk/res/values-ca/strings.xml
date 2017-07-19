@@ -45,7 +45,6 @@
   <string name="album_already_exists_msg">L\'àlbum \"%s\" ja existeix</string>
   <string name="album_already_forced_top">Ja està fixat</string>
   <string name="album_camera_name">Càmera</string>
-  <string name="album_detail_clear_local_page_empty">No hi ha còpies de seguretat de fotos o vídeos per eliminar</string>
   <string name="album_detail_page_empty">No hi ha cap foto o vídeo</string>
   <string name="album_faces_name">Persones</string>
   <string name="album_from_format">Des de %s</string>
@@ -134,8 +133,9 @@
   <string name="backup_cloud_space_low_btn_text">Obtén més</string>
   <string name="backup_cloud_space_low_desc">%1$s al Mi Cloud | Disponible %2$s</string>
   <string name="backup_cloud_space_low_title">No hi ha prou espai al Mi Cloud</string>
-  <string name="backup_cta_not_allow">"No es pot accedir a la xarxa"</string>
   <string name="backup_cta_not_allow_btn_text">Permet</string>
+  <string name="backup_cta_not_allow_desc">Accepteu la còpia de seguretat automàtica</string>
+  <string name="backup_cta_not_allow_title">"No es pot accedir a la xarxa"</string>
   <string name="backup_detail_page_empty">Sense fotos o vídeos esperant la còpia de seguretat</string>
   <string name="backup_detail_page_title">Còpia de seguretat de Mi Cloud</string>
   <string name="backup_device_space_low_btn_text">Neteja</string>
@@ -158,6 +158,9 @@
   <string name="backup_pause_title">Còpia de seguretat en %s</string>
   <string name="backup_pending">Es farà una còpia de seguretat automàticament</string>
   <string name="backup_stop">Atura la còpia de seguretat</string>
+  <string name="backup_sync_dialog_confirm">Activa</string>
+  <string name="backup_sync_dialog_tips">Activeu la sincronització amb Mi Cloud per canviar la configuració de les còpies de seguretat.</string>
+  <string name="backup_sync_dialog_title">Sincronització desactivada</string>
   <string name="backup_sync_error_btn_text">Torneu-ho a provar</string>
   <string name="backup_sync_error_desc">"No s'ha pogut connectar al Mi Cloud"</string>
   <string name="backup_sync_error_title">"No s'han pogut sincronitzar els elements"</string>
@@ -568,7 +571,6 @@
   <string name="cityname_97">Prefectura Haidong</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Prefectura Autònoma Tibetana Hainan</string>
-  <string name="clear_local_photo_direction">Si elimineu fotos o vídeos del vostre dispositiu encara estaran disponibles a Mi Cloud</string>
   <string name="click_download_gif">Toqueu per baixar el GIF</string>
   <string name="click_top_right">Toqueu aquesta icona</string>
   <string name="cloud_camera_display_name">Fotos de la càmera</string>
@@ -579,6 +581,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Captures de pantalla</string>
   <string name="cloud_settings">Còpies de seguretat de la galeria</string>
+  <string name="cloud_storage_extend">Amplia l\'espai al núvol</string>
   <string name="cloud_storage_ok_append_desc">Disponible %s</string>
   <string name="cloud_storage_ok_desc">Espai al Mi Cloud: %s</string>
   <string name="cloud_storage_ok_title">Prou espai al Mi Cloud</string>
@@ -595,7 +598,11 @@
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
   <string name="cloudfolder_name_reserved">El nom de l\'àlbum està reservat</string>
   <string name="collaps_people">Amaga</string>
-  <string name="comma_separator">,</string>
+  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Moments WeChat</string>
+  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_download_video_message">Cal que acabeu de baixar aquest vídeo per començar-lo a veure. La baixada continuarà quan el Wi-Fi estigui disponible.</string>
   <string name="confirm_download_video_title">Baixa el vídeo</string>
@@ -658,7 +665,6 @@
   <string name="delete_third_party_photo">Voleu eliminar aquesta foto?</string>
   <string name="delete_third_party_video">Voleu eliminar aquest vídeo?</string>
   <string name="delete_to_trash_tips">Podeu veure les fotos eliminades recentment a «Configuració &gt; Paperera»</string>
-  <string name="delete_unsynced">Eliminar elements sense còpia de seguretat</string>
   <string name="deny">Rebutja</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -896,12 +902,10 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_delete">Elimina</string>
   <string name="operation_detail">Detalls</string>
   <string name="operation_disable_auto_upload">Desactiva la sincronització amb Mi Cloud</string>
-  <string name="operation_do_delete_local_thumnail">Elimina del dispositiu</string>
   <string name="operation_download">Baixa original (%s)</string>
   <string name="operation_edit">Edita</string>
   <string name="operation_edit_video">Edita</string>
   <string name="operation_enable_auto_upload">Activa la sincronització amb Mi Cloud</string>
-  <string name="operation_enter_delete_local">Elimina les fotos i vídeos de la còpia de seguretat del dispositiu</string>
   <string name="operation_failed">"No es pot completar la operació"</string>
   <string name="operation_force_top">Fixa</string>
   <string name="operation_hide">Amaga</string>
@@ -988,7 +992,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="relation_text_maternal_grandmother">Àvia materna</string>
   <string name="relation_text_mother">Mare</string>
   <string name="relation_with_you">Trieu una relació</string>
-  <string name="release_space_finish_format">S\'han alliberat %s d\'emmagatzematge local</string>
   <string name="remind_face_recommend_confirm">Confirma</string>
   <string name="remove_from_album_message">Aquesta foto ja no es mostra aquí</string>
   <string name="remove_from_album_title">Eliminar d\'aquest àlbum</string>
@@ -1014,7 +1017,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="reset">Reinicia</string>
   <string name="retry_to_create_album">Torna-ho a provar</string>
   <string name="retry_to_request_qr_code">Torna-ho a provar</string>
-  <string name="return_from_clear_local_file_fragment_toast">Les fotos optimitzades es desen al dispositiu. Toqueu una foto per baixar la original des de Mi Cloud.</string>
   <string name="revert">Reverteix</string>
   <string name="runtime_permission_ungranted">S\'ha tancat la galeria per manca de permisos</string>
   <string name="same_name_album_exist_and_toast">"Ja hi ha un àlbum amb el mateix nom. Alternativament s'ha creat '%s'."</string>

@@ -73,6 +73,7 @@
   <string name="legal_workday_invalidate_message">(Dates caducades. Actualitzeu-les a paràmetres)</string>
   <string name="legal_workday_message">" (Alarma aturada els dies festius)"</string>
   <string name="life_post_setting">Informe matinal</string>
+  <string name="life_post_setting_FBE_remind">A causa de la restricció del sistema, la informació meteorològica a l\'informe del matí pot no mostrar-se correctament després de reiniciar</string>
   <string name="life_post_setting_open_subtitle">Recepció d\'informació de l\'oratge quan atureu l\'alarma entre les 4:00 i 9:30</string>
   <string name="life_post_setting_open_title">Recepció d\'informes matínals</string>
   <string name="life_post_setting_wake_up_list_title">Historial de l\'hora que us lleveu</string>

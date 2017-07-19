@@ -76,7 +76,6 @@
   <string name="common_loading_text">Un moment&#8230;</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
   <string name="daily_forcast_drawer_on_bottom">Amaga</string>
-  <string name="daily_forcast_drawer_on_top">Previsió a %1$s dies vista</string>
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
@@ -98,7 +97,6 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="feedback_light_rain">Pluja feble</string>
   <string name="feedback_overcast">Cobert</string>
   <string name="feedback_result_fail_no_choice">Trieu el temps que veieu</string>
-  <string name="feedback_result_interval_time_too_short">%1$s segons després dels comentaris</string>
   <string name="feedback_result_success">S\'ha enviat amb èxit, gràcies pels vostres comentaris</string>
   <string name="feedback_sand">Sorra</string>
   <string name="feedback_sunny">Serè</string>

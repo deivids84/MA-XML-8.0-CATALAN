@@ -6,6 +6,8 @@
   <string name="action_mode_deselect_all">Anul·la la selecció</string>
   <string name="action_mode_select_all">Selecciona-ho tot</string>
   <string name="action_mode_title_empty">Selecció d\'elements</string>
+  <string name="actionbar_button_up_description">enrere</string>
+  <string name="actionbar_immersion_button_more_description">més</string>
   <string name="activate">Activa</string>
   <string name="activate_fail_notification_title">Reactivació de la sincronització</string>
   <string name="activating">S\'està activant&#8230;</string>
@@ -164,6 +166,7 @@
   <string name="saturday_short">Ds.</string>
   <string name="saturday_shortest">Ds.</string>
   <string name="search_input_description">cerca</string>
+  <string name="search_mode_button_back_description">enrere</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>
