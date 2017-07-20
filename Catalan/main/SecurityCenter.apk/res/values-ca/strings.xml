@@ -1082,7 +1082,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_save_mode_end_time">Final</string>
   <string name="power_save_mode_ontime_enabled">Programació d\'hores per canviar entre modes</string>
   <string name="power_save_mode_start_time">Inici</string>
-  <string name="power_save_mode_summary">Supervisa els processos de fons i desactiva la sincronització. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o del 100%.</string>
+  <string name="power_save_mode_summary" formatted="false">Supervisa els processos de fons i desactiva la sincronització. L\'estalvi de bateria s\'apaga automàticament quan la càrrega de la bateria és del 60% o del 100%.</string>
   <string name="power_save_on_time_end_time_summary_na">Fins</string>
   <string name="power_save_on_time_start_time_summary_na">Des de</string>
   <string name="power_save_summary_text">"Activeu l'estalvi de bateria per reduir l'activitat de fons de les aplicacions, aturar la sincronització, i reduir al mínim les animacions del sistema."</string>
