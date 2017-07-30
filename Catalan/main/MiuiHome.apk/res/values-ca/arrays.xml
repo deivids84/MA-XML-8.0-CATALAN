@@ -16,10 +16,6 @@
     <item>A l\'esquerra</item>
     <item>A la dreta</item>
   </string-array>
-  <string-array name="cell_layout_size_entries">
-    <item>4x4</item>
-    <item>4x5</item>
-  </string-array>
   <string-array name="gadget_weather_theme_type_entries">
     <item>Per defecte</item>
     <item>Clàssic</item>
@@ -50,15 +46,5 @@
     <item>Pedra</item>
     <item>Pols</item>
     <item>Calitja</item>
-  </string-array>
-  <string-array name="editing_mode_entries">
-    <item>Temes</item>
-    <item>Ginys</item>
-    <item>Fons</item>
-    <item>Efectes</item>
-    <item>Cèl·lules de pantalla</item>
-  </string-array>
-  <string-array name="quality_business_devices">
-    <item>Lithium</item>
   </string-array>
 </resources>
