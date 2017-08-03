@@ -73,10 +73,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">"%d h "</item>
     <item quantity="one">"%d h "</item>
   </plurals>
-  <plurals name="power_center_battery_minute">
-    <item quantity="other">"%d min "</item>
-    <item quantity="one">"%d min "</item>
-  </plurals>
   <plurals name="deep_clean_auto_memory_clean">
     <item quantity="other">En %1$d minuts</item>
     <item quantity="one">En %1$d min</item>
@@ -225,10 +221,6 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">%d virus suprimits</item>
     <item quantity="one">%d virus suprimit</item>
   </plurals>
-  <plurals name="optimize_result_button_add_score">
-    <item quantity="other">+%d</item>
-    <item quantity="one">+%d</item>
-  </plurals>
   <plurals name="add_game_notification_title">
     <item quantity="other">S\'han afegit %d jocs</item>
     <item quantity="one">S\'ha afegit %d joc</item>
@@ -260,5 +252,13 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="app_usage_year">
     <item quantity="other">No ho ha fet servir durant %d anys</item>
     <item quantity="one">No ho ha fet servir durant %d any</item>
+  </plurals>
+  <plurals name="install_game_count_title">
+    <item quantity="other">S\'han afegit %d jocs</item>
+    <item quantity="one">S\'ha afegit %d joc</item>
+  </plurals>
+  <plurals name="uninstall_game_count_title">
+    <item quantity="other">"No s'han afegit %d jocs"</item>
+    <item quantity="one">"No s'ha afegit %d joc"</item>
   </plurals>
 </resources>

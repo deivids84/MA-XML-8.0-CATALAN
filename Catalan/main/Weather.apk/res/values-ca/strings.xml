@@ -15,8 +15,6 @@
   <string name="activity_find_city_dialog_message">Deixeu que «El temps» vegi la vostra ubicació</string>
   <string name="activity_find_city_dialog_set">Configuració</string>
   <string name="activity_find_city_dialog_title">Accés a la ubicació</string>
-  <string name="activity_main_clickable">&gt;</string>
-  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
@@ -32,12 +30,6 @@
   <string name="aqi_desc">Índex de qualitat de l\'aire</string>
   <string name="aqi_detail_24_hours">Previsió per hores</string>
   <string name="aqi_detail_5_days">Previsió per dies</string>
-  <string name="aqi_detail_co">CO</string>
-  <string name="aqi_detail_no2">NO₂</string>
-  <string name="aqi_detail_o3">O₃</string>
-  <string name="aqi_detail_pm10">PM10</string>
-  <string name="aqi_detail_pm25">PM2.5</string>
-  <string name="aqi_detail_so2">SO₂</string>
   <string name="aqi_detail_sub_title">Detalls de l\'IQA</string>
   <string name="aqi_detail_subtitle">IQA %1$s</string>
   <string name="aqi_detail_title">Índex de qualitat de l\'aire</string>
@@ -69,17 +61,16 @@
   <string name="button_exit">Surt</string>
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
-  <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
   <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
   <string name="commercial">Publicitat</string>
   <string name="common_loading_text">Un moment&#8230;</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
+  <string name="content_desc_activity_main_add_city">Afegeix ciutat</string>
   <string name="daily_forcast_drawer_on_bottom">Amaga</string>
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
-  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -89,7 +80,6 @@
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades proporcionades per</string>
-  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Gestioneu les alertes</string>
   <string name="edit_city">Edita la ciutat</string>
   <string name="feedback_heavy_rain">Pluja forta</string>
@@ -104,9 +94,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="first_start_network_title">Accés a la connexió a Internet i a la ubicació</string>
   <string name="global_aqi">IQA: %1$s %2$s</string>
   <string name="gps_hint">Ubicació actual</string>
-  <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Ara</string>
-  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Previsió per hores</string>
   <string name="index_item_experience_now">Instal·la-ho ara</string>
@@ -114,9 +102,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="index_item_installing">S\'està instal·lant</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
   <string name="indices_desc_feel">Sensació tèrmica: %1$s°C</string>
-  <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">Humitat %1$s%%</string>
-  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s mbar</string>
   <string name="indices_desc_visibility">%1$s km</string>
   <string name="indices_no_restriction">Cap</string>
@@ -135,14 +121,12 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="information_manager_information">Informació meteorològica</string>
   <string name="information_manager_wlan">Mostra quan estigui connectat al Wifi</string>
   <string name="information_set">Configuració de la pàgina d\'inici</string>
-  <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">Instal·la</string>
   <string name="international_detail_menu_title">Detalls</string>
   <string name="international_details_pressure_title">PRESSIÓ</string>
   <string name="international_details_real_feel_title">SENSACIÓ TÈRMICA®</string>
   <string name="international_details_title">Detalls</string>
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VENT</string>
   <string name="locate_fail_detail_err">"No es pot ubicar el dispositiu
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
@@ -151,7 +135,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="menu_location">Ubicacions</string>
   <string name="menu_minute_rain">Previsió de dues hores de precipitació</string>
   <string name="menu_speeker">Difusió de veu</string>
-  <string name="mi_pad2">latte</string>
   <string name="minute_rain_after_an_hour">Una hora més tard</string>
   <string name="minute_rain_after_two_hour">Dues hores més tard</string>
   <string name="minute_rain_feedback_subtitle">Només digueu-me com és el temps</string>
@@ -160,13 +143,11 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="minute_rain_let_go_refresh">Permet refrescar</string>
   <string name="minute_rain_no_data">Sense dades</string>
   <string name="minute_rain_now">Ara</string>
-  <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Feu lliscar cap avall per actualitzar</string>
   <string name="minute_rain_refreshing_now">S\'està refrescant</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
-  <string name="no_data">--</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
@@ -174,7 +155,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other">Altres</string>
   <string name="particulate_matter_exceeded">Alta</string>
-  <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
   <string name="precipitation_degree_five">tempesta</string>
   <string name="precipitation_degree_four">intensa</string>
@@ -192,10 +172,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="search_weather">El temps</string>
   <string name="search_weather_keywords">Temperatura;Previsió meteorològica;El temps;Qualitat de l\'aire;Grau de contaminació;Humitat</string>
   <string name="set">Configuració</string>
-  <string name="set_degree_centigrade">°C</string>
-  <string name="set_fahrenheit">°F</string>
-  <string name="set_kilometre">km/h</string>
-  <string name="set_land_mile">mph</string>
   <string name="share">Comparteix</string>
   <string name="share_btn_cancel">Cancel·la</string>
   <string name="share_btn_confirm">Comparteix</string>
@@ -205,19 +181,11 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_title">Comparteix el temps</string>
   <string name="share_weather_desc">\#El temps de MIUI#Avui a les %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s %2$s</string>
-  <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
   <string name="some_where_on_earth">En algun lloc de la Terra</string>
   <string name="sunrise">Alba</string>
   <string name="sunset">Ocàs</string>
-  <string name="temperature_unit">%1$s°</string>
   <string name="title_share_link">Comparteix la URL</string>
-  <string name="top_pollution_co">CO</string>
-  <string name="top_pollution_no2">NO2</string>
-  <string name="top_pollution_o3">O3</string>
-  <string name="top_pollution_pm10">PM10</string>
-  <string name="top_pollution_pm25">PM2.5</string>
-  <string name="top_pollution_so2">SO2</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>
   <string name="traffic_control_today_numbers">Avui: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Demà: %1$s</string>

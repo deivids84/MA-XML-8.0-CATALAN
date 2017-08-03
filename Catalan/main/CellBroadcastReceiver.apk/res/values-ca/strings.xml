@@ -3,7 +3,6 @@
 <resources>
   <string name="add_channel">Afegeix canal</string>
   <string name="alert_reminder_interval_title">Recordatori d\'alerta</string>
-  <string name="alert_sound_duration_title">Durada del so d\'alerta</string>
   <string name="app_label">Difusions de cel·la</string>
   <string name="button_cancel">Cancel·la</string>
   <string name="button_delete">Elimina</string>
@@ -51,7 +50,6 @@
   <string name="cmas_exercise_alert">Alerta d\'emergència (simulacre)</string>
   <string name="cmas_extreme_alert">Alerta d\'emergència: Extrema</string>
   <string name="cmas_operator_defined_alert">Alerta d\'emergència (operador)</string>
-  <string name="cmas_opt_out_button_no">No</string>
   <string name="cmas_opt_out_button_yes">Sí</string>
   <string name="cmas_opt_out_dialog_text">Actualment rebeu alertes d\'emergència. Voleu seguir rebent-ne?</string>
   <string name="cmas_presidential_level_alert">Alerta presidencial</string>

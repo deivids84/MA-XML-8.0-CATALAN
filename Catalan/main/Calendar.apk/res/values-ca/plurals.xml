@@ -5,22 +5,6 @@
     <item quantity="other">%d dies</item>
     <item quantity="one">1 dia</item>
   </plurals>
-  <plurals name="Nhours">
-    <item quantity="other">%d hores</item>
-    <item quantity="one">1 hora</item>
-  </plurals>
-  <plurals name="Nminutes">
-    <item quantity="other">%d minuts</item>
-    <item quantity="one">1 minut</item>
-  </plurals>
-  <plurals name="month_more_events">
-    <item quantity="other">+%d</item>
-    <item quantity="one">+1</item>
-  </plurals>
-  <plurals name="weekN">
-    <item quantity="one">SETMANA %d</item>
-    <item quantity="other">SETMANA %d</item>
-  </plurals>
   <plurals name="Ndays_after_at">
     <item quantity="other">A %1$d dies a les %2$s</item>
     <item quantity="one">A %1$d dia a les %2$s</item>
@@ -28,6 +12,14 @@
   <plurals name="Ndays_ago_at">
     <item quantity="other">%1$d dies abans a les %2$s</item>
     <item quantity="one">%1$d dia abans a les %2$s</item>
+  </plurals>
+  <plurals name="Nhours">
+    <item quantity="other">%d hores</item>
+    <item quantity="one">1 hora</item>
+  </plurals>
+  <plurals name="Nminutes">
+    <item quantity="other">%d minuts</item>
+    <item quantity="one">1 minut</item>
   </plurals>
   <plurals name="Nweeks">
     <item quantity="other">Fa %d setmanes</item>
@@ -88,6 +80,10 @@
   <plurals name="repeat_interval_frequency_year_multiple">
     <item quantity="other">%1$d anys</item>
     <item quantity="one">%1$d any</item>
+  </plurals>
+  <plurals name="weekN">
+    <item quantity="one">SETMANA %d</item>
+    <item quantity="other">SETMANA %d</item>
   </plurals>
   <plurals name="work_days">
     <item quantity="other">%d dies laborables</item>

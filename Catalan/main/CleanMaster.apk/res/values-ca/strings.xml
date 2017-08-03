@@ -33,7 +33,6 @@
   <string name="apk_status_install">Instal·lat</string>
   <string name="apk_status_installed_old">Versió antiga</string>
   <string name="apk_status_uninstalled">Sense instal·lar</string>
-  <string name="apk_title_alipay_plugin">支付宝插件</string>
   <string name="app_description_content">El netejador troba la brossa del dispositiu i allibera espai d\'emmagatzematge. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="app_description_title">Quan al Netejador</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
@@ -86,7 +85,6 @@
   <string name="buy_a_new_phone">Aconsegueix més espai d\'emmagatzematge</string>
   <string name="buy_immediately">Compra</string>
   <string name="buy_traffic_pack">Compra més dades</string>
-  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Carpeta buida (%d)</string>
   <string name="cache_title_empty_folder2">Carpeta buida</string>
   <string name="cache_title_system_cache">Memòria cau del sistema</string>
@@ -104,6 +102,7 @@
   <string name="clip_board_history_desc">Continguts copiats/tallats</string>
   <string name="clipboard">Porta-retalls</string>
   <string name="close">Tanca</string>
+  <string name="close_debug_mode">Feu clic a %1$d per tancar l\'interruptor de depuració</string>
   <string name="confirm_auto_cleaner">D\'acord</string>
   <string name="conn_of_function_safe">Connexió de xarxa per a Seguretat</string>
   <string name="connecting">S\'està connectant&#8230;</string>
@@ -127,7 +126,6 @@
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniatures</string>
   <string name="deepclean_list_item_from_download">Baixades</string>
   <string name="deepclean_list_item_from_gallery">Galeria</string>
-  <string name="deepclean_list_item_from_miui">MIUI</string>
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Targeta SD</string>
   <string name="deepclean_normal_item_desc1">Fitxers brossa</string>
@@ -187,7 +185,6 @@
   <string name="function_app_lock_title">%d aplicacions contenen riscos de privacitat</string>
   <string name="garbage_clean_detail">Detalls</string>
   <string name="garbage_month">Netejat %s aquest mes</string>
-  <string name="gigabyteShort">GB</string>
   <string name="go_to">Continua</string>
   <string name="goto_set">Aplica</string>
   <string name="grabage_rank_title">Netejat avui</string>
@@ -211,7 +208,6 @@
   <string name="hints_garbage_cleanup_result_safe">Tot sembla correcte</string>
   <string name="hints_garbage_handle_item_content">%1$d elements, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Buit</string>
-  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Poc usada</string>
   <string name="hints_installed_app_near">Utilitzada recentment</string>
   <string name="hints_installed_app_never">No s\'ha utilitzat mai</string>
@@ -227,7 +223,6 @@
   <string name="hints_list_item_unlock">Neteja</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
   <string name="hints_memory_header_left">Memòria</string>
-  <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacitat: %d</string>
   <string name="hints_quick_cleanning">S\'està netejant&#8230;</string>
   <string name="hints_quick_cleanuping">S\'està optimitzant&#8230;</string>
@@ -256,7 +251,6 @@
   <string name="junk_tag_RF_EmptyFolders">Carpetes buides</string>
   <string name="junk_tag_RF_ImageThumbnails">Miniatures de la Galeria</string>
   <string name="just_now">Ara mateix</string>
-  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Cap</string>
   <string name="label_preserve_the_best_image">Desar les fotos més nítides</string>
   <string name="last_check_canceled">L\'anàlisi anterior fou cancel·lat</string>
@@ -275,7 +269,6 @@
   <string name="main_title_filesize">%1$s brossa</string>
   <string name="mainbtn_text_quick_cleanup">Neteja %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Neteja</string>
-  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplicacions, memòria %2$s</string>
   <string name="menu_add_to_white_list">Afegeix a excepcions</string>
   <string name="menu_clear">Neteja</string>
@@ -304,6 +297,7 @@
   <string name="open">Activa</string>
   <string name="open_app">Obre</string>
   <string name="open_browser">Obre al navegador</string>
+  <string name="open_debug_mode">Feu clic a %1$d per obrir l\'interruptor de depuració</string>
   <string name="open_file_error">"No s'ha pogut trobar l'aplicació que obre aquest fitxer"</string>
   <string name="optimizecenter_data_support_cm">Desenvolupat per Clean Master</string>
   <string name="optimizecenter_data_support_tc">Desenvolupat per Tencent</string>
@@ -340,7 +334,6 @@
   <string name="pref_title_manual_check_cleanup_db_update">Cerca actualitzacions</string>
   <string name="pref_title_open_optimizer_cloud_scan">Pujar noms de fitxers</string>
   <string name="pref_title_open_optimizer_memory_scan">Escaneja la memòria d\'aplicacions</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
   <string name="privacy_app_desc">Compte i contrasenya</string>
   <string name="privacy_app_desc_message">Compte, contrasenyes i missatges</string>
   <string name="privacy_app_desc_search">Compte, contrasenyes i historial de cerca</string>
@@ -356,10 +349,23 @@
   <string name="privacy_search_desc">Historial de cerques</string>
   <string name="privacy_search_type">Cerca de Google</string>
   <string name="promotion">Anunci</string>
+  <string name="qq_cache_files">Memòria cau QQ</string>
+  <string name="qq_clean">Netejador QQ</string>
+  <string name="qq_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
+  <string name="qq_data_type_cache">Memòria cau QQ</string>
+  <string name="qq_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
+  <string name="qq_data_type_chat">Historial de xat</string>
+  <string name="qq_data_type_chat_desc">"No podreu restaurar l'historial de xat."</string>
+  <string name="qq_data_type_normal">Paperera</string>
+  <string name="qq_data_type_normal_clean_tips">"Això son arxius tècnics. Suprimir-los no us hauria d'afectar."</string>
+  <string name="qq_data_type_normal_desc">"Suprimir-los no us hauria d'afectar."</string>
+  <string name="qq_data_type_other">Altres</string>
+  <string name="qq_data_type_other_desc">Aneu amb compte, potser no podreu restaurar aquests fitxers després que els elimineu.</string>
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommend_the_following">Prengueu les següents accions per obtenir el màxim profit del seu dispositiu</string>
   <string name="recommended">Recomanat</string>
   <string name="resutl_function_deep_clean_summary">" \"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; es poden esborrar més arxius. Allibera més espai.&lt;/Data&gt;\" "</string>
+  <string name="resutl_function_qq_clean_summary">" \"&lt;Data&gt;Podeu esborrar &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de memòria cau generada per QQ&lt;/Data&gt;\" "</string>
   <string name="resutl_function_wechat_clean_summary">" \"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; de memòria cau del WeChat. Allibera més espai.&lt;/Data&gt;\" "</string>
   <string name="sc_allow_network_dialog_button">Permet</string>
   <string name="sc_allow_network_dialog_message">Permet que aquesta aplicació es connecti a internet per rebre actualitzacions?</string>
@@ -373,7 +379,6 @@
   <string name="similar_image_empty">No s\'han trobat duplicades</string>
   <string name="similar_image_scaning">S\'està comprovant&#8230;</string>
   <string name="similar_image_title">Fotos</string>
-  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Patrocinat</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_install">Instal·la ara</string>
@@ -383,7 +388,6 @@
   <string name="summary_delete_large_file">Voleu esborrar els fitxers seleccionats permanentment?</string>
   <string name="summary_delete_video">&gt;Voleu eliminar els vídeos seleccionats de forma permanent?</string>
   <string name="summary_optimizer">"Aquesta característica puja noms de carpetes per actualitzar la base de dades en línia de Cheetah Mobile's i requereix la identitat del seu dispositiu."</string>
-  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Pujar noms de carpeta</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
   <string name="tips_of_app_manage">Elimineu aplicacions poc utilitzades per estalviar espai d\'emmagatzematge</string>
@@ -448,10 +452,7 @@
   <string name="wechat_chat_data_type_normal_desc">"Suprimir-los no us hauria d'afectar."</string>
   <string name="wechat_chat_data_type_other">Altres</string>
   <string name="wechat_chat_data_type_other_desc">Aneu amb compte, potser no podreu restaurar aquests fitxers després que els suprimiu.</string>
-  <string name="wechat_chat_files">Historial de xat</string>
   <string name="wechat_clean">Netejador WeChat</string>
-  <string name="wechat_clean_downloads">Fitxers rebuts</string>
-  <string name="wechat_clean_downloads_desc">Fitxers rebuts al WeChat</string>
   <string name="wechat_clean_exit_confirm">Voleu sortir?</string>
   <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
   <string name="wechat_clean_stop_confirm">Voleu aturar l\'anàlisi?</string>
@@ -466,7 +467,8 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
-  <string name="wechat_normal_files">Paperera</string>
+  <string name="wechat_qq_chat_files">Historial de xat</string>
+  <string name="wechat_qq_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>

@@ -26,7 +26,6 @@
   <string name="app_label">Rellotge</string>
   <string name="auto_silence_never">Mai</string>
   <string name="auto_silence_title">Silencia automàticament</string>
-  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Recordatori d\'aniversari</string>
   <string name="birthday_alarm_summary">Reprodueix \"Per molts anys\" enlloc de l\'alarma per defecte el dia del vostre aniversari</string>
   <string name="cancel">Cancel·la</string>
@@ -36,7 +35,6 @@
   <string name="control_set_alarm">Estableix alarma</string>
   <string name="control_set_alarm_with_existing">Ajusta l\'alarma: %s</string>
   <string name="day">1 dia</string>
-  <string name="day_concat">", "</string>
   <string name="days">%s dies</string>
   <string name="default_alarm_alert">So d\'alarma predeterminat</string>
   <string name="default_alarm_title">So predeterminat</string>
@@ -50,14 +48,12 @@
   <string name="dialog_confirm_abort">Voleu descartar els canvis?</string>
   <string name="done">Fet</string>
   <string name="edit_systemtime">Edita l\'hora del sistema</string>
-  <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Cada dia</string>
   <string name="force_touch_add_alarm">Afegeix una alarma</string>
   <string name="force_touch_enter_stopwatch">Cronòmetre</string>
   <string name="force_touch_enter_timer">Temporitzador</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="hour">1 hora</string>
-  <string name="hour_unit">Hr +</string>
   <string name="hours">%s hores</string>
   <string name="install_weather_app_error">"No s'ha pogut carregar l'aplicació"</string>
   <string name="install_weather_app_loading">Un segon&#8230;</string>
@@ -130,11 +126,9 @@
   <string name="stat_repeat_weekends">Cap de setmana</string>
   <string name="stopwatch_lap_empty_text">Sense voltes</string>
   <string name="stopwatch_title">Cronòmetre</string>
-  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Configuració</string>
   <string name="system_time_settings_category_title">Configuració de l\'hora</string>
   <string name="time">Hora</string>
-  <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Toqueu la pantalla per aturar l\'alarma</string>
   <string name="timer_alarm_dot_matrix_label">TEMPORITZADOR</string>
   <string name="timer_alert_alert_silenced">Temporitzador silenciat després de %d minuts.</string>
@@ -143,9 +137,6 @@
   <string name="timer_got_it">D\'acord</string>
   <string name="timer_item_duration_display">%1$d min %2$d seg</string>
   <string name="timer_item_label_hint">Nom del temporitzador</string>
-  <string name="timer_item_picker_hour">H</string>
-  <string name="timer_item_picker_minute">M</string>
-  <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Afegeix temporitzador</string>
   <string name="timer_notify_text">Ajorna o ignora l\'alarma.</string>
   <string name="timer_start_alarm">"S'ha acabat el temps!"</string>

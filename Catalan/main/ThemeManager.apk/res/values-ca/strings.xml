@@ -29,7 +29,6 @@
   <string name="change_wallpaper">Fons de pantalla</string>
   <string name="close">Tanca</string>
   <string name="component_backup_preference_title">Fes una còpia de seguretat del tema</string>
-  <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">AVANÇAT</string>
   <string name="component_title_ringtone">Tons</string>
   <string name="component_title_wallpaper">Fons de pantalla</string>
@@ -54,7 +53,6 @@
   <string name="favorite_list">Favorits</string>
   <string name="favorite_list_format">Favorit %1$s</string>
   <string name="gift_anonymous">Anònim</string>
-  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel·la</string>
   <string name="gift_operation_fail_dlg_retry">Torneu a provar-ho</string>
   <string name="gift_operation_waiting">Un moment&#8230;</string>
@@ -102,7 +100,6 @@
   <string name="lockscreen_apply_success">S\'ha aplicat el fons de pantalla de bloqueig</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">"S'ha aplicat el fons de la pantalla de bloqueig, però no s'ha pogut aplicar el de la pantalla d'inici"</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidors</string>
-  <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
   <string name="lockscreen_magazine_system_title">Local</string>
   <string name="lockscreen_magazine_title">Pantalles de bloqueig diàries</string>
@@ -126,7 +123,6 @@
   <string name="provision_second_title">Seleccioneu un dels cinc temes per defecte</string>
   <string name="provision_title">Trieu un tema</string>
   <string name="purchased_list">Comprats</string>
-  <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="reload">Torneu a provar-ho</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
@@ -154,7 +150,6 @@
   <string name="resource_comment_average_score">Qualificacions</string>
   <string name="resource_comment_bad_comments">Negatiu</string>
   <string name="resource_comment_current_version">Versió actual</string>
-  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Afegeix comentaris</string>
   <string name="resource_comment_edit_comment_waiting">S\'està comprovant l\'historial&#8230;</string>
   <string name="resource_comment_edit_text_default">Escriviu un comentari</string>
@@ -199,7 +194,6 @@
   <string name="resource_detail_recommend_desiner_other_themes">Altres temes dissenyats per %1$s</string>
   <string name="resource_detail_recommend_other_themes">Als usuaris també els va agradar</string>
   <string name="resource_detail_update_log_title">Actualitzacions</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalls de %1$s</string>
   <string name="resource_download">Baixa</string>
   <string name="resource_download_notification_title_many">%1$s temes baixats</string>
@@ -255,7 +249,6 @@
   <string name="resource_pack_price_info">Preu original: %1$s</string>
   <string name="resource_pack_warning">"Heu comprat %1$d components d'aquest tema. És més barat si compreu els components restants individualment."</string>
   <string name="resource_present">Regal</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratuït</string>
   <string name="resource_price_unit">Crèdits Mi</string>
   <string name="resource_purchase_common_error">Operació fallida. Torneu-ho a provar.</string>
@@ -264,11 +257,9 @@
   <string name="resource_purchase_verifying_payment">S\'està verificar la informació del pagament&#8230;</string>
   <string name="resource_purchase_vip_pay_failed">"Ha fallat el pagament VIP."</string>
   <string name="resource_purchase_waiting_payment">S\'està esperant la informació del pagament&#8230;</string>
-  <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">De franc</string>
   <string name="resource_ranking_purchase">De pagament</string>
   <string name="resource_ringtone_default">Tons</string>
-  <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
   <string name="resource_save_to_note">Desa a Notes</string>
   <string name="resource_search_color_hint_blue">Blau</string>
@@ -296,8 +287,6 @@
   <string name="resource_tab_to_view">Premeu per veure.</string>
   <string name="resource_tip_select_none">Cap seleccionat</string>
   <string name="resource_title">Detalls</string>
-  <string name="resource_title_category">Categories</string>
-  <string name="resource_title_hot_subject">Popular</string>
   <string name="resource_title_local">Local</string>
   <string name="resource_title_rank">Populars</string>
   <string name="resource_title_select_ringtone">Seleccioneu un to</string>
@@ -353,7 +342,6 @@
   <string name="theme_component_title_boot_audio">Àudio d\'arrencada</string>
   <string name="theme_component_title_clock">Rellotge</string>
   <string name="theme_component_title_contact">Teclat de marcatge</string>
-  <string name="theme_component_title_font">Fonts</string>
   <string name="theme_component_title_framework">Vores</string>
   <string name="theme_component_title_icon">Icones</string>
   <string name="theme_component_title_launcher">Safata de favorits</string>
@@ -384,8 +372,6 @@
   <string name="theme_is_external_priority_storage">Desa a la targeta SD</string>
   <string name="theme_is_external_priority_storage_summary">L\'aplicació Temes es reiniciarà immediatament per aplicar els canvis</string>
   <string name="theme_multiple_button_title_customize">Personalitza</string>
-  <string name="theme_name">%1$s</string>
-  <string name="theme_no">No</string>
   <string name="theme_precast_create_notification_content">Toqueu per veure nous temes.</string>
   <string name="theme_precast_create_notification_title"> Actualitzats a MIUI 7</string>
   <string name="theme_precast_update_notification_content">Toqueu per explorar les actualitzacions.</string>

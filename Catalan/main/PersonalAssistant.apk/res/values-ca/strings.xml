@@ -49,13 +49,10 @@
   <string name="duokan_setting_brief">Continua llegint des del lloc que heu deixat.</string>
   <string name="entrance">Dreceres de targeta</string>
   <string name="exercise_setting_brief">Mostra les estadístiques d\'activitat (permet a Mi Fit iniciar-se automàticament a Seguretat).</string>
-  <string name="express_mi_shop">Mi Store</string>
   <string name="express_open">Mostra targetes de seguiment d\'entrega</string>
   <string name="express_other_app">Seguiment de comandes des de aplicacions de compres</string>
   <string name="express_setting_brief">Reculli targetes de les aplicacions de compra per realitzar un seguiment de les comandes.</string>
   <string name="express_support_app">Aplicacions compatibles</string>
-  <string name="express_taobao">Taobao</string>
-  <string name="express_tmall">Tmall</string>
   <string name="flow_open">Mostra targeta de dades mòbils</string>
   <string name="flow_setting_brief">Visualitzeu la informació de dades mòbils (Afegiu el pla de dades a Seguretat &gt; Ús de dades).</string>
   <string name="focus">Segueix l\'estat</string>
@@ -68,8 +65,6 @@
   <string name="hold_down_adjustment_order">Mantén premut la icona de la dreta per arrossegar elements</string>
   <string name="home">Inici</string>
   <string name="home_and_company">Inici i treball</string>
-  <string name="hour12_format_en">hh:mm</string>
-  <string name="hour24_format_en">HH:mm</string>
   <string name="immediate_recommendation">Recomanacions</string>
   <string name="launch_app">Recomanacions de l\'aplicació</string>
   <string name="launch_change_order">Canvia l\'ordre</string>
@@ -118,17 +113,14 @@
   <string name="not_install_c4">No, gràcies</string>
   <string name="not_installed">No s\'ha instal·lat</string>
   <string name="note_name">Crea una nota</string>
-  <string name="note_parent">Notes</string>
   <string name="notification_express_app_open">Activa</string>
   <string name="notification_express_content">Seguiment de comandes utilitzant l\'assistent intel·ligent</string>
   <string name="notification_express_title">Activa las targetes de les aplicacions de compres</string>
   <string name="opened">Activa</string>
-  <string name="paycode_parent">Alipay</string>
   <string name="place_label">Ubicacions freqüents</string>
   <string name="preferences">Preferències</string>
   <string name="preferences_label">Preferències</string>
   <string name="qq_new">Nou estat</string>
-  <string name="qq_qzone">Qzone</string>
   <string name="quickstart_label">Característiques</string>
   <string name="record_name">Comença a enregistrar</string>
   <string name="record_parent">Gravadora</string>
@@ -139,7 +131,6 @@
   <string name="scan">Escaneja</string>
   <string name="scan_card">Targeta de visita</string>
   <string name="scan_code">Codi QR</string>
-  <string name="scan_doc">Document</string>
   <string name="scan_exercise">Estudi</string>
   <string name="scan_parent">Escàner</string>
   <string name="scan_trans">Tradueix</string>
@@ -158,7 +149,6 @@
   <string name="settings_label">Configuració de l\'Assistent intel·ligent</string>
   <string name="shortcut">Dreceres</string>
   <string name="sport_open">Mostra la targeta Mi Fit</string>
-  <string name="taxi">Taxi</string>
   <string name="taxi_open">Mostra la targeta de taxi</string>
   <string name="taxi_setting_brief">Obtén un taxi en un sol toc.</string>
   <string name="transit_subway">Transport públic</string>
@@ -171,7 +161,6 @@
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="walk">A peu</string>
   <string name="weibo_name">Nou article</string>
-  <string name="weibo_parent">Weibo</string>
   <string name="which_transport">Com arribeu normalment al vostre destí?</string>
   <string name="widget_fav">preferit</string>
   <string name="widget_fav_open">Mostra la targeta dels preferits</string>
@@ -179,10 +168,8 @@
   <string name="wx_aa">Reparteix la despesa</string>
   <string name="wx_collectioncode">Rep el pagament</string>
   <string name="wx_name">La meva targeta</string>
-  <string name="wx_parent">WeChat</string>
   <string name="wx_paycode">Pagament</string>
   <string name="wx_scan">Escàner</string>
-  <string name="wx_timeline">Moments</string>
   <string name="xspace_resolver_activity_title">Seleccioneu l\'aplicació</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
 </resources>

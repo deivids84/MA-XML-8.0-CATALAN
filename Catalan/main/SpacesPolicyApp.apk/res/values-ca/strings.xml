@@ -5,7 +5,6 @@
   <string name="app_name">Agent d\'espais de seguretat</string>
   <string name="btn_title_cancel">Cancel·la</string>
   <string name="btn_title_force">Força</string>
-  <string name="choice_no">No</string>
   <string name="choice_yes">Sí</string>
   <string name="default_space_name">Espai sense nom</string>
   <string name="dialog_password_expired_button">Actualitza la contrasenya</string>

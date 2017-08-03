@@ -4,7 +4,6 @@
   <string name="alphabet">Alfabets</string>
   <string name="app_name">Eines SIM</string>
   <string name="button_cancel">Cancel·la</string>
-  <string name="button_no">No</string>
   <string name="button_ok">D\'acord</string>
   <string name="button_yes">Sí</string>
   <string name="default_call_setup_msg">Trucada en curs&#8230;</string>
@@ -27,7 +26,6 @@
   <string name="sim_type_usim_name">Eines USIM</string>
   <string name="stk_app_state">Estat de l\'aplicació</string>
   <string name="stk_dialog_accept">SÍ</string>
-  <string name="stk_dialog_reject">NO</string>
   <string name="stk_dialog_title">Eines SIM</string>
   <string name="stk_intent_permission">Permet els intents STK</string>
   <string name="stk_no_service">No hi ha cap servei disponible</string>

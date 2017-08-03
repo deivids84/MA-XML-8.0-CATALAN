@@ -16,7 +16,6 @@
   <string name="TestSender">Testar remitent</string>
   <string name="Unregister">treure registre</string>
   <string name="action_settings">Configuració</string>
-  <string name="app_name">Mi Drop</string>
   <string name="cancel_confirm">Cancel·la</string>
   <string name="cancel_confirm_title">"La transferència no s'ha completat, voleu cancel·lar-la?"</string>
   <string name="cancel_receive_confirm">Cancel·la</string>
@@ -26,7 +25,6 @@
   <string name="hello_world">Hola món!</string>
   <string name="help">Ajuda</string>
   <string name="i_know">Ho tinc</string>
-  <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
   <string name="intro_page1_text2">"Més fàcil que mai"</string>
   <string name="intro_page2_choose_files">Trieu els fitxers i toqueu «Envia»</string>
@@ -55,8 +53,6 @@
   <string name="receiver_succeed_view">Mostra el fitxer</string>
   <string name="receiver_transfer_interrupt">"Transferència interrompuda, no apaguis el punt d'accés Wi-Fi durant la transferència"</string>
   <string name="runtime_permission_ungranted">No es pot utilitzar Mi Drop per manca de permisos</string>
-  <string name="send_file_time_format_m">m:s</string>
-  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"No enviar"</string>
   <string name="sender_complete">Fet</string>
   <string name="sender_fail">"No s'ha pogut enviar"</string>

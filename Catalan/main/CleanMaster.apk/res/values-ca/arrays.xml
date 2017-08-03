@@ -17,6 +17,7 @@
     <item>Diàriament</item>
     <item>Cada 3 dies</item>
     <item>Cada 7 dies</item>
+    <item>Cada 15 dies</item>
   </string-array>
   <string-array name="auto_clean_size">
     <item>100 MB</item>
@@ -28,53 +29,5 @@
     <item>Mostra</item>
     <item>No ho mostris</item>
     <item>Mostra-ho després</item>
-  </string-array>
-  <string-array name="cache_clean_menu">
-    <item>Neteja aquest fitxer</item>
-    <item>"Veure la localització del fitxer"</item>
-  </string-array>
-  <string-array name="trash_clean_menu">
-    <item>Neteja aquest fitxer</item>
-    <item>"Veure la localització del fitxer"</item>
-  </string-array>
-  <string-array name="video_clean_menu">
-    <item>Neteja aquest fitxer</item>
-    <item>Obre</item>
-  </string-array>
-  <string-array name="empty_floder_clean_menu">
-    <item>Neteja</item>
-  </string-array>
-  <string-array name="apk_clean_menu">
-    <item>Neteja</item>
-    <item>Instal·la aquesta aplicació</item>
-    <item>Veure a la carpeta</item>
-  </string-array>
-  <string-array name="long_add_menu">
-    <item>Afegeix a les excepcions</item>
-  </string-array>
-  <string-array name="long_add_app_menu">
-    <item>Afegeix l\'aplicació a les excepcions</item>
-  </string-array>
-  <string-array name="app_clean_menu">
-    <item>Desinstal·la</item>
-  </string-array>
-  <string-array name="auto_alert_apps_time">
-    <item>Cada 7 dies</item>
-    <item>Cada 15 dies</item>
-    <item>Cada 30 dies</item>
-  </string-array>
-  <string-array name="scan_engine">
-    <item>Clean Master</item>
-    <item>Tencent</item>
-  </string-array>
-  <string-array name="wechat_menu_delete">
-    <item>Neteja</item>
-  </string-array>
-  <string-array name="wechat_menu_delete_whitelist">
-    <item>Neteja</item>
-  </string-array>
-  <string-array name="wechat_menu_delete_whitelist_view">
-    <item>Neteja</item>
-    <item>Veure</item>
   </string-array>
 </resources>

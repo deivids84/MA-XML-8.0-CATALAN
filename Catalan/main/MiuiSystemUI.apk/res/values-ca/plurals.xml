@@ -5,12 +5,32 @@
     <item quantity="other">%d aplicacions recents</item>
     <item quantity="one">1 aplicació recent</item>
   </plurals>
+  <plurals name="accessibility_recent_task_enter">
+    <item quantity="other">Recentment obertes, aplicacions disponibles: %d.</item>
+    <item quantity="one">Recentment obertes, aplicacions disponibles: 1.</item>
+  </plurals>
+  <plurals name="accessibility_recent_task_first_enter_tips">
+    <item quantity="other">Obertes fa poc, aplicacions disponibles: %d. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
+    <item quantity="one">Oberta fa poc, aplicació disponible: 1. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
+  </plurals>
+  <plurals name="settings_toggle_position_divider_page">
+    <item quantity="other">%1$d commutadors sobre d\'aquesta barra estan actius</item>
+    <item quantity="one">1 commutador sobre d\'aquesta barra estan actius</item>
+  </plurals>
   <plurals name="disable_notification_confirm_title">
     <item quantity="other">"Voleu amagar les notificacions d'aquestes %d aplicacions?"</item>
     <item quantity="one">"Voleu amagar les notificacions d'aquesta aplicació?"</item>
   </plurals>
+  <plurals name="block_record_notification_more_text">
+    <item quantity="other">S\'estan ocultant notificacions de %1$s i %2$d aplicacions.</item>
+    <item quantity="one">S\'està ocultant les notificacions de %1$s i 1 aplicació.</item>
+  </plurals>
   <plurals name="view_realtime_clear">
     <item quantity="other">Serè</item>
     <item quantity="one">Assolellat</item>
+  </plurals>
+  <plurals name="fold_tips_title">
+    <item quantity="other">%d notificacions són doblades</item>
+    <item quantity="one">%d notificació és doble</item>
   </plurals>
 </resources>

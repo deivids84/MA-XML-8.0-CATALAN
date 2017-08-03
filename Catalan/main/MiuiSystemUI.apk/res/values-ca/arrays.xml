@@ -168,10 +168,14 @@
     <item>Colors naturals tal com els veu l\'ull humà</item>
     <item>Colors optimitzats per contingut digital</item>
   </string-array>
-  <string-array name="battery_labels">
-    <item>0%</item>
-    <item>50%</item>
-    <item>100%</item>
+  <string-array name="aqi_title_prefix">
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
+    <item>IQA %1$s</item>
   </string-array>
   <string-array name="weather_type">
     <item>Serè</item>

@@ -16,11 +16,8 @@
   <string name="cta_message_permission">Aquesta app necessita %2$s per funcionar correctament.</string>
   <string name="cta_permission_and">&#160;i</string>
   <string name="cta_title">Condicions d\'ús</string>
-  <string name="daydream">Daydream</string>
   <string name="delete_frequent_phrases">Esborra frases freqüents</string>
   <string name="delete_frequent_phrases_confirm">Voleu esborrar les frases freqüents seleccionades?</string>
-  <string name="device_hongmi">Redmi</string>
-  <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Telèfon Mi</string>
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="frequent_phrases_des">Introdueix frases freqüents amb només uns tocs mentre edites text</string>
@@ -28,8 +25,6 @@
   <string name="menu_add_frequent_phrases">Afegiu</string>
   <string name="menu_delete">Elimina</string>
   <string name="menu_edit">Edita</string>
-  <string name="miclassic">MiClassic</string>
-  <string name="miui_device_name">Android</string>
   <string name="no_notification_tips">Sense notificacions.</string>
   <string name="presentation_payphone">Telèfon públic</string>
   <string name="presentation_private">Número privat</string>

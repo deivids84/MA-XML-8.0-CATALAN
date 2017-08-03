@@ -43,8 +43,6 @@
   <string name="accessibility_binding_label">Accessibilitat</string>
   <string name="accessibility_enabled">S\'ha activat l\'accessibilitat.</string>
   <string name="action_bar_home_description">Vés a l\'inici</string>
-  <string name="action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="action_bar_up_description">Vés amunt</string>
   <string name="action_menu_overflow_description">Més opcions</string>
   <string name="action_mode_done">Fet</string>
@@ -73,7 +71,6 @@
   <string name="aerr_wait">Espereu</string>
   <string name="allow">Permet</string>
   <string name="allow_button">Permet</string>
-  <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Utilitza-ho sempre per aquesta acció.</string>
   <string name="android_preparing_apk">S\'està preparant %1$s.</string>
   <string name="android_start_title">S\'està iniciant Android&#8230;</string>
@@ -85,79 +82,45 @@
   <string name="android_upgrading_notification_title">S\'està actualitzant l\'Android</string>
   <string name="android_upgrading_starting_apps">S\'estan iniciant les aplicacions.</string>
   <string name="android_upgrading_title">S\'està actualitzant Android&#8230;</string>
-  <string name="anr_activity_application">"«L'aplicació %2$s no respon.
+  <string name="anr_activity_application">"\"«L'aplicació %2$s no respon.
 
-Voleu tancar-la?»"</string>
-  <string name="anr_activity_process">"«L'activitat %1$s no respon.
+Voleu tancar-la?»\""</string>
+  <string name="anr_activity_process">"\"«L'activitat %1$s no respon.
 
-Voleu tancar-la?»"</string>
+Voleu tancar-la?»\""</string>
   <string name="anr_application_process">"L'aplicació %1$s no respon. Voleu tancar-la?"</string>
-  <string name="anr_process">"«El procés %1$s no respon.
+  <string name="anr_process">"\"«El procés %1$s no respon.
 
-Voleu tancar-lo?»"</string>
+Voleu tancar-lo?»\""</string>
   <string name="app_info">Informació de l\'aplicació</string>
   <string name="app_not_found">No s\'ha trobat cap aplicació que pugui realitzar aquesta acció.</string>
   <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
+  <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
   <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
-  <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
-  <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
-  <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
-  <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
-  <string name="autofill_address_summary_format">$1$2$3</string>
-  <string name="autofill_address_summary_name_format">$1$2$3</string>
-  <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_address_type_same_as_re">igual que</string>
   <string name="autofill_address_type_use_my_re">utilitza el meu</string>
   <string name="autofill_area">Àrea</string>
   <string name="autofill_area_code_notext_re">^($</string>
-  <string name="autofill_area_code_re">area.*code|acode|area</string>
-  <string name="autofill_attention_ignored_re">attention|attn</string>
   <string name="autofill_billing_designator_re">factura</string>
-  <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
-  <string name="autofill_card_ignored_re">^card</string>
-  <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
-  <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
-  <string name="autofill_company_re">company|business|organization|organisation|department|firma|firmenname|empresa|societe|société|ragione.?sociale|会社|название.?компании|单位|公司</string>
-  <string name="autofill_country_code_re">country.*code|ccode|_cc</string>
-  <string name="autofill_country_re">country|location|国|国家</string>
   <string name="autofill_county">Comtat</string>
   <string name="autofill_department">Departament</string>
   <string name="autofill_district">Districte</string>
-  <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
   <string name="autofill_emirate">Emirat</string>
-  <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
-  <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
-  <string name="autofill_fax_re">fax|télécopie|telecopie|ファックス|факс|传真|傳真</string>
-  <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
   <string name="autofill_island">Illa</string>
-  <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
   <string name="autofill_middle_initial_re">middle.*initial|m.i.|mi$</string>
-  <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
   <string name="autofill_name_on_card_contextual_re">nom</string>
-  <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
-  <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
-  <string name="autofill_name_specific_re">^name|^nom|^nome</string>
   <string name="autofill_parish">Districte</string>
-  <string name="autofill_phone_extension_re">ext|ramal</string>
-  <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
   <string name="autofill_phone_prefix_separator_re">^-$|^)$</string>
-  <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
   <string name="autofill_phone_suffix_re">sufix</string>
-  <string name="autofill_phone_suffix_separator_re">^-$</string>
   <string name="autofill_postal_code">Codi postal</string>
   <string name="autofill_prefecture">Prefectura</string>
   <string name="autofill_province">Província</string>
-  <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
   <string name="autofill_shipping_designator_re">adreça</string>
   <string name="autofill_state">Estat</string>
-  <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
   <string name="autofill_this_form">Emplenament automàtic</string>
-  <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
-  <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
   <string name="autofill_zip_code">Codi postal</string>
-  <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl|cp|cdp|cap|郵便番号|codigo|codpos|cep|Почтовый.?Индекс|邮政编码|邮编|郵遞區號</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
   <string name="badPuk">"El codi PUK que heu introduït no és correcte."</string>
@@ -171,9 +134,7 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="bugreport_option_full_title">Informe complet</string>
   <string name="bugreport_option_interactive_summary">Utilitzeu aquesta opció en la majoria de circumstàncies. Us permetera fer un seguiment del progrés de l\'informe, introduir més dades sobre el problema i fer captures de pantalla. És possible que ometi seccions poc utilitzades que requereixen molt de temps.</string>
   <string name="bugreport_option_interactive_title">Informe interactiu</string>
-  <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Crea un informe d\'errors</string>
-  <string name="byteShort">B</string>
   <string name="cancel">Cancel·la</string>
   <string name="candidates_style">candidats</string>
   <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
@@ -197,7 +158,6 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="carrier_app_dialog_not_now">ARA NO</string>
   <string name="carrier_app_notification_text">Toqueu per configurar-la</string>
   <string name="carrier_app_notification_title">S\'ha inserit una SIM nova</string>
-  <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {1} transcorreguts {2} segons</string>
   <string name="cfTemplateNotForwarded">{0}: No desviada</string>
   <string name="cfTemplateRegistered">{0}: No desviada</string>
@@ -210,19 +170,7 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="close_button_text">Tanca</string>
   <string name="common_name">Nom comú:</string>
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
-  <string name="config_datause_iface">rmnet0</string>
-  <string name="config_ethernet_iface_regex">eth\\d</string>
-  <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
-  <string name="config_mms_user_agent">Android-Mms/2.0</string>
-  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_ntpServer">2.android.pool.ntp.org</string>
-  <string name="config_rat_2g">2G</string>
-  <string name="config_rat_3g">3G</string>
-  <string name="config_rat_4g">4G</string>
-  <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
-  <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
-  <string name="config_wifi_random_mac_oui">DA-A1-19</string>
-  <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
+  <string name="conference_call">Trucada de conferència</string>
   <string name="contentServiceSync">Sincronització</string>
   <string name="contentServiceSyncNotificationTitle">Sincronització</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Massa eliminacions de %s</string>
@@ -252,8 +200,6 @@ a partir de %s»</string>
   <string name="data_usage_wifi_limit_snoozed_title">Límit de dades Wi-Fi superat</string>
   <string name="data_usage_wifi_limit_title">Dades Wi-Fi desactivades</string>
   <string name="date_and_time" formatted="false">%b %-e, %M, %-l:%Y:%S %p</string>
-  <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
-  <string name="date_picker_day_typeface">sans-serif-medium</string>
   <string name="date_picker_decrement_day_button">Reduir dies</string>
   <string name="date_picker_decrement_month_button">Reduir mes</string>
   <string name="date_picker_decrement_year_button">Reduir any</string>
@@ -261,7 +207,6 @@ a partir de %s»</string>
   <string name="date_picker_increment_day_button">Augmentar dies</string>
   <string name="date_picker_increment_month_button">Augmenta mes</string>
   <string name="date_picker_increment_year_button">Augmentar any</string>
-  <string name="date_picker_month_typeface">sans-serif-medium</string>
   <string name="date_picker_next_month_button">Proper mes</string>
   <string name="date_picker_prev_month_button">Mes anterior</string>
   <string name="date_time">%1$s, %2$s</string>
@@ -271,7 +216,6 @@ a partir de %s»</string>
   <string name="days">dies</string>
   <string name="decline">Rebutja</string>
   <string name="decline_remote_bugreport_action">REBUTJA</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Bústia de veu</string>
   <string name="default_audio_route_category_name">Sistema</string>
   <string name="default_audio_route_name">Telèfon</string>
@@ -280,6 +224,12 @@ a partir de %s»</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminat</string>
+  <string name="demo_restarting_message">S\'està restablint el dispositiu…</string>
+  <string name="demo_starting_message">S\'està iniciant la demostració…</string>
+  <string name="demo_user_inactivity_timeout_countdown">Perdreu qualsevol canvi i la demostració tornarà a començar en %1$s segons…</string>
+  <string name="demo_user_inactivity_timeout_left_button">Cancel·la</string>
+  <string name="demo_user_inactivity_timeout_right_button">Restableix ara</string>
+  <string name="demo_user_inactivity_timeout_title">Voleu restablir el dispositiu?</string>
   <string name="deny">Denega</string>
   <string name="deny_button">Denega</string>
   <string name="description_target_unlock_tablet">Llisqueu per desbloquejar.</string>
@@ -378,8 +328,6 @@ amb %s»</string>
   <string name="factorytest_no_action">No s\'ha trobat cap paquet que proporcioni l\'acció FACTORY_TEST.</string>
   <string name="factorytest_not_system">L\'acció FACTORY_TEST només és compatible amb els paquets instal·lats a /system/app.</string>
   <string name="factorytest_reboot">Reinicia</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Codi de funció complet</string>
   <string name="fcError">S\'ha produït un problema de connexió o el codi de la funció no és vàlid.</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -403,17 +351,6 @@ amb %s»</string>
   <string name="fingerprints">Empremtes:</string>
   <string name="floating_toolbar_close_overflow_description">Tanca el panell addicional</string>
   <string name="floating_toolbar_open_overflow_description">Més opcions</string>
-  <string name="font_family_body_2_material">sans-serif-medium</string>
-  <string name="font_family_button_material">sans-serif-medium</string>
-  <string name="font_family_caption_material">sans-serif</string>
-  <string name="font_family_display_1_material">sans-serif</string>
-  <string name="font_family_display_2_material">sans-serif</string>
-  <string name="font_family_display_3_material">sans-serif</string>
-  <string name="font_family_display_4_material">sans-serif-light</string>
-  <string name="font_family_headline_material">sans-serif</string>
-  <string name="font_family_menu_material">sans-serif</string>
-  <string name="font_family_subhead_material">sans-serif</string>
-  <string name="font_family_title_material">sans-serif-medium</string>
   <string name="force_close">D\'acord</string>
   <string name="forward_intent_to_owner">"Esteu utilitzant aquesta aplicació fora del seu perfil de treball"</string>
   <string name="forward_intent_to_work">"Esteu utilitzant aquesta aplicació en el seu perfil de treball"</string>
@@ -421,6 +358,7 @@ amb %s»</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Ajuda</string>
   <string name="global_action_bug_report">Informe d\'error</string>
+  <string name="global_action_emergency">Emergència</string>
   <string name="global_action_lock">Bloqueig de pantalla</string>
   <string name="global_action_lockdown">Bloqueja ara</string>
   <string name="global_action_power_off">Apaga</string>
@@ -514,7 +452,6 @@ amb %s»</string>
   <string name="js_dialog_title">La pàgina «%s» diu:</string>
   <string name="keyboard_headset_required_to_hear_password">Connecteu els auriculars per escoltar les contrasenyes.</string>
   <string name="keyboard_password_character_no_headset">Punt.</string>
-  <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Cancel·la</string>
   <string name="keyboardview_keycode_delete">Elimina</string>
   <string name="keyboardview_keycode_done">Fet</string>
@@ -580,7 +517,6 @@ Accediu a »&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_reordering_delete_drop_target_text">Elimina</string>
   <string name="kg_sim_pin_instructions">Introduïu el PIN de la SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM&#8230;</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Intenteu-ho de nou en %1$d segons.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Heu introduït una contrasenya incorrecta %1$d vegades. 
 
@@ -594,7 +530,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="kg_wrong_password">La contrasenya és incorrecta</string>
   <string name="kg_wrong_pattern">El patró és incorrecte</string>
   <string name="kg_wrong_pin">El PIN no és correcte</string>
-  <string name="kilobyteShort">KB</string>
   <string name="language_picker_section_all">Tots els idiomes</string>
   <string name="language_picker_section_suggested">Suggerit</string>
   <string name="language_selection_title">Afegeix un idioma</string>
@@ -606,16 +541,9 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="loading">S\'està carregant&#8230;</string>
   <string name="locale_search_menu">Cerca</string>
   <string name="lock_pattern_view_aspect">quadrat</string>
-  <string name="lock_to_app_description">«La fixació de pantalla bloqueja la pantalla en una vista.
-
-Per treure la fixació, pressioneu i manteniu el botó Inici i el d\'encesa a la vegada.»</string>
-  <string name="lock_to_app_description_accessible">«La fixació de pantalla bloqueja la pantalla en una vista.
-
-Per treure la fixació, pressioneu i manteniu el botó Inici i el d\'encesa a la vegada.»</string>
   <string name="lock_to_app_exit">Pantalla desenganxada</string>
   <string name="lock_to_app_start">Pantalla fixada</string>
   <string name="lock_to_app_toast">Per desenganxar la pantalla, pressioneu i manteniu el botó Inici i el d\'encesa a la vegada.</string>
-  <string name="lock_to_app_toast_accessible">Per desenganxar la pantalla, pressioneu i manteniu el botó Inici i el d\'encesa a la vegada.</string>
   <string name="lock_to_app_toast_locked">"S'ha fixat l'aplicació. En aquest dispositiu no es permet desenganxar."</string>
   <string name="lock_to_app_unlock_password">Demana la contrasenya abans de desenganxar</string>
   <string name="lock_to_app_unlock_pattern">Demana el patró de desbloqueig abans de desenganxar</string>
@@ -704,90 +632,18 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="media_route_status_not_available">No disponible</string>
   <string name="media_route_status_scanning">S\'està escanejant...</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Ka</string>
-  <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-  <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
-  <string name="mediasize_chinese_prc_1">PRC 1</string>
-  <string name="mediasize_chinese_prc_10">PRC 10</string>
-  <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-  <string name="mediasize_chinese_prc_2">PRC 2</string>
-  <string name="mediasize_chinese_prc_3">PRC 3</string>
-  <string name="mediasize_chinese_prc_4">PRC 4</string>
-  <string name="mediasize_chinese_prc_5">PRC 5</string>
-  <string name="mediasize_chinese_prc_6">PRC 6</string>
-  <string name="mediasize_chinese_prc_7">PRC 7</string>
-  <string name="mediasize_chinese_prc_8">PRC 8</string>
-  <string name="mediasize_chinese_prc_9">PRC 9</string>
-  <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-  <string name="mediasize_chinese_roc_8k">ROC 8K</string>
-  <string name="mediasize_iso_a0">ISO A0</string>
-  <string name="mediasize_iso_a1">ISO A1</string>
-  <string name="mediasize_iso_a10">ISO A10</string>
-  <string name="mediasize_iso_a2">ISO A2</string>
-  <string name="mediasize_iso_a3">ISO A3</string>
-  <string name="mediasize_iso_a4">ISO A4</string>
-  <string name="mediasize_iso_a5">ISO A5</string>
-  <string name="mediasize_iso_a6">ISO A6</string>
-  <string name="mediasize_iso_a7">ISO A7</string>
-  <string name="mediasize_iso_a8">ISO A8</string>
-  <string name="mediasize_iso_a9">ISO A9</string>
-  <string name="mediasize_iso_b0">ISO B0</string>
-  <string name="mediasize_iso_b1">ISO B1</string>
-  <string name="mediasize_iso_b10">ISO B10</string>
-  <string name="mediasize_iso_b2">ISO B2</string>
-  <string name="mediasize_iso_b3">ISO B3</string>
-  <string name="mediasize_iso_b4">ISO B4</string>
-  <string name="mediasize_iso_b5">ISO B5</string>
-  <string name="mediasize_iso_b6">ISO B6</string>
-  <string name="mediasize_iso_b7">ISO B7</string>
-  <string name="mediasize_iso_b8">ISO B8</string>
-  <string name="mediasize_iso_b9">ISO B9</string>
-  <string name="mediasize_iso_c0">ISO C0</string>
-  <string name="mediasize_iso_c1">ISO C1</string>
-  <string name="mediasize_iso_c10">ISO C10</string>
-  <string name="mediasize_iso_c2">ISO C2</string>
-  <string name="mediasize_iso_c3">ISO C3</string>
-  <string name="mediasize_iso_c4">ISO C4</string>
-  <string name="mediasize_iso_c5">ISO C5</string>
-  <string name="mediasize_iso_c6">ISO C6</string>
-  <string name="mediasize_iso_c7">ISO C7</string>
-  <string name="mediasize_iso_c8">ISO C8</string>
-  <string name="mediasize_iso_c9">ISO C9</string>
-  <string name="mediasize_japanese_chou2">Chou2</string>
-  <string name="mediasize_japanese_chou3">Chou3</string>
-  <string name="mediasize_japanese_chou4">Chou4</string>
-  <string name="mediasize_japanese_hagaki">Hagaki</string>
-  <string name="mediasize_japanese_jis_b0">JIS B0</string>
-  <string name="mediasize_japanese_jis_b1">JIS B1</string>
-  <string name="mediasize_japanese_jis_b10">JIS B10</string>
-  <string name="mediasize_japanese_jis_b2">JIS B2</string>
-  <string name="mediasize_japanese_jis_b3">JIS B3</string>
-  <string name="mediasize_japanese_jis_b4">JIS B4</string>
-  <string name="mediasize_japanese_jis_b5">JIS B5</string>
-  <string name="mediasize_japanese_jis_b6">JIS B6</string>
-  <string name="mediasize_japanese_jis_b7">JIS B7</string>
-  <string name="mediasize_japanese_jis_b8">JIS B8</string>
-  <string name="mediasize_japanese_jis_b9">JIS B9</string>
-  <string name="mediasize_japanese_jis_exec">JIS Exec</string>
-  <string name="mediasize_japanese_kahu">Kahu</string>
-  <string name="mediasize_japanese_kaku2">Kaku2</string>
-  <string name="mediasize_japanese_oufuku">Oufuku</string>
-  <string name="mediasize_japanese_you4">You4</string>
   <string name="mediasize_na_foolscap">Foli</string>
   <string name="mediasize_na_gvrnmt_letter">Carta</string>
   <string name="mediasize_na_index_3x5">Fitxa 3 x 5</string>
   <string name="mediasize_na_index_4x6">Fitxa 4 x 6</string>
   <string name="mediasize_na_index_5x8">Fitxa 5 x 8</string>
-  <string name="mediasize_na_junior_legal">Junior Legal</string>
   <string name="mediasize_na_ledger">Doble carta</string>
-  <string name="mediasize_na_legal">Legal</string>
   <string name="mediasize_na_letter">Carta</string>
   <string name="mediasize_na_monarch">Monarca</string>
   <string name="mediasize_na_quarto">Quartilla</string>
   <string name="mediasize_na_tabloid">Tabloide</string>
   <string name="mediasize_unknown_landscape">Mida horitzontal desconeguda</string>
   <string name="mediasize_unknown_portrait">Mida vertical desconeguda</string>
-  <string name="megabyteShort">MB</string>
-  <string name="meid">MEID</string>
   <string name="menu_delete_shortcut_label">elimina</string>
   <string name="menu_enter_shortcut_label">retorn</string>
   <string name="menu_space_shortcut_label">espai</string>
@@ -807,6 +663,10 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Inicia sessió a la xarxa</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
+  <string name="network_switch_metered">Canviat a %1$s</string>
+  <string name="network_switch_metered_detail">El dispositiu utilitza %1$s quan %2$s no té accés a Internet. Es poden aplicar càrrecs.</string>
+  <string name="network_switch_metered_toast">Canviat de %1$s a %2$s</string>
+  <string name="network_switch_type_name_unknown">tipus de xarxa desconeguda</string>
   <string name="new_app_action">Inicia %1$s</string>
   <string name="new_app_description">Atura l\'aplicació anterior sense desar.</string>
   <string name="new_sms_notification_content">Obre l\'aplicació SMS per veure\'ls</string>
@@ -849,9 +709,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="package_installed_device_owner">Instal·lat per l\'administrador</string>
   <string name="package_updated_device_owner">Actualitzat per l\'administrador</string>
   <string name="passwordIncorrect">Contrasenya incorrecta</string>
-  <string name="password_keyboard_label_alpha_key">ABC</string>
-  <string name="password_keyboard_label_alt_key">ALT</string>
-  <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Enganxa</string>
   <string name="paste_as_plain_text">Enganxa com a text sense format</string>
   <string name="peerTtyModeFull">L\'altre dispositiu ha sol·licitat el mode TTY COMPLET</string>
@@ -965,7 +822,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgroupdesc_microphone">enregistra l\'àudio</string>
   <string name="permgroupdesc_phone">fer i gestionar trucades telefòniques</string>
   <string name="permgroupdesc_sensors">accedir a les dades del sensor sobre els signes vitals</string>
-  <string name="permgroupdesc_sms">SMS</string>
   <string name="permgroupdesc_storage">accedir a fotos, contingut multimèdia i fitxers del dispositiu</string>
   <string name="permgrouplab_calendar">Calendari</string>
   <string name="permgrouplab_camera">Càmera</string>
@@ -974,9 +830,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgrouplab_microphone">Micròfon</string>
   <string name="permgrouplab_phone">Telèfon</string>
   <string name="permgrouplab_sensors">Sensors corporals</string>
-  <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Emmagatzematge</string>
-  <string name="permission">Permisos</string>
   <string name="permission_remember_choice">Recorda</string>
   <string name="permission_request_notification_title">Permís sol·licitat</string>
   <string name="permission_request_notification_with_subtitle">«Permís sol·licitat
@@ -1083,7 +937,6 @@ per al compte %s»</string>
   <string name="permlab_writeSyncSettings">activa i desactiva la sincronització</string>
   <string name="perms_description_app">Proporcionat per %1$s</string>
   <string name="perms_new_perm_prefix">NOU:</string>
-  <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistent</string>
   <string name="phoneTypeCallback">Devolució de trucada</string>
   <string name="phoneTypeCar">Cotxe</string>
@@ -1094,14 +947,12 @@ per al compte %s»</string>
   <string name="phoneTypeHome">Casa</string>
   <string name="phoneTypeIsdn">XDSI</string>
   <string name="phoneTypeMain">Principal</string>
-  <string name="phoneTypeMms">MMS</string>
   <string name="phoneTypeMobile">Mòbil</string>
   <string name="phoneTypeOther">Altre</string>
   <string name="phoneTypeOtherFax">Altres faxos</string>
   <string name="phoneTypePager">Cercapersones</string>
   <string name="phoneTypeRadio">Senyal mòbil</string>
   <string name="phoneTypeTelex">Tèlex</string>
-  <string name="phoneTypeTtyTdd">TTY TDD</string>
   <string name="phoneTypeWork">Feina</string>
   <string name="phoneTypeWorkMobile">Mòbil de la feina</string>
   <string name="phoneTypeWorkPager">Cercapersones de la feina</string>
@@ -1134,7 +985,6 @@ per al compte %s»</string>
   <string name="postalTypeOther">Altre</string>
   <string name="postalTypeWork">Feina</string>
   <string name="power_dialog">Opcions del telèfon</string>
-  <string name="power_key_emergency_number">112</string>
   <string name="power_off">Apaga</string>
   <string name="prepend_shortcut_label">Menú+</string>
   <string name="preposition_for_date">el %s</string>
@@ -1146,7 +996,6 @@ per al compte %s»</string>
   <string name="profile_encrypted_message">Toqueu per desbloquejar el perfil</string>
   <string name="progress_erasing">S\'està esborrant l\'emmagatzematge USB&#8230;</string>
   <string name="quick_contacts_not_available">No s\'ha trobat cap aplicació per veure aquest contacte.</string>
-  <string name="radial_numbers_typeface">sans-serif</string>
   <string name="reason_service_unavailable">Servei d\'impressió no activat</string>
   <string name="reason_unknown">desconegut</string>
   <string name="reboot_confirm">El telèfon es reiniciarà.</string>
@@ -1161,6 +1010,7 @@ per al compte %s»</string>
   <string name="reboot_to_update_title">Actualització del sistema Android</string>
   <string name="recent_tasks_title">Recent</string>
   <string name="redo">Refés</string>
+  <string name="region_picker_section_all">Totes les regions</string>
   <string name="relationTypeAssistant">Assistent</string>
   <string name="relationTypeBrother">Germà</string>
   <string name="relationTypeChild">Fill/a</string>
@@ -1180,6 +1030,8 @@ per al compte %s»</string>
   <string name="replace">Substituir&#8230;</string>
   <string name="report">Informa</string>
   <string name="reset">Restablir</string>
+  <string name="reset_retail_demo_mode_text">Premeu per restablir el dispositiu</string>
+  <string name="reset_retail_demo_mode_title">Voleu restablir el dispositiu?</string>
   <string name="restr_pin_confirm_pin">Confirma el teu nou PIN</string>
   <string name="restr_pin_create_pin">Crea un PIN per modificar les restriccions</string>
   <string name="restr_pin_enter_admin_pin">Introdueix el PIN de l\'administrador</string>
@@ -1213,7 +1065,6 @@ per al compte %s»</string>
   <string name="safeMode">Mode segur</string>
   <string name="safe_media_volume_warning">«Voleu apujar el volum per sobre del nivell recomanat?
 Si escolteu sons a un volum alt durant llargs períodes de temps es podrien danyar les orelles.»</string>
-  <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirma</string>
   <string name="save_password_message">Voleu que el navegador recordi aquesta contrasenya?</string>
   <string name="save_password_never">Mai</string>
@@ -1249,10 +1100,8 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="serviceClassData">Dades</string>
   <string name="serviceClassDataAsync">Asíncron</string>
   <string name="serviceClassDataSync">Sincronitza</string>
-  <string name="serviceClassFAX">FAX</string>
   <string name="serviceClassPAD">TECLAT</string>
   <string name="serviceClassPacket">Paquet</string>
-  <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Veu</string>
   <string name="serviceDisabled">El servei s\'ha desactivat.</string>
   <string name="serviceEnabled">El servei s\'ha activat.</string>
@@ -1309,7 +1158,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="ssl_ca_cert_noti_managed">Per %s</string>
   <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">Petició SS modificada a una petició DIAL.</string>
   <string name="stk_cc_ss_to_ss">Petició SS modificada per una nova petició SS.</string>
   <string name="stk_cc_ss_to_ussd">Petició SS modificada per una petició una petició USSD.</string>
@@ -1333,7 +1181,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="system_error_manufacturer">"S'ha produït un error intern al dispositiu. Contacteu amb el fabricant del dispositiu per obtenir més informació."</string>
   <string name="system_error_wipe_data">"S'ha produït un error intern al dispositiu i és possible que funcioni de manera inestable fins que restableixis les dades de fàbrica."</string>
   <string name="taking_remote_bugreport_notification_title">S\'està prenent l\'informe d\'errors&#8230;</string>
-  <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Toca per configurar</string>
   <string name="tethered_notification_multi_device_message">%1$s dispositius connectats</string>
   <string name="tethered_notification_no_device_message">Cap dispositiu connectat</string>
@@ -1341,7 +1188,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="tethered_notification_title">Connexió compartida d\'Internet activa</string>
   <string name="textSelectionCABTitle">Selecció de text</string>
   <string name="text_copied">Text copiat al porta-retalls.</string>
-  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">Disminuir hores</string>
   <string name="time_picker_decrement_minute_button">Disminuir minuts</string>
   <string name="time_picker_decrement_set_am_button">Establir am</string>
@@ -1349,7 +1195,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="time_picker_increment_hour_button">Augmenta les hores</string>
   <string name="time_picker_increment_minute_button">Augmenta els minuts</string>
   <string name="time_picker_increment_set_pm_button">Establir pm</string>
-  <string name="time_placeholder">--</string>
   <string name="toolbar_collapse_description">Replega</string>
   <string name="turn_off_radio">Desactiva la connexió sense fils</string>
   <string name="turn_on_radio">Activa la connexió sense fils</string>
@@ -1365,7 +1210,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="usb_cd_installer_notification_title">Connectat com a instal·lador</string>
   <string name="usb_charging_notification_title">USB per carregar</string>
   <string name="usb_midi_notification_title">USB per MIDI</string>
-  <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Port perifèric USB d\'Android</string>
   <string name="usb_midi_peripheral_product_name">Port perifèric USB</string>
   <string name="usb_mtp_launch_notification_description">Toqueu per mostrar els fitxers</string>
@@ -1373,6 +1217,19 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="usb_mtp_notification_title">USB per transferir fitxers</string>
   <string name="usb_notification_message">Toqueu per veure més opcions.</string>
   <string name="usb_ptp_notification_title">USB per transferir fotos</string>
+  <string name="usb_storage_activity_title">Emmagatzematge massiu USB</string>
+  <string name="usb_storage_button_mount">Activa l\'emmagatzematge USB</string>
+  <string name="usb_storage_error_message">"Hi ha un problema per a la utilització de l'emmagatzematge USB com a emmagatzematge massiu USB."</string>
+  <string name="usb_storage_message">"Esteu connectat a l'ordinador per USB. Toqueu el botó de sota si voleu copiar fitxers entre l'ordinador i l'emmagatzematge USB de l'Android."</string>
+  <string name="usb_storage_notification_message">Premeu per copiar fitxers a/des de l\'ordinador.</string>
+  <string name="usb_storage_notification_title">USB connectat</string>
+  <string name="usb_storage_stop_button_mount">Desactiva l\'emmagatzematge USB</string>
+  <string name="usb_storage_stop_error_message">"Hi ha hagut un problema en desactivar l'emmagatzematge USB. Comproveu que heu desmuntat l'USB amfitrió i torneu-ho a intentar."</string>
+  <string name="usb_storage_stop_message">"Abans de desactivar l'emmagatzematge USB, desmunteu («expulseu») l'emmagatzematge USB de l'ordinador."</string>
+  <string name="usb_storage_stop_notification_message">Premeu per desactivar l\'emmagatzematge USB.</string>
+  <string name="usb_storage_stop_notification_title">Desactiva l\'emmagatzematge USB</string>
+  <string name="usb_storage_stop_title">Unitat USB en ús</string>
+  <string name="usb_storage_title">USB connected</string>
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>
@@ -1402,6 +1259,7 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="vpn_lockdown_config">Toqueu per configurar</string>
   <string name="vpn_lockdown_connected">VPN sempre activa connectada</string>
   <string name="vpn_lockdown_connecting">S\'està connectant a una VPN sempre activa&#8230;</string>
+  <string name="vpn_lockdown_disconnected">VPN sempre activa desconnectada</string>
   <string name="vpn_lockdown_error">Error de la VPN sempre activa</string>
   <string name="vpn_text">Toqueu per administrar la xarxa.</string>
   <string name="vpn_text_long">Connectat a %s. Toqueu per administrar la xarxa.</string>
@@ -1410,7 +1268,6 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="vr_listener_binding_label">Oient VR</string>
   <string name="wait">Espereu</string>
   <string name="wallpaper_binding_label">Fons de pantalla</string>
-  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
   <string name="web_user_agent_target_content">"Mòbil "</string>
   <string name="webpage_unresponsive">«La pàgina no respon.
 
@@ -1486,6 +1343,5 @@ Voleu tancar-la?»</string>
   <string name="zen_mode_feature_name">No molesteu</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
   <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Fins %1$s</string>
 </resources>

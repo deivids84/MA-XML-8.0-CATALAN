@@ -15,7 +15,6 @@
   <string name="alter_message_delete">Voleu eliminar-lo?</string>
   <string name="alter_message_switch_mode">Voleu canviar els modes?</string>
   <string name="alter_message_switch_mode_message">Quan canvieu els modes, la vostra configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
-  <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Selecciona aplicacions</string>
   <string name="app_name">Estalvi de bateria</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
@@ -112,7 +111,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_disable_description">"MIUI no restringirà activitats en segon pla"</string>
   <string name="power_config_disable_title">Apagat</string>
   <string name="power_config_enhance_description">MIUI restringirà totes activitats en segon pla quan sigui possible</string>
-  <string name="power_config_enhance_title">Avançat</string>
+  <string name="power_config_enhance_title">Actiu</string>
   <string name="power_config_event_delete">Elimina</string>
   <string name="power_config_idle_notification_summary">Mostra només la primera notificació de l\'aplicació</string>
   <string name="power_config_idle_notification_title">Mostra només primera notificació</string>
@@ -176,13 +175,11 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="settings_safetylegal_activity_loading">Un moment&#8230;</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="sleep_config_enhance_description">MIUI millorarà l\'espera nocturna</string>
-  <string name="sleep_config_enhance_title">Atura modes d\'estalvi de bateria</string>
+  <string name="sleep_config_enhance_title">Modes d\'estalvi de son</string>
   <string name="still">Imatge</string>
   <string name="ui">Estándard</string>
   <string name="user_define_mode">Nom</string>
   <string name="vip_feedback">Comentaris VIP</string>
-  <string name="vip_feedback_apply">Envia sol·licitud de comentaris VIP</string>
-  <string name="vip_feedback_apply_msg">Contacteu amb vip-feedback-system@xiaomi.com per sol·licitar els comentaris VIP</string>
   <string name="vip_feedback_enable">Activa els comentaris automàtics VIP</string>
   <string name="warm_configure">Configuració del control de temperatura</string>
 </resources>

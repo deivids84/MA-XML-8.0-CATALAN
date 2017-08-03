@@ -18,8 +18,6 @@
   <string name="alert_title_restore">Restauració de notes</string>
   <string name="all_folder_name">Totes les notes</string>
   <string name="all_terms">%1$s i %2$s</string>
-  <string name="app_name">Notes</string>
-  <string name="app_widget">Notes</string>
   <string name="call_folder_name">Notes de trucada</string>
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
@@ -94,7 +92,6 @@
   <string name="menu_title_select_folder">Seleccionar carpeta</string>
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Alliberar</string>
-  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ara no</string>
   <string name="note_alert_expired">Caducat</string>
   <string name="note_description_content">L\'aplicació Notes és una gran eina per a registrar les vostres idees. Inclou recordatoris i sincronitza els elements amb el Mi Cloud perquè pugueu accedir-hi en qualsevol lloc i en qualsevol moment. Assegureu-vos que podeu prescindir d\'aquestes funcions abans d\'eliminar l\'aplicació.</string>
@@ -124,7 +121,6 @@
   <string name="refuse_to_share_as_pic_because_of_loading">Espereu fins que es carregui la nota i torneu-ho a provar.</string>
   <string name="rename_folder_dialog_tile">Canvia el nom a la carpeta</string>
   <string name="root_folder_name">Notes ràpides</string>
-  <string name="search">Notes</string>
   <string name="search_hint">Cercar notes</string>
   <string name="search_keyword_notes">Notes;Anotació</string>
   <string name="search_label">S\'està cercant...</string>
@@ -160,7 +156,6 @@
   <string name="theme_green_description">Verd</string>
   <string name="theme_red_description">Vermell</string>
   <string name="theme_title_antique">Tardor</string>
-  <string name="theme_title_arty">Floral</string>
   <string name="theme_title_blue">Blau</string>
   <string name="theme_title_candy">Dolç</string>
   <string name="theme_title_dark">Fosc</string>

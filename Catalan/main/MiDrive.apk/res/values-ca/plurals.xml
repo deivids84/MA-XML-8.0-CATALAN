@@ -57,10 +57,6 @@
     <item quantity="other">%1$d segons</item>
     <item quantity="one">%1$d segon</item>
   </plurals>
-  <plurals name="mins">
-    <item quantity="other">%1$d mins</item>
-    <item quantity="one">%1$d min</item>
-  </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d hores</item>
     <item quantity="one">%1$d hora</item>
@@ -72,5 +68,13 @@
   <plurals name="des_running_trans">
     <item quantity="other">"%1$d fitxers no s'han transferit."</item>
     <item quantity="one">"%1$d fitxer no s'ha transferit."</item>
+  </plurals>
+  <plurals name="delete_folders">
+    <item quantity="other">Voleu eliminar %1$d carpetes?</item>
+    <item quantity="one">Voleu eliminar aquesta carpeta?</item>
+  </plurals>
+  <plurals name="delete_files">
+    <item quantity="other">Voleu eliminar %1$d fitxers?</item>
+    <item quantity="one">Voleu eliminar aquest fitxer?</item>
   </plurals>
 </resources>

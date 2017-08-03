@@ -14,7 +14,6 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="air_space_setting">Configuració de l\'espai</string>
   <string name="airspace_users_full">"No es poden crear més espais de treball"</string>
   <string name="appData">Aplicacions instal·lades</string>
-  <string name="app_name">Security Core Component</string>
   <string name="back">Enrere</string>
   <string name="can_not_delete_when_calling">"No es poden eliminar espais durant una trucada"</string>
   <string name="can_not_switch_when_calling">"No es pot canviar d'espai durant una trucada"</string>
@@ -45,7 +44,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="confirm_restore">"No mostrar"</string>
   <string name="contactData">Contactes</string>
   <string name="contact_sub_titile_text">Les dades dels missatges estaran compartides entre els dos espais</string>
-  <string name="contact_titile_text">"Mostreu els missatges privats en el Segon espai per poder veure\'ls en qualsevol moment"</string>
+  <string name="contact_titile_text">Mostreu els missatges privats en el Segon espai per poder veure\'ls en qualsevol moment</string>
   <string name="contact_us">Contacteu-nos</string>
   <string name="continueButton">Continuar</string>
   <string name="createANewSpace">Crear un espai separat al telèfon.</string>
@@ -96,12 +95,12 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_suc_sub_title_desc">Només els contactes privats i els missatges es mostraran en el Segon espai</string>
   <string name="guide_contact_suc_title_desc">Configurat amb èxit</string>
   <string name="guide_contact_title_desc">Mostra els elements privats en el Segon espai?</string>
-  <string name="guide_pwd_detail_title">"Protegiu les vostres dades. Entreu al Segon espai des de la pantalla de bloqueig"</string>
+  <string name="guide_pwd_detail_title">Protegiu les vostres dades. Entreu al Segon espai des de la pantalla de bloqueig</string>
   <string name="guide_setting_guide_title">Gestionar el Segon espai</string>
   <string name="hidden_app">Segon espai</string>
   <string name="imageData">Fotos</string>
   <string name="import_application">Importar aplicacions</string>
-  <string name="import_application_desc">"Importa les aplicacions al Segon espai. També podeu baixar-les per separat."</string>
+  <string name="import_application_desc">Importa les aplicacions al Segon espai. També podeu baixar-les per separat.</string>
   <string name="import_contacts">Importar contactes</string>
   <string name="import_contacts_desc">Fer privats els contactes importats</string>
   <string name="import_contacts_suc">Contactes privats importats</string>
@@ -147,7 +146,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="otherSettings">Altres configuracions</string>
   <string name="passWordGuardSummary">Entreu al Segon espai des de la pantalla de bloqueig utilitzant una contrasenya</string>
   <string name="passwordProtect">Contrasenya</string>
-  <string name="please_diff_finger_print">"Assegureu-vos que s\'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig."</string>
+  <string name="please_diff_finger_print">Assegureu-vos que s\'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig.</string>
   <string name="privacyContactsSummary">Mostrar els elements privats en el Segon espai</string>
   <string name="privacyContactsTitle">Missatges privats i contactes</string>
   <string name="private_sms_show_sub_title">Les dades dels missatges estaran compartides entre els dos espais</string>
@@ -169,7 +168,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="same_qr_code_enter_space">Vés a l\'espai de treball</string>
   <string name="same_qr_code_title">%s ja existeix</string>
   <string name="scanner_fingerprint">S\'està escanejant l\'empremta&#8230;</string>
-  <string name="scanner_fingerprint_enter_second">"Escanegeu l\'empremta del Segon espai per entrar-hi des de la pantalla de bloqueig"</string>
+  <string name="scanner_fingerprint_enter_second">Escanegeu l\'empremta del Segon espai per entrar-hi des de la pantalla de bloqueig</string>
   <string name="scanner_fingerprint_error_tips_desc">"No es troba una empremta que correspongui. Voleu afegir una empremta del Segon espai?"</string>
   <string name="scanner_fingerprint_error_tips_title">"No es troba una empremta que correspongui"</string>
   <string name="scanner_fingerprint_tips_desc">"Seleccioneu una empremta existent per entrar al Segon espai. No podreu utilitzar-la en el Primer espai."</string>
@@ -214,7 +213,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="startTransfer">Moure</string>
   <string name="start_input_finger_print">Afegir empremta</string>
   <string name="start_new_fingerprint">Afegir una nova empremta</string>
-  <string name="start_new_fingerprint_tips">"Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig"</string>
+  <string name="start_new_fingerprint_tips">Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig</string>
   <string name="start_setting_guide_desc_title">Hi ha algunes coses per configurar</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
   <string name="sure_to_use">Confirmeu</string>

@@ -9,6 +9,10 @@
     <item quantity="other">%s aplicacions poden mostrar notificacions</item>
     <item quantity="one">Una aplicació pot mostrar notificacions</item>
   </plurals>
+  <plurals name="settings_toggle_position_divider_page">
+    <item quantity="other">%1$d commutadors sobre d\'aquesta barra són actius</item>
+    <item quantity="one">El commutador sobre d\'aquesta barra és actiu</item>
+  </plurals>
   <plurals name="show_dev_countdown">
     <item quantity="other">Sou a %1$d passos d\'activar les opcions de desenvolupament.</item>
     <item quantity="one">Sou a %1$d pas d\'activar les opcions de desenvolupament.</item>

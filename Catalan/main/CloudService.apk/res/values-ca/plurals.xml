@@ -21,10 +21,6 @@
     <item quantity="other">%d missatges</item>
     <item quantity="one">%d missatge</item>
   </plurals>
-  <plurals name="dirty_note_count">
-    <item quantity="other">%d notes</item>
-    <item quantity="one">%d nota</item>
-  </plurals>
   <plurals name="dirty_image_count">
     <item quantity="other">%d fotos</item>
     <item quantity="one">%d foto</item>
@@ -56,5 +52,13 @@
   <plurals name="dirty_blocklist_count">
     <item quantity="other">%d entrades a la llista de bloqueig</item>
     <item quantity="one">%d entrada a la llista de bloqueig</item>
+  </plurals>
+  <plurals name="micloud_main_resume_sync_hour">
+    <item quantity="other">Reprèn la sincronització després de %d hores</item>
+    <item quantity="one">Reprèn la sincronització després d\'%d hora</item>
+  </plurals>
+  <plurals name="micloud_main_resume_sync_min">
+    <item quantity="other">Reprèn la sincronització després de %d minuts</item>
+    <item quantity="one">Reprèn la sincronització després d\'%d minut</item>
   </plurals>
 </resources>

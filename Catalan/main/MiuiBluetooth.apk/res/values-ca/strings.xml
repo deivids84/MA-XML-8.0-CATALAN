@@ -7,7 +7,6 @@
   <string name="ble_device_profile_header_title">Configuració</string>
   <string name="ble_device_profile_title">Dispositiu vinculat amb Bluetooth de baix consum</string>
   <string name="ble_device_rename">Reanomena</string>
-  <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="bluetooth_connected">Vinculat</string>
   <string name="bluetooth_connecting">S\'està vinculant&#8230;</string>
   <string name="bluetooth_disconnected">Desvinculat</string>
