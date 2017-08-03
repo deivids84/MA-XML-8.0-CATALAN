@@ -9,6 +9,11 @@
     <item>Verd</item>
     <item>Blau</item>
   </string-array>
+  <string-array name="pref_fling_on_border_gesture_entries">
+    <item>Pàgina enrere endavant</item>
+    <item>Canvia pestanyes</item>
+    <item>Cap</item>
+  </string-array>
   <string-array name="pref_homepage_choices">
     <item>Pàgina d\'inici predeterminada</item>
     <item>Personalitzat</item>
@@ -30,11 +35,6 @@
     <item>iPhone</item>
     <item>iPad</item>
   </string-array>
-  <string-array name="pref_fling_on_border_gesture_entries">
-    <item>Pàgina enrere endavant</item>
-    <item>Canvia pestanyes</item>
-    <item>Cap</item>
-  </string-array>
   <string-array name="shortcut_dialog_delete">
     <item>Esborra</item>
     <item>No, gràcies</item>
@@ -46,13 +46,5 @@
   <string-array name="shortcut_dialog_title">
     <item>Missatge del navegador</item>
     <item>Seguiu les Olimpíades amb Mi</item>
-  </string-array>
-  <string-array name="google">
-    <item>Google</item>
-    <item>google.com</item>
-    <item>http://www.google.com/favicon.ico</item>
-    <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-    <item>UTF-8</item>
-    <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
   </string-array>
 </resources>

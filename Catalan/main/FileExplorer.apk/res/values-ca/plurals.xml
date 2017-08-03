@@ -49,13 +49,49 @@
     <item quantity="other">Fa %1$d dies</item>
     <item quantity="one">Fa %1$d dia</item>
   </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%1$d segons</item>
+    <item quantity="one">%1$d segon</item>
+  </plurals>
+  <plurals name="mins">
+    <item quantity="other">%1$d minuts</item>
+    <item quantity="one">%1$d minut</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%1$d hores</item>
+    <item quantity="one">%1$d hora</item>
+  </plurals>
+  <plurals name="days">
+    <item quantity="other">%1$d dies</item>
+    <item quantity="one">%1$d dia</item>
+  </plurals>
   <plurals name="found_new_files">
     <item quantity="other">Trobats %1$d nous fitxers</item>
     <item quantity="one">Trobats %1$d nou fitxer</item>
   </plurals>
+  <plurals name="file_notify_title">
+    <item quantity="other">Rebuts %1$d fitxers de %2$s</item>
+    <item quantity="one">Rebut %1$d fitxer de %2$s</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video">
+    <item quantity="other">Rebuts %1$d fitxers de WeChat</item>
+    <item quantity="one">Rebut %1$d fitxer de WeChat</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video_expire">
+    <item quantity="other">%1$d fitxers de WeChat Video expiraran</item>
+    <item quantity="one">%1$d fitxer de WeChat Video expirarà</item>
+  </plurals>
   <plurals name="backup_message_wechat_video">
     <item quantity="other">"%1$d fitxers temporals de WeChat Video s'eliminaran, voleu fer-ne còpies?"</item>
     <item quantity="one">"%1$d fitxer temporal de WeChat Video s'eliminara, voleu fer-ne còpia?"</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_sticker">
+    <item quantity="other">Avui, %1$d nous adhesius de WeChat</item>
+    <item quantity="one">Avui, %1$d nou adhesiu de WeChat</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video_auto_backup">
+    <item quantity="other">S\'ha fet la còpia de seguretat de %1$d vídeos de WeChat.</item>
+    <item quantity="one">S\'ha fet la còpia de seguretat d\'un vídeo de WeChat.</item>
   </plurals>
   <plurals name="remote_video_update">
     <item quantity="other">S\'han trobat %1$s nous vídeos</item>
@@ -108,6 +144,10 @@
   <plurals name="follow_count">
     <item quantity="other">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidors</item>
     <item quantity="one">&amp;lt;font color=#fc7050&gt;%d&amp;lt;/font&gt; seguidor</item>
+  </plurals>
+  <plurals name="video_like_num">
+    <item quantity="other">%1$s m\'agraden</item>
+    <item quantity="one">%1$s m\'agrada</item>
   </plurals>
   <plurals name="gems">
     <item quantity="other">%1$s gemes</item>

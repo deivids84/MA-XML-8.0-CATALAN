@@ -61,18 +61,6 @@
     <item>4M per registre de memòria</item>
     <item>16M per registre de memòria</item>
   </string-array>
-  <string-array name="select_logpersist_titles">
-    <item>Desactivat</item>
-    <item>Tot</item>
-    <item>Tot excepte la ràdio</item>
-    <item>kernel only</item>
-  </string-array>
-  <string-array name="select_logpersist_summaries">
-    <item>Desactivat</item>
-    <item>Tots els registres de les memòries intermèdies</item>
-    <item>Tots excepte els registres de les memòries intermèdies de la ràdio</item>
-    <item>kernel log buffer only</item>
-  </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
@@ -166,7 +154,7 @@
     <item>S\'està carregant</item>
     <item>MTP (Protocol de transferència de multimèdia)</item>
     <item>PTP (Protocol de transferència d\'imatges)</item>
-    <item>RNDIS (Ethernet USB)</item>
+    <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>

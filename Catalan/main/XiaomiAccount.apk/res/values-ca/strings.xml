@@ -61,6 +61,7 @@
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
   <string name="authorize_title">Autorització</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
+  <string name="bind_qq">QQ</string>
   <string name="bind_settings">Comptes</string>
   <string name="bind_sina_weibo">Vincula amb el compte Sina Weibo</string>
   <string name="bind_sns_description">Inicieu sessió amb %s</string>
@@ -73,6 +74,7 @@
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
   <string name="checking_phone_num_availible">Verificant el telèfon&#8230;</string>
+  <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
   <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
@@ -105,11 +107,13 @@
   <string name="error_dup_binded_email">Aquesta adreça de correu electrònic ja està associada amb un altre compte Mi.</string>
   <string name="error_invalid_bind_address">L\'adreça de correu que heu introduït no és vàlida.</string>
   <string name="exceed_binded_phone_times_notice">Aquest número de telèfon ja està associat a un altre compte Mi.</string>
+  <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Aquest número de telèfon ja està associat a un altre compte Mi</string>
   <string name="find_device_access_denied">"No es pot obtenir l'estat, no es permet l'accés"</string>
   <string name="find_device_account_error">"No es pot obtenir l'estat per un error en el compte"</string>
   <string name="find_device_activate_account">Activa el compte</string>
   <string name="find_device_bad_response_error">No es pot obtenir l\'estat per un error de servidor, proveu-ho més tard</string>
+  <string name="find_device_display_id">Número de desbloqueig: %s</string>
   <string name="find_device_error_password_not_confirmed">"No es pot aturar Troba dispositiu. Introduïu la contrasenya del compte MI un altre cop."</string>
   <string name="find_device_error_password_recently_changed">"Ja heu canviat la vostra contrasenya en els darrers 3 dies. No es pot apagar Troba dispositiu per raons de seguretat."</string>
   <string name="find_device_interrupted">L\'acció fou interrompuda, proveu-ho més tard</string>
@@ -146,7 +150,6 @@
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Targeta bancària</string>
   <string name="mipay_identity">Identitat</string>
-  <string name="mipay_indentity_done">fet</string>
   <string name="mipay_others">Altres</string>
   <string name="mipay_transit_card">Targeta de transport</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembla que esteu utilitzant el vostre compte Mi del primer espai."</string>
@@ -227,6 +230,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_get_verify_code">Obtén codi</string>
   <string name="passport_getting_verify_code">Obtenint</string>
   <string name="passport_i_know">Ja està</string>
+  <string name="passport_identitfication_expired">El codi de verificació ha caducat, torneu a començar</string>
   <string name="passport_imei_permission_denied_message">"Us demanem permís per aconseguir l'IMEI del vostre dispositiu. El compte Mi utilitza l'IMEI per identificar el terminal des del que entreu / us registreu, per ajudar a mantenir segur el vostre compte Mi."</string>
   <string name="passport_imei_permission_denied_title">Permís per consultar l\'IMEI</string>
   <string name="passport_input_captcha_hint">Introduïu codi</string>
@@ -325,6 +329,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
   <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
+  <string name="qq">QQ</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
   <string name="remove_trust_notice">Elimina dels dispositius de confiança i tanca sessió</string>
@@ -380,4 +385,5 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verify_phone_title">Verifica el número de telèfon</string>
   <string name="vip_account_settings">Configuració VIP</string>
   <string name="vip_more_info">Més informació Vip</string>
+  <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

@@ -64,6 +64,7 @@
   <string name="enable_visible_pattern_title">Mostra el patró</string>
   <string name="english_subject_limit">límit de 40 caràcters</string>
   <string name="ex_type_mx">Missatges Mi</string>
+  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">S\'ha assolit la mida límit del missatge.</string>
   <string name="failed_to_add_media">"No podeu afegir aquest %1$s al missatge."</string>
   <string name="failed_to_resize_image">"No es pot redimensionar la imatge."</string>

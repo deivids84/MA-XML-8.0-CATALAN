@@ -156,6 +156,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_msg_send_send_fail_error">Error en enviar el missatge</string>
   <string name="mibi_msg_telecom_order_denom">%1s€ (no s\'incloeu les tarifes de les dades mòbils)</string>
   <string name="mibi_msg_telecom_order_denom_label">Total</string>
+  <string name="mibi_msg_telecom_order_goods">%1s Mi Credits</string>
   <string name="mibi_msg_telecom_order_goods_label">Producte</string>
   <string name="mibi_msg_telecom_picker_hint_1_1">Després que toqueu la confirmació de la compra, el vostre telèfon es</string>
   <string name="mibi_msg_telecom_picker_hint_1_2">Contacta automàticament amb el vostre proveïdor de servei.</string>
@@ -180,10 +181,13 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_payment_success_label">"Heu pagat %1$s Mi Credit"</string>
   <string name="mibi_payment_success_title">Pagament rebut</string>
   <string name="mibi_payment_with_login_title">Verifica el Compte Mi</string>
+  <string name="mibi_paytool_alipay">Alipay</string>
   <string name="mibi_paytool_error_install">No ha pogut instal·lar el connector de seguretat mòbil %1$s</string>
   <string name="mibi_paytool_error_msp">%1$s ha fallat</string>
   <string name="mibi_paytool_msp_not_installed">No teniu instal·lat el connector de seguretat mòbil %1$s, voleu instal·lar-lo ara?</string>
   <string name="mibi_paytool_paypal">PayPal</string>
+  <string name="mibi_paytool_tenpay">Tenpay</string>
+  <string name="mibi_paytool_weixin">WeChat</string>
   <string name="mibi_prepaid_card_order_info">%1$s targeta de recàrrega: %2$s€</string>
   <string name="mibi_prepaid_carriers_picker_hint">Seleccioneu l\'operadora</string>
   <string name="mibi_prepaid_edit_limit">dígits</string>
@@ -222,7 +226,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_progress_success_recharge_summary">Saldo del compte: %1$s Mi Credits.</string>
   <string name="mibi_progress_success_recharge_title">%1$s Mi Credit recarrega completada</string>
   <string name="mibi_progress_voucher_creating">S\'està recarregant la targeta Mi Credit&#8230;</string>
-  <string name="mibi_progress_warning_check_with_contact">El pagament encara no ha arribat al vostre compte. Ho tornarem a comprovar dintre de dos dies laborables. Centre d\'atenció al client: 400-100-5678</string>
+  <string name="mibi_progress_warning_check_with_contact">"El pagament encara no ha arribat al vostre compte. Ho tornarem a comprovar dintre de dos dies laborables. Centre d\'atenció al client: 400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">"El pagament encara no ha arribat al vostre compte."</string>
   <string name="mibi_prompt_info_button_hint">Atenció (%d)</string>
   <string name="mibi_prompt_info_button_text">Accepta</string>
@@ -238,6 +242,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_recharge_grid_item_more">Més</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Seleccioneu una quantitat</string>
   <string name="mibi_recharge_grid_money_picker_hint">Seleccioneu la quantitat</string>
+  <string name="mibi_recharge_mibi_title">Mi Credit</string>
   <string name="mibi_recharge_novalid_method">Opció de recàrrega no vàlida.</string>
   <string name="mibi_recharge_other">Mostra altres mètodes</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>
@@ -253,8 +258,11 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_sms_code_empty">Introduïu el codi de verificació enviat al telèfon.</string>
   <string name="mibi_sms_code_error">Error del codi de verificació del telèfon mòbil, torneu a obtenir-lo</string>
   <string name="mibi_sms_code_hint">Introduïu codi de verificació de 3 a 6 dígits</string>
+  <string name="mibi_string_with_bracket">(%s)</string>
   <string name="mibi_summary_bind_phone">Per garantir la seguretat del compte, completeu el pagament després de vincular el número de telèfon.</string>
+  <string name="mibi_summary_custom_service_phone">Tel:</string>
   <string name="mibi_summary_sms_code">Introduïu el codi de verificació enviat a %1$s i després, finalitzi el pagament</string>
+  <string name="mibi_tianyi_create_order">China Unicom SMS</string>
   <string name="mibi_title_bill_record">Historial de pagaments</string>
   <string name="mibi_title_bind_phone">S\'està vinculant amb el número de telèfon</string>
   <string name="mibi_title_custom_service_phone">Contacta amb atenció al client</string>
@@ -265,6 +273,8 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_title_password">Contraseya</string>
   <string name="mibi_title_password_threshold">Límit diari = %1$s€</string>
   <string name="mibi_title_sms_code">Introduïu el codi de verificació del telèfon mòbil</string>
+  <string name="mibi_unit">Mi Credit</string>
+  <string name="mibi_unit_value">%1$s Mi Credit</string>
   <string name="mibi_voucher_card_text">Traieu-vos l\'abric</string>
   <string name="mibi_voucher_error_password">El codi no és vàlid.</string>
   <string name="mibi_voucher_input_password_prompt">Introduïu codi</string>

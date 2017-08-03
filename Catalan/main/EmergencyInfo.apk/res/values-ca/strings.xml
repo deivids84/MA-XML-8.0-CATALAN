@@ -6,8 +6,6 @@
   <string name="ab_negative">A B negatiu</string>
   <string name="ab_positive">A B positiu</string>
   <string name="abc_action_bar_home_description">Vés a l\'inici</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
@@ -117,7 +115,6 @@
   <string name="cancel">Cancel·la</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Laboral</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear">Neteja</string>
@@ -128,7 +125,6 @@
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent Wi‑Fi</string>
-  <string name="content_description_menu_button">Menú</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -159,8 +155,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
-  <string name="dev_logpersist_clear_warning_message">Quan ja no estem monitoritzant amb el registrador persistent, hem d\'esborrar les dades dels registradors residents al vostre dispositiu.</string>
-  <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge persistent del registrador?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
@@ -171,7 +165,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
-  <string name="dob">(%1$s)</string>
   <string name="edit_info">Edita la informació d\'emergència</string>
   <string name="emergency_contacts_title">Contactes d\'emergència</string>
   <string name="emergency_info_continue">Continua</string>
@@ -208,6 +201,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode de repòs si el dispositiu està carregant-se</string>
   <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
   <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
+  <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya de la còpia de segurerat de l\'escriptori</string>
@@ -228,7 +222,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="name">Nom</string>
   <string name="no">No</string>
   <string name="no_application">Cap</string>
-  <string name="no_info_provided">"No s'ha proporcionat informació d'emergència"</string>
+  <string name="no_info_provided">No s\'ha proporcionat informació d\'emergència</string>
   <string name="o_negative">O negatiu</string>
   <string name="o_positive">O positiu</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
@@ -236,20 +230,14 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="ok">D\'acord</string>
   <string name="organ_donor">Donant d\'òrgans</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
-  <string name="phone_type_and_phone_number">%1$s • %2$s</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
@@ -270,12 +258,9 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="screen_zoom_summary_large">Gran</string>
   <string name="screen_zoom_summary_small">Petit</string>
   <string name="screen_zoom_summary_very_large">Més gran</string>
-  <string name="search_menu_title">Cerca</string>
   <string name="select_application">Seleccioneu una aplicació</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
-  <string name="select_logpersist_dialog_title">Seleccioneu els registres de memòria intermèdia per emmagatzemar-los persistentment en el dispositiu</string>
-  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Establiu la implementació del WebView</string>
@@ -283,6 +268,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="select_webview_provider_toast_text">Aquesta opció ja no és vàlida. Torneu-ho a provar.</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
+  <string name="show_cpu_usage">Mostra l\'ús de la CPU</string>
+  <string name="show_cpu_usage_summary">Superposició en pantalla mostrant informació actual de la CPU</string>
   <string name="show_hw_layers_updates">Mostra les actualitzacions de les capes del maquinari</string>
   <string name="show_hw_layers_updates_summary">Il·lumina les capes del maquinari en verd en actualitzar-se</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
@@ -297,7 +284,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="tab_title_contacts">Contactes</string>
   <string name="tab_title_info">Informació</string>
-  <string name="tap_pencil">Si aquest és el vostre telèfon, toqueu la icona del llapis per afegir informació que es mostrarà aquí en cas d\'emergència</string>
   <string name="tether_settings_title_all">Ancoratge de xarxa i punt d\'accés portàtil</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
@@ -369,11 +355,11 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
-  <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
-  <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
+  <string name="wifi_no_internet">"No s'ha detectat accés a Internet, no s'hi tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
+  <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>

@@ -8,6 +8,7 @@
   <string name="enable_wifi_title">Activa el Wi-Fi</string>
   <string name="media_feature_projection">Pantalla de mirall</string>
   <string name="media_route_controller_disconnect">Desconnecta</string>
+  <string name="media_status_error">Error</string>
   <string name="media_status_started">S\'ha connectat</string>
   <string name="media_status_starting">S\'està connectant&#8230;</string>
   <string name="media_status_stopped">Aturat</string>

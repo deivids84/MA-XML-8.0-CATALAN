@@ -5,7 +5,6 @@
   <string name="app_label">Lector d\'HTML</string>
   <string name="app_name_which_call">Aplicació: %s</string>
   <string name="app_version_which_call">Versió de l\'aplicació:%s</string>
-  <string name="autoconnect">Autoconnexió</string>
   <string name="ime_privacy_policy">Trieu un teclat</string>
   <string name="license_host_unreachable">«No s\'ha pogut connectar a la xarxa. Per veure aquesta informació,
 aneu a %s»</string>
@@ -13,8 +12,8 @@ aneu a %s»</string>
   <string name="mibi_license">Condicions del servei Mi Credit</string>
   <string name="open_wifi_connect_summary">Toqueu per veure\'n els detalls.</string>
   <string name="open_wifi_connect_title">Connecta\'t a %1$s</string>
+  <string name="permdesc_accessDrm">Permet a l\'aplicació l\'accés a contingut protegit per DRM.</string>
   <string name="policy_name">Política: %s</string>
-  <string name="pre_installed_apps">Aplicacions preinstal·lades</string>
   <string name="settings_ad_loading">Un moment...</string>
   <string name="settings_ad_loading_unavailable">"Hi ha un problema en carregar."</string>
   <string name="settings_license_activity_loading">Un moment&#8230;</string>

@@ -40,11 +40,18 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="cta_declaration_title">Termes del Servei</string>
   <string name="default_hint">Cerca aplicacions, música, vídeos, llibres\u2026</string>
   <string name="device_settings_category_title">Esborrar les dreceres</string>
+  <string name="distance_unit_kilometer">km</string>
+  <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">S\'està obrint la cerca</string>
   <string name="google_app_label">Cerca de Google</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Suggeriments de la Cerca de Google</string>
   <string name="google_search_hint">Cerca de Google</string>
+  <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Cerca de Google</string>
+  <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Popular</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="local_app">Aplicacions</string>
   <string name="local_setting">Configuració</string>
@@ -59,9 +66,9 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="pull_to_input">Tireu cap abaix per mostrar la barra de cerca</string>
   <string name="recent_apps">Aplicacions recents</string>
   <string name="recent_apps_filter">"Amaga les aplicacions que no utilitzeu"</string>
-  <string name="recent_close_content">Voleu desactivar aquesta funció ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca</string>
+  <string name="recent_close_content">"Voleu desactivar aquesta funció ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca"</string>
   <string name="recent_close_title">Desactiva la característica</string>
-  <string name="recent_delete_content">Voleu ocultar aquestes aplicacions ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca</string>
+  <string name="recent_delete_content">"Voleu ocultar aquestes aplicacions ara? Podreu canviar això a Configuració &gt; Aplicacions instal·lades &gt; Cerca"</string>
   <string name="recent_delete_negative">Cancel·la</string>
   <string name="recent_delete_positive">D\'acord</string>
   <string name="recent_delete_title">Amaga aplicacions</string>
@@ -74,6 +81,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="remove_from_history">Voleu eliminar aquest element de l\'historial de cerca?</string>
   <string name="remove_from_history_failed">"No s'ha pogut eliminar l'element de l'historial."</string>
   <string name="search_apps">Cerca aplicacions</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
   <string name="search_button">Cerca</string>
   <string name="search_group_fold">​​Amaga</string>
   <string name="search_group_unfold">Més</string>
@@ -103,6 +111,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="switch_email">Correu</string>
   <string name="switch_file">Fitxers</string>
   <string name="switch_mms">Missatges</string>
+  <string name="switch_notes">Notes</string>
   <string name="switch_online">En línia</string>
   <string name="switch_prompt_ignore">Ignora</string>
   <string name="switch_prompt_set">Mostra les opcions</string>
@@ -115,6 +124,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="update_right_now">Actualitza ara</string>
   <string name="update_title">Actualització disponible</string>
   <string name="update_version_alpha">Alfa</string>
+  <string name="update_version_dev">Beta</string>
   <string name="update_version_stable">Estable</string>
   <string name="updated_title">MIUI està actualitzat</string>
   <string name="voice_search_hint_title">Proveu de dir:</string>

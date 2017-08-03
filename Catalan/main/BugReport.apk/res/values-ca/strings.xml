@@ -14,6 +14,9 @@
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
   <string name="bugreport_dump_start_notification_summary">Tardarà diversos minuts.</string>
   <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error&#8230;</string>
+  <string name="bugreport_tool_log">Crea un informe d\'error</string>
+  <string name="bugreport_tool_log_toast">Registre desat a %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error (tardarà prop d\'un minut)</string>
   <string name="close_feedback_main">​​Amaga</string>
   <string name="cta_cancel">Cancel·la</string>
   <string name="cta_confirm">D\'acord</string>
@@ -30,6 +33,7 @@
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
   <string name="err_type_appstore">Botiga d\'aplicacions</string>
+  <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Càmera</string>
   <string name="err_type_hardware">Maquinari</string>
   <string name="err_type_hardware_summary">Botons, càrrega, sensors, etc.</string>
@@ -44,6 +48,7 @@
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
   <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
@@ -59,6 +64,7 @@
   <string name="feedback_empty_report_list">Encara no hi ha informes</string>
   <string name="feedback_guess">La nostra suposició</string>
   <string name="feedback_history_remind_login_desc">"Inicieu sessió amb el vostre Compte Mi per veure els detalls i el progrés de l'informe"</string>
+  <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Clau JIRA: %s</string>
   <string name="feedback_package_log_failed">"No s'han pogut comprimir els registres"</string>
   <string name="feedback_phone_model_label">Model de telèfon</string>
@@ -101,6 +107,8 @@
   <string name="feedback_tracking">Segueix els problemes</string>
   <string name="feedback_version_label">Versió</string>
   <string name="feesback_list">Informes</string>
+  <string name="first_position">2#</string>
+  <string name="floor">%1$s#</string>
   <string name="from">de %1$s</string>
   <string name="goon_feedback_main">Continua</string>
   <string name="hint_feedback_main">Descriviu el problema</string>
@@ -111,6 +119,7 @@
   <string name="menu_copy">Copia</string>
   <string name="message_label">Missatge</string>
   <string name="michat_app_name">Suport en línia</string>
+  <string name="michat_artificial_customer_phone">4001005678</string>
   <string name="michat_artificial_customer_phone_dial_error">"Si no podeu trucar a la línia 400, marqueu %1$s utilitzant un telèfon diferent"</string>
   <string name="michat_artificial_customer_text">Personal de suport</string>
   <string name="michat_attach_image">Imatge</string>
@@ -173,11 +182,11 @@
   <string name="michat_wait_for_a_moment">Un moment, de seguida us ajudem!</string>
   <string name="michat_webview_title">Mostra els detalls</string>
   <string name="min_error">%1$s ha de ser més llarg.</string>
-  <string name="mobile_data_note_dialog_cancel">A l\'espera de Wi-Fi</string>
-  <string name="mobile_data_note_dialog_confirm">Puja</string>
-  <string name="mobile_data_note_dialog_content">L\'ús de dades mòbils per pujar registres pot generar càrrecs addicionals.</string>
-  <string name="mobile_data_note_dialog_content_with_file_size">La pujada de registres utilitzant la connexió de dades mòbils requerirà %s Mb de dades.</string>
-  <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
+  <string name="modem_tool_log">Recupera els registres del mòdem</string>
+  <string name="modem_tool_log_start">Inicia</string>
+  <string name="modem_tool_log_start_toast">Comença a abocar els registres del mòdem a %s</string>
+  <string name="modem_tool_log_stop">Atura</string>
+  <string name="modem_tool_log_stop_toast">Atura l\'abocament dels registres del mòdem de %s</string>
   <string name="module_communication">Comunicació</string>
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>
@@ -212,10 +221,12 @@
   <string name="network_unavailable_dialog_content">S\'enviarà l\'informe quan estigueu connectat.</string>
   <string name="network_unavailable_dialog_title">"No es pot connectar a la xarxa"</string>
   <string name="non_system_app_select">Aplicacions baixades</string>
+  <string name="nothing">--</string>
   <string name="open_feedback_main">Més</string>
   <string name="packaging_dialog_content">S\'està creant l\'informe&#8230;</string>
   <string name="permission_granted">%1$s permís concedit</string>
   <string name="pic_not_exist">"Aquesta imatge no existeix"</string>
+  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"L'informe, amb els registres d'error, s'enviarà als servidors de Mi."</string>
   <string name="plus_one_submit_dialog_not_show_again">Recorda la preferència</string>
   <string name="post_miui_bbs_failed">"No s'ha pogut publicar al fòrum"</string>
@@ -233,6 +244,7 @@
   <string name="save_pic_fail">"No s'ha pogut desar la imatge, comproveu la targeta SD"</string>
   <string name="save_pic_success">S\'ha desat la imatge a %s</string>
   <string name="screen_lock">Bloqueig de pantalla</string>
+  <string name="second_position">3#</string>
   <string name="section_description">Descripció</string>
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
@@ -276,6 +288,7 @@
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
+  <string name="topic_author">1#</string>
   <string name="try_again">Torneu a provar-ho</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
   <string name="warning_field_empty">Introduïu %1$s</string>

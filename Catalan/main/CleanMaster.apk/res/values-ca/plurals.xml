@@ -89,8 +89,4 @@
     <item quantity="other">"No ho ha fet servir durant %d anys"</item>
     <item quantity="one">"No ho ha fet servir durant %d any"</item>
   </plurals>
-  <plurals name="resutl_function_install_app_summary">
-    <item quantity="other">&lt;Data&gt;\"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicacions no s\'han utilitzat durant molt de temps, doneu-li un cop d\'ull.\"&lt;/Data&gt;</item>
-    <item quantity="one">&lt;Data&gt;\"&lt;font color=#ff0000 &gt;%d&lt;/font&gt; aplicació no s\'ha utilitzat durant molt de temps, doneu-li un cop d\'ull.\"&lt;/Data&gt;</item>
-  </plurals>
 </resources>

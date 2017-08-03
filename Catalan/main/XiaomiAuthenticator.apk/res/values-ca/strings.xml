@@ -40,6 +40,7 @@ En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti 
   <string name="decoding_exception">Excepció al descodificar</string>
   <string name="details_patternforgotten">"Reactivar：
 Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, Premi a \"Reactivar\""</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
   <string name="enter_account_label">Introduïu el nom del compte</string>
   <string name="enter_key_hint">Introdueixi la seva clau</string>
   <string name="enter_key_illegal_char">La clau conté un caràcter no vàlid</string>
@@ -50,6 +51,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="error_empty_secret">No es pot guardar el secret buit</string>
   <string name="error_exists">Aquest nom ja està en ús.</string>
   <string name="error_qr">El QR no es pot interpretar.</string>
+  <string name="error_title">Error</string>
   <string name="error_uri">Clau no reconeguda.</string>
   <string name="forget_password">Contrasenya oblidada</string>
   <string name="general_security_exception">Excepció de seguretat general</string>
@@ -98,11 +100,13 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="ok_button">D\'acord</string>
   <string name="open_camera_exception_dialog_content">Problemes amb la càmera. És possible que necessiteu apagar el dispositiu</string>
   <string name="open_camera_exception_dialog_title">fallada de càmera</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Projecte Open-source</string>
   <string name="original_pattern_tip">Si us plau introdueixi l\'anterior patró de bloqueig</string>
   <string name="password_error">Contraseña incorrecta.</string>
   <string name="password_forget">¿Olvidó la contraseña?</string>
   <string name="password_hint">Introduzca la contraseña</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Política de privadesa</string>
   <string name="progress_loading">Procesando&#8230;</string>
   <string name="remove_Xiaomi_account_dialog_message">Si elimineu aquest compte s\'eliminarà la capacitat de generar codis, però no es desactivarà la verificació en 2 passos. Això podria impedir-vos d\'accedir al compte. Abans d\'eliminar-lo desactiveu la verificació en 2 passos per a aquest compte, o assegureu-vos de tenir un alternativa per generar codis.</string>
@@ -127,6 +131,7 @@ Abans d\'eliminar-lo:
   <string name="success_reset_password">Contrasenya restablerta amb èxit</string>
   <string name="success_set_password">Contrasenya canviada correctament</string>
   <string name="summary_lockpattern">Requerir un único patrón de bloqueo para Crédito Mi</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Termes del servei</string>
   <string name="timesync_about_feature_preference_title">Quant a aquesta característica</string>
   <string name="timesync_about_feature_screen_details">"Si Vè. prem \"Sincronitza ara\", Authenticator intentarà sincronitzar el seu rellotge intern amb els servidors de Google. La configuració de Data i Hora del dispositiu no es canviaran. Authenticator no transmet cap dada personal o informació del seu compte mentre sincronitza el seu rellotge intern amb els servidors de Google. Per què això és útil? Authenticator genera codis de verificació 2-passos basats en 1) l'hora actual, i 2) un número secret conegut per l'aplicació i el servidor , si Authenticator i el servidor no coincideixen en quina hora és, els codis que genera l'aplicació no s'acceptaran quan vostè intenta iniciar sessió. Per defecte Authenticator utilitza els ajustos de Data i Hora del dispositiu, i en la majoria dels casos vostè serà capaç de generar codis vàlids assegurant-se que l'Hora, la data, i configuració de zona horària estiguin configurats correctament. No obstant això, quan es produeixen desajustos de temps, poden ser difícils de solucionar (especialment si utilitza temps proporcionat per xarxa o zones horàries)."</string>

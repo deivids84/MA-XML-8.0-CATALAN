@@ -116,8 +116,10 @@
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
   <string name="bookmark_title">Nom del marcador</string>
   <string name="bookmark_title_lable">Títol</string>
+  <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"Ja heu desat als marcadors aquest URL"</string>
   <string name="bookmark_url_can_not_null">Introduïu l\'adreça.</string>
+  <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"Aquest URL no és vàlid"</string>
   <string name="bookmarks_content_is_null">Sense marcadors</string>
   <string name="bookmarks_management">Marcadors</string>
@@ -156,6 +158,7 @@
   <string name="color_picker_button_cancel">Cancel·la</string>
   <string name="color_picker_button_cyan">Cian</string>
   <string name="color_picker_button_green">Verd</string>
+  <string name="color_picker_button_magenta">Magenta</string>
   <string name="color_picker_button_more">Més</string>
   <string name="color_picker_button_red">Vermell</string>
   <string name="color_picker_button_set">Estableix</string>
@@ -169,8 +172,15 @@
   <string name="comment_hint">Comentari</string>
   <string name="comment_menu">Comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
+  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
+  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+  <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
   <string name="contextmenu_copy">Copia</string>
   <string name="contextmenu_copylink">Copia l\'URL de l\'enllaç</string>
@@ -252,12 +262,14 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="download_dialog_file_length_nolength_txt">Un moment&#8230;</string>
   <string name="download_failed">"No s'ha pogut completar la baixada"</string>
   <string name="download_filter_all">Tot</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplicacions</string>
   <string name="download_filter_audio">Música</string>
   <string name="download_filter_image">Fotos</string>
   <string name="download_filter_others">Altres</string>
   <string name="download_filter_text">Fitxers</string>
   <string name="download_filter_video">Vídeos</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">S\'està baixant&#8230;</string>
   <string name="download_list_open_xl_ok">D\'acord</string>
   <string name="download_memory_info_avai">" disponible %s|"</string>
@@ -328,10 +340,12 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="go_supermarket_button">Vés</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
+  <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
   <string name="home_description">Inici</string>
+  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Elimina</string>
   <string name="homepage_get_location">Obtén la localització</string>
   <string name="homepage_get_location_failed">"No s'ha pogut obtenir la informació, escolliu una ciutat"</string>
@@ -361,6 +375,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="last_month">L\'últim mes</string>
   <string name="license_activity_title">Llicències WebView del sistema</string>
   <string name="loading_tips">Llisqueu cap avall per actualitzar</string>
+  <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
   <string name="low_memory_error">No es pot completar l\'operació anterior perquè hi ha poca memòria</string>
   <string name="low_memory_toast">"No es pot fer servir el Navegador perquè hi ha poca memòria"</string>
@@ -413,7 +428,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_btn_close">Tanca</string>
   <string name="miuichromium_error_page_btn_refresh">Actualitza</string>
   <string name="miuichromium_error_page_btn_report_issue">Informa d\'un problema</string>
-  <string name="miuichromium_error_page_description_no_connection" formatted="false">"No es pot connectar a la xarxa perquè la senyal és dolenta o la configuració de xarxa no és correcta. Comproveu els %s1paràmetres de la xarxa%s2 i torneu a provar-ho."</string>
   <string name="miuichromium_error_page_diagnose">Diagnòstic de la xarxa</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnòstic de la xarxa</string>
   <string name="miuichromium_error_page_diagnose_certificate">"No s'ha pogut verificar el protocol de xarxa"</string>
@@ -430,57 +444,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_network_hijack">"La xarxa actual no és segura"</string>
   <string name="miuichromium_error_page_network_off">Activeu la Wi-Fi o les dades mòbils</string>
   <string name="miuichromium_error_page_no_network">"No es pot connectar a la xarxa"</string>
-  <string name="miuichromium_error_page_problem_access_denied">S\'ha denegat l\'accés a %s0</string>
-  <string name="miuichromium_error_page_problem_cache_miss">Aquesta pàgina no es pot carregar des de la memòria cau</string>
-  <string name="miuichromium_error_page_problem_cannot_open_page">"No es pot obrir la pàgina"</string>
-  <string name="miuichromium_error_page_problem_cannot_reach_site">"No es pot accedir a aquest lloc"</string>
-  <string name="miuichromium_error_page_problem_connection_interrupted">La connexió s\'ha interromput</string>
-  <string name="miuichromium_error_page_problem_file_not_found">"No es pot trobar el fitxer"</string>
-  <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 ha tardat massa a respondre</string>
-  <string name="miuichromium_error_page_problem_network_access_denied">L\'accés a la xarxa està restringit</string>
-  <string name="miuichromium_error_page_problem_no_internet_connection">"No es pot connectar a Internet"</string>
-  <string name="miuichromium_error_page_problem_page_moved">Aquesta pàgina de %s0 pot haver-se mogut o eliminat</string>
-  <string name="miuichromium_error_page_problem_page_not_found">"No s'ha pogut trobar aquesta pàgina a %s0"</string>
-  <string name="miuichromium_error_page_problem_page_not_working">"Aquesta pàgina no funciona"</string>
-  <string name="miuichromium_error_page_problem_security_error">"Aquest lloc no pot proporcionar una connexió segura"</string>
-  <string name="miuichromium_error_page_problem_server_fault">%s0 no pot gestionar aquesta sol·licitud</string>
-  <string name="miuichromium_error_page_reason_bad_client_cert">" perquè %s0 no accepta el vostre certificat"</string>
-  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 no s'ajusta als estàndards de seguretat"</string>
-  <string name="miuichromium_error_page_reason_blocked_by_response">. %s0 ha bloquejat l\'accés</string>
-  <string name="miuichromium_error_page_reason_connection_closed">. %s0 ha interromput la connexió</string>
-  <string name="miuichromium_error_page_reason_connection_refused">. %s0 ha rebutjat la connexió</string>
-  <string name="miuichromium_error_page_reason_connection_reset">. La connexió s\'ha restablert</string>
-  <string name="miuichromium_error_page_reason_device_slept">" quan el dispositiu entri en repòs"</string>
-  <string name="miuichromium_error_page_reason_empty_response">" perquè %s0 no ha enviat cap dada"</string>
-  <string name="miuichromium_error_page_reason_invalid_address">. L\'adreça IP o el número de port són incorrectes</string>
-  <string name="miuichromium_error_page_reason_invalid_response">" perquè %s0 ha enviat una resposta no vàlida"</string>
-  <string name="miuichromium_error_page_reason_invalid_url">" perquè l'URL no és vàlid"</string>
-  <string name="miuichromium_error_page_reason_moved_or_deleted">. Pot haver-se mogut o eliminat</string>
-  <string name="miuichromium_error_page_reason_name_collision">. Aquest lloc a la intranet té el mateix URL que un lloc web extern</string>
-  <string name="miuichromium_error_page_reason_name_not_resolved">". No es pot trobar l'adreça DNS de %s0"</string>
-  <string name="miuichromium_error_page_reason_network_changed">" per un canvi a la xarxa"</string>
-  <string name="miuichromium_error_page_reason_proxy_error">. Hi ha algun problema amb el servidor intermediari, o l\'adreça del servidor intermediari no és correcta</string>
-  <string name="miuichromium_error_page_reason_site_unreachable">. No es pot accedir a %s0</string>
-  <string name="miuichromium_error_page_reason_timed_out">". Fa massa temps que %s0 no respon"</string>
-  <string name="miuichromium_error_page_reason_too_many_redirects">" perquè %s0 us ha redirigit massa vegades"</string>
-  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 està utilitzant un número de port perillós</string>
-  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 us està redirigint d\'una manera poc segura</string>
-  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utilitza un protocol no incompatible</string>
   <string name="miuichromium_error_page_reload">Actualitza</string>
   <string name="miuichromium_error_page_safe_network">Mode segur</string>
   <string name="miuichromium_error_page_server_error">Hi ha massa dispositius intentant connectar-se</string>
-  <string name="miuichromium_error_page_suggestion_check_app_proxy">Comproveu la configuració de les aplicacions de servidor intermediari instal·lades al dispositiu.</string>
-  <string name="miuichromium_error_page_suggestion_check_connetion">Comproveu la connexió a Internet.</string>
-  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restaura la seva %s1configuració APN%s2.</string>
-  <string name="miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Comproveu la seva %s1configuració del servidor intermediari%s2.</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1Configuració%s2 - Esborra les dades).</string>
-  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra la memòria cau i les galetes (%s1Configuració%s2 - Esborra les dades, la informació de compte es pot perdre).</string>
-  <string name="miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
-  <string name="miuichromium_error_page_suggestion_contact_admin">Contacteu amb el vostre administrador del sistema.</string>
-  <string name="miuichromium_error_page_suggestion_correct_url">"Comproveu l'adreça que heu introduït i proveu a utilitzar la URL correcta."</string>
-  <string name="miuichromium_error_page_suggestion_grant_permission">Torneu a carregar després de concedir el permís al navegador per accedir a Internet.</string>
-  <string name="miuichromium_error_page_suggestion_title">. Proveu això:</string>
   <string name="miuichromium_error_page_title">S\'ha produït un error</string>
   <string name="miuichromium_error_page_unknown_error">Vaja, alguna cosa ha anat malament</string>
   <string name="miuichromium_error_page_wlan">Activa la Wi-Fi</string>
@@ -491,6 +457,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_account_login_ok">Inicia la sessió</string>
   <string name="miuishare_account_need_activate">El compte Weibo s\'hauria de vincular amb el compte Mi. Voleu iniciar sessió al compte Mi?</string>
   <string name="miuishare_account_need_login">El compte Weibo s\'hauria de vincular amb el compte Mi actual. Voleu iniciar sessió per compartir-los?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_share_done">Compartit</string>
@@ -498,6 +465,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartició</string>
   <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
   <string name="month_picker_dialog_title">Estableix el mes</string>
   <string name="more_description">Menú</string>
@@ -594,6 +562,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_font_size_category">Mida del text de la pàgina web</string>
   <string name="pref_force_userscalable">Força el zoom</string>
   <string name="pref_force_userscalable_summary">"Anul·la la sol·licitud del lloc web per controlar el comportament del zoom"</string>
+  <string name="pref_general_title">General</string>
   <string name="pref_key_gesture_title">Botons i gestos</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
@@ -652,7 +621,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
-  <string name="qr_description">Escaneja el codi QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
@@ -660,7 +628,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
   <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
+  <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Buit</string>
+  <string name="quicklinks_management">Popular</string>
   <string name="quicklinks_most_visited">Afegeix a la pàgina d\'inici</string>
   <string name="quicklinks_most_visited_subtitle">Mostra els llocs visitats recentment en una pestanya nova</string>
   <string name="quicklinks_most_visited_title">Afegeix a la pàgina d\'inici</string>
@@ -690,6 +660,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa"</string>
   <string name="retry_download">Reintenta</string>
   <string name="return_to_homepage">Torna a la pàgina d\'inici</string>
+  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Cap</string>
   <string name="router_download_exist">Aquest fitxer ja existeix</string>
   <string name="router_download_failed">"No s'ha pogut baixar"</string>
@@ -717,15 +688,25 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="scanner_uninstalled_title">L\'escàner s\'ha desinstal·lat</string>
   <string name="sdcard_error">Comproveu la vostra targeta SD</string>
   <string name="search">Cerca</string>
+  <string name="search_baidu">Baidu</string>
+  <string name="search_bing">Bing</string>
   <string name="search_button_text">Vés</string>
+  <string name="search_dianping">Cate</string>
+  <string name="search_easou">Easou</string>
+  <string name="search_google">Google</string>
   <string name="search_hint">Cerca</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
   <string name="search_path_browser">Configuració/Aplicacions instal·lades/Navegador</string>
+  <string name="search_s139">139</string>
   <string name="search_settings_description">Marcadors i historial web</string>
   <string name="search_shipin">Vídeo</string>
+  <string name="search_sogou">Sogou</string>
+  <string name="search_taobao">Taobao</string>
   <string name="search_title_browser">Navegador</string>
   <string name="search_tupian">Imatge</string>
+  <string name="search_yahoo">Yahoo!</string>
+  <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Baixa-ho en la Botiga d\'Aplicacions</string>
   <string name="secureaccess">Canvia al mode segur</string>
   <string name="secureaccess_cancel">Ignora</string>
@@ -747,6 +728,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
+  <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Desa per una lectura fora de línia</string>
   <string name="ssl_bad_clock_date_settings">Configuració de data</string>
@@ -774,6 +756,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_btn_play">Reprodueix</string>
   <string name="suggest_access_btn_view">Mostra</string>
   <string name="suggest_access_item_album_songs">%d cançons</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
@@ -787,10 +770,14 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="tab_quicklinks">Pàgina d\'inici</string>
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
+  <string name="time_picker_dialog_hour_minute_separator">:</string>
+  <string name="time_picker_dialog_minute_second_separator">:</string>
+  <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Estableix l\'hora</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
+  <string name="unSwitchText">NO</string>
   <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
   <string name="unsecurity_url_toast">"Aquesta web no és segura"</string>
@@ -854,7 +841,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_edit">Edita</string>
   <string name="video_float_window">PopUp</string>
   <string name="video_float_window_playing">Reproduint vídeo</string>
-  <string name="video_float_window_text">Emergent</string>
+  <string name="video_float_window_text">PopUp</string>
   <string name="video_fragment_name_collections">Favorits</string>
   <string name="video_fragment_name_download">Vídeo offline</string>
   <string name="video_fragment_name_historys">Historial</string>
@@ -879,7 +866,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
   <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
-  <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>

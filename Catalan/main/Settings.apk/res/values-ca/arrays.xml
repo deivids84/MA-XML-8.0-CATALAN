@@ -246,6 +246,12 @@
     <item>Darrera vegada que es va fer servir</item>
     <item>Nom de l\'aplicació</item>
   </string-array>
+  <string-array name="wifi_eap_entries">
+    <item>PEAP</item>
+    <item>TLS</item>
+    <item>TTLS</item>
+    <item>PWD</item>
+  </string-array>
   <string-array name="wifi_peap_phase2_entries">
     <item>Cap</item>
     <item>MSCHAPV2</item>
@@ -272,6 +278,11 @@
     <item>PAP</item>
     <item>CHAP</item>
     <item>PAP o CHAP</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item>IPv4</item>
+    <item>IPv6</item>
+    <item>IPv4/IPv6</item>
   </string-array>
   <string-array name="bearer_entries">
     <item>Sense especificar</item>
@@ -472,6 +483,12 @@
     <item>Redueix l\'ombra</item>
     <item>En relleu</item>
     <item>Reduït</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item>25%</item>
+    <item>50%</item>
+    <item>75%</item>
+    <item>100%</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
     <item>Valors predeterminats</item>
@@ -744,6 +761,11 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>mode normal</item>
     <item>mode extrem</item>
   </string-array>
+  <string-array name="traffic_balance_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
   <string-array name="preferred_app_entries">
     <item>Llançador</item>
     <item>Marcador</item>
@@ -781,6 +803,15 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Xarxa d\'origen</item>
     <item>Totes les xarxes</item>
   </string-array>
+  <string-array name="agps_si_mode_entries">
+    <item>MSB</item>
+    <item>MSA</item>
+  </string-array>
+  <string-array name="agps_reset_type_entries">
+    <item>HOT</item>
+    <item>WARM</item>
+    <item>COLD</item>
+  </string-array>
   <string-array name="handy_mode_size_text_entries">
     <item>4,5 polzades</item>
     <item>4,0 polzades</item>
@@ -814,6 +845,15 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>2</item>
     <item>1</item>
     <item>Il·limitat</item>
+  </string-array>
+  <string-array name="max_number_values">
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>2007</item>
   </string-array>
   <string-array name="organized_locales">
     <item>al</item>
@@ -959,7 +999,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>vn</item>
     <item>ye</item>
     <item>zm</item>
-    <item>zw</item>
+    <item>ca</item>
   </string-array>
   <string-array name="common_password_business_names">
     <item>Bloqueig de pantalla</item>

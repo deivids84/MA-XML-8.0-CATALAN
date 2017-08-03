@@ -18,6 +18,7 @@
   <string name="app_category_photos">Fotografia</string>
   <string name="app_category_productivity">Productivitat</string>
   <string name="app_category_shopping">Compres</string>
+  <string name="app_category_social">Social</string>
   <string name="app_category_sport">Esports</string>
   <string name="app_category_tools">Eines</string>
   <string name="app_category_travel">Viatges</string>
@@ -63,6 +64,9 @@
   <string name="deselect_all">Anul·la tota la selecció</string>
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
+  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+  <string name="durationformatshort">%2$2d:%5$02d</string>
+  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
   <string name="editing_add_widget_tips">Editeu els ginys</string>
   <string name="editing_mode_enter_tip_text">Pessigueu per editar la pantalla d\'inici</string>
@@ -106,6 +110,7 @@
   <string name="gadget_google_search_label">Cerca de Google</string>
   <string name="gadget_load_error">S\'està carregant&#8230;</string>
   <string name="gadget_mtz_label">Ginys</string>
+  <string name="gadget_notes_label">Notes</string>
   <string name="gadget_photo_22_label">Imatge 2x2</string>
   <string name="gadget_photo_24_label">Imatge 4x2</string>
   <string name="gadget_photo_44_label">Imatge 4x4</string>
@@ -149,22 +154,17 @@
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
   <string name="menu_add">Afegeix</string>
-  <string name="menu_auto_fill">Omple automàticament</string>
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
-  <string name="menu_cell_setting">Configuració de pantalla</string>
   <string name="menu_customize">Configuració</string>
   <string name="menu_edit">Edita la pantalla d\'inici</string>
   <string name="menu_exit_scene">Surt del Mi Space</string>
   <string name="menu_item_add_item">Afegeix a la pantalla d\'inici</string>
   <string name="menu_launcher_setting">Configuració del llançador</string>
-  <string name="menu_lock">Pantalla de bloqueig</string>
-  <string name="menu_more">Més</string>
   <string name="menu_picktheme">Trieu un tema</string>
   <string name="menu_reset_scene">Restableix a disposició per defecte</string>
   <string name="menu_search">Cerca</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_sort">Ordena les aplicacions</string>
-  <string name="menu_trans_effect">Efecte de transició</string>
   <string name="menu_wallpaper">Fons de pantalla</string>
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
@@ -266,5 +266,4 @@
   <string name="widget_favorite_contacts_style">Canvia la mida</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Cerca</string>
-  <string name="widget_quick_function">Funció ràpida</string>
 </resources>

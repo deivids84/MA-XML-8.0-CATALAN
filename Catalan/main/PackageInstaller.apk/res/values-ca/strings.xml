@@ -3,6 +3,8 @@
 <resources>
   <string name="Parse_error_dlg_text">S\'ha produït un problema en analitzar el paquet.</string>
   <string name="abc_action_bar_home_description">Vés a l\'inici</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
@@ -108,6 +110,7 @@
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="cancel">Cancel·la</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
@@ -256,6 +259,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="lb_search_bar_hint_speech">Parleu per cercar</string>
   <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Parleu per cercar %1$s</string>
+  <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="loading">S\'està carregant&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
@@ -346,6 +350,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="settings">Configuració</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
+  <string name="show_cpu_usage">Mostra l\'ús de la CPU</string>
+  <string name="show_cpu_usage_summary">Superposició en pantalla mostrant informació actual de la CPU</string>
   <string name="show_hw_layers_updates">Mostra les actualitzacions de les capes del maquinari</string>
   <string name="show_hw_layers_updates_summary">Il·lumina les capes del maquinari en verd en actualitzar-se</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
@@ -356,6 +362,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
@@ -380,6 +387,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració del motor</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·la dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -426,6 +434,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wear_not_allowed_dlg_text">Les accions d\'instal·lar o desinstal·lar no s\'admeten a Wear.</string>
+  <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
@@ -438,10 +447,11 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
-  <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet">"No s'ha detectat accés a Internet, no s'hi tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
+  <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>

@@ -106,6 +106,7 @@
   <string name="record_list_cloud_fm">Gravacions de FM sincronitzades</string>
   <string name="record_list_fm">Gravacions de FM</string>
   <string name="record_mark_point">Marca %s</string>
+  <string name="record_name_hour">.</string>
   <string name="record_quliaty_preference_title">Qualitat de gravació</string>
   <string name="recording">Gravació</string>
   <string name="recording_quality_high">Qualitat alta</string>
@@ -145,6 +146,8 @@
   <string name="text_btn_recording">Enregistra</string>
   <string name="text_btn_wave">Ona</string>
   <string name="text_finish">Confirma</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s pot enregistrar durant uns %2$s</string>
   <string name="toast_uninstall_fileexplorer">"L'apli «Explorador» no està instal·lada"</string>
   <string name="wifi_recommended_body" formatted="false">Si utilitzeu la connexió de dades mòbils per baixar aquest fitxer (%s) augmentareu l\'ús de dades. Si se supera el límit de dades contractades, el vostre operador us pot cobrar càrrecs addicionals. Toqueu %s per iniciar aquesta baixada quan estigueu connectat a una xarxa Wi-Fi.</string>

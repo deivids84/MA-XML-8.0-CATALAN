@@ -7,6 +7,7 @@
   <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
+  <string name="add_contact">vCard</string>
   <string name="add_music">Afegeix música</string>
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
@@ -37,6 +38,7 @@
   <string name="audio_download_failed">"No es pot baixar l'àudio"</string>
   <string name="audio_message_expired">Aquest missatge de veu ha caducat.</string>
   <string name="audio_message_mx_offline">"No s'ha pogut baixar l'àudio. Missatges Mi està fora de línia o no disponible."</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">No hi ha connexió de xarxa o s\'ha instal·lat la SIM incorrecta. Instal·leu la targeta SIM des de la qual es va enviar el missatge i connecteu-vos a la xarxa.</string>
   <string name="back_to_message_list">Torna a la llista de missatges</string>
   <string name="batch_adding_progress_message">S\'està afegint&#8230;</string>
@@ -154,6 +156,7 @@
   <string name="error_state_text">L\'estat de fils i destinataris és inconsistent. Captureu un informe d\'errors i envieu-lo via http://go/droidanizer</string>
   <string name="error_timed_msg">Hora no vàlida.</string>
   <string name="ex_type_mx">Missatge Mi</string>
+  <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Mida màxima de missatge assolit.</string>
   <string name="exceed_message_size_limitation_add_slide">La mida del missatge no és suficient per afegir una diapositiva</string>
   <string name="exceed_message_text_limitation">Mida màxima de missatge de text assolit.</string>
@@ -171,10 +174,12 @@
   <string name="favorite_at_time">Destacat a les: %1s</string>
   <string name="fdn_check_failure">Només podeu enviar missatges als números de marcatge fix.</string>
   <string name="festival_sms_loading">S\'està carregant&#8230;</string>
+  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Creat:</string>
   <string name="file_size">Mida:</string>
   <string name="file_title">Nom:</string>
   <string name="file_width_height">Mida:</string>
+  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Missatge nou</string>
   <string name="forward_from">Reenvia des de:</string>
   <string name="forward_prefix">"RV: "</string>
@@ -204,7 +209,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment&#8230;</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
-  <string name="hybrid_service_unavailiable">Servei no disponible</string>
+  <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torneu-ho a provar</string>
   <string name="i_know">D\'acord</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
@@ -214,6 +219,7 @@
   <string name="invalid_destination">Adreça de destí no vàlida.</string>
   <string name="invalid_private_contact">Contacte invàlid</string>
   <string name="invalid_recipient_message">"Corregiu els destinataris o no rebran el missatge."</string>
+  <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Disseny de la presentació "</string>
   <string name="loading_all_messages">Un moment&#8230;</string>
   <string name="loading_conversations">Un moment&#8230;</string>
@@ -248,7 +254,6 @@
   <string name="message_number">Número de telèfon:</string>
   <string name="message_pending">S\'està enviant</string>
   <string name="message_queued">"Ara no es pot enviar el missatge. S'enviarà quan el servei estigui disponible."</string>
-  <string name="message_queued_second_space">"Ara mateix no es pot enviar el missatge. Activeu la xarxa de dades."</string>
   <string name="message_readed">Llegit</string>
   <string name="message_received">Rebut</string>
   <string name="message_rejected">Rebutjat</string>
@@ -261,18 +266,22 @@
   <string name="message_too_big_for_video">Missatge massa gran per inserir un vídeo.</string>
   <string name="message_type_label">"Escriviu: "</string>
   <string name="messagelist_sender_self">Jo</string>
+  <string name="mms">MMS</string>
   <string name="move_down">Baixa</string>
   <string name="move_up">Puja</string>
   <string name="msg_type_hint_mms">Missatge multimèdia (MMS)</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Missatge Mi</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Missatge de text</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Feu lliscar avall per llegir més</string>
   <string name="msglist_more_refreshing">S\'està actualitzant&#8230;</string>
   <string name="msglist_no_more_to_refresh">Ja està actualitzat</string>
   <string name="msglist_release_to_more">Deixeu anar per veure\'n més</string>
   <string name="multimedia_message">Missatge multimèdia</string>
   <string name="multimedia_notification">Notificació de missatge multimèdia</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_allow_notice">La vostra operadora podria cobrar-li càrrecs addicionals en enviar un SMS per tal d\'activar els serveis de veu i text de franc.</string>
   <string name="mx_activate_dlg_title">Activació de Missatge Mi</string>
   <string name="mx_activate_dlg_title_ex">Activació de Massatges i Veu Mi</string>
@@ -353,6 +362,7 @@
   <string name="open_url_with_web">Voleu obrir aquesta URL al navegador?</string>
   <string name="over_max_mms_size">L\'MMS és massa gran.</string>
   <string name="overwrite_edited_content">"Es sobreescriurà el contingut editat."</string>
+  <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Aquesta resposta s\'eliminarà.</string>
   <string name="phrase_empty">No hi ha resposta</string>
   <string name="phrase_from">Des de %1s</string>
@@ -426,6 +436,7 @@
   <string name="priority_high">Alta</string>
   <string name="priority_label">"Prioritat: "</string>
   <string name="priority_low">Baixa</string>
+  <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">"No es poden enviar missatges en mode convidat"</string>
   <string name="privacy_password_message1">La contrasenya de privacitat funciona per a missatges, fotos, notes i carpetes ocultes.</string>
   <string name="privacy_password_message2">Utilitzeu la contrasenya de privacitat. Funciona per a missatges, fotos, notes i carpetes ocultes.</string>
@@ -445,6 +456,7 @@
   <string name="rate_limit_surpassed">D\'acord</string>
   <string name="received_at_time">Rebut a les: %1s</string>
   <string name="received_label">"Rebut: "</string>
+  <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Destinatari: "</string>
   <string name="recipients_over_size">Hi ha massa destinataris.</string>
   <string name="recording_failed">"No es pot enregistrar"</string>
@@ -515,6 +527,7 @@
   <string name="send_signature_confirm_dialog_title">Envia el missatge</string>
   <string name="send_sms">Envia el missatge</string>
   <string name="send_to">Per:</string>
+  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Enviat a les %1s</string>
   <string name="sent_label">"Enviat: "</string>
   <string name="service_message_not_found">El missatge ha caducat o no està disponible</string>
@@ -539,6 +552,8 @@
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slide_up_to_cancel">Feu lliscar amunt per cancel·lar</string>
   <string name="slideshow_activity">Presentació</string>
+  <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Contingut:</string>
   <string name="sms_full_body">"Missatge entrant rebutjat: no hi ha prou espai en aquest dispositiu."</string>
   <string name="sms_full_title">Memòria de missatges de text completa</string>
@@ -553,6 +568,7 @@
   <string name="snippet_picture">[imatge]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notificacions</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
   <string name="status_failed">Sense èxit</string>
@@ -568,7 +584,9 @@
   <string name="storage_dialog_attachments">Adjunts en l\'MMS:</string>
   <string name="storage_dialog_available_space">Espai disponible:</string>
   <string name="storage_dialog_database">Base de dades:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Mida de l\'MMS:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Límits d\'emmagatzematge</string>
   <string name="storage_limits_message">Voleu limitar el número de missatges que deseu per conversa?</string>
   <string name="storage_limits_setting">Estableix límits</string>
@@ -605,6 +623,7 @@
   <string name="type_picture">imatge</string>
   <string name="type_to_compose_text_enter_to_send">Escriviu el missatge</string>
   <string name="type_to_compose_text_or_leave_blank">Escriviu el missatge o deixi\'l en blanc</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
   <string name="undelivered_msg_dialog_body">"No es pot enviar aquest missatge.
 Intents realitzats: %s"</string>
@@ -616,12 +635,18 @@ Intents realitzats: %s"</string>
   <string name="unstick_conversation">Allibera la conversa actual</string>
   <string name="unsticked_conversation">Conversa alliberada</string>
   <string name="unsupported_media_format">El format %1$s no està suportat.</string>
-  <string name="url_fraud_dangerous_alert">La pàgina web a la que esteu intentant accedir pot ser perillosa. Possiblement podria malmetre el dispositiu i les dades. Voleu accedir a %s de totes maneres?</string>
-  <string name="url_fraud_risky_alert">La pàgina web a la que esteu intentant accedir pot ser perillosa. Voleu accedir a %s de totes maneres?</string>
+  <string name="url_fraud_dangerous_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Possiblement podria malmetre el dispositiu i les dades. Voleu accedir a %s de totes maneres?"</string>
+  <string name="url_fraud_risky_alert">"La pàgina web a la que esteu intentant accedir pot ser perillosa. Voleu accedir a %s de totes maneres?"</string>
   <string name="url_fraud_title">El lloc web pot ser fals</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
+  <string name="user_agreement1">Llegiu els termes aplicables acuradament abans d\'instal·lar programari addicional o fer servir aquest producte.</string>
+  <string name="user_agreement2">Termes del servei</string>
+  <string name="user_agreement3">" i "</string>
+  <string name="user_agreement4">Política de privacitat</string>
+  <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
+  <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>
